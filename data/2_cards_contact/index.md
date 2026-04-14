@@ -1,5 +1,5 @@
 ---
-uuid: 115cdede-a4b5-4d16-af16-434dce7dbf03
+uuid: a9ffafa1-55d7-4a8b-b271-bfe303f4acd8
 title: "Contact"
 ---
  Nous contacter au labo@sorbonne-universite.fr ou au XX XX XX XX XX.
