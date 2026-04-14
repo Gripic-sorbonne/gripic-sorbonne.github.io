@@ -14,15 +14,15 @@ abstract: ""
 
 ## Titre
 
- node-evenement-2936
+node-evenement-2936
 
 ## Type de contenu
 
- Colloque
+Colloque
 
 ## Groupe
 
- Enfance et histoire : cultures et pratiques enfantines du passé
+Enfance et histoire : cultures et pratiques enfantines du passé
 
 ## Date affichée
 
