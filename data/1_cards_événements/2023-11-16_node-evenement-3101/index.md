@@ -1,7 +1,8 @@
 ---
 uuid: f76bf5bb-bad8-487f-bba2-6017a65be419
 title: "node-evenement-3101"
-author: "Juliette Charbonneaux"
+author: 
+  - "Juliette Charbonneaux"
 abstract: "Dispositifs d'Europe, dispositifs européens"
 ---
 
