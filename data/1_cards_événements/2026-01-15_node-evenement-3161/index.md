@@ -1,8 +1,9 @@
 ---
-uuid: 517d69aa-4a3d-4df6-9e4c-74f9f961cb94
+uuid: 26fe2624-802a-4345-b31f-4417ac9bfda5
 title: "node-evenement-3161"
 author: "Nelly Quemener, Marco dell Omodarme, Krista Faurie"
-abstract: ""
+event: False
+abstract: "''"
 ---
 
 ![Picture for node-evenement-3161]()

@@ -1,8 +1,9 @@
 ---
-uuid: 0cc5f254-0451-4d9b-9252-774608ae7c8a
+uuid: 724d52de-fa94-4038-82aa-459bbba1c2a0
 title: "node-evenement-2936"
 author: "Emmanuelle Fantin et Julien Tassel"
-abstract: ""
+event: False
+abstract: "''"
 ---
 
 ![Picture for node-evenement-2936]()

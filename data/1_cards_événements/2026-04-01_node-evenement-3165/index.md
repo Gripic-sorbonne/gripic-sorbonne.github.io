@@ -1,8 +1,9 @@
 ---
-uuid: 1bec7b87-3a7c-40b3-80ad-b2ed45349986
+uuid: b0fb388c-0366-4d54-b329-2e247986b4b5
 title: "node-evenement-3165"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
-abstract: "Enjeux, questionnnements et perpectives"
+event: False
+abstract: "'Enjeux, questionnnements et perpectives'"
 ---
 
 ![Picture for node-evenement-3165]()

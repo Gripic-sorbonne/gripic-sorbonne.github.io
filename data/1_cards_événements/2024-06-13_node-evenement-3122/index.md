@@ -1,8 +1,9 @@
 ---
-uuid: bd2e79e7-b922-47f5-8352-bde95e1d16d1
+uuid: 742a3a17-2a6a-4f74-bcab-732818ec4c9b
 title: "node-evenement-3122"
 author: "Virginie JULLIARD, Nelly Quemener"
-abstract: ""
+event: False
+abstract: "''"
 ---
 
 ![Picture for node-evenement-3122]()

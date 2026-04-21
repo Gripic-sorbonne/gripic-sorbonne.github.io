@@ -1,8 +1,9 @@
 ---
-uuid: 878685e5-db28-4c84-8891-a70ea02fa3b4
+uuid: 06967250-ab81-432e-a01a-207ec9e18709
 title: "node-evenement-3047"
 author: "Sevilay Celenk"
-abstract: ""
+event: False
+abstract: "''"
 ---
 
 ![Picture for node-evenement-3047]()
