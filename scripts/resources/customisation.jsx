@@ -1,5 +1,10 @@
 import * as React from 'react'
 
+export const Introduction = () => { return (
+    <div className="landing-block text">
+    </div>
+)}
+
 export const Footer = () => (
     <footer id="footer">
         <div className="footer-block">
