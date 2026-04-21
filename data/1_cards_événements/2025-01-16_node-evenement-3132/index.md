@@ -1,8 +1,7 @@
 ---
-uuid: 7829d2b8-2f07-457c-abcc-5a4976337ece
+uuid: afb131e7-4848-4b6f-9dd5-b319f015026d
 title: "node-evenement-3132"
 author: "Rym Gerwig- Nelly Quemener"
-event: true
 abstract: ""
 ---
 

@@ -1,8 +1,7 @@
 ---
-uuid: bf80204e-3f53-4f3c-a801-de3625c58dc1
+uuid: 0cc5f254-0451-4d9b-9252-774608ae7c8a
 title: "node-evenement-2936"
 author: "Emmanuelle Fantin et Julien Tassel"
-event: true
 abstract: ""
 ---
 
@@ -14,15 +13,15 @@ abstract: ""
 
 ## Titre
 
-node-evenement-2936
+ node-evenement-2936
 
 ## Type de contenu
 
-Colloque
+ Colloque
 
 ## Groupe
 
-Enfance et histoire : cultures et pratiques enfantines du passé
+ Enfance et histoire : cultures et pratiques enfantines du passé
 
 ## Date affichée
 

@@ -1,8 +1,7 @@
 ---
-uuid: d11d296f-e155-4ea3-9188-7a953a5a805a
+uuid: b7da1506-ccf9-4cf5-a5d9-47026f727120
 title: "node-evenement-3125"
 author: "Sophie Corbille - Guillaume Pinson"
-event: true
 abstract: ""
 ---
 

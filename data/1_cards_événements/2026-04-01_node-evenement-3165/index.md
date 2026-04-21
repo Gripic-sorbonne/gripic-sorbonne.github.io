@@ -1,8 +1,7 @@
 ---
-uuid: 065ed124-e934-48df-9cd6-9a38dfd31147
+uuid: 1bec7b87-3a7c-40b3-80ad-b2ed45349986
 title: "node-evenement-3165"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
-event: true
 abstract: "Enjeux, questionnnements et perpectives"
 ---
 

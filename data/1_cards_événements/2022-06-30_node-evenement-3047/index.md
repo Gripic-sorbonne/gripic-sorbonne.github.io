@@ -1,8 +1,7 @@
 ---
-uuid: b8b3ddd7-4dde-4f6c-8a80-fa2a16f591a5
+uuid: 878685e5-db28-4c84-8891-a70ea02fa3b4
 title: "node-evenement-3047"
 author: "Sevilay Celenk"
-event: true
 abstract: ""
 ---
 
