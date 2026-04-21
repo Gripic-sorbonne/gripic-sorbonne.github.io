@@ -25,7 +25,6 @@ def make_yaml_header_event(title: str, author: str, abstract: str) -> str:
             f"uuid: {uuid.uuid4()}\n" +
             f"title: \"{title}\"\n" +
             f"author: \"{author}\"\n" +
-            f"event: true\n" +
             f"abstract: \"{abstract}\"\n" +
             f"---\n\n")
 
