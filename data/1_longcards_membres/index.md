@@ -1,5 +1,5 @@
 ---
-uuid: f5a7684c-b0f4-4b37-a86a-0efee0533e85
+uuid: bfa176f4-2481-464e-98a3-569be204a4c1
 title: "Membres"
 ---
  Les membres du laboratoire.
