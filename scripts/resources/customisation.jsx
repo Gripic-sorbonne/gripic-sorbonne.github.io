@@ -8,7 +8,9 @@ export const Introduction = () => { return (
 export const Footer = () => (
     <footer id="footer">
         <div className="footer-block">
-            <p>LABO - Site statique pour le laboratoire</p>
+            <p>Site du Groupe de
+recherches interdisciplinaires sur les processus d'information et de
+communication (GRIPIC, UR nº 1498) </p>
             <p>Faculté des Lettres de Sorbonne Université</p>
             <a href='https://lettres.sorbonne-universite.fr/'>
                 <svg className="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.93 198.34">
@@ -17,9 +19,8 @@ export const Footer = () => (
             </a>
         </div>
         <div className="footer-block">
-            <p> Pour nous rendre visite : Maison de la Recherche, 28 rue Serpente,
-                75006 Paris, Bureau S007.
+            <p> Pour nous rendre visite : Gripic (CELSA Sorbonne Université), 77, rue de Villiers. 92200 Neuilly sur-Seine
             </p>
-            <p>Pour nous contacter : <a href="mailto:le-mail-de-mon-labo@sorbonne-universite.fr">le-mail-de-mon-labo@sorbonne-universite.fr</a></p>
+            <p>Pour nous contacter : <a href="contact@gripic.fr">contact@gripic.fr</a></p>
         </div>
     </footer>)
