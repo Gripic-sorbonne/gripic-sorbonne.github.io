@@ -1,62 +1,38 @@
 ---
-uuid: 7af34024-3b91-4344-a438-556d9c14b424
+uuid: 154c0a46-c0fd-4f1c-bf29-17ee26ef64ed
 prettyName: RymKyreche
 
 title: Rym Kyreche
-abstract: PRCE
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  21
 
-## Type profil
+## Prénom
 
- Chercheur GRIPIC
+ Rym
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations
+ Kyreche
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/rym-kyreche
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/rym-kyreche
-
-## Slug profil
-
- rym-kyreche
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

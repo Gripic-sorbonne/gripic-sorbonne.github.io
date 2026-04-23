@@ -1,74 +1,38 @@
 ---
-uuid: dad06610-6120-44e3-b99c-0e08bc859834
+uuid: 61f5adfe-ed54-4e88-8e08-e9319bb996cc
 prettyName: PergiaGkouskou
 
 title: Pergia Gkouskou
-abstract: Chef du département "Métiers du Multimédia et de l'Internet", UCA
+abstract: Maître de conférences en sciences de l'information et de la communication
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/portrail-pergia-6-copie.jpg?itok=Kfv01uBE)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  6
 
-## Statut / titre
+## Prénom
 
- Maître de conférences en sciences de l'information et de la communication
+ Pergia
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Gkouskou
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pergia-gkouskou-giannakou
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pergia-gkouskou-giannakou
-
-## Slug profil
-
- pergia-gkouskou-giannakou
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

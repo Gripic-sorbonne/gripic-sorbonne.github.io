@@ -1,70 +1,38 @@
 ---
-uuid: 873ceae9-bedb-4f13-8625-aeed3eca3cc6
+uuid: 67aba53b-49cc-44a1-aa6e-a3b67eba3808
 prettyName: IdilBasural
 
 title: Idil Basural
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/s200-idil.basural-ergen.jpg?itok=CfDI6EL7)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  6
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Idil
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Basural
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/idil-basural
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/idil-basural
-
-## Slug profil
-
- idil-basural
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

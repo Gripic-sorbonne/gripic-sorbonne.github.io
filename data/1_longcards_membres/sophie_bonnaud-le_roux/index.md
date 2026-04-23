@@ -1,74 +1,38 @@
 ---
-uuid: 4acf61f0-a4d6-4750-9849-4e469c76a8b8
+uuid: bc12d3ad-96c5-42ae-ac45-63d97d32c0b0
 prettyName: SophieBONNAUDLEROUX
 
 title: Sophie BONNAUD-LE ROUX
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/autopgdnoirblanc.png?itok=65RAXPcH)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  10
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Sophie
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ BONNAUD-LE ROUX
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
-
- 4
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/sophie-bonnaud-roux
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/sophie-bonnaud-roux
-
-## Slug profil
-
- sophie-bonnaud-roux
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

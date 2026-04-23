@@ -1,70 +1,38 @@
 ---
-uuid: bb9ac407-13ff-48d0-8649-f2dc75995725
+uuid: cc4915b1-6f0a-4e3e-b1c8-1e1844a10141
 prettyName: HervéDemailly
 
 title: Hervé Demailly
-abstract: 
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/rv.jpg?itok=LWHqDRa-)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  12
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Hervé
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Demailly
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/herve-demailly
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/herve-demailly
-
-## Slug profil
-
- herve-demailly
-
-## Alt photo
-
- Photo d'Hervé Demailly
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,70 +1,38 @@
 ---
-uuid: 0bb1d8f6-14cf-404e-baf1-f8078eb6b2f1
+uuid: f840400d-5f3a-4279-9da7-2fa2bae643c5
 prettyName: YuwenZHANG
 
 title: Yuwen ZHANG
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photoyuwenz.jpg?itok=iaUxCvYb)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  42
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Yuwen
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ ZHANG
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/yuwen-zhang
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/yuwen-zhang
-
-## Slug profil
-
- yuwen-zhang
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

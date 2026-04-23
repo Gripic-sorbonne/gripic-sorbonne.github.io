@@ -1,62 +1,38 @@
 ---
-uuid: 1f23266e-56fa-40d7-893f-9d8347de40f6
+uuid: 40dc0093-7ac8-448c-90ad-aa13c6e01a68
 prettyName: C.BriceAngeloDan
 
 title: C. Brice Angelo Dan
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  2
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ C. Brice Angelo
 
-## Thématiques (texte source)
+## Nom
 
- Espace public, politique, genre
+ Dan
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Espace public, politique, genre
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/c-brice-angelo-dan
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/c-brice-angelo-dan
-
-## Slug profil
-
- c-brice-angelo-dan
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

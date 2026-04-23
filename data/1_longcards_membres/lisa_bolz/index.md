@@ -1,62 +1,38 @@
 ---
-uuid: 89a4a6b9-1dc1-4aa3-9179-235bde813ef8
+uuid: 0527f6f6-49c6-4133-a87f-807315a818d3
 prettyName: LisaBolz
 
 title: Lisa Bolz
-abstract: Maître de conférences
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  6
 
-## Type profil
+## Prénom
 
- Chercheur GRIPIC
+ Lisa
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Bolz
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/lisa-bolz
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/lisa-bolz
-
-## Slug profil
-
- lisa-bolz
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

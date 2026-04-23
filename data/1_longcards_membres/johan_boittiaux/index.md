@@ -1,66 +1,38 @@
 ---
-uuid: 89ee95b6-a08a-435e-ab65-00b3145c00d7
+uuid: 01f48854-5042-4cb9-8d9c-5521492215e7
 prettyName: JohanBoittiaux
 
 title: Johan Boittiaux
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/johanboittiaux.jpg?itok=FTUgx2uC)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  8
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Johan
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations
+ Boittiaux
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/johan-boittiaux
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/johan-boittiaux
-
-## Slug profil
-
- johan-boittiaux
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

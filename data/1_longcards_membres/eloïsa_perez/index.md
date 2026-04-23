@@ -1,62 +1,38 @@
 ---
-uuid: 5516b7cc-7f37-44fa-9a35-abb21c57e2a5
+uuid: 0a3e0c20-415e-474d-a73a-82f7e0b335a1
 prettyName: EloïsaPerez
 
 title: Eloïsa Perez
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  32
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Eloïsa
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Perez
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/eloisa-perez
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/eloisa-perez
-
-## Slug profil
-
- eloisa-perez
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

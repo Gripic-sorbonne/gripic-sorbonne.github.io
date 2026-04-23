@@ -1,70 +1,38 @@
 ---
-uuid: 4ab8c6d1-2b97-4faf-b6dc-93af08e300a9
+uuid: e25638d5-d67a-44a8-be7d-42ae6bcf7704
 prettyName: CassioQueirozMagalhaesCampos
 
 title: Cassio Queiroz Magalhaes Campos
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/15541503-10154839593713953-5309079045481433910-n.jpg?itok=ylm9Xw-p)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  33
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Cassio
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Enjeux de communication et relations de travail
+ Queiroz Magalhaes Campos
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/cassio-queiroz-magalhaes-campos
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/cassio-queiroz-magalhaes-campos
-
-## Slug profil
-
- cassio-queiroz-magalhaes-campos
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

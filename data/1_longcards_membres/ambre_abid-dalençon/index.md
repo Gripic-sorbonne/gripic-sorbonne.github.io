@@ -1,70 +1,38 @@
 ---
-uuid: 8cc48f75-67f9-4a0c-8ac4-180a6cbb997d
+uuid: 231db713-0e6f-4306-ab95-9340a02648d8
 prettyName: AmbreAbidDalençon
 
 title: Ambre Abid-Dalençon
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/296a7058-celsa.jpg?itok=vIcpEIcf)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  1
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Ambre
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Abid-Dalençon
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/ambre-abid-dalencon
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/ambre-abid-dalencon
-
-## Slug profil
-
- ambre-abid-dalencon
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

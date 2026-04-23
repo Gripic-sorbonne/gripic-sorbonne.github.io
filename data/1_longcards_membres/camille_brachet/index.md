@@ -1,66 +1,38 @@
 ---
-uuid: 3bc30446-efd9-4f96-84ce-84c4961a4bdb
+uuid: 65dcaec3-abff-4edc-b928-30f0d536b5c4
 prettyName: CamilleBrachet
 
 title: Camille Brachet
-abstract: 
+abstract: Maîtresse de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  2
 
-## Statut / titre
+## Prénom
 
- Maîtresse de conférences
+ Camille
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Brachet
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/camille-brachet
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/camille-brachet
-
-## Slug profil
-
- camille-brachet
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

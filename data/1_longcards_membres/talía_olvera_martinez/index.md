@@ -1,62 +1,38 @@
 ---
-uuid: e648885b-f4e7-421c-8253-643a9100b877
+uuid: 8b9f0a07-2314-43ff-ad19-5a04678dcaa5
 prettyName: TalíaOlveraMartinez
 
 title: Talía Olvera Martinez
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  29
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Talía
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Olvera Martinez
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/talia-olvera-martinez
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/talia-olvera-martinez
-
-## Slug profil
-
- talia-olvera-martinez
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

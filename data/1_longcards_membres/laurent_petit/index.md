@@ -1,66 +1,38 @@
 ---
-uuid: d21518bc-d9c5-4148-9b02-30e280b7e352
+uuid: b647de77-dcdb-4dc1-9db6-706f40c567b2
 prettyName: LaurentPetit
 
 title: Laurent Petit
-abstract: 
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/espe1-laurent-petitv4-hd3.jpg?itok=NpqYarii)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  27
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Laurent
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Petit
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines
-
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/laurent-petit
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/laurent-petit
-
-## Slug profil
-
- laurent-petit
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

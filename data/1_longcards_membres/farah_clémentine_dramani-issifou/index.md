@@ -1,70 +1,38 @@
 ---
-uuid: 18f748b8-58fc-40d0-8d79-2b50495b53b8
+uuid: 0d41510a-2db3-49c8-8d08-998b81010537
 prettyName: FarahClémentineDramaniIssifou
 
 title: Farah Clémentine Dramani-Issifou
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  19
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Farah
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ Clémentine Dramani-Issifou
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/farah-clementine-dramani-issifou
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/farah-clementine-dramani-issifou
-
-## Slug profil
-
- farah-clementine-dramani-issifou
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,66 +1,38 @@
 ---
-uuid: fe781ae5-17c9-433d-8393-5c3c86c9ed65
+uuid: 77e5fbfe-7909-4be7-b898-b01a4ca127fd
 prettyName: ThomasGrignon
 
 title: Thomas Grignon
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/capture.jpg?itok=wKTxwXkH)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  23
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Thomas
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Grignon
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/thomas-grignon
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/thomas-grignon
-
-## Slug profil
-
- thomas-grignon
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

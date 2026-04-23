@@ -1,82 +1,38 @@
 ---
-uuid: 1b9ca864-aa1e-4da4-bb0a-64c0b3759383
+uuid: efacd98d-c089-431b-9760-08c3860e0c37
 prettyName: JulienTassel
 
 title: Julien Tassel
-abstract: 
+abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  32
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Julien
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Tassel
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre ; Enjeux de communication et relations de travail
-
-## Nb thématiques
-
- 5
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/julien-tassel
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/julien-tassel
-
-## Slug profil
-
- julien-tassel
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,66 +1,38 @@
 ---
-uuid: 97e43b3f-7c78-4797-a348-ab1ea620bbcd
+uuid: 8455586a-5624-4a44-ae7d-d599ca83559c
 prettyName: EmelineSeignobos
 
 title: Emeline Seignobos
-abstract: chargée de cours
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  14
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Emeline
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Seignobos
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/emeline-seignobos
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/emeline-seignobos
-
-## Slug profil
-
- emeline-seignobos
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,86 +1,38 @@
 ---
-uuid: 038583c7-52eb-4258-bfb4-0153c0272c0d
+uuid: 31b0af7a-9c7b-4d21-aecf-4bf41dd79f02
 prettyName: OlivierAïm
 
 title: Olivier Aïm
-abstract: Responsable de la Licence du Celsa
+abstract: Maître·sse de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/oaim.jpg?itok=lVoNQh9y)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  4
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Olivier
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Aïm
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre ; Enjeux de communication et relations de travail
-
-## Nb thématiques
-
- 5
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/olivier-aim
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/olivier-aim
-
-## Slug profil
-
- olivier-aim
-
-## Alt photo
-
- Photo de Olivier Aïm
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

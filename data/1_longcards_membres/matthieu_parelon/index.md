@@ -1,66 +1,38 @@
 ---
-uuid: 28a9c7fc-ded9-4672-bb0c-c4389c687450
+uuid: 644b4ba6-7f47-4b27-9af0-6827a439da01
 prettyName: MatthieuParelon
 
 title: Matthieu Parelon
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  30
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Matthieu
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Parelon
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/matthieu-parlons
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/matthieu-parlons
-
-## Slug profil
-
- matthieu-parlons
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

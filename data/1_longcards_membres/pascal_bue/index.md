@@ -1,70 +1,38 @@
 ---
-uuid: cecfe254-baea-4a80-a221-eb430c610f9e
+uuid: af1b153a-a34e-453a-9698-56ac3fd5ddf9
 prettyName: PascalBue
 
 title: Pascal Bue
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/img-1506.jpg?itok=ls9RN1wp)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  14
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Pascal
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ Bue
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pascal-bue
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pascal-bue
-
-## Slug profil
-
- pascal-bue
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,70 +1,38 @@
 ---
-uuid: 6bbfb095-5fdc-4682-b2c8-28a0f1bf1200
+uuid: 382588fa-a8e5-4f15-b13e-a12a8ca5cc66
 prettyName: LauraVerquere
 
 title: Laura Verquere
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  41
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Laura
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Verquere
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/laura-verquere
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/laura-verquere
-
-## Slug profil
-
- laura-verquere
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

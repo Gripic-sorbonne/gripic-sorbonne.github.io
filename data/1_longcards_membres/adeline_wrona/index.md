@@ -1,74 +1,38 @@
 ---
-uuid: af918a0b-02cc-4847-bd6f-68b17b632bc8
+uuid: f24c9387-b42b-4524-8342-da4dbf1434aa
 prettyName: AdelineWrona
 
 title: Adeline Wrona
-abstract: Directrice de l'École doctorale Concepts et langages (ED 433). de la Faculté des Lettres de Sorbonne Université
+abstract: Professeure des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/adelinewrona2.jpg?itok=MKbj0I5H)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  3
 
-## Statut / titre
+## Prénom
 
- Professeure des universités
+ Adeline
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Wrona
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/adeline-wrona
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/adeline-wrona
-
-## Slug profil
-
- adeline-wrona
-
-## Alt photo
-
- Photo d'Adeline Wrona
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,66 +1,38 @@
 ---
-uuid: f0e54e72-d2f9-4ef4-90a2-c1b946e42257
+uuid: 82e17e83-e985-424e-adee-89e560f26c4e
 prettyName: AlexisLévrier
 
 title: Alexis Lévrier
-abstract: 
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/alexislevrier.jpeg?itok=MqcrS7b3)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  9
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Alexis
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Lévrier
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/alexis-levrier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/alexis-levrier
-
-## Slug profil
-
- alexis-levrier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

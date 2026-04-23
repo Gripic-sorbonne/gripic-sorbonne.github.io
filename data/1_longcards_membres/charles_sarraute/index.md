@@ -1,62 +1,38 @@
 ---
-uuid: db026159-5c69-44b7-ab0a-7cd1147e68ae
+uuid: 7ff3381e-ca85-45b3-b27a-e6f7a9bc1c94
 prettyName: CharlesSarraute
 
 title: Charles Sarraute
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  36
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Charles
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Sarraute
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/charles-sarraute
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/charles-sarraute
-
-## Slug profil
-
- charles-sarraute
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

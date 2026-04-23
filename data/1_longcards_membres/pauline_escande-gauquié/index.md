@@ -1,70 +1,38 @@
 ---
-uuid: f70907c7-bd37-468e-a574-2693539aa544
+uuid: 3102f49a-fcb1-40c9-a9ad-5a82664e1938
 prettyName: PaulineEscandeGauquié
 
 title: Pauline Escande-Gauquié
-abstract: 
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/pauline-gauquie.jpg?itok=m56fLR1K)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  15
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Pauline
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Escande-Gauquié
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines
-
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/pauline-escande-gauquie
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pauline-escande-gauquie
-
-## Slug profil
-
- pauline-escande-gauquie
-
-## Alt photo
-
- Photo de Pauline Escande-Gauquié
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

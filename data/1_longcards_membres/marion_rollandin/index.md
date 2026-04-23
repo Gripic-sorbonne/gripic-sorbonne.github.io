@@ -1,66 +1,38 @@
 ---
-uuid: ae8bd0ad-b56b-42ee-aaac-fff1d43c5c97
+uuid: e579b2df-0a95-4b82-a0a8-566b569e5ab5
 prettyName: MarionRollandin
 
 title: Marion Rollandin
-abstract: 
+abstract: Docteur en Sciences de l'Information et de la Communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  12
 
-## Statut / titre
+## Prénom
 
- Docteur en Sciences de l'Information et de la Communication
+ Marion
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Rollandin
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines
-
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/marion-rollandin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/marion-rollandin
-
-## Slug profil
-
- marion-rollandin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

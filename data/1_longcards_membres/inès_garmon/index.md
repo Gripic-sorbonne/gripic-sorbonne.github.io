@@ -1,66 +1,38 @@
 ---
-uuid: 657671aa-4ce2-48e3-b3b2-5dbc4844971e
+uuid: c5c3a6b0-9f5b-4db9-8ef1-69d9b2fdff2a
 prettyName: InèsGarmon
 
 title: Inès Garmon
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photoinesgarmon.png?itok=9J1OjzS7)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  22
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Inès
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ Garmon
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 2
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/ines-garmon
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/ines-garmon
-
-## Slug profil
-
- ines-garmon
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

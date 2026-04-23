@@ -1,66 +1,38 @@
 ---
-uuid: 6500f7c4-5a0d-40d9-85d9-54893dc77e53
+uuid: 7469cc80-790f-42df-aa2c-6d2c86e463d1
 prettyName: PaulineBrouard
 
 title: Pauline Brouard
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/profilpic.png?itok=dyahGtBu)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  11
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Pauline
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Brouard
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pauline-brouard
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pauline-brouard
-
-## Slug profil
-
- pauline-brouard
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,62 +1,38 @@
 ---
-uuid: 171b84ba-d6e9-4d77-97a8-91e30af1337f
+uuid: aa028aad-68a2-4479-9773-63dd1bcae859
 prettyName: MarianaAyresTavares
 
 title: Mariana Ayres Tavares
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  5
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Mariana
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations
+ Ayres Tavares
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/mariana-ayres-tavares
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/mariana-ayres-tavares
-
-## Slug profil
-
- mariana-ayres-tavares
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

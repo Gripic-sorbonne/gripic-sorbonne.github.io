@@ -1,70 +1,38 @@
 ---
-uuid: a0b88243-d8be-4acc-af80-d9cbb2f9e276
+uuid: 2df2d677-2912-47c7-8973-ae56650361f5
 prettyName: VitalyBuduchev
 
 title: Vitaly Buduchev
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  13
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Vitaly
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Enjeux de communication et relations de travail
+ Buduchev
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/vitaly-buduchev
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/vitaly-buduchev
-
-## Slug profil
-
- vitaly-buduchev
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

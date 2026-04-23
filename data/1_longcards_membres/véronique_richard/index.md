@@ -1,70 +1,38 @@
 ---
-uuid: 0bf553fe-f564-4f75-a45a-0ce83dce588d
+uuid: 19858d3c-805c-4a2f-8ce3-20b9b710820b
 prettyName: VéroniqueRichard
 
 title: Véronique Richard
-abstract: conseillère du Président de l'université Paris-sorbonne pour le mécénat, administrateur de la Société des lecteurs du Monde, secrétaire générale de la Conférence des métiers du journalisme (CNMJ)
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/vrichard.jpg?itok=nhWLD0Kl)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  28
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Véronique
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Richard
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Espace public, politique, genre, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Espace public, politique, genre ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 2
-
-## Espace public, politique, genre
-
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/veronique-richard
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/veronique-richard
-
-## Slug profil
-
- veronique-richard
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

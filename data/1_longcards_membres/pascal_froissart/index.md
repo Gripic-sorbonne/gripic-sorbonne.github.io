@@ -1,78 +1,38 @@
 ---
-uuid: dca565fe-8e7d-4ef8-a192-a76816a8ec64
+uuid: 2ada6959-b5cc-433a-b289-c04d302569fb
 prettyName: PascalFroissart
 
 title: Pascal Froissart
-abstract: 
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/pascal-froissart-200_1.jpg?itok=BR1VmQ8J)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  19
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Pascal
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Froissart
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pascal-froissart
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pascal-froissart
-
-## Slug profil
-
- pascal-froissart
-
-## Alt photo
-
- Pascal Froissart
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

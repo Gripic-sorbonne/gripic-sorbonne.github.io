@@ -1,66 +1,38 @@
 ---
-uuid: 7ba4a896-ecf3-4bab-a5db-365c815c91ec
+uuid: a3c6f083-9d31-4c21-a74f-e3feb949b791
 prettyName: LucieRaymond
 
 title: Lucie Raymond
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/img-20150707-205135-edit1.jpg?itok=hxl_GnxT)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  35
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Lucie
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Raymond
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 2
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/lucie-raymond
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/lucie-raymond
-
-## Slug profil
-
- lucie-raymond
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

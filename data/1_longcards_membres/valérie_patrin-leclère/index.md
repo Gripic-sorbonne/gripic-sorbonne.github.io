@@ -1,78 +1,38 @@
 ---
-uuid: 7798b2ed-a1b2-446f-a261-4ea7af4a1f7c
+uuid: 4d70ad74-2c37-45af-8061-4153b4707c4e
 prettyName: ValériePatrinLeclère
 
 title: Valérie Patrin-Leclère
-abstract: Responsable pédagogique du département médias, Chaire CELSA, Responsable du pôle Innover et entreprendre, Université Paris-Sorbonne, Déléguée à la valorisation, Responsable du Fablab CELSA Formats audiovisuels
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/patrin-def2.jpg?itok=0XbmCfuR)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  26
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Valérie
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Patrin-Leclère
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/valerie-patrin-leclere
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/valerie-patrin-leclere
-
-## Slug profil
-
- valerie-patrin-leclere
-
-## Alt photo
-
- Photo de Valérie Patrin-Leclère
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

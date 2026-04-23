@@ -1,62 +1,38 @@
 ---
-uuid: 56259dc9-7cc6-45b9-ac32-3cb139b03812
+uuid: 61816da8-b303-43cb-b734-3e03d90524c4
 prettyName: LauraAvadar
 
 title: Laura Avadar
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/lauraphoto.jpg?itok=ws10lhJ8)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  4
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Laura
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Avadar
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/laura-avadar
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/laura-avadar
-
-## Slug profil
-
- laura-avadar
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

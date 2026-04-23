@@ -1,66 +1,38 @@
 ---
-uuid: 13762dc4-cf80-4897-9d2a-0d2a3451b395
+uuid: 296aa5d4-b77f-4a1d-a1c1-595df8b8b377
 prettyName: MaudFontaine
 
 title: Maud Fontaine
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photomaud.jpg?itok=Ig3dpsdO)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  21
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Maud
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Fontaine
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/maud-fontaine
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/maud-fontaine
-
-## Slug profil
-
- maud-fontaine
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

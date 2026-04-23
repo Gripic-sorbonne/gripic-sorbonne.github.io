@@ -1,66 +1,38 @@
 ---
-uuid: 8014801e-ce3b-4ec7-beda-350859093ec4
+uuid: 56851c10-0ed9-48ce-a560-d1a696d976fa
 prettyName: JacquelineChervin
 
 title: Jacqueline Chervin
-abstract: 
+abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  9
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Jacqueline
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Chervin
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines
-
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/jacqueline-chervin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/jacqueline-chervin
-
-## Slug profil
-
- jacqueline-chervin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

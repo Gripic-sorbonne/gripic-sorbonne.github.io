@@ -1,70 +1,38 @@
 ---
-uuid: 23577f70-d923-422f-90bb-de4a4b7c56ed
+uuid: b92112be-ba34-49f8-a150-2e85de801d09
 prettyName: CarolineMarti(anciennespublications"deMontety")
 
 title: Caroline Marti (anciennes publications " de Montety " )
-abstract: Coordinatrice de la thématique Médiations Marchandes, Responsable du département Marque, Responsable des, Masters Marque et Branding et Marque et stratégies de communication, Membre du comité exécutif de l'Iniative Alimentation de Sorbonne Université https://alimentation.sorbonne-universite.fr, Membre fondateur d'AGAP https://agap.hypotheses.org
+abstract: Professeure des universités en Sciences de l'Information et de la Communication
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/capturedecran2020-09-28a16.24.423.jpg?itok=tIP3wawm)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  23
 
-## Statut / titre
+## Prénom
 
- Professeure des universités en Sciences de l'Information et de la Communication
+ Caroline
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Marti
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/caroline-marti
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/caroline-marti
-
-## Slug profil
-
- caroline-marti
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

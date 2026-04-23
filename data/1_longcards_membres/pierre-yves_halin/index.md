@@ -1,62 +1,38 @@
 ---
-uuid: ebd97ed2-6fef-401b-b58b-71dd556f43fe
+uuid: 26fe2383-d832-4c96-81e5-95b0eea1bcec
 prettyName: PierreYvesHalin
 
 title: Pierre-Yves Halin
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/sanstitre.jpg?itok=K3z7Dvjr)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  24
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Pierre-Yves
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Halin
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/pierre-yves-halin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pierre-yves-halin
-
-## Slug profil
-
- pierre-yves-halin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

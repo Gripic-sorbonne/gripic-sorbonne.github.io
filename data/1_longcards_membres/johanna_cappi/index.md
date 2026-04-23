@@ -1,66 +1,38 @@
 ---
-uuid: 6f00d949-ee27-4a2a-8d07-33343fc177ea
+uuid: 1e150dd9-7e0d-4b49-becf-ea826cefd20f
 prettyName: JohannaCappi
 
 title: Johanna Cappi
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/27907614-546384632385898-5424076246112814270-o.jpg?itok=-daXlsIP)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  15
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Johanna
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Cappi
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/johanna-cappi
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/johanna-cappi
-
-## Slug profil
-
- johanna-cappi
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

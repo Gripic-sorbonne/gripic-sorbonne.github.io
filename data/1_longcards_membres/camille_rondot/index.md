@@ -1,74 +1,38 @@
 ---
-uuid: 4b6f4f5d-b50c-4fd6-97a5-25af85a6b583
+uuid: 1af59385-a0df-493f-a279-5b1133fb92e7
 prettyName: CamilleRondot
 
 title: Camille Rondot
-abstract: 
+abstract: Maîtresse de conférences en SIC
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/camillerondot.jpg?itok=rQpUCSIV)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  29
 
-## Statut / titre
+## Prénom
 
- Maîtresse de conférences en SIC
+ Camille
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Rondot
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/camille-rondot
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/camille-rondot
-
-## Slug profil
-
- camille-rondot
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,66 +1,38 @@
 ---
-uuid: 53a6355e-7fd7-48fd-b99f-a9323bc79ec7
+uuid: 51df1193-e64a-4c21-b2fa-588f6d4265e3
 prettyName: DenisRuellan
 
 title: Denis Ruellan
-abstract: Co-éditeur de la revue Sur le journalisme - About journalism - Sobre jornalismo
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/img-4555.jpg?itok=1aqP1lLM)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  30
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Denis
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Ruellan
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/denis-ruellan
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/denis-ruellan
-
-## Slug profil
-
- denis-ruellan
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

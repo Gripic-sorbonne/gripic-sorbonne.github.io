@@ -1,62 +1,38 @@
 ---
-uuid: 75a7f545-b82f-43df-be83-544f972a5cf8
+uuid: 65130adb-fc93-423a-b29c-a6205658cce3
 prettyName: MyrnaZougheibRabbat
 
 title: Myrna Zougheib Rabbat
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  43
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Myrna
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Zougheib Rabbat
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/myrna-zougheib-rabbat
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/myrna-zougheib-rabbat
-
-## Slug profil
-
- myrna-zougheib-rabbat
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

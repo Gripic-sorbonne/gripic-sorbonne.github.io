@@ -1,66 +1,38 @@
 ---
-uuid: e649ce17-4e0c-4b17-b6b3-da35897e85e7
+uuid: e48fd509-07b4-46e5-9535-81ac6da4576a
 prettyName: AntoineBonino
 
 title: Antoine Bonino
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  9
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Antoine
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Bonino
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/antoine-bonino
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/antoine-bonino
-
-## Slug profil
-
- antoine-bonino
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

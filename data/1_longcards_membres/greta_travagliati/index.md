@@ -1,62 +1,38 @@
 ---
-uuid: e1dc9b37-facd-4814-84b1-b596305d6e92
+uuid: 48765cd1-736a-4895-8ad9-75a5fee07453
 prettyName: GretaTravagliati
 
 title: Greta Travagliati
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  39
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Greta
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations
+ Travagliati
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/greta-travagliati
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/greta-travagliati
-
-## Slug profil
-
- greta-travagliati
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

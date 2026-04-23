@@ -1,78 +1,38 @@
 ---
-uuid: bcf67885-bcbb-4e1c-bb36-b0749554546f
+uuid: f80e907b-c37e-445a-b313-ff4d0a177586
 prettyName: EmmanuelleBruneel
 
 title: Emmanuelle Bruneel
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/idphoto.jpg?itok=T6BOk2dT)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  12
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Emmanuelle
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre, Enjeux de communication et relations de travail
+ Bruneel
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
-
- 5
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/emmanuelle-bruneel
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/emmanuelle-bruneel
-
-## Slug profil
-
- emmanuelle-bruneel
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

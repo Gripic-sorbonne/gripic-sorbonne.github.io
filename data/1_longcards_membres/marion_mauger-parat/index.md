@@ -1,70 +1,38 @@
 ---
-uuid: 9eda3b3b-56c4-44b4-be20-aaddcea5b267
+uuid: 07f8546b-7b72-4561-974e-c4943b8cd79b
 prettyName: MarionMaugerParat
 
 title: Marion Mauger-Parat
-abstract: 
+abstract: Docteure en sciences du langage
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  13
 
-## Statut / titre
+## Prénom
 
- Docteure en sciences du langage
+ Marion
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Mauger-Parat
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Espace public, politique, genre
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Espace public, politique, genre
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/marion-mauger
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/marion-mauger
-
-## Slug profil
-
- marion-mauger
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

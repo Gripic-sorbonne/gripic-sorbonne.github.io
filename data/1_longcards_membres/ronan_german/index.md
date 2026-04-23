@@ -1,74 +1,38 @@
 ---
-uuid: d0a28545-1136-453a-b33a-39e85cc58f31
+uuid: 0a819691-9508-4ba5-9473-8ac72c24386c
 prettyName: RonanGerman
 
 title: Ronan German
-abstract: 
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  5
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Ronan
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ German
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/ronan-german
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/ronan-german
-
-## Slug profil
-
- ronan-german
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

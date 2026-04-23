@@ -1,70 +1,38 @@
 ---
-uuid: 1abc1c5d-d630-4e1e-9a03-2d16af00ff7e
+uuid: 2215fddc-379d-472d-8db0-d42fb538a7bf
 prettyName: EmmanuëlSouchier
 
 title: Emmanuël Souchier
-abstract: 
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/esouchier.jpg?itok=owuwN1WF)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  31
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Emmanuël
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Souchier
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/emmanuel-souchier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/emmanuel-souchier
-
-## Slug profil
-
- emmanuel-souchier
-
-## Alt photo
-
- Photo d'Emmanuël Souchier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,70 +1,38 @@
 ---
-uuid: d5ef638e-c18c-4e74-adb8-93f3ba20e01a
+uuid: 6cb697bf-a07f-4255-a9d3-8c1f5cff0bce
 prettyName: AnnelieseDepoux
 
 title: Anneliese Depoux
-abstract: 
+abstract: Docteur en Sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  3
 
-## Statut / titre
+## Prénom
 
- Docteur en Sciences de l'information et de la communication
+ Anneliese
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Depoux
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/anneliese-depoux
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/anneliese-depoux
-
-## Slug profil
-
- anneliese-depoux
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

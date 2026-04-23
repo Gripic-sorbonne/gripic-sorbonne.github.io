@@ -1,66 +1,38 @@
 ---
-uuid: 413691c4-1705-4e9e-b415-1fb8242788d2
+uuid: 077220d7-6893-4696-b896-88e5fa8877cb
 prettyName: ClotildeChevet
 
 title: Clotilde Chevet
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photo_1.jpg?itok=khTHiJET)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  17
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Clotilde
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Chevet
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/clotilde-chevet
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/clotilde-chevet
-
-## Slug profil
-
- clotilde-chevet
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

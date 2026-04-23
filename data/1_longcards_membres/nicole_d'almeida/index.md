@@ -1,66 +1,38 @@
 ---
-uuid: 3fbdf98a-ffa2-46c1-a659-6268a1221e5e
+uuid: eb01c646-caf9-48aa-93ce-d944686e3c6d
 prettyName: NicoleDAlmeida
 
 title: Nicole D'Almeida
-abstract: Co-direction département CEI, responsable Master 2 Communication des entreprises et des institutions
+abstract: Professeur des universités, Professeur délégué E MBA Paris-Sorbonne Celsa
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/img-5588-lift.jpg?itok=YFqK1GZ5)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  11
 
-## Statut / titre
+## Prénom
 
- Professeur des universités, Professeur délégué E MBA Paris-Sorbonne Celsa
+ Nicole
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ D'Almeida
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/nicole-dalmeida
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/nicole-dalmeida
-
-## Slug profil
-
- nicole-dalmeida
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

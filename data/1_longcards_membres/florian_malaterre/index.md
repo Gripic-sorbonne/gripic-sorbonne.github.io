@@ -1,66 +1,38 @@
 ---
-uuid: f0c95b4d-8871-440b-bd18-77bf96019d02
+uuid: 9a122eba-d278-46da-b5f0-f2208b5955e6
 prettyName: FlorianMalaterre
 
 title: Florian Malaterre
-abstract: Maître de Conférences
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  10
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Florian
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Malaterre
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/florian-malaterre
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/florian-malaterre
-
-## Slug profil
-
- florian-malaterre
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

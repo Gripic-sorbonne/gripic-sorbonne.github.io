@@ -1,70 +1,38 @@
 ---
-uuid: c1705b0d-4499-4444-b819-f4689b4f019b
+uuid: c11da786-7554-4fc3-817b-6e20e6bb99dd
 prettyName: FrançoiseBoursin
 
 title: Françoise Boursin
-abstract: Professeur délégué aux relations internationales, Co-directeur du département Communication des Entreprises et des Institutions, Membre du CNU
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/fboursin.jpg?itok=fxmxKJsz)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  7
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Françoise
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Boursin
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/francoise-boursin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/francoise-boursin
-
-## Slug profil
-
- francoise-boursin
-
-## Alt photo
-
- Photo de Françoise Boursin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

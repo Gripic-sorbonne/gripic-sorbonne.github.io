@@ -1,74 +1,38 @@
 ---
-uuid: 1ae93f74-0350-473b-ad5f-d8918539ac97
+uuid: 7bd25b15-452d-43f6-b457-9118da6afd73
 prettyName: DominiquePagès
 
 title: Dominique Pagès
-abstract: Créatrice et ancienne Responsable du Master Cultures, Tourismes et Communication
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/dpages.jpg?itok=zoSuQAA3)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  25
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Dominique
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Pagès
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/dominique-pages
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/dominique-pages
-
-## Slug profil
-
- dominique-pages
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

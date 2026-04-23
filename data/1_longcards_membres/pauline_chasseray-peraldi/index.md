@@ -1,66 +1,38 @@
 ---
-uuid: 8e5199e6-c630-43f3-9a5d-bfa9f7678c97
+uuid: da1766e5-05cd-4eee-8e1d-df7406a442a4
 prettyName: PaulineChasserayPeraldi
 
 title: Pauline Chasseray-Peraldi
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  16
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Pauline
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Chasseray-Peraldi
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pauline-chasseray-peraldi
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pauline-chasseray-peraldi
-
-## Slug profil
-
- pauline-chasseray-peraldi
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

@@ -1,5 +1,5 @@
 ---
-uuid: ea32bb63-d8f2-4608-87b1-008290daad91
+uuid: 2e822123-4f3d-4d62-a901-288c59aedf41
 title: "Enfance et histoire : cultures et pratiques enfantines du passé"
 author: "Emmanuelle Fantin et Julien Tassel"
 event: False

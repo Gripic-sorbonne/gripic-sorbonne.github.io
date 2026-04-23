@@ -1,70 +1,38 @@
 ---
-uuid: 7658369c-cf38-4753-8caf-12905d01a6c0
+uuid: 0527efbe-0856-44aa-a184-12e6ca8b773a
 prettyName: JulietteCharbonneaux
 
 title: Juliette Charbonneaux
-abstract: 
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/jcharbonneaux_0.jpg?itok=z5xcE_Dx)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  8
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Juliette
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Charbonneaux
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 2
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/juliette-charbonneaux
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/juliette-charbonneaux
-
-## Slug profil
-
- juliette-charbonneaux
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

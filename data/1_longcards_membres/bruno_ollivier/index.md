@@ -1,66 +1,38 @@
 ---
-uuid: 9c051dce-44f2-4824-88d8-981a8469415d
+uuid: 9936d1fa-889d-4684-8e65-a81df9d77d03
 prettyName: BrunoOllivier
 
 title: Bruno Ollivier
-abstract: 
+abstract: Professeur des universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  24
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Bruno
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Ollivier
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines
-
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/bruno-ollivier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/bruno-ollivier
-
-## Slug profil
-
- bruno-ollivier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

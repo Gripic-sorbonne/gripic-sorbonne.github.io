@@ -1,62 +1,38 @@
 ---
-uuid: 33ea74e3-aed2-476c-a6b3-79c699fa58e3
+uuid: 7ae60c31-b195-44a6-ab4e-2ab54565f848
 prettyName: JohnAugeri
 
 title: John Augeri
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  3
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ John
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Augeri
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/john-augeri
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/john-augeri
-
-## Slug profil
-
- john-augeri
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

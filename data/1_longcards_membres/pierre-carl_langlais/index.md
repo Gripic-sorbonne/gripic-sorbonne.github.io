@@ -1,66 +1,38 @@
 ---
-uuid: 00c92fd0-887f-4a07-a6d3-77c1e9cb11c9
+uuid: b25d2fe0-bbd9-4129-8ddd-f7c88e5e27d6
 prettyName: PierreCarlLanglais
 
 title: Pierre-Carl Langlais
-abstract: Post-doctorant
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  8
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Pierre-Carl
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Langlais
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pierre-carl-langlais
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pierre-carl-langlais
-
-## Slug profil
-
- pierre-carl-langlais
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

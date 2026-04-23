@@ -1,78 +1,38 @@
 ---
-uuid: db08f629-57c0-498b-896c-438ebf6c8a36
+uuid: e5776c97-fc0f-48ae-a6c2-5de9dd9a8166
 prettyName: HécateVergopoulos
 
 title: Hécate Vergopoulos
-abstract: 
+abstract: Maître de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/hecate.jpg?itok=wZq4DCOU)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  33
 
-## Statut / titre
+## Prénom
 
- Maître de conférences
+ Hécate
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Vergopoulos
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Enjeux de communication et relations de travail
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/hecate-vergopoulos
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/hecate-vergopoulos
-
-## Slug profil
-
- hecate-vergopoulos
-
-## Alt photo
-
- Photo d'Hécate Vergopoulos
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

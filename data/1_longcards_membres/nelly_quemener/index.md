@@ -1,70 +1,38 @@
 ---
-uuid: b358cfee-40b8-4ac4-8d5c-50f30d5c278a
+uuid: 91c10346-540b-4619-af96-76d696196a73
 prettyName: NellyQUEMENER
 
 title: Nelly QUEMENER
-abstract: Directrice du GRIPIC, Responsable du département Licence du CELSA
+abstract: Professeur·e des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/nellyquemener-min_0.jpg?itok=hAhW5I3J)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  1
 
-## Statut / titre
+## Prénom
 
- Professeure des Universités
+ Nelly
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ QUEMENER
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Espaces publics, politique genre 
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 2
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/nelly-quemener
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/nelly-quemener
-
-## Slug profil
-
- nelly-quemener
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

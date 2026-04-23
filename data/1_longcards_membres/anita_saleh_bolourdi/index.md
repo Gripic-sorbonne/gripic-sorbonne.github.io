@@ -1,62 +1,38 @@
 ---
-uuid: cf90e137-62be-4d03-a1a6-0398db4d1fea
+uuid: 66f8ed8f-4e55-4a50-8cdf-6a6ab6a2efd8
 prettyName: AnitaSalehBolourdi
 
 title: Anita Saleh Bolourdi
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  37
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Anita
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Saleh Bolourdi
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/anita-saleh-bolourdi
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/anita-saleh-bolourdi
-
-## Slug profil
-
- anita-saleh-bolourdi
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

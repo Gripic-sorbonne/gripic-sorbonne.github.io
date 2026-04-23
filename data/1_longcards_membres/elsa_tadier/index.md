@@ -1,66 +1,38 @@
 ---
-uuid: e1679e8d-a26a-49c7-8960-8920f1052cbb
+uuid: a4130c50-adb3-4e1f-b147-d0f0b6d19faa
 prettyName: ElsaTadier
 
 title: Elsa Tadier
-abstract: 
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  15
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Elsa
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Tadier
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/elsa-tadier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/elsa-tadier
-
-## Slug profil
-
- elsa-tadier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

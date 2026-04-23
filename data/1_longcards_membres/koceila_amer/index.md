@@ -1,62 +1,38 @@
 ---
-uuid: 8d33d1bd-32c9-4736-85af-ecab6d121771
+uuid: ed4481a0-951a-4a62-8fe2-9dd5baf6ec17
 prettyName: KoceilaAmer
 
 title: Koceila Amer
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  1
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Koceila
 
-## Thématiques (texte source)
+## Nom
 
- Espace public, politique, genre
+ Amer
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Espace public, politique, genre
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/koceila-amer
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/koceila-amer
-
-## Slug profil
-
- koceila-amer
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

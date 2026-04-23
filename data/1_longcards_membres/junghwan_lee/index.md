@@ -1,62 +1,38 @@
 ---
-uuid: a3d09698-ef37-45ef-8e19-e2c5eb1d3368
+uuid: b8572d22-3337-42da-88bb-f0155da4902c
 prettyName: JunghwanLee
 
 title: Junghwan Lee
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  26
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Junghwan
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Lee
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/junghwan-lee
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/junghwan-lee
-
-## Slug profil
-
- junghwan-lee
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

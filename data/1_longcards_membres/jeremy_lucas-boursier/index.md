@@ -1,66 +1,38 @@
 ---
-uuid: 1a4f7c10-e6b0-46ef-8786-4316a3c76135
+uuid: 02cd5993-861a-4209-9dad-6f5c228f71be
 prettyName: JeremyLucasBoursier
 
 title: Jeremy Lucas-Boursier
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  27
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Jeremy
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ Lucas-Boursier
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 2
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/jeremy-lucas-boursier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/jeremy-lucas-boursier
-
-## Slug profil
-
- jeremy-lucas-boursier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

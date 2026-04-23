@@ -1,66 +1,38 @@
 ---
-uuid: 74a0a256-accc-4759-a8ec-9e7776202b41
+uuid: 28dd7ec5-a476-4e0e-a382-a16553db828b
 prettyName: SarahKitar
 
 title: Sarah Kitar
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  25
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Sarah
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Enjeux de communication et relations de travail
+ Kitar
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Enjeux de communication et relations de travail
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/sarah-kitar
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/sarah-kitar
-
-## Slug profil
-
- sarah-kitar
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

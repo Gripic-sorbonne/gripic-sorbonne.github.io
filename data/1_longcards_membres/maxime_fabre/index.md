@@ -1,66 +1,38 @@
 ---
-uuid: 03a4e420-a020-4491-b891-a22f387cb963
+uuid: cb2b2db1-5f7c-43d4-89fb-0a49c7e5d74b
 prettyName: MaximeFabre
 
 title: Maxime Fabre
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/capturedecran2020-02-27a18.28.39.png?itok=bGOEdSdQ)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  4
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Maxime
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ Fabre
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/maxime-fabre
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/maxime-fabre
-
-## Slug profil
-
- maxime-fabre
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

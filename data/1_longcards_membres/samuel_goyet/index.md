@@ -1,70 +1,38 @@
 ---
-uuid: 2d9c46c8-ff85-430b-9eba-85e2e0d72eb5
+uuid: 7ced1568-3062-4c01-9c04-d13a47df68e0
 prettyName: SamuelGoyet
 
 title: Samuel Goyet
-abstract: Enseignant contractuel (Université Paris 13, UFR Communication)
+abstract: Docteur en sciences de l'information et de la communication
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  7
 
-## Statut / titre
+## Prénom
 
- Docteur en sciences de l'information et de la communication
+ Samuel
 
-## Type profil
+## Nom
 
- Chercheur associé GRIPIC
+ Goyet
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/samuel-goyet
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/samuel-goyet
-
-## Slug profil
-
- samuel-goyet
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

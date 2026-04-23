@@ -1,66 +1,38 @@
 ---
-uuid: f963c5a2-8b97-48d6-b862-e68f163554f3
+uuid: 34aab067-a3fe-41be-9893-ba9e26a97f19
 prettyName: LaurenceSalvator
 
 title: Laurence Salvator
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  38
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Laurence
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations
+ Salvator
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/laurence-salvator
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/laurence-salvator
-
-## Slug profil
-
- laurence-salvator
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

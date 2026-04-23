@@ -1,62 +1,38 @@
 ---
-uuid: 45b4945d-60f7-4abf-bfd9-be8e1b990a3a
+uuid: 6a692504-884b-497d-a450-f50c5adaf121
 prettyName: KatiaRaya
 
 title: Katia Raya
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/img-30602.jpg?itok=DFDtnFMP)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  34
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Katia
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Raya
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/katia-raya
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/katia-raya
-
-## Slug profil
-
- katia-raya
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

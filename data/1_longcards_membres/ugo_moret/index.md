@@ -1,62 +1,38 @@
 ---
-uuid: fb431180-23c3-496a-bbd1-bf026099acf5
+uuid: be7ef365-19d6-4249-a8ff-4f6328cfc29a
 prettyName: UgoMoret
 
 title: Ugo Moret
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/031b09e_0.jpg?itok=C6EXDIAV)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  28
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Ugo
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Moret
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/ugo-moret
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/ugo-moret
-
-## Slug profil
-
- ugo-moret
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

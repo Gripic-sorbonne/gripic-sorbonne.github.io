@@ -1,62 +1,38 @@
 ---
-uuid: 90501fac-d9d6-44a5-b829-da55d3276ffd
+uuid: 3a1e78fd-6a0d-4405-8e7c-013d75aedb90
 prettyName: BéréniceMariau
 
 title: Bérénice Mariau
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photoberenicemariau_0.jpg?itok=YjkL4taJ)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs associés
+ Membres associé·e·s
 
 ## Ordre dans section
 
  11
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Bérénice
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Mariau
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/berenice-mariau
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/berenice-mariau
-
-## Slug profil
-
- berenice-mariau
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

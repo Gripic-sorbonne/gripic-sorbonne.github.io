@@ -1,62 +1,38 @@
 ---
-uuid: a2d64669-975d-4f2a-a15f-536a830818a2
+uuid: 4f92a43f-2f13-4caa-b830-eb406fbfdab3
 prettyName: YoussefEnnahi
 
 title: Youssef Ennahi
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  20
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Youssef
 
-## Thématiques (texte source)
+## Nom
 
- Espace public, politique, genre
+ Ennahi
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Espace public, politique, genre
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Espace public, politique, genre
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/youssef-ennahi
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/youssef-ennahi
-
-## Slug profil
-
- youssef-ennahi
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

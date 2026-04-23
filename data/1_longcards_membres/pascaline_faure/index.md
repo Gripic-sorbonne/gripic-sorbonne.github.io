@@ -1,66 +1,38 @@
 ---
-uuid: d6c60c2f-ff2d-49a1-8268-216f51b0e90e
+uuid: 42175815-42c5-4ff2-9474-be1716c0c7a9
 prettyName: PascalineFaure
 
 title: Pascaline Faure
-abstract: Directrice du Département d’anglais médical, Directrice de Recherche à l’Ecole Doctorale Concepts et Langages
+abstract: Maître de Conférences HDR
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/identite-pascaline-faure-2019.jpg?itok=Hc0vqLQ6)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  17
 
-## Statut / titre
+## Prénom
 
- Maître de Conférences HDR
+ Pascaline
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Faure
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Médiations marchandes, organisations
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 1
-
-## Médiations marchandes, organisations
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/pascaline-faure
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/pascaline-faure
-
-## Slug profil
-
- pascaline-faure
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

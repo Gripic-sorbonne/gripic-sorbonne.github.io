@@ -1,62 +1,38 @@
 ---
-uuid: 503c91bf-5906-4543-92f4-0f7827bd6c9f
+uuid: e1e45680-8d0c-49d4-98fd-3bf8af256d67
 prettyName: JudithDehail
 
 title: Judith Dehail
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/11391741-10153315677369223-9139694932542919280-n_0.jpg?itok=lvVRMKk2)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  18
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Judith
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines
+ Dehail
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines
+ nan
 
-## Nb thématiques
-
- 1
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## URL profil (relative)
+## Axes de recherche3
 
- /utilisateur/judith-dehail
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/judith-dehail
-
-## Slug profil
-
- judith-dehail
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

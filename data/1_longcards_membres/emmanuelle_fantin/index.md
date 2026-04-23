@@ -1,74 +1,38 @@
 ---
-uuid: 13c83734-7777-4436-b45f-a9615554fbc1
+uuid: 485c26b7-354d-4a26-a1b4-7ccb99cd8474
 prettyName: EmmanuelleFantin
 
 title: Emmanuelle Fantin
-abstract: 
+abstract: Maîtresse de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/emmanuellefantin.png?itok=Jq19lUye)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  16
 
-## Statut / titre
+## Prénom
 
- Maîtresse de conférences
+ Emmanuelle
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Fantin
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/emmanuelle-fantin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/emmanuelle-fantin
-
-## Slug profil
-
- emmanuelle-fantin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

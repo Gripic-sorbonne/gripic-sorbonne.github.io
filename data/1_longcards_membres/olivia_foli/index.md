@@ -1,74 +1,38 @@
 ---
-uuid: 84924551-3f2e-4c2c-ad00-ee45c1422f1b
+uuid: 99f650c8-0718-4332-b37e-c145bc88c05a
 prettyName: OliviaFoli
 
 title: Olivia Foli
-abstract: Responsable du Master 2 en apprentissage "Conseil, management et organisations" - Sorbonne Université CELSA
+abstract: Maîtresse de conférences
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/ofoli.jpg?itok=auZgUETW)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  18
 
-## Statut / titre
+## Prénom
 
- Maîtresse de conférences
+ Olivia
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Foli
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Enjeux de communication et relations de travail
-
-## Nb thématiques
-
- 2
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Enjeux de communication et relations de travail
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/olivia-foli
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/olivia-foli
-
-## Slug profil
-
- olivia-foli
-
-## Alt photo
-
- Photo d'Olivia Foli
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

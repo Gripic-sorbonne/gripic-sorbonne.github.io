@@ -1,74 +1,38 @@
 ---
-uuid: 6892c071-aef8-4879-89b2-1e934c6f6aa2
+uuid: 4fab124b-72c7-4c5d-8b13-98ce2ba9fcab
 prettyName: OrianeDeseilligny
 
 title: Oriane Deseilligny
-abstract: 
+abstract: Maître de conférences 
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/photooriane.png?itok=d4s_CQvv)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  13
 
-## Statut / titre
+## Prénom
 
- Maître de conférences en Sciences de l'information et de la Communication
+ Oriane
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Deseilligny
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Savoirs, culture, patrimoines, Médiations marchandes, organisations, Journalisme, écritures médiatiques et numériques
+ nan
 
-## Thématiques (normalisées)
-
- Savoirs, culture, patrimoines ; Médiations marchandes, organisations ; Journalisme, écritures médiatiques et numériques
-
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/oriane-deseilligny
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/oriane-deseilligny
-
-## Slug profil
-
- oriane-deseilligny
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

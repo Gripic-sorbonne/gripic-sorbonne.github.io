@@ -1,70 +1,38 @@
 ---
-uuid: c158b15b-9557-4adc-8565-23b371cdb730
+uuid: cd69d4c7-9c1d-4e44-a5d8-bb764ea40bff
 prettyName: MathildeVassor
 
 title: Mathilde Vassor
-abstract: 
+abstract: nan
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/p1022189.png?itok=pNjVQDil)
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  40
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Mathilde
 
-## Thématiques (texte source)
+## Nom
 
- Savoirs, culture, patrimoines, Journalisme, écritures médiatiques et numériques, Espace public, politique, genre
+ Vassor
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Savoirs, culture, patrimoines ; Journalisme, écritures médiatiques et numériques ; Espace public, politique, genre
+ nan
 
-## Nb thématiques
-
- 3
-
-## Savoirs, culture, patrimoines
+## Axes de recherche2
 
  Oui
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## Espace public, politique, genre
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/mathilde-vassor
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/mathilde-vassor
-
-## Slug profil
-
- mathilde-vassor
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

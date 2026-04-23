@@ -1,74 +1,38 @@
 ---
-uuid: 18605a4d-d75f-4f7f-8b79-2826e1f14932
+uuid: 6dd88de9-b1f8-4aef-a86b-e9878e324017
 prettyName: ValérieJeannePerrier
 
 title: Valérie Jeanne-Perrier
-abstract: 
+abstract: Professeur des universités
 ---
 
-![small](https://www.gripic.fr/system/files/styles/thumbnail/private/vjp-chercheure.jpeg?itok=crC6xUDU)
+![small](nan)
 
 ## ﻿Section
 
- Chercheurs
+ Membres permanent·e·s
 
 ## Ordre dans section
 
  2
 
-## Statut / titre
+## Prénom
 
- Professeur des universités
+ Valérie
 
-## Type profil
+## Nom
 
- Chercheur GRIPIC
+ Jeanne-Perrier
 
-## Thématiques (texte source)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques, Enjeux de communication et relations de travail
+ nan
 
-## Thématiques (normalisées)
+## Axes de recherche2
 
- Journalisme, écritures médiatiques et numériques ; Enjeux de communication et relations de travail
+ nan
 
-## Nb thématiques
+## Axes de recherche3
 
- 2
-
-## Journalisme, écritures médiatiques et numériques
-
- Oui
-
-## Enjeux de communication et relations de travail
-
- Oui
-
-## URL profil (relative)
-
- /utilisateur/valerie-jeanne-perrier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/valerie-jeanne-perrier
-
-## Slug profil
-
- valerie-jeanne-perrier
-
-## Alt photo
-
- Valérie Jeanne-Perrier, photo d'identité de profil
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

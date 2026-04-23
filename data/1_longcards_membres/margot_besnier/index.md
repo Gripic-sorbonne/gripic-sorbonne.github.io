@@ -1,62 +1,38 @@
 ---
-uuid: d321d1e0-8676-4633-b56f-2d3ca72c5475
+uuid: 849373d9-ab8e-470c-b447-9e506eb06bdc
 prettyName: MargotBesnier
 
 title: Margot Besnier
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  7
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Margot
 
-## Thématiques (texte source)
+## Nom
 
- Médiations marchandes, organisations
+ Besnier
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Médiations marchandes, organisations
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Médiations marchandes, organisations
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/margot-besnier
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/margot-besnier
-
-## Slug profil
-
- margot-besnier
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 

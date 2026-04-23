@@ -1,62 +1,38 @@
 ---
-uuid: 7752836c-4544-48a0-a58d-d7bb12a8e27d
+uuid: 34f3d1a6-51c5-4431-a338-bf9ad93e5196
 prettyName: SuzannePenin
 
 title: Suzanne Penin
-abstract: 
+abstract: nan
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](nan)
 
 ## ﻿Section
 
- Doctorants
+ Doctorant·e·s
 
 ## Ordre dans section
 
  31
 
-## Type profil
+## Prénom
 
- Doctorant(e) GRIPIC
+ Suzanne
 
-## Thématiques (texte source)
+## Nom
 
- Journalisme, écritures médiatiques et numériques
+ Penin
 
-## Thématiques (normalisées)
+## Axes de recherche
 
- Journalisme, écritures médiatiques et numériques
+ nan
 
-## Nb thématiques
+## Axes de recherche2
 
- 1
+ nan
 
-## Journalisme, écritures médiatiques et numériques
+## Axes de recherche3
 
- Oui
-
-## URL profil (relative)
-
- /utilisateur/suzanne-penin
-
-## URL profil (absolue)
-
- https://www.gripic.fr/utilisateur/suzanne-penin
-
-## Slug profil
-
- suzanne-penin
-
-## Titre de page
-
- L'équipe | Gripic
-
-## URL canonique page
-
- https://www.gripic.fr/equipe
-
-## Fichier source
-
- gripic.html
+ nan
 
