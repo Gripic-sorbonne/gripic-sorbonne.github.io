@@ -1,5 +1,6 @@
 ---
-uuid: 8455586a-5624-4a44-ae7d-d599ca83559c
+uuid: ef3c8708-2cc6-4eae-8dd9-9c2f6e51330b
+weight: 47
 prettyName: EmelineSeignobos
 
 title: Emeline Seignobos

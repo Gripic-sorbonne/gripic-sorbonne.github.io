@@ -1,5 +1,6 @@
 ---
-uuid: 0d41510a-2db3-49c8-8d08-998b81010537
+uuid: 68a679f2-9797-4430-97ad-67477d0a4e36
+weight: 65
 prettyName: FarahClémentineDramaniIssifou
 
 title: Farah Clémentine Dramani-Issifou

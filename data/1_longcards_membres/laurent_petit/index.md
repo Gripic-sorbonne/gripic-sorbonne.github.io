@@ -1,5 +1,6 @@
 ---
-uuid: b647de77-dcdb-4dc1-9db6-706f40c567b2
+uuid: 3b3c64e3-77a5-437b-8ecb-3bb22fc563b9
+weight: 24
 prettyName: LaurentPetit
 
 title: Laurent Petit

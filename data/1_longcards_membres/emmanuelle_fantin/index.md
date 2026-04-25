@@ -1,5 +1,6 @@
 ---
-uuid: 485c26b7-354d-4a26-a1b4-7ccb99cd8474
+uuid: e54ce314-a165-4781-b946-3f1eada92687
+weight: 12
 prettyName: EmmanuelleFantin
 
 title: Emmanuelle Fantin

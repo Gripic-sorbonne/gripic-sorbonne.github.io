@@ -1,5 +1,6 @@
 ---
-uuid: 2df2d677-2912-47c7-8973-ae56650361f5
+uuid: 25c710e0-a1cf-4b74-8c9f-f00aa7889ef1
+weight: 60
 prettyName: VitalyBuduchev
 
 title: Vitaly Buduchev

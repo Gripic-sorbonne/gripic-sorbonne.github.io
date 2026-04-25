@@ -1,5 +1,6 @@
 ---
-uuid: c11da786-7554-4fc3-817b-6e20e6bb99dd
+uuid: 012c4a25-7608-4343-a568-25a8e988f80e
+weight: 3
 prettyName: FrançoiseBoursin
 
 title: Françoise Boursin

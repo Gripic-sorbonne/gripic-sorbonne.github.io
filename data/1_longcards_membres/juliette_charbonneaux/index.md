@@ -1,5 +1,6 @@
 ---
-uuid: 0527efbe-0856-44aa-a184-12e6ca8b773a
+uuid: 96ab5bda-5f02-4a50-8c6e-b4b0b8589dab
+weight: 4
 prettyName: JulietteCharbonneaux
 
 title: Juliette Charbonneaux

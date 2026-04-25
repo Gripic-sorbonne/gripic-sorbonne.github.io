@@ -1,5 +1,6 @@
 ---
-uuid: 40dc0093-7ac8-448c-90ad-aa13c6e01a68
+uuid: d17d5f61-5c14-48fc-915d-7ab9b11020a8
+weight: 66
 prettyName: C.BriceAngeloDan
 
 title: C. Brice Angelo Dan

@@ -1,5 +1,6 @@
 ---
-uuid: 2ada6959-b5cc-433a-b289-c04d302569fb
+uuid: 75e47cc5-ccbe-4c59-acdd-40e301bb9ba1
+weight: 15
 prettyName: PascalFroissart
 
 title: Pascal Froissart

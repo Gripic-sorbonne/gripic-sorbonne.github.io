@@ -1,5 +1,6 @@
 ---
-uuid: 19858d3c-805c-4a2f-8ce3-20b9b710820b
+uuid: 606a3bea-5457-4755-9d60-e73afc6e12e0
+weight: 26
 prettyName: VéroniqueRichard
 
 title: Véronique Richard

@@ -1,5 +1,6 @@
 ---
-uuid: 7bd25b15-452d-43f6-b457-9118da6afd73
+uuid: 232c2ffd-0532-4660-a3d8-b570c835cc36
+weight: 22
 prettyName: DominiquePagès
 
 title: Dominique Pagès

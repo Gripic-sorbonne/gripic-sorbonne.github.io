@@ -1,5 +1,6 @@
 ---
-uuid: 26fe2383-d832-4c96-81e5-95b0eea1bcec
+uuid: 8c83c7f1-61b8-4404-a7ed-44733756d99f
+weight: 72
 prettyName: PierreYvesHalin
 
 title: Pierre-Yves Halin

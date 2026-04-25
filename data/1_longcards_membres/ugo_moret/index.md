@@ -1,5 +1,6 @@
 ---
-uuid: be7ef365-19d6-4249-a8ff-4f6328cfc29a
+uuid: 18856a01-c517-4493-888b-08b4f2fcec70
+weight: 76
 prettyName: UgoMoret
 
 title: Ugo Moret

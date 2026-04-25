@@ -1,5 +1,6 @@
 ---
-uuid: 67aba53b-49cc-44a1-aa6e-a3b67eba3808
+uuid: d012c294-6fa1-4e0f-98b2-7cf76c8f5839
+weight: 54
 prettyName: IdilBasural
 
 title: Idil Basural

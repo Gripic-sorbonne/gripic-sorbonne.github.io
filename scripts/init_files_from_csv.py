@@ -11,7 +11,7 @@ SPLIT_PATTERN: str = r"\s|\'|\-|\_|«|»|,"
 IMAGE_PATH = "./avatar.webp"
 IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
 
-def make_yaml_header_member(name: str, position: str) -> str:
+def make_yaml_header_member(name: str, position: str, weight: int) -> str:
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
             f"weight: {weight}\n" +
@@ -44,9 +44,9 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
     return md_page
 
 
-def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
+def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str, weight: int):
     md_page: str = make_yaml_header_member(
-        name=member_dict[main_header], position=member_dict[position_header])
+        name=member_dict[main_header], position=member_dict[position_header], weight=weight)
     # add photo to page
     if member_dict[photo_header] != "":
         md_page += f"![small]({member_dict[photo_header]})\n\n"
@@ -76,7 +76,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
                 shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_member(member_dict=row,
-                                                            main_header=main_header, position_header=position_header, photo_header=photo_header))
+                                                            main_header=main_header, position_header=position_header, photo_header=photo_header, weight=i ))
     return
 
 

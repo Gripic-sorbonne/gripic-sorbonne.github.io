@@ -1,5 +1,6 @@
 ---
-uuid: cc4915b1-6f0a-4e3e-b1c8-1e1844a10141
+uuid: aee6a40e-942e-4dab-be1e-bde2417cc0d9
+weight: 8
 prettyName: HervéDemailly
 
 title: Hervé Demailly

@@ -1,5 +1,6 @@
 ---
-uuid: 07f8546b-7b72-4561-974e-c4943b8cd79b
+uuid: 2fe969dd-608f-4e7a-a478-9c8e03974ddf
+weight: 45
 prettyName: MarionMaugerParat
 
 title: Marion Mauger-Parat
