@@ -14,6 +14,7 @@ IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
 def make_yaml_header_member(name: str, position: str) -> str:
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
+            f"weight: {weight}\n" +
             f"prettyName: {''.join(re.split(pattern=SPLIT_PATTERN, string=name))}\n\n" +
             f"title: {name}\n" +
             f"abstract: {position}\n" +
@@ -62,7 +63,8 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
     global MEMBER_DIR
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
-        for row in reader:
+        rows = list(reader)
+        for i ,row in enumerate(rows):
             # print(row)
             member_name: str = row[main_header]
             member_subdir: Path = MEMBER_DIR / ("_".join(member_name.split())).lower()
