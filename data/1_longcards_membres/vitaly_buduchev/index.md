@@ -1,5 +1,5 @@
 ---
-uuid: 25c710e0-a1cf-4b74-8c9f-f00aa7889ef1
+uuid: 2d5a10f4-f118-4e42-88e9-794b44c073d1
 weight: 60
 prettyName: VitalyBuduchev
 

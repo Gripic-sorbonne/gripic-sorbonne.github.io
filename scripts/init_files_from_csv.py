@@ -64,6 +64,12 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         rows = list(reader)
+
+        def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str, weight: int):
+            return {
+                'weight': weight  # Update the weight of each member
+            }
+
         for i ,row in enumerate(rows):
             # print(row)
             member_name: str = row[main_header]

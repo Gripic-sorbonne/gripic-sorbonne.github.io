@@ -1,9 +1,9 @@
 ---
-uuid: fb8054cd-d228-47b3-90ae-05bbe5b85659
+uuid: f75743d4-3522-42d6-8b15-218b646b81b3
 title: "Colloque Observatoire des discours de/sur l'Europe"
 author: "Juliette Charbonneaux"
 event: False
-abstract: "'Dispositifs d'Europe, dispositifs européens"
+abstract: "'" Dispositifs d\'Europe, dispositifs européens"'"
 ---
 
 ![Picture for Colloque Observatoire des discours de/sur l'Europe]()
