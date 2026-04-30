@@ -1,6 +1,5 @@
 ---
-uuid: 7f850fb9-ac3e-4923-806d-8c93a1326dc4
-weight: 40
+uuid: 660834b8-914c-4c59-9178-efbeb197d6e3
 prettyName: SamuelGoyet
 
 title: Samuel Goyet
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 7
+ 41
 
 ## Prénom
 

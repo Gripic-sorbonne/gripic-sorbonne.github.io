@@ -1,6 +1,5 @@
 ---
-uuid: ad4e2ec4-acaa-41ba-bf47-34c92a024275
-weight: 41
+uuid: 2e9cd899-4df3-4244-b473-34f2c7686d6d
 prettyName: PierreCarlLanglais
 
 title: Pierre-Carl Langlais
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 8
+ 42
 
 ## Prénom
 

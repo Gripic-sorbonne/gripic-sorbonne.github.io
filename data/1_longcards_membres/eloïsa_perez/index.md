@@ -1,6 +1,5 @@
 ---
-uuid: 0c80b3a2-87d1-48e8-82e4-7ea5c369844f
-weight: 80
+uuid: 166c1cc8-542f-414c-934c-1b96aa64870f
 prettyName: EloïsaPerez
 
 title: Eloïsa Perez
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 32
+ 81
 
 ## Prénom
 

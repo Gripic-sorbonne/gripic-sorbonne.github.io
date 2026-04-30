@@ -1,6 +1,5 @@
 ---
-uuid: 90edffd7-e533-4529-9ec3-aec305f0a66f
-weight: 76
+uuid: a6313cc8-521a-4dff-af06-f920e03f8472
 prettyName: UgoMoret
 
 title: Ugo Moret
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 28
+ 77
 
 ## Prénom
 

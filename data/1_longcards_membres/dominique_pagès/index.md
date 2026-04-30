@@ -1,6 +1,5 @@
 ---
-uuid: a83616d6-97ef-45d9-adbb-eddab3893497
-weight: 22
+uuid: f6ddc660-ccb8-4186-89cc-0a75d9256e68
 prettyName: DominiquePagès
 
 title: Dominique Pagès
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 25
+ 24
 
 ## Prénom
 

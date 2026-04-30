@@ -1,6 +1,5 @@
 ---
-uuid: 16392cc3-c8bf-472b-afa1-6b341ec75783
-weight: 20
+uuid: 1e45567c-9c98-451e-8708-12d07f8edce7
 prettyName: CarolineMarti(anciennespublications"deMontety")
 
 title: Caroline Marti (anciennes publications " de Montety " )
@@ -13,9 +12,9 @@ abstract: Professeure des universités en Sciences de l'Information et de la Com
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 23
+ 22
 
 ## Prénom
 

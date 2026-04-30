@@ -1,6 +1,5 @@
 ---
-uuid: 27016bdd-62f0-4de8-be14-707e32bae3e7
-weight: 36
+uuid: c6d37dc1-fe0f-4e27-a200-3e46244f97f6
 prettyName: AnnelieseDepoux
 
 title: Anneliese Depoux
@@ -13,9 +12,9 @@ abstract: Docteur en Sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 3
+ 37
 
 ## Prénom
 

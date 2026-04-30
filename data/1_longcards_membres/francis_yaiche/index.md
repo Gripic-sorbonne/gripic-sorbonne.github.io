@@ -1,6 +1,5 @@
 ---
-uuid: 5365351b-e5d5-44ca-85b1-25007635c287
-weight: 33
+uuid: b6903fea-3752-4c4d-a8ae-f791cc7aa360
 prettyName: FrancisYaiche
 
 title: Francis Yaiche
@@ -13,7 +12,7 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
  34
 

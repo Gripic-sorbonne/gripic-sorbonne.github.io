@@ -1,6 +1,5 @@
 ---
-uuid: 9090bc8f-10ef-4aaa-8154-f3f19bb2b08b
-weight: 64
+uuid: d2d90ff2-63c6-4772-9181-dc12748b4d1c
 prettyName: ClotildeChevet
 
 title: Clotilde Chevet
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 17
+ 65
 
 ## Prénom
 

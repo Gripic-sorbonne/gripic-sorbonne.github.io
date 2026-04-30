@@ -1,6 +1,5 @@
 ---
-uuid: 2be87816-bae5-404c-84e6-72b14b00c985
-weight: 50
+uuid: c9f7e584-6ba0-4885-9940-03a6f280978c
 prettyName: JohnAugeri
 
 title: John Augeri
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 3
+ 51
 
 ## Prénom
 

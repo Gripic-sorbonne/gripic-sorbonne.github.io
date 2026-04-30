@@ -1,6 +1,5 @@
 ---
-uuid: 21736f3d-637a-4af5-b3b7-f59b1071fb9e
-weight: 16
+uuid: bb037409-a8f4-48c3-994d-5e2275962a8c
 prettyName: ValérieJeannePerrier
 
 title: Valérie Jeanne-Perrier
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 2
+ 18
 
 ## Prénom
 

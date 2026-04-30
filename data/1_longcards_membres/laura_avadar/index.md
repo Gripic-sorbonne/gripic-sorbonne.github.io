@@ -1,6 +1,5 @@
 ---
-uuid: b36b1876-290e-4c98-8537-b98894f73a7a
-weight: 51
+uuid: 623d06d2-ae28-42d2-8b6c-60faeba5c74f
 prettyName: LauraAvadar
 
 title: Laura Avadar
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 4
+ 52
 
 ## Prénom
 

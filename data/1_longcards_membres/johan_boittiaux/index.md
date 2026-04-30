@@ -1,6 +1,5 @@
 ---
-uuid: b2e1bec2-d3e3-4e08-be38-756a8a490505
-weight: 56
+uuid: e510de71-cdcf-4132-bdb2-44eb515d134c
 prettyName: JohanBoittiaux
 
 title: Johan Boittiaux
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 8
+ 57
 
 ## Prénom
 

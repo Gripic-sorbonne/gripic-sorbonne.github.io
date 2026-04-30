@@ -1,6 +1,5 @@
 ---
-uuid: 07539fef-3bc3-4ec8-9a2d-2c5de328d0a5
-weight: 3
+uuid: 1194a774-6209-4d7d-9645-5ffb702c20f1
 prettyName: FrançoiseBoursin
 
 title: Françoise Boursin
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 7
+ 5
 
 ## Prénom
 

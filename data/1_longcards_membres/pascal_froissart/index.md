@@ -1,6 +1,5 @@
 ---
-uuid: e2062891-cc67-4b2f-aa56-6f808f74717e
-weight: 15
+uuid: c8d184c1-7946-42db-a930-eb065f87fecb
 prettyName: PascalFroissart
 
 title: Pascal Froissart
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 19
+ 17
 
 ## Prénom
 

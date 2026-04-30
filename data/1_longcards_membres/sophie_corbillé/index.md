@@ -1,6 +1,5 @@
 ---
-uuid: ca8fd6bd-a8f5-4020-af1f-b1a4f39e43a8
-weight: 6
+uuid: f0c50ccc-64f4-4047-bbd8-cba7683badf9
 prettyName: SophieCorbillé
 
 title: Sophie Corbillé
@@ -13,9 +12,9 @@ abstract: Professeure des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 10
+ 8
 
 ## Prénom
 

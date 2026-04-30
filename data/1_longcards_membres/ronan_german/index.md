@@ -1,6 +1,5 @@
 ---
-uuid: 155c276e-7d31-44dd-a6b4-c929f86bbba0
-weight: 38
+uuid: 78c8b63b-10f2-47cb-9407-3b7385310ab3
 prettyName: RonanGerman
 
 title: Ronan German
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 5
+ 39
 
 ## Prénom
 

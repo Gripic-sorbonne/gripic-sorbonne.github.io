@@ -1,6 +1,5 @@
 ---
-uuid: 78edf161-fd7d-43db-8dbb-5f5ac2e4540a
-weight: 4
+uuid: 5de5036a-ee5f-4e4d-bfbd-6a34108aee55
 prettyName: JulietteCharbonneaux
 
 title: Juliette Charbonneaux
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 8
+ 6
 
 ## Prénom
 

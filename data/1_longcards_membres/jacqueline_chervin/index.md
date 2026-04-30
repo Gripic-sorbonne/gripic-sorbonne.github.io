@@ -1,6 +1,5 @@
 ---
-uuid: 98e8ce5a-4934-4ae6-88ac-2acdcab42677
-weight: 5
+uuid: 418a40c9-f22c-4105-be0a-b3edb57e188c
 prettyName: JacquelineChervin
 
 title: Jacqueline Chervin
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 9
+ 7
 
 ## Prénom
 

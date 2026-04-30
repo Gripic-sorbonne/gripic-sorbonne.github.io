@@ -1,6 +1,5 @@
 ---
-uuid: 2fc95166-0425-4651-9798-43215dfee062
-weight: 30
+uuid: 060544e5-7d3e-4e6f-8061-0cd35b927f9c
 prettyName: JulienTassel
 
 title: Julien Tassel
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 32
+ 31
 
 ## Prénom
 

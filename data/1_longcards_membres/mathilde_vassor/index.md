@@ -1,6 +1,5 @@
 ---
-uuid: 0e1d39f0-74ae-420f-9310-4eb95372b55e
-weight: 88
+uuid: c75ae0d8-5ef2-4cf8-b99c-25955411f342
 prettyName: MathildeVassor
 
 title: Mathilde Vassor
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 40
+ 89
 
 ## Prénom
 

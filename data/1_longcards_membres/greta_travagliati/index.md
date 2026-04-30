@@ -1,6 +1,5 @@
 ---
-uuid: 9679d922-ef77-4ada-a8ea-7374fc7b6dd4
-weight: 87
+uuid: 95187003-32f5-4c6f-ae6a-b2c619e6ab9f
 prettyName: GretaTravagliati
 
 title: Greta Travagliati
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 39
+ 88
 
 ## Prénom
 

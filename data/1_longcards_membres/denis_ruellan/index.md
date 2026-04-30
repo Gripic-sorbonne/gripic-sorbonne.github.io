@@ -1,6 +1,5 @@
 ---
-uuid: fa43de11-228b-4042-ac5f-8731a4253f84
-weight: 28
+uuid: 1436096d-dc4c-4c49-86de-f19ca0eeb45d
 prettyName: DenisRuellan
 
 title: Denis Ruellan
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 30
+ 29
 
 ## Prénom
 

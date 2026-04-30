@@ -1,6 +1,5 @@
 ---
-uuid: 0ce5740e-e8c4-4279-8e36-c2f7b03adbbc
-weight: 53
+uuid: 4b2ec5fb-82ac-4582-b06b-529e424e379b
 prettyName: SophieBONNAUDLEROUX
 
 title: Sophie BONNAUD-LE ROUX
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 10
+ 54
 
 ## Prénom
 

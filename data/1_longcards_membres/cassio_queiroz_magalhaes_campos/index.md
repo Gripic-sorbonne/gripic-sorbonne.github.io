@@ -1,6 +1,5 @@
 ---
-uuid: ee4b94b6-0981-434b-981e-a0e34500a808
-weight: 81
+uuid: a5786ae3-8959-4391-9f22-294211d9741a
 prettyName: CassioQueirozMagalhaesCampos
 
 title: Cassio Queiroz Magalhaes Campos
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 33
+ 82
 
 ## Prénom
 

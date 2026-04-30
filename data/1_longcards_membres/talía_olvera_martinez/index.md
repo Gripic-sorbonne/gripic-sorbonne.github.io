@@ -1,6 +1,5 @@
 ---
-uuid: c0574816-a6b7-4cf4-8f0d-f5b5f0610f9b
-weight: 77
+uuid: ccb046e8-b787-4df6-a33d-1a23e3afcba9
 prettyName: TalíaOlveraMartinez
 
 title: Talía Olvera Martinez
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 29
+ 78
 
 ## Prénom
 

@@ -1,6 +1,5 @@
 ---
-uuid: cd4da154-63c7-4493-82a3-cf1d03b16fda
-weight: 18
+uuid: 254f7287-9f1d-4063-b864-56e09fd6fea1
 prettyName: RymKyreche
 
 title: Rym Kyreche
@@ -13,9 +12,9 @@ abstract: nan
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 21
+ 20
 
 ## Prénom
 

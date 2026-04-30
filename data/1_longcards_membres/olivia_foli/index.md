@@ -1,6 +1,5 @@
 ---
-uuid: 719cba0f-862e-4fac-b8e8-f52634935bd5
-weight: 14
+uuid: be253a76-313c-47af-ab3e-2c9da001d175
 prettyName: OliviaFoli
 
 title: Olivia Foli
@@ -13,9 +12,9 @@ abstract: Maîtresse de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 18
+ 16
 
 ## Prénom
 

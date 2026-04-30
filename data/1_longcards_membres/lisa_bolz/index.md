@@ -1,6 +1,5 @@
 ---
-uuid: 6a6cdb7e-a586-4692-bd93-43fcbd5754c1
-weight: 2
+uuid: 00a73f59-a193-4384-90c3-911a6c2bbe70
 prettyName: LisaBolz
 
 title: Lisa Bolz
@@ -13,9 +12,9 @@ abstract: nan
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 6
+ 4
 
 ## Prénom
 

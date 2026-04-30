@@ -1,6 +1,5 @@
 ---
-uuid: cedd0b3b-ee61-4e50-ac96-d0a8da90ff24
-weight: 66
+uuid: db3ef568-132d-483e-9c31-8e361f467c6b
 prettyName: C.BriceAngeloDan
 
 title: C. Brice Angelo Dan
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 2
+ 67
 
 ## Prénom
 

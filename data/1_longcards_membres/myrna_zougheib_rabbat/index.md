@@ -1,6 +1,5 @@
 ---
-uuid: a020f272-53da-4e39-b09c-88aef5fafb36
-weight: 91
+uuid: 17d9f0aa-e20e-4622-acc7-1461f812d67c
 prettyName: MyrnaZougheibRabbat
 
 title: Myrna Zougheib Rabbat
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 43
+ 92
 
 ## Prénom
 

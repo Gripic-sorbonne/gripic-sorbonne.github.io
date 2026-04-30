@@ -1,6 +1,5 @@
 ---
-uuid: 5bcebfc0-8292-4ab0-9782-64417eba7a3d
-weight: 44
+uuid: 46f7a430-e88a-4d9a-8b2d-0f22bd93d268
 prettyName: BéréniceMariau
 
 title: Bérénice Mariau
@@ -13,9 +12,9 @@ abstract: nan
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 11
+ 45
 
 ## Prénom
 

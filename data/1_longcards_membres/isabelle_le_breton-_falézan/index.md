@@ -1,6 +1,5 @@
 ---
-uuid: d7e8f0a8-cdb8-4bfc-b18f-8b34f4585a98
-weight: 19
+uuid: 9e295a8f-17cc-4364-8fe6-4104c00c6af2
 prettyName: IsabelleLeBretonFalézan
 
 title: Isabelle Le Breton- Falézan
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 22
+ 21
 
 ## Prénom
 

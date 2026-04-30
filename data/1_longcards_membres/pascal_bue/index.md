@@ -1,6 +1,5 @@
 ---
-uuid: 876a1359-ee44-4eb1-92ae-c1d0eba68478
-weight: 61
+uuid: b4c8afdf-0adc-4d09-a81d-2b029bcb95a4
 prettyName: PascalBue
 
 title: Pascal Bue
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 14
+ 62
 
 ## Prénom
 

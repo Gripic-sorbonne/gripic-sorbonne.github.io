@@ -1,6 +1,5 @@
 ---
-uuid: c866a5c6-8445-4fd9-8feb-34a5b3e624ec
-weight: 59
+uuid: 5aed884e-3df2-4336-803e-dd2262f4b1ae
 prettyName: EmmanuelleBruneel
 
 title: Emmanuelle Bruneel
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 12
+ 60
 
 ## Prénom
 

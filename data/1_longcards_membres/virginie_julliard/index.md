@@ -1,6 +1,5 @@
 ---
-uuid: 8a38484f-c577-49ba-80ba-dfb48ef1ae44
-weight: 17
+uuid: e88e7cdd-fdb8-46e9-bc59-83286c6ab290
 prettyName: VirginieJulliard
 
 title: Virginie Julliard
@@ -13,9 +12,9 @@ abstract: Professeure des Universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 20
+ 19
 
 ## Prénom
 

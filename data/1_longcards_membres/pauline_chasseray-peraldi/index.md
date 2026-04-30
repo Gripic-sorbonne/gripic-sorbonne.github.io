@@ -1,6 +1,5 @@
 ---
-uuid: d70d26e6-9f21-423c-b35a-2a0b8e049c3e
-weight: 63
+uuid: 25439f5d-c024-48d6-844c-6b4f1d5fabe0
 prettyName: PaulineChasserayPeraldi
 
 title: Pauline Chasseray-Peraldi
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 16
+ 64
 
 ## Prénom
 

@@ -1,6 +1,5 @@
 ---
-uuid: 1a5884da-c00b-449e-95f8-b4738951959c
-weight: 72
+uuid: aaa2090e-61f6-4790-92f8-319c77666b88
 prettyName: PierreYvesHalin
 
 title: Pierre-Yves Halin
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 24
+ 73
 
 ## Prénom
 

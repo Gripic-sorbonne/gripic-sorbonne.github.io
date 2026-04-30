@@ -1,6 +1,5 @@
 ---
-uuid: 9f1f0a8d-fa8d-4460-9f4a-acff4231d186
-weight: 83
+uuid: a2a1057d-cb22-4ceb-bc3f-86c7800cab35
 prettyName: LucieRaymond
 
 title: Lucie Raymond
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 35
+ 84
 
 ## Prénom
 

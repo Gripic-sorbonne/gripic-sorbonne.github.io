@@ -1,6 +1,5 @@
 ---
-uuid: 3d0e86cc-6941-4671-94f9-8828021288f3
-weight: 32
+uuid: 865dfa99-7192-4429-883b-bfd39b32da03
 prettyName: AdelineWrona
 
 title: Adeline Wrona
@@ -13,9 +12,9 @@ abstract: Professeure des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 3
+ 33
 
 ## Prénom
 

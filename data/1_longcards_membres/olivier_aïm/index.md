@@ -1,6 +1,5 @@
 ---
-uuid: 53a2a330-7143-420a-80f1-1e0178f8baa6
-weight: 0
+uuid: 0106f40d-1339-43e0-a2a1-ec8348c41f6f
 prettyName: OlivierAïm
 
 title: Olivier Aïm
@@ -13,9 +12,9 @@ abstract: Maître·sse de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 4
+ 2
 
 ## Prénom
 

@@ -1,6 +1,5 @@
 ---
-uuid: 9ff07555-de8e-4036-b8dc-a7aa5525ac31
-weight: 42
+uuid: 80c542e2-bec4-4f81-b3ca-90071b9b6d3e
 prettyName: AlexisLévrier
 
 title: Alexis Lévrier
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 9
+ 43
 
 ## Prénom
 

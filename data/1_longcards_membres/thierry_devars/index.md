@@ -1,6 +1,5 @@
 ---
-uuid: af31ba9b-354f-48eb-8b8a-fb5e9ae72c74
-weight: 10
+uuid: 0d48ec9d-9851-44a8-8d55-14c58baf5db5
 prettyName: ThierryDevars
 
 title: Thierry Devars
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 14
+ 12
 
 ## Prénom
 

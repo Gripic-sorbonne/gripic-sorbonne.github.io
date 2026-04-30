@@ -1,6 +1,5 @@
 ---
-uuid: 69238b2b-0bdc-4eba-b942-df9180a2ffbd
-weight: 35
+uuid: 913abbd7-bea2-49c7-93b9-cddce4a27910
 prettyName: CamilleBrachet
 
 title: Camille Brachet
@@ -13,9 +12,9 @@ abstract: Maîtresse de conférences
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 2
+ 36
 
 ## Prénom
 

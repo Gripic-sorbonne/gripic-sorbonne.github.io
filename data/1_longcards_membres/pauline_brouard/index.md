@@ -1,6 +1,5 @@
 ---
-uuid: 2661d912-2ecd-4e3b-a2e7-87a5a86cdd72
-weight: 58
+uuid: d3f7eb2d-1cb1-49bb-bab0-61d3d5d4b059
 prettyName: PaulineBrouard
 
 title: Pauline Brouard
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 11
+ 59
 
 ## Prénom
 

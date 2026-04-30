@@ -1,6 +1,5 @@
 ---
-uuid: d0aecb28-ed75-47f1-90c2-e4b61ba63034
-weight: 43
+uuid: 905829b1-03f8-4330-8268-e1c98e9b2523
 prettyName: FlorianMalaterre
 
 title: Florian Malaterre
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 10
+ 44
 
 ## Prénom
 

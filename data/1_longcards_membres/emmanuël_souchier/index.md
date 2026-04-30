@@ -1,6 +1,5 @@
 ---
-uuid: e445568b-32fa-4841-bfaf-e6079c197739
-weight: 29
+uuid: 81bec937-d756-4a47-bdf8-0b57382e93dd
 prettyName: EmmanuëlSouchier
 
 title: Emmanuël Souchier
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 31
+ 30
 
 ## Prénom
 

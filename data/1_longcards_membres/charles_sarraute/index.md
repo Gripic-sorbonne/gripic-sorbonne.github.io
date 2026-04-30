@@ -1,6 +1,5 @@
 ---
-uuid: 64077d8f-21cf-41f7-b1ef-b6afff1dd7f4
-weight: 86
+uuid: ce7e5ef3-3ab3-4a8d-ba05-bdad90d9fe69
 prettyName: CharlesSarraute
 
 title: Charles Sarraute
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 36
+ 87
 
 ## Prénom
 

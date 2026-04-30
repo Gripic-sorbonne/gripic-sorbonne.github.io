@@ -1,6 +1,5 @@
 ---
-uuid: 7569bb3a-e13c-4caa-8bf8-978a0d8a31a1
-weight: 47
+uuid: 1efda8de-9863-4b9e-b3b3-53741379519c
 prettyName: EmelineSeignobos
 
 title: Emeline Seignobos
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 14
+ 48
 
 ## Prénom
 

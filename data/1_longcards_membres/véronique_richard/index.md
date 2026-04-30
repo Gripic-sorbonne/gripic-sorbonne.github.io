@@ -1,6 +1,5 @@
 ---
-uuid: 79e7dc5c-bf37-4fb6-8ddb-d7fa11a04f44
-weight: 26
+uuid: 22d6d611-5bf4-48b8-948c-675c35b666fd
 prettyName: VéroniqueRichard
 
 title: Véronique Richard
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 28
+ 27
 
 ## Prénom
 

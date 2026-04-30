@@ -1,6 +1,5 @@
 ---
-uuid: 3bb3828b-1706-40f8-81d9-02246c70cf5b
-weight: 11
+uuid: ffdee753-5d40-4ff1-ac47-53843287b243
 prettyName: PaulineEscandeGauquié
 
 title: Pauline Escande-Gauquié
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 15
+ 13
 
 ## Prénom
 

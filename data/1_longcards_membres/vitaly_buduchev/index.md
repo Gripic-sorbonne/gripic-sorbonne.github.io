@@ -1,6 +1,5 @@
 ---
-uuid: 2d5a10f4-f118-4e42-88e9-794b44c073d1
-weight: 60
+uuid: decd9b4f-ef47-4dd5-a221-e6599d0c64ce
 prettyName: VitalyBuduchev
 
 title: Vitaly Buduchev
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 13
+ 61
 
 ## Prénom
 

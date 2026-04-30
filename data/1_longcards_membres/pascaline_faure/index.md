@@ -1,6 +1,5 @@
 ---
-uuid: 1fca7aa9-db35-4308-8107-f764fed2beca
-weight: 13
+uuid: 17fa38d3-33fb-4a5d-83da-d5b33af68789
 prettyName: PascalineFaure
 
 title: Pascaline Faure
@@ -13,9 +12,9 @@ abstract: Maître de Conférences HDR
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 17
+ 15
 
 ## Prénom
 

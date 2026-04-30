@@ -1,6 +1,5 @@
 ---
-uuid: 30e1eca8-6f1c-4b82-8494-a0a310c63a5c
-weight: 9
+uuid: aa60bea5-5b1c-4072-ab7f-63f6dffa1ee9
 prettyName: OrianeDeseilligny
 
 title: Oriane Deseilligny
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 13
+ 11
 
 ## Prénom
 

@@ -1,6 +1,5 @@
 ---
-uuid: 65a650b9-6a55-4796-836a-b1af83cc6415
-weight: 12
+uuid: 65698c8e-9713-4bbb-854e-0d9e8ac094d9
 prettyName: EmmanuelleFantin
 
 title: Emmanuelle Fantin
@@ -13,9 +12,9 @@ abstract: Maîtresse de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 16
+ 14
 
 ## Prénom
 

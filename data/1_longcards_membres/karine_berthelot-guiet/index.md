@@ -1,6 +1,5 @@
 ---
-uuid: 3b465e5b-dda1-4c9a-9c41-b4ba3e4cdc74
-weight: 1
+uuid: ae6ec73e-47a6-4a76-b971-8c978ed33a0d
 prettyName: KarineBerthelotGuiet
 
 title: Karine Berthelot-Guiet
@@ -13,9 +12,9 @@ abstract: Professeure des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 5
+ 3
 
 ## Prénom
 

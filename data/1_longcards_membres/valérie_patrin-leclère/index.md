@@ -1,6 +1,5 @@
 ---
-uuid: d5952f93-ba7b-4ed2-bdc1-50e7b778b53d
-weight: 23
+uuid: 2372e82a-356e-4474-9fe4-5256405b3fea
 prettyName: ValériePatrinLeclère
 
 title: Valérie Patrin-Leclère
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 26
+ 25
 
 ## Prénom
 

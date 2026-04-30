@@ -1,6 +1,5 @@
 ---
-uuid: f7296183-483a-4de2-9604-83c9b6cb3cd5
-weight: 27
+uuid: 6069767b-12d3-4a5d-8360-d283c122ef7d
 prettyName: CamilleRondot
 
 title: Camille Rondot
@@ -13,9 +12,9 @@ abstract: Maîtresse de conférences en SIC
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 29
+ 28
 
 ## Prénom
 

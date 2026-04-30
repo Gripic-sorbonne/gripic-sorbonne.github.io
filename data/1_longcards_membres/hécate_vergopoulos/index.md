@@ -1,6 +1,5 @@
 ---
-uuid: eb4e5b90-b892-413c-9e93-57b8d2058a30
-weight: 31
+uuid: fa5ac966-7125-4d1c-994e-1c6b9b6e29d5
 prettyName: HécateVergopoulos
 
 title: Hécate Vergopoulos
@@ -13,9 +12,9 @@ abstract: Maître de conférences
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 33
+ 32
 
 ## Prénom
 

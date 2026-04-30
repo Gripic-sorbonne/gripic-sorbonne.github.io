@@ -1,6 +1,5 @@
 ---
-uuid: 05934bad-9282-4431-bac2-708d75dd77db
-weight: 89
+uuid: d93075ea-7d15-49ff-bd7f-e6d62351570b
 prettyName: LauraVerquere
 
 title: Laura Verquere
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 41
+ 90
 
 ## Prénom
 

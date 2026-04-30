@@ -1,6 +1,5 @@
 ---
-uuid: 75db6dc0-6635-42be-a0b8-f0c6084a3560
-weight: 65
+uuid: 694fb08b-6ea6-4c15-9f86-0e87fa958585
 prettyName: FarahClémentineDramaniIssifou
 
 title: Farah Clémentine Dramani-Issifou
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 19
+ 66
 
 ## Prénom
 

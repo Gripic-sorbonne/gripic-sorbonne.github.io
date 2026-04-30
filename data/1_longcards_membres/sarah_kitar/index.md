@@ -1,6 +1,5 @@
 ---
-uuid: 1c5f3dcc-c5c5-4f53-baf2-4ccb8a8fb10e
-weight: 73
+uuid: 46468e2a-46e2-4fd5-97a8-611851ec5669
 prettyName: SarahKitar
 
 title: Sarah Kitar
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 25
+ 74
 
 ## Prénom
 

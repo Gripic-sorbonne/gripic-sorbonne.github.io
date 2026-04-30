@@ -1,6 +1,5 @@
 ---
-uuid: 52c51b6a-58ff-4342-9b3c-69bad614b6df
-weight: 34
+uuid: b3ba3207-b55f-4a88-8b04-4a759f35869f
 prettyName: AmbreAbidDalençon
 
 title: Ambre Abid-Dalençon
@@ -13,9 +12,9 @@ abstract: nan
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 1
+ 35
 
 ## Prénom
 

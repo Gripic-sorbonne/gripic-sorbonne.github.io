@@ -1,6 +1,5 @@
 ---
-uuid: 9accf4a8-93de-4dc4-a1b3-f2049dd40524
-weight: 48
+uuid: 77209c00-82ba-4620-9e3e-33c24928721a
 prettyName: ElsaTadier
 
 title: Elsa Tadier
@@ -13,9 +12,9 @@ abstract: Docteur en sciences de l'information et de la communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 15
+ 49
 
 ## Prénom
 

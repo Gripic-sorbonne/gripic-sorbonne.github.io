@@ -1,6 +1,5 @@
 ---
-uuid: 39834ea6-584e-4c7d-bd33-ac1549b330ae
-weight: 21
+uuid: 2aadd114-5e0a-4b5a-9bcd-ede2248ef3be
 prettyName: BrunoOllivier
 
 title: Bruno Ollivier
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 24
+ 23
 
 ## Prénom
 

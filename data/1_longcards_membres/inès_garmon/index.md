@@ -1,6 +1,5 @@
 ---
-uuid: 97f49626-dc6a-4a4d-bcdd-0670ab7baba0
-weight: 70
+uuid: 277fa721-dd4e-4774-bc47-47ed9dd74c84
 prettyName: InèsGarmon
 
 title: Inès Garmon
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 22
+ 71
 
 ## Prénom
 

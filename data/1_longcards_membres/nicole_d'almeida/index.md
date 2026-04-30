@@ -1,6 +1,5 @@
 ---
-uuid: f9c22bd5-91d3-48b9-bdf8-817ab3866813
-weight: 7
+uuid: 3d666cf6-e319-449a-9d77-52367bb75101
 prettyName: NicoleDAlmeida
 
 title: Nicole D'Almeida
@@ -13,9 +12,9 @@ abstract: Professeur des universités, Professeur délégué E MBA Paris-Sorbonn
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 11
+ 9
 
 ## Prénom
 

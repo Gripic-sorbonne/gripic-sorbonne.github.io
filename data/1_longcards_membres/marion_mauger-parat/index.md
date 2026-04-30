@@ -1,6 +1,5 @@
 ---
-uuid: ad66111d-0883-41ad-a1f6-3c1aad0406c1
-weight: 45
+uuid: 82fc10de-bb60-44e1-8c95-4fa2b9996c0e
 prettyName: MarionMaugerParat
 
 title: Marion Mauger-Parat
@@ -13,9 +12,9 @@ abstract: Docteure en sciences du langage
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 13
+ 46
 
 ## Prénom
 

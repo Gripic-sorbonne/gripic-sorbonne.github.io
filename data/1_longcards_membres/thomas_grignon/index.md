@@ -1,6 +1,5 @@
 ---
-uuid: 6d2e70d6-0a8f-4f04-a075-a4fbbc66ebe1
-weight: 71
+uuid: 421eddb3-4f43-4b9a-9d4d-4e7fa64a2236
 prettyName: ThomasGrignon
 
 title: Thomas Grignon
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 23
+ 72
 
 ## Prénom
 

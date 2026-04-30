@@ -1,6 +1,5 @@
 ---
-uuid: 3880cc2b-f8fe-4812-8cdf-e8a5df79b3ba
-weight: 25
+uuid: afaeae09-af5d-4833-8980-7e60c1dc2ecf
 prettyName: NellyQUEMENER
 
 title: Nelly QUEMENER
@@ -13,7 +12,7 @@ abstract: Professeur·e des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
  1
 

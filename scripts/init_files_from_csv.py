@@ -11,10 +11,9 @@ SPLIT_PATTERN: str = r"\s|\'|\-|\_|«|»|,"
 IMAGE_PATH = "./avatar.webp"
 IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
 
-def make_yaml_header_member(name: str, position: str, weight: int) -> str:
+def make_yaml_header_member(name: str, position: str) -> str:
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
-            f"weight: {weight}\n" +
             f"prettyName: {''.join(re.split(pattern=SPLIT_PATTERN, string=name))}\n\n" +
             f"title: {name}\n" +
             f"abstract: {position}\n" +
@@ -44,9 +43,9 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
     return md_page
 
 
-def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str, weight: int):
+def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
     md_page: str = make_yaml_header_member(
-        name=member_dict[main_header], position=member_dict[position_header], weight=weight)
+        name=member_dict[main_header], position=member_dict[position_header])
     # add photo to page
     if member_dict[photo_header] != "":
         md_page += f"![small]({member_dict[photo_header]})\n\n"
@@ -63,27 +62,35 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
     global MEMBER_DIR
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
+
         rows = list(reader)
 
-        def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str, weight: int):
-            return {
-                'weight': weight  # Update the weight of each member
-            }
 
-        for i ,row in enumerate(rows):
-            # print(row)
+        for i, row in enumerate(rows, start=1):
+            row['Order'] = str(i) 
+            
             member_name: str = row[main_header]
             member_subdir: Path = MEMBER_DIR / ("_".join(member_name.split())).lower()
 
             member_subdir.mkdir(parents=True, exist_ok=True)
+            
             if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
                 shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
             else:
                 shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
+            
             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-                md_file.write(generate_markdown_page_member(member_dict=row,
-                                                            main_header=main_header, position_header=position_header, photo_header=photo_header, weight=i ))
-    return
+                md_content = generate_markdown_page_member(
+                    member_dict=row,
+                    main_header=main_header,
+                    position_header=position_header,
+                    photo_header=photo_header
+                )
+                md_file.write(md_content)
+                
+    return  
+
+
 
 
 def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):

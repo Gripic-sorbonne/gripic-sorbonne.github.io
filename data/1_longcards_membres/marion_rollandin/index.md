@@ -1,6 +1,5 @@
 ---
-uuid: ba375d2a-230c-481a-be46-1d4c92d54b41
-weight: 46
+uuid: 077e5335-e35f-4094-9540-4ac96d26c600
 prettyName: MarionRollandin
 
 title: Marion Rollandin
@@ -13,9 +12,9 @@ abstract: Docteur en Sciences de l'Information et de la Communication
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 12
+ 47
 
 ## Prénom
 

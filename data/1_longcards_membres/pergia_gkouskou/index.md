@@ -1,6 +1,5 @@
 ---
-uuid: c905fc81-ba90-4a18-92bb-582b09f38642
-weight: 39
+uuid: e87721a8-2297-4fa3-a6ac-cf61a6090b1b
 prettyName: PergiaGkouskou
 
 title: Pergia Gkouskou
@@ -13,9 +12,9 @@ abstract: Maître de conférences en sciences de l'information et de la communic
 
  Membres associé·e·s
 
-## Ordre dans section
+## Order
 
- 6
+ 40
 
 ## Prénom
 

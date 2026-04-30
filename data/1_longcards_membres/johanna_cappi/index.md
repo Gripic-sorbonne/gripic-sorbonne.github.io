@@ -1,6 +1,5 @@
 ---
-uuid: 69eb4bbb-105f-4231-8ef7-de36119c1547
-weight: 62
+uuid: 28c90c68-d4dd-424d-832d-2dc2370dc735
 prettyName: JohannaCappi
 
 title: Johanna Cappi
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 15
+ 63
 
 ## Prénom
 

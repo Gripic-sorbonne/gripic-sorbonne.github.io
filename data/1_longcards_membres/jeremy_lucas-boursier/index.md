@@ -1,6 +1,5 @@
 ---
-uuid: 06d78886-ed94-43d2-b8fc-8294485b86a3
-weight: 75
+uuid: 141fc93f-3250-463c-bf7b-257cf78232ba
 prettyName: JeremyLucasBoursier
 
 title: Jeremy Lucas-Boursier
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 27
+ 76
 
 ## Prénom
 

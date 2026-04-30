@@ -1,6 +1,5 @@
 ---
-uuid: 05399ceb-c7d0-4c38-9ad9-4ef6c3dd9d46
-weight: 79
+uuid: 7c8867cd-74f7-4418-ab77-2b1b6fd2b599
 prettyName: SuzannePenin
 
 title: Suzanne Penin
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 31
+ 80
 
 ## Prénom
 

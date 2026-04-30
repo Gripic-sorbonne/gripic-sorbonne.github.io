@@ -1,6 +1,5 @@
 ---
-uuid: e1e430c2-ece5-4438-9323-0ef573ff7396
-weight: 54
+uuid: a9338e84-86bb-4730-8c28-8c4a94b7eaac
 prettyName: IdilBasural
 
 title: Idil Basural
@@ -13,9 +12,9 @@ abstract: nan
 
  Doctorant·e·s
 
-## Ordre dans section
+## Order
 
- 6
+ 55
 
 ## Prénom
 

@@ -1,6 +1,5 @@
 ---
-uuid: 2559fe08-68f2-45fb-84ad-a40c96966ad5
-weight: 24
+uuid: d0145a2e-4392-4713-8230-24a00c8c77db
 prettyName: LaurentPetit
 
 title: Laurent Petit
@@ -13,9 +12,9 @@ abstract: Professeur des universités
 
  Membres permanent·e·s
 
-## Ordre dans section
+## Order
 
- 27
+ 26
 
 ## Prénom
 
