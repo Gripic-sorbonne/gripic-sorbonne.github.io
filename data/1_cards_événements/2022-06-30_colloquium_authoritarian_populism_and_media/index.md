@@ -1,6 +1,6 @@
 ---
-uuid: b6d6f9ba-3fe4-44aa-9a6d-d7f1a5f32344
-title: "Colloquium AUTHORITARIAN POPULISM AND MEDIA"
+uuid: 656aae40-ed64-4598-8bd0-48ac54dbc4c1
+title: "Colloquium  “AUTHORITARIAN POPULISM AND MEDIA”"
 author: "Sevilay Celenk"
 event: False
 abstract: "''"
