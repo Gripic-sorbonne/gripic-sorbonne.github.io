@@ -63,9 +63,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
-
             
-            member_name: str = row[main_header]
             order_value =row['Order']
             member_subdir: Path = MEMBER_DIR / f"{order_value}"
 
