@@ -1,3 +1,6 @@
+.landing-block {
+    display: none !important;
+}
 :root {
     /* Couleur de mise en exergue */
     /* --test: rgb(132, 177, 255); */
@@ -12,7 +15,4 @@
 
 #article-header h1{
     color: white
-}
-.landing-block {
-    display: none !important;
 }
