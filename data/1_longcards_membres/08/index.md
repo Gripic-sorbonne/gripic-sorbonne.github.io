@@ -1,9 +1,9 @@
 ---
-uuid: 43dd697c-fb32-409a-bdfb-cd87d0593d09
-prettyName: FrançoiseBoursin
+uuid: 058f91e8-154b-43b6-83cc-8f23ae9d7daa
+prettyName: SophieCorbillé
 
-title: Françoise Boursin
-abstract: Professeur des universités
+title: Sophie Corbillé
+abstract: Professeure des universités
 ---
 
 ![small](nan)
@@ -14,15 +14,15 @@ abstract: Professeur des universités
 
 ## Order
 
- 5
+ 8
 
 ## Prénom
 
- Françoise
+ Sophie
 
 ## Nom
 
- Boursin
+ Corbillé
 
 ## Axes de recherche
 
@@ -30,7 +30,7 @@ abstract: Professeur des universités
 
 ## Axes de recherche2
 
- nan
+ Oui
 
 ## Axes de recherche3
 

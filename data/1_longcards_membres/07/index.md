@@ -1,9 +1,9 @@
 ---
-uuid: c67dae45-188f-4fc3-a80d-886aab096d72
-prettyName: OlivierAïm
+uuid: 85e06d19-3b20-464f-8be2-d08732eae14e
+prettyName: JacquelineChervin
 
-title: Olivier Aïm
-abstract: Maître·sse de conférences
+title: Jacqueline Chervin
+abstract: Maître de conférences
 ---
 
 ![small](nan)
@@ -14,15 +14,15 @@ abstract: Maître·sse de conférences
 
 ## Order
 
- 2
+ 7
 
 ## Prénom
 
- Olivier
+ Jacqueline
 
 ## Nom
 
- Aïm
+ Chervin
 
 ## Axes de recherche
 

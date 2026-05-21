@@ -1,9 +1,9 @@
 ---
-uuid: 97212a17-7686-41b6-a155-0f92c3baf440
-prettyName: LisaBolz
+uuid: e50c847a-6898-4011-9142-5f16b5b4403b
+prettyName: OlivierAïm
 
-title: Lisa Bolz
-abstract: nan
+title: Olivier Aïm
+abstract: Maître·sse de conférences
 ---
 
 ![small](nan)
@@ -14,15 +14,15 @@ abstract: nan
 
 ## Order
 
- 4
+ 2
 
 ## Prénom
 
- Lisa
+ Olivier
 
 ## Nom
 
- Bolz
+ Aïm
 
 ## Axes de recherche
 
@@ -30,7 +30,7 @@ abstract: nan
 
 ## Axes de recherche2
 
- nan
+ Oui
 
 ## Axes de recherche3
 

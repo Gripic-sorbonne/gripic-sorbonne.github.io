@@ -1,9 +1,9 @@
 ---
-uuid: 8670144b-3def-48cf-9c85-e9cf34dd399c
-prettyName: KarineBerthelotGuiet
+uuid: 52671a0a-b3cc-4c14-aece-64f5ea69bcb2
+prettyName: FrançoiseBoursin
 
-title: Karine Berthelot-Guiet
-abstract: Professeure des universités
+title: Françoise Boursin
+abstract: Professeur des universités
 ---
 
 ![small](nan)
@@ -14,15 +14,15 @@ abstract: Professeure des universités
 
 ## Order
 
- 3
+ 5
 
 ## Prénom
 
- Karine
+ Françoise
 
 ## Nom
 
- Berthelot-Guiet
+ Boursin
 
 ## Axes de recherche
 

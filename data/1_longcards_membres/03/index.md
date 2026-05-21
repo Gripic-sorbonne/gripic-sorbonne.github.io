@@ -1,8 +1,8 @@
 ---
-uuid: 2e124efd-78c9-41d0-bc99-12e76a479efe
-prettyName: SophieCorbillé
+uuid: 17341942-dd07-4cb8-ad45-fe2d5c976eb9
+prettyName: KarineBerthelotGuiet
 
-title: Sophie Corbillé
+title: Karine Berthelot-Guiet
 abstract: Professeure des universités
 ---
 
@@ -14,15 +14,15 @@ abstract: Professeure des universités
 
 ## Order
 
- 8
+ 3
 
 ## Prénom
 
- Sophie
+ Karine
 
 ## Nom
 
- Corbillé
+ Berthelot-Guiet
 
 ## Axes de recherche
 
@@ -30,7 +30,7 @@ abstract: Professeure des universités
 
 ## Axes de recherche2
 
- Oui
+ nan
 
 ## Axes de recherche3
 

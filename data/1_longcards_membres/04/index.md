@@ -1,9 +1,9 @@
 ---
-uuid: 3b5c33ee-62c2-47a7-9534-02e19881854f
-prettyName: JacquelineChervin
+uuid: a1674794-1baf-4a62-8b15-1ecb017315d3
+prettyName: LisaBolz
 
-title: Jacqueline Chervin
-abstract: Maître de conférences
+title: Lisa Bolz
+abstract: nan
 ---
 
 ![small](nan)
@@ -14,15 +14,15 @@ abstract: Maître de conférences
 
 ## Order
 
- 7
+ 4
 
 ## Prénom
 
- Jacqueline
+ Lisa
 
 ## Nom
 
- Chervin
+ Bolz
 
 ## Axes de recherche
 
@@ -30,7 +30,7 @@ abstract: Maître de conférences
 
 ## Axes de recherche2
 
- Oui
+ nan
 
 ## Axes de recherche3
 
