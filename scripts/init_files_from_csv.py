@@ -54,6 +54,16 @@ def generate_markdown_page_member(member_dict: dict, main_header: str, position_
     member_dict.pop(photo_header)
     for key, val in member_dict.items():
         if val != "" and key not in IGNORE_MEMBER_COLUMNS:
+            continue 
+        elif key == 'Order':
+            continue
+        elif key.startswith("Axes de recherche") and val == "":
+            continue
+        elif key.startswith("Axes de recherche") and val == "nan":
+            continue
+        elif key == 'Fonction' and val == "":
+            continue
+        else:
             md_page += f"## {key}\n\n {val}\n\n"
     return md_page
 
@@ -70,6 +80,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
             member_subdir.mkdir(parents=True, exist_ok=True)
             if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
                 shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
+            
             else:
                 shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
