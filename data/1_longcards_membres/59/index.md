@@ -1,38 +1,14 @@
 ---
-uuid: ff7cb524-0906-4250-956f-98849fdb4458
+uuid: 0c18bb6f-1eb1-4c47-8829-42cf3a82b34e
 prettyName: PaulineBrouard
 
 title: Pauline Brouard
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 59
-
-## Prénom
-
- Pauline
-
-## Nom
-
- Brouard
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Pauline Brouard
 

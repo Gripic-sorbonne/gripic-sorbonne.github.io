@@ -1,38 +1,18 @@
 ---
-uuid: f09cb6fb-2899-477b-bcea-532f6f04244c
+uuid: ec507a90-f61b-4dfc-8f85-9036ec763db5
 prettyName: NellyQUEMENER
 
 title: Nelly QUEMENER
 abstract: Professeur·e des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Nelly QUEMENER
 
-## Order
+## Fonction
 
- 1
-
-## Prénom
-
- Nelly
-
-## Nom
-
- QUEMENER
-
-## Axes de recherche
-
- Espaces publics, politique genre 
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur·e des universités
 

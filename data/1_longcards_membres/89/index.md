@@ -1,38 +1,14 @@
 ---
-uuid: a1dfe2ff-b8f4-46b3-a76d-6a624207bbaa
+uuid: 7639c930-8c97-4bcc-bed7-898ef6f1cf74
 prettyName: MathildeVassor
 
 title: Mathilde Vassor
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 89
-
-## Prénom
-
- Mathilde
-
-## Nom
-
- Vassor
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Mathilde Vassor
 

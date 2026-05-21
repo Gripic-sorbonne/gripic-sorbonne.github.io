@@ -1,38 +1,14 @@
 ---
-uuid: 797aacbf-8883-493a-9267-42b0da463011
+uuid: 1532f675-5a24-4f59-8c7e-f47af97a0af4
 prettyName: MaudFontaine
 
 title: Maud Fontaine
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 70
-
-## Prénom
-
- Maud
-
-## Nom
-
- Fontaine
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maud Fontaine
 

@@ -1,38 +1,18 @@
 ---
-uuid: 41532ad1-c29c-4707-ae68-bfb2916c6fac
+uuid: 0c68f329-40e6-4579-b3af-b2918f9d112c
 prettyName: OrianeDeseilligny
 
 title: Oriane Deseilligny
 abstract: Maître de conférences 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Oriane Deseilligny
 
-## Order
+## Fonction
 
- 11
-
-## Prénom
-
- Oriane
-
-## Nom
-
- Deseilligny
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences 
 

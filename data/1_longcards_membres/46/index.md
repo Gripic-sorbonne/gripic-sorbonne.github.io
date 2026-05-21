@@ -1,38 +1,18 @@
 ---
-uuid: b67fd889-19d1-451e-b239-0f1aa352e32e
+uuid: b1e37a4b-c254-47bf-a923-eb7a9fa3412c
 prettyName: MarionMaugerParat
 
 title: Marion Mauger-Parat
 abstract: Docteure en sciences du langage
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Marion Mauger-Parat
 
-## Order
+## Fonction
 
- 46
-
-## Prénom
-
- Marion
-
-## Nom
-
- Mauger-Parat
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Docteure en sciences du langage
 

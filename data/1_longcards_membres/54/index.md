@@ -1,38 +1,14 @@
 ---
-uuid: b44b73e8-8a6d-4ae3-9753-8e723a9af8d6
+uuid: 1c0eb81c-a807-47ee-98e1-a1ee74b30b5a
 prettyName: SophieBONNAUDLEROUX
 
 title: Sophie BONNAUD-LE ROUX
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 54
-
-## Prénom
-
- Sophie
-
-## Nom
-
- BONNAUD-LE ROUX
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Sophie BONNAUD-LE ROUX
 

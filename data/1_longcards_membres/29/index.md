@@ -1,38 +1,18 @@
 ---
-uuid: f1a0b970-8408-47c8-9020-1603d6ed9e15
+uuid: a773a19c-46d9-4a12-8cb1-2ca8bafc2d67
 prettyName: DenisRuellan
 
 title: Denis Ruellan
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Denis Ruellan
 
-## Order
+## Fonction
 
- 29
-
-## Prénom
-
- Denis
-
-## Nom
-
- Ruellan
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

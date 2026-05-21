@@ -1,38 +1,18 @@
 ---
-uuid: 912dfae9-db28-41e2-aa57-7e0f3d64b656
+uuid: 44459d89-3a64-4862-8808-6e4124ae3fc2
 prettyName: ThierryDevars
 
 title: Thierry Devars
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Thierry Devars
 
-## Order
+## Fonction
 
- 12
-
-## Prénom
-
- Thierry
-
-## Nom
-
- Devars
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

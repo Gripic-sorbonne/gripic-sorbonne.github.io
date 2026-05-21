@@ -1,38 +1,18 @@
 ---
-uuid: bd2db4a9-4d94-4ef9-89e0-a5c81ff2b4ea
+uuid: 02c51c9e-afca-49b3-a6bd-6bc65b7d1337
 prettyName: PergiaGkouskou
 
 title: Pergia Gkouskou
 abstract: Maître de conférences en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Pergia Gkouskou
 
-## Order
+## Fonction
 
- 40
-
-## Prénom
-
- Pergia
-
-## Nom
-
- Gkouskou
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences en sciences de l'information et de la communication
 

@@ -1,38 +1,18 @@
 ---
-uuid: f17bc583-81f8-41cf-987d-ca0f4606c659
+uuid: b71e5e46-64c8-4100-98a2-ace4afe2c4f0
 prettyName: PaulineEscandeGauquié
 
 title: Pauline Escande-Gauquié
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Pauline Escande-Gauquié
 
-## Order
+## Fonction
 
- 13
-
-## Prénom
-
- Pauline
-
-## Nom
-
- Escande-Gauquié
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

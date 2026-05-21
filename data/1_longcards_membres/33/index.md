@@ -1,38 +1,18 @@
 ---
-uuid: ae480ed8-507f-4ab7-911d-f4db3f611922
+uuid: 5788d11c-e265-4e3d-952b-3d9a8c497d7c
 prettyName: AdelineWrona
 
 title: Adeline Wrona
 abstract: Professeure des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Adeline Wrona
 
-## Order
+## Fonction
 
- 33
-
-## Prénom
-
- Adeline
-
-## Nom
-
- Wrona
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Professeure des universités
 

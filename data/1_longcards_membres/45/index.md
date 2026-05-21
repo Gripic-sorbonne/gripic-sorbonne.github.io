@@ -1,38 +1,14 @@
 ---
-uuid: 8c9ceff1-f620-4e74-a273-a713bbe1b056
+uuid: 3cd336b2-d0cf-4200-aef9-aee608ad2bc0
 prettyName: BéréniceMariau
 
 title: Bérénice Mariau
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
-
-## Order
-
- 45
-
-## Prénom
-
- Bérénice
-
-## Nom
-
- Mariau
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Bérénice Mariau
 

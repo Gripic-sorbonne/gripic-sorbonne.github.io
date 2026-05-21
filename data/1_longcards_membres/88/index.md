@@ -1,38 +1,14 @@
 ---
-uuid: 302b296b-5709-4620-8330-da2b74a3abae
+uuid: 5730937a-55dd-407c-b57d-eeb749aab2af
 prettyName: GretaTravagliati
 
 title: Greta Travagliati
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 88
-
-## Prénom
-
- Greta
-
-## Nom
-
- Travagliati
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Greta Travagliati
 

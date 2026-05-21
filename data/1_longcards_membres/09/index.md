@@ -1,38 +1,18 @@
 ---
-uuid: b7bf4560-a9c4-426b-bd32-9473c1101298
+uuid: 722df9d7-1925-4fec-b3be-35aad2a2d46b
 prettyName: NicoleDAlmeida
 
 title: Nicole D'Almeida
 abstract: Professeur des universités, Professeur délégué E MBA Paris-Sorbonne Celsa
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Nicole D'Almeida
 
-## Order
+## Fonction
 
- 9
-
-## Prénom
-
- Nicole
-
-## Nom
-
- D'Almeida
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités, Professeur délégué E MBA Paris-Sorbonne Celsa
 

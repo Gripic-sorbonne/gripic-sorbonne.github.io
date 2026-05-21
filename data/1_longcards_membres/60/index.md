@@ -1,38 +1,14 @@
 ---
-uuid: 01b58f18-cea1-4e27-ba45-e7497749a4a9
+uuid: 4ee8bbdb-93d9-43f0-b253-fbaceeabb764
 prettyName: EmmanuelleBruneel
 
 title: Emmanuelle Bruneel
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 60
-
-## Prénom
-
- Emmanuelle
-
-## Nom
-
- Bruneel
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Emmanuelle Bruneel
 

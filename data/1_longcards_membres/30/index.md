@@ -1,38 +1,18 @@
 ---
-uuid: 917b5520-6346-4f47-aeb1-7b19dc551e92
+uuid: 4ada2c0e-bce2-4cf4-9872-1d8ba52a5d63
 prettyName: EmmanuëlSouchier
 
 title: Emmanuël Souchier
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Emmanuël Souchier
 
-## Order
+## Fonction
 
- 30
-
-## Prénom
-
- Emmanuël
-
-## Nom
-
- Souchier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

@@ -1,38 +1,18 @@
 ---
-uuid: 73d31d69-993a-40f2-a76c-079e679ed805
+uuid: c208a342-63cc-423b-966a-a708fcc477b4
 prettyName: OliviaFoli
 
 title: Olivia Foli
 abstract: Maîtresse de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Olivia Foli
 
-## Order
+## Fonction
 
- 16
-
-## Prénom
-
- Olivia
-
-## Nom
-
- Foli
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maîtresse de conférences
 

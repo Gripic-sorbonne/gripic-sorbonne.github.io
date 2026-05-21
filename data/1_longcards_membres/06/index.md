@@ -1,38 +1,18 @@
 ---
-uuid: 11401f0a-8844-433f-8073-47438b66869e
+uuid: 9a2d3eaa-22b8-4d0e-9963-b5758add4cda
 prettyName: JulietteCharbonneaux
 
 title: Juliette Charbonneaux
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Juliette Charbonneaux
 
-## Order
+## Fonction
 
- 6
-
-## Prénom
-
- Juliette
-
-## Nom
-
- Charbonneaux
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

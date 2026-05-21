@@ -1,38 +1,14 @@
 ---
-uuid: 07a68b7f-4db1-4faf-b1ae-a43eecbe550d
+uuid: 06ab4efa-487e-4979-94ec-dd9b5caa7e6d
 prettyName: LucieRaymond
 
 title: Lucie Raymond
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 84
-
-## Prénom
-
- Lucie
-
-## Nom
-
- Raymond
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Lucie Raymond
 

@@ -1,38 +1,14 @@
 ---
-uuid: 6e59108e-fbaf-4021-9b9c-3e9280efdbcd
+uuid: a1193e08-90d3-45d3-b20f-bc87da5a9fee
 prettyName: InèsGarmon
 
 title: Inès Garmon
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 71
-
-## Prénom
-
- Inès
-
-## Nom
-
- Garmon
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Inès Garmon
 

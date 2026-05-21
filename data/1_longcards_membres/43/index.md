@@ -1,38 +1,18 @@
 ---
-uuid: 93c284a3-78c7-43d2-ab72-1f7e0188a0c7
+uuid: 4388cbe0-4075-4f79-bf4e-5fe2aa488e21
 prettyName: AlexisLévrier
 
 title: Alexis Lévrier
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Alexis Lévrier
 
-## Order
+## Fonction
 
- 43
-
-## Prénom
-
- Alexis
-
-## Nom
-
- Lévrier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

@@ -1,38 +1,18 @@
 ---
-uuid: 058f91e8-154b-43b6-83cc-8f23ae9d7daa
+uuid: 549f9d13-22eb-4459-bddd-e40d1a4c06b3
 prettyName: SophieCorbillé
 
 title: Sophie Corbillé
 abstract: Professeure des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Sophie Corbillé
 
-## Order
+## Fonction
 
- 8
-
-## Prénom
-
- Sophie
-
-## Nom
-
- Corbillé
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Professeure des universités
 

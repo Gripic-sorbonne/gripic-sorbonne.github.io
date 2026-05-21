@@ -1,38 +1,14 @@
 ---
-uuid: 6a761265-7eb8-4cc6-8fe2-0a0554fde542
+uuid: 828e175b-53ad-4a2e-8e0f-c3a2897ec39b
 prettyName: KatiaRaya
 
 title: Katia Raya
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 83
-
-## Prénom
-
- Katia
-
-## Nom
-
- Raya
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Katia Raya
 

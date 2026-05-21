@@ -1,38 +1,18 @@
 ---
-uuid: a02538ce-9b2d-477f-ac95-51df7f357984
+uuid: 849671e6-18b2-499c-9dc2-7069ef375b2c
 prettyName: LaurentPetit
 
 title: Laurent Petit
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Laurent Petit
 
-## Order
+## Fonction
 
- 26
-
-## Prénom
-
- Laurent
-
-## Nom
-
- Petit
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

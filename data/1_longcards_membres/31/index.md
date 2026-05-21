@@ -1,38 +1,18 @@
 ---
-uuid: 0d30754c-9b93-40db-b507-48ead965eea7
+uuid: 8da0171d-d4a3-4b08-9727-93feee7161da
 prettyName: JulienTassel
 
 title: Julien Tassel
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Julien Tassel
 
-## Order
+## Fonction
 
- 31
-
-## Prénom
-
- Julien
-
-## Nom
-
- Tassel
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

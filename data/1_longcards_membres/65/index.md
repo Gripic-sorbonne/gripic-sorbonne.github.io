@@ -1,38 +1,14 @@
 ---
-uuid: dd7920a8-1d81-41f2-8453-faf99f5fa731
+uuid: 4f42e068-a72d-4d9a-8015-b0558b13bb6c
 prettyName: ClotildeChevet
 
 title: Clotilde Chevet
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 65
-
-## Prénom
-
- Clotilde
-
-## Nom
-
- Chevet
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Clotilde Chevet
 

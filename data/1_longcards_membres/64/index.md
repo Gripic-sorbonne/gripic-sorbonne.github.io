@@ -1,38 +1,14 @@
 ---
-uuid: 0b32342c-6917-4ba4-8a8f-8680dfa083f5
+uuid: e6aeea5d-3ebc-40f9-8fcc-f769786f15a2
 prettyName: PaulineChasserayPeraldi
 
 title: Pauline Chasseray-Peraldi
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 64
-
-## Prénom
-
- Pauline
-
-## Nom
-
- Chasseray-Peraldi
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Pauline Chasseray-Peraldi
 

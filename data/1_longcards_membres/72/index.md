@@ -1,38 +1,14 @@
 ---
-uuid: 3b1611c8-9cf1-4fe7-8802-80d46c966934
+uuid: 62f7b89f-46ff-4f73-85f8-3ce99128553b
 prettyName: ThomasGrignon
 
 title: Thomas Grignon
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 72
-
-## Prénom
-
- Thomas
-
-## Nom
-
- Grignon
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Thomas Grignon
 

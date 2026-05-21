@@ -1,38 +1,14 @@
 ---
-uuid: 7068d804-6815-42c9-aae1-2c15866d7b33
+uuid: b23aebac-14ef-4fcd-bb7e-cd45530d4259
 prettyName: MarianaAyresTavares
 
 title: Mariana Ayres Tavares
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 53
-
-## Prénom
-
- Mariana
-
-## Nom
-
- Ayres Tavares
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Mariana Ayres Tavares
 

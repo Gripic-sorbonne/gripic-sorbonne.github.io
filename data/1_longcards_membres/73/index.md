@@ -1,38 +1,14 @@
 ---
-uuid: 043c097e-8b26-47c2-ba44-7c75ba538b90
+uuid: 158fab44-68c6-4892-910c-e7b531858616
 prettyName: PierreYvesHalin
 
 title: Pierre-Yves Halin
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 73
-
-## Prénom
-
- Pierre-Yves
-
-## Nom
-
- Halin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Pierre-Yves Halin
 

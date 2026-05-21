@@ -1,38 +1,14 @@
 ---
-uuid: 0de2f9be-c2e3-478a-b6d3-9b6a5f8e2fbe
+uuid: 05da982c-290e-4821-b320-6fd0765cd824
 prettyName: JohnAugeri
 
 title: John Augeri
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 51
-
-## Prénom
-
- John
-
-## Nom
-
- Augeri
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ John Augeri
 

@@ -1,38 +1,14 @@
 ---
-uuid: 52504e98-b25e-45bc-90b1-94b4ce0288de
+uuid: 9864543b-e4cd-41f5-a8a6-9aee46652788
 prettyName: FarahClémentineDramaniIssifou
 
 title: Farah Clémentine Dramani-Issifou
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 66
-
-## Prénom
-
- Farah
-
-## Nom
-
- Clémentine Dramani-Issifou
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Farah Clémentine Dramani-Issifou
 

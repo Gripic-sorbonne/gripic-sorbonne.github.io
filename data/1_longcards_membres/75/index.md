@@ -1,38 +1,14 @@
 ---
-uuid: ad0800ea-566f-4fd5-a663-9eb1cc38ca0e
+uuid: 8c36db4a-a45d-4941-9e51-95e1e37e411d
 prettyName: JunghwanLee
 
 title: Junghwan Lee
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 75
-
-## Prénom
-
- Junghwan
-
-## Nom
-
- Lee
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Junghwan Lee
 

@@ -1,38 +1,14 @@
 ---
-uuid: 9163104f-ab62-4129-ba86-9fb0706dc650
+uuid: d6fd6702-5ec1-45f2-bf27-433320d9ab96
 prettyName: YoussefEnnahi
 
 title: Youssef Ennahi
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 69
-
-## Prénom
-
- Youssef
-
-## Nom
-
- Ennahi
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Youssef Ennahi
 

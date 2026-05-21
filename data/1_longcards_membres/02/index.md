@@ -1,38 +1,18 @@
 ---
-uuid: e50c847a-6898-4011-9142-5f16b5b4403b
+uuid: dc9c2d66-f0ac-45ce-81a5-37c3e475fcd0
 prettyName: OlivierAïm
 
 title: Olivier Aïm
 abstract: Maître·sse de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Olivier Aïm
 
-## Order
+## Fonction
 
- 2
-
-## Prénom
-
- Olivier
-
-## Nom
-
- Aïm
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître·sse de conférences
 

@@ -1,38 +1,14 @@
 ---
-uuid: 19e66e02-49ba-49b6-ad26-2d878fddccc6
+uuid: cd27dc88-ea2e-4132-a8c9-05f7005e30b2
 prettyName: PascalBue
 
 title: Pascal Bue
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 62
-
-## Prénom
-
- Pascal
-
-## Nom
-
- Bue
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Pascal Bue
 

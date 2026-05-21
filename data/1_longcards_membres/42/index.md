@@ -1,38 +1,18 @@
 ---
-uuid: f413fedf-9885-49cf-896c-99c2423cfbc6
+uuid: c8baa469-b224-43ac-a6fb-1c46631dc2b0
 prettyName: PierreCarlLanglais
 
 title: Pierre-Carl Langlais
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Pierre-Carl Langlais
 
-## Order
+## Fonction
 
- 42
-
-## Prénom
-
- Pierre-Carl
-
-## Nom
-
- Langlais
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

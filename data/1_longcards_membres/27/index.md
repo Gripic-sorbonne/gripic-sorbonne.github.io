@@ -1,38 +1,18 @@
 ---
-uuid: 9f749913-1529-4297-ab48-382cba9e26c5
+uuid: da9ac349-c058-487f-acef-17e3ae6f80cf
 prettyName: VéroniqueRichard
 
 title: Véronique Richard
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Véronique Richard
 
-## Order
+## Fonction
 
- 27
-
-## Prénom
-
- Véronique
-
-## Nom
-
- Richard
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

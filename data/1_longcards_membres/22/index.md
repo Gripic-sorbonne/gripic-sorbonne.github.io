@@ -1,38 +1,18 @@
 ---
-uuid: aa29f3af-73f5-425c-aa0a-207e6e133b2d
+uuid: c011caff-dc5a-48a0-bd2c-fc024a1df565
 prettyName: CarolineMarti(anciennespublications"deMontety")
 
 title: Caroline Marti (anciennes publications " de Montety " )
 abstract: Professeure des universités en Sciences de l'Information et de la Communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Caroline Marti (anciennes publications " de Montety " )
 
-## Order
+## Fonction
 
- 22
-
-## Prénom
-
- Caroline
-
-## Nom
-
- Marti
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Professeure des universités en Sciences de l'Information et de la Communication
 

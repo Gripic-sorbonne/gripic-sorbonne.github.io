@@ -1,38 +1,18 @@
 ---
-uuid: 2d8b5fe2-690d-44c3-aa38-35f28a3a4488
+uuid: f6b19784-1e3c-478e-a759-f42acad17441
 prettyName: BrunoOllivier
 
 title: Bruno Ollivier
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Bruno Ollivier
 
-## Order
+## Fonction
 
- 23
-
-## Prénom
-
- Bruno
-
-## Nom
-
- Ollivier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

@@ -1,38 +1,14 @@
 ---
-uuid: a47b164d-15c3-4310-a087-8192c63e53b7
+uuid: 229594c7-50ae-436f-a6ac-2c72dbb58831
 prettyName: YuwenZHANG
 
 title: Yuwen ZHANG
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 91
-
-## Prénom
-
- Yuwen
-
-## Nom
-
- ZHANG
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Yuwen ZHANG
 

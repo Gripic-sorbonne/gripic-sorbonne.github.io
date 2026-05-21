@@ -1,38 +1,14 @@
 ---
-uuid: 2c92c237-0cdd-4c11-b593-f85938f4f527
+uuid: a3470cd8-125d-418f-9e4d-293245ea5391
 prettyName: LaurenceSalvator
 
 title: Laurence Salvator
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 86
-
-## Prénom
-
- Laurence
-
-## Nom
-
- Salvator
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Laurence Salvator
 

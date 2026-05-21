@@ -1,38 +1,18 @@
 ---
-uuid: 52671a0a-b3cc-4c14-aece-64f5ea69bcb2
+uuid: 557207d3-6333-4975-b3e9-6c0f26125448
 prettyName: FrançoiseBoursin
 
 title: Françoise Boursin
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Françoise Boursin
 
-## Order
+## Fonction
 
- 5
-
-## Prénom
-
- Françoise
-
-## Nom
-
- Boursin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 

@@ -1,38 +1,14 @@
 ---
-uuid: e5c101d4-a90e-44ed-9221-82dccb8e0df7
+uuid: 7f3467bd-778a-4c13-8fac-6d6111a90870
 prettyName: MargotBesnier
 
 title: Margot Besnier
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 56
-
-## Prénom
-
- Margot
-
-## Nom
-
- Besnier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Margot Besnier
 

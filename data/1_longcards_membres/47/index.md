@@ -1,38 +1,18 @@
 ---
-uuid: a9ca574e-323c-4490-8761-841212c8743f
+uuid: 1b4e0ba6-b833-49e0-9267-d24e44a73241
 prettyName: MarionRollandin
 
 title: Marion Rollandin
 abstract: Docteur en Sciences de l'Information et de la Communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Marion Rollandin
 
-## Order
+## Fonction
 
- 47
-
-## Prénom
-
- Marion
-
-## Nom
-
- Rollandin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Docteur en Sciences de l'Information et de la Communication
 

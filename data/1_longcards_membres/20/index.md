@@ -1,38 +1,14 @@
 ---
-uuid: fc37be44-6ab1-4314-8c4d-36a401642a77
+uuid: 8d663781-7dc6-4576-a54b-5179cc96b152
 prettyName: RymKyreche
 
 title: Rym Kyreche
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
-
-## Order
-
- 20
-
-## Prénom
-
- Rym
-
-## Nom
-
- Kyreche
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Rym Kyreche
 

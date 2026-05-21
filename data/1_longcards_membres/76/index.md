@@ -1,38 +1,14 @@
 ---
-uuid: 396e874f-a0a0-4060-9bdc-6830ce664e0f
+uuid: 42557f96-9506-4668-82fa-b81ccd64d71c
 prettyName: JeremyLucasBoursier
 
 title: Jeremy Lucas-Boursier
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 76
-
-## Prénom
-
- Jeremy
-
-## Nom
-
- Lucas-Boursier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Jeremy Lucas-Boursier
 

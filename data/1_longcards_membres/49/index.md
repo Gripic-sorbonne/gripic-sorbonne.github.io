@@ -1,38 +1,18 @@
 ---
-uuid: dfd57ae3-2fef-474d-a39e-93fb6ab66657
+uuid: 68373d43-d5c0-4ebb-9167-0048ca4fc354
 prettyName: ElsaTadier
 
 title: Elsa Tadier
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Elsa Tadier
 
-## Order
+## Fonction
 
- 49
-
-## Prénom
-
- Elsa
-
-## Nom
-
- Tadier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

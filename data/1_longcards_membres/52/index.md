@@ -1,38 +1,14 @@
 ---
-uuid: 01cb7795-1729-4ff8-a9cb-f69b35118d7e
+uuid: 6b50a657-4a3f-4c66-ab63-4430056f614d
 prettyName: LauraAvadar
 
 title: Laura Avadar
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 52
-
-## Prénom
-
- Laura
-
-## Nom
-
- Avadar
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Laura Avadar
 

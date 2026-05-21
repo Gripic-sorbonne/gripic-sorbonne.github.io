@@ -1,38 +1,14 @@
 ---
-uuid: 3ddef988-734f-4fdf-8fc3-f98623ad6b64
+uuid: 33577138-d2af-4176-be3d-7334eb7201e7
 prettyName: KoceilaAmer
 
 title: Koceila Amer
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 50
-
-## Prénom
-
- Koceila
-
-## Nom
-
- Amer
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Koceila Amer
 

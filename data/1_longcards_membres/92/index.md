@@ -1,38 +1,14 @@
 ---
-uuid: a1640cd2-afef-484f-9323-f363683809f6
+uuid: 07662a38-78ad-4361-9fbe-1d4f76ee1373
 prettyName: MyrnaZougheibRabbat
 
 title: Myrna Zougheib Rabbat
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 92
-
-## Prénom
-
- Myrna
-
-## Nom
-
- Zougheib Rabbat
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Myrna Zougheib Rabbat
 

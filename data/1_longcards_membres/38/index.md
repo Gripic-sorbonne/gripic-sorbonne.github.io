@@ -1,38 +1,14 @@
 ---
-uuid: 1c09e853-0ba4-46e9-815f-4cb9450d4288
+uuid: 257a77b1-ced0-4136-b592-7b0f89599fba
 prettyName: MaximeFabre
 
 title: Maxime Fabre
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
-
-## Order
-
- 38
-
-## Prénom
-
- Maxime
-
-## Nom
-
- Fabre
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maxime Fabre
 

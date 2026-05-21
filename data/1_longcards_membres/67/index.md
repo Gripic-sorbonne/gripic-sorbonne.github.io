@@ -1,38 +1,14 @@
 ---
-uuid: 49e2a902-a5cc-42ed-a973-402a05531774
+uuid: 85c150f5-e33b-4eb6-872c-3fecbeeece20
 prettyName: C.BriceAngeloDan
 
 title: C. Brice Angelo Dan
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 67
-
-## Prénom
-
- C. Brice Angelo
-
-## Nom
-
- Dan
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ C. Brice Angelo Dan
 

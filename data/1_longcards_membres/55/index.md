@@ -1,38 +1,14 @@
 ---
-uuid: e228d921-7710-4132-bad3-e1b00543f744
+uuid: 2a072613-e25e-4a4d-bf39-d3132891985e
 prettyName: IdilBasural
 
 title: Idil Basural
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 55
-
-## Prénom
-
- Idil
-
-## Nom
-
- Basural
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Idil Basural
 

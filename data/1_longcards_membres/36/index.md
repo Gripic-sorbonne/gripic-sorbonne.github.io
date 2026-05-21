@@ -1,38 +1,18 @@
 ---
-uuid: 36983d51-3219-4702-bbcd-4a9b741d2425
+uuid: 342334a3-1c91-417e-9d1f-47cc2d1276ff
 prettyName: CamilleBrachet
 
 title: Camille Brachet
 abstract: Maîtresse de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Camille Brachet
 
-## Order
+## Fonction
 
- 36
-
-## Prénom
-
- Camille
-
-## Nom
-
- Brachet
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maîtresse de conférences
 

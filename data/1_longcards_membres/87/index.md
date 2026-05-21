@@ -1,38 +1,14 @@
 ---
-uuid: d0ea86c2-5256-4606-b2d5-06f02ffd6feb
+uuid: 576c5e8b-1c07-46b4-b843-d9d39e499d4d
 prettyName: CharlesSarraute
 
 title: Charles Sarraute
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 87
-
-## Prénom
-
- Charles
-
-## Nom
-
- Sarraute
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Charles Sarraute
 

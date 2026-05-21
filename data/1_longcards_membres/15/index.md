@@ -1,38 +1,18 @@
 ---
-uuid: e4585cca-b353-4d06-8e8d-160e2a0e53df
+uuid: 4dff0025-c9fb-4d4e-8c19-4c9728c30234
 prettyName: PascalineFaure
 
 title: Pascaline Faure
 abstract: Maître de Conférences HDR
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Pascaline Faure
 
-## Order
+## Fonction
 
- 15
-
-## Prénom
-
- Pascaline
-
-## Nom
-
- Faure
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maître de Conférences HDR
 

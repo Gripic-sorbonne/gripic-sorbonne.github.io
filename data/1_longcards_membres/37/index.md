@@ -1,38 +1,18 @@
 ---
-uuid: 26fb1da3-1428-4715-9d8f-047cfe949b2f
+uuid: 5a6f4254-a98d-4b47-8e68-30e6f54900f2
 prettyName: AnnelieseDepoux
 
 title: Anneliese Depoux
 abstract: Docteur en Sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Anneliese Depoux
 
-## Order
+## Fonction
 
- 37
-
-## Prénom
-
- Anneliese
-
-## Nom
-
- Depoux
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Docteur en Sciences de l'information et de la communication
 

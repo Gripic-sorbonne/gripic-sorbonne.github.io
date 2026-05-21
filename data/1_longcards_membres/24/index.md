@@ -1,38 +1,18 @@
 ---
-uuid: 3a86c1b9-bede-4380-ab33-bf77f83ac6f3
+uuid: c36f8137-01f6-44ec-8099-09f8919ecca7
 prettyName: DominiquePagès
 
 title: Dominique Pagès
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Dominique Pagès
 
-## Order
+## Fonction
 
- 24
-
-## Prénom
-
- Dominique
-
-## Nom
-
- Pagès
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

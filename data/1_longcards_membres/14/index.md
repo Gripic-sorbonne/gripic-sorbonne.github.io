@@ -1,38 +1,18 @@
 ---
-uuid: 8125063b-61be-4a03-9c4f-eeefbf3b3c45
+uuid: 74e4fce4-9f69-4802-a853-c916e7c012cf
 prettyName: EmmanuelleFantin
 
 title: Emmanuelle Fantin
 abstract: Maîtresse de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Emmanuelle Fantin
 
-## Order
+## Fonction
 
- 14
-
-## Prénom
-
- Emmanuelle
-
-## Nom
-
- Fantin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maîtresse de conférences
 

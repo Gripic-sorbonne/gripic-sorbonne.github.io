@@ -1,38 +1,18 @@
 ---
-uuid: 17341942-dd07-4cb8-ad45-fe2d5c976eb9
+uuid: a0a95fa3-53cd-4eb9-a27b-a53feae68c4f
 prettyName: KarineBerthelotGuiet
 
 title: Karine Berthelot-Guiet
 abstract: Professeure des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Karine Berthelot-Guiet
 
-## Order
+## Fonction
 
- 3
-
-## Prénom
-
- Karine
-
-## Nom
-
- Berthelot-Guiet
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeure des universités
 

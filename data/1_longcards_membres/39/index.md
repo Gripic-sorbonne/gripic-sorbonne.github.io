@@ -1,38 +1,18 @@
 ---
-uuid: d6c6cc02-a2ce-448f-9609-a8772616d9c4
+uuid: bbee8561-0230-4101-afe3-dda8a340e9d0
 prettyName: RonanGerman
 
 title: Ronan German
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Ronan German
 
-## Order
+## Fonction
 
- 39
-
-## Prénom
-
- Ronan
-
-## Nom
-
- German
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

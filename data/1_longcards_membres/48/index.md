@@ -1,38 +1,18 @@
 ---
-uuid: 5563d12e-4a55-45ea-9c64-978c218df626
+uuid: c62a0306-2d09-4874-bb20-5887e73eb37b
 prettyName: EmelineSeignobos
 
 title: Emeline Seignobos
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Emeline Seignobos
 
-## Order
+## Fonction
 
- 48
-
-## Prénom
-
- Emeline
-
-## Nom
-
- Seignobos
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

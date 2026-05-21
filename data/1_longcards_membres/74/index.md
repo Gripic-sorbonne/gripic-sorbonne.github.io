@@ -1,38 +1,14 @@
 ---
-uuid: 16a01abb-1068-4c24-a0ff-254e1d747656
+uuid: 3cd183fa-3184-4754-844c-e0ee41f97622
 prettyName: SarahKitar
 
 title: Sarah Kitar
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 74
-
-## Prénom
-
- Sarah
-
-## Nom
-
- Kitar
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Sarah Kitar
 

@@ -1,38 +1,18 @@
 ---
-uuid: c73b7c0d-8244-400f-b276-38893b65f375
+uuid: 41861008-ae0d-46f9-9a4b-3fd13570e98d
 prettyName: FlorianMalaterre
 
 title: Florian Malaterre
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Florian Malaterre
 
-## Order
+## Fonction
 
- 44
-
-## Prénom
-
- Florian
-
-## Nom
-
- Malaterre
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

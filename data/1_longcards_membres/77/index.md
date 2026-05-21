@@ -1,38 +1,14 @@
 ---
-uuid: 10f2fc67-bf73-45b3-9668-4f0427c8609b
+uuid: 8ea10bf2-3ada-4923-b903-6c2946fff9b0
 prettyName: UgoMoret
 
 title: Ugo Moret
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 77
-
-## Prénom
-
- Ugo
-
-## Nom
-
- Moret
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Ugo Moret
 

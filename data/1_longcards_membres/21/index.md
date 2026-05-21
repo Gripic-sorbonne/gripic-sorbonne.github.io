@@ -1,38 +1,18 @@
 ---
-uuid: 4cf4275b-b053-4169-b842-ff5b84f13c55
+uuid: a016ca37-9325-41dd-bff1-978e0fdfb88b
 prettyName: IsabelleLeBretonFalézan
 
 title: Isabelle Le Breton- Falézan
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Isabelle Le Breton- Falézan
 
-## Order
+## Fonction
 
- 21
-
-## Prénom
-
- Isabelle
-
-## Nom
-
- Le Breton- Falézan
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

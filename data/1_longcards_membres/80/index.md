@@ -1,38 +1,14 @@
 ---
-uuid: f4ea996e-6545-4f23-9840-e92f7468dfa0
+uuid: 403c31e5-dd13-4efd-8551-b05be136dd50
 prettyName: SuzannePenin
 
 title: Suzanne Penin
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 80
-
-## Prénom
-
- Suzanne
-
-## Nom
-
- Penin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Suzanne Penin
 

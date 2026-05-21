@@ -1,38 +1,14 @@
 ---
-uuid: 4800c7a1-a80f-4c6d-a3aa-8e67362923bc
+uuid: 333be362-994e-4a61-b988-0f600f52acc5
 prettyName: JohannaCappi
 
 title: Johanna Cappi
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 63
-
-## Prénom
-
- Johanna
-
-## Nom
-
- Cappi
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Johanna Cappi
 

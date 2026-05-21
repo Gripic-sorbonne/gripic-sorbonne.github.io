@@ -1,38 +1,14 @@
 ---
-uuid: 74a2c3d7-4fd7-4a85-9804-235aae976123
+uuid: cdf99d6c-dc6a-40bf-b7f5-c09474051307
 prettyName: LauraVerquere
 
 title: Laura Verquere
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 90
-
-## Prénom
-
- Laura
-
-## Nom
-
- Verquere
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Laura Verquere
 

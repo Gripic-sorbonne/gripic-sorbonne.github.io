@@ -1,38 +1,18 @@
 ---
-uuid: 85e06d19-3b20-464f-8be2-d08732eae14e
+uuid: fab9ec38-67c2-4136-a013-2c7960f83044
 prettyName: JacquelineChervin
 
 title: Jacqueline Chervin
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Jacqueline Chervin
 
-## Order
+## Fonction
 
- 7
-
-## Prénom
-
- Jacqueline
-
-## Nom
-
- Chervin
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

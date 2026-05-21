@@ -1,38 +1,18 @@
 ---
-uuid: 5bf38897-234c-4ea7-91d6-962216b15600
+uuid: 0a4fbecd-90b3-468d-8529-cc179a8e568c
 prettyName: HécateVergopoulos
 
 title: Hécate Vergopoulos
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Hécate Vergopoulos
 
-## Order
+## Fonction
 
- 32
-
-## Prénom
-
- Hécate
-
-## Nom
-
- Vergopoulos
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

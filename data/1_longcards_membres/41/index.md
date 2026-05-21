@@ -1,38 +1,18 @@
 ---
-uuid: 1791337c-3080-4b41-b10a-b6c28e005d4c
+uuid: aba1f890-4299-41a6-9d02-5594dfb673bb
 prettyName: SamuelGoyet
 
 title: Samuel Goyet
 abstract: Docteur en sciences de l'information et de la communication
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
+ Samuel Goyet
 
-## Order
+## Fonction
 
- 41
-
-## Prénom
-
- Samuel
-
-## Nom
-
- Goyet
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Docteur en sciences de l'information et de la communication
 

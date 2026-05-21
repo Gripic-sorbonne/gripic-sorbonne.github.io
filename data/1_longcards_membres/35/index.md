@@ -1,38 +1,14 @@
 ---
-uuid: 45239abc-f012-445d-bc79-c32e140b55f8
+uuid: c1060c4c-acf4-4d35-a34d-ccfef1f959a0
 prettyName: AmbreAbidDalençon
 
 title: Ambre Abid-Dalençon
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres associé·e·s
-
-## Order
-
- 35
-
-## Prénom
-
- Ambre
-
-## Nom
-
- Abid-Dalençon
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Ambre Abid-Dalençon
 

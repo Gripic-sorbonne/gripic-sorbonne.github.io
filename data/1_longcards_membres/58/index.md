@@ -1,38 +1,14 @@
 ---
-uuid: e8ecc900-1d24-4942-a2b8-8f050a9f96c0
+uuid: d0b3fc5d-93d0-464b-b9e5-7b601db2d18e
 prettyName: AntoineBonino
 
 title: Antoine Bonino
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 58
-
-## Prénom
-
- Antoine
-
-## Nom
-
- Bonino
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Antoine Bonino
 

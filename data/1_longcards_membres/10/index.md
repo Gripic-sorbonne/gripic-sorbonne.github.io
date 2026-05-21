@@ -1,38 +1,18 @@
 ---
-uuid: 78bba4f8-7c62-4851-93fd-3940a2d86baf
+uuid: 16eec585-5b5e-4bad-9e80-fd44004a9c63
 prettyName: HervéDemailly
 
 title: Hervé Demailly
 abstract: Maître de conférences
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Hervé Demailly
 
-## Order
+## Fonction
 
- 10
-
-## Prénom
-
- Hervé
-
-## Nom
-
- Demailly
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Maître de conférences
 

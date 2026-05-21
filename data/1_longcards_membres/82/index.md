@@ -1,38 +1,14 @@
 ---
-uuid: 7a2955d0-c545-483c-bb76-4e3589e62be7
+uuid: 6d771e43-4769-4fc9-8e78-86c0bc93070f
 prettyName: CassioQueirozMagalhaesCampos
 
 title: Cassio Queiroz Magalhaes Campos
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 82
-
-## Prénom
-
- Cassio
-
-## Nom
-
- Queiroz Magalhaes Campos
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Cassio Queiroz Magalhaes Campos
 

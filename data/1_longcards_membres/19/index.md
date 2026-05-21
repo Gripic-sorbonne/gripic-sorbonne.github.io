@@ -1,38 +1,18 @@
 ---
-uuid: 48fc6cbf-2d10-4ce5-9b76-ae8192fd87c0
+uuid: ed61a820-0611-4ad4-8363-0f7627ba12ba
 prettyName: VirginieJulliard
 
 title: Virginie Julliard
 abstract: Professeure des Universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Virginie Julliard
 
-## Order
+## Fonction
 
- 19
-
-## Prénom
-
- Virginie
-
-## Nom
-
- Julliard
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeure des Universités
 

@@ -1,38 +1,14 @@
 ---
-uuid: 90f85586-e930-49a6-8c94-b2273e6a81e8
+uuid: 861da3ad-8cfa-4c58-85a2-a926f2bd73f9
 prettyName: MatthieuParelon
 
 title: Matthieu Parelon
-abstract: nan
+abstract: 
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Doctorant·e·s
-
-## Order
-
- 79
-
-## Prénom
-
- Matthieu
-
-## Nom
-
- Parelon
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Matthieu Parelon
 

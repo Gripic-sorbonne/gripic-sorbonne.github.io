@@ -1,38 +1,18 @@
 ---
-uuid: f466f2df-5cad-4c67-9520-9a37200c0d15
+uuid: c8a253dc-3535-4fee-b5ab-e3013628c2e0
 prettyName: CamilleRondot
 
 title: Camille Rondot
 abstract: Maîtresse de conférences en SIC
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Camille Rondot
 
-## Order
+## Fonction
 
- 28
-
-## Prénom
-
- Camille
-
-## Nom
-
- Rondot
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- Oui
-
-## Axes de recherche3
-
- nan
+ Maîtresse de conférences en SIC
 

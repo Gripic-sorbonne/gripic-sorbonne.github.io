@@ -1,38 +1,18 @@
 ---
-uuid: bb8d4722-ac7b-4cf6-9eb4-5522ceb36665
+uuid: efd75ac8-4700-4d51-9c29-fd33cb7e4d29
 prettyName: ValérieJeannePerrier
 
 title: Valérie Jeanne-Perrier
 abstract: Professeur des universités
 ---
 
-![small](nan)
+<img src="./avatar.webp" width="200px" />
 
-## ﻿Section
+## Prénom et Nom
 
- Membres permanent·e·s
+ Valérie Jeanne-Perrier
 
-## Order
+## Fonction
 
- 18
-
-## Prénom
-
- Valérie
-
-## Nom
-
- Jeanne-Perrier
-
-## Axes de recherche
-
- nan
-
-## Axes de recherche2
-
- nan
-
-## Axes de recherche3
-
- nan
+ Professeur des universités
 
