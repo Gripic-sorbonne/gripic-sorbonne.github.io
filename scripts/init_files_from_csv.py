@@ -64,7 +64,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
             
-            order_value =row['Order']
+            order_value = f"{int(row['Order']):02d}"
             member_subdir: Path = MEMBER_DIR / f"{order_value}"
 
             member_subdir.mkdir(parents=True, exist_ok=True)
