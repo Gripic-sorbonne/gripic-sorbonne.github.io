@@ -1,5 +1,5 @@
 ---
-uuid: 4f0d3a05-8b7c-415b-bc10-029c6fd33a53
+uuid: 29155be5-c1d3-4413-8c5c-aec2b0b2660a
 title: "Enfance et histoire : cultures et pratiques enfantines du passé"
 author: "Emmanuelle Fantin et Julien Tassel"
 event: False
@@ -8,61 +8,21 @@ abstract: "''"
 
 ![Picture for Enfance et histoire : cultures et pratiques enfantines du passé]()
 
-## ﻿Index
-
- 8
-
-## Groupe
-
- node-evenement-2936
-
-## Type de contenu
-
- Colloque
-
 ## Titre
 
  Enfance et histoire : cultures et pratiques enfantines du passé
-
-## Date affichée
-
- Jeudi 8 avril 2021 - 09:00 au Vendredi 9 avril 2021 - 16:00
-
-## Date début affichée
-
- Jeudi 8 avril 2021 - 09:00
-
-## Date fin affichée
-
- Vendredi 9 avril 2021 - 16:00
 
 ## Date
 
  08/04/2021
 
-## Date fin ISO
-
- 2021-04-09T16:00:00+02:00
-
-## Début (datetime)
-
- 08/04/2021 09:00
-
-## Fin (datetime)
-
- 09/04/2021 16:00
-
 ## Événement multi-jours
 
  Oui
 
-## Lieu (complet)
+## Lieu
 
  Colloque en ligne, lien zoom :  https://us02web.zoom.us/j/83660702033 France
-
-## Adresse / rue
-
- Colloque en ligne, lien zoom :  https://us02web.zoom.us/j/83660702033
 
 ## Pays
 
@@ -75,20 +35,4 @@ abstract: "''"
 ## URL relative
 
  /evenement/enfance-histoire-cultures-pratiques-enfantines-passe
-
-## Lire la suite
-
- ... Lire la suite
-
-## Promu
-
- Oui
-
-## Épinglé
-
- Non
-
-## Auteur (classe CSS)
-
- emmanuelle-bruneel
 

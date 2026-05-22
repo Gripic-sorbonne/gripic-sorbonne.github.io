@@ -1,5 +1,5 @@
 ---
-uuid: b6a7e363-8573-4492-847f-37838bb44bd4
+uuid: da9e1472-23cc-4c4a-85dc-57e304dd766d
 title: "Communautés politiques, émotions et réactions"
 author: "Virginie JULLIARD, Nelly Quemener"
 event: False
@@ -8,57 +8,21 @@ abstract: "''"
 
 ![Picture for Communautés politiques, émotions et réactions]()
 
-## ﻿Index
-
- 5
-
-## Groupe
-
- node-evenement-3122
-
-## Type de contenu
-
- Colloque
-
 ## Titre
 
  Communautés politiques, émotions et réactions
-
-## Date affichée
-
- Jeudi 13 juin 2024 - 10:15
-
-## Date début affichée
-
- Jeudi 13 juin 2024 - 10:15
 
 ## Date
 
  13/06/2024
 
-## Début (datetime)
-
- 13/06/2024 10:15
-
 ## Événement multi-jours
 
  Non
 
-## Lieu (complet)
+## Lieu
 
  Maison de la recherche, 28 rue Serpente 75006 Paris France
-
-## Adresse / rue
-
- Maison de la recherche, 28 rue Serpente
-
-## Code postal
-
- 75006
-
-## Ville
-
- Paris
 
 ## Pays
 
@@ -71,20 +35,4 @@ abstract: "''"
 ## URL relative
 
  /evenement/communautes-politiques-emotions-reactions
-
-## Lire la suite
-
- ... Lire la suite
-
-## Promu
-
- Non
-
-## Épinglé
-
- Oui
-
-## Auteur (classe CSS)
-
- liliane-joigny
 

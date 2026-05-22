@@ -1,5 +1,5 @@
 ---
-uuid: 5f8ece89-1a3e-4984-93b7-35458ae9b7e4
+uuid: ab1d460c-f7b9-4bfe-bbf0-20a43bc5aa09
 title: "Colloque international :  Symposium Rhizome Rosi"
 author: "Nelly Quemener, Marco dell Omodarme, Krista Faurie"
 event: False
@@ -8,69 +8,21 @@ abstract: "''"
 
 ![Picture for Colloque international :  Symposium Rhizome Rosi]()
 
-## ﻿Index
-
- 2
-
-## Groupe
-
- node-evenement-3161
-
-## Type de contenu
-
- Colloque
-
 ## Titre
 
  Colloque international :  Symposium Rhizome Rosi
-
-## Date affichée
-
- Jeudi 15 janvier 2026 - 09:30 au Vendredi 16 janvier 2026 - 18:30
-
-## Date début affichée
-
- Jeudi 15 janvier 2026 - 09:30
-
-## Date fin affichée
-
- Vendredi 16 janvier 2026 - 18:30
 
 ## Date
 
  15/01/2026
 
-## Date fin ISO
-
- 2026-01-16T18:30:00+01:00
-
-## Début (datetime)
-
- 15/01/2026 09:30
-
-## Fin (datetime)
-
- 16/01/2026 18:30
-
 ## Événement multi-jours
 
  Oui
 
-## Lieu (complet)
+## Lieu
 
  Reid Hall, 4, rue Chevreuse 75006 Paris France
-
-## Adresse / rue
-
- Reid Hall, 4, rue Chevreuse
-
-## Code postal
-
- 75006
-
-## Ville
-
- Paris
 
 ## Pays
 
@@ -83,20 +35,4 @@ abstract: "''"
 ## URL relative
 
  /evenement/colloque-international-symposium-rhizome-rosi
-
-## Lire la suite
-
- ... Lire la suite
-
-## Promu
-
- Non
-
-## Épinglé
-
- Non
-
-## Auteur (classe CSS)
-
- liliane-joigny
 
