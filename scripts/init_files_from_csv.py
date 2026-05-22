@@ -96,7 +96,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
 def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
     global EVENT_DIR
     with open(csv_file, mode="r", encoding="utf-8") as f:
-        reader = csv.DictReader(f, delimiter=";")
+        reader = csv.DictReader(f, delimiter="|")
         for row in reader:
             d, m , y = row['Date'].split('/')
             date_str = f'{y}-{m}-{d}'

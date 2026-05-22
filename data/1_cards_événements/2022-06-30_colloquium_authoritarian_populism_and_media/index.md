@@ -1,12 +1,10 @@
 ---
-uuid: f90adda6-a06f-4e8e-aa20-b7f36e3884a6
+uuid: f079f5ae-a184-43d3-b56a-8fe9f58ed410
 title: "Colloquium  “AUTHORITARIAN POPULISM AND MEDIA”"
 author: "Sevilay Celenk"
 event: False
 abstract: "''"
 ---
-
-![Picture for Colloquium  “AUTHORITARIAN POPULISM AND MEDIA”]()
 
 ## Titre
 
@@ -34,5 +32,5 @@ abstract: "''"
 
 ## URL relative
 
- /evenement/colloquium-authoritarian-populism-and-media
+ https://www.gripic.fr/evenement/colloquium-authoritarian-populism-and-media;/evenement/colloquium-authoritarian-populism-and-media
 

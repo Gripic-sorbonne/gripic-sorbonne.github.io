@@ -1,12 +1,10 @@
 ---
-uuid: da9e1472-23cc-4c4a-85dc-57e304dd766d
+uuid: 72f60ed6-3f66-4140-934c-670c9cf87b0b
 title: "Communautés politiques, émotions et réactions"
 author: "Virginie JULLIARD, Nelly Quemener"
 event: False
 abstract: "''"
 ---
-
-![Picture for Communautés politiques, émotions et réactions]()
 
 ## Titre
 
@@ -34,5 +32,5 @@ abstract: "''"
 
 ## URL relative
 
- /evenement/communautes-politiques-emotions-reactions
+ https://www.gripic.fr/evenement/communautes-politiques-emotions-reactions;/evenement/communautes-politiques-emotions-reactions
 

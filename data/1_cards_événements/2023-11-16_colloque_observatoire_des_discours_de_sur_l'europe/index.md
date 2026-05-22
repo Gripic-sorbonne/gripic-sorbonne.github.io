@@ -1,12 +1,10 @@
 ---
-uuid: 8edb194d-bb50-4091-a7c7-9e6e5fadd9ea
+uuid: 44053eea-a5dd-4615-a8c3-cdc20742b7e7
 title: "Colloque Observatoire des discours de/sur l'Europe"
 author: "Juliette Charbonneaux"
 event: False
-abstract: "'Dispositifs d'Europe, dispositifs européens"
+abstract: " Dispositifs d'Europe, dispositifs européens"
 ---
-
-![Picture for Colloque Observatoire des discours de/sur l'Europe]()
 
 ## Titre
 
@@ -38,5 +36,5 @@ abstract: "'Dispositifs d'Europe, dispositifs européens"
 
 ## URL relative
 
- /evenement/colloque-observatoire-discours-desur-leurope
+ https://www.gripic.fr/evenement/colloque-observatoire-discours-desur-leurope;/evenement/colloque-observatoire-discours-desur-leurope
 
