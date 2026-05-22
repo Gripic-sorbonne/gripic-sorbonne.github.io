@@ -38,6 +38,8 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
         md_page += f"![Picture for {event_dict[main_header]}]()\n\n"
     event_dict.pop(photo_header)
     for key, val in event_dict.items():
+        if key == 'Groupe':
+            continue
         if val != "":
             md_page += f"## {key}\n\n {val}\n\n"
     return md_page
