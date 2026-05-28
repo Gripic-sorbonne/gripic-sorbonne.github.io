@@ -1,12 +1,12 @@
 ---
-uuid: fb132c38-fa1e-4caa-9670-2caa5349199d
+uuid: 563ef17d-bc8a-4536-bc2a-9a316e7da78e
 prettyName: MaximeFabre
 
 title: Maxime Fabre
 abstract: 
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2022-09/Maxime%20Fabre.jpg?itok=r_LTmwvU)
 
 ## Prénom et Nom
 

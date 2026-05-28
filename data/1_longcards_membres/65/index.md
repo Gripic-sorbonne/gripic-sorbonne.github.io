@@ -1,12 +1,12 @@
 ---
-uuid: 93bb0ae6-9cd5-44a8-ac12-247be6364e3a
+uuid: 78992270-7556-43a4-a550-f75d72a9cc1b
 prettyName: ClotildeChevet
 
 title: Clotilde Chevet
 abstract: 
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2022-09/CHEVET_photo.png?itok=8c-8afAH)
 
 ## Prénom et Nom
 

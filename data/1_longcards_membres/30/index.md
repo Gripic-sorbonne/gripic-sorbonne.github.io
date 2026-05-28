@@ -1,12 +1,12 @@
 ---
-uuid: da7cb625-aa82-40ba-a127-50d270349581
+uuid: 40938170-d83a-4141-b537-56120bfde78f
 prettyName: EmmanuëlSouchier
 
 title: Emmanuël Souchier
 abstract: Professeur des universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/emmanuel_souchier_web.jpg?itok=X1OFtvn5)
 
 ## Prénom et Nom
 

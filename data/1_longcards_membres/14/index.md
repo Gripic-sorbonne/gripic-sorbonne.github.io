@@ -1,12 +1,12 @@
 ---
-uuid: a207ae97-760d-4283-b9ea-ef0a030a4410
+uuid: 7fbe1f81-ca18-4e76-b491-c156c7e0986d
 prettyName: EmmanuelleFantin
 
 title: Emmanuelle Fantin
 abstract: Maîtresse de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-06/emmanuelle-fantin2_web.jpg?itok=1scYh_pK)
 
 ## Prénom et Nom
 

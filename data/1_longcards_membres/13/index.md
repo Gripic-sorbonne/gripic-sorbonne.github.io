@@ -1,12 +1,12 @@
 ---
-uuid: ba5662ee-4103-4c67-9942-09277f399632
+uuid: 9b968ab2-a8ea-4e24-a6f1-b1057a4fb289
 prettyName: PaulineEscandeGauquié
 
 title: Pauline Escande-Gauquié
 abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/pauline-escande-gauquie.jpg?itok=z1olcPhq)
 
 ## Prénom et Nom
 

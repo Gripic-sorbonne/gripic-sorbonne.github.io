@@ -1,12 +1,12 @@
 ---
-uuid: 0f1f0806-abc3-4b72-b723-7fd699882f22
+uuid: e2fcbc34-fc39-441c-8631-399df7bc58ca
 prettyName: ValériePatrinLeclère
 
 title: Valérie Patrin-Leclère
 abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/valerie_patrin-leclere_web_0.jpg?itok=KVNHelmH)
 
 ## Prénom et Nom
 

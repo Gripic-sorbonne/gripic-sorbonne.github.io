@@ -1,12 +1,12 @@
 ---
-uuid: e7a146ea-c48f-4e25-8afa-64b1acc6c4f5
+uuid: ffffc565-9337-49e3-9bf9-d733650fd27c
 prettyName: HécateVergopoulos
 
 title: Hécate Vergopoulos
 abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2022-12/Hecate%20Vergopoulos.jpg?itok=qydoCHhT)
 
 ## Prénom et Nom
 

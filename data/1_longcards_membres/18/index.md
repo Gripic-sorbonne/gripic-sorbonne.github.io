@@ -1,12 +1,12 @@
 ---
-uuid: 6c1e9a8b-f292-4866-bf64-a45f71820218
+uuid: c3da318e-26f0-4717-b786-6a901e6221e7
 prettyName: ValérieJeannePerrier
 
 title: Valérie Jeanne-Perrier
 abstract: Professeur des universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/valerie_jeanne-perrier_web.jpg?itok=Esk7YMUv)
 
 ## Prénom et Nom
 

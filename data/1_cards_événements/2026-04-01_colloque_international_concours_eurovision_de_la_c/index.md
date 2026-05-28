@@ -1,5 +1,5 @@
 ---
-uuid: dcf76aaf-c06f-4771-98e0-b84ad047dbe0
+uuid: b20aa033-05f6-4143-825b-7945f71acd60
 title: "Colloque international Concours eurovision de la chanson et sciences humaines et sociales"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
 event: False

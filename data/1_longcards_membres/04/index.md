@@ -1,12 +1,12 @@
 ---
-uuid: 6df0e69c-c19d-4c39-ac80-9ddba66697de
+uuid: f7fd7b93-9433-4da2-a244-c6c69136e89c
 prettyName: LisaBolz
 
 title: Lisa Bolz
 abstract: 
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/lisa-bolz_web.jpg?itok=OW7hWRAk)
 
 ## Prénom et Nom
 

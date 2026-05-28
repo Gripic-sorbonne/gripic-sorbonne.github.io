@@ -1,12 +1,12 @@
 ---
-uuid: 6d45059f-fab3-4e5a-9bfc-909223a8bf0b
+uuid: 159e4bcf-d9f3-428e-a0f4-789841032908
 prettyName: CamilleRondot
 
 title: Camille Rondot
 abstract: Maîtresse de conférences en SIC
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/camille_rondot_web_0.jpg?itok=IR2eb1_S)
 
 ## Prénom et Nom
 

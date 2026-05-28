@@ -1,12 +1,12 @@
 ---
-uuid: a3046150-064f-4023-8a90-42c196cc9b7c
+uuid: c29767ca-09bc-40bb-901a-cc1f1fbb3586
 prettyName: VirginieJulliard
 
 title: Virginie Julliard
 abstract: Professeure des Universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2022-12/Virgine%20Julliard-min.jpg?itok=desyj9jf)
 
 ## Prénom et Nom
 

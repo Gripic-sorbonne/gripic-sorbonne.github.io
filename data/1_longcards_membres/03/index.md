@@ -1,12 +1,12 @@
 ---
-uuid: 84548897-0fb3-4e97-b12f-01bc835642b4
+uuid: 9e9e446f-b605-4918-9baa-30249cc5c0b0
 prettyName: KarineBerthelotGuiet
 
 title: Karine Berthelot-Guiet
 abstract: Professeure des universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2022-12/Karine%20Berthelot-Guiet.jpg?itok=rBSEUNYE)
 
 ## Prénom et Nom
 

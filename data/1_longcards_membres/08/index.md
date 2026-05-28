@@ -1,12 +1,12 @@
 ---
-uuid: 36e94c4a-b77b-4648-81f7-5e86918c02e0
+uuid: 4c1eacfe-bc2e-4d3d-a291-d35244eb23bd
 prettyName: SophieCorbillé
 
 title: Sophie Corbillé
 abstract: Professeure des universités
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](https://kit-117.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-04/sophie_corbille_web.jpg?itok=TKpabJeh)
 
 ## Prénom et Nom
 
