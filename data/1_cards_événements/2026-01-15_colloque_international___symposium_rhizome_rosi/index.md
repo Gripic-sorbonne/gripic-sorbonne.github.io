@@ -1,5 +1,5 @@
 ---
-uuid: 6cc4acb9-4451-4945-bffe-7aa8c6bf4edf
+uuid: 9501530d-91d4-42e7-ba95-6a377d460b28
 title: "Colloque international :  Symposium Rhizome Rosi"
 author: "Nelly Quemener, Marco dell Omodarme, Krista Faurie"
 event: False
@@ -32,5 +32,5 @@ abstract: "''"
 
 ## URL relative
 
- https://www.gripic.fr/evenement/colloque-international-symposium-rhizome-rosi;/evenement/colloque-international-symposium-rhizome-rosi
+ https://www.gripic.fr/evenement/colloque-international-symposium-rhizome-rosi
 

@@ -1,5 +1,5 @@
 ---
-uuid: 528935b8-8463-4ccb-98b2-94d85edae83d
+uuid: 759f01c2-0dc8-4fc2-94fc-98452c0ce931
 title: "Enfance et histoire : cultures et pratiques enfantines du passé"
 author: "Emmanuelle Fantin et Julien Tassel"
 event: False
@@ -32,5 +32,5 @@ abstract: "''"
 
 ## URL relative
 
- https://www.gripic.fr/evenement/enfance-histoire-cultures-pratiques-enfantines-passe;/evenement/enfance-histoire-cultures-pratiques-enfantines-passe
+ https://www.gripic.fr/evenement/enfance-histoire-cultures-pratiques-enfantines-passe
 

@@ -1,5 +1,5 @@
 ---
-uuid: b20aa033-05f6-4143-825b-7945f71acd60
+uuid: 2ce5f9a6-934b-4001-bb7c-7b2255195859
 title: "Colloque international Concours eurovision de la chanson et sciences humaines et sociales"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
 event: False
@@ -36,5 +36,5 @@ abstract: "'Enjeux, questionnnements et perpectives'"
 
 ## URL relative
 
- https://www.gripic.fr/evenement/colloque-international-concours-eurovision-chanson-sciences-humaines-sociales;/evenement/colloque-international-concours-eurovision-chanson-sciences-humaines-sociales
+ https://www.gripic.fr/evenement/colloque-international-concours-eurovision-chanson-sciences-humaines-sociales
 
