@@ -159,6 +159,7 @@ def clean_folder_name(name: str) -> str:
     # Limiter la longueur à 255 caractères (limite commune pour les noms de dossier)
     return cleaned_name[:50].lower()
 
+
 print("Dossiers et fichiers créés avec succès.")
 
 # Example usage:
