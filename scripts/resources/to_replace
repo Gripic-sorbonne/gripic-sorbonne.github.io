@@ -4,4 +4,4 @@ customisation.jsx code/src/components
 icon.svg code/src/images
 LogoLabo.png code/src/images
 siteConfig.json code
-programmes.jsx scripts/resources/to_replace
+programmes.jsx code/src/templates
