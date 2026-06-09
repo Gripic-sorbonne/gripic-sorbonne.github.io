@@ -9,7 +9,7 @@ abstract: "''"
 <h2>Programmes publics | Gripic<h2>
 
 
-Posté par admin, mis à jour le 28 mars 2014
+<p>Posté par admin, mis à jour le 28 mars 2014
 
 « Enjeux communicationnels du phénomène de labellisation dans le domaine culturel » (Convention de partenariat – ministère de la Culture et de la Communication – 2013-2015). Convention prévoyant l’encadrement de travaux pédagogiques d’étudiants, de la L3 au M2, et un volet « Recherche », avec l’organisation d’un séminaire et d’un colloque. Responsable scientifique : Emmanuelle Lallement. Équipe : Olivier Aïm, Pauline Escande-Gauquié.
 
@@ -50,11 +50,11 @@ Il est mené avec le partenariat  de la Bibliothèque et des Archives de l’In
 Consulter l'appel à communication du colloque Paris capital(e) médiatique, XIXe-XXIe siècles. Lieux, modèles et figures des médias, de Girardin aux start-up
 TRANSNUM : Transformations du/par le numérique(2017-2018) TRANSNUM est un des projets du programme Soutien à des Actions Transversales Structurantes Sorbonne Universités - SATS-SU 2016.
 Il est porté par le GRIPIC et le COSTECH (Université technologique de Compiègne)
-Thématiques de recherche
+Thématiques de recherche <p>
 
 <h2>Programmes privés | Gripic<h2>
 
-Posté par admin, mis à jour le 28 mars 2014
+<p>Posté par admin, mis à jour le 28 mars 2014
 
 Elaboration d’une charte linguistique pour AG2R La Mondiale (contrat Gripic – Chaire/ AG2R La Mondiale)
 « Un site de typographie en ligne : Font You » (contrat Gripic / Font You, 2012)
@@ -66,15 +66,15 @@ Elaboration d’une charte linguistique pour AG2R La Mondiale (contrat Gripic �
 « Dispositifs médiatiques informatisés et pratiques sociales » (contrat Gripic / Monde diplomatique, 2008).
 L’image des dirigeants de grandes entreprises dans les médias (Contrat Gripic /Institut de l’Entreprise, 2007-2008).
 « Mise en perspective théorique et pratique d’une approche transversale de la communication » (Contrat Gripic /Netco Group, 2007).
-« Promouvoir une culture des risques à l’école : Quels enjeux ? Quelles difficultés ? » (contrat Gripic /IRSN - Institut de radioprotection et de sûreté nucléaire -, 2007).
+« Promouvoir une culture des risques à l’école : Quels enjeux ? Quelles difficultés ? » (contrat Gripic /IRSN - Institut de radioprotection et de sûreté nucléaire -, 2007).<p>
 
 
 <h2>Collectifs de recherche | Gripic<h2>
 
-Posté par admin, mis à jour le 20 janvier 2022
+<p>Posté par admin, mis à jour le 20 janvier 2022
 
 Le Gripic développe de nombreux partenariats et relations avec d’autres laboratoires de recherche et institutions. La richesse de ces échanges et collaborations se manifeste à travers des conventions, des réseaux thématiques, l’organisation de colloques, des séminaires, certains dans le cadre de programmes de recherche (type ANR).
 Il organise régulièrement des journées d’études doctorales en collaboration avec d’autres laboratoires autour d’un thème qui fédère les recherches de plusieurs de leurs doctorants.
 GIS « journalisme »
 Réseau « Littérature et communication »
-Séminaire « Communication et développement durable »
+Séminaire « Communication et développement durable »<p>
