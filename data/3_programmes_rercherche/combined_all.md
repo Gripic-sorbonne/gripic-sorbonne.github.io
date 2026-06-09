@@ -4,9 +4,9 @@ title: "Programmes de Recherche"
 event: False
 abstract: "''"
 ---
-<h1>Programmes de Recherche<h1>
+<h1>Programmes de Recherche</h1>
 
-<h2>Programmes publics | Gripic<h2>
+<h2>Programmes publics | Gripic</h2>
 
 
 <p>Posté par admin, mis à jour le 28 mars 2014
@@ -50,9 +50,9 @@ Il est mené avec le partenariat  de la Bibliothèque et des Archives de l’In
 Consulter l'appel à communication du colloque Paris capital(e) médiatique, XIXe-XXIe siècles. Lieux, modèles et figures des médias, de Girardin aux start-up
 TRANSNUM : Transformations du/par le numérique(2017-2018) TRANSNUM est un des projets du programme Soutien à des Actions Transversales Structurantes Sorbonne Universités - SATS-SU 2016.
 Il est porté par le GRIPIC et le COSTECH (Université technologique de Compiègne)
-Thématiques de recherche <p>
+Thématiques de recherche </p>
 
-<h2>Programmes privés | Gripic<h2>
+<h2>Programmes privés | Gripic</h2>
 
 <p>Posté par admin, mis à jour le 28 mars 2014
 
@@ -69,7 +69,7 @@ L’image des dirigeants de grandes entreprises dans les médias (Contrat Gripic
 « Promouvoir une culture des risques à l’école : Quels enjeux ? Quelles difficultés ? » (contrat Gripic /IRSN - Institut de radioprotection et de sûreté nucléaire -, 2007).<p>
 
 
-<h2>Collectifs de recherche | Gripic<h2>
+<h2>Collectifs de recherche | Gripic</h2>
 
 <p>Posté par admin, mis à jour le 20 janvier 2022
 
@@ -77,4 +77,4 @@ Le Gripic développe de nombreux partenariats et relations avec d’autres labo
 Il organise régulièrement des journées d’études doctorales en collaboration avec d’autres laboratoires autour d’un thème qui fédère les recherches de plusieurs de leurs doctorants.
 GIS « journalisme »
 Réseau « Littérature et communication »
-Séminaire « Communication et développement durable »<p>
+Séminaire « Communication et développement durable »</p>
