@@ -1,4 +1,8 @@
-<html><body>
+---
+uuid: 404d531c-ec64-40c5-a320-31c19af7f5cf
+title: "Publications"
+---
+<body>
 <nav><ul><li><a href="#">ETC</a></li><li><a href="#report">report</a></li><li><a href="#article-journal">article-journal</a></li><li><a href="#manuscript">manuscript</a></li><li><a href="#chapter">chapter</a></li><li><a href="#thesis">thesis</a></li><li><a href="#paper-conference">paper-conference</a></li><li><a href="#book">book</a></li>
 </ul></nav>
 <section id=""><h2></h2><ul><li> <a href="https://hal.science/hal-05639591">Les formats courts, des alliés pour la formation de l’esprit critique ?</a>\s[2026, 5]
@@ -3603,4 +3607,4 @@ Communication and Social Communities</p>
 (Université Paris 4 Paris-Sorbonne ; CELSA) (nan)</li><li> <a href="https://theses.hal.science/tel-00132522">La vie quotidienne des communautés artificielles. Société de disponibilité</a>\s[2005, 12]
 <p>nan</p>
 (Université Paris-Sorbonne - Paris IV) (nan)</li></ul></section>
-</body></html>
+</body>
