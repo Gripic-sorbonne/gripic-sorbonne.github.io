@@ -59,7 +59,6 @@ def match_csv_name(csv_name, slug_parts):
 
 
 def main():
-    # 5개 페이지에서 사진 URL 전부 수집
     all_members_photos = []
    
     url = f"https://kit-117.sorbonne-universite.fr/membres?field_tag=&field_person_type%5B0%5D=291&page=6"
@@ -73,13 +72,11 @@ def main():
     for slug, url in all_members_photos:
         print(f"  {slug} => {url}")
 
-    # CSV 읽기
     with open(CSV_PATH, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         fieldnames = reader.fieldnames
         rows = list(reader)
 
-    # 매칭 및 Photo 컬럼 채우기
     matched = 0
     for row in rows:
         csv_name = row.get("Prénom et Nom", "")
@@ -93,7 +90,6 @@ def main():
 
     print(f"\nMatched {matched}/{len(rows)} members.")
 
-    # CSV 쓰기 (덮어쓰기)
     with open(OUTPUT_PATH, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=";")
         writer.writeheader()
