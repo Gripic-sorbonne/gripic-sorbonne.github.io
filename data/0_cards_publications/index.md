@@ -1952,7 +1952,7 @@ Communication and Social Communities</p>
 (L’Harmattan)  </li><li> <a href='https://hal.science/hal-03750607'> Le blog intime au croisement des genres de l’écriture de soi </a>
  <p>['Oriane Deseilligny'] [2010]
  Itinéraires. Littérature, textes, cultures</p>
-(L’Harmattan [2008-2013] - Pléiade (UR 7338) (Université Sorbonne Paris Nord [2008-....])  </li><li> <a href='https://hal.science/hal-03754401'> La métropole de Paris et ses récits </a>
+ (L’Harmattan [2008-2013] - Pléiade (UR 7338) (Université Sorbonne Paris Nord [2008-....])  </li><li> <a href='https://hal.science/hal-03754401'> La métropole de Paris et ses récits </a>
  <p>['Dominique Pagès'] [2010]
  Quaderni</p>
 (Maison des sciences de l’homme)  </li><li> <a href='https://hal.science/hal-03758658'> Trouble dans le bouffon : Bigard et le 11 septembre </a>
