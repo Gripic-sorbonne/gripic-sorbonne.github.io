@@ -4,7 +4,8 @@ title: "Programmes de Recherche"
 event: False
 abstract: "''"
 ---
-<h1>Programmes de Recherche</h1>
+
+<div style="margin-left: 3em; margin-right: 3em;">
 
 <h2>Programmes publics | Gripic</h2>
 
@@ -78,3 +79,5 @@ Il organise régulièrement des journées d’études doctorales en collaboratio
 GIS « journalisme »
 Réseau « Littérature et communication »
 Séminaire « Communication et développement durable »</p>
+
+</div>
