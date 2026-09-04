@@ -1,21 +1,2 @@
 ﻿Nom d'utilisateur;Prénom et Nom;Fonction;Contact;Thèmes de recherche;Publications;Photo
-cduval;Claire Duval;Maîtresse de conférences en humanités numériques;claire.duval@univ-lumina.fr;"- Analyse de corpus littéraires par apprentissage automatique
-- Visualisation de réseaux d’auteurs
-- Philologie computationnelle";"- Duval, C. (2022). *Cartographier les correspondances : réseaux d’auteurs du XIXe siècle*. Revue Humanités Numériques.
-- Duval, C. (2024). *Apprentissage profond et poésie symboliste*. Digital Humanities Review.";avatar.webp
-mbenali;Mourad Benali;Chercheur CNRS en méthodes numériques appliquées à l’histoire;mourad.benali@cnrs.fr;"- Modélisation temporelle des données historiques
-- Simulation d’évolutions démographiques
-- Archives numériques et métadonnées";"- Benali, M. (2021). *Temporalités croisées : modéliser les flux migratoires anciens*. Journal of Digital History.
-- Benali, M. (2023). *Métadonnées et sens : annotation sémantique des archives*. Cahiers DH.";avatar.webp
-jroux;Julie Roux;Postdoctorante en visualisation de données culturelles;julie.roux@epfl.ch;"- Cartographie des données culturelles
-- Représentation spatiale des corpus
-- Interfaces exploratoires pour les musées";"- Roux, J. (2023). *Musées augmentés : visualiser les collections invisibles*. Digital Cultural Heritage.
-- Roux, J. (2024). *Cartographier la culture populaire européenne*. Data & Society.";avatar.webp
-tnguyen;Thanh Nguyen;Professeur associé en humanités computationnelles;thanh.nguyen@univ-lorraine.fr;"- Traitement automatique des textes anciens
-- Intelligence artificielle et patrimoine
-- Éthique des algorithmes culturels";"- Nguyen, T. (2020). *Reconnaissance de caractères pour manuscrits anciens*. Revue Informatique & Culture.
-- Nguyen, T. (2022). *Vers une IA éthique pour le patrimoine numérique*. Humanités & Technologies.";avatar.webp
-sperez;Sofia Pérez;Doctorante en analyse numérique des arts visuels;sofia.perez@ens-paris.fr;"- Reconnaissance d’images artistiques
-- Bases de données iconographiques
-- Classification stylistique assistée";"- Pérez, S. (2024). *Repérer les motifs récurrents dans la peinture espagnole du XVIIe siècle*. Visual Digital Studies.
-- Pérez, S. (2025). *Stylométrie visuelle et machine learning appliqués aux arts*. Artefacta.";avatar.webp
+1;2;3;4;5;6;avatar.webp
