@@ -5,7 +5,9 @@
 name: Mettre le Site en Ligne
 
 on:
-  # Allows you to run this workflow manually from the Actions tab
+  push:
+    branches:
+      - clean-start
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
