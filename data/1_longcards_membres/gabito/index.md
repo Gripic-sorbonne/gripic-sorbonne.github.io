@@ -1,9 +1,9 @@
 ---
-uuid: a7478d02-3f66-443b-9a92-6d76be0df899
+uuid: f3007163-632a-44e3-a89f-430530bc7622
 prettyName: gabito
 
 title: gabito
-abstract: Dev
+abstract: colocado
 ---
 
 ![small](minion.webp)
@@ -11,16 +11,4 @@ abstract: Dev
 ## ﻿Nom d'utilisateur
 
  mrgabo
-
-## Contact
-
- none
-
-## Thèmes de recherche
-
- 1
-
-## Publications
-
- 2
 
