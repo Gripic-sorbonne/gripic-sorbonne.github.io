@@ -1,12 +1,12 @@
 ---
-uuid: ddaf6959-220a-4c41-8be9-0389876d7475
+uuid: a7478d02-3f66-443b-9a92-6d76be0df899
 prettyName: gabito
 
 title: gabito
 abstract: Dev
 ---
 
-![small](avatar.webp)
+![small](minion.webp)
 
 ## ﻿Nom d'utilisateur
 
