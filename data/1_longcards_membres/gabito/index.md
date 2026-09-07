@@ -1,5 +1,5 @@
 ---
-uuid: f3007163-632a-44e3-a89f-430530bc7622
+uuid: 80bf54fa-095b-4c1f-8c84-ef6ae1572cc5
 prettyName: gabito
 
 title: gabito
@@ -11,4 +11,16 @@ abstract: colocado
 ## ﻿Nom d'utilisateur
 
  mrgabo
+
+## opt1
+
+ en
+
+## opt2
+
+ el
+
+## otro_titulo
+
+ cielo
 
