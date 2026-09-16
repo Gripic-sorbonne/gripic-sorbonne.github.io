@@ -45,4 +45,6 @@ htmlcov/
 *.swp
 *.swo
 
-dev_utils/*
+dev_utils/cache_html
+dev_utils/photos
+members_dataset.json
