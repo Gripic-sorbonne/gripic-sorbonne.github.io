@@ -1,5 +1,5 @@
 ---
-uuid: f17b7cfc-7f48-48a0-8671-92de072d0ee2
+uuid: b0126006-e4c5-4569-af2d-495d023c6d2e
 prettyName: gabito
 
 title: gabito
@@ -15,12 +15,4 @@ abstract: Dev
 ## Contact
 
  none
-
-## Thèmes de recherche
-
- 1
-
-## Publications
-
- 2
 

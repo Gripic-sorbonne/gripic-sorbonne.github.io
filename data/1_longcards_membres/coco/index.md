@@ -1,5 +1,5 @@
 ---
-uuid: 26c9286a-b77e-46f6-9800-473d65f7a3d8
+uuid: 166d2cce-a901-41d7-a6ec-cd65d3ec9e02
 prettyName: coco
 
 title: coco
@@ -11,10 +11,6 @@ abstract: cantante
 ## ﻿Nom d'utilisateur
 
  msgaba
-
-## Contact
-
- noni
 
 ## None
 
