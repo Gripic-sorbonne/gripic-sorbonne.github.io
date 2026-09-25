@@ -1,5 +1,9 @@
 nom;groupe;type;description
-publications;0;cards; Toutes les dernières publications du laboratoire.
-événements;1;cards; Les événements passés et à venir.
-membres;1;longcards; Les membres du laboratoire.
-contact;2;cards; Nous contacter au labo@sorbonne-universite.fr ou au XX XX XX XX XX.
+Qui sommes-nous?;0;cards; Toutes les dernières publications du laboratoire.
+Project scientifique;0;cards; Toutes les dernières publications du laboratoire.
+Axes de recherche;0;cards; Toutes les dernières publications du laboratoire.
+Publications;1;cards; Les événements passés et à venir.
+Collectifs et programmes de rechercheCollectifs et programmes de recherche;2;cards; Nous contacter au labo@sorbonne-universite.fr ou au XX XX XX XX XX.
+Formation à la recherche et au doctorat;3;longcards;"5"
+International;4;longcards;"3"
+Toute l'actualité du GRIPIC;5;sectionsol;3
