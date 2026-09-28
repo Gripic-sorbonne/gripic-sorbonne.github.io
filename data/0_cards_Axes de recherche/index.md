@@ -1,5 +1,5 @@
 ---
-uuid: 8ee302da-206b-4d62-a579-87fb55422aa2
+uuid: 98bf04a6-7529-40e9-bb8e-b8a2d725840a
 title: "Axes de recherche"
 ---
  Toutes les dernières publications du laboratoire.
