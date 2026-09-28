@@ -1,6 +1,6 @@
 ---
-uuid: 733cf466-c868-4bc2-8b70-76a2ccd95a76
-title: "Axis"
+uuid: e68adce0-760f-4fa0-9a1e-e9cef7369bc1
+title: "Axes de recherche"
 ---
 # Thématiques de recherche
 
