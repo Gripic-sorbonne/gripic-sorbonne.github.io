@@ -1,5 +1,5 @@
 ---
-uuid: 60d4cc75-d2ad-49c1-a82a-0a139509585f
+uuid: c0158858-6576-43f3-950d-f183944b06d6
 title: "Project scientifique"
 ---
  Toutes les dernières publications du laboratoire.
