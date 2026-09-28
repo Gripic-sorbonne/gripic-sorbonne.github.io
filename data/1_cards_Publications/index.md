@@ -1,5 +1,5 @@
 ---
-uuid: 1965aa2e-d616-4505-a22c-4856f68f6a1b
+uuid: 2b8d3750-fbed-40d6-be62-16ed82ef02d9
 title: "Publications"
 ---
  Les événements passés et à venir.
