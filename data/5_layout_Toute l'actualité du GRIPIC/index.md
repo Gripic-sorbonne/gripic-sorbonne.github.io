@@ -1,5 +1,5 @@
 ---
-uuid: bc55c375-3ebc-4b31-bfbd-723f861666de
+uuid: 47a054c6-5765-4d01-aed9-27e9859d3989
 title: "Toute l'actualité du gripic"
 ---
 3
