@@ -6,7 +6,7 @@ import shutil
 import uuid
 DATA_DIR: Path = Path("../") / "data" 
 MEMBER_DIR: Path = DATA_DIR / '0_longcards_membres'
-EVENT_DIR: Path = DATA_DIR / "1_cards_événements"
+EVENT_DIR: Path = DATA_DIR / "2_cards_événements"
 SPLIT_PATTERN: str = r"\s|\'|\-|\_|«|»|,"
 IMAGE_PATH = "./avatar.webp"
 IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
