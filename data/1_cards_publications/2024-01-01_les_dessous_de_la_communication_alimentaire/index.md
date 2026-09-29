@@ -1,5 +1,5 @@
 ---
-uuid: 8bb9d49f-a419-470d-b795-f2a80baff2ad
+uuid: 7300b5ad-21f2-4cbd-b21c-18b0a32062bf
 title: "Les dessous de la communication alimentaire"
 author: "Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel"
 authors: "Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel"

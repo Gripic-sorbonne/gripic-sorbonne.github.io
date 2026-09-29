@@ -1,5 +1,5 @@
 ---
-uuid: 694cd8ac-1edf-4b5f-94be-6274cdccf438
+uuid: 0fa188bd-cac4-439e-8df1-dea9e9328222
 title: "XVIIe Colloque de la Society of Dix-Neuviémistes : “ Découvertes et Explorations ”"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

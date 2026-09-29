@@ -1,5 +1,5 @@
 ---
-uuid: 5a5974f0-2e7a-4be5-8ccf-8949ad44a8f2
+uuid: 49b4f682-6b65-43bb-bcbc-ba433b5afced
 title: "Journée d’études “ Penser l’Eurovision par la communication ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"

@@ -1,5 +1,5 @@
 ---
-uuid: 3cee1d5d-0565-448a-b069-6873819369d7
+uuid: de40e8d5-1bed-4151-ac17-ebfa903c9fa6
 title: "Données, textes et documents"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

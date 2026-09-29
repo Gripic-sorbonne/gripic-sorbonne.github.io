@@ -1,5 +1,5 @@
 ---
-uuid: d94b1b81-6c5f-4ce7-b434-043c6857f943
+uuid: 81ef7253-94df-4d34-8ed2-b055dcdd2f30
 title: "Usages médiatiques du portrait"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

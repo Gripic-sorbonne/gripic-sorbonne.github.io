@@ -1,5 +1,5 @@
 ---
-uuid: c3700543-e3cc-41e1-af0e-2dfe1d12d6bd
+uuid: 6df60b87-657e-474e-a09e-9084f347aea7
 title: "La gloire littéraire"
 author: "Caroline Marti"
 authors: "Caroline Marti"

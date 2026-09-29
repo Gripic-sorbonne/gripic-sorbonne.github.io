@@ -1,5 +1,5 @@
 ---
-uuid: 53e54179-d16b-40db-acbf-bd589d317719
+uuid: 247714da-b081-41a4-8a43-77a0db14f43a
 title: "By the Book3 : Building Audiences for the Book in an Age of Media Proliferation"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"

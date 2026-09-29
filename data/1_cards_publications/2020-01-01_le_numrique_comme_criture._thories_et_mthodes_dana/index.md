@@ -1,5 +1,5 @@
 ---
-uuid: 7a9c6ac4-fe86-4b40-b273-d82973c21c69
+uuid: a05c7960-684e-413f-9abb-2c247ee1b96f
 title: "Le numérique comme écriture. Théories et méthodes d’analyse"
 author: "Emmanuël Souchier, Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier"
 authors: "Emmanuël Souchier, Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier"

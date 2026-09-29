@@ -1,5 +1,5 @@
 ---
-uuid: 29d0bd9b-e30d-4bfe-903e-18a77a3b458c
+uuid: ed1db16a-6384-466f-80e4-cf14e3e9144b
 title: "Les paroles de plainte au travail. Des maux indicibles aux conversations du quotidien"
 author: "Olivia Foli"
 authors: "Olivia Foli"

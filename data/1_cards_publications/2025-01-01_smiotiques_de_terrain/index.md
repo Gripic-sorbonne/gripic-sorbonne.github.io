@@ -1,5 +1,5 @@
 ---
-uuid: e42e2048-6eb6-490d-abda-abbb13f69d06
+uuid: aeb94357-977f-425c-8dc5-945a40b44833
 title: "Sémiotiques de terrain"
 author: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
 authors: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"

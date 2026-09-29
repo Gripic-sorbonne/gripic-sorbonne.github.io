@@ -1,5 +1,5 @@
 ---
-uuid: 76704fa2-ee78-4a56-bc16-298c8c52f930
+uuid: 6757818a-d272-46fe-9742-2929fd1f21b5
 title: "“ Mediated (Dis)Continuities : contesting Pasts, Presents and Futures ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

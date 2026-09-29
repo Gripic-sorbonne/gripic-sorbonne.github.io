@@ -1,5 +1,5 @@
 ---
-uuid: 0b99c9c3-1d20-4031-bdac-8e0d2167ed34
+uuid: 671e7093-dd04-4574-aaf6-c46fc4980da5
 title: "Dossiers pédagogiques"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

@@ -1,5 +1,5 @@
 ---
-uuid: c7020431-cc3a-48b8-b1bd-54482385eeab
+uuid: 22405814-8bc2-4752-94a7-a25d1ec60689
 title: "La reconfiguration des pratiques culturelles et du genre à l’ère du numérique"
 author: "Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
 authors: "Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"

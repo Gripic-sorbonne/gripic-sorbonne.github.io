@@ -1,5 +1,5 @@
 ---
-uuid: 1b5055ea-48fe-4219-873d-353fd4a856de
+uuid: d0bcdaab-78b4-437d-a08b-04efb50a7ab7
 title: "Séminaire GIRANIUM, GRIPIC"
 author: "Ambre Abid-Dalençon, Juliette Charbonneaux"
 authors: "Ambre Abid-Dalençon, Juliette Charbonneaux"

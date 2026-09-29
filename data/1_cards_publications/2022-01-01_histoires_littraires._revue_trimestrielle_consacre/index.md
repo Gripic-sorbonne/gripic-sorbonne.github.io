@@ -1,5 +1,5 @@
 ---
-uuid: 701b15b4-465f-4440-8dc8-548183c18801
+uuid: a90d0cbf-cd4f-4ed0-816e-8829706e009a
 title: "Histoires littéraires. revue trimestrielle consacrée à la littérature française des XIX et XXe siècles"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 2fac36f5-ea42-423c-81e3-ac8e752348ec
+uuid: 35c07e3c-1f95-40d6-8d7a-08c2e633a22f
 title: "Nostalgies contemporaines. Médias, cultures et technologies"
 author: "Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer"
 authors: "Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer"
