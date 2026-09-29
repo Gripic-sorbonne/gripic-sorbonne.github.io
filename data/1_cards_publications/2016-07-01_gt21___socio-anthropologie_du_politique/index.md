@@ -1,5 +1,5 @@
 ---
-uuid: 9a48fa39-4785-409c-a908-7dff4a317014
+uuid: 8065bdd0-fd0e-465f-89f3-84876373896b
 title: "GT21 : Socio-anthropologie du politique"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750685"
 publisher: "Association Internationale des Sociologues de Langue Française"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

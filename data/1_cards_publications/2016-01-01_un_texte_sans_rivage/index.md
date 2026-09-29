@@ -1,5 +1,5 @@
 ---
-uuid: 3ea54d33-ac82-44f1-bd5a-76d85c210aae
+uuid: 9638e167-2bf7-4b47-a25c-91ac999e83c3
 title: "Un texte sans rivage"
 author: "Emmanuël Souchier, Anne Zali"
 authors: "Emmanuël Souchier, Anne Zali"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03760991"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

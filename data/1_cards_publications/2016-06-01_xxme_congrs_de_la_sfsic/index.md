@@ -1,5 +1,5 @@
 ---
-uuid: 6825a439-c1c0-4f9b-9191-de1e6968eb7a
+uuid: 11faf44c-9320-468f-a42a-55e5715d76ff
 title: "XXème congrès de la SFSIC"
 author: "hecate vergopoulos, Julien Tassel"
 authors: "hecate vergopoulos, Julien Tassel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767038"
 publisher: "SFSIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

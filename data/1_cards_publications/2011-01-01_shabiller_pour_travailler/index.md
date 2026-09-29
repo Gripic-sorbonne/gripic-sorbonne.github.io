@@ -1,5 +1,5 @@
 ---
-uuid: a99dfdf2-2400-4758-8bf5-a2f3f9b112ce
+uuid: 9d35e9b0-8a50-4935-89c2-ca3f0fcbc020
 title: "S’habiller pour travailler"
 author: "Julien Tassel, Anthony Mathé"
 authors: "Julien Tassel, Anthony Mathé"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03766834"
 publisher: "Presses universitaires de Lyon"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

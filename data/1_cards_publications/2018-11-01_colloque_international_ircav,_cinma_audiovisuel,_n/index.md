@@ -1,5 +1,5 @@
 ---
-uuid: eba869ee-1c8a-41da-b025-f16ce9c784e5
+uuid: 1abda446-4515-41c1-878f-ed2b096def20
 title: "Colloque international IRCAV, Cinéma audiovisuel, nouveaux médias"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750718"
 publisher: "Maison de la recherche Sorbonne Nouvelle"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

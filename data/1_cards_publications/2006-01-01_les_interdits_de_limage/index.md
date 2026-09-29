@@ -1,5 +1,5 @@
 ---
-uuid: 83bacf97-1943-48b6-9077-1ef2f48e7e0e
+uuid: 574a9757-08b3-4084-a11f-2b3346bb1fdb
 title: "Les interdits de l’image"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760413"
 publisher: "Obsidiane - Les Belles Lettres"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

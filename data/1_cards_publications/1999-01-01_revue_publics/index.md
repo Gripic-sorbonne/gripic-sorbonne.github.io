@@ -1,5 +1,5 @@
 ---
-uuid: f5dad97e-9284-4ca6-be85-c3a1af5cee01
+uuid: dff8afd2-6e2a-45a3-99fd-aca835a4d319
 title: "Revue PUBLICS"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03754520"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

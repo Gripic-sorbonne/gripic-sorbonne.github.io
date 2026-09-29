@@ -1,5 +1,5 @@
 ---
-uuid: ff1a9dc9-38c0-4e28-a7cd-c693eb2c4ec3
+uuid: f441e08c-7b8a-42fa-9305-5fd8f4eeef6c
 title: "Les ateliers réflexifs auprès des Ambassadeurs du numérique"
 author: "Laurent Petit, Aude Seurrat"
 authors: "Laurent Petit, Aude Seurrat"
@@ -9,7 +9,7 @@ type: "report"
 url: "https://hal.science/hal-03968555"
 publisher: "GIS2IF"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

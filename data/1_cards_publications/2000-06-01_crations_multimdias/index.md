@@ -1,5 +1,5 @@
 ---
-uuid: c2e46598-680d-4a7b-bf30-f7f752d707f8
+uuid: 50c21de4-7570-4e0e-a510-b8edbf1af6df
 title: "Créations multimédias"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754585"
 publisher: "IRCAM and Celsa"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

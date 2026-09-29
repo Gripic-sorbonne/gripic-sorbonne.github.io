@@ -1,5 +1,5 @@
 ---
-uuid: df8deee8-4755-4e14-a523-e9a5e4d88fe5
+uuid: a446c6dd-82d1-4c73-bc98-53c1987016a6
 title: "Atelier Adage"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605986"
 publisher: "GRIPIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 16c1d517-58c1-4af4-9f93-dd4367284555
+uuid: 29b8884d-e449-4201-af43-28300d3861e7
 title: "All models are wrong and most are harmful. Part 1. Unsustainable economic institutions"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-05037021"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

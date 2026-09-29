@@ -1,5 +1,5 @@
 ---
-uuid: 495398b6-ca2c-4b5f-b487-862faa297b1c
+uuid: 3c047f2a-df78-4e4c-a216-f891e3bef862
 title: "Ocula : occhio semiotico sui media"
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03772691"
 publisher: "Associazione Ocula"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

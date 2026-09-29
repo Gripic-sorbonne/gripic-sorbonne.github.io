@@ -1,5 +1,5 @@
 ---
-uuid: 4556036a-0827-40dd-bac3-e41077cb83d5
+uuid: 906b0f6e-b31f-41eb-a56d-588f2b5e855d
 title: "Streaming Platforms from the Global South – Trajectories and Transnational Expansions"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05341867"
 publisher: "International Research Network (IRN) South-Stream"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

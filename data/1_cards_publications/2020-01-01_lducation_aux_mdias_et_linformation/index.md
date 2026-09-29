@@ -1,5 +1,5 @@
 ---
-uuid: 0981404e-d4c7-4f87-9631-b7e0a67b76fe
+uuid: 75cd48c4-b15f-42f6-b88b-718f84dd0377
 title: "L’éducation aux médias et à l’information"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03968225"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

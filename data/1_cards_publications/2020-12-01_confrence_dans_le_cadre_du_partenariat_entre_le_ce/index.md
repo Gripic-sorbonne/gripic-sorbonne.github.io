@@ -1,5 +1,5 @@
 ---
-uuid: 8ec6a986-8ea6-49a5-9bb4-1c6966797a31
+uuid: 312c7598-3f72-45f3-bd29-3268b1623df1
 title: "Conférence dans le cadre du partenariat entre le CELSA et l’Université Saint-Joseph de Beyrouth"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751306"
 publisher: "Groupe de recherches interdisciplinaires sur les processus d’information et de communication (GRIPIC)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

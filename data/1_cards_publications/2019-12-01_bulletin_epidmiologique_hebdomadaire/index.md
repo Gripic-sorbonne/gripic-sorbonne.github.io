@@ -1,5 +1,5 @@
 ---
-uuid: a46d3895-b01a-442f-a547-17effb565795
+uuid: 40910413-26c6-4bd1-af3b-90e48396f150
 title: "Bulletin Epidémiologique Hebdomadaire"
 author: "Guillaume Potherat, Julien Tassel, Olivier Epaulard"
 authors: "Guillaume Potherat, Julien Tassel, Olivier Epaulard"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03745401"
 publisher: "Institut de veille sanitaire (InVS)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

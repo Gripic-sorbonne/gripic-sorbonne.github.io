@@ -1,5 +1,5 @@
 ---
-uuid: 9eb23d01-eabf-457c-8557-704792ec1ff2
+uuid: bf61d977-303b-46e5-81ba-083527d0c004
 title: "Le Pouvoir de l’humour. Politiques des représentations dans les médias en France"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03758358"
 publisher: "Armand Colin"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 5be28174-9100-477a-a0f5-8784b2ee7367
+uuid: f32f2ee0-87e9-43cb-9c7f-0a3e7313e1ed
 title: "Nostalgie. Conceptualisation d’une émotion"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03721316"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

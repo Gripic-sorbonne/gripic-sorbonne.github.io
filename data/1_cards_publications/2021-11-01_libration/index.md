@@ -1,5 +1,5 @@
 ---
-uuid: 133efa7a-dd07-4de6-ada6-a75ed96c4144
+uuid: e46bbcca-437c-422e-b20f-8d4fd62a152d
 title: "Libération"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280571"
 publisher: "SARL Libération"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

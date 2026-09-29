@@ -1,5 +1,5 @@
 ---
-uuid: 7656f312-6930-403f-b4b6-0ed0b109a9c5
+uuid: 2d4bd099-ae1f-4172-a1c1-b282b47a683b
 title: "Communication politique"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03964012"
 publisher: "Pearson"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

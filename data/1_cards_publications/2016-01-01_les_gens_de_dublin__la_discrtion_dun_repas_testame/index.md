@@ -1,5 +1,5 @@
 ---
-uuid: 78615000-612c-419e-893d-5c1962257e30
+uuid: 7e8e7d91-b390-4b8d-9448-4f2cce021c62
 title: "Les gens de Dublin: la discrétion d’un repas testament"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03754443"
 publisher: "ISCC- CNRS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

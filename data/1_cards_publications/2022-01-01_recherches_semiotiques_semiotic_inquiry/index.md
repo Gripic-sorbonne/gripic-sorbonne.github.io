@@ -1,5 +1,5 @@
 ---
-uuid: 4ed97e2b-d413-418d-9410-e6e343c6c982
+uuid: 26e798ac-7460-4973-872d-5b7fb68dc638
 title: "Recherches Semiotiques Semiotic Inquiry"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03957998"
 publisher: "Canadian Semiotic Association"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

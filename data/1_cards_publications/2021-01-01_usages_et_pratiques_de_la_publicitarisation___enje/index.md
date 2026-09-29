@@ -1,5 +1,5 @@
 ---
-uuid: 543d3929-fdfb-421d-847e-3732985e1d5c
+uuid: 666a7aec-7c60-4ad5-a8c0-909695daf0f0
 title: "Usages et pratiques de la publicitarisation : enjeux économiques et symboliques des relations actuelles entre marques et média"
 author: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
 authors: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03768212"
 publisher: "Eska (Paris, France) [2013, vol. 10, n 1 - ....]"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

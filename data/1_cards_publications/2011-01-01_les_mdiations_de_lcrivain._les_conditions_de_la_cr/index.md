@@ -1,5 +1,5 @@
 ---
-uuid: b4bcea68-72e5-4602-89d5-47c7d95af82f
+uuid: ad72ce22-7f6a-48b6-8328-22ffe29cb9f3
 title: "Les médiations de l’écrivain. Les conditions de la création littéraire"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750592"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

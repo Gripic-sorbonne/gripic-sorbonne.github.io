@@ -1,5 +1,5 @@
 ---
-uuid: 5d1429ea-40a2-4eee-9d0d-cc29713bcdb7
+uuid: 2b81fb49-1cfe-4770-8e73-3ee2109f2098
 title: "Revue d’histoire et d’analyse du cinéma Alter/Réalité"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03773302"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

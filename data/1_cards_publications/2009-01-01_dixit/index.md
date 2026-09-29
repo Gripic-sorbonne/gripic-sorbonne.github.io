@@ -1,5 +1,5 @@
 ---
-uuid: 44c37071-40b3-4ce0-a713-3525cdee3ce5
+uuid: bccfa187-5eaf-4994-b7b7-453d754b040c
 title: "Dixit"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03750080"
 publisher: "Universidad Catolica del Uruguay"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

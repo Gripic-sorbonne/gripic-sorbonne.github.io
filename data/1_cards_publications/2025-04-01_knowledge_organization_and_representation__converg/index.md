@@ -1,5 +1,5 @@
 ---
-uuid: 7f17f69d-74c7-4e86-915e-e57d68ade413
+uuid: bae2a073-5564-4571-855d-13410ec9ddbe
 title: "”Knowledge Organization and Representation: Convergences and New Opportunities”"
 author: "Fabrice Papy, Micol Pasti"
 authors: "Fabrice Papy, Micol Pasti"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05638523"
 publisher: "ISKO Italia"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

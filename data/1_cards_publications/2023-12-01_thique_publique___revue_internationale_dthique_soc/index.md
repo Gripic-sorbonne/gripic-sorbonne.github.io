@@ -1,5 +1,5 @@
 ---
-uuid: 98dbd51c-de65-49b7-aa2c-ac6339acfe31
+uuid: 35f8582f-0e59-44a7-990c-5b4fb502cfcd
 title: "Éthique publique : Revue internationale d’éthique sociétale et gouvernementale"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-05347447"
 publisher: "École nationale d’administration publique du Québec (ÉNAP). Observatoire de l’administration publique (Canada) [1999-....]"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 0228f8d0-1a26-4e4f-ba4e-138e19d91edb
+uuid: 8126edf2-9f35-4bee-b16b-65aa030ab38d
 title: "International Journal of Tourism Cities"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03766983"
 publisher: "Emerald Group Publishing Limited"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

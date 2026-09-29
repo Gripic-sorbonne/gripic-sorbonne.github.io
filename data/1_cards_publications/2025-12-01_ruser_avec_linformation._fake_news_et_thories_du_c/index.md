@@ -1,5 +1,5 @@
 ---
-uuid: a5318598-2eb7-4a87-b793-648d6b3e2ee4
+uuid: f4defbac-3dd6-49a1-9912-d2f96fa11c34
 title: "Ruser avec l’information. Fake news et théories du complot de l’Antiquité à nos jours"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-05452779"
 publisher: "Presses universitaires de Franche-Comté"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

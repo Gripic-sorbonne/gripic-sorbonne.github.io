@@ -1,5 +1,5 @@
 ---
-uuid: 62d6d2af-b5de-4a6d-a448-89a67cc0bae7
+uuid: a0ae0908-0208-44d3-830f-9d327d01a771
 title: "Phantasmata. Techniques of the Uncanny"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767114"
 publisher: "Institute for Cultural Inquiry (ICI)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 57463c5d-0412-4ea6-aa16-1abfb39ec0ca
+uuid: 1ce7e37e-0b88-4295-91ad-c5befa72f301
 title: "Les journalismes : réalités plurielles, éthique commune ?"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752979"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

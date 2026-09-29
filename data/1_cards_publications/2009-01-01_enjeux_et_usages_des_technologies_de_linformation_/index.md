@@ -1,5 +1,5 @@
 ---
-uuid: 0fced6c7-0f94-47e2-a4ec-f5e4e6d5bed7
+uuid: 5abd3c7b-be95-4c42-9bc4-240043758f11
 title: "Enjeux et Usages des Technologies de l’Information et de la Communication"
 author: "Karine Berthelot-Guiet, Caroline Marti"
 authors: "Karine Berthelot-Guiet, Caroline Marti"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749790"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 72a21fbb-6074-4ae0-9435-c1a014dbde41
+uuid: 97ba857b-d61a-4f48-b4b9-afb7102393ba
 title: "“ Emmanuel Macron préfère se passer des journalistes dès qu’il le peut ,” entretien avec Cléa Chakraverty, The Conversation"
 author: "Alexis Levrier"
 authors: "Alexis Levrier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-05622200"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

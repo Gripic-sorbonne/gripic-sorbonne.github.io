@@ -1,5 +1,5 @@
 ---
-uuid: ff96ccb6-e7c0-46f3-8787-c1053c720544
+uuid: a398cdb0-0fda-4238-a27f-0aa477410112
 title: "Exposition prolongée"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761100"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

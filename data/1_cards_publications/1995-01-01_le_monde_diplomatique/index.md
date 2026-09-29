@@ -1,5 +1,5 @@
 ---
-uuid: 38218870-9ecc-4cdd-97fa-1cac0bbb7fc9
+uuid: ed19acfa-64b9-462c-9a96-4ddaf1245ed1
 title: "Le Monde Diplomatique"
 author: "Yves Jeanneret, Emmanuël Souchier"
 authors: "Yves Jeanneret, Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760955"
 publisher: "Le Monde"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

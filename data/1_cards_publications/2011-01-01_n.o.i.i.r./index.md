@@ -1,5 +1,5 @@
 ---
-uuid: b0e57a66-21ca-4274-8b99-434774296577
+uuid: e6e406c1-f165-4b54-b83e-2efc8261db40
 title: "N.O.I.I.R."
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03773292"
 publisher: "Une Nuit sans Lune/École pratique des Hautes Études"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

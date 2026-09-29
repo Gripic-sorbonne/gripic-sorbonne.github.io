@@ -1,5 +1,5 @@
 ---
-uuid: 0f146350-6515-4007-83dd-c5a95494fc75
+uuid: 31233dc5-4e00-46e5-8694-a6d0e68ba538
 title: "Communication, Technologies et Développement"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03966345"
 publisher: "Chaire Unesco Pratiques émergentes des technologies et communication pour le développement, Mica, Université Bordeaux 3"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: f25033b8-036d-43af-8585-973e70ed4e3e
+uuid: ddfb3189-1b1e-42d4-9a91-894dc4db8ae8
 title: "Troubles dans le (cyber)espace public : le problème public des fake news comme symptôme de crises systémiques dans la France contemporaine (XVIIIe-XXIe siècles)"
 author: "Damien Liccia"
 authors: "Damien Liccia"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-05056611"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

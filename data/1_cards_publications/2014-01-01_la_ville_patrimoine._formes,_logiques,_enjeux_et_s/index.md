@@ -1,5 +1,5 @@
 ---
-uuid: f43584de-a998-4258-8275-79467aa56c33
+uuid: e17cf4d2-cbed-40f9-9d11-8a39f0dd38c9
 title: "La ville patrimoine. Formes, logiques, enjeux et stratégies"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03749851"
 publisher: "PUR"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

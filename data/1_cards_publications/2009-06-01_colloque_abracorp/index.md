@@ -1,5 +1,5 @@
 ---
-uuid: afa01555-be45-4fc5-aecb-bc60c6b423f0
+uuid: 8833a6b6-f532-4b89-8779-ce0b2c047be6
 title: "Colloque ABRACORP"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750144"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

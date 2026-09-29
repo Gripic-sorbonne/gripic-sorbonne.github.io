@@ -1,5 +1,5 @@
 ---
-uuid: ca32afd8-b406-473c-9fec-110512b823c5
+uuid: 4868e050-5dd2-40ed-b5e2-8a58e2c7c31d
 title: "Revue de l’Enssib"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-05347481"
 publisher: "Ecole nationale supérieure des sciences de l’information et des bibliothèques"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

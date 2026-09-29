@@ -1,5 +1,5 @@
 ---
-uuid: 8c750a89-12ff-4186-9e1c-502eb327b3af
+uuid: b54bdba7-7b5e-43e5-a5f3-3b57ebd23afa
 title: "Cahiers de la communication interne"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03750054"
 publisher: "Association française de communication interne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

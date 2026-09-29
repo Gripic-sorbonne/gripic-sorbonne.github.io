@@ -1,5 +1,5 @@
 ---
-uuid: f0773b77-56fb-495e-a017-897cd2aea8e6
+uuid: 5ef9e0eb-7072-485d-9cd9-8a0f6310cc1e
 title: "Journée d’études “ Penser l’Eurovision par la communication ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605981"
 publisher: "GRIPIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

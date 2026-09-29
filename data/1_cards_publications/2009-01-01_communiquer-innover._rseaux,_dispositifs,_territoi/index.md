@@ -1,5 +1,5 @@
 ---
-uuid: 606d2f1b-4c0e-47d9-ad83-f5ab5510b0a2
+uuid: cfab280b-12f6-4036-b7de-5789c0fdc58b
 title: "Communiquer-Innover. Réseaux, dispositifs, territoires"
 author: "nicole D’Almeida, Pascal Griset, Serge Proulx"
 authors: "nicole D’Almeida, Pascal Griset, Serge Proulx"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03750016"
 publisher: "CNRS-Editions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

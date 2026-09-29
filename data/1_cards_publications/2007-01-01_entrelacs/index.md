@@ -1,5 +1,5 @@
 ---
-uuid: 24b6810c-f63c-4268-96d2-f02ebf0ac8ef
+uuid: f12df44a-a088-43a1-b1d9-41c216af5b3a
 title: "Entrelacs"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749684"
 publisher: "École nationale supérieure d’audiovisuel (Toulouse) ; Téraèdre"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

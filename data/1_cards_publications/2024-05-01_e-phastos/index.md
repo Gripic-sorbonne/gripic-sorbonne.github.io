@@ -1,5 +1,5 @@
 ---
-uuid: 06cea122-4187-4a32-8ee6-3ce33c50222c
+uuid: d146d3b2-aa05-4978-8e19-11c3f887fc6e
 title: "e-Phaïstos"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-05191183"
 publisher: "Centre d’Histoire des Techniques (équipe de l’IHMC, UMR 8066) CNRS / Université Paris 1 Panthéon-Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

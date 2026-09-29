@@ -1,5 +1,5 @@
 ---
-uuid: cede3028-5528-4c86-8ace-c9430bb240a6
+uuid: 7f9c0efb-672e-40db-90dc-29d5e2c5f203
 title: "Colloque Genre(s) et médias"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605991"
 publisher: "Congrès de l’ACFAS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

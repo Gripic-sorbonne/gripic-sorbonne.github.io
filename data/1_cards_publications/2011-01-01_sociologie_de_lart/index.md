@@ -1,5 +1,5 @@
 ---
-uuid: e3214746-c4c1-4e71-b83f-c9db3d95d730
+uuid: 899f4a24-ff5c-4057-aa8b-c91f506d5f35
 title: "Sociologie de l’art"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758618"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

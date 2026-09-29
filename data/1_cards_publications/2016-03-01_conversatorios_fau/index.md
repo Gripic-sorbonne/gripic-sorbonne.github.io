@@ -1,5 +1,5 @@
 ---
-uuid: 7352cdeb-cd4a-4f5a-afc2-0c042db4ee0e
+uuid: c4de011c-d390-41fd-a6a6-6f81b5286ac9
 title: "Conversatorios FAU"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749944"
 publisher: "Facultad de arquitectura y urbanismo"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: c464b134-45ff-43e7-8485-b6cdc058d71c
+uuid: 66413824-b04e-44fc-a0e0-ceef2b48a642
 title: "Presses de l’ENSSIB"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760599"
 publisher: "ENSSIB"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

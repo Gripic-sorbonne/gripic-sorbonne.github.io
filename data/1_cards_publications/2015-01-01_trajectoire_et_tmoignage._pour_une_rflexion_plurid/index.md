@@ -1,5 +1,5 @@
 ---
-uuid: 9572670a-85e4-48bc-9457-f758469d5746
+uuid: 1afcf0f0-4adf-48ed-99b4-0e76495a7c83
 title: "Trajectoire et témoignage. Pour une réflexion pluridisciplinaire"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750590"
 publisher: "Editions des archives contemporaines"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

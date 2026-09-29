@@ -1,5 +1,5 @@
 ---
-uuid: 98cfd134-f949-433d-9ed3-1d7be739b8ea
+uuid: 7decf8df-ec0b-47e5-afc5-19993dc20171
 title: "Colloque TRANSNUM : Penser le numérique comme transformation"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750720"
 publisher: "GRIPIC et le COSTECH (UTC) - Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

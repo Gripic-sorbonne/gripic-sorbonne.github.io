@@ -1,5 +1,5 @@
 ---
-uuid: d066cf64-7ef1-4e28-a09a-639d7e803c4c
+uuid: de4d69a8-7ad2-4251-ac73-5e93c28b0dc8
 title: "Des rives aux écrans"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761077"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

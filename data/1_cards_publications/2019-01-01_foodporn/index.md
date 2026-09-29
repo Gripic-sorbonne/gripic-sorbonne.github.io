@@ -1,5 +1,5 @@
 ---
-uuid: 89e78e1d-64cc-4016-9fce-b94ba1c9c7ff
+uuid: 5bdf26c1-1410-4ea2-84ac-5890d37446aa
 title: "Foodporn"
 author: "Lisa Bolz, Marine Siguier"
 authors: "Lisa Bolz, Marine Siguier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-04955367"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

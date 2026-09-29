@@ -1,5 +1,5 @@
 ---
-uuid: e485f325-c800-4a41-af59-c9a56fc540a1
+uuid: 6d87b144-1a5b-474b-9772-c7a68b4622af
 title: "xxie journées internationales sur la communication, l’éducation et la culture scientifique et industrielle, “Technologies / technologie”"
 author: "Emmanuël Souchier, Hugues Choplin"
 authors: "Emmanuël Souchier, Hugues Choplin"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761037"
 publisher: "A. Giordan, J.-L. Martinant et D. Raichvarg"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

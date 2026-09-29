@@ -1,5 +1,5 @@
 ---
-uuid: 0b79549b-f33b-477d-a8c3-bc78f64ae030
+uuid: 4a73c1df-3213-4e67-a51c-906f9d386f13
 title: "Jean Baudrillard"
 author: "Emmanuelle Fantin, Bran Nicol"
 authors: "Emmanuelle Fantin, Bran Nicol"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03721140"
 publisher: "Reaktion Books. Coll.Critical Lives"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

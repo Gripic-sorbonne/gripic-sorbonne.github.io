@@ -1,5 +1,5 @@
 ---
-uuid: a2e3e52d-8fdf-47f0-a95a-74f3686ae376
+uuid: 0b71539f-7bd6-4217-96da-57e9be82f9f8
 title: "Arthur, Fiches réponses avec consignes des exercices"
 author: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 authors: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760443"
 publisher: "Nathan-Retz"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

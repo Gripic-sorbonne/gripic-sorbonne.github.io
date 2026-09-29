@@ -1,5 +1,5 @@
 ---
-uuid: 60162756-a50a-4f05-9c04-991cf95a77fb
+uuid: d3b33566-2257-4db7-a1a4-3a0edefd6164
 title: "Journée d’études “ Technomémoire ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04865538"
 publisher: "CELAT"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

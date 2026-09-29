@@ -1,5 +1,5 @@
 ---
-uuid: 3d433a96-3387-4772-af61-7f15f83e8f33
+uuid: 576fb62b-9593-497e-a171-5d6db8604203
 title: "Genèses. Sciences sociales et histoire"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749912"
 publisher: "Belin"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

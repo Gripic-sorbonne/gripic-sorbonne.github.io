@@ -1,5 +1,5 @@
 ---
-uuid: 0b6d4ebb-d217-4aee-9abf-fcb675d065dd
+uuid: c3fbe4fa-e85e-46d0-a7d4-7a17fb392260
 title: "Une archéologie de l’énonciation éditoriale avec Massin"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03760974"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

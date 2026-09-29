@@ -1,5 +1,5 @@
 ---
-uuid: 87a63694-02ed-4efa-9a4a-66c396ec7e94
+uuid: e4b4ba1a-9c73-4e03-b2cb-06307ce8adfe
 title: "Comprendre la culture numérique"
 author: "Pauline Escande, Bertrand Naivin"
 authors: "Pauline Escande, Bertrand Naivin"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03750787"
 publisher: "Editions Dunod"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

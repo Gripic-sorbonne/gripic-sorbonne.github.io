@@ -1,5 +1,5 @@
 ---
-uuid: 27a5dd6f-73b5-4b2f-aee5-dbf069be8ea4
+uuid: ad43b602-9d7b-4561-8611-7a2443d86024
 title: "Histoire, mémoire et passé au cœur des organisations"
 author: "Julien Tassel, François Granier"
 authors: "Julien Tassel, François Granier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03745406"
 publisher: "Presses de Sciences Po (P.F.N.S.P.)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

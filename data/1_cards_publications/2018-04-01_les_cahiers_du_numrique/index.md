@@ -1,5 +1,5 @@
 ---
-uuid: 770fa1f1-4ac1-45ca-bd54-1406cb314765
+uuid: 66fb05d1-71c0-463e-9f33-858a1d18465a
 title: "Les Cahiers du numérique"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03966458"
 publisher: "Lavoisier"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

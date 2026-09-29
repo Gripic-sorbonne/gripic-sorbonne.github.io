@@ -1,5 +1,5 @@
 ---
-uuid: fe6c542e-37c6-460f-99f7-1658bcef7ab8
+uuid: 7ba38e7b-f11d-4b6a-ac37-dab36e138098
 title: "Séminaire EPIN"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605965"
 publisher: "COSTECH, Université Technologique de Compiègne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

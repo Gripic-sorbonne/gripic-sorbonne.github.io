@@ -1,5 +1,5 @@
 ---
-uuid: bcdfc4e3-469a-47b6-af44-9d001bb33c63
+uuid: 753db71a-50a4-41c6-bc73-7d57bc36e217
 title: "L’expérience des images"
 author: "Umberto Eco, Adeline Wrona, Frédéric Lambert"
 authors: "Umberto Eco, Adeline Wrona, Frédéric Lambert"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://univ-pantheon-assas.hal.science/hal-04059077"
 publisher: "INA Éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

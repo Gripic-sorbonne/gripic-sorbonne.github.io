@@ -1,5 +1,5 @@
 ---
-uuid: 2bb3281e-001a-4374-baf8-bdf0ef959619
+uuid: 661ece30-a6b4-4ced-bb86-6cf3daf52fcd
 title: "Le métier à penser. Tisser des textes avec Baudouin Jurdant"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03730348"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

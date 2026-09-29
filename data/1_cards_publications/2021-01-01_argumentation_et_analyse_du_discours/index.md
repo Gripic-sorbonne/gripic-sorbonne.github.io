@@ -1,5 +1,5 @@
 ---
-uuid: 0d09accd-bba1-4c0b-9e0e-d3a832b6ada3
+uuid: 9b1cb009-7525-4875-b747-23700f5e2d60
 title: "Argumentation et Analyse du Discours"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03766979"
 publisher: "University of Tel-Aviv"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

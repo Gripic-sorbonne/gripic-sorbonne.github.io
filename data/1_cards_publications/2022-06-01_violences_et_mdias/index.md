@@ -1,5 +1,5 @@
 ---
-uuid: 744e4c3c-447f-406d-a7dc-a3803ab8cfad
+uuid: 9e2d119c-5da4-4689-b188-1d40e9e2549c
 title: "Violences et médias"
 author: "Thierry Devars, Rym Gerwig-Kirèche"
 authors: "Thierry Devars, Rym Gerwig-Kirèche"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964062"
 publisher: "Equipe de recherche ”Médias, Images et Technologies” de l’ICP"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

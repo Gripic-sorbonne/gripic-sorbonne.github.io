@@ -326,9 +326,11 @@ def make_yaml_header_publication(pub_dict: dict, image_filename: str) -> str:
     publisher = get_field(pub_dict, "publisher", "Editeur", default="")
     container_title = get_field(pub_dict, "container_title", "container-title", default="")
 
-    # Escape quotes for YAML safe rendering
     clean_title = title.replace('"', '\\"')
     clean_authors = authors.replace('"', '\\"')
+
+    # Formatear como ruta relativa para que Gatsby lo reconozca como File/Image object
+    image_yaml_val = f"./{image_filename}" if image_filename else ""
 
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
@@ -341,7 +343,7 @@ def make_yaml_header_publication(pub_dict: dict, image_filename: str) -> str:
             f"url: \"{url}\"\n" +
             f"publisher: \"{publisher}\"\n" +
             f"container_title: \"{container_title}\"\n" +
-            f"image: \"{image_filename}\"\n" +
+            f"image: \"{image_yaml_val}\"\n" +
             f"publication: true\n" +
             f"---\n\n")
 

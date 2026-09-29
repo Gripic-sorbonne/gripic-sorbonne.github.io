@@ -1,5 +1,5 @@
 ---
-uuid: 29e1b7b4-174a-4f19-81cb-bb73681a45f1
+uuid: c682bd2f-7345-4a78-a303-8a20e77ac8a6
 title: "Présentation dans le cadre du séminaire “ Médiamorphoses ”"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750761"
 publisher: "GRIPIC, Celsa"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

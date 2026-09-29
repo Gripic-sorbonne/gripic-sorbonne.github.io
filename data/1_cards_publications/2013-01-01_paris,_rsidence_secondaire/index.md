@@ -1,5 +1,5 @@
 ---
-uuid: 9ed7beb8-b9df-4dd3-a093-af8db39ba5e1
+uuid: d9231149-4188-4551-a84a-c3a0149a4fa1
 title: "Paris, résidence secondaire"
 author: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
 authors: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03749823"
 publisher: "Belin / MSH"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

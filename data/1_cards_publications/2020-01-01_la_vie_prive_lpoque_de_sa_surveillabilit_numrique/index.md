@@ -1,5 +1,5 @@
 ---
-uuid: bc08005d-c24c-4639-a3d5-cfcbc6df7403
+uuid: 9d8214b3-d617-4beb-8bb7-92cb12f2b86d
 title: "La vie privée à l’époque de sa surveillabilité numérique"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03958104"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 896eb3e2-8bcd-495a-935a-532e0d91790a
+uuid: 442c3f00-dbff-4ed3-99e6-3d694587ddcb
 title: "Pandemix"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750714"
 publisher: "Université Paris 3"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

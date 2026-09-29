@@ -1,5 +1,5 @@
 ---
-uuid: f7d660cc-a743-4c50-8fb6-51ff3da1896f
+uuid: 9f8259bc-2723-469b-a194-cbd10a41101e
 title: "Xème Congrès de l’Association Internationale de Sémiotique Visuelle (AISV)"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964044"
 publisher: "AISV"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

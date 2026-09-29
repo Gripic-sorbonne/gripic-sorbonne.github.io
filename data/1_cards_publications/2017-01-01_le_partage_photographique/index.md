@@ -1,5 +1,5 @@
 ---
-uuid: ae7dc525-e443-4c75-a362-1213a6610441
+uuid: 0a5a3f06-a901-4f76-aa05-19ccb8e5c8d4
 title: "Le partage photographique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03752938"
 publisher: "NecPlus"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 4d7ef7ab-2b1a-43af-8361-5a6ad7a6eab0
+uuid: 586cfc2d-a4d9-47e2-bc9e-f5646fda1170
 title: "Questionner le tournant créatif : dispositifs, processus et représentation"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750091"
 publisher: "Université de Varna"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 477e057a-f43a-46db-9623-ed97bc463958
+uuid: bb565b3b-029c-4b69-8120-f5bf0c7657d0
 title: "Actes Sémiotiques"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749762"
 publisher: "Université de Limoges"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

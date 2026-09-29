@@ -1,5 +1,5 @@
 ---
-uuid: a216a73e-754b-4fa1-bda2-003894c704a8
+uuid: 91636690-e62a-470a-aa0c-f1b5595acfc7
 title: "Sacrés Tiers ! Liberté, Égalité, Fraternité"
 author: "Emmanuël Souchier, E. Tadier"
 authors: "Emmanuël Souchier, E. Tadier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761072"
 publisher: "Médiathèque Jean-Christophe Rufin"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

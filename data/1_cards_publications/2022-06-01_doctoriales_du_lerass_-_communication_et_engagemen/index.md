@@ -1,5 +1,5 @@
 ---
-uuid: dd88ce9c-21ec-49e8-9910-130cbcaa992c
+uuid: b708988a-ec99-467b-99c8-0bb62c799ebd
 title: "Doctoriales du LERASS - Communication et engagement"
 author: "Amélie Peresson"
 authors: "Amélie Peresson"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03959599"
 publisher: "LERASS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

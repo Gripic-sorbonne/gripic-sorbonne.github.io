@@ -1,5 +1,5 @@
 ---
-uuid: 3bc40312-a449-4db9-add1-c078093df747
+uuid: a7c43206-c512-4837-afef-ba71d8af81be
 title: "12ème Congrès de l’Association Française de Science Politique. ”Inégalités et Démocratie”"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03753005"
 publisher: "IEP de Paris"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

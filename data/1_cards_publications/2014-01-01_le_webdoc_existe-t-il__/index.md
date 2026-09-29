@@ -1,5 +1,5 @@
 ---
-uuid: f4ba51f9-dfca-4456-8594-4455b90e5f93
+uuid: da6ede16-15b4-43c5-b607-8acfa7f634b9
 title: "Le webdoc existe-t-il ?"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03758776"
 publisher: "Le blog documentaire"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

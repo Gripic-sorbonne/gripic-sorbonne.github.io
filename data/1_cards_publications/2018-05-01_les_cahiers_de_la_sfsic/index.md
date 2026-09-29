@@ -1,5 +1,5 @@
 ---
-uuid: 7d20d7a2-93e8-4d32-8969-1be092f6913f
+uuid: 09738eb9-f724-48fe-9628-4762151408fa
 title: "Les Cahiers de la SFSIC"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03966491"
 publisher: "Société française des sciences de l’information et de la communication"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

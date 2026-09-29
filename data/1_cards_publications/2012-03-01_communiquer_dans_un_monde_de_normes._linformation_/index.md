@@ -1,5 +1,5 @@
 ---
-uuid: 41a193e7-3a7f-41a4-880a-e9932f2653a4
+uuid: acd7279b-4d67-4488-ad8a-ea53587eebd2
 title: "Communiquer dans un monde de normes. L’information et la communication dans les enjeux contemporains de la ” mondialisation ”."
 author: "Yves Jeanneret"
 authors: "Yves Jeanneret"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://lilloa.hal.science/hal-00841340"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

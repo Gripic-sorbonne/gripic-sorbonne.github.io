@@ -1,5 +1,5 @@
 ---
-uuid: af312486-8e3b-4827-990c-1d04c84815f6
+uuid: d65aa3ec-4f91-4240-86a1-7644c71ed8a1
 title: "Journée d’études Ecrire le territoire: visibilité, valorisation, marchandisation"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767078"
 publisher: "ENS de Lyon"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

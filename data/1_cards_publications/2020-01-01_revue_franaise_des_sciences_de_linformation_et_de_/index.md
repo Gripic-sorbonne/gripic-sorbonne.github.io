@@ -1,5 +1,5 @@
 ---
-uuid: 7e69fcca-e119-4928-8b41-db5726997f43
+uuid: fa5027a3-bafc-4320-86e6-f6defbe7a0d4
 title: "Revue française des sciences de l’information et de la communication"
 author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03799845"
 publisher: "Société Française des Sciences de l’Information et de la Communication [2012-....]"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

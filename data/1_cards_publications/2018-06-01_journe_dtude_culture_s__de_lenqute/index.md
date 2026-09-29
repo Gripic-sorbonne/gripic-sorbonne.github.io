@@ -1,5 +1,5 @@
 ---
-uuid: 3568f902-9898-4864-923a-a09d50fd5ab9
+uuid: 67d8ae03-5675-4fff-99eb-e96cb7d6022e
 title: "Journée d’étude Culture(s) de l’enquête"
 author: "Julien Tassel, Olivia Foli"
 authors: "Julien Tassel, Olivia Foli"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03766892"
 publisher: "GRIPIC Celsa - Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

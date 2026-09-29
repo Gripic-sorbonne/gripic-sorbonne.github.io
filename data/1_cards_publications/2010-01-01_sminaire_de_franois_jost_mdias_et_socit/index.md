@@ -1,5 +1,5 @@
 ---
-uuid: 00dbb97a-8588-4d99-9e6c-4bd81daeab06
+uuid: 277791ef-0f6f-436a-9b68-eece67a8cbd5
 title: "séminaire de François Jost Médias et société"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750777"
 publisher: "Université Paris 3"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: b4ba2da4-4a6c-4e26-9fe1-67ef3990c685
+uuid: c49e0fb3-a20b-4b2f-81ce-2fcf8d0f57f8
 title: "Publictionnaire. Dictionnaire encyclopédique et critique des publics"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03754304"
 publisher: "Centre de recherche sur les médiations."
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

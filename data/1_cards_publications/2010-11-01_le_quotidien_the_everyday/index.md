@@ -1,5 +1,5 @@
 ---
-uuid: d0a9758d-7874-4494-9124-8d1c01e60133
+uuid: 29a39b06-1bac-4615-bb3e-194a57a85cfc
 title: "Le Quotidien – The Everyday"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767106"
 publisher: "Université de Chypre"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

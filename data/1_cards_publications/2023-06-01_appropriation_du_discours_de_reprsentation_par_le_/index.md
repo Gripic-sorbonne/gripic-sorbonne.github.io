@@ -1,5 +1,5 @@
 ---
-uuid: fcc01b87-83a1-485f-98a7-2756aab0a797
+uuid: 4594354e-c5eb-4a2d-aa4b-bac611b5747b
 title: "Appropriation du discours de représentation par le discours publicitaire : recherche sur le discours publicitaire contemporain et ses stratégies de représentation de minorités symboliques au Brésil"
 author: "Mariana Ayres Tavares"
 authors: "Mariana Ayres Tavares"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04653047"
 publisher: "Sorbonne Université ; Universidade federal fluminense (Niteroi, Brésil ; 1960-....)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 9f858ad3-8f1d-4432-a5e7-d31c33a09480
+uuid: 82e76a09-1f77-4924-a672-a647afa9bbd2
 title: "Voir, être vu. L’injonction à la visibilité dans les sociétés contemporaines"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749718"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

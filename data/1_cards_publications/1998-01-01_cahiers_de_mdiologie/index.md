@@ -1,5 +1,5 @@
 ---
-uuid: 9c3f9354-8213-41f5-aa59-60605656d0c7
+uuid: c9838956-bdc9-4f19-b6e4-93a16545933f
 title: "Cahiers de médiologie"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760945"
 publisher: "Editions Babylone"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

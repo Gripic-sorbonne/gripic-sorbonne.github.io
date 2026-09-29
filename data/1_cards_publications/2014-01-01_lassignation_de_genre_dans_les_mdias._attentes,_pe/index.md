@@ -1,5 +1,5 @@
 ---
-uuid: 553a2257-424d-4ea1-ab1f-2fb861ecfd4b
+uuid: 1904f7ed-350b-4dd3-820f-1348b70112dc
 title: "L’assignation de genre dans les médias. Attentes, perturbations, reconfigurations"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03799912"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

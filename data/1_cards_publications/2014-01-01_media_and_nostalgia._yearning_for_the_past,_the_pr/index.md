@@ -1,5 +1,5 @@
 ---
-uuid: e7a83330-8d22-4974-8d9c-0d14351cd247
+uuid: d46470fe-c715-47df-a52e-e264e6bd9348
 title: "Media and nostalgia. Yearning for the past, the present and the future"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03721431"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

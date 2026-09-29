@@ -1,5 +1,5 @@
 ---
-uuid: 8f30b7fa-2f23-4e1d-b90b-3c6fbe27a7d6
+uuid: 0530f411-3ee6-483c-88f9-7100a7aa0a4f
 title: "Mythologies de la transition"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05053059"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

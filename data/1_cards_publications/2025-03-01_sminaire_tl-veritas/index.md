@@ -1,5 +1,5 @@
 ---
-uuid: 9960dc41-bc97-47af-8094-1027b586b364
+uuid: 7fd23e14-0059-4e33-87a1-947d0389b34a
 title: "Séminaire Télé-Veritas"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605987"
 publisher: "CEMTI"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 973935cf-ea9c-4d26-86bf-0b433549ba2a
+uuid: 8ef1dcd1-32a3-49cb-892f-9234bb6cac08
 title: "knowledge from precarity"
 author: "Joëlle Le Marec, Hester Du Plessis"
 authors: "Joëlle Le Marec, Hester Du Plessis"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03986684"
 publisher: "Editions des archives contemporaines"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

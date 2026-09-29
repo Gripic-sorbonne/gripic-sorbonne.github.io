@@ -1,5 +1,5 @@
 ---
-uuid: 6dfc44f0-9d8a-4ad2-b3b7-d861b44891eb
+uuid: dd60c7ba-ffaa-491e-9ca8-d754746ce718
 title: "Nouvelles perspectives sur la liberté d’expression. Colloque de la recherche émergente"
 author: "Adélie Laruncet"
 authors: "Adélie Laruncet"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05510932"
 publisher: "Chaire de recherche France-Québec sur les enjeux contemporains de la liberté d’expression (COLIBEX)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

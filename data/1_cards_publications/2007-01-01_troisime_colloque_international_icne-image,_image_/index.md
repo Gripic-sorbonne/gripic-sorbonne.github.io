@@ -1,5 +1,5 @@
 ---
-uuid: 844de246-3719-43f3-a40d-d49681f6c0ba
+uuid: a3dcd04e-5cd6-41f5-8c63-9d99f9ccef95
 title: "Troisième Colloque International Icône-Image, Image et mémoir"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761013"
 publisher: "Musées de Sens"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

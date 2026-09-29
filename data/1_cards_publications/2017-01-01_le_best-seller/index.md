@@ -1,5 +1,5 @@
 ---
-uuid: c570d8d8-426b-47e7-bc94-b347a51fd58f
+uuid: 8a7d1670-6d37-4b09-89e4-0eea9b46844a
 title: "Le best-seller"
 author: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
 authors: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
@@ -9,7 +9,7 @@ type: ""
 url: "https://univ-montpellier3-paul-valery.hal.science/hal-04472131"
 publisher: "Ghent University &amp; Ecole Normale Supérieure"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

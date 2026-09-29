@@ -1,5 +1,5 @@
 ---
-uuid: 3020acaf-2ea4-4977-addb-2207cfba5f27
+uuid: dc65364e-867d-4f51-97d7-c34a79214585
 title: "Journée d’étude “ Le kitsch menace-t-il la propagande ? ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964058"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

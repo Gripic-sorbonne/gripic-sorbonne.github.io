@@ -1,5 +1,5 @@
 ---
-uuid: d261b8fb-cd34-4358-98e0-bce2b000466d
+uuid: bdd9ebc9-3306-4f27-9abc-a06cff1afc03
 title: "Regarde la lumière"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761074"
 publisher: "Bibliothèque Polonaise de Paris"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

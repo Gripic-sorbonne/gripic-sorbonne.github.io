@@ -1,5 +1,5 @@
 ---
-uuid: b1565cbd-2eca-4dcc-a9f5-622added19e2
+uuid: 6cbf3a13-c0a4-4e40-a583-d238ae131310
 title: "Modern and Contemporary France"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03721256"
 publisher: "Taylor & Francis (Routledge)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 8db8f56e-6189-4146-b3d2-9ef1c91f5f70
+uuid: cc8b80fb-ce2e-4b50-b3ea-c51d7c71fe04
 title: "journée d’études “ Cultures de l’enquête ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954775"
 publisher: "J. Le Marec, GRIPIC/SORBONNE UNIVERSITE"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

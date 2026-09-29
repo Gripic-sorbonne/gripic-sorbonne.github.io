@@ -1,5 +1,5 @@
 ---
-uuid: 803a710c-ff73-4526-ba64-bae5cfc8caa6
+uuid: 1a11e1a7-0af0-4330-bb1e-55a884315bec
 title: "Congrès de l’Association Internationale de Sociologie de Langues Françaises"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758936"
 publisher: "GT13 Sociologie de la Communication"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: f23597b2-0292-4298-b7f4-375f12f297c9
+uuid: 3ac8164b-6984-45cf-b88a-cf08f942128d
 title: "Zola journaliste"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03767149"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

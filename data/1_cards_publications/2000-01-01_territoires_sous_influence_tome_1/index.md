@@ -1,5 +1,5 @@
 ---
-uuid: c8e6e4b2-0b52-4b59-81a2-53aaae946eb4
+uuid: 48a5cfab-2fe4-4ae0-bd1e-81e255df7d56
 title: "Territoires sous Influence Tome 1"
 author: "Dominique Pagès, Nicolas Pélissier"
 authors: "Dominique Pagès, Nicolas Pélissier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754410"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

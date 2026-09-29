@@ -1,5 +1,5 @@
 ---
-uuid: c7c46079-20f4-4cd1-b5fb-182b2ba9059c
+uuid: ee8ceb0f-fd2a-44e6-9d3f-3ca275944d2f
 title: "Comunicacion, Redes y Poder, Ril Editores"
 author: "nicole D’Almeida, Nicolas Baygert"
 authors: "nicole D’Almeida, Nicolas Baygert"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750025"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

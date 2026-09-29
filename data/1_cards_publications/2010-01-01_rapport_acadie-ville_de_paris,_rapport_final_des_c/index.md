@@ -1,5 +1,5 @@
 ---
-uuid: 1a7bcfc6-6e01-478b-83b9-4d98bba5d912
+uuid: e0760aff-3dfc-4f44-88f7-65c0fc19dec7
 title: "Rapport Acadie-Ville de Paris, rapport final des consultations d’experts chargés de conseil stratégique sur les sujets métropolitain"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754499"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

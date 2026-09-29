@@ -1,5 +1,5 @@
 ---
-uuid: ecfb904e-71d1-4166-9159-14fa76d37c5a
+uuid: 9b1145ec-241c-4af7-99cd-dc9760f7275e
 title: "Léviathan 2.0"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03750868"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

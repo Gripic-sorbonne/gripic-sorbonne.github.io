@@ -1,5 +1,5 @@
 ---
-uuid: d1ed5b0d-0ed5-48f5-a1ed-b33279261384
+uuid: deafb1c4-5c65-4b28-b5c2-633def487199
 title: "Séminaire de recherche international “ Transformations des prises de parole de marques ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954811"
 publisher: "GRIPIC SORBONNE UNIVERSITE"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

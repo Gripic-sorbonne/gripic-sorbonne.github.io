@@ -1,5 +1,5 @@
 ---
-uuid: 13333dda-0b26-42e5-b0c2-6b917def0e34
+uuid: 3a344404-0529-49c0-b551-6fb9b629e1b9
 title: "Épistémologie des sciences humaines"
 author: "Adeline Wrona, Emmanuël Souchier"
 authors: "Adeline Wrona, Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767253"
 publisher: "Université Paris-Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

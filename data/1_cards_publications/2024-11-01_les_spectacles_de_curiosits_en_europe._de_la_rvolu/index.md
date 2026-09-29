@@ -1,5 +1,5 @@
 ---
-uuid: 5bf8a82a-b17c-43ef-946e-155c5b7b0fc8
+uuid: 34ef1bc2-1b3d-4c7e-805f-1b6e8c304a8c
 title: "Les spectacles de curiosités en Europe. De la Révolution française à la fin du XIXè siècle"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-04865429"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

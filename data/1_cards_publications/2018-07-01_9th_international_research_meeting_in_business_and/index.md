@@ -1,5 +1,5 @@
 ---
-uuid: f3d256c6-6839-4712-973d-abeff3838ca1
+uuid: c079844b-cef9-4f47-922e-f1ca9bae8b6a
 title: "9th International Research Meeting in Business and Management"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://institut-agro-dijon.hal.science/hal-05236212"
 publisher: "IPAG Business School and South Champagne Business School and University of Ottawa and Université de Nice Sophia Antipolis and Universität Bern"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

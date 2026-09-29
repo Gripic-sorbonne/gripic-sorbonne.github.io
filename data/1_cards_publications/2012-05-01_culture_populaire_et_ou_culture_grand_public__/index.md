@@ -1,5 +1,5 @@
 ---
-uuid: 867aa8d6-6dca-4c5f-ad90-f95f3053f18c
+uuid: e5305b75-f5eb-4442-9c58-9dbf2ab843bd
 title: "“ Culture populaire et/ou culture grand public ?"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160347"
 publisher: "Université de Versailles Saint-Quentin-en-Yvelines"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

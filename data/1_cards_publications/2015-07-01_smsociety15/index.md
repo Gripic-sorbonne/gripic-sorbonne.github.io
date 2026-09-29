@@ -1,5 +1,5 @@
 ---
-uuid: 9783eec9-2943-4f37-8bf7-0f6473b64f15
+uuid: 4e17139d-6859-4218-bafb-95770c42b3ef
 title: "SMSociety15"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749800"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

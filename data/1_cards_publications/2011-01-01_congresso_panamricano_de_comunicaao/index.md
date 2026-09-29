@@ -1,5 +1,5 @@
 ---
-uuid: cd24f4d2-64c0-4a9e-87ec-063ec315e69f
+uuid: ad824b5e-6bd9-4602-acc7-15555bba5bd2
 title: "Congresso panaméricano de Comunicaçao"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750126"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

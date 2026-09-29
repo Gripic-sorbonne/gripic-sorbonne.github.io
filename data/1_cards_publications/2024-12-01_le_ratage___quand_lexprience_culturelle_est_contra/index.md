@@ -1,5 +1,5 @@
 ---
-uuid: c9c305a9-d33d-438d-92d9-0aa821ea8cc4
+uuid: 55054b1d-6ab6-427e-9e93-cb6c264c30a6
 title: "Le ratage : quand l’expérience culturelle est contrariée"
 author: "Hécate Vergopoulos, Camille Jutant"
 authors: "Hécate Vergopoulos, Camille Jutant"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.univ-lyon2.fr/hal-04760210"
 publisher: "Avignon Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

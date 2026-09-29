@@ -1,5 +1,5 @@
 ---
-uuid: 3eaec117-6300-4a6c-aeac-7feae94d8208
+uuid: b0a76efb-f658-41f9-be06-2c349a621a53
 title: "Congrès international ICA - International Communication Association"
 author: "nicole D’Almeida, Larissa Conceição dos Santos"
 authors: "nicole D’Almeida, Larissa Conceição dos Santos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750114"
 publisher: "Universidad de Chile"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

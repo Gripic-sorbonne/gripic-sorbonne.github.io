@@ -1,5 +1,5 @@
 ---
-uuid: 7dd4497a-1971-4b75-bc3d-a9a5943f4997
+uuid: 9d30410e-88f1-41d9-91a5-9f32cb19f042
 title: "Colloque Épistémologie des sciences humaines"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749810"
 publisher: "Université Paris-Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

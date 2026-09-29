@@ -1,5 +1,5 @@
 ---
-uuid: 190e3666-10bf-4394-af61-f0f39f521cc8
+uuid: a5d36d14-01b4-4047-8848-a028577ecf88
 title: "À nouveaux consommateurs, nouveaux marketing"
 author: "Caroline Montety"
 authors: "Caroline Montety"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754302"
 publisher: "Dunod"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

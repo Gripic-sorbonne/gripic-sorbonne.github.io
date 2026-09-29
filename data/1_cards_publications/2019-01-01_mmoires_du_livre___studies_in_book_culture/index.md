@@ -1,5 +1,5 @@
 ---
-uuid: 23ef8d57-9ada-4370-8998-b19b281bca2b
+uuid: 42108e70-db3d-4c16-be04-6abc09de9736
 title: "Mémoires du livre / Studies in Book Culture"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03773572"
 publisher: "Groupe de recherches et d’études sur le livre au Québec"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

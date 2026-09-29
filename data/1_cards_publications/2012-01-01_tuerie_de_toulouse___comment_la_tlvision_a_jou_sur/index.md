@@ -1,5 +1,5 @@
 ---
-uuid: e81c51a7-643e-45f9-a1a8-13a5dd56c638
+uuid: 4d295a72-b5fd-4193-a66f-fd8d50b28c8d
 title: "Tuerie de Toulouse : comment la télévision a joué sur l’émotion collective"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03773536"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

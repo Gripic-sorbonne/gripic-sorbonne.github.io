@@ -1,5 +1,5 @@
 ---
-uuid: bafb0013-a955-4029-90cc-e518670c84e2
+uuid: 4fd3171c-336c-4ce7-bb04-a381f780cb62
 title: "MEI - Médiation et information"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03750822"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

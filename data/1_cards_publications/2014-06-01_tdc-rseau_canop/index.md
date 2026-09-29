@@ -1,5 +1,5 @@
 ---
-uuid: bb5753c7-55d3-4d9c-9d57-0cd7a58848df
+uuid: 1bf44087-53ba-4318-8d9c-de8d486acf27
 title: "TDC-Réseau Canopé"
 author: "Olivier AÏM, Anneliese Depoux"
 authors: "Olivier AÏM, Anneliese Depoux"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749314"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

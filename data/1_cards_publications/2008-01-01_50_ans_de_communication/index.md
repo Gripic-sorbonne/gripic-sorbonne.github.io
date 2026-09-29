@@ -1,5 +1,5 @@
 ---
-uuid: 56987caa-4814-4419-aa96-752bef9a57c3
+uuid: 42176d39-51ca-4769-b1fc-6fe15abb98b5
 title: "50 ans de communication"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-04003619"
 publisher: "Celsa, Université Paris Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

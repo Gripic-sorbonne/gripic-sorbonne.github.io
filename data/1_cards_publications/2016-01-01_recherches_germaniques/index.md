@@ -1,5 +1,5 @@
 ---
-uuid: 7a01373b-9614-4eed-8b99-22604dfb055d
+uuid: 81e35a89-5ea2-4246-8dea-65ab7150b5ff
 title: "Recherches Germaniques"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03966759"
 publisher: "Presses Universitaires de Strasbourg"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

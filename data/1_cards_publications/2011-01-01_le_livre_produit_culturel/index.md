@@ -1,5 +1,5 @@
 ---
-uuid: a5d5af49-240e-4bf4-b224-2a59f0eac9d9
+uuid: a61ffb7b-0c31-4d0e-ab28-069b79ea0db6
 title: "Le livre produit culturel"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750816"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

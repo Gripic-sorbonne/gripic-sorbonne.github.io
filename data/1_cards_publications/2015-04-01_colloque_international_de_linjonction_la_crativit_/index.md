@@ -1,5 +1,5 @@
 ---
-uuid: 97a31f48-fc40-402c-8c84-ad0d5c867cde
+uuid: 82627b77-d7b2-48e5-bff2-0ba26871a898
 title: "Colloque international De l’injonction à la créativité à sa mise en oeuvre : quel parallèle entre monde de l’art et monde productif ?"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03725108"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

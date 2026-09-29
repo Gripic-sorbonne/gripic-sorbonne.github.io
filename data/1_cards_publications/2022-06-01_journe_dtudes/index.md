@@ -1,5 +1,5 @@
 ---
-uuid: 232b0764-5d76-4755-afb6-18cc8ef29bb9
+uuid: 3150a939-de6f-4a77-bbfe-b83a5fca404d
 title: "Journée d’études"
 author: "Maëlle Bazin, Ariane Bénoliel, Charlotte Buisson, Jaércio DA SILVA, Irène Despontin Lefèvre, David Doukhan, Sophie Dubec, Salomé Hédin, Yukiko Itoh, Audrey Leblanc, Cécile Méadel, Géraldine Poels, Nelly Quemener, Giuseppina Sapio, Anna Tible, Jeanne Wetzels"
 authors: "Maëlle Bazin, Ariane Bénoliel, Charlotte Buisson, Jaércio DA SILVA, Irène Despontin Lefèvre, David Doukhan, Sophie Dubec, Salomé Hédin, Yukiko Itoh, Audrey Leblanc, Cécile Méadel, Géraldine Poels, Nelly Quemener, Giuseppina Sapio, Anna Tible, Jeanne Wetzels"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04937816"
 publisher: "Cécile Méadel and Charlotte Buisson and Irène Despontin Lefèvre"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 32d7e74f-41c8-4839-9e22-b7b957af4829
+uuid: b0995cad-603d-4eb1-b85a-81bad0ece253
 title: "Effeuillage : la revue qui met les médias à nu"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03964036"
 publisher: "Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

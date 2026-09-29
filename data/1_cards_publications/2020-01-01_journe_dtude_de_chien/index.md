@@ -1,5 +1,5 @@
 ---
-uuid: 9b64a722-80eb-4dd6-a3c3-69b23a05f40d
+uuid: 5e07f78e-0b0c-4283-90d5-2cce4f3b8dd2
 title: "Journée d’étude de chien"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964089"
 publisher: "Université de Limoges"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: aa507a14-c7d5-4871-96f3-246a133d5d8b
+uuid: 7a32f96d-627e-4b76-93a7-8bfbc7d109e7
 title: "9eme Congrès International de Sémiotique IASS/AIS"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750736"
 publisher: "Université d’Helsinki"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

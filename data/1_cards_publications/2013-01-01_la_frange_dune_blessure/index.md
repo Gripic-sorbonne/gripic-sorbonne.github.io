@@ -1,5 +1,5 @@
 ---
-uuid: 9231c197-7a6c-453f-935d-96baafac922e
+uuid: dd5932a8-36cd-4279-8d03-7ff9ad97c4ac
 title: "À la frange d’une blessure"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761080"
 publisher: "Musée de Villeneuve-sur-Yonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 162d4fe7-49da-4fa5-8556-c7b902a24155
+uuid: b5804bdc-0c29-4c68-83c6-37cbbd14ef08
 title: "Cycle Les écrivains et la presse"
 author: "Sophie Robert, Adeline Wrona, Alain Pagès, Daniel Kenisgberg"
 authors: "Sophie Robert, Adeline Wrona, Alain Pagès, Daniel Kenisgberg"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://bnf.hal.science/hal-04363427"
 publisher: "Bibliothèque nationale de France; Bibliothèque nationale de France"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

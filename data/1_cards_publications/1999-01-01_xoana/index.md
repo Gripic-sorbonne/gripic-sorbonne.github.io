@@ -1,5 +1,5 @@
 ---
-uuid: 2e5a6d78-e97f-47bf-b8f9-11b1b19b0b9b
+uuid: 3a63ff68-c534-4ac7-8e9c-dca8a2bff80d
 title: "Xoana"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761035"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

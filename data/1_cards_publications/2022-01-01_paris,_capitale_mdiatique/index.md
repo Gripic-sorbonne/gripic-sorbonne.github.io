@@ -1,5 +1,5 @@
 ---
-uuid: 7f1cd433-664f-47b1-86d2-63687c556dcd
+uuid: c09a2f6a-4521-4314-9d45-f4e894ef098b
 title: "Paris, capitale médiatique"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03958488"
 publisher: "Presses universitaires de Vincennes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 904de194-eb71-415c-b115-df64c5e84edc
+uuid: cee7705a-8816-4d24-a27c-57ecb41ef25d
 title: "Communication et professionnalisation"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03963890"
 publisher: "RESIPROC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

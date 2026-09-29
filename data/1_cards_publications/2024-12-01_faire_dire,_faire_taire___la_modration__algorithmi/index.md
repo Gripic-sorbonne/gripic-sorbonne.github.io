@@ -1,5 +1,5 @@
 ---
-uuid: d2639542-34e6-417d-b4bb-42cc146a578f
+uuid: 54f80597-f5a5-435b-b93f-b09423e4bd94
 title: "Faire dire, faire taire : la modération (algorithmique) des réseaux sociaux numériques au prisme des sexualités"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://hal.science/tel-05007981"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

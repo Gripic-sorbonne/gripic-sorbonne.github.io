@@ -1,5 +1,5 @@
 ---
-uuid: cec1726e-5bc5-4995-9163-e82e30560bc4
+uuid: a799e573-4588-492d-a7a8-94a446636ac1
 title: "Le numérique comme écriture"
 author: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
 authors: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-01982714"
 publisher: "Armand Colin"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

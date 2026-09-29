@@ -1,5 +1,5 @@
 ---
-uuid: ea9c3ac8-44c3-4ede-ad1a-d68f7577a51b
+uuid: fa2b4a37-51e4-4689-9e63-a45458a7e8e1
 title: "Montivilliers, hier aujourd’hui, demain"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761045"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

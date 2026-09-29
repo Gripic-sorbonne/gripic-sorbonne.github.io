@@ -1,5 +1,5 @@
 ---
-uuid: 54c29dac-df04-4ed4-847d-c117234c0379
+uuid: 8e26ed77-5590-4087-a338-53d61cd64b88
 title: "Journée d’études Musée et recherche : le souci du public"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767071"
 publisher: "CELSA Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

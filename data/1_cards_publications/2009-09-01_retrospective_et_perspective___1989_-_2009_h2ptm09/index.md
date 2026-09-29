@@ -1,5 +1,5 @@
 ---
-uuid: 1948573c-2568-4212-acf9-9c16c1a711e7
+uuid: aa59fafd-9cda-497c-a208-4f0dbab14f8a
 title: "Retrospective et perspective : 1989 - 2009 H2PTM’09"
 author: "Gustavo Gomez-Mejia, Etienne Candel"
 authors: "Gustavo Gomez-Mejia, Etienne Candel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-01704134"
 publisher: "Hermes Science Publications"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

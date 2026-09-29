@@ -1,5 +1,5 @@
 ---
-uuid: cf677e03-ff14-4c55-b675-7aea6040f3e8
+uuid: a1f6a8f1-6c7b-4c8c-85d8-0475137ea77b
 title: "Organicom : revista brasileira de comunicação organizacional e relações públicas"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03750031"
 publisher: "Escola de Comunicações e Artes da Universidade de São Paulo"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

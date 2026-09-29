@@ -1,5 +1,5 @@
 ---
-uuid: 7fc1b469-a828-41f9-adc4-621df259b6fb
+uuid: 2e319bb0-0e18-4559-b591-da86dcb6b212
 title: "Critique et médium: xxe–xxie siècles"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://shs.hal.science/halshs-01706584"
 publisher: "CNRS Editions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

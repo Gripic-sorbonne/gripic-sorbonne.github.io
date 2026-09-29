@@ -1,5 +1,5 @@
 ---
-uuid: 93eef62e-34dc-47c8-9cc3-25b7585729cc
+uuid: 2294b4e2-a034-4026-81be-5b3f96384cb6
 title: "Les e-citoyens auront-ils la peau du Roundup ?"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.univ-lorraine.fr/hal-01738146"
 publisher: "The Conversation France"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

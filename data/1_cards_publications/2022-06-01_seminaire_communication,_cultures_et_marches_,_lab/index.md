@@ -1,5 +1,5 @@
 ---
-uuid: 44f1acf7-b07c-41b7-acff-fba287f46fea
+uuid: 779a0d32-7b29-4dde-966d-70e6e4f72695
 title: "Seminaire “ Communication, Cultures et Marches ,” LabSIC & GRIPIC, 2022"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04717279"
 publisher: "Caroline Marti and Éleni Mouratidou and LabSIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

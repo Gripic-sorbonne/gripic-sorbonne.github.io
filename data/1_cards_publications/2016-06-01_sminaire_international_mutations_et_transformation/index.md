@@ -1,5 +1,5 @@
 ---
-uuid: bb5dcab2-4894-40cf-ae5c-42210f6b065b
+uuid: d22a6623-a296-4744-b33d-498e546158e8
 title: "séminaire international “ Mutations et transformations des marques ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160335"
 publisher: "GRIPIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

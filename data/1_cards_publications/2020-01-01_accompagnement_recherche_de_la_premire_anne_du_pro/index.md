@@ -1,5 +1,5 @@
 ---
-uuid: 3681f10f-eea7-46b7-a7aa-a381daae9332
+uuid: 9342a28d-580b-40af-a0ad-3928ce14b803
 title: "Accompagnement recherche de la première année du projet “ Ambassadeurs du numérique de l’Académie de Paris"
 author: "Joëlle Le Marec, Laurent Petit, Camille Rondot"
 authors: "Joëlle Le Marec, Laurent Petit, Camille Rondot"
@@ -9,7 +9,7 @@ type: "report"
 url: "https://hal.science/hal-03968542"
 publisher: "Sorbonne Universite"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 70a11020-aee9-42f2-b4b7-4fffc25217b2
+uuid: 205568d8-9e3f-4ed1-91c5-42501c5e3eec
 title: "Places marchandes"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749968"
 publisher: "EHESS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

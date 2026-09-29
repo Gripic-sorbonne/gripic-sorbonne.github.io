@@ -1,5 +1,5 @@
 ---
-uuid: 830761e8-1540-459b-a980-415cffa058bb
+uuid: 036dc8eb-e33d-41c7-815e-f93f8e91c2c8
 title: "Colloque Loisirs et Travail"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750093"
 publisher: "CELSA"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

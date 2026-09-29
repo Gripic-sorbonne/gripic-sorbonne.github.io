@@ -1,5 +1,5 @@
 ---
-uuid: 9718ed69-99c2-4bea-b9e0-b5912edc35d8
+uuid: f028c83e-86ac-42a0-9e94-6da6f70c78fb
 title: "XXVIth Conference of the International Association for Media and History (IAMHIST) “ Media and History Revisited"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160337"
 publisher: "Indiana University"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

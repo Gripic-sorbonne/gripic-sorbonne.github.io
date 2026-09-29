@@ -1,5 +1,5 @@
 ---
-uuid: bf14c284-93ad-4a66-a1b8-ea7d640a2a38
+uuid: 1f80cc24-fe62-4fb8-a1b3-75ecdff55aa9
 title: "Séminaire de recherche “ Mode et médias ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954822"
 publisher: "GRIPIC SORBONNE UNIVERSITE"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

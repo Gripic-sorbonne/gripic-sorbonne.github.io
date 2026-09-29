@@ -1,5 +1,5 @@
 ---
-uuid: e20c8d0f-9c8c-4fda-a361-6e2d41eba6b8
+uuid: 47408c5d-cc4c-4443-9b7d-ae3ea6140be7
 title: "Géographie et cultures"
 author: "Nelly Quemener, Simone Weaver"
 authors: "Nelly Quemener, Simone Weaver"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758733"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

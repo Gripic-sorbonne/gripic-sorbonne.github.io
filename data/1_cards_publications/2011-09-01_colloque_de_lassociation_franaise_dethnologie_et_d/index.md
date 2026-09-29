@@ -1,5 +1,5 @@
 ---
-uuid: c0415a61-2c7d-4c07-a22b-3b270bdbe590
+uuid: 8870dae5-bc1e-4141-9f51-2d77f86ba52d
 title: "Colloque de l’Association française d’ethnologie et d’anthropologie (AFEA)"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749966"
 publisher: "Association française d’ethnologie et d’anthropologie (AFEA)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

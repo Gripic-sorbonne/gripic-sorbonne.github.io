@@ -1,5 +1,5 @@
 ---
-uuid: b45e6f45-7eb9-48c1-9fb3-39a79a9ec8fd
+uuid: b9af9a7e-89be-4018-a0f4-e82c45216375
 title: "Poli-Politiques des Cultural Studies"
 author: "Maxime Cervulle, Nelly Quemener"
 authors: "Maxime Cervulle, Nelly Quemener"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04269941"
 publisher: "Poli éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

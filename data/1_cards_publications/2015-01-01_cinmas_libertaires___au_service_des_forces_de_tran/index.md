@@ -1,5 +1,5 @@
 ---
-uuid: fae96581-1df4-4750-93f9-6ad5a6e8ccd7
+uuid: aaf2ad77-63b5-4286-8794-fda47cf7c845
 title: "Cinémas libertaires : au service des forces de transgression et de révolte"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03773290"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

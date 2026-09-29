@@ -1,5 +1,5 @@
 ---
-uuid: a1664a42-6f9e-40b8-9d0e-264fd541d067
+uuid: d02bdb4e-60ea-4fdf-8419-c221d9b6f6e9
 title: "“ La normalisation et la valeur sociale du swipe et autres ‘petits gestes’ de manipulation des interfaces tactiles ”."
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03772749"
 publisher: "Doctorales de la SFSIC, Organisées par le laboratoire ELICO, Lyon."
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: a6ebf9d2-ee96-46d1-8999-8aad38129503
+uuid: 5e5f33f9-3429-434c-8eba-9514286356fc
 title: "Actes du XXII SFSIC"
 author: "Pauline Escande-Gauquié"
 authors: "Pauline Escande-Gauquié"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04127444"
 publisher: "https://www.sfsic.org/publication/actes-du-xxiieme-congres-de-la-sfsic/"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

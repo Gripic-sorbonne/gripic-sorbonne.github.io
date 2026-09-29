@@ -1,5 +1,5 @@
 ---
-uuid: e4eae6c8-1588-4a29-bd98-4008092ba7bc
+uuid: 900e6c6f-b4c3-430f-948e-acc6dd387b12
 title: "Education aux médias"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750746"
 publisher: "CLEMI"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

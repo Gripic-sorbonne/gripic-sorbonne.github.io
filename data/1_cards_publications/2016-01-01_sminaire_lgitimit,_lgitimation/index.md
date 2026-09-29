@@ -1,5 +1,5 @@
 ---
-uuid: e67ac911-f0e1-4ec4-aa63-42ed3f219638
+uuid: 6628539b-8582-458f-a962-bc56f79e78b3
 title: "Séminaire ”Légitimité, légitimation”"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773590"
 publisher: "Gripic"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

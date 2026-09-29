@@ -1,5 +1,5 @@
 ---
-uuid: 972db614-7d0d-4e16-bd39-f459c0d509d4
+uuid: ad4569e3-e349-4f57-b808-06c008e053bf
 title: "The house always wins. What happens when modellers cannot produce ”feasible” scenarios to reach climate and energy targets?"
 author: "Vanille Ecrement, Lou Stührenberg"
 authors: "Vanille Ecrement, Lou Stührenberg"
@@ -9,7 +9,7 @@ type: "manuscript"
 url: "https://hal.science/hal-05592247"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

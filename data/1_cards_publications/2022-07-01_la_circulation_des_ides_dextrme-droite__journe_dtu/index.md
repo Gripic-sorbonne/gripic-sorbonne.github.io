@@ -1,5 +1,5 @@
 ---
-uuid: 3873d637-d844-4f24-8106-0a0d60bfbcb9
+uuid: 864fed68-1a24-475e-9979-4ee42a1bad46
 title: "La circulation des idées d’extrême-droite [Journée d’études]"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964040"
 publisher: "Nelly Quéméner and Virginie Julliard"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

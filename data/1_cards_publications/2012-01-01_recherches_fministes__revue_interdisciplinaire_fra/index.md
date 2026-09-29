@@ -1,5 +1,5 @@
 ---
-uuid: ed97b4fe-aff5-4fcf-afcb-d2a51ba7fa96
+uuid: 65e45dcd-9886-4ec4-b404-590522c884bd
 title: "Recherches féministes [revue interdisciplinaire francophone d’études féministes]"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758609"
 publisher: "Québec : GREMF"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 3a8fbb51-14ff-45b4-869e-213bb5c76bab
+uuid: 87fa6e7b-db7c-434d-af78-e7d90a159a4a
 title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne), « L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »"
 author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA).
 En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.

@@ -1,5 +1,5 @@
 ---
-uuid: d1623ff1-a55f-44a5-97f6-c39346ab0109
+uuid: f3537fc9-44cb-45db-9fcb-2e8180133549
 title: "Les Enjeux de l’information et de la communication"
 author: "Yves Jeanneret, Camille Rondot"
 authors: "Yves Jeanneret, Camille Rondot"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03988131"
 publisher: "Gresec UGA"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

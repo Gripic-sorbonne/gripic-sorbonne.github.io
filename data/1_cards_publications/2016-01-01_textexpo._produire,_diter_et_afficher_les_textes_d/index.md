@@ -1,5 +1,5 @@
 ---
-uuid: 9d3f9f5f-3be5-4c68-ba55-07b8d3084bae
+uuid: 8e022461-2d64-4866-9ae1-643194c06284
 title: "Textexpo. Produire, éditer et afficher les textes d’exposition"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03766968"
 publisher: "OCIM"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

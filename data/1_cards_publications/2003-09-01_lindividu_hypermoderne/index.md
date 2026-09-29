@@ -1,5 +1,5 @@
 ---
-uuid: 0301bb98-95d9-43f5-8fec-ee8d920b599f
+uuid: aa14411d-6baf-497c-bade-20a0bd48fbc2
 title: "L’individu hypermoderne"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03768249"
 publisher: "ESCP EAP and laboratoire du changement social (Université Paris 7 Denis Diderot)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

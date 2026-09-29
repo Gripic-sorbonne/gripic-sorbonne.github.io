@@ -1,5 +1,5 @@
 ---
-uuid: 8dc3a6c8-7cf3-4f64-8196-af2db5636f84
+uuid: bd857042-e222-4a23-844d-86d2a58fdd97
 title: "Problèmes Politiques et Sociaux - Articles et Documents d’Actualité Mondiale"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760967"
 publisher: "La Documentation française"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

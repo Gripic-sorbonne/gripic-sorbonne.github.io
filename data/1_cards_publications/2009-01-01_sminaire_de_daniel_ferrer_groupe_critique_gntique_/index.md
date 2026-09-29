@@ -1,5 +1,5 @@
 ---
-uuid: 8c74f614-4176-4fac-a746-a1722106fbb2
+uuid: 0255c605-81ed-4941-9131-96fe26cadbc9
 title: "séminaire de Daniel Ferrer Groupe Critique génétique des arts visuels"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750779"
 publisher: "ENS Paris"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

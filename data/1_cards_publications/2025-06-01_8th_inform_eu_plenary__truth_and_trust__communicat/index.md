@@ -1,5 +1,5 @@
 ---
-uuid: 10a47df0-20b6-4850-bca2-44361c8c295b
+uuid: cd27e14b-81d1-4163-9a71-ded971b82548
 title: "8th INFORM EU Plenary: Truth and Trust: Communicators VS Disinformation"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605990"
 publisher: "Commission européenne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 72f308d3-957e-4f8d-8d1c-4065c4b25d41
+uuid: 2d86646c-6b58-4f22-a719-5bf8cd6478ff
 title: "Les Médiateurs de la méditerranée"
 author: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
 authors: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03767177"
 publisher: "Geuthner"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 957b90fc-2d17-4e28-800d-52252f9f2f78
+uuid: edeea3d1-a043-43b6-9fcc-c4ed52f1fd8f
 title: "Histoires Littéraires"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03760992"
 publisher: "Du Lérot Éditeur"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

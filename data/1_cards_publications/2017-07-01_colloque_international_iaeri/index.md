@@ -1,5 +1,5 @@
 ---
-uuid: 28003565-3d27-40ae-81f7-6ff4ba60dfc6
+uuid: e2fa10f9-dfa1-4e64-95e5-2fc31fc89dbc
 title: "Colloque international IAERI"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750152"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 653bf54a-3fef-448d-80df-e3c052f40497
+uuid: c38dae6d-4418-49cf-af9b-c08014005631
 title: "Paris capital(e) médiatique XIXe-XXIe"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773306"
 publisher: "Gripic Sorbonne Université Celsa"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

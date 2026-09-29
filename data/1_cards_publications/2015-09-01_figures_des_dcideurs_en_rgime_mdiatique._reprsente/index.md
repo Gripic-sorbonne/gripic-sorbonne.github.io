@@ -1,5 +1,5 @@
 ---
-uuid: 14aa6e99-fbdc-4f4c-8e5f-081a7cb4e5e1
+uuid: a0db3e85-484d-4007-a6f6-031117f1894c
 title: "Figures des décideurs en régime médiatique. Représenter la décision politique et économique : un défi communicationnel."
 author: "Sophie Corbillé, Julien Tassel"
 authors: "Sophie Corbillé, Julien Tassel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749949"
 publisher: "CELSA - GRIPIC - Université Paris Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

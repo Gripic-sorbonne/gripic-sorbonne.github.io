@@ -1,5 +1,5 @@
 ---
-uuid: 18b6aa47-3e7d-4a5f-b154-f5e74664f159
+uuid: c51bf2ba-cb9c-4e46-a1c4-3fd6a0541de5
 title: "R. Queneau, Philosophes et voyous (ii), Littérature"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760508"
 publisher: "Larousse"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

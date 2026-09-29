@@ -1,5 +1,5 @@
 ---
-uuid: 91d0e815-9f47-49ff-bd49-4b60b1846b41
+uuid: ebd29fef-81fa-4556-bebe-de5d625bef2a
 title: "Questions de communication"
 author: "Odile Vallee"
 authors: "Odile Vallee"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://audencia.hal.science/hal-04033969"
 publisher: "Presses Universitaires de Nancy - Editions Universitaires de Lorraine"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

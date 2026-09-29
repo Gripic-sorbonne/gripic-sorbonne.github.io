@@ -1,5 +1,5 @@
 ---
-uuid: 10e0a245-cc85-4335-b8b4-6e4dd3686824
+uuid: bb8f9620-a646-4847-9ccf-0daa330c73ac
 title: "Un monde de crises au prisme des communications organisationnelles"
 author: "Olivia Foli, Sidonie Gallot, Elizabeth Gardère, Aurélia Lamy, Elise Maas"
 authors: "Olivia Foli, Sidonie Gallot, Elizabeth Gardère, Aurélia Lamy, Elise Maas"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03655306"
 publisher: "Université Catholique de Louvain = Catholic University of Louvain [UCL]"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

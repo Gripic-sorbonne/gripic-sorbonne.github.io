@@ -1,5 +1,5 @@
 ---
-uuid: c5e8a653-7297-4642-801a-adbd102a8f45
+uuid: f1538014-45a2-4778-9c5e-7a75a2188c68
 title: "YouTube ou la liberté d’expression sous contraintes. Contenus vidéo, individus connectés et acteurs économiques sur une plateforme numérique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03758744"
 publisher: "C&F Éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

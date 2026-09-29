@@ -1,5 +1,5 @@
 ---
-uuid: 227be254-a222-47c3-95a5-1e2aa5c3b8a3
+uuid: 332bf990-ff28-4240-ace5-39c66944dc44
 title: "Journée d’études pour le Festival Les Menstrueuses"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605974"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 67f73204-52c5-4b30-8dce-93ca1d5382d3
+uuid: 45fd8a49-d40b-4509-a8a4-fe5a33460467
 title: "17e Congrès de la SFSIC"
 author: "Karine Berthelot-Guiet, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Caroline Montety"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03768246"
 publisher: "Université de Bourgogne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

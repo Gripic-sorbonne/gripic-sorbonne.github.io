@@ -1,5 +1,5 @@
 ---
-uuid: 063c4bbd-a954-4299-8500-84d6ad4eb06b
+uuid: b504b928-03d0-4152-b428-f86377997cc1
 title: "Instagrammabilité"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03958086"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

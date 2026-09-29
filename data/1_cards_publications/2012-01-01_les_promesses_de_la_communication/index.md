@@ -1,5 +1,5 @@
 ---
-uuid: 2047e2d4-6f00-49f1-823d-1b3c2f721b79
+uuid: 7386604f-cba1-472d-a8e8-a09d6cb7e465
 title: "Les promesses de la communication"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03750008"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

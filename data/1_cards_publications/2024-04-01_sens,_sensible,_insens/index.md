@@ -1,5 +1,5 @@
 ---
-uuid: d89b8b46-877f-4302-89d3-6a4c8e3bb813
+uuid: 75d6e699-fe8b-4e0a-aaa5-47ba07ab588a
 title: "Sens, Sensible, Insensé"
 author: "Philippe Robert-Tanguy, Vincent Brulois"
 authors: "Philippe Robert-Tanguy, Vincent Brulois"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04568758"
 publisher: "Org&Co and LERASS-CERIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

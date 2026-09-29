@@ -1,5 +1,5 @@
 ---
-uuid: 21d67b9e-c0fa-4fd1-ae81-83ec8bbc5564
+uuid: 2a9ffe74-ba49-4a68-9d2c-841bb9a0b24b
 title: "Colloque Université de Créteil"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754560"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

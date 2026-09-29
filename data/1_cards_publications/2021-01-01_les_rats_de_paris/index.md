@@ -1,5 +1,5 @@
 ---
-uuid: 6afd03d6-109a-42f5-8746-996a9c8e8c8a
+uuid: 5cc2dc60-627b-48f9-b70c-461f894c505a
 title: "Les rats de Paris"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03766952"
 publisher: "Le Murmure"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

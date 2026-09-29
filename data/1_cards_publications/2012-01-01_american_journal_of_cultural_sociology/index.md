@@ -1,5 +1,5 @@
 ---
-uuid: ba5cdab1-ff26-494e-8bd1-be9835be8c6f
+uuid: 1d38d8ef-9af1-4cd4-88ea-d6067029e199
 title: "American Journal of Cultural Sociology"
 author: "Nelly Quemener, Denis-Constant Martin"
 authors: "Nelly Quemener, Denis-Constant Martin"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758736"
 publisher: "Springer"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

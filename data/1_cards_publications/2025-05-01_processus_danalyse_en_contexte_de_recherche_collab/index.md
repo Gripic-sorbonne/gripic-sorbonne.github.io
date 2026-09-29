@@ -1,5 +1,5 @@
 ---
-uuid: 6522f2c6-5204-4768-a069-53a0527fd3ab
+uuid: 646c03c2-d301-484c-8f9e-f0d77d20f13f
 title: "Processus d’analyse en contexte de recherche collaborative : partage des rôles, maillage des savoirs et retombées"
 author: "Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Ines Garmon"
 authors: "Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Ines Garmon"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05116076"
 publisher: "ACFAS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

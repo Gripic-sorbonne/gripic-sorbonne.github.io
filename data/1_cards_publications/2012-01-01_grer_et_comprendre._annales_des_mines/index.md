@@ -1,5 +1,5 @@
 ---
-uuid: 7fe39318-73ce-44a5-af99-f4e74217f23b
+uuid: fad748ee-e0c4-461b-a9d7-dc6b6cddd46a
 title: "Gérer et Comprendre. Annales des Mines"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://utt.hal.science/hal-02921651"
 publisher: "Eska"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

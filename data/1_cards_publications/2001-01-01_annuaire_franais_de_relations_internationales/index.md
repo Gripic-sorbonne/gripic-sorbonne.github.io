@@ -1,5 +1,5 @@
 ---
-uuid: de1123bd-dfa3-4cf4-9656-41e1420ebe2c
+uuid: 94778c2b-09d2-427a-accc-02e7512fed7c
 title: "Annuaire français de relations internationales"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03753000"
 publisher: "Paris : La Documentation française"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

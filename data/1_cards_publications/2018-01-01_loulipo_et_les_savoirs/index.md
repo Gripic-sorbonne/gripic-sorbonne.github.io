@@ -1,5 +1,5 @@
 ---
-uuid: 3a67b4c2-496c-4c52-9a2c-6f98a841c073
+uuid: 89319c4c-9433-498a-99df-1058d4b7aeef
 title: "L’Oulipo et les savoirs"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03760998"
 publisher: "Presses du Nouveau Monde,"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

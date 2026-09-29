@@ -1,5 +1,5 @@
 ---
-uuid: 538700ad-9a20-4b82-825d-94dc8c0e02d9
+uuid: 99bd9c5e-e847-452d-979a-acd254c995a8
 title: "Signos do consumo"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03750066"
 publisher: "Departamento de Relações Públicas Propaganda e Turismo da Escola de Comunicações e Artes da Universidade de São Paulo"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

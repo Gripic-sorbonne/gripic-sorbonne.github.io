@@ -1,5 +1,5 @@
 ---
-uuid: c1853914-e24a-400c-8261-0c6d2436978c
+uuid: 84655573-3adf-4e1c-abf0-514700512db1
 title: "Green Urbanism"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750132"
 publisher: "Université de Madison-Wisconsin"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

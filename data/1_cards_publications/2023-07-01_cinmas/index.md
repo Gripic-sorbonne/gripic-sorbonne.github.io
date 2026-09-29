@@ -1,5 +1,5 @@
 ---
-uuid: c3a0be4a-1899-4dd8-8f04-1cd463790a99
+uuid: ce02b975-f0b4-43f9-9346-3abee0202dc7
 title: "CiNéMAS"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03773282"
 publisher: "Université de Montréal"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: f7e97fb0-951f-490a-b90e-a791436434c8
+uuid: 88b820b0-311a-4771-8fee-2f7e752a872a
 title: "Séminaire “ Viral ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751295"
 publisher: "(Fred Paillier & Valérie Schafer, coord.), Université de Luxembourg"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

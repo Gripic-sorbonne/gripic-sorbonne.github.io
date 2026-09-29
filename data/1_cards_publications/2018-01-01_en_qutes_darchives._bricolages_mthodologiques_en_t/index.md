@@ -1,5 +1,5 @@
 ---
-uuid: 0e429ba5-8ab7-4c2c-8ac3-6c9ee4220383
+uuid: 595d182d-a2e1-4d0c-95f0-5db1f564b971
 title: "En quêtes d’archives. Bricolages méthodologiques en terrains médiatiques"
 author: "Nelly Quemener, Jamil Dakhlia"
 authors: "Nelly Quemener, Jamil Dakhlia"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03758757"
 publisher: "Ina Éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: e32d2a07-2d0f-4dab-9fdf-836a16775d7a
+uuid: bb32ffa9-5a79-457d-9bb8-bfef8c620d6f
 title: "Travaux et Recherches de l’UMLV"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://univ-eiffel.hal.science/hal-04037210"
 publisher: "Université de Marne-la-Vallée"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

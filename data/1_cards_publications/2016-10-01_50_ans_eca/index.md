@@ -1,5 +1,5 @@
 ---
-uuid: a6063d69-3e5e-486a-994a-693b19242300
+uuid: ddeecdd2-59f0-4701-882a-bb67cb3e4fbc
 title: "50 ans ECA"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754343"
 publisher: "USP, Université de Sao Paulo and ECA Escola de Comunicações e Artes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

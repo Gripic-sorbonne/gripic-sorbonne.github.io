@@ -1,5 +1,5 @@
 ---
-uuid: e1f1ca75-257a-4526-a182-dc5f64683d76
+uuid: 57840d2e-6896-49d5-9e30-7dbdf1d92608
 title: "Names, Naming, and the Law"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.sorbonne-universite.fr/hal-04245952"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

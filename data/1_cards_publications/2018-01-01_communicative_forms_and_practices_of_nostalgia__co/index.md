@@ -1,5 +1,5 @@
 ---
-uuid: 25b2a4d4-b0fc-4544-bf4c-24e8126b6c0c
+uuid: 3216f19e-7408-4684-86ec-5cbe8051dcb2
 title: "‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives’"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964059"
 publisher: "International Media and Nostalgia Network Conference"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

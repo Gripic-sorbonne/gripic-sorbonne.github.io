@@ -1,5 +1,5 @@
 ---
-uuid: cb1197cd-5528-4d72-8085-2d0fa472deed
+uuid: 6a0b6594-ba4d-4170-8fcb-e628b8a2c140
 title: "10 ans de la revue RESET"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605968"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

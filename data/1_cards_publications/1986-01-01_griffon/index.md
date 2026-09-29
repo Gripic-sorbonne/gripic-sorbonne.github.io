@@ -1,5 +1,5 @@
 ---
-uuid: f048a4ec-84fd-4a5f-8267-3a1fed0cd946
+uuid: c08c03a9-6bf0-4f91-b0e7-cff68325d70a
 title: "Griffon"
 author: "Emmanuël Souchier, Martine Descouens"
 authors: "Emmanuël Souchier, Martine Descouens"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761061"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 7e088ce4-ec7e-426e-b6a1-de2754d23321
+uuid: a727bedb-13a1-4e3e-94dc-4ef63942449c
 title: "“ Mediated (Dis)Continuities : contesting Pasts, Presents and Futures ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160332"
 publisher: "6th European Communication Conference, European Communication Research and Education Association (ECREA) –"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

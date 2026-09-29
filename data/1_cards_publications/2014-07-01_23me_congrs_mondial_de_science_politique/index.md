@@ -1,5 +1,5 @@
 ---
-uuid: 13478ecc-67fd-4b59-ba37-2d8ea1ba0763
+uuid: e8623836-eb14-42aa-b193-b97a13befc97
 title: "23ème CONGRÈS MONDIAL DE SCIENCE POLITIQUE"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-05469955"
 publisher: "IPSA"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

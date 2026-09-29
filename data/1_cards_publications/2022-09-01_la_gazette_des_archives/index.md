@@ -1,5 +1,5 @@
 ---
-uuid: 761ecdf6-cacd-44ea-801d-a7d8503bcc03
+uuid: 619434cd-ea6e-4c5c-96f8-29149decc24d
 title: "La Gazette des Archives"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04699513"
 publisher: "Association des archivistes français"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

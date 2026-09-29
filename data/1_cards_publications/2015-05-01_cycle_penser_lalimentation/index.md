@@ -1,5 +1,5 @@
 ---
-uuid: e2243b17-d71b-476f-9638-2f7aadf8789c
+uuid: a33d2c7c-bb90-49c2-99d3-53758d820538
 title: "cycle Penser l’alimentation"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754567"
 publisher: "ISCC Pôle Penser l’Alimentation de demain"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

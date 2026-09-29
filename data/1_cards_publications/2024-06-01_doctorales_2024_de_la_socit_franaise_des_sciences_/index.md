@@ -1,5 +1,5 @@
 ---
-uuid: d9d5bdd6-76e6-444d-bde7-eebc081442ea
+uuid: b6461f29-70fd-445a-8dd3-db8e0a1940e3
 title: "Doctorales 2024 de la Société française des sciences de l’information et de la communication"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04726696"
 publisher: "CREM and Université de Lorraine and Métropole Grand Nancy"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

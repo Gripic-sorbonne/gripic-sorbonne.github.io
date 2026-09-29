@@ -1,5 +1,5 @@
 ---
-uuid: 8306c08a-b3fa-435b-aa43-7fff636ca117
+uuid: 65e36993-4aa2-4990-994c-ee059f968086
 title: "Colloque “ La vache, le cheval et la lionne. Être artiste, femme et vivre avec les animaux au XIXème siècle ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964074"
 publisher: "Musée d’Orsay & Musée de la Chasse et de la Nature"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

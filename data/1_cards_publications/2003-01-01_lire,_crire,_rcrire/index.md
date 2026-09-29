@@ -1,5 +1,5 @@
 ---
-uuid: 6b42cc56-2325-4b09-8cbd-153941357a29
+uuid: 20efcd60-1517-41e2-8cd1-3d0521831edb
 title: "Lire, écrire, récrire"
 author: "Valerie Jeanne Perrier, Emmanuël Souchier, Yves Jeanneret, Annette Béguin-Verbrugge, Dominique Cotte, Sarah Labelle, Philippe Quinton"
 authors: "Valerie Jeanne Perrier, Emmanuël Souchier, Yves Jeanneret, Annette Béguin-Verbrugge, Dominique Cotte, Sarah Labelle, Philippe Quinton"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03752962"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

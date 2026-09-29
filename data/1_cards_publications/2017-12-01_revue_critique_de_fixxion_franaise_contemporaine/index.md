@@ -1,5 +1,5 @@
 ---
-uuid: b1bffed6-2d34-4671-bf29-0e42839be958
+uuid: 04ee6f11-f290-49fb-8a73-d33327be5976
 title: "Revue Critique de Fixxion Française Contemporaine"
 author: "Marine Siguier"
 authors: "Marine Siguier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03774475"
 publisher: "Ghent University &amp; Ecole Normale Supérieure"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

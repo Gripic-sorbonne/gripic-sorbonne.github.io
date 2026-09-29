@@ -1,5 +1,5 @@
 ---
-uuid: 88a8b423-50ca-42c2-9d06-d9e5fb9f177e
+uuid: 1e64fac8-6f53-4399-911e-1dd18af54f1b
 title: "Le songe de J.-M. Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761107"
 publisher: "Galerie Peyrole"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

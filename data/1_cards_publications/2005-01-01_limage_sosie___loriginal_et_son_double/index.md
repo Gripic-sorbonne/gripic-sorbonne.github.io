@@ -1,5 +1,5 @@
 ---
-uuid: b861ade4-5af9-4132-9c7b-1d3e40e3846c
+uuid: abfe8671-1b12-4ee6-8020-f0049f7b96e1
 title: "L’image sosie : l’original et son double"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760414"
 publisher: "Obsidiane - Les Belles Lettres"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

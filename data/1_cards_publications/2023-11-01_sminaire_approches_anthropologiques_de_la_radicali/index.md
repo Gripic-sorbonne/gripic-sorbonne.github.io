@@ -1,5 +1,5 @@
 ---
-uuid: 2b249d36-9296-45c8-b1db-e0f8ab33b1ad
+uuid: e47cebcc-d1d3-4089-853b-468fc7c574d6
 title: "Séminaire “ Approches anthropologiques de la radicalisation ”"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05609780"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

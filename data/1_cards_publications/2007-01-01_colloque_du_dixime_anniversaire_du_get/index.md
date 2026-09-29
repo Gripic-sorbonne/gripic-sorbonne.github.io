@@ -1,5 +1,5 @@
 ---
-uuid: b740d2ac-4369-48a8-84ec-21a176968ba9
+uuid: 1b661d33-97c7-4c21-bcd3-cfef4c12f836
 title: "Colloque du dixième anniversaire du GET"
 author: "Emmanuël Souchier, Olivier Fournout, Isabelle Garron"
 authors: "Emmanuël Souchier, Olivier Fournout, Isabelle Garron"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760671"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

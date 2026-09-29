@@ -1,5 +1,5 @@
 ---
-uuid: 1cc09714-58bd-4e06-97d5-c2444bf9641d
+uuid: 9db39a64-e9d2-418a-a9e2-6e162c74665b
 title: "Le Discours et la Langue Revue de linguistique française et d’analyse du discours"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03723021"
 publisher: "Editions modulaires européennes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

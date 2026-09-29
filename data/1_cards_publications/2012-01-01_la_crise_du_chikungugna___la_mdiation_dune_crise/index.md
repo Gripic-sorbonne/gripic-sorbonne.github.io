@@ -1,5 +1,5 @@
 ---
-uuid: 5fe96bc9-c8e9-4b22-8d62-d887f8044619
+uuid: 4d209c1c-8a6d-4069-920b-e0fd37c6e047
 title: "La crise du chikungugna : la médiation d’une crise"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750038"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

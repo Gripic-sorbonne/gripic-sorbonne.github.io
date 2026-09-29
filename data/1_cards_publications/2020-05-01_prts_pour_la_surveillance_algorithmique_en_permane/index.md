@@ -1,5 +1,5 @@
 ---
-uuid: 3d252eb6-768f-473c-aea3-8ab9c9ff9503
+uuid: fc4caafb-35ce-4be0-bccf-3a84c331ec11
 title: "Prêts pour la surveillance algorithmique en permanence ?"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03938252"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

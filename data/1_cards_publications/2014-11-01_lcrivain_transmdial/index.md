@@ -1,5 +1,5 @@
 ---
-uuid: ceeed4a3-9772-4b48-9877-d9f19299a661
+uuid: 3b8c29ff-04bf-4cb9-b48f-13ed9c1598f6
 title: "L’Écrivain transmédial"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767213"
 publisher: "Université Bar-Ilan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 1770a917-7c4e-4f94-968f-6309c5d58166
+uuid: 20c7bf29-b15c-4f28-95fe-02cc2b0c4c80
 title: "Le manuel des médias"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-05452774"
 publisher: "Éditions Panthéon-Assas"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

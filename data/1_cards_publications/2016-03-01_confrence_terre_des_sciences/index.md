@@ -1,5 +1,5 @@
 ---
-uuid: 76a59de5-b051-4cc2-a300-3f68b36eff5d
+uuid: 6788cb10-7794-4655-922c-a349169a410b
 title: "Conférence Terre des Sciences"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127906"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

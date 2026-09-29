@@ -1,5 +1,5 @@
 ---
-uuid: 4da684b5-90a2-4abf-942c-8d8263eacfda
+uuid: 9fdab4dd-a389-46eb-803c-ded8904eaca6
 title: "Actes du colloque Figures de l’anonymat : médias et société"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761027"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

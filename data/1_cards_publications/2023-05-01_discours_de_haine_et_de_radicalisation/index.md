@@ -1,5 +1,5 @@
 ---
-uuid: 437e7820-27cf-48b0-bbfb-dc6cbbddb39a
+uuid: 968e17df-be88-4dc5-aefa-d4f8082882de
 title: "Discours de haine et de radicalisation"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-02330320"
 publisher: "ENS Éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

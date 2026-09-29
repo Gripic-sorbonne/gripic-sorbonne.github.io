@@ -1,5 +1,5 @@
 ---
-uuid: 9018f1e3-817b-4b92-8770-e04e90e818da
+uuid: 1654b298-c36a-4e39-8a1f-4fbf80ca3d70
 title: "Réseaux sociaux : des vertus démocratiques, journalistiques et littéraires ?"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03752948"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

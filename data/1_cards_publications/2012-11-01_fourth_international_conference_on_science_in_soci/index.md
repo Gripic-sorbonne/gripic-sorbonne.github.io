@@ -1,5 +1,5 @@
 ---
-uuid: c1e55ff3-5a59-45ee-bf73-774e9cce0cf4
+uuid: 8d578bad-40f4-4e14-9f51-b8b55b8a27e8
 title: "Fourth international Conference on Science in Society"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750111"
 publisher: "Université de Berkeley-California"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

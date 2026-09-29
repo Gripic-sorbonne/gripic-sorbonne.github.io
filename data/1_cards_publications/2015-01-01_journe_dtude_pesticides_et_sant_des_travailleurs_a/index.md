@@ -1,5 +1,5 @@
 ---
-uuid: 070551e1-51b0-412f-a001-70c7ff74921d
+uuid: 686aa103-ba01-458b-8b56-bb6ff47e5445
 title: "Journée d’étude Pesticides et Santé des Travailleurs Agricoles, Journées d’étude SocioAgriPest, INRA"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127859"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

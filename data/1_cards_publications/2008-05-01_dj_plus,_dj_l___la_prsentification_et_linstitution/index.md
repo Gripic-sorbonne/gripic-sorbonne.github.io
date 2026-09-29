@@ -1,5 +1,5 @@
 ---
-uuid: fe7bd04e-4f4c-4722-9e2e-d6a71574083e
+uuid: d4164cea-b4ac-4a7b-a00d-71bc0b3c99fa
 title: "Déjà plus, déjà là : la présentification et l’institution culturelle"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767117"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

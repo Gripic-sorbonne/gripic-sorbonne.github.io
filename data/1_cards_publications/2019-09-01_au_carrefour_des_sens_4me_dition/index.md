@@ -1,5 +1,5 @@
 ---
-uuid: 50130e8a-2e39-4dce-bfa3-43f56a805636
+uuid: 546ba92e-e136-49a9-8906-b28eac393c1a
 title: "Au carrefour des sens ” – 4éme édition"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750715"
 publisher: "Institut d’études Romanes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

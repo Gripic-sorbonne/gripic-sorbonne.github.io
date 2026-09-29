@@ -1,5 +1,5 @@
 ---
-uuid: 1b963aa4-5f59-4765-b83f-09c6b90013bc
+uuid: 5221559d-f93a-48de-a049-ef4e2195b07f
 title: "Les paroles de plainte au travail. Des maux indicibles aux conversations du quotidien"
 author: "Olivia Foli"
 authors: "Olivia Foli"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.sorbonne-universite.fr/hal-03709990"
 publisher: "Editions des archives contemporaines"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

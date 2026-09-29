@@ -1,5 +1,5 @@
 ---
-uuid: b64a8a4d-bdd4-4706-97f8-7a1da3d9777a
+uuid: 9b88a89a-5bd9-4c25-abe5-1c2c3a3d0c54
 title: "Medias 19"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04590970"
 publisher: "Medias 19"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

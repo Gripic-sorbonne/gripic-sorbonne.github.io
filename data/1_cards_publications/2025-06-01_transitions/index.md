@@ -1,5 +1,5 @@
 ---
-uuid: caa5bbd7-5c97-4beb-ac94-22b4cb08649c
+uuid: accdfa27-9b79-4251-9dac-a11b793a3b66
 title: "Transitions"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05245531"
 publisher: "SFSIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

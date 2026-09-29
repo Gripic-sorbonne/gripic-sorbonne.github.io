@@ -1,5 +1,5 @@
 ---
-uuid: b3541272-a8a7-4ed0-8c33-6671a8383dfa
+uuid: 6c2c86aa-5d8e-43be-9837-5bba4c972432
 title: "2ème Congrès Interdisciplinaire sur l’Economie Circulaire (CIEC 2025)"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05356169"
 publisher: "Université de Picardie Jules Verne [UPJV] ; Université de lille [U-Lille] and AIFREC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

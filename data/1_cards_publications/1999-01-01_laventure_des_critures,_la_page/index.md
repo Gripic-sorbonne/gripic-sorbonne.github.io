@@ -1,5 +1,5 @@
 ---
-uuid: 635517e5-c8c0-40a6-a657-abfb6e85b9ad
+uuid: 0378072e-d746-4396-9cc4-d74f54bb8fac
 title: "L’aventure des écritures, La page"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761034"
 publisher: "Bibliothèque nationale de France"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

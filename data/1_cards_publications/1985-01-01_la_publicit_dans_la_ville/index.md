@@ -1,5 +1,5 @@
 ---
-uuid: 7b94e751-bb09-4b88-b486-16a28bad16d6
+uuid: 2e6f385e-3653-4e5e-8d89-0b32eea6b374
 title: "La publicité dans la ville"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760459"
 publisher: "La Documentation Française - Ministère des affaires étrangères"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

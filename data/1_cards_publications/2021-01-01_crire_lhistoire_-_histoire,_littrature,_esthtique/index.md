@@ -1,5 +1,5 @@
 ---
-uuid: 6f3456a6-57f2-49fe-9dee-b705f5fbe6a2
+uuid: f18ba290-fe4f-4294-857d-cfc6673d4533
 title: "Écrire l’histoire - Histoire, Littérature, Esthétique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758634"
 publisher: "CNRS Editions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

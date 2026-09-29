@@ -1,5 +1,5 @@
 ---
-uuid: 2faee51f-4d7f-419d-90b5-6fc0df2f8f24
+uuid: 9f5f2d8d-4ca0-4eab-b1bd-2b57d1c6658b
 title: "Journée d’étude ”Ressources pédagogiques en IUT : quelles conceptions de la professionnalisation ?”"
 author: "Caroline Ladage, Thomas Grignon, Maryse Cadet-Mieze, Aude Seurrat"
 authors: "Caroline Ladage, Thomas Grignon, Maryse Cadet-Mieze, Aude Seurrat"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03561569"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

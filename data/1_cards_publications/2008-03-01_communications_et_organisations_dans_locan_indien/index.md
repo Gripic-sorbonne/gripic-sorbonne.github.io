@@ -1,5 +1,5 @@
 ---
-uuid: 75bc0f0b-74e2-4550-9d19-68e2bef7425b
+uuid: 5961d9d0-74e6-4ad5-846c-d51c732129c1
 title: "Communications et organisations dans l’océan indien"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750147"
 publisher: "Université Saint Denis de la Réunion"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

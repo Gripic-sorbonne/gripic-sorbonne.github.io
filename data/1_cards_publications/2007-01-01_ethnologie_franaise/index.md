@@ -1,5 +1,5 @@
 ---
-uuid: 723b1909-30f2-464b-9b31-036877a6d0fe
+uuid: 1e8cd540-6b26-4032-950f-ab24d7da1124
 title: "Ethnologie française"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749916"
 publisher: "Presses Universitaires de France"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

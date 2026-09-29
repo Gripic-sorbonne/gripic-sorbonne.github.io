@@ -1,5 +1,5 @@
 ---
-uuid: 1d4883a2-df4d-4f91-a840-9d2b5a72abe5
+uuid: 8dca5a80-7811-48cd-a0e5-dc7bc4dfc5a9
 title: "Cultures pornographiques. Anthologie des Porn Studies"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758667"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

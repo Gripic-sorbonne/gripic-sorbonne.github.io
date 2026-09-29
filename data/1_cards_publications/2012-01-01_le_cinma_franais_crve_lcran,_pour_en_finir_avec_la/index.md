@@ -1,5 +1,5 @@
 ---
-uuid: d16e3fd1-cb69-45dc-a0c5-81baedeecf72
+uuid: f3f621a7-a6b5-49a8-8f28-7a8ebaf15e15
 title: "Le cinéma français crève l’écran, pour en finir avec la crise du cinéma français"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03750799"
 publisher: "Atlande"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

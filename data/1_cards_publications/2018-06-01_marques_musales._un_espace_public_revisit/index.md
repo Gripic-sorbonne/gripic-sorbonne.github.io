@@ -1,5 +1,5 @@
 ---
-uuid: f72b245e-ecaa-4dcc-8618-a949d278a0ee
+uuid: 8fd90d0f-fa72-4eed-a2c3-51cf8d3ea7f3
 title: "Marques Muséales. Un espace public revisité"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03768196"
 publisher: "Institut universitaire Varenne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

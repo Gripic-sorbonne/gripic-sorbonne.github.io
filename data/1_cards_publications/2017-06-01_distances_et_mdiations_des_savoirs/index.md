@@ -1,5 +1,5 @@
 ---
-uuid: f943dd23-d379-4aa3-8c15-6ae0885b3f9b
+uuid: b5b3ba46-a750-4ac1-8ee0-66488c6ea4d1
 title: "Distances et Médiations des Savoirs"
 author: "Olivier AÏM, Anneliese Depoux"
 authors: "Olivier AÏM, Anneliese Depoux"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749267"
 publisher: "CNED-Centre national d’enseignement à distance"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

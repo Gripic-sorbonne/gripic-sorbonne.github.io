@@ -1,5 +1,5 @@
 ---
-uuid: 99614352-6ed0-44c1-befa-86d4a40fadb7
+uuid: 94242d05-76e2-4e03-852f-f2eaee200d82
 title: "L’invention du fact-checking. Enquête sur la Clinique des rumeurs, Boston, 1942-1943"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.sorbonne-universite.fr/hal-05221769"
 publisher: "Presses universitaires de France"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

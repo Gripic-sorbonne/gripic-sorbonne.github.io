@@ -1,5 +1,5 @@
 ---
-uuid: 8129bbaf-8c9f-4adc-8e73-46cc8bfb2389
+uuid: 4acfbad4-a600-453c-9417-88ca32ed7fb0
 title: "Écrire le fait divers à la télévision : la rhétorique émotionnelle du drame personnel au journal télévisé de TF1"
 author: "Bérénice Mariau"
 authors: "Bérénice Mariau"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04268041"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

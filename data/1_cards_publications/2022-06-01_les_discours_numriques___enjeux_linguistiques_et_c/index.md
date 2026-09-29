@@ -1,5 +1,5 @@
 ---
-uuid: 120d883f-3a32-4bda-a38f-bdd3599b9f0e
+uuid: 24adabe3-3e4f-4228-b22f-eef86be4e9f4
 title: "Les discours numériques : enjeux linguistiques et communicationnels, perspectives didactiques. Le Carnet des jeunes chercheurs du Crem"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04246597"
 publisher: "Universite de Lorraine – CREM – Ajc CREM"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

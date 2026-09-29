@@ -1,5 +1,5 @@
 ---
-uuid: 0cbee3f2-3972-4af7-857b-483751562a94
+uuid: 720cb898-7949-4ae8-872a-78b3da15eb70
 title: "Hypermedias et pratiques numeriques : actes de H2PTM’11, 12-13 et 14 octobre 2011, Universite Paul Verlaine, Metz"
 author: "Imad Saleh, Luc Massou, Sylvie Leleu-Merviel, Yves Jeanneret, Nasreddine Bouhai, Pierre Morelli"
 authors: "Imad Saleh, Luc Massou, Sylvie Leleu-Merviel, Yves Jeanneret, Nasreddine Bouhai, Pierre Morelli"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://shs.hal.science/halshs-03085477"
 publisher: "Hermes Science Publications"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

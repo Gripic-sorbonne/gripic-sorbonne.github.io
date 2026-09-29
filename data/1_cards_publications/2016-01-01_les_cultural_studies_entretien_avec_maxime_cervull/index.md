@@ -1,5 +1,5 @@
 ---
-uuid: 1be96065-4dcf-4d60-8c2a-c3a91f2ffced
+uuid: 496dcada-4952-450c-b484-b110e3c73fe5
 title: "Les Cultural Studies – entretien avec Maxime Cervulle et Nelly Quemener"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03758636"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

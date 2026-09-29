@@ -1,5 +1,5 @@
 ---
-uuid: c74173c9-07ae-4841-939d-58d75e331e55
+uuid: 4188bd97-b8c8-46c3-97f2-e78ef8e7d05b
 title: "Kandooj"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04168839"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: bb523680-f32d-47fe-adb8-4aba3b480c87
+uuid: 80d73bf4-3398-45e5-a600-08d1efad5a18
 title: "Médiations informatisées de l’autorité"
 author: "Etienne Candel, Pergia Gkouskou-Giannakou"
 authors: "Etienne Candel, Pergia Gkouskou-Giannakou"
@@ -9,7 +9,7 @@ type: ""
 url: "https://shs.hal.science/halshs-01709102"
 publisher: "NecPlus"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

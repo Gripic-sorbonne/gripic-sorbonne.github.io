@@ -1,5 +1,5 @@
 ---
-uuid: c9c5ac08-bf5f-4854-98c4-9c2cb6405fa3
+uuid: 0c2ae069-3a84-4ec0-806c-e08327737abe
 title: "Les fils du vent défilent en vain au fil des maux"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761105"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

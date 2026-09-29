@@ -1,5 +1,5 @@
 ---
-uuid: 35aeb810-a5ab-45ea-87ee-a08ea21e446d
+uuid: 9a2b8ae2-9337-4ee7-b89c-c085a61473d1
 title: "Plateforme / Plateformisation"
 author: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
 authors: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.sorbonne-universite.fr/hal-03987167"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

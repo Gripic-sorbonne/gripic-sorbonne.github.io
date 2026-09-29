@@ -1,5 +1,5 @@
 ---
-uuid: ca3e07d6-d3e6-4246-954b-b206db92e429
+uuid: d0bd33ec-9de8-4dbf-9684-bd041ab13290
 title: "Les grands textes qui ont inspiré l’Europe"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03799736"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 6746c1ab-8404-4cbb-b0ab-3981c03a347f
+uuid: f52bec0f-8698-4492-b03a-f5bf3c8bd0ec
 title: "Falling in love with semiotic"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773517"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

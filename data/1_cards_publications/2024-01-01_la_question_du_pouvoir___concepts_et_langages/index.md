@@ -1,5 +1,5 @@
 ---
-uuid: 2c34727a-39b5-4493-85f1-2bbf0a4069ba
+uuid: 147c0473-359b-4fe7-bf42-dbcf7211455b
 title: "La question du pouvoir : concepts et langages"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05053051"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 8cf31d95-e0a5-4869-b61f-dd7f52aa513e
+uuid: 7859c7fb-0a86-4a8c-9de2-47e10c868afe
 title: "Lectures de Zola. La Fortune des Rougon"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03767171"
 publisher: "Presses Universitaires de Rennes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

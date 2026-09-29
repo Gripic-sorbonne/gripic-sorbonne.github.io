@@ -1,5 +1,5 @@
 ---
-uuid: 375e2cf6-1b46-4ac4-b0d7-48eb123963a4
+uuid: 194a0b84-5d1b-4fa1-8a6c-9aaedf8a2ec4
 title: "La bibliothèque de Jean-Baudrillard"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964096"
 publisher: "Columbia University"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

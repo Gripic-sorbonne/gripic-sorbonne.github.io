@@ -1,5 +1,5 @@
 ---
-uuid: 6b7c7ecd-ccbd-4fd5-9fb1-b7fe9271876a
+uuid: 7f11ead4-7a87-4002-9d20-8b1e04e61e72
 title: "Design et innovation dans la chaîne du livre. Ecrire, éditer, lire à l’ère numérique. ECRiDiL 2016 (Ecrire, éditer, lire à l’ère numérique )"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750622"
 publisher: "Université de Nîmes"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

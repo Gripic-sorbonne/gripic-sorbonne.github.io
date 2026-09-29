@@ -1,5 +1,5 @@
 ---
-uuid: d4042ed3-c716-400f-b735-972f7d9afc20
+uuid: c892f924-9e18-4e8d-b739-4421c123454a
 title: "La Cité du Vin : carrefour et parcours d’interprétation libre"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03754463"
 publisher: "Pôle alimentation ISCC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

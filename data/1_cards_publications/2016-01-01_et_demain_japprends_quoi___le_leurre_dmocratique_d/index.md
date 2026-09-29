@@ -1,5 +1,5 @@
 ---
-uuid: 7e0e6b00-3cb4-4535-b268-0940d6025669
+uuid: c6bdd470-f068-4ef8-954c-eaf8ee69efef
 title: "Et demain j’apprends quoi ? Le leurre démocratique du code"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03760989"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

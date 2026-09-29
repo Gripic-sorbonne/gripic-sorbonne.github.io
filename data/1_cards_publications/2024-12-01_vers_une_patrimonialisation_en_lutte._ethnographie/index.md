@@ -1,5 +1,5 @@
 ---
-uuid: 0dffc5f4-ccdd-4933-928e-030e83405589
+uuid: cf57d128-18fa-4ff2-b29b-def9724c648a
 title: "Vers une patrimonialisation en lutte. Ethnographie des savoirs, des objets et des pratiques de Notre-Dame-des-Landes"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04999162"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

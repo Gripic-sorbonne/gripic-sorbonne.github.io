@@ -1,5 +1,5 @@
 ---
-uuid: 529bbcec-4500-46cf-aca2-7b21366f97b7
+uuid: 0bd73d19-810f-40eb-8e14-650e2fc7a5aa
 title: "Science communication in the world: Practices, theories and trends"
 author: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
 authors: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://lilloa.hal.science/hal-01310000"
 publisher: "Springer"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

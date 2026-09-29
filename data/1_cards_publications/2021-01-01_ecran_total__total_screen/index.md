@@ -1,5 +1,5 @@
 ---
-uuid: 4a70311c-a663-4b9d-bf8f-e3c7e5ea5634
+uuid: f866d527-1b03-4fa3-b8a3-a251d793468b
 title: "Ecran total/ Total Screen"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964086"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

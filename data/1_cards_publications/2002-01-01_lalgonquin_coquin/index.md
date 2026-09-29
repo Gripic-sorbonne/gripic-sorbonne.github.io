@@ -1,5 +1,5 @@
 ---
-uuid: 17088be3-198a-461d-8be7-68e39614703b
+uuid: f11c539f-a189-41c7-929a-78fa449d3076
 title: "L’algonquin coquin"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03761094"
 publisher: "Musées de Sens"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

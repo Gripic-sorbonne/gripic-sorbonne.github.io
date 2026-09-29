@@ -1,5 +1,5 @@
 ---
-uuid: fbd3eb76-6737-4bab-aa1f-49eeefcbf4fc
+uuid: 2713d86d-8a75-43c5-b10f-78e154046139
 title: "OpenMod 2024 workshop"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05053049"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

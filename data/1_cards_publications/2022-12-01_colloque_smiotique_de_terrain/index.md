@@ -1,5 +1,5 @@
 ---
-uuid: 4f778675-fd66-426b-885d-f3b1a40d9688
+uuid: 7d43169f-eca6-4d5c-b3f5-a222f08c5839
 title: "Colloque Sémiotique de terrain"
 author: "Fred Pailler, Virginie Julliard"
 authors: "Fred Pailler, Virginie Julliard"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04270679"
 publisher: "Université Paris 8 - CEMTI"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

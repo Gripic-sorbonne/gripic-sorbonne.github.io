@@ -1,5 +1,5 @@
 ---
-uuid: a3430ff4-ead5-493a-8ca9-8d611bf97cb5
+uuid: 75b14beb-15e9-476b-83bd-a292593c907e
 title: "Objets insignes, objets infâmes de la littérature"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03768193"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

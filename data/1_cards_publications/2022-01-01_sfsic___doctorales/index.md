@@ -1,5 +1,5 @@
 ---
-uuid: 2758e71c-d222-471a-921a-26d006c53b4d
+uuid: f8fc6d15-25b4-42ef-9659-1682b1d7cef0
 title: "SFSIC : Doctorales"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750697"
 publisher: "SFSIC"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

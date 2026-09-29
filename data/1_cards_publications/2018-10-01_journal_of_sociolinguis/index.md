@@ -1,5 +1,5 @@
 ---
-uuid: bd05b448-4928-412f-a0e4-1a60f916e5ad
+uuid: 17fb6b25-f3d2-46b7-a97a-fb406dd8d484
 title: "Journal of Sociolinguis"
 author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04173369"
 publisher: "Payam Noor University"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 07d04a2a-16d2-46ae-9296-46500fb462e2
+uuid: be11d1c5-832e-4e35-83d0-ae5b05561ceb
 title: "L’alimentation demain Cultures et médiations"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754451"
 publisher: "Hermès"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

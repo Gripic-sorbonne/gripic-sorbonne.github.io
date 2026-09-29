@@ -1,5 +1,5 @@
 ---
-uuid: 61b66252-2048-4a69-85ba-87973d0bc7bc
+uuid: 02583bb7-02dc-4e6f-8dda-edb113158d43
 title: "Communication & Organisation"
 author: "Caroline Montety"
 authors: "Caroline Montety"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03754328"
 publisher: "Presses Universitaires de Bordeaux"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

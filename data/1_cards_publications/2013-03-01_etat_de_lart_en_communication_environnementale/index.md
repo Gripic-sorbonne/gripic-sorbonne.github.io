@@ -1,5 +1,5 @@
 ---
-uuid: 37ed4e41-3af1-443b-9ff3-4f5398302ad4
+uuid: 6e589cc9-71ff-40a2-8e24-3905fa585cc3
 title: "Etat de l’art en communication environnementale"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750107"
 publisher: "Université de Louvain la Neuve"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

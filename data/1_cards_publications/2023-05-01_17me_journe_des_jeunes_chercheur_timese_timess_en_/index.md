@@ -1,5 +1,5 @@
 ---
-uuid: 8607de0c-b8ff-446f-96a2-b57e3ea1baac
+uuid: 0b32001a-e6ee-459d-99a9-4974afa161ed
 title: "17ème Journée des Jeunes Chercheur\timese\timess en SIC : En(quête) de terrains"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04500969"
 publisher: "Laboratoire GERiiCO and Université de Lille"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 9e09544f-7647-486b-98a6-43e5f2b1a79d
+uuid: 42de78f1-7129-442b-869d-2db9cc141c59
 title: "Télévision et pouvoirs, Actes du colloque 25 images / seconde"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761042"
 publisher: "Crac Scène Nationale"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

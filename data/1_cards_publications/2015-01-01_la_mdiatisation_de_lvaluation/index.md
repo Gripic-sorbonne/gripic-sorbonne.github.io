@@ -1,5 +1,5 @@
 ---
-uuid: a67f828c-f774-4a31-b610-95766c5aa35c
+uuid: b859f721-9fcd-479b-b897-3d99d3edaf27
 title: "La médiatisation de l’évaluation"
 author: "Camille Rondot"
 authors: "Camille Rondot"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03753014"
 publisher: "Peter Lang"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

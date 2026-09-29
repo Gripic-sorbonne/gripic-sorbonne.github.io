@@ -1,5 +1,5 @@
 ---
-uuid: d90d71f3-bdb4-4b28-b7af-192a92ebd4b3
+uuid: 470dde1b-f1c1-4af9-a292-0587f3e43654
 title: "Médiatisations et polarisations dans la crise du Covid-19. Entretien avec François Allard-Huver"
 author: "Thierry Devars, François Allard-Huver"
 authors: "Thierry Devars, François Allard-Huver"
@@ -9,7 +9,7 @@ type: ""
 url: "https://shs.hal.science/halshs-03760888"
 publisher: "Éditions de la Maison des Sciences de l’Homme"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

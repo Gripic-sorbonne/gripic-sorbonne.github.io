@@ -1,5 +1,5 @@
 ---
-uuid: 0f82bde3-0401-4e88-8438-031e0bad9419
+uuid: be5f2afd-62f4-47ef-8cf9-a050b3b2d613
 title: "Massin"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761048"
 publisher: "André Derval éd."
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

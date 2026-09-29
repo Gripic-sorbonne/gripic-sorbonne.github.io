@@ -1,5 +1,5 @@
 ---
-uuid: 61d0a496-3a26-4826-bbb0-d5c37f2f3510
+uuid: 9b92da7c-2b7f-4119-bbd6-3b362c7cf758
 title: "L’authentification: un acte de langage"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03754537"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

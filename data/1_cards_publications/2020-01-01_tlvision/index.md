@@ -1,5 +1,5 @@
 ---
-uuid: 88a21c14-e6d8-4cce-9ef5-b163b009d713
+uuid: d24ffa6c-eca2-4f5f-bac2-ea8b3c876661
 title: "Télévision"
 author: "Pauline Brouard"
 authors: "Pauline Brouard"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03767270"
 publisher: "C.N.R.S Editions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

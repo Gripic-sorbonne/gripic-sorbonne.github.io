@@ -1,5 +1,5 @@
 ---
-uuid: 19213262-df2d-48cc-a65f-1ee4354b03c0
+uuid: bf019c9b-2ad0-4c47-aa44-a56df9ce6865
 title: "Ateliers de CERES"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605960"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

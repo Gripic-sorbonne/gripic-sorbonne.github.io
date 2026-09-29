@@ -1,5 +1,5 @@
 ---
-uuid: 20d3e813-ea2f-4c25-a8b7-7896beda517d
+uuid: 22ca4b67-0f52-41bd-bddc-fadbe9d5936d
 title: "Préface pour l’édition de La Philosophie de l’argent de Georg Simmel"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03749228"
 publisher: "Garnier Flammarion"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

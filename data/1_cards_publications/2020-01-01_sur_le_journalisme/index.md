@@ -1,5 +1,5 @@
 ---
-uuid: 2a29b3cf-ab39-4f8c-a8c3-8a32df60fc2c
+uuid: ad0185b6-40e4-4550-b2b5-0e6104cdfd90
 title: "Sur le journalisme"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03799836"
 publisher: "Université libre de Bruxelles"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

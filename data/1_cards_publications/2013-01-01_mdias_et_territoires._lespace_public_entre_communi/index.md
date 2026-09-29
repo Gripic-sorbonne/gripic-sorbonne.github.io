@@ -1,5 +1,5 @@
 ---
-uuid: 31f4abe7-8191-4829-8dea-88a10d6f9675
+uuid: c8cbf681-2046-40af-954c-7f38a95784ff
 title: "Médias et territoires. L’espace public entre communication et imaginaire territorial"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754394"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

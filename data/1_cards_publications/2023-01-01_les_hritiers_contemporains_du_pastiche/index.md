@@ -1,5 +1,5 @@
 ---
-uuid: 4b78c27b-4717-44c4-b0e1-5210374fa976
+uuid: 4cd3dd84-dd94-4e93-82ac-0cf3bb778e70
 title: "Les héritiers contemporains du pastiche"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-04395052"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

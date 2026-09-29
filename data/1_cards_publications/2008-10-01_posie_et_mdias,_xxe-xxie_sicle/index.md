@@ -1,5 +1,5 @@
 ---
-uuid: acdba3aa-9622-4702-a6ce-8b567500951a
+uuid: ece3d3ac-ce1d-48ec-9171-7a3b7e014e9a
 title: "Poésie et médias, XXe-XXIe siècle"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-01704040"
 publisher: "Nouveau Monde Editions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

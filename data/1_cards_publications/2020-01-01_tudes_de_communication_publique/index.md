@@ -1,5 +1,5 @@
 ---
-uuid: 87caab65-b2be-49b6-ba14-cbc3a30a1034
+uuid: a7c9cf12-b216-4abd-a7d3-26e234fe3006
 title: "Études de communication publique"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03723018"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

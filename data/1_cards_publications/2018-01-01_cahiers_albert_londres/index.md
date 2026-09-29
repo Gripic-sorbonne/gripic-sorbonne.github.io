@@ -1,5 +1,5 @@
 ---
-uuid: 9ff5fe94-74f7-43ba-adcc-28b6e5efe0be
+uuid: fed45932-8644-42f3-b404-13ca9b6abf3a
 title: "cahiers Albert Londres"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03773294"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

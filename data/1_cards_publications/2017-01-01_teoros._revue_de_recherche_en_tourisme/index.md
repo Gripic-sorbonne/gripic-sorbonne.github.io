@@ -1,5 +1,5 @@
 ---
-uuid: 4e9c4e31-e16b-4e54-8739-29cfa41f869b
+uuid: 21f81c96-d0fa-435a-a94b-6736edd12d7d
 title: "Teoros. Revue de recherche en tourisme"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03749885"
 publisher: "Université de Montréal"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

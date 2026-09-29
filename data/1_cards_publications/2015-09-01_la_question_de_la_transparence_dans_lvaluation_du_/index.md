@@ -1,5 +1,5 @@
 ---
-uuid: 3bceccc6-ed76-43f2-a845-c08df0ddb3e0
+uuid: 686fe868-75c5-4886-b51f-cbad360f759a
 title: "La question de la ”transparence” dans l’évaluation du risque : l”’Affaire Séralini”"
 author: "François Allard Allard-Huver"
 authors: "François Allard Allard-Huver"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04268037"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

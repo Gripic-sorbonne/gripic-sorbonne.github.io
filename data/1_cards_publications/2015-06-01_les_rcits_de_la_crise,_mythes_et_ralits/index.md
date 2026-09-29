@@ -1,5 +1,5 @@
 ---
-uuid: 9ba397e5-ab51-4d9e-b53d-02e514ead5d5
+uuid: 00d7109b-7ec6-4178-9092-eab4e1fc05a9
 title: "Les récits de la crise, mythes et réalités"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767082"
 publisher: "AISLF"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 2cbbb750-681f-43fd-9b02-d986cde3a67c
+uuid: 140f8c27-54d3-4f71-9d80-7fe37ddc8153
 title: "Le tourisme hors des sentiers battus : coulisses, interstices et nouveaux territoires touristiques"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767095"
 publisher: "IREST/EIREST and Université Paris-Sorbonne and ASTRES"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

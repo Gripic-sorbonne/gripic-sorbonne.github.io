@@ -1,5 +1,5 @@
 ---
-uuid: 786a1e3c-0669-49b9-9d7c-2b6579708ef8
+uuid: 98a70289-f380-4947-a476-df2eef29fcff
 title: "Gastronomie et Communication"
 author: "Camille Brachet, Julien Tassel"
 authors: "Camille Brachet, Julien Tassel"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03740493"
 publisher: "L’Harmattan"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

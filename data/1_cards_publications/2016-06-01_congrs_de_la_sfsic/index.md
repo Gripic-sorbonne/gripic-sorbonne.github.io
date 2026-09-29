@@ -1,5 +1,5 @@
 ---
-uuid: a01c4489-bdb6-4013-a984-9f21af4b8a25
+uuid: 2fbe4295-a303-4b86-910c-a4d86b31d52f
 title: "Congrès de la SFSIC"
 author: "Etienne Candel, Pauline Chasseray-Peraldi"
 authors: "Etienne Candel, Pauline Chasseray-Peraldi"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-01703915"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

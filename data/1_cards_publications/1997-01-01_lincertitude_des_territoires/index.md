@@ -1,5 +1,5 @@
 ---
-uuid: 1e36ba9a-8768-47b6-aef1-cb4d1b85b94d
+uuid: 6601d300-05d2-4175-95b2-f022b22b8dc0
 title: "L’incertitude des territoires"
 author: "Dominique Pagès, Nicolas Pélissier"
 authors: "Dominique Pagès, Nicolas Pélissier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03754388"
 publisher: "Éditions de la Maison des sciences de l’homme"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

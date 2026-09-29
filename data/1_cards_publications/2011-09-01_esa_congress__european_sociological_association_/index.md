@@ -1,5 +1,5 @@
 ---
-uuid: 6d6fe9fe-11d0-4276-bdb1-b41ed3cdabf9
+uuid: 82620ec1-d8b7-44fd-96b9-b55d09bfce6e
 title: "ESA Congress (European Sociological Association)"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://utt.hal.science/hal-02968088"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

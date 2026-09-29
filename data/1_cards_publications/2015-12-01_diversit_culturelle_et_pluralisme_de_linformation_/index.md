@@ -1,5 +1,5 @@
 ---
-uuid: 8560e23f-5a3c-4558-b6a3-8186d5bfce98
+uuid: abb74f1f-9583-42eb-aebe-5211bf14b63e
 title: "Diversité culturelle et pluralisme de l’information à l’ère numérique : mêmes combats ?"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767315"
 publisher: "Paris 3 Sorbonne Nouvelle"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

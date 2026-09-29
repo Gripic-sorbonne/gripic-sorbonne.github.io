@@ -1,5 +1,5 @@
 ---
-uuid: 36cd2554-c9e2-4086-83ed-d92783d7977f
+uuid: 7e219ee2-f2a3-4bf4-aa80-4572df94443e
 title: "Colloque “ Nostalgies, mémoires et cultures médiatiques. Entre esthétique, marchandisation et politisation ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964067"
 publisher: "ACFAS"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

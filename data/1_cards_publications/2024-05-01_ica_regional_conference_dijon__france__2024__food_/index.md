@@ -1,5 +1,5 @@
 ---
-uuid: ab73e1b4-b5c5-49e4-a239-4c9c0010f625
+uuid: ed2fd7de-d26e-462a-a7a6-9ba7ce7fed8e
 title: "ICA Regional Conference – Dijon (France) 2024: Food and Communication"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04733743"
 publisher: "CIMEOS University of Burgundy"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

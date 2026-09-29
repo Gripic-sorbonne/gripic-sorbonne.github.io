@@ -1,5 +1,5 @@
 ---
-uuid: 4a0b63cb-6fcc-40fd-bbeb-0af13889ae4e
+uuid: 3112c8b8-a61c-497d-b58d-fa8f0d032688
 title: "Online Virality"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-04703603"
 publisher: "De Gruyter"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

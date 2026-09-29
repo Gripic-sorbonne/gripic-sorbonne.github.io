@@ -1,5 +1,5 @@
 ---
-uuid: 6a68c193-81fb-491f-8e67-490558866cef
+uuid: a749ca20-f1a5-4bdc-9fa4-6f13abfb5d4d
 title: "Matières et supports, la bande dessinée dans tous ses états"
 author: "Pauline Escande, Emmanuël Souchier"
 authors: "Pauline Escande, Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03750792"
 publisher: "Nec Plus"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

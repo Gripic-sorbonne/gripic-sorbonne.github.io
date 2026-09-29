@@ -1,5 +1,5 @@
 ---
-uuid: b85d8c13-f024-416c-9bf6-6d5dcd9e60e0
+uuid: 347904ac-f41b-4cf6-b273-e11afe466df9
 title: "Communication politique. Les clés essentielles pour comprendre la communication politique grâce à une approche pédagogique unique."
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03799738"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 26840d57-ccd7-412d-a65c-2d22778c03af
+uuid: 6bd0b93e-5eea-49bc-8c81-ff5e09ad79b4
 title: "Séminaire ”Cultures de l’enquête”"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05555952"
 publisher: "Joëlle Le Marec (PALOC, MNHN)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

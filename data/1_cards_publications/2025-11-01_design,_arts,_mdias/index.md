@@ -1,5 +1,5 @@
 ---
-uuid: de3026c2-e24b-43eb-9e15-877139acd6a9
+uuid: 338dd5b7-5946-4764-bcbe-1224db149672
 title: "Design, Arts, Médias"
 author: "Jeremy Lucas-Boursier"
 authors: "Jeremy Lucas-Boursier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-05575998"
 publisher: "Ecole des Arts de la Sorbonne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

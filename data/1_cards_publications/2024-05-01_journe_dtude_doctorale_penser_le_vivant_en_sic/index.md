@@ -1,5 +1,5 @@
 ---
-uuid: 81aa5feb-6bc7-431b-8f68-f9c1a06d6ef5
+uuid: 24aedc5b-8440-4c35-ae7d-cfd90a70eff0
 title: "Journée d’étude doctorale “ Penser le vivant en SIC ”"
 author: "Priscille-Laëta Atteleyn, Marie-lise Buisson, Joachim Fischer, Julien Gaillard, Léa Gruyer, Julie Journot, Amélie Peresson, Coline Reille, Noé Vaccari"
 authors: "Priscille-Laëta Atteleyn, Marie-lise Buisson, Joachim Fischer, Julien Gaillard, Léa Gruyer, Julie Journot, Amélie Peresson, Coline Reille, Noé Vaccari"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-04830972"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

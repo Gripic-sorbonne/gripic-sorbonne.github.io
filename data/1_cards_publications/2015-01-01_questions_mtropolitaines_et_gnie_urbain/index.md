@@ -1,5 +1,5 @@
 ---
-uuid: aa1b6215-80ad-473e-a0fb-3ab46722a8c8
+uuid: 8d261e9d-e110-4795-bc92-86944f4e4057
 title: "Questions métropolitaines et génie urbain"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03754392"
 publisher: "EIVP"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

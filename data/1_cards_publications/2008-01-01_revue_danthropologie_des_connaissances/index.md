@@ -1,5 +1,5 @@
 ---
-uuid: cb3398a4-bda2-49f6-be4b-42e85bb39310
+uuid: b962e565-0abd-427f-bcc6-aa6822926ee2
 title: "Revue d’Anthropologie des Connaissances"
 author: "Igor Babou, Joëlle Le Marec"
 authors: "Igor Babou, Joëlle Le Marec"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://u-paris.hal.science/hal-01593797"
 publisher: "Société d’Anthropologie des Connaissances (SAC)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 906b0d43-1d55-42a2-a400-8221c7f5ea57
+uuid: 87c63a08-4932-45ef-b19d-c05377945790
 title: "Communiquer : Revue de communication sociale et publique"
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03772656"
 publisher: "Université du Québec, Département de communication sociale et publique"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

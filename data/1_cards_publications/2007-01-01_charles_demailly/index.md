@@ -1,5 +1,5 @@
 ---
-uuid: bdaf4be3-f627-4a82-bb29-11fffe500bc5
+uuid: 45c9f9ab-1e52-4b36-8e5d-db9bef6d954d
 title: "Charles Demailly"
 author: "Adeline Wrona, Edmond De Goncourt, Jules De Goncourt"
 authors: "Adeline Wrona, Edmond De Goncourt, Jules De Goncourt"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03767166"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

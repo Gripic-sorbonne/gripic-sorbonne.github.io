@@ -1,5 +1,5 @@
 ---
-uuid: 645d3e6c-af72-4807-bdb5-31a12a90738f
+uuid: fb417796-5eec-4d82-a2a0-849d04dfddbd
 title: "XXIIIème Congrès de la SFSIC ”La numérisation des sociétés”"
 author: "Laurence Allard, Pauline Escande-Gauquié, Étienne Candel, Gustavo Gomez-Mejia, Laurent Creton, Emilie Lage, David Galli, Marc Jahjah, Franck Renucci, Alexandra Saemmer"
 authors: "Laurence Allard, Pauline Escande-Gauquié, Étienne Candel, Gustavo Gomez-Mejia, Laurent Creton, Emilie Lage, David Galli, Marc Jahjah, Franck Renucci, Alexandra Saemmer"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-04402790"
 publisher: "Société française des sciences de l’information et de la communication (SFSIC)"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 649e0ad3-699b-497c-ab82-1c2c7babe13e
+uuid: 0957651b-3a72-46c7-9693-2623bf9cb86c
 title: "Les ateliers d’écriture et l’Oulipo"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03760997"
 publisher: "Hermann"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 5276af97-8545-4d51-bc8d-d8cbbfd4b483
+uuid: ccd57faa-4a5e-4119-9cf0-f76b3ec86a5f
 title: "Sémio 2007"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750756"
 publisher: "Association Française de Sémiotique"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

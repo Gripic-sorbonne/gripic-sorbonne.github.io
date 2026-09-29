@@ -1,5 +1,5 @@
 ---
-uuid: 0a6d0155-9afb-43c8-b3a7-f0ff15ee9e14
+uuid: 9c5209ec-2a6b-4b44-801a-33b3b6581d85
 title: "Concrete jungle. Esthétique du vivant en milieu urbain"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767048"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

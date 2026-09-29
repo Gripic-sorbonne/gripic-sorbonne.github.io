@@ -1,5 +1,5 @@
 ---
-uuid: cfde57b2-8252-4651-a0dc-3e98dacb6a4a
+uuid: 0ab21574-14c6-4cbb-a277-326d47d4bef9
 title: "L’essentiel de la culture numérique"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-04758046"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

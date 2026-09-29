@@ -1,5 +1,5 @@
 ---
-uuid: e84cd32d-a9e6-4169-8e8a-bd822f8b79b7
+uuid: 47a9ccb5-6f65-499f-91fe-bc94476ad4b2
 title: "Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760435"
 publisher: "Éditions du Seuil"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

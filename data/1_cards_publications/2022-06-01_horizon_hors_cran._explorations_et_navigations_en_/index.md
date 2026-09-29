@@ -1,5 +1,5 @@
 ---
-uuid: 4266506c-5361-487b-a6a7-8dd19d8f2107
+uuid: c56e145e-ece2-4f2e-b008-a8179b648807
 title: "Horizon hors écran. Explorations et navigations en recherche-creation"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160328"
 publisher: "Uqam"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

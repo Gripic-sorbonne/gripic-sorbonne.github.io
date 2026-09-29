@@ -1,5 +1,5 @@
 ---
-uuid: 2f556cda-beac-4918-87bc-595163557f10
+uuid: 4d4bc27d-08f4-43aa-b414-e706e8747826
 title: "Les vins de France. Guide encyclopédique"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761046"
 publisher: "Éclectis"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

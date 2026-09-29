@@ -1,5 +1,5 @@
 ---
-uuid: 3f5e35ea-b32d-4885-8a57-7c28f33874d9
+uuid: 342ed3d7-c64b-46c5-8028-a4928d1bad60
 title: "L’identité au pluriel. Actes du colloque international"
 author: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
 authors: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758807"
 publisher: "Université de Ibn Zohr"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

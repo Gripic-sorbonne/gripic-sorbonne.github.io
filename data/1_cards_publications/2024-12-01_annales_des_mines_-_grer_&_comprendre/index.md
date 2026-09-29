@@ -1,5 +1,5 @@
 ---
-uuid: a834cea1-3abe-4950-b814-8121a3cb7316
+uuid: 851dff22-d5d8-4762-b74a-c51ce1923e80
 title: "Annales des Mines - Gérer & comprendre"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-04843617"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

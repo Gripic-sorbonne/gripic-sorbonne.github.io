@@ -1,5 +1,5 @@
 ---
-uuid: 7d6a2759-d2ab-4c0c-9c5e-277dc0aa7058
+uuid: 993cff88-4876-47ca-b76c-257a753faaa2
 title: "Les discours universitaires : formes, discours, mutations"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749793"
 publisher: "47-56"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

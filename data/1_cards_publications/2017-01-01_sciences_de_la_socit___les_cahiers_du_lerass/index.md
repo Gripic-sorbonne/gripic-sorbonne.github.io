@@ -1,5 +1,5 @@
 ---
-uuid: 46a325cf-6c9d-4810-b0b8-7c2ef39d9241
+uuid: f9687709-b9b7-4de9-86f2-b2efab5eb128
 title: "Sciences de la société : Les cahiers du LERASS"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03773498"
 publisher: "Presses Universitaires de Toulouse"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

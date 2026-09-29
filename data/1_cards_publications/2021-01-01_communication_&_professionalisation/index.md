@@ -1,5 +1,5 @@
 ---
-uuid: ba5981c9-26a3-4a10-a35c-b80596058366
+uuid: 1f26d248-b67a-4266-8c3b-81d91fd91048
 title: "Communication & professionalisation"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03767296"
 publisher: "Université catholique de Louvain"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

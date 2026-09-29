@@ -1,5 +1,5 @@
 ---
-uuid: 48328941-edf2-49ef-8d5d-1403c1ff7f66
+uuid: cdce06b5-f737-45be-90df-26d436ed4031
 title: "Sciences, savoirs et sociétés. XXIIe congrès international des sociologues de langue française"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-04699439"
 publisher: "AISLF"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

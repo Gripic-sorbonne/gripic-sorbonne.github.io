@@ -1,5 +1,5 @@
 ---
-uuid: a672a17e-bdea-469a-9882-dd03a307c75e
+uuid: 505f31ed-e0f1-41ec-955a-639baa80da92
 title: "Revue des Interactions Humaines Médiatisées (RIHM) = Journal of Human Mediated Interactions"
 author: "Emilie Flon, Yves Jeanneret"
 authors: "Emilie Flon, Yves Jeanneret"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.univ-grenoble-alpes.fr/hal-01290732"
 publisher: "Europia"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

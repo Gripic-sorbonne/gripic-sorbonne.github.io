@@ -1,5 +1,5 @@
 ---
-uuid: 6d801a95-7794-42b7-a2a0-54b7be463b38
+uuid: 36373f6c-37dd-4fca-990d-38d5223c726d
 title: "Rapport technique : projet “ Carte des philosophes antiques ”"
 author: "Julie Giovacchini, Aurélien Berra, Laurent Capron, Catherine Psilakis, Bernard Weiss, Pierre-Carl Langlais, Juliette Lemaire"
 authors: "Julie Giovacchini, Aurélien Berra, Laurent Capron, Catherine Psilakis, Bernard Weiss, Pierre-Carl Langlais, Juliette Lemaire"
@@ -9,7 +9,7 @@ type: "report"
 url: "https://hal.science/hal-03065915"
 publisher: "Labex HaStec"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

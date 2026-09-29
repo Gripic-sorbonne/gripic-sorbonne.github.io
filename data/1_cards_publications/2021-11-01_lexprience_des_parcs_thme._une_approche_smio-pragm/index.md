@@ -1,5 +1,5 @@
 ---
-uuid: 49f051ab-a6e1-47cb-85f6-d7d7d28eaf59
+uuid: d4aed28c-09ba-40dd-99da-87f55765ff90
 title: "L’expérience des parcs à thème. Une approche sémio-pragmatique des rapports entre proximité et évasion"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-03546232"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

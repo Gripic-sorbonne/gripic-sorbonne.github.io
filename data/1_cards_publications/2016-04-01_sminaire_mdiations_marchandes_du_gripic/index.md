@@ -1,5 +1,5 @@
 ---
-uuid: 1a31f62c-59f0-4597-a04e-53098e93ffcc
+uuid: 78dc930a-b6b0-44b6-9877-6c35ed211e90
 title: "Séminaire Médiations marchandes du GRIPIC"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-03963915"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

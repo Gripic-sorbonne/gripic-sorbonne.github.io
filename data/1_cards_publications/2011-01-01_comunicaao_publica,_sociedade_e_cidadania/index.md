@@ -1,5 +1,5 @@
 ---
-uuid: 4b86086c-9db4-4838-88e8-894f6a7e15d9
+uuid: 54606bb3-0bfe-4296-bedb-5cb812a4dec7
 title: "Comunicaçao publica, sociedade e cidadania"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03750041"
 publisher: "Difusao Editora"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

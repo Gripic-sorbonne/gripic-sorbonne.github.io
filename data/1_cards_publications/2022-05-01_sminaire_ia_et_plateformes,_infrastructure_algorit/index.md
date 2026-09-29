@@ -1,5 +1,5 @@
 ---
-uuid: 2ceac115-21c1-42d2-819b-1f28eb238627
+uuid: 4dcb3bea-291c-4006-88ca-c53095cdd9c7
 title: "Séminaire IA et plateformes, infrastructure algorithmique"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605964"
 publisher: "GERiiCO"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

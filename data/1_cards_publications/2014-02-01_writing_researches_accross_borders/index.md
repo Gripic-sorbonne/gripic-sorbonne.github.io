@@ -1,5 +1,5 @@
 ---
-uuid: cb5c8e8d-42d5-44b0-8376-510dee0a94be
+uuid: cfd11c4e-68f5-45f7-8601-208af22297da
 title: "Writing Researches Accross Borders"
 author: "François Allard-Huver, Nicholas Gilewicz"
 authors: "François Allard-Huver, Nicholas Gilewicz"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03126477"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

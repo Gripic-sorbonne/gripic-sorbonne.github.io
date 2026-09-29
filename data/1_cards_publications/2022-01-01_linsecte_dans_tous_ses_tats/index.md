@@ -1,5 +1,5 @@
 ---
-uuid: 9b900cc3-a706-43fc-a847-70a5c82952a4
+uuid: d1751269-86db-44f6-90a0-9520a4698a62
 title: "L’insecte dans tous ses états"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03721271"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

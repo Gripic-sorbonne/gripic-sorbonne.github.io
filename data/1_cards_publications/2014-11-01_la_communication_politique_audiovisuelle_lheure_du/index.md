@@ -1,5 +1,5 @@
 ---
-uuid: d0b2f800-3e20-49a9-8b06-7111e197109f
+uuid: 07f485ba-291c-4a74-8623-0353bc868986
 title: "La communication politique audiovisuelle à l’heure du numérique : le cas des vidéos politiques 2007-2012"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,7 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04267997"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

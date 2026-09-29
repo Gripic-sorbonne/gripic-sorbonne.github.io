@@ -1,5 +1,5 @@
 ---
-uuid: 72af720f-ba71-4fd9-8ed2-98cc13b0f634
+uuid: b785ac8a-ddc4-4e63-898f-1c7f8240b4ec
 title: "Histoires littéraires. revue trimestrielle consacrée à la littérature française des XIX et XXe siècles"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03761111"
 publisher: "Du Lérot"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

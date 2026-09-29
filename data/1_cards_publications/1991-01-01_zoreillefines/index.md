@@ -1,5 +1,5 @@
 ---
-uuid: a9ca85f7-69de-455e-9cc4-b36f24c973b9
+uuid: 0ca4ec88-b80a-4865-bd85-7f7bd668a000
 title: "Zoreillefines"
 author: "Emmanuël Souchier, Laurent Berman"
 authors: "Emmanuël Souchier, Laurent Berman"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760448"
 publisher: "Syros Alternatives"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

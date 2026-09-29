@@ -1,5 +1,5 @@
 ---
-uuid: bcf814a2-b12d-4561-9d99-83c6e77f7f33
+uuid: 62993757-fe8a-4350-95f7-1db5ab11f47d
 title: "Journées d’études TIC - Information et stratégies"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-01704744"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

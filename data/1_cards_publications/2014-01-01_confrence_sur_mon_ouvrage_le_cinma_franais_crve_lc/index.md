@@ -1,5 +1,5 @@
 ---
-uuid: 7b782fc3-eb4b-4bff-b33f-cfff3a659a6f
+uuid: 60a83734-0d65-4e63-b8da-6a39911c1d85
 title: "Conférence sur mon ouvrage Le cinéma français crève l’écran (Atlande, 2012)"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03750706"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

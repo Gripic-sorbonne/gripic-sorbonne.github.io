@@ -1,5 +1,5 @@
 ---
-uuid: 07903eb0-dd17-4064-a3dd-4e1ba48c947e
+uuid: a4c55707-45f6-4d6a-90c5-e12c0b9c8f7c
 title: "Publications de la Sorbonne"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03760657"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

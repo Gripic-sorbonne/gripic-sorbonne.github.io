@@ -1,5 +1,5 @@
 ---
-uuid: 236391b7-fd3b-4479-b32a-b4f6c25c7181
+uuid: cae307e0-791f-4f96-a651-1a25487ccaab
 title: "Actes du colloque La poésie à l’école"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,7 @@ type: "chapter"
 url: "https://hal.science/hal-03761064"
 publisher: "Fédération des Œuvres Laïques de Haute-Vienne"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

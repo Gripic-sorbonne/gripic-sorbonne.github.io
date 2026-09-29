@@ -1,5 +1,5 @@
 ---
-uuid: 261c3683-235c-48c1-8d61-e23ed5c4974b
+uuid: fa9919c9-be9c-4141-9a9b-34e11b49d295
 title: "1ère Académie Scientifique de Communication & Entreprise"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,7 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127864"
 publisher: ""
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 9f96d1cf-5e4b-4ee1-a542-bf5516de9166
+uuid: eae15f71-3600-4adf-bec4-bce06eab9c9b
 title: "Frédéric Couraillon"
 author: "Emmanuël Souchier, Christian Noorbergen"
 authors: "Emmanuël Souchier, Christian Noorbergen"
@@ -9,7 +9,7 @@ type: "book"
 url: "https://hal.science/hal-03760379"
 publisher: "Regard - Éditions Marie Morel"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

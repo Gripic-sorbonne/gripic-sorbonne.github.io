@@ -1,5 +1,5 @@
 ---
-uuid: df4ee086-03c3-4c71-9e0a-9ef083cc40d4
+uuid: ba3464e7-e400-411a-9dfe-a492683de892
 title: "Garder les morts vivants"
 author: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
 authors: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
@@ -9,7 +9,7 @@ type: ""
 url: "https://hal.science/hal-03758404"
 publisher: "Lavoisier, La Découverte"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 

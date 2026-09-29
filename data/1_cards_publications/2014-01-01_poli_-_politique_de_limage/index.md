@@ -1,5 +1,5 @@
 ---
-uuid: 1191529b-7939-432c-ae42-826ca5b19f69
+uuid: 02864504-2210-496c-8137-00763e51baa1
 title: "Poli - Politique de l’Image"
 author: "Nelly Quemener, Florian Vörös"
 authors: "Nelly Quemener, Florian Vörös"
@@ -9,7 +9,7 @@ type: "article-journal"
 url: "https://hal.science/hal-03758640"
 publisher: "Poli éditions"
 container_title: ""
-image: "no_img.webp"
+image: "./no_img.webp"
 publication: true
 ---
 
