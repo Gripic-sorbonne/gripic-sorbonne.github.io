@@ -1,5 +1,5 @@
 ---
-uuid: 89392dd9-983b-494c-9fc2-08b9ccd2d677
+uuid: 2abdfb3c-2372-4474-b8b1-b02e74146a90
 title: "Revue COSSI : communication, organisation, société du savoir et information"
 author: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova"
 authors: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova"

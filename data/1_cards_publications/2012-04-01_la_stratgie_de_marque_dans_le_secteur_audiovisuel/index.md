@@ -1,5 +1,5 @@
 ---
-uuid: d1098032-b095-4bc0-a616-cf6083481023
+uuid: c220089c-017e-4472-9f11-b4a10a8155d1
 title: "La stratégie de marque dans le secteur audiovisuel"
 author: "Caroline Marti de Montety"
 authors: "Caroline Marti de Montety"

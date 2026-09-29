@@ -1,5 +1,5 @@
 ---
-uuid: 88e8f724-a94e-4aff-a87e-3831942114c7
+uuid: b8aa8c27-5788-493c-b05d-c6a1ceafe250
 title: "Nostalgie. Conceptualisation d’une émotion"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

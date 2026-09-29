@@ -1,5 +1,5 @@
 ---
-uuid: 6d29540c-15f9-4f65-92b2-4ca06d3347c9
+uuid: c3267a81-b9ef-4582-849b-562d9f959f35
 title: "17e Congrès de la SFSIC"
 author: "Karine Berthelot-Guiet, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Caroline Montety"

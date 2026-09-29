@@ -1,5 +1,5 @@
 ---
-uuid: a71a6150-4dc2-4cdb-9e76-a275dbcda10f
+uuid: 4cecb714-a6b6-45e9-8701-068a22f5a395
 title: "Ateliers de la SFIC, Communication"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

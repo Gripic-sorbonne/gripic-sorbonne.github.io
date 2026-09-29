@@ -1,5 +1,5 @@
 ---
-uuid: 71b3c1a7-eea8-4424-a7eb-5f1cbcda4f7a
+uuid: a7c534ef-0d76-4cc6-b26c-126ca21202a9
 prettyName: VitalyBuduchev
 
 title: "Vitaly Buduchev"

@@ -1,5 +1,5 @@
 ---
-uuid: 153e7b3c-7a13-48fd-a737-47be38ba959d
+uuid: 5e44ee21-3672-412d-9b04-0bcc93b94ea1
 title: "Design et innovation dans la chaîne du livre. Ecrire, éditer, lire à l’ère numérique. ECRiDiL 2016 (Ecrire, éditer, lire à l’ère numérique )"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

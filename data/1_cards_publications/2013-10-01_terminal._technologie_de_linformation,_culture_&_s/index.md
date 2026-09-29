@@ -1,5 +1,5 @@
 ---
-uuid: 51842daa-bfa3-4e55-89da-77c64b2aab41
+uuid: c3718496-9315-4bc0-9c35-96d087e1d922
 title: "Terminal. Technologie de l’information, culture & société"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

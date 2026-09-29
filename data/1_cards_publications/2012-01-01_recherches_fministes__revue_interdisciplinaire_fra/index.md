@@ -1,5 +1,5 @@
 ---
-uuid: eafffedc-812d-4b15-91c1-8e41dbb51ee3
+uuid: d524a5e4-295e-4709-9efb-56e152451046
 title: "Recherches féministes [revue interdisciplinaire francophone d’études féministes]"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

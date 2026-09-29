@@ -1,5 +1,5 @@
 ---
-uuid: a7a85104-9282-47af-930b-6a744c70e946
+uuid: 863801be-9974-446c-9920-486ea4f7a7ce
 title: "Séminaire ”Les ressorts conflictuels de la liberté d’expression”"
 author: "Thibault Grison"
 authors: "Thibault Grison"

@@ -1,5 +1,5 @@
 ---
-uuid: 0b18bad3-5120-4f6a-841b-449f4e9b82e0
+uuid: bbfcd4e1-e4c6-444c-b594-c98b78e1bc9f
 title: "Congreso panamericano de comunicaçao"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

@@ -1,5 +1,5 @@
 ---
-uuid: 4461261b-683c-4a5b-bda0-f509e72dcbe4
+uuid: 79c4b263-6f9b-437a-97d6-c3494238532b
 title: "Goûts et identités culturelles"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

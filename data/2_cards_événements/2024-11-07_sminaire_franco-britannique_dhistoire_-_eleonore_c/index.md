@@ -1,5 +1,5 @@
 ---
-uuid: e9edbe09-a16c-4612-847b-53cababac90e
+uuid: bde2176a-99c8-49a5-9598-2970e9a66bce
 title: "Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à l'agenda du problème des famines par l'État colonial britannique au Bengale en 1866 »
 
 "

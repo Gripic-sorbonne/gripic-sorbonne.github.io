@@ -1,5 +1,5 @@
 ---
-uuid: 0d54a28f-af25-452e-be6b-73c778c94aaa
+uuid: 6bb764d4-a3c0-4877-9ed5-2e28e0751c22
 title: "Xoana"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"

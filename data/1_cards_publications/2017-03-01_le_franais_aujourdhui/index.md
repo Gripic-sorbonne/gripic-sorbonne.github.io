@@ -1,5 +1,5 @@
 ---
-uuid: 645220a3-aa8b-4117-8494-b9fca129ce35
+uuid: 0773e7cd-a304-4ba9-b80d-024e25b34f9e
 title: "Le Français Aujourd’hui"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

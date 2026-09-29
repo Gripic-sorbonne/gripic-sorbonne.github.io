@@ -1,5 +1,5 @@
 ---
-uuid: 5ed7c34c-d200-4954-af2c-4e2fd3f3d3cb
+uuid: bc213776-483a-43b5-a7c3-2809c42a1e65
 title: "Journal of Data Mining and Digital Humanities"
 author: "Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl"
 authors: "Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl"

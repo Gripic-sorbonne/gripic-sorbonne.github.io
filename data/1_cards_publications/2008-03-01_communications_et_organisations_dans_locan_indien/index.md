@@ -1,5 +1,5 @@
 ---
-uuid: 0d702102-81f8-4ea9-8bf6-bbf91656bc83
+uuid: 37d2dd4a-bd3c-49f2-ad6f-be9141ba0b03
 title: "Communications et organisations dans l’océan indien"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

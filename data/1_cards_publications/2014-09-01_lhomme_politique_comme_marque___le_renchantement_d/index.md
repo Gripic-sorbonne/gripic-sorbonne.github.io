@@ -1,5 +1,5 @@
 ---
-uuid: 71c5c0e1-7bc1-4b45-bedc-c752638b03e7
+uuid: 1fa8a908-3658-4ff6-8d25-0f8f0ade5975
 title: "L’homme politique comme marque : Le réenchantement du politique par la consommation : Propriétés communicationnelles et socio-sémiotiques des marques politiques"
 author: "Nicolas Baygert"
 authors: "Nicolas Baygert"

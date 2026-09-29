@@ -1,5 +1,5 @@
 ---
-uuid: 6fadb25b-565b-4b37-99e7-764e430ee45c
+uuid: a8aa1995-5cee-4a9c-aafa-f284b29fd717
 title: "Valeurs et temporalité : quels enjeux pour les labels culturels créatifs ?"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
