@@ -1,5 +1,5 @@
 ---
-uuid: cd1484cf-42cc-4417-88b0-07b4f9215d6c
+uuid: 98989ee1-7767-49e2-ac8e-af80afe41ef8
 title: "Repenser le capital Humain"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03766925"
 publisher: "Rouen Business School"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

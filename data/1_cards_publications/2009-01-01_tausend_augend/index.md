@@ -1,5 +1,5 @@
 ---
-uuid: 9f286c8d-e664-4672-b378-278893eab24a
+uuid: 8d871caf-2e4e-4502-ba8f-200ba96ff8c4
 title: "Tausend Augend"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758646"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

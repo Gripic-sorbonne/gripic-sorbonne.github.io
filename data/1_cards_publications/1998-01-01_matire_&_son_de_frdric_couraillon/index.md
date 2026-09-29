@@ -1,5 +1,5 @@
 ---
-uuid: 0dabfd44-143d-49eb-b2a6-99b670bdd590
+uuid: 992c85dc-51c9-49ba-9657-c7b15a455c0d
 title: "Matière & son de Frédéric Couraillon"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761101"
 publisher: "Galerie Imagine Art Contemporain"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

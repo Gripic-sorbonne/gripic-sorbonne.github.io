@@ -1,5 +1,5 @@
 ---
-uuid: f7c044da-b666-4874-ad85-f7e9c9564a91
+uuid: d51d087b-2025-438c-bf23-6b9af2f6f25f
 title: "Colloque Analyser les réseaux socionumériques : questionner les méthodes"
 author: "Édouard Bouté, Virginie Julliard"
 authors: "Édouard Bouté, Virginie Julliard"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05064609"
 publisher: "Université de Toulouse Jean Jaurès"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

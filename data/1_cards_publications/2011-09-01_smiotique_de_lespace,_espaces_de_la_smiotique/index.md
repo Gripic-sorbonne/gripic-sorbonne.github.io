@@ -1,5 +1,5 @@
 ---
-uuid: ff67792f-2612-4b9f-b9f8-c72555714cd9
+uuid: e0c586d1-123c-424b-a814-92deefe458da
 title: "Sémiotique de l’espace, espaces de la sémiotique"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749805"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

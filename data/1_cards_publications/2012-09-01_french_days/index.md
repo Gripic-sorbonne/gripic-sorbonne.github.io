@@ -1,5 +1,5 @@
 ---
-uuid: 40193da3-f9a0-4236-8836-43cdf78c6bcc
+uuid: 3ffd24c7-4ceb-4cbf-b221-31893c21f538
 title: "French Days"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750118"
 publisher: "University of Kwa Zulu Natal"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

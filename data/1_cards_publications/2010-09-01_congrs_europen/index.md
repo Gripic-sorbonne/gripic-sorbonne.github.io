@@ -1,5 +1,5 @@
 ---
-uuid: 7629ec1f-0842-4b42-9b8e-27a97bb6bc5b
+uuid: f5f96895-a495-42d8-b781-a9178240d49a
 title: "Congrès européen"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750135"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

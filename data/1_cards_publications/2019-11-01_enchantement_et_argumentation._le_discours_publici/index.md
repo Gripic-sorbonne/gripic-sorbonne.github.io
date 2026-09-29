@@ -1,5 +1,5 @@
 ---
-uuid: 7613e9da-f6be-4f91-b447-cf4498fbdd4c
+uuid: 021bd8c6-b953-4f97-9ab8-0a3b32e1990d
 title: "Enchantement et argumentation. Le discours publicitaire des parcs à thème"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03807092"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

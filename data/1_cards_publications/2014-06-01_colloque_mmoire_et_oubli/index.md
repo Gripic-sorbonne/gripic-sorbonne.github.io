@@ -1,5 +1,5 @@
 ---
-uuid: fc9660a9-f89e-42c1-9114-afe471d34060
+uuid: 2dac53f4-f475-455b-b190-97e3bbbbd95e
 title: "Colloque “ Mémoire et oubli ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160338"
 publisher: "Université Montpellier 3"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

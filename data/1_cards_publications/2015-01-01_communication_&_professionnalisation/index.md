@@ -1,5 +1,5 @@
 ---
-uuid: 8da57456-37e2-46f7-a5f5-8e9b570c8fe7
+uuid: c2c25536-aed2-4629-9761-d2e8ee7144bf
 title: "Communication & professionnalisation"
 author: "Thomas Grignon"
 authors: "Thomas Grignon"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03775632"
 publisher: "Presses universitaires de Louvain"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

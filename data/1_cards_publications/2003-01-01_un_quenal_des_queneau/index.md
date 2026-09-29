@@ -1,5 +1,5 @@
 ---
-uuid: 7756bf07-29e8-4d51-9b27-d5b1bcedb53b
+uuid: 16216d18-4c51-42af-abe4-5b67501594a1
 title: "Un Quenal des Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761021"
 publisher: "Initiales - Groupement de libraires"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

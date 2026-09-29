@@ -1,5 +1,5 @@
 ---
-uuid: 731a2699-3b04-45f9-80d3-248e72bbb8b5
+uuid: 73a4ec3d-b88c-44a2-9016-dbb594bc00af
 title: "Etappen auf dem Weg zur (unbefristeten) wissenschaftlichen Stelle an einer französischen Universität"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03966775"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: f7ebce96-aa61-43c3-b5c3-f8961512c04b
+uuid: 76eff042-14c1-4443-a87e-09b5179ab70a
 title: "Regards croisés entre la sociologie de la communication et la sociologie des sciences et des techniques"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752978"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

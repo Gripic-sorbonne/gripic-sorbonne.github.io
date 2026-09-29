@@ -1,5 +1,5 @@
 ---
-uuid: 9330576f-d953-4521-885f-e6d988b4dfe1
+uuid: 48c5674c-15fd-41ae-ba13-ed9c00dd995d
 title: "Journée doctorale “ Regards croisés sur la relation corps-médias ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773523"
 publisher: "GRIPIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

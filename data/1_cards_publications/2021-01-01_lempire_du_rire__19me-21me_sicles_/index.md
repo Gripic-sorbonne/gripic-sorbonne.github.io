@@ -1,5 +1,5 @@
 ---
-uuid: 116e9f3b-1ff3-4912-87dc-8be3ee686038
+uuid: 2bba07e4-e0c4-4fa4-8db0-cb2ab129fadb
 title: "L’Empire du rire (19ème-21ème siècles)"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750654"
 publisher: "CNRS Editions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

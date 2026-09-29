@@ -1,5 +1,5 @@
 ---
-uuid: 0cc6959d-2e26-4ee3-8415-749b02453b08
+uuid: a68c87b1-cceb-460a-94d7-e28df38738df
 title: "Traces du corps, tome 4 de la série L’Homme-trace"
 author: "Véronique Richard"
 authors: "Véronique Richard"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03779430"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

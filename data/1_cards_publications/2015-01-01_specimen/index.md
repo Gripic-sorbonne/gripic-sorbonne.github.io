@@ -1,5 +1,5 @@
 ---
-uuid: ebf51d9d-fe2c-4095-a03d-41edf90bd25c
+uuid: 7ce3a101-56d5-4b35-8418-b7c1aa657590
 title: "Specimen"
 author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750852"
 publisher: "Zone"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

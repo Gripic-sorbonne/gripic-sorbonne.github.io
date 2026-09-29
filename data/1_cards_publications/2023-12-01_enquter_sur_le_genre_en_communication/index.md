@@ -1,5 +1,5 @@
 ---
-uuid: 2a4ba279-a146-4d29-b68f-d3ff9b14ea09
+uuid: c3319c30-209e-453d-86c5-1265ca71f5db
 title: "Enquêter sur le genre en communication"
 author: "Aurélie Olivesi, Emmanuelle Bruneel, Laura Verquere"
 authors: "Aurélie Olivesi, Emmanuelle Bruneel, Laura Verquere"
@@ -9,8 +9,11 @@ type: ""
 url: "https://univ-pantheon-assas.hal.science/hal-04360449"
 publisher: "Département d’information et de communication (Université Laval, Québec, Canada) [1984, vol. 7, n 1 -....]"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

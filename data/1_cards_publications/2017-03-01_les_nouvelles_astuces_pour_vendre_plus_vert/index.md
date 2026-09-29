@@ -1,5 +1,5 @@
 ---
-uuid: f16a75f3-7019-4e26-ba37-ea789c3c2a39
+uuid: 071795cb-20bb-43d0-991f-bbb3162453e4
 title: "Les nouvelles astuces pour vendre plus “ vert ”"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.univ-lorraine.fr/hal-01738140"
 publisher: "The Conversation France"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

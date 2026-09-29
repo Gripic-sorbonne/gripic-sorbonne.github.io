@@ -1,5 +1,5 @@
 ---
-uuid: 626befaa-3215-431b-b445-efb4cd52bcf7
+uuid: 3716ab6c-c360-4bf1-a96c-2b058a554e27
 title: "Séminaire du Muséum National d’Histoire Naturelle : ”Patrimoines, processus de patrimonialisation : musées, savoirs, communautés”"
 author: "Julien Gaillard, Romain Vindevoghel"
 authors: "Julien Gaillard, Romain Vindevoghel"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03955856"
 publisher: "Pascale de Robert and Joëlle Le Marec and Dominique Guillaud"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

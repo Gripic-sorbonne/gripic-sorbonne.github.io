@@ -1,5 +1,5 @@
 ---
-uuid: 7208cb1e-c861-4c36-a5ea-b80900f8dfde
+uuid: 399c8678-258a-4027-a2f5-4635ad6025ae
 title: "L’Opinion publique"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750014"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

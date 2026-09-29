@@ -1,5 +1,5 @@
 ---
-uuid: 846dbec1-c3cb-49fd-98d0-5fe7b4d642ec
+uuid: 96edf098-8838-402f-af91-ec8bd31443a9
 title: "“ Vandalisme culturel ” et lutte pour l’environnement"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-05448070"
 publisher: "Doctorales de la Société française des sciences de l’information et de la communication (SFSIC)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

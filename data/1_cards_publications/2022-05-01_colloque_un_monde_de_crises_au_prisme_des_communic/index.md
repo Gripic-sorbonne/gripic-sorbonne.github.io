@@ -1,5 +1,5 @@
 ---
-uuid: 7881d729-218d-4c78-aef4-86bd5b7d6677
+uuid: 25d9fec1-4080-487a-99dc-e96413811698
 title: "Colloque Un monde de crises au prisme des communications organisationnelles"
 author: "François Allard-Huver, Françoise Bernard, Andrea Catellani, Catherine Loneux, Nicole Almeida, Céline Pascual Espuny"
 authors: "François Allard-Huver, Françoise Bernard, Andrea Catellani, Catherine Loneux, Nicole Almeida, Céline Pascual Espuny"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03655308"
 publisher: "Groupe d’études et de recherche sur les communications organisationnelles (Org&co, Société française des sciences de l’information et de la communication) and Laboratoire d’analyse des systèmes de communication des organisations (Lasco, Université catholique de Louvain)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

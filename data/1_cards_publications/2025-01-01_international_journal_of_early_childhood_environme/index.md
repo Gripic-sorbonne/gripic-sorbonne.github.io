@@ -1,5 +1,5 @@
 ---
-uuid: b8cc85c0-7321-42d1-ad86-3c3705216ab3
+uuid: 1873e177-98c2-453d-924b-00883480288e
 title: "International Journal of Early Childhood Environmental Education"
 author: "Louise Bouché, Jérémy Lucas-Boursier, Anne-Caroline Prévot"
 authors: "Louise Bouché, Jérémy Lucas-Boursier, Anne-Caroline Prévot"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-05565258"
 publisher: "North American Association for Environmental Education"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

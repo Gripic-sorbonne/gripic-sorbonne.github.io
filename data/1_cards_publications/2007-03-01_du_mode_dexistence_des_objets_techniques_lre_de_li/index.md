@@ -1,5 +1,5 @@
 ---
-uuid: b355dae0-1302-4165-af05-7ace4a828be4
+uuid: a7905109-d75c-4c61-9ea6-4f33d5a5f60e
 title: "Du Mode d’Existence des Objets Techniques à l’Ère de l’Information et de la Communication"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750646"
 publisher: "Université Stendhal - Grenoble 3"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

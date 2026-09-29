@@ -1,5 +1,5 @@
 ---
-uuid: 76297409-4ee6-4c09-851b-a849c1f737e6
+uuid: 5a869d1b-a66f-41f0-87af-4405d243f526
 title: "Crystalizing Transdisciplinary Innovation in Health Engineering"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749798"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

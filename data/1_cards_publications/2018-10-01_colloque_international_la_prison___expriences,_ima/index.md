@@ -1,5 +1,5 @@
 ---
-uuid: 8c21fc84-b08e-486f-85ea-8e7cad95a0a6
+uuid: 889661e2-6524-4a45-970b-8a49d94cd60c
 title: "Colloque international “ La Prison : expériences, imaginaires et créations ”"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773307"
 publisher: "Université de Sfax, Département de Français"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 6569e1d2-960e-40ca-a789-bb4095d9ec02
+uuid: 7b84af89-fdfc-4eb7-96f3-7d8d7d8da4f6
 title: "Mai 68"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03760456"
 publisher: "La Documentation Française"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

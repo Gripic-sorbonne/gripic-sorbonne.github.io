@@ -1,5 +1,5 @@
 ---
-uuid: 9dbc3095-56bc-476d-bb04-c63709516b17
+uuid: 7d7d2ac4-9261-4351-8349-66d91ced4293
 title: "MédiaMorphoses"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758647"
 publisher: "Institut National de l’Audiovisuel (INA)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

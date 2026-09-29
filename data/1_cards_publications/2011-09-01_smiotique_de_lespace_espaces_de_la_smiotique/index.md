@@ -1,5 +1,5 @@
 ---
-uuid: dfa70907-104a-4c9e-b44e-8d2cb6542999
+uuid: a80da0fe-05b6-43d5-9341-43914def22fd
 title: "Sémiotique de l’Espace/Espaces de la Sémiotique"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754361"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

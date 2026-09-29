@@ -1,5 +1,5 @@
 ---
-uuid: 168bf255-8d7c-4738-82ba-b67f62677e13
+uuid: 0e4b80a7-929f-4290-9c58-6e530d538412
 title: "Radiant Futures"
 author: "Vanille Ecrement, Lou Stührenberg"
 authors: "Vanille Ecrement, Lou Stührenberg"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05448190"
 publisher: "University of Liège"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

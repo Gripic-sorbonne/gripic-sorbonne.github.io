@@ -1,5 +1,5 @@
 ---
-uuid: 7b6fd181-92ea-49cc-81d2-213a4f454601
+uuid: 40a94821-2d90-4696-8808-91fe044b0c5b
 title: "Persistances benjaminiennes"
 author: "Olivier AÏM, Jacqueline Chervin, Perrine Boutin, Gustavo Gomez-Mejia, Jean-François Guennoc"
 authors: "Olivier AÏM, Jacqueline Chervin, Perrine Boutin, Gustavo Gomez-Mejia, Jean-François Guennoc"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03749226"
 publisher: "Presses Universitaires de la Sorbonne Nouvelle"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

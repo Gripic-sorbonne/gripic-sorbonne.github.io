@@ -1,5 +1,5 @@
 ---
-uuid: 0d9ba907-6c53-427f-a8d1-60ad5cc79749
+uuid: aa4675af-d10f-46ce-bc35-c071ab802fb8
 title: "Colloque international Sémiotiques de terrain"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03725159"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

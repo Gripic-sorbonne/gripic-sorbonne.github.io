@@ -1,5 +1,5 @@
 ---
-uuid: 77140cbb-350e-4569-916b-a12686495b81
+uuid: b193146f-8b69-42d8-ae2c-f54feee21415
 title: "Communication organisationnelle : Formes et transformations contemporaines"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750021"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

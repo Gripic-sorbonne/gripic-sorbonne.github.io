@@ -1,5 +1,5 @@
 ---
-uuid: 4f35a8cb-c2a9-4767-9e0f-743461d60dab
+uuid: 97d4fe73-2997-41bc-87bc-a04b6157e0a9
 title: "Pas de selfie sur les marches cette année"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03750866"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

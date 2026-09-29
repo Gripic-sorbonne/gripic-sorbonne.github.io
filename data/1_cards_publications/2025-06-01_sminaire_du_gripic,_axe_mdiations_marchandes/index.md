@@ -1,5 +1,5 @@
 ---
-uuid: e3da6fd6-7331-4324-8adc-994619b678d9
+uuid: 338a750c-15d0-4647-9c4f-b2b82a9e0bb4
 title: "Séminaire du GRIPIC, axe médiations marchandes"
 author: "Celia Banos, Marie-lise Buisson"
 authors: "Celia Banos, Marie-lise Buisson"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05121421"
 publisher: "Sorbonne Université"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

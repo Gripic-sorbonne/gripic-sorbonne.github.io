@@ -1,5 +1,5 @@
 ---
-uuid: b65b430a-f7e5-4fad-8cd1-051b9ae1e273
+uuid: 422e85b6-5c15-4a24-8a48-217b1d6b1409
 title: "Savoirs de la Précarité / knowledge from precarity"
 author: "Oëlle Le Marec, Hester Du Plessis"
 authors: "Oëlle Le Marec, Hester Du Plessis"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03987229"
 publisher: "Editions des archives contemporaines"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

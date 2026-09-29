@@ -1,5 +1,5 @@
 ---
-uuid: 3e438ed5-d249-45f7-93d5-def5e99e87a5
+uuid: 9b331594-7c12-443d-a79a-be449f583144
 title: "Journée d’études le Grand Paris qui Mange"
 author: "Sophie Corbillé, Julien Tassel"
 authors: "Sophie Corbillé, Julien Tassel"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749954"
 publisher: "Institut des Sciences de la Communication (ISCC), CNRS Paris-Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

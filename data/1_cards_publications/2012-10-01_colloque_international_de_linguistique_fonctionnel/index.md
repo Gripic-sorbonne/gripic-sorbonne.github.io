@@ -1,5 +1,5 @@
 ---
-uuid: cab1d955-30a3-4155-aae4-1767d84720bd
+uuid: 4dba6704-26eb-4172-a3af-7e121a7516cc
 title: "Colloque International de Linguistique Fonctionnelle"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750754"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

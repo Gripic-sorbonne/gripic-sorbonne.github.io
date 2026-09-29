@@ -1,5 +1,5 @@
 ---
-uuid: 35eb4645-9fd2-4ea4-b050-d2d3b01feef2
+uuid: 8499c306-8660-4035-91fc-8b19ecc0cfec
 title: "La bande dessinée et les adaptations de la page à l’écran"
 author: "Pauline Escande, Elena Mouratidou"
 authors: "Pauline Escande, Elena Mouratidou"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750771"
 publisher: "Centre Interlangues Texte, Image, Langage de l’Université de Bourgogne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

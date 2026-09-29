@@ -1,5 +1,5 @@
 ---
-uuid: 72d9c1e4-be2e-4340-bcd8-730942dcafd6
+uuid: 9f429cfb-f6ef-406a-ae73-a0dd450a5e50
 title: "Flashbacks 2012 – International conference"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160345"
 publisher: "Université de Genève"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

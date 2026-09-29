@@ -1,5 +1,5 @@
 ---
-uuid: 4232d5b5-bf5a-4a66-8887-0e579c552ed6
+uuid: b8859fd1-a1c5-4ed3-9031-b971b1f2618f
 title: "9e Congrès de la FADBEN"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752984"
 publisher: "FADBEN"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: dcd873bc-3cc7-4de2-a797-534a436b5993
+uuid: 0bf6c05e-ec8c-49db-885a-cdfa96b92416
 title: "séminaire de Laurent Creton Cinéma, audiovisuel et innovation"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750774"
 publisher: "INHA"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

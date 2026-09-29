@@ -1,5 +1,5 @@
 ---
-uuid: 2d682b82-60b6-48d0-85c7-ecfee2bf4570
+uuid: 9588ee1e-c6d0-4a49-860d-901907d4fb2f
 title: "L’éthique du management : une promesse en question"
 author: "Véronique Richard, Laurence Eloy-Perrin, Florian Malaterre"
 authors: "Véronique Richard, Laurence Eloy-Perrin, Florian Malaterre"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://institut-agro-dijon.hal.science/hal-05235965"
 publisher: "Le Bord de l’eau"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 87c4ee86-ce7a-477d-ae7a-8d6d3d1c3d51
+uuid: 8e79f2bf-bc14-469a-b01a-14a3d732ea42
 title: "Texte-e. Le texte à l’heure d’Internet. Actes du colloque virtuel"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761020"
 publisher: "Bpi - Centre Pompidou"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: b1b6d26f-843e-4c49-a6b5-f9664815c58c
+uuid: 7a318372-a35b-4561-ba5f-b98798c62d94
 title: "Contextes et Didactiques"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-05620653"
 publisher: "Université des Antilles/ESPE"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

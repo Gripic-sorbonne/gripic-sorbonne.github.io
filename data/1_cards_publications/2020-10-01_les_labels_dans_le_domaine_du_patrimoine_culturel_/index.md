@@ -1,5 +1,5 @@
 ---
-uuid: 985f4874-9145-4f16-ad21-ba66fc3b3bd1
+uuid: 7212c6e0-0678-434f-8d14-ca67265a4fa6
 title: "Les Labels dans le domaine du patrimoine culturel et naturel"
 author: "Olivier AÏM, Emmanuelle Lallement"
 authors: "Olivier AÏM, Emmanuelle Lallement"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03749232"
 publisher: "Presses Universitaires de Rennes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: c0429606-7cb3-4d57-bae2-b9a8268e678f
+uuid: f5f4352f-9586-41ed-b237-7cb3e6caa4d6
 title: "Que faisons-nous du texte ?"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761005"
 publisher: "Presses universitaires de Paris-Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 53bbd172-11a4-4772-8c12-63b185a2bca9
+uuid: ca650fee-395b-4752-b355-bd106f76af1b
 title: "Colloque ”Discours de réaction : répertoires nationaux et transnationaux”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05426785"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

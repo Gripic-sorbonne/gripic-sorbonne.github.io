@@ -1,5 +1,5 @@
 ---
-uuid: f3edf1ab-5c4e-469e-902f-f7bf12a8fc10
+uuid: 1983b76a-254e-4608-b95b-23c4d619fd93
 title: "L’éveil des lucioles"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761084"
 publisher: "Bibliothèque Municipale, Théâtre de Sens"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

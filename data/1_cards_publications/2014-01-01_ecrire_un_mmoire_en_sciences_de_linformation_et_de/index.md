@@ -1,5 +1,5 @@
 ---
-uuid: 925f525b-eb6d-4d95-a38d-279f6597f7d5
+uuid: 1f0d5929-f2c9-47b2-826d-dbd3a19efd29
 title: "Ecrire un mémoire en Sciences de l’information et de la communication"
 author: "Pauline Escande, Aude Seurrat"
 authors: "Pauline Escande, Aude Seurrat"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750813"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

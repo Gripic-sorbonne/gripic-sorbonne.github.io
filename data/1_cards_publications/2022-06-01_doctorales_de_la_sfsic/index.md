@@ -1,5 +1,5 @@
 ---
-uuid: 591a545f-ff5c-433e-b374-9d53f67bd5bf
+uuid: 1af88416-84c1-4bde-a411-b20b2867a4aa
 title: "Doctorales de la SFSIC"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605995"
 publisher: "SFSIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

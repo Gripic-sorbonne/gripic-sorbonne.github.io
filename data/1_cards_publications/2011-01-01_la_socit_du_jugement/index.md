@@ -1,5 +1,5 @@
 ---
-uuid: 4d38d1fd-8b68-4b3d-8314-97e139680c35
+uuid: d9e2aaf1-b601-4fec-a4c8-fd88112fb9a5
 title: "La société du jugement"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750012"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

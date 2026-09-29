@@ -1,5 +1,5 @@
 ---
-uuid: 08fb62bf-0850-4633-a581-b9d17965d8d4
+uuid: 12d1fb25-6f2c-44de-ac44-ca7fb856d0a8
 title: "Vi@, Tourism Review, International journal Multilingual and interdisciplinary"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03766996"
 publisher: "Université Paris 1 Panthéon Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

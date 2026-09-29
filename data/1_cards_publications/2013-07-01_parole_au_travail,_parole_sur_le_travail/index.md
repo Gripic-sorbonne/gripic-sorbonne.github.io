@@ -1,5 +1,5 @@
 ---
-uuid: 0a52e7ce-a938-40fa-a227-d3737cc002fa
+uuid: a25212b3-5b47-48a6-b0ac-791c345f9218
 title: "Parole au travail, parole sur le travail"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750108"
 publisher: "APSE-AFCI"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 32c8cd50-7156-45c4-9d41-c53ab1d7f70f
+uuid: 26d4552e-e02d-4e26-8d65-3b66ea2a758b
 title: "“ Au carrefour des sens ” – 5éme édition"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750709"
 publisher: "Université de Lviv"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

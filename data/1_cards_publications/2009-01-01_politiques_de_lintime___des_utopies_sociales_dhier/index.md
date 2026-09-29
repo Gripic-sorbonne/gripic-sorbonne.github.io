@@ -1,5 +1,5 @@
 ---
-uuid: 40959171-740a-40bc-b992-59dc9fce0521
+uuid: 4f9600ee-f679-4c53-a39f-84e8fa0205eb
 title: "Politiques de l’intime : des utopies sociales d’hier aux mondes du travail d’aujourd’hui"
 author: "Olivia Foli"
 authors: "Olivia Foli"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-00755205"
 publisher: "La Découverte"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

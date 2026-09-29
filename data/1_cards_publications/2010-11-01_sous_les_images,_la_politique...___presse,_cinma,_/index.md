@@ -1,5 +1,5 @@
 ---
-uuid: 24440663-8d0f-4349-b91e-dbb0c1343a33
+uuid: 67d48406-cbb9-47e1-ae5e-59e778d13ac5
 title: "Sous les images, la politique... : presse, cinéma, télévision, nouveaux médias : (XXe-XXIe siècle)"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750675"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

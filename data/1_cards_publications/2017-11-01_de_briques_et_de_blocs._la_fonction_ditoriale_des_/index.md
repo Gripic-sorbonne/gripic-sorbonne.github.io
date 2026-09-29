@@ -1,5 +1,5 @@
 ---
-uuid: af75293e-f96f-493a-ba03-6cc271b20568
+uuid: c8906341-18b7-47d4-9bdb-73544f946f8d
 title: "De briques et de blocs. La fonction éditoriale des interfaces de programmation (API) web : entre science combinatoire et industrie du texte."
 author: "Samuel Goyet"
 authors: "Samuel Goyet"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-01665406"
 publisher: "Paris IV Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

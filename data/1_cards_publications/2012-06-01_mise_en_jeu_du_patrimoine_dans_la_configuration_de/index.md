@@ -1,5 +1,5 @@
 ---
-uuid: 3cad57c8-742c-4dc6-8a26-1b18452e43b6
+uuid: 30c4a2f4-aeaa-4e3d-9a08-0024763159a4
 title: "Mise en jeu du patrimoine dans la configuration de la ville aujourd’hui"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749962"
 publisher: "EHESS"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

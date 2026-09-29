@@ -1,5 +1,5 @@
 ---
-uuid: 18d07e78-a3f0-4b9f-8c24-b10acba8aad7
+uuid: 73a138b2-0f15-4972-9fcf-cb3dff01f8b7
 title: "DHNord 2020 : The measurement of images. Computational approaches in the history and theory of the arts"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03351742"
 publisher: "Maison Européenne des Sciences de l’Homme et de la Société (MESHS)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

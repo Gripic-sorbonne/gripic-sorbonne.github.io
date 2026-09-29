@@ -1,5 +1,5 @@
 ---
-uuid: 63a5c348-1427-4653-9a99-159ded2dc791
+uuid: f34067e5-0498-43ac-8aa7-72d4785f2b65
 title: "Recherches Qualitatives"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03730413"
 publisher: "ARQ Association pour la Recherche Qualitative"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

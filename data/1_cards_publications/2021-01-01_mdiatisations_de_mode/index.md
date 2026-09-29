@@ -1,5 +1,5 @@
 ---
-uuid: 8057b213-9ce8-4a98-a0f8-132b254524e6
+uuid: 13085a98-8aca-4808-8118-4a1e4fea36bf
 title: "Médiatisations de mode"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750784"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

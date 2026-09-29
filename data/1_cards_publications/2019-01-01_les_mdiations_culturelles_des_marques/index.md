@@ -1,5 +1,5 @@
 ---
-uuid: e43975a0-12b8-4624-b755-826dd2583037
+uuid: 713b3554-8b4c-4453-9177-45ccb979badb
 title: "Les médiations culturelles des marques"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03754286"
 publisher: "Iste"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

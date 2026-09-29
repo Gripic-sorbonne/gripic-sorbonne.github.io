@@ -1,5 +1,5 @@
 ---
-uuid: fce706d0-7b58-4039-9cf4-118e8c805ff5
+uuid: 37120dc7-46d3-48b4-875c-39ab7c128ff5
 title: "Colloque SWPACA (South West Popular/American Culture Association)"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773585"
 publisher: "Groupe de recherche “ Harry Potter Studies ”"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

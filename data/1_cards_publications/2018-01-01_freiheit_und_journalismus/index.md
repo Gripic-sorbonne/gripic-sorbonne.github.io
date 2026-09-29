@@ -1,5 +1,5 @@
 ---
-uuid: c4eb2b7a-2511-4828-8307-93e643be9e02
+uuid: 6a35dc3c-c71e-4f19-b430-4ef22efa2021
 title: "Freiheit und Journalismus"
 author: "Lisa Bolz, Juliette Charbonneaux"
 authors: "Lisa Bolz, Juliette Charbonneaux"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03966964"
 publisher: "Nomos"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

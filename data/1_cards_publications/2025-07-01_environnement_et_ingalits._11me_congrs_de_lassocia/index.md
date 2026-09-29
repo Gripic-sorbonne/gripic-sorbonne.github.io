@@ -1,5 +1,5 @@
 ---
-uuid: 8fcdaab5-fb67-4cb7-a34e-d24d11d734cd
+uuid: b9410508-8849-470f-9f66-c2f4d785df09
 title: "Environnement et inégalités. 11ème congrès de l’Association Française de Sociologie"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05053066"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 736d39be-031f-4cd5-bfaf-70b841ced255
+uuid: 46a9f302-cbf1-4b5c-bb12-4dac98bbf98f
 title: "Communication dans le cadre de l’Université populaire IDEE"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750765"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

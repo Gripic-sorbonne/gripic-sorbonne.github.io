@@ -1,5 +1,5 @@
 ---
-uuid: c9bf9742-4d42-44b9-b77e-3aa5acb2d933
+uuid: 4551e688-c2a7-47ba-a135-5e19b0ac693f
 title: "Socio sémiotique de la relation de service"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754360"
 publisher: "Université de Limoges"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

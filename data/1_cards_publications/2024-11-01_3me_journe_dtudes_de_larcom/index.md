@@ -1,5 +1,5 @@
 ---
-uuid: de1c3414-4209-41f5-8c71-07b70ae9509d
+uuid: 2d53e666-9f05-476e-8805-917279ad8f04
 title: "3ème journée d’études de l’ARCOM"
 author: "Yannick Zelle, Thibault Grison, Virginie Julliard"
 authors: "Yannick Zelle, Thibault Grison, Virginie Julliard"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605997"
 publisher: "ARCOM"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

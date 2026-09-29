@@ -1,5 +1,5 @@
 ---
-uuid: 3d0c1c8d-16e7-4f66-80ac-b20706292e97
+uuid: b59b421b-63d6-4c70-a2c8-88eb569b26cd
 title: "Communautés et pratiques d’écritures des patrimoines et des mémoires"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-04699512"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

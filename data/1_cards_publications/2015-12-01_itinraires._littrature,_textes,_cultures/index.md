@@ -1,5 +1,5 @@
 ---
-uuid: 2affaa38-168f-460b-914f-f46748328d59
+uuid: 50c50cbf-71e2-48e5-8ce5-a2b484f268bb
 title: "Itinéraires. Littérature, textes, cultures"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03722976"
 publisher: "L’Harmattan [2008-2013] - Pléiade (UR 7338) (Université Sorbonne Paris Nord [2008-....]"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

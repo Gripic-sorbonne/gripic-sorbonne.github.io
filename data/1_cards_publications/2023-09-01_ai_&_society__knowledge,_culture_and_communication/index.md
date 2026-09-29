@@ -1,5 +1,5 @@
 ---
-uuid: c6decedf-c9bb-4a3e-bf4a-d930cfcaf6cc
+uuid: 24323ed7-c3fe-491a-8ded-b013b4a50528
 title: "AI & Society: Knowledge, Culture and Communication"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-05347455"
 publisher: "Springer Verlag"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

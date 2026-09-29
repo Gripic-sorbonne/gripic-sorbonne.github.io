@@ -1,5 +1,5 @@
 ---
-uuid: 6d88f495-ca23-49f1-8165-f9edfb56018e
+uuid: 1b130782-b081-41d5-9eaf-a11eb469a41a
 title: "Hybrid. Revue des arts et médiations humaines"
 author: "Sébastien Appiotti"
 authors: "Sébastien Appiotti"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03722758"
 publisher: "Labex Arts H2H/Presses Universitaires de Vincennes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

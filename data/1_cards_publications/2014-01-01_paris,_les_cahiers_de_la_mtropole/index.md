@@ -1,5 +1,5 @@
 ---
-uuid: 013f1bf1-9e7b-4fb9-ab96-2968e0c3ed5d
+uuid: 29d255d1-2b36-45c8-89b3-914ffe65bfe9
 title: "Paris, les cahiers de la métropole"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03754540"
 publisher: "Ville de Paris"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

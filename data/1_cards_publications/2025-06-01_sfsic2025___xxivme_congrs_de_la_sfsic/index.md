@@ -1,5 +1,5 @@
 ---
-uuid: c5e6fbe8-14ce-4f2a-a78f-af4df9e89afe
+uuid: 6757d305-5172-426f-a33c-820f56d62d91
 title: "SFSIC2025 : XXIVème Congrès de la Sfsic"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160325"
 publisher: "Rennes 2"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

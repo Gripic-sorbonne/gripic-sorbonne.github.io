@@ -1,5 +1,5 @@
 ---
-uuid: 7036df2c-94a4-4d9c-8a45-132e718570e0
+uuid: 04680b49-ddaa-4442-84ff-cbebfc7cfcde
 title: "Pour la Science. Dossier"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03760938"
 publisher: "Belin"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

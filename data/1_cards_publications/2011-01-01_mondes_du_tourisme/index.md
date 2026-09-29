@@ -1,5 +1,5 @@
 ---
-uuid: ea5efb95-a51a-4d38-82a3-b77a617a14bd
+uuid: e54c0d92-f61e-40eb-9133-132c9f96000a
 title: "Mondes du tourisme"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767029"
 publisher: "Paris: Éd. touristiques européennes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

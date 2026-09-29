@@ -1,5 +1,5 @@
 ---
-uuid: be8c3e00-08b2-43a7-9bfd-5b51f5ba9e7b
+uuid: c39d947d-dc04-45a2-83e6-60d727e98f84
 title: "Photo de famille. Penser des vies intellectuelles d’un point de vue féministe"
 author: "Maxime Cervulle, Nelly Quemener"
 authors: "Maxime Cervulle, Nelly Quemener"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03991610"
 publisher: "Éditions de l’EHESS"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

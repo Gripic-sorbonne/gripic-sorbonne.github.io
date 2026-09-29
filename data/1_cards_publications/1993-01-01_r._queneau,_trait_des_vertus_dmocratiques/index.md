@@ -1,5 +1,5 @@
 ---
-uuid: 43f3e21e-1e46-4056-b0e7-54e1e9dc2081
+uuid: b6ee2884-cf57-411c-9d91-7cd0fa554fbc
 title: "R. Queneau, Traité des vertus démocratiques"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03760503"
 publisher: "Gallimard"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

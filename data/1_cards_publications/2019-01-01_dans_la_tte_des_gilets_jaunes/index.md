@@ -1,5 +1,5 @@
 ---
-uuid: 5e65a68c-f99b-43b0-a51b-38af129ad1d6
+uuid: 6e225d42-a4e2-44ad-af8f-f7a580b04a00
 title: "Dans la tête des Gilets jaunes"
 author: "François-Bernard Huyghe, Damien Liccia"
 authors: "François-Bernard Huyghe, Damien Liccia"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03723045"
 publisher: "VA Éditions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

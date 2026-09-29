@@ -1,5 +1,5 @@
 ---
-uuid: d13fcf16-8fac-4c96-8754-2dde830e6ab9
+uuid: 97431ec6-e688-4c3c-9dc3-62d8e22083ef
 title: "Genesis. Manuscrits - Recherche - Invention"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750605"
 publisher: "Sorbonne Université Presses"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

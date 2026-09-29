@@ -1,5 +1,5 @@
 ---
-uuid: 80d76676-1961-4e28-b242-2c34f765db3e
+uuid: a6f3c8b5-4e59-418f-8e3e-71b0dab54370
 title: "Présentation dans le cadre du séminaire du GRIPIC, Celsa"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750762"
 publisher: "GRIPIC, Celsa"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

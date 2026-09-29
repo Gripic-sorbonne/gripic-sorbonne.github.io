@@ -1,5 +1,5 @@
 ---
-uuid: 551c92f4-6790-4997-aa90-c3279564c2fa
+uuid: 06b86d75-7cd9-45e1-94fe-72e65b22be1d
 title: "Digital Publishing Research"
 author: "Yuwen Zhang, Pei Lin"
 authors: "Yuwen Zhang, Pei Lin"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-05091411"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 32968bc6-1dad-42d8-a060-dbbe8d1f5799
+uuid: 9d52a66f-9eac-4816-ae06-b1150838c326
 title: "Actes du Séminaire Raymond Queneau, Temps mêlés"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761050"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

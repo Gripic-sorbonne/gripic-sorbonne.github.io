@@ -1,5 +1,5 @@
 ---
-uuid: 8ea3e5a4-e726-4a93-8cea-4b5ab86f0c7a
+uuid: ebbd3393-b231-4b15-a106-e59ef60cd79e
 title: "Représentations de la sémiotique dans le discours marketing : approche d’un corpus de manuels"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754335"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

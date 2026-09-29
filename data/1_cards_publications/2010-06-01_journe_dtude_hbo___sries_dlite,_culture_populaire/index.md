@@ -1,5 +1,5 @@
 ---
-uuid: 01e721c9-55ee-4dfd-9ec5-98ede6265062
+uuid: 256fe67c-80ec-4c62-9a34-ba952a7d63e7
 title: "Journée d’étude ” HBO : séries d’élite, culture populaire ”"
 author: "Séverine Barthes"
 authors: "Séverine Barthes"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-00681919"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

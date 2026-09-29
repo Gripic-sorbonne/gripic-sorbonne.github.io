@@ -1,5 +1,5 @@
 ---
-uuid: e5cceaab-2ead-4a8c-9f0d-f0025ff2b2ab
+uuid: 10abdb7a-3c41-4d9a-aae9-7cf0dbdfb412
 title: "Goûts et identités culturelles"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749801"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

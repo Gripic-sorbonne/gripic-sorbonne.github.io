@@ -1,5 +1,5 @@
 ---
-uuid: d2bb1afa-de2c-4715-9bb1-0184b85db0d4
+uuid: add34aa7-8c03-4e66-9012-8907558e2abf
 title: "Utopies: approches croisées"
 author: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
 authors: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754588"
 publisher: "Librairie TeKné"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: e45b60e8-b9a4-4d76-a434-c2757ef021f8
+uuid: 78509749-b146-4157-9e3b-9a130706bfd0
 title: "La formation de la chronique boursière dans la presse quotidienne française (1801-1870)"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-01424740"
 publisher: "Université Paris 4 Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

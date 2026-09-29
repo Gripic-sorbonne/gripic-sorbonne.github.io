@@ -1,5 +1,5 @@
 ---
-uuid: d6513b4b-ebd8-47ce-9727-36d7572c8b74
+uuid: 4c2c0948-14a4-429e-bfdf-d10e913f58f5
 title: "50 ans de l’OULIPO. De la contrainte à l’œuvre, La Licorne"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761006"
 publisher: "Presses Universitaires de Rennes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

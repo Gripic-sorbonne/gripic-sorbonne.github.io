@@ -1,5 +1,5 @@
 ---
-uuid: 2f48e7a3-3637-4161-92a8-2c148c2a5df0
+uuid: 97bd469d-d075-4998-a85c-1e13901458e1
 title: "Valeurs et temporalité : quels enjeux pour les labels culturels créatifs ?"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-04966584"
 publisher: "Yanita Andonova and Johan Boittiaux"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

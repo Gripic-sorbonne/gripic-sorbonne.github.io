@@ -1,5 +1,5 @@
 ---
-uuid: ed604d1d-257c-4e8c-addd-3619649f2c05
+uuid: 1bf207a1-f095-4209-a7b5-4abfce9e2911
 title: "Colloque IA et innovation sociale"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605999"
 publisher: "UNESCO et Université Bordeaux Montaigne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

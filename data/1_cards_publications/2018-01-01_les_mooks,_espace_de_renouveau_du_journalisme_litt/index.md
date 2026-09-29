@@ -1,5 +1,5 @@
 ---
-uuid: 3b1f6d89-032e-4581-b517-7288feeef216
+uuid: 14c8d9cd-99ea-4939-89ee-86430608fc30
 title: "Les Mooks, espace de renouveau du journalisme littéraire"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750804"
 publisher: "Editions l’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

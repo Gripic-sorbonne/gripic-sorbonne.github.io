@@ -1,5 +1,5 @@
 ---
-uuid: 6aad42f5-278d-4d0d-b950-e2632c633cfd
+uuid: 357cb54d-0454-4a58-b246-aa195bc2e869
 title: "De l’émigration en Amérique latine à la crise migratoire : histoire oubliée de la Nouvelle-Aquitaine XIXe-XXIe siècle"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03120533"
 publisher: "Cairn"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

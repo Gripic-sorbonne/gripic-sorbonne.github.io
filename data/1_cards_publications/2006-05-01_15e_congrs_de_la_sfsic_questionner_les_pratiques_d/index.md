@@ -1,5 +1,5 @@
 ---
-uuid: f08ddc17-79bd-4dc8-aa99-2db27295e4a7
+uuid: 965c1572-09a9-4575-a331-564cfd48e742
 title: "15e congrès de la SFSIC ”Questionner les pratiques d’information et de communication. Agir professionnel et agir social”"
 author: "Lucile Desmoulins"
 authors: "Lucile Desmoulins"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://lilloa.hal.science/hal-04937215"
 publisher: "Universités de Bordeaux"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

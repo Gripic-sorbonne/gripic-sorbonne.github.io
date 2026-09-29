@@ -1,5 +1,5 @@
 ---
-uuid: 55a24ffc-88aa-493f-a4a4-b645dafe06dc
+uuid: 1c246c10-2338-470e-a539-429d8a6d2d24
 title: "Colloque ”Sous les pavés, la Une. Discours et images de la violence contestataire”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05426771"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

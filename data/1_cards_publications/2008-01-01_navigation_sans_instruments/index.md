@@ -1,5 +1,5 @@
 ---
-uuid: 8f7ce6d9-4c74-4975-8d3e-f762735d9fbc
+uuid: f1dd3c2e-8982-40cd-824a-41b32de01d1c
 title: "Navigation sans instruments"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761089"
 publisher: "L’Atelier d’architecture Denys Garnier"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

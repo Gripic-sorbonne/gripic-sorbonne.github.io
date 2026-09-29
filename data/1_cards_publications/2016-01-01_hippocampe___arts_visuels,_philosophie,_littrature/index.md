@@ -1,5 +1,5 @@
 ---
-uuid: 69f5ea6d-6ba0-46cc-ae1e-54173c4dc04f
+uuid: bd161971-2f44-4474-ab29-25d9ad94cd6d
 title: "Hippocampe : arts visuels, philosophie, littérature"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03749283"
 publisher: "Hippocampe éditions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

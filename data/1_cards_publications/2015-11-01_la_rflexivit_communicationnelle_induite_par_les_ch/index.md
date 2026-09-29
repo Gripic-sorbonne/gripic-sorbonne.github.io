@@ -1,5 +1,5 @@
 ---
-uuid: bb19ccdf-7d1a-4375-9f7e-ac92ee619a7b
+uuid: 581e9ca6-e19c-4296-a731-eb326e4b63ef
 title: "La réflexivité communicationnelle induite par les échanges en ligne : pratique, médiation et médiatisation, vers une posture d’ethnologue-amateur"
 author: "Marion Rollandin"
 authors: "Marion Rollandin"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04291044"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

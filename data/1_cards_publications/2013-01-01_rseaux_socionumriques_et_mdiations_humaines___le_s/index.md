@@ -1,5 +1,5 @@
 ---
-uuid: d910df31-c023-4253-a3d6-32d87d3a9b26
+uuid: 87f1efbd-49fc-4e16-af81-0297c3a200a3
 title: "Réseaux socionumériques et médiations humaines : Le social est-il soluble dans le web ?"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-01703101"
 publisher: "Hermès-Lavoisier"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 938dd39e-6c7d-45a4-ba38-4d096d3c54b7
+uuid: ef5a6368-fe88-41a0-9dd6-ef2ad6d1b9e5
 title: "Les Écoles de la République"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761047"
 publisher: "Éclectis"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

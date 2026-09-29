@@ -1,5 +1,5 @@
 ---
-uuid: cb62eb3a-5e5e-4a5c-9786-42dafee72c5b
+uuid: 2e55940b-bb38-4f26-b2e6-d0b39ec1e802
 title: "Les “ petits gestes ” dans leur anthropologie communicationnelle. Étudier la “ digipulation ” des applications mobiles"
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04101090"
 publisher: "Sorbonne Université"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

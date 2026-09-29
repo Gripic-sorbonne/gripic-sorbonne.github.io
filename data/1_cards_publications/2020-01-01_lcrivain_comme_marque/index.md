@@ -1,5 +1,5 @@
 ---
-uuid: 4132d3cc-aa41-4e5e-b1d2-86fdde7ed07a
+uuid: 4df4740b-6448-4d4d-a3aa-52004f118695
 title: "L’écrivain comme marque"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03768190"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 169fd207-75d0-410a-b342-b9cb6d6f1a6f
+uuid: e352f580-d802-43f5-86c6-b6722888aa4a
 title: "Séminaire GIRANIUM : “ Girardin numérisé, ou la naissance des industries culturelles ”"
 author: "Emmanuelle Fantin, Karine Berthelot-Guiet"
 authors: "Emmanuelle Fantin, Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964103"
 publisher: "GRIPIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

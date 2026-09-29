@@ -1,5 +1,5 @@
 ---
-uuid: a7219af4-99d9-4c8b-b2ab-7b1da95ac2a5
+uuid: 44968e08-ef3d-43ba-bb31-a4b3fdec608a
 title: "ICA Post conference Digital Health Communication : Issues and Perspectives"
 author: "Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang"
 authors: "Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03942040"
 publisher: "Laboratoire CIMEOS and Université Bourgogne Franche-Comté and Société française des sciences de l’information et de la communication and International Communication Association (ICA)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 27a26624-e8c6-47b2-bd25-521aafa89169
+uuid: 6fab80dc-6885-4069-9b32-a27a1c99842a
 title: "Actes des doctorales de la société des sciences de l’information et de la communication"
 author: "Maya Mazzacane Gripic"
 authors: "Maya Mazzacane Gripic"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-04914271"
 publisher: "Société française des sciences de l’information et de la communication and CREM - Centre de recherche sur les médiations"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

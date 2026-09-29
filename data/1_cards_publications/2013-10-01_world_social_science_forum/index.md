@@ -1,5 +1,5 @@
 ---
-uuid: e541c66d-ecee-474d-ace6-4e2c1bccca6a
+uuid: eeb73e78-537a-4bd2-b01b-2553cee56fe6
 title: "World Social Science Forum"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750110"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

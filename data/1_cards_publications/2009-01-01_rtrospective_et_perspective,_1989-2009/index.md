@@ -1,5 +1,5 @@
 ---
-uuid: bfb240ca-d27a-45cb-9b7f-29c7928a6593
+uuid: f1c8db59-7749-435c-a08c-f12d83242069
 title: "Rétrospective et perspective, 1989-2009"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750635"
 publisher: "Hermès Science"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

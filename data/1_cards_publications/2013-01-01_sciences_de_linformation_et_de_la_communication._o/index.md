@@ -1,5 +1,5 @@
 ---
-uuid: cdc1db74-0a76-45f7-b78c-236ee39a9bb0
+uuid: df4b4341-33ed-4146-bf41-d5f3476c32d4
 title: "Sciences de l’information et de la communication. Objets, savoirs, discipline"
 author: "nicole D’Almeida, Yanita Andonova"
 authors: "nicole D’Almeida, Yanita Andonova"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750036"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

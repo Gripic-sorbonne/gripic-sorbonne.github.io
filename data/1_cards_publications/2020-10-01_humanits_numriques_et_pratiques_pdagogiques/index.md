@@ -1,5 +1,5 @@
 ---
-uuid: 7ea1e946-7077-4507-9444-c0bdc2fc20fe
+uuid: 71a33ed9-d6a1-4caa-b5df-377e1243b57d
 title: "Humanités numériques et pratiques pédagogiques"
 author: "Émilie Remond, Thibaud Hulin, Laurent Petit, Laurent Collet"
 authors: "Émilie Remond, Thibaud Hulin, Laurent Petit, Laurent Collet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03185450"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

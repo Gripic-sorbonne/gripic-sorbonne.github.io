@@ -1,5 +1,5 @@
 ---
-uuid: 80fdc911-4fec-41f4-a472-880cc83248f7
+uuid: 2917e585-eef9-4bf0-b0fc-fea6e30a182d
 title: "Sémiotique mode d’emploi : le cas Allociné"
 author: "Pauline Escande, Karine Berthelot-Guiet, Jean-Jacques Boutaud"
 authors: "Pauline Escande, Karine Berthelot-Guiet, Jean-Jacques Boutaud"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750811"
 publisher: "Editions Le bord de l’eau"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

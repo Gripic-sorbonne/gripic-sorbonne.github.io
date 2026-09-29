@@ -1,5 +1,5 @@
 ---
-uuid: e1ca2f7e-67a8-4c1d-a5f9-dd664e888df2
+uuid: 75afdc95-da00-485a-b9f0-aedca3a3b47d
 title: "Versus: Quaderni di Studi Semiotici"
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03772688"
 publisher: "Bompiani and Co."
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

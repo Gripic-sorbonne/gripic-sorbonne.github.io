@@ -1,5 +1,5 @@
 ---
-uuid: 55edb5e1-25e9-4f62-8137-11d1c10969d0
+uuid: 0e36c489-3080-4b63-b58f-9a7595e8005c
 title: "L’art et la ville Œuvres contemporaines"
 author: "Emmanuël Souchier, Patrick Beurard-Valdoye"
 authors: "Emmanuël Souchier, Patrick Beurard-Valdoye"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03760458"
 publisher: "La Documentation Française - Ministère des affaires étrangères"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

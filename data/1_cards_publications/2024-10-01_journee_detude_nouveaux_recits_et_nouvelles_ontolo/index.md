@@ -1,5 +1,5 @@
 ---
-uuid: a27b090d-87b7-4c8a-98ea-899eb7493c06
+uuid: bb35af3a-e4fe-4c27-b78b-21c3ebaadaff
 title: "Journee d’etude Nouveaux recits et nouvelles ontologies dans le rapport à l’animal ? Mecanismes d’evolutions et resistances"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05264676"
 publisher: "NORA and GRESEC and IFCE and Université Grenoble Alpes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

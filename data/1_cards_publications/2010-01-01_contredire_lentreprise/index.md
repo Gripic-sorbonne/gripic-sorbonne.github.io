@@ -1,5 +1,5 @@
 ---
-uuid: dd0c839a-56ed-43a4-822a-5b0af0dff04f
+uuid: 0270fc87-855a-4859-9d69-a891513fea61
 title: "Contredire l’entreprise"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750042"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 812ae0fa-2e65-4b69-8e72-700e1f9cc2aa
+uuid: 57822594-5520-449f-9ba4-019c2a7a7bca
 title: "LES NOUVELLES MÉDIATIONS PÉDAGOGIQUESDesign et innovation pédagogiques, expériences d’enseignement technologique"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03968429"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

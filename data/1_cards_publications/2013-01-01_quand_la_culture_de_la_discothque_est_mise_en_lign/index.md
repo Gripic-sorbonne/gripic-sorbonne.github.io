@@ -1,5 +1,5 @@
 ---
-uuid: 18b84f49-f0bb-429a-96da-1cafe6d13f19
+uuid: 1c3562e1-873f-4d86-8a9d-cf0938116ecb
 title: "Quand la culture de la discothèque est mise en ligne"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
@@ -9,8 +9,11 @@ type: "manuscript"
 url: "https://hal.science/hal-01116743"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

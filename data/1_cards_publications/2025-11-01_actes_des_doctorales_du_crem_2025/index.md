@@ -1,5 +1,5 @@
 ---
-uuid: 4ba8a43d-0e93-4042-8c24-ab1c20df6e03
+uuid: afc264c1-8d80-4f8b-9df1-bae76861152e
 title: "Actes des doctorales du Crem 2025"
 author: "Sabrina Mazigh, Joachim Fischer"
 authors: "Sabrina Mazigh, Joachim Fischer"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-05565245"
 publisher: "CREM - Université de Lorraine"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

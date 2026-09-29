@@ -1,5 +1,5 @@
 ---
-uuid: 7b1292ec-1d2d-410b-9b54-5fc5ccb5af24
+uuid: 957f756f-6e9a-4494-a538-6faf34160c71
 title: "Matérialismes, culture et communication. Volume 2 – Cultural Studies, théories féministes et postcoloniales"
 author: "Nelly Quemener, Maxime Cervulle, Florian Vörös"
 authors: "Nelly Quemener, Maxime Cervulle, Florian Vörös"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03758373"
 publisher: "Presse des Mines"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

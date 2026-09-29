@@ -1,5 +1,5 @@
 ---
-uuid: c860d8e9-765e-4651-8d1d-6f8a0397a2a7
+uuid: 4c3be1be-eec8-44ed-9937-b28d62477e6a
 title: "Séminaire de recherche ”Penser l’Eurovision”"
 author: "Sébastien Appiotti, Lisa Bolz, Johan Boittiaux, Marie-Caroline Neuvillers"
 authors: "Sébastien Appiotti, Lisa Bolz, Johan Boittiaux, Marie-Caroline Neuvillers"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-04883641"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

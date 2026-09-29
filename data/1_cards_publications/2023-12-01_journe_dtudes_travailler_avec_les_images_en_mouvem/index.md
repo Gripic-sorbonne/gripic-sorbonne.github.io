@@ -1,5 +1,5 @@
 ---
-uuid: 7fed66f3-9b5b-465f-91a5-b87bab333789
+uuid: 44ec29ba-aff7-4c06-a1d7-0282d80898e0
 title: "Journée d’études “ Travailler avec les images en mouvement ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605976"
 publisher: "CERES"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

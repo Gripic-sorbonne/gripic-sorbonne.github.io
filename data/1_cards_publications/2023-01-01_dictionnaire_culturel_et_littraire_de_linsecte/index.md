@@ -1,5 +1,5 @@
 ---
-uuid: ea47cc9d-5349-4419-8648-4e5f14f6eebe
+uuid: 010cf1a8-32bf-4806-b5f3-1fb51913c93b
 title: "Dictionnaire culturel et littéraire de l’insecte"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03721268"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

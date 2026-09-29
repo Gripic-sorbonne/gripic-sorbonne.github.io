@@ -1,5 +1,5 @@
 ---
-uuid: 02e34413-5735-4235-9b61-bd278e2a627d
+uuid: b43db919-b6d7-450d-913e-bd49ede37c7c
 title: "La métropole parisienne : entre récits, paroles et échanges"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03754379"
 publisher: "Éditions de la Maison des sciences de l’homme"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

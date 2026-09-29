@@ -1,5 +1,5 @@
 ---
-uuid: 8a9c1582-25e1-4c2a-82ca-333368996bd8
+uuid: 8f189e64-3562-48e9-86af-4ee7b8d4b252
 title: "Le 1 [Un] hebdo"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280577"
 publisher: "FGH invest"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

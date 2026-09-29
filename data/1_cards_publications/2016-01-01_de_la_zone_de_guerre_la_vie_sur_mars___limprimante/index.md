@@ -1,5 +1,5 @@
 ---
-uuid: 3ad45538-2531-4fb7-a60e-e16e21fa379c
+uuid: 87661b64-9798-45a5-a4c7-3bb74e163235
 title: "De la zone de guerre à la vie sur Mars : l’imprimante alimentaire 3 D pour survivre en espace hostile"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03754445"
 publisher: "ISCC- CNRS"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

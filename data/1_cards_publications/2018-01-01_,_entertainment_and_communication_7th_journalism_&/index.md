@@ -1,5 +1,5 @@
 ---
-uuid: cd47b725-ac37-4d7f-bb82-8f10f8577ca1
+uuid: 871b35ba-9f24-4028-aefd-f73c14e26854
 title: ", Entertainment and Communication 7th Journalism & Mass Communications Conference, JMComm 2018"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.sorbonne-universite.fr/hal-02150637"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

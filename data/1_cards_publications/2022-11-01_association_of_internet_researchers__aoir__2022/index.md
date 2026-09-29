@@ -1,5 +1,5 @@
 ---
-uuid: 8b1f1c9b-2c29-4d2e-a839-4355bba3c038
+uuid: 277cda81-6655-435a-8aac-45bb2bf6e164
 title: "Association of Internet Researchers (AOIR) 2022"
 author: "Angela Woodall"
 authors: "Angela Woodall"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.sorbonne-universite.fr/hal-03964156"
 publisher: "Association of Internet Researchers"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

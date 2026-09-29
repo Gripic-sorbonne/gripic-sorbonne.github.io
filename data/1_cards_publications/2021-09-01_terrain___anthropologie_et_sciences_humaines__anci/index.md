@@ -1,5 +1,5 @@
 ---
-uuid: 2844400c-c59e-413d-8c85-3742b1add6fc
+uuid: 24a2d5ef-daf2-47fb-b4e1-c02cc459a65c
 title: "Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue d’ethnologie de l’Europe]"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03723004"
 publisher: "Ministère de la Culture, Mission du patrimoine ethnologique [1983-2002] - Ministère de la culture et de la communication, Mission à l’ethnologie [2003-....]"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

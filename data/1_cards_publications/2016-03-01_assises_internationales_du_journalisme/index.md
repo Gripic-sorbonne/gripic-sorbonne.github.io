@@ -1,5 +1,5 @@
 ---
-uuid: 6b1fcd63-4941-4a0e-97a9-e9389f10b4e1
+uuid: 7e5d26a3-6378-4e4d-897c-de83db26919d
 title: "Assises internationales du journalisme"
 author: "Caroline Marti, Valérie Patrin-Leclère"
 authors: "Caroline Marti, Valérie Patrin-Leclère"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754351"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

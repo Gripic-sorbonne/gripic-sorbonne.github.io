@@ -1,5 +1,5 @@
 ---
-uuid: fc0a6d9b-a089-4ee3-bc62-d3dd32410359
+uuid: a1cc04af-c701-471d-a2ba-8a17ad700222
 title: "Die Wissenschaft(en) der Kommunikation"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03966772"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

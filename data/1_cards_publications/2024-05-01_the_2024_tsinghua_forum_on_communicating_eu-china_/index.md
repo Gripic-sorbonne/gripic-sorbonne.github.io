@@ -1,5 +1,5 @@
 ---
-uuid: 523c0384-5724-4d7f-8d58-6855ff47355f
+uuid: a7c647b5-91bf-43a2-9779-dd3f4fc167bc
 title: "The 2024 Tsinghua Forum on Communicating EU-China Relations: Cultural Exchange and Trust Building"
 author: "Pei Lin, Yuwen Zhang"
 authors: "Pei Lin, Yuwen Zhang"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-04580769"
 publisher: "School of Journalism and Communication, Tsinghua University"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

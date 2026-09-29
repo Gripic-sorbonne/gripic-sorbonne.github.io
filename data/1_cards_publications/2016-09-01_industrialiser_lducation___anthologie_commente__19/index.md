@@ -1,5 +1,5 @@
 ---
-uuid: 56a66bcf-d471-4d0d-9e0f-8d89e233eb5e
+uuid: d3a06db4-91bd-47bb-a516-8c42700a0e9f
 title: "Industrialiser l’éducation : Anthologie commentée (1913-2012)"
 author: "Pierre Mœglin, Laurent Petit"
 authors: "Pierre Mœglin, Laurent Petit"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-01391800"
 publisher: "Presses Universitaires de Vincennes (PUV)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

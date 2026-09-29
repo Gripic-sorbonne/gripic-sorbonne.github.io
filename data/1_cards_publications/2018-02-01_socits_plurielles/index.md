@@ -1,5 +1,5 @@
 ---
-uuid: 38412fb1-a24e-4731-92c3-02f20ba7391c
+uuid: 1a0af412-76f9-41ee-85b8-7a11fcc60261
 title: "Sociétés Plurielles"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-01692833"
 publisher: "Presses de l’INALCO"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

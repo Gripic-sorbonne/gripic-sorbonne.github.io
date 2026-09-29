@@ -1,5 +1,5 @@
 ---
-uuid: 603cea9c-88ae-4dc1-9969-f28a3f258037
+uuid: d4960c22-9428-4a90-87c6-aea81a37d6ab
 title: "Les Cahiers Naturalistes"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767193"
 publisher: "Grasset-Fasquelle"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

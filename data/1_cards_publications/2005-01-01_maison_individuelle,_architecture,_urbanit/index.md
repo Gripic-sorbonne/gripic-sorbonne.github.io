@@ -1,5 +1,5 @@
 ---
-uuid: 346e4777-6647-4cdd-8479-745d13383a43
+uuid: 739d39e0-8479-47c6-9627-73f6f0815fb9
 title: "Maison individuelle, architecture, urbanité"
 author: "Sophie Corbillé, Michèle Pradelle"
 authors: "Sophie Corbillé, Michèle Pradelle"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03749858"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

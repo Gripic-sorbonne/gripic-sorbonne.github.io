@@ -1,5 +1,5 @@
 ---
-uuid: 60d9f256-e597-4908-9bcd-6e85e48b7472
+uuid: 3cbcf29c-c0a0-4bae-b9e8-1829fc91b500
 title: "Paroles de pub"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03749737"
 publisher: "Éditions Non Standard"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

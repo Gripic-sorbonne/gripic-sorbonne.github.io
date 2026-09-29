@@ -1,5 +1,5 @@
 ---
-uuid: 79bc28ac-bb04-4f5f-baea-9625a66eb335
+uuid: 5418bda1-d8e2-480d-87ac-9e8f9ce51b29
 title: "Le grand reportage : formes historiques, littéraires et médiatiques de l’enquête. Les exemples d’Albert Londres et de ses successeurs"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://hal.science/tel-05070744"
 publisher: "Sorbonne Université (Paris IV)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

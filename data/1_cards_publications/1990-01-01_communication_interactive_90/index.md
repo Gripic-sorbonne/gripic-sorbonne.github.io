@@ -1,5 +1,5 @@
 ---
-uuid: 0e65d641-5772-4924-815b-36816374750d
+uuid: 63a7f3ad-28f2-48b6-ad95-6a05bc5bab1c
 title: "Communication interactive 90"
 author: "Emmanuël Souchier, Joanna Pomian"
 authors: "Emmanuël Souchier, Joanna Pomian"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03760964"
 publisher: "Groupe §and Université Paris 8, Saint-Denis"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

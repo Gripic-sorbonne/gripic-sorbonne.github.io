@@ -1,5 +1,5 @@
 ---
-uuid: 19edba47-4e43-490f-bea4-e4acde0c9ef1
+uuid: 797d85e9-cd46-4586-be41-d4eb89546b51
 title: "Les écrits de l’image"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03752974"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 0cd793d2-73ec-4bf7-8749-f778b816dfde
+uuid: b4144bc0-ce77-4055-8a9d-8c684e9d88f2
 title: "Meeting the machine halfway"
 author: "Cléo Collomb, Samuel Goyet"
 authors: "Cléo Collomb, Samuel Goyet"
@@ -9,8 +9,11 @@ type: "manuscript"
 url: "https://hal.science/hal-01253444"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

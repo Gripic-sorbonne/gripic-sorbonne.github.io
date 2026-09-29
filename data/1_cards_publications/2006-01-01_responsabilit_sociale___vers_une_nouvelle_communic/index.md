@@ -1,5 +1,5 @@
 ---
-uuid: 80339f20-753f-48bc-85e9-0761b5aaab76
+uuid: 62a5bf25-bcf3-4711-9682-8d7e3331532e
 title: "Responsabilité sociale : vers une nouvelle communication des entreprises"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750045"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

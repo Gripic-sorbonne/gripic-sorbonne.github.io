@@ -1,5 +1,5 @@
 ---
-uuid: 8c5ffbf0-8cc8-4412-8cf3-5e62d473ebf3
+uuid: f306ec00-2361-46e6-ad22-ee856e482513
 title: "Sciences du jeu"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03749873"
 publisher: "Experice - Université Paris-Nord"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

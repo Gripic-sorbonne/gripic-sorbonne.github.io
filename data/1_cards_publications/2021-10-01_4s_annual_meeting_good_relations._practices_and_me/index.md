@@ -1,5 +1,5 @@
 ---
-uuid: 1388369b-3341-4848-9258-d69d2372a2e4
+uuid: 034619fd-33c2-43d5-aee4-c6d23799c5b1
 title: "4S Annual Meeting ”Good Relations. Practices and Methods in Unequal and Incertain Worlds”"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03730541"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

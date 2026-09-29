@@ -1,5 +1,5 @@
 ---
-uuid: 6e2c0f8b-489c-4adb-a311-38c088a658e3
+uuid: 73576ce2-51e5-4828-92bb-1100c6201f93
 title: "Impression Projection. Une histoire médiatique entre cinéma et journalisme"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03773285"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 391fe8af-2faf-4c18-9799-929e5d2ed761
+uuid: fd546419-0b35-4062-a4b2-595fd36da818
 title: "Internet histories"
 author: "Maria Eriksson, Guillaume Heuguet"
 authors: "Maria Eriksson, Guillaume Heuguet"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.sorbonne-universite.fr/hal-03135501"
 publisher: "Taylor & Francis"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

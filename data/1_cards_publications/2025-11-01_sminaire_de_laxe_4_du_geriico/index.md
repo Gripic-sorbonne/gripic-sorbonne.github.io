@@ -1,5 +1,5 @@
 ---
-uuid: 42420759-7cbf-4845-b1db-7cbf0abb0bce
+uuid: d2dcc16c-b241-4588-9e82-02b519dac9c2
 title: "Séminaire de l’Axe 4 du GERiiCO"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606022"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

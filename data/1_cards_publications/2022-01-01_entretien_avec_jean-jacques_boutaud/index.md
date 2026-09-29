@@ -1,5 +1,5 @@
 ---
-uuid: 7eaa6c9a-6dfd-4725-995d-714624bfd07f
+uuid: 1b3101bb-bf82-4db7-b3b3-c586948fd380
 title: "Entretien avec Jean-Jacques Boutaud"
 author: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
 authors: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03766799"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 856bd41f-2a01-4d58-a7c5-d6778105fe89
+uuid: d754d2dc-af90-42c2-85ac-a3591b84463b
 title: "Congrès de l’AISLF (Association Internationale des Sociologues de Langue Française)"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://utt.hal.science/hal-02968086"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 88d33d6d-c8d9-46bf-b7c2-b66769242d7c
+uuid: 958ecaea-30da-4490-9d25-693d9ba8495d
 title: "Refonte de l’encyclopédie et des lexiques spécialisés de l’édition, des médias, du marketing et de la publicité"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03749738"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

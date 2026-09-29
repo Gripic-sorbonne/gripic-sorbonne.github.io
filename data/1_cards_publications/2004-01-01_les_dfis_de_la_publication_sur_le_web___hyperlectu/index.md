@@ -1,5 +1,5 @@
 ---
-uuid: 365d0b13-7d33-4bd3-a202-5e27d8ce2e11
+uuid: bc7e3398-3298-48de-a6dd-d7ffb769837f
 title: "Les défis de la publication sur le Web : hyperlectures, cybertextes et méta-édition"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03760917"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

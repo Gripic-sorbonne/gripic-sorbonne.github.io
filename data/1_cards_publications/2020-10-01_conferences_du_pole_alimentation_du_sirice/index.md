@@ -1,5 +1,5 @@
 ---
-uuid: ea226b09-43d2-4d0a-8499-2c02c597aba5
+uuid: 7d67cc3f-cd67-4df6-8022-dbdec912085c
 title: "CONFERENCES DU POLE ALIMENTATION DU SIRICE"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754564"
 publisher: "Maison de la Recherche and SIRICE"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

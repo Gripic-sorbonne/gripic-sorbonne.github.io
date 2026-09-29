@@ -1,5 +1,5 @@
 ---
-uuid: 90a37046-7493-412d-a876-352e5f4bad9c
+uuid: 9a58f0d9-874d-4923-93f1-7b372e47ce92
 title: "Via@"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767018"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 2af53314-c73d-4d1b-840b-16951582008a
+uuid: 4d21e8b7-31b9-4029-8171-a2dfb66f2c8a
 title: "Journée d’études La marque, à la croisée du marketing et de la communication"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03725100"
 publisher: "GRIPIC (Sorbonne Université) and Chaire “ Marques & Valeurs ” (IAE de Paris - Laboratoire GREGOR)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

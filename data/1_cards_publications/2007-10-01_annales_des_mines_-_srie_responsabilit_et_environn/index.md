@@ -1,5 +1,5 @@
 ---
-uuid: e3d9e7fe-4211-4d5c-be46-f4709dc66b9f
+uuid: f3fc4dfc-086a-4930-8579-07dee97b17a9
 title: "Annales des mines - Série Responsabilité et environnement"
 author: "Nicole Almeida, Béatrice Jalenques-Vigouroux"
 authors: "Nicole Almeida, Béatrice Jalenques-Vigouroux"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-04774108"
 publisher: "F.F.E."
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

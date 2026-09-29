@@ -1,5 +1,5 @@
 ---
-uuid: 00606fad-8b9a-41f5-85ad-2c3e8e14f113
+uuid: e86f02ff-cee9-4772-b711-83fd84468555
 title: "Les métamorphoses du livre et de la lecture à l’heure du numérique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752987"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

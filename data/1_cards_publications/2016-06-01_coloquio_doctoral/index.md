@@ -1,5 +1,5 @@
 ---
-uuid: d4a51b5e-5c83-4079-a8b3-ff1073063f90
+uuid: 4e36a3ac-871c-45e7-813b-e5128bc0300c
 title: "Coloquio doctoral"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749946"
 publisher: "Facultad de communicaciones - Pontificia Universidad Católica de Chile"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

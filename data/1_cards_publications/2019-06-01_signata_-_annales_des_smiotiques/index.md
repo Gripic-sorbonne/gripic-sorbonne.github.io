@@ -1,5 +1,5 @@
 ---
-uuid: 8fb929f5-eae7-4251-86e9-6cfe46d0ec3e
+uuid: 03c4170c-5ab6-498b-8332-d6d25c2d28ea
 title: "Signata - Annales des sémiotiques"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-02354221"
 publisher: "Presses Universitaires de Liège"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

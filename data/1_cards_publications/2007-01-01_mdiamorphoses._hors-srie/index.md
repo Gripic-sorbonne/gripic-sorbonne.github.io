@@ -1,5 +1,5 @@
 ---
-uuid: 98e180a5-1c72-4afe-935f-ce4f01fbdda7
+uuid: 9cccf5c2-974e-45b4-a1eb-01165a7396d9
 title: "MédiaMorphoses. Hors-série"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03749694"
 publisher: "Institut National de l’Audiovisuel (INA)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

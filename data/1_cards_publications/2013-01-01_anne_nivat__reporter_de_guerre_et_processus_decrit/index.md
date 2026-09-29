@@ -1,5 +1,5 @@
 ---
-uuid: 0f24fe47-7999-4dfd-9fa0-3ece3211314e
+uuid: 9a5e2d91-f42a-4b11-8d8d-cc4d0ddfc8ca
 title: "ANNE NIVAT: REPORTER DE GUERRE ET PROCESSUS D’ECRITURE"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-05596428"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

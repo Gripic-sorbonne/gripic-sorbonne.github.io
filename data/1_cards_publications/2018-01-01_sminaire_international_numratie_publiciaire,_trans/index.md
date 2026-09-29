@@ -1,5 +1,5 @@
 ---
-uuid: b29d6d5d-7958-4392-b901-1ad843d7ee86
+uuid: fd2ad8ca-6b23-4fe9-b202-a019ac704dba
 title: "Séminaire international Numératie publiciaire, transformation des paroles des marques"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964100"
 publisher: "Celsa"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

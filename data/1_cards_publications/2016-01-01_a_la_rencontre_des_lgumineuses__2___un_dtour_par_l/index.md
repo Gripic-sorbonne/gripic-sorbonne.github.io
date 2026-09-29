@@ -1,5 +1,5 @@
 ---
-uuid: 07afe418-7cf4-4ba7-901c-65e556c0e376
+uuid: 4bcee7b9-e423-4b6b-95bc-222b40f63306
 title: "A la rencontre des légumineuses (2): un détour par l’épicurium"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03754467"
 publisher: "Pôle alimentation ISCC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

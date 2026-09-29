@@ -1,5 +1,5 @@
 ---
-uuid: ea7e0b81-c374-4fb6-9697-b67f31951c22
+uuid: a61f6555-a404-4fb6-8457-40ffa73902f0
 title: "The Discourses and Materialities of Tourism"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767054"
 publisher: "Bar-Ilan University Israel"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

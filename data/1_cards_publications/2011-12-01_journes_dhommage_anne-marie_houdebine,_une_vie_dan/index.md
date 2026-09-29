@@ -1,5 +1,5 @@
 ---
-uuid: fee5535f-2c14-4f49-ac97-d440e9cdd0f1
+uuid: 590e69f9-a812-4a95-93e1-f7302e1961ac
 title: "Journées d’hommage à Anne-Marie Houdebine, Une vie dans les signes"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749803"
 publisher: "Université René Descartes"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

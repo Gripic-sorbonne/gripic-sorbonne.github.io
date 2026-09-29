@@ -1,5 +1,5 @@
 ---
-uuid: 1fa659c5-83a9-4109-b8e0-6b21ba496a6d
+uuid: 6ce4c865-8f56-466e-ba44-88d44ab73de2
 title: "Le monde à la une"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03966971"
 publisher: "Éditions Anamosa"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

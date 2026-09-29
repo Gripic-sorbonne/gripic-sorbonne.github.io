@@ -1,5 +1,5 @@
 ---
-uuid: 78da3b69-bb94-4caf-a5fa-ce4f634e1502
+uuid: e2796630-6980-445f-ad19-18d170a313c8
 title: "Colloque international La contagion créative. Médias, industries, récits, communautés"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750722"
 publisher: "Université Panteion"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 4f15ce7f-bf1a-4905-b569-9ee134bff688
+uuid: feb89a30-1de3-4e1c-94eb-b4c0f8ef2591
 title: "Gastronomie et Communication - Entretien"
 author: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
 authors: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03573358"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

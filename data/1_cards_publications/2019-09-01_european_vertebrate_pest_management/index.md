@@ -1,5 +1,5 @@
 ---
-uuid: 3cec32aa-97bd-4c7f-92fb-ef83c57bd034
+uuid: 72c2aa7e-f034-4944-b6ed-4d91ff06618c
 title: "European Vertebrate Pest Management"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767062"
 publisher: "VetAgroSup"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

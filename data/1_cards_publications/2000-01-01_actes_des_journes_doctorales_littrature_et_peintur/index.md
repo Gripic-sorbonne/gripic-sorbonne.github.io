@@ -1,5 +1,5 @@
 ---
-uuid: 68ec93b3-110c-4446-8165-daf34198d16d
+uuid: bfa08a4f-49b8-413a-82fb-d87a25aa5419
 title: "Actes des journées doctorales Littérature et peinture"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761030"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

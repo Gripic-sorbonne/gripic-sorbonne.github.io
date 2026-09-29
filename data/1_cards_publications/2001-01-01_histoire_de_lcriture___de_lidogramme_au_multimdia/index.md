@@ -1,5 +1,5 @@
 ---
-uuid: a71350b0-4b79-480d-b9a4-2805b91dc1a0
+uuid: 77c6fc5c-c448-4c60-9817-f7ad28fc5158
 title: "Histoire de l’écriture : de l’idéogramme au multimédia"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761024"
 publisher: "Flammarion"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

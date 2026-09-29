@@ -1,5 +1,5 @@
 ---
-uuid: 8f174900-7e0f-407b-aa31-7508b98ce1db
+uuid: 981ee63c-7256-4c93-a89c-4559e1e11cb9
 title: "Les défis numériques du cinéma français contemporain"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750793"
 publisher: "Atlande"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

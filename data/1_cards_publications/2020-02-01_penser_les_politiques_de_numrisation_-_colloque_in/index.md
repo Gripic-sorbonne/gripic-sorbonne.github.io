@@ -1,5 +1,5 @@
 ---
-uuid: 31c1f6a4-82f7-4c80-bfc6-3245d2089eb6
+uuid: 339dfa00-9793-403b-96d5-c0a15969eb79
 title: "Penser les politiques de numérisation - Colloque Interdisciplinaire Transnum"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773562"
 publisher: "GRIPIC - Sorbonne Université and COSTECH - UTC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

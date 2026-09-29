@@ -1,5 +1,5 @@
 ---
-uuid: ba168b7a-38c2-4e42-af43-72580d398868
+uuid: 5a9b502b-22d0-4b9e-b2ed-55e20d89f028
 title: "Nouvelle Revue du travail"
 author: "Olivia Foli"
 authors: "Olivia Foli"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://cnam.hal.science/hal-04871305"
 publisher: "Nouvelle revue du travail"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

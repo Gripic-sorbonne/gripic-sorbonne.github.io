@@ -1,5 +1,5 @@
 ---
-uuid: 12837bc4-d4d8-4a31-8208-47ecd3e75896
+uuid: 26766bd5-39b5-4f79-8b4a-e512236548ca
 title: "La communication interne de l’entreprise"
 author: "nicole D’Almeida, Thierry Libaert"
 authors: "nicole D’Almeida, Thierry Libaert"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750001"
 publisher: "Dunod"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

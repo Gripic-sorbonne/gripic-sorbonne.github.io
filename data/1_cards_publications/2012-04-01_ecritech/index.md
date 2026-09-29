@@ -1,5 +1,5 @@
 ---
-uuid: 1d2d0a62-1dc0-4de2-a54c-26b6fdafc43b
+uuid: 855914ff-93b8-4049-9db0-d5f920c1d769
 title: "Ecritech"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752985"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

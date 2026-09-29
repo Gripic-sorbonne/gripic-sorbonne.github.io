@@ -1,5 +1,5 @@
 ---
-uuid: 45b15952-5259-42ff-a97a-c66c8c437e98
+uuid: b02945d2-f6d1-4a9b-a0d3-c6758ce2e2a1
 title: "L’éthique dans les pratiques professionnelles de l’information et de la communication"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://institut-agro-dijon.hal.science/hal-05234865"
 publisher: "Florian Malaterre and Véronique Richard"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

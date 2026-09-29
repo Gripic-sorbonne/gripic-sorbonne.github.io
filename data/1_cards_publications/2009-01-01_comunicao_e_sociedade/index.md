@@ -1,5 +1,5 @@
 ---
-uuid: 53fe42ae-a36a-4bb7-8b79-a2841d18b931
+uuid: d8d869c4-d7be-4e63-9c79-cdf9c81c7212
 title: "Comunicação e Sociedade"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750078"
 publisher: "Centro de Estudos de Comunicação e Sociedade (CECS)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

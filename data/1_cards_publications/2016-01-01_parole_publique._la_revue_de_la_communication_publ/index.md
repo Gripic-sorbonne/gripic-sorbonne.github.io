@@ -1,5 +1,5 @@
 ---
-uuid: 42b8e344-4643-4a0f-9d25-6a2fa1c9f418
+uuid: e50b6ab9-10a9-4c08-a670-115b37663523
 title: "Parole Publique. La revue de la communication publique"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750059"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

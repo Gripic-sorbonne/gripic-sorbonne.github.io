@@ -1,5 +1,5 @@
 ---
-uuid: 88bfd718-81e9-4e86-997d-904432a6d3e9
+uuid: 0e976b7b-3128-4d03-8727-4fc5e6908a05
 title: "Le plan de communication"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750033"
 publisher: "Dunod"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

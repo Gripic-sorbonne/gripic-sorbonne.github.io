@@ -1,5 +1,5 @@
 ---
-uuid: 2af6aa5f-45f8-4e5e-948b-1a957fbfc4c3
+uuid: 2d3262b0-598c-4f2a-a0c4-0734f0f3773d
 title: "COLLOQUE INTERDISCIPLINAIRE “ LA RELATION DE CLIENTÈLE ”"
 author: "nicole D’Almeida, Bonnet Fabien"
 authors: "nicole D’Almeida, Bonnet Fabien"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750120"
 publisher: "GRESCO - Université de Limoges"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

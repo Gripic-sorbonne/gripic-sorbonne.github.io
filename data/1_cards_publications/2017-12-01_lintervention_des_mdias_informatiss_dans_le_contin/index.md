@@ -1,5 +1,5 @@
 ---
-uuid: b62fcdb2-fe4f-40c2-939a-1c6789ad1547
+uuid: 62bdd5ff-4c15-4ee3-a8ab-888e2afd524c
 title: "L’intervention des médias informatisés dans le continuum de la médiation patrimoniale. D’une écriture des pratiques de visite à une pratique des écritures de médiation"
 author: "Ronan German"
 authors: "Ronan German"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-01706981"
 publisher: "Paris IV Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

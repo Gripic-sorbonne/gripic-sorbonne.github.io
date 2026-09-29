@@ -1,5 +1,5 @@
 ---
-uuid: 94387af3-23c8-4cad-98d0-e3d2e59e7654
+uuid: 71082fd5-9fe8-4ad8-824a-aac51e8e69c8
 title: "Les Cahiers d’Artes"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758554"
 publisher: "Presses Universitaires de Bordeaux - PUB (1983 à …) / Atelier de recherche transdisciplinaire Esthétique et sociétés - ARTES"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

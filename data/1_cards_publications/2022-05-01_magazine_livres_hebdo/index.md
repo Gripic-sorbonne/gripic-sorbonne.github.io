@@ -1,5 +1,5 @@
 ---
-uuid: 7fc5f800-f6cc-44e1-bb8e-c9c5dade92a0
+uuid: d69ebaa5-1951-4895-9269-d40485132959
 title: "Magazine Livres Hebdo"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280537"
 publisher: "Electre SA - Cercle de la Librairie"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 258854cb-f941-4cdf-ba87-d62a16fbe690
+uuid: c8c9f053-38d3-4176-b6e4-3d3a761728f2
 title: "Hannah Arendt the Promise of Politics (anglais et français) Presented at the séance GRIPIC"
 author: "Angela Woodall"
 authors: "Angela Woodall"
@@ -9,8 +9,11 @@ type: "manuscript"
 url: "https://hal.sorbonne-universite.fr/hal-03964152"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

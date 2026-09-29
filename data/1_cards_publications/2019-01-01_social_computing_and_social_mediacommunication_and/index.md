@@ -1,5 +1,5 @@
 ---
-uuid: 56c7ff7d-ecf3-4066-bcc0-ebe735ee0415
+uuid: d528fbf6-6067-422e-902e-2f287c9133ea
 title: "Social Computing and Social Media
 Communication and Social Communities"
 author: "Caroline Marti"
@@ -10,8 +10,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03768192"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

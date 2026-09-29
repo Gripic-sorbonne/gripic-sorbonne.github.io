@@ -1,5 +1,5 @@
 ---
-uuid: e86d6c70-0642-4ffd-a3c9-6cf655fd6407
+uuid: ea252819-74ed-4d99-9d98-3469e732e3f6
 title: "Sexe en public"
 author: "Nelly Quemener, Florian Vörös"
 authors: "Nelly Quemener, Florian Vörös"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03758416"
 publisher: "Poli éditions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

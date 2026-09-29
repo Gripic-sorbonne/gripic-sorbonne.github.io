@@ -1,5 +1,5 @@
 ---
-uuid: b5ca4372-cd5a-4431-9749-4359b42e54ae
+uuid: 4d92f9d2-6446-421b-9037-64361a86ea67
 title: "L’œil, le masque et la plume"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761104"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

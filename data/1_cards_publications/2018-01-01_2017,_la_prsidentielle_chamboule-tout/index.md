@@ -1,5 +1,5 @@
 ---
-uuid: d89acb19-e8fe-4d50-a130-b8d5f9587b30
+uuid: 229d73b6-c869-4e55-910f-bd17852a42c6
 title: "2017, la présidentielle chamboule-tout"
 author: "Juliette Charbonneaux, Thierry Devars"
 authors: "Juliette Charbonneaux, Thierry Devars"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03799898"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

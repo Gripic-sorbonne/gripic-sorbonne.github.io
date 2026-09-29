@@ -1,5 +1,5 @@
 ---
-uuid: 71551032-60c4-48a8-bd32-00b735e71941
+uuid: 90c6f687-dbb1-4d59-891f-ee2838fed794
 title: "Sociétés & Représentations"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03721171"
 publisher: "Éditions de la Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

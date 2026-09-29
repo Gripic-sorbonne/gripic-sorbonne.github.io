@@ -1,5 +1,5 @@
 ---
-uuid: 78786c8a-61c4-4c6a-b395-c2014efb3794
+uuid: 2f094f80-f0c8-47de-87b1-140d875cde2a
 title: "Les vérités autres du journal. Analyse des représentations du trépas en régime périodique en 1882 et 2014"
 author: "Maud Fontaine"
 authors: "Maud Fontaine"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-03828083"
 publisher: "Sorbonne Université"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

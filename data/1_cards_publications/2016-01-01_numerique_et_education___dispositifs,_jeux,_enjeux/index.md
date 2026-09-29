@@ -1,5 +1,5 @@
 ---
-uuid: 9264985a-95da-4031-89bb-52c4afc58417
+uuid: e88a4b5c-e736-41ef-b8cd-ea795f38ad22
 title: "Numerique et education : dispositifs, jeux, enjeux, hors jeux"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-05174872"
 publisher: "Editions universitaires de Lorraine"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

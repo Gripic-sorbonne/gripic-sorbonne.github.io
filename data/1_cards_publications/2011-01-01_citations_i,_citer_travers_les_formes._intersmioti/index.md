@@ -1,5 +1,5 @@
 ---
-uuid: d65f8e01-f431-45e5-a1b1-61136ddc728e
+uuid: 978bf20f-b295-4967-aab8-dc3f2746b6ac
 title: "Citations I, Citer à travers les formes. Intersémiotique de la Citation"
 author: "Pauline Escande, Elena Mouratidou"
 authors: "Pauline Escande, Elena Mouratidou"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750817"
 publisher: "Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

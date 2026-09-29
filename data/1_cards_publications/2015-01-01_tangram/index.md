@@ -1,5 +1,5 @@
 ---
-uuid: 24c77090-b19f-41ff-9bcd-6a6079fe8848
+uuid: 52f3d188-5890-43d8-b71d-864ab896e750
 title: "TANGRAM"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758651"
 publisher: "Commission fédérale Suisse contre le racisme"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 276f2ba9-0f23-4819-bfbe-19f1c7efa563
+uuid: efa3c8be-3668-4932-a4b8-a1b715dbd732
 title: "R. Queneau, Un rude hiver, Œuvres complètes"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03760494"
 publisher: "Gallimard"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

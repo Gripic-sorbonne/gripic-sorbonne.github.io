@@ -1,5 +1,5 @@
 ---
-uuid: ca722fb3-2322-4172-8785-30450041edf1
+uuid: aa1cd619-7c94-470e-952c-e3dffce93dda
 title: "“ Le genre est dans le pré. Les dynamiques genrées du travail agricole ”"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05083172"
 publisher: "Université Lumière Lyon 2 and MSH Lyon Saint-Etienne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

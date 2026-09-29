@@ -1,5 +1,5 @@
 ---
-uuid: 304dd209-3147-42b5-90f1-e6df5544d0bc
+uuid: 14b69aba-7e94-4677-9475-9248ad9396d3
 title: "Publictionnaire"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03749256"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

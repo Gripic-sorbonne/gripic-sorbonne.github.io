@@ -1,5 +1,5 @@
 ---
-uuid: e5bb56ee-1f3a-4734-8465-4e47e314a926
+uuid: ed752394-227c-403b-b2e8-e0a7a2708eaf
 title: "Les Cultural Studies et l’école de Birmingham : retour vers le futur"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03758377"
 publisher: "Poli – Politiques des Cultural Studies"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

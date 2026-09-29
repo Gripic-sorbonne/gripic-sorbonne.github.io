@@ -1,5 +1,5 @@
 ---
-uuid: 28face54-8f13-4244-b67c-34da711f2abc
+uuid: 68683282-168b-4a72-b859-8e7c414ca2e2
 title: "Récit médiatique et journalisme narratif"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767241"
 publisher: "Université de Louvain-la-Neuve"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

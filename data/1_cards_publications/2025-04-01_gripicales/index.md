@@ -1,5 +1,5 @@
 ---
-uuid: bea09fc4-e163-4094-99bd-e60fcfcdf8a7
+uuid: a38d772f-ba08-4170-a7a4-923f29a11487
 title: "Gripicales"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605989"
 publisher: "CELSA"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

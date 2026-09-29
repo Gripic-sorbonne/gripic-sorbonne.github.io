@@ -1,5 +1,5 @@
 ---
-uuid: fefc0f5d-e0c3-4153-9dad-7586864de44d
+uuid: 26c747f6-8594-4804-b1dc-31276a2915ed
 title: "IIème Congrès International Bandes Dessinées et Humour Graphique"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750730"
 publisher: "Université de Buenos Aires"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

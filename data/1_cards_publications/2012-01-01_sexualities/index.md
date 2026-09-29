@@ -1,5 +1,5 @@
 ---
-uuid: ebbcc617-697e-462b-bfce-fef2965c5f42
+uuid: c22aaace-a68a-425a-a82f-cb7250f51188
 title: "Sexualities"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758627"
 publisher: "SAGE Publications"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

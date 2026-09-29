@@ -1,5 +1,5 @@
 ---
-uuid: 03769659-1488-4476-bd89-a478261493ab
+uuid: c1ae9ff1-3e8a-4b6b-abf8-3c37bdc93ce8
 title: "Photographie de presse. Régimes de croyance"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03120556"
 publisher: "Academia/L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

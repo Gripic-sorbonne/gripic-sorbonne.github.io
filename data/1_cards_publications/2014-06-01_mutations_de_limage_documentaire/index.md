@@ -1,5 +1,5 @@
 ---
-uuid: 99f1736c-746c-432c-8442-0116c07358bc
+uuid: 8ab3398e-0c57-4264-8b68-fbcd0e3512bb
 title: "Mutations de l’image documentaire"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773311"
 publisher: "Institut national d’histoire de l’art - LabEx CAP Création Art Patrimoine"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

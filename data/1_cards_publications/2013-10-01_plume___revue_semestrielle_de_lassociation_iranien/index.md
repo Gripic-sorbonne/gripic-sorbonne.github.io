@@ -1,5 +1,5 @@
 ---
-uuid: ca0b332a-5720-4aab-864a-0c532a0c7ded
+uuid: 9114d314-793e-4c6d-be54-5f0390269507
 title: "Plume : revue semestrielle de l’Association iranienne de langue et de littérature françaises"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-04168935"
 publisher: "Association iranienne de Langue et Littérature françaises (AILLF)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

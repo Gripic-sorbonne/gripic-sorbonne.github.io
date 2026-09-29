@@ -1,5 +1,5 @@
 ---
-uuid: c5fa0c01-1bfd-4ff7-8b07-4e9c1fb7b4b0
+uuid: ffec93b3-84c5-473d-b800-fd10572f74d3
 title: "La Fabrique de l’autorité. Figures des décideurs en régime médiatique"
 author: "Lisa Bolz, Juliette Charbonneaux, Valerie Jeanne Perrier"
 authors: "Lisa Bolz, Juliette Charbonneaux, Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03966958"
 publisher: "Les Petits matins"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

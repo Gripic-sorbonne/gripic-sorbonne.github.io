@@ -1,5 +1,5 @@
 ---
-uuid: f3d88c6e-1091-4956-b5af-4963f0b5bc52
+uuid: c6b51f35-4dcf-4a0f-974a-814863e5bc99
 title: "troisième congrès des études sur le Moyen-Orient et mondes musulmans"
 author: "Anita SALEH BOLOURDI, Abolhassan Riazi, Ahmad Shakeri"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi, Ahmad Shakeri"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-04168837"
 publisher: "GIS Moyen-Orient et mondes musulmans"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

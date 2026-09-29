@@ -1,5 +1,5 @@
 ---
-uuid: 39979bb8-b8e4-45ed-88e8-59873963638f
+uuid: bcad2b8f-5463-4580-aa1d-e20007473e1e
 title: "Terminal. Technologie de l’information, culture & société"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03749320"
 publisher: "L’Harmattan / CREIS"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

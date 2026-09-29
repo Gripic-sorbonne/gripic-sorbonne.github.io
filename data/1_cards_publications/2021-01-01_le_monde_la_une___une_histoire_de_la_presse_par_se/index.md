@@ -1,5 +1,5 @@
 ---
-uuid: 0f11b99b-5b4a-40d5-8b76-e600f5a22c0b
+uuid: 8dc86160-9fee-4834-92a3-f66ceeb3f720
 title: "Le monde à la une : une histoire de la presse par ses rubriques"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://univ-reims.hal.science/hal-04279690"
 publisher: "Anamosa"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

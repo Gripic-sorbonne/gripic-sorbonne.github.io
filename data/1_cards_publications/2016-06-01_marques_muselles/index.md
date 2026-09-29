@@ -1,5 +1,5 @@
 ---
-uuid: 8ae07723-cd14-4136-81c9-628f5b7732e5
+uuid: 4ed20c67-f817-41de-86e4-1fe7da24011c
 title: "Marques muselles"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754350"
 publisher: "Université Toulouse Capitole"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

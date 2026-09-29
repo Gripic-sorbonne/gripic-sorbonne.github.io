@@ -1,5 +1,5 @@
 ---
-uuid: 70cf92b3-c914-4f3f-bd7a-16cd511bb4fb
+uuid: ed5d9c5b-b0ad-4037-8383-3c903319c976
 title: "Humanités Numériques"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750764"
 publisher: "Université Paris 1, Ecole des Arts de la Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

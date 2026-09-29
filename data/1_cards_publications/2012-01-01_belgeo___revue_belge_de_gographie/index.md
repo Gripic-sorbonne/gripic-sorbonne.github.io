@@ -1,5 +1,5 @@
 ---
-uuid: 4c7dcf03-1bf7-4e60-a256-81ed6943d065
+uuid: 278250ee-33bc-4983-81c5-d90d09295f8f
 title: "Belgeo : Revue Belge de Géographie"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767015"
 publisher: "National Committee of Geography of Belgium, Société Royale Belge de Géographie"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

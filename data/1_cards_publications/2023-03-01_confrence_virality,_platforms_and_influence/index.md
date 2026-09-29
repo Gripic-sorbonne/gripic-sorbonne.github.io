@@ -1,5 +1,5 @@
 ---
-uuid: 83de6009-8179-4715-b209-6269eacca410
+uuid: 2391cf5c-c98a-4d16-9e98-86282cee0a55
 title: "Conférence Virality, platforms and influence"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605969"
 publisher: "C2DH"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

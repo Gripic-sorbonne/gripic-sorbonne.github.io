@@ -1,5 +1,5 @@
 ---
-uuid: 05aca7c5-c942-40d8-9bf7-f6e7f80f92f9
+uuid: 6900a74e-1b7e-4e75-819c-85a73a7b2059
 title: "Internet a aussi changé la mode"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03752941"
 publisher: "Kawa éditions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

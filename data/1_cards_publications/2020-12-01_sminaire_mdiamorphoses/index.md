@@ -1,5 +1,5 @@
 ---
-uuid: 7db7adf3-1249-4069-87ab-6d33ef481a1c
+uuid: ff1cd71e-1185-4835-bdeb-eb960cf26baa
 title: "Séminaire “ Médiamorphoses ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751301"
 publisher: "Groupe de recherches interdisciplinaires sur les processus d’information et de communication"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

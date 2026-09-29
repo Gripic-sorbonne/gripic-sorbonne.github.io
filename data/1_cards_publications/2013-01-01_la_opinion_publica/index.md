@@ -1,5 +1,5 @@
 ---
-uuid: 02045049-dae9-44a5-9419-d38c1cd59b46
+uuid: d1772f1f-f506-4510-92f1-4b51a2c1b33b
 title: "La opinion publica"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03750006"
 publisher: "La Crujia Ediciones"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

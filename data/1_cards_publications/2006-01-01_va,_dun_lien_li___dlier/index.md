@@ -1,5 +1,5 @@
 ---
-uuid: d398ffb1-91c1-4715-b2de-295f4be4cc5c
+uuid: 9ef84a4c-a1e8-43d8-9a12-d56d5804fa6a
 title: "Va, d’un lien lié : délier…"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761091"
 publisher: "Galerie C. Demerliac"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

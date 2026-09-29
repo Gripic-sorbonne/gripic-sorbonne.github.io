@@ -1,5 +1,5 @@
 ---
-uuid: 6ce96553-8e4b-41a2-95b1-a241c4910555
+uuid: a3b1591b-c384-4a5c-bc2e-d97d5e8ff18f
 title: "Les dessous du marketing et de la communication. Cartographie des imaginaires"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03768206"
 publisher: "Editions Ellipses"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

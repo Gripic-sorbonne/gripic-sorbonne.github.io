@@ -1,5 +1,5 @@
 ---
-uuid: 44c19859-6336-4d22-bf5a-e2da8dde1940
+uuid: f712175b-02e9-4795-88ff-3247021657a2
 title: "Séminaire “ Arts, communications, artifices numériques et écosystèmes socio-numériques (Arcanes)"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751297"
 publisher: "(Samuel Szoniecky & Renée Bourassa, coord.), Université de Paris VIII, Université Laval, UQÀM & Université de Montréal"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

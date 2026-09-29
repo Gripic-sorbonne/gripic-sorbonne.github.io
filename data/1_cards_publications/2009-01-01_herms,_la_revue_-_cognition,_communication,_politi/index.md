@@ -1,5 +1,5 @@
 ---
-uuid: 71420fe6-f2f8-4fd7-adc1-f76f5c4cb759
+uuid: b8b821d3-62aa-40d4-bb75-562fbd4ae02d
 title: "Hermès, La Revue - Cognition, communication, politique"
 author: "Oriane Deseilligny, Franck Beau"
 authors: "Oriane Deseilligny, Franck Beau"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750615"
 publisher: "CNRS-Editions"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

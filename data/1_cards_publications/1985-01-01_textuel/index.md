@@ -1,5 +1,5 @@
 ---
-uuid: 3cd32a6b-4f07-45c1-9d94-65d75291817e
+uuid: 5aff41de-9859-4767-94bb-0a913f90a662
 title: "Textuel"
 author: "Emmanuël Souchier, Joanna Pomian"
 authors: "Emmanuël Souchier, Joanna Pomian"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761065"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

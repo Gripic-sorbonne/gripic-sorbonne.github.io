@@ -1,5 +1,5 @@
 ---
-uuid: c3269238-0540-4e1b-abfc-0b5d5bd108a7
+uuid: 1e98f57e-0d8e-4e7f-bdc3-aa6574d71251
 title: "Séminaire ”Traces”, laboratoire Dicen-IDF (Université Paris Nanterre)"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05555967"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

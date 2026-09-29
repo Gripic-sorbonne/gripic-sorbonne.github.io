@@ -1,5 +1,5 @@
 ---
-uuid: 8a64e81d-a2af-4e8f-ac94-ed2acb3e5af8
+uuid: 0d3fefd1-ecb9-423b-968a-a46070fa1663
 title: "Écriture et image : cahiers du CEEI"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03760589"
 publisher: "Centre d’étude de l’écriture et de l’image"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

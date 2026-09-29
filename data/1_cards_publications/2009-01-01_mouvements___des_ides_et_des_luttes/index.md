@@ -1,5 +1,5 @@
 ---
-uuid: 600b8e04-7e50-4505-a3b5-c12c12d3e74c
+uuid: 80127bdd-04d7-4728-a775-ab140a6afbe9
 title: "Mouvements : des idées et des luttes"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03749335"
 publisher: "La découverte"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

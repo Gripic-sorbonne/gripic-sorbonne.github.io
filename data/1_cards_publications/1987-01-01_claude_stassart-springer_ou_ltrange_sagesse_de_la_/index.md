@@ -1,5 +1,5 @@
 ---
-uuid: cd650065-d953-47d8-b262-f444ede2825d
+uuid: 7b46a832-37e4-4b5d-89f0-baf65ad5f5e9
 title: "Claude Stassart-Springer ou l’étrange sagesse de la mort amoureuse"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761110"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

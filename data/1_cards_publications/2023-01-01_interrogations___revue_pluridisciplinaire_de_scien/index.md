@@ -1,5 +1,5 @@
 ---
-uuid: ef7ca1a7-534e-4b0a-9607-64a91864bcc4
+uuid: 60581358-e680-4255-8db0-7dc4b41f5a24
 title: "¿ Interrogations ? Revue pluridisciplinaire de sciences humaines et sociales"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03963872"
 publisher: "Association Interrogations"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

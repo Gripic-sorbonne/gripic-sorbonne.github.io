@@ -1,5 +1,5 @@
 ---
-uuid: be9b2577-b363-4f96-8d4f-4b90e55ac634
+uuid: e775d9c0-b878-4f36-8f81-bc2c41c88d87
 title: "Usages et pratiques de la publicitarisation"
 author: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
 authors: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-04100859"
 publisher: "Eska (Paris, France) [2013, vol. 10, n 1 - ....]"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

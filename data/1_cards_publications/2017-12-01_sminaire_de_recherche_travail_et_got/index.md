@@ -1,5 +1,5 @@
 ---
-uuid: ef88bd05-5090-47d4-9c3b-45c33e776442
+uuid: e17dd38b-56a0-4ec1-bcd4-b27438f6cf13
 title: "Séminaire de recherche “ Travail et goût ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954814"
 publisher: "GRIPIC SORBONNE UNIVERSITE"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

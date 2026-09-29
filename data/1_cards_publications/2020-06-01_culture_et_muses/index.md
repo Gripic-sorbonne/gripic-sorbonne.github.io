@@ -1,5 +1,5 @@
 ---
-uuid: b838f91d-995d-437c-8710-0a4e452334fa
+uuid: c264685c-7212-4ee7-b540-dde779f2a6d5
 title: "Culture et Musées"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03242970"
 publisher: "Avignon Université"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

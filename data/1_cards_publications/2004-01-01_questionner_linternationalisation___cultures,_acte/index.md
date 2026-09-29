@@ -1,5 +1,5 @@
 ---
-uuid: 065b71e6-3807-4e22-8d9b-aae14671a291
+uuid: c6ca5922-fff3-4754-966a-4320109227d0
 title: "Questionner l’internationalisation : cultures, acteurs, organisations, machines : actes du XIVe congrès national des sciences de l’information et de la communication"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03753002"
 publisher: "Université de Montpellier III (campus de Béziers) and SFSIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

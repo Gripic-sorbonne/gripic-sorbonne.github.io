@@ -1,5 +1,5 @@
 ---
-uuid: e3810abb-229d-40c5-a355-2adb18c8229f
+uuid: f83f19b1-3cb2-41ce-aaa9-62fc22219797
 title: "Identité, représentation et reconnaissance culturelle. Le lien social à l’épreuve de la pluriculturalité"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758925"
 publisher: "Groupe Communication et solidarité, Université Blaise Pascal à Clermont Ferrand"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

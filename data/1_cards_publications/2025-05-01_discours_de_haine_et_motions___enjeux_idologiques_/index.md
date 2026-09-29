@@ -1,5 +1,5 @@
 ---
-uuid: 4a6fe945-8b23-48c2-9dcd-a70356c1a2ed
+uuid: 8e0e71b7-ac71-46b4-a623-d5a92168b7a4
 title: "Discours de haine et émotions : enjeux idéologiques et épistémologiques"
 author: "Adélie Laruncet"
 authors: "Adélie Laruncet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05510935"
 publisher: "Groupe DRAINE"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

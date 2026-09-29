@@ -1,5 +1,5 @@
 ---
-uuid: caf956a5-3123-4881-a7d2-b5d87d42c99e
+uuid: e2409491-3450-4ca5-a2c9-82ac4135983c
 title: "Colloque ”Scènes culturelles et performances corporelles”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05426778"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

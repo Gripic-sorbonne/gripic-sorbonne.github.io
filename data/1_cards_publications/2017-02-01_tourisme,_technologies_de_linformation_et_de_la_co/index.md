@@ -1,5 +1,5 @@
 ---
-uuid: b4571f6b-ec1b-48bc-8170-df5ec02b56fc
+uuid: 0188ff16-abd9-4e27-b2e6-4e541b61407a
 title: "Tourisme, technologies de l’information et de la communication (TIC) et politique territoriale"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767076"
 publisher: "Universiapolis - Université Internationale d’Agadir Technopole d’Agadir"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

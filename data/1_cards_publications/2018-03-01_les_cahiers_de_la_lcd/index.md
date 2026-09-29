@@ -1,5 +1,5 @@
 ---
-uuid: 5bc440a2-74d1-433f-bcc7-4a273be7e11d
+uuid: a16494a1-744b-40f9-baa6-9886c4ba304f
 title: "Les Cahiers de la LCD"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767323"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

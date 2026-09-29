@@ -1,5 +1,5 @@
 ---
-uuid: 4136c655-802a-4891-8d0c-1d27596ab3ab
+uuid: bf88069d-94ed-4890-86f7-b9c35f03a1f5
 title: "Le partage photographique : le régime performatif de la photo"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03750790"
 publisher: "Nec Plus"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

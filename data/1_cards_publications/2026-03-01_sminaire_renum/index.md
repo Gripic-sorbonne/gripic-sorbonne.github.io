@@ -1,5 +1,5 @@
 ---
-uuid: e752335d-c0da-457d-8202-ae17de1884e8
+uuid: 4eedf033-d982-4146-84a5-5929ca4ca787
 title: "Séminaire RENUM"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606012"
 publisher: "DICEN"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

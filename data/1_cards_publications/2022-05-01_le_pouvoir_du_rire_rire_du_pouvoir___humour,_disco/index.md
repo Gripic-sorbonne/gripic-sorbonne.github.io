@@ -1,5 +1,5 @@
 ---
-uuid: 6184718d-febe-4ec2-95cc-df96f8e36607
+uuid: dbd3a68b-1192-4142-a799-b4bef0ea979a
 title: "Le pouvoir du rire – Rire du pouvoir : humour, discours et politique"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964073"
 publisher: "Université de Craiova and INALCO and Université Louis Lumière Lyon 2"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

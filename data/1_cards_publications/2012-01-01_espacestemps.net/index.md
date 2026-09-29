@@ -1,5 +1,5 @@
 ---
-uuid: dbc8c726-cc40-4b84-a9a6-c5c097d9c53e
+uuid: 9f7253aa-9c72-46a0-85ee-baab53d1777c
 title: "EspacesTemps.net"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03767016"
 publisher: "Association Espaces Temps.net"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

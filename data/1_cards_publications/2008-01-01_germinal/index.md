@@ -1,5 +1,5 @@
 ---
-uuid: 61c0c483-53b7-4aba-8989-9b05ffa01146
+uuid: 854864be-6a50-4b01-834b-0f521cee488c
 title: "Germinal"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03767154"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

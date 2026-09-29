@@ -1,5 +1,5 @@
 ---
-uuid: c82cd34e-ccfa-43db-95ea-48a0141f7358
+uuid: 0c4d2b4a-e7c7-439b-9708-b970ee6b7622
 title: "Le Journal des psychologues"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750613"
 publisher: "Martin Media."
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

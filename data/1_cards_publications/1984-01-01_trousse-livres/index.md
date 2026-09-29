@@ -1,5 +1,5 @@
 ---
-uuid: fa52e5d4-6b2d-4233-a698-5fdfd7bebd0b
+uuid: cd67d7b8-f60a-46ae-a173-9ff4e65b49df
 title: "Trousse-Livres"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03761066"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: f079c3b9-3469-4e14-a1ca-7fd640cda547
+uuid: 35f7ff44-bfa0-4924-ab97-d03623c51550
 title: "Volume ! La revue des musiques populaires"
 author: "Jonathan Sterne, Jedediah Sklower, Guillaume Heuguet"
 authors: "Jonathan Sterne, Jedediah Sklower, Guillaume Heuguet"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-02185964"
 publisher: "Editions Mélanie Seteun"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

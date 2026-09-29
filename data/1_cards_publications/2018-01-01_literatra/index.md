@@ -1,5 +1,5 @@
 ---
-uuid: b3a9868c-fe11-42a4-a0ea-3a907e17ffe4
+uuid: b1ecf775-a387-490f-b622-2446d509f43c
 title: "Literatūra"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03721233"
 publisher: "Vilnius University Press"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

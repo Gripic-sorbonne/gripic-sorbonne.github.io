@@ -1,5 +1,5 @@
 ---
-uuid: 104c6826-5ef4-461b-932c-caa04859bf15
+uuid: fbb99c5c-1264-44ba-820b-155b6e392af3
 title: "Les chantiers de la création"
 author: "Inès Garmon"
 authors: "Inès Garmon"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03772704"
 publisher: "Aix-en-Provence : Université d’Aix-Marseille"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

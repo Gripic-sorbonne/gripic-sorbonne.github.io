@@ -1,5 +1,5 @@
 ---
-uuid: f20d8617-0c59-467f-97ee-ebbbf70ddd18
+uuid: d9ea2d5f-2b28-42c1-8995-262a61374281
 title: "Terrestres"
 author: "Igor Babou, Joëlle Le Marec"
 authors: "Igor Babou, Joëlle Le Marec"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://shs.hal.science/halshs-02286045"
 publisher: "Terrestres"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

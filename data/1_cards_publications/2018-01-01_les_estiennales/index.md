@@ -1,5 +1,5 @@
 ---
-uuid: 3be6f4b4-f0fc-4c3c-9b4d-663a7511cec1
+uuid: 9264b0e3-fa5c-4cd1-8513-79f5bc18c261
 title: "Les Estiennales"
 author: "Emmanuelle Fantin, Camille Zéhenne"
 authors: "Emmanuelle Fantin, Camille Zéhenne"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964092"
 publisher: "Ecole Estienne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 21ec57b0-c358-4dd6-9e0e-748c4aac3cb2
+uuid: ad792c3b-e54b-42ef-bde4-fbe813d33606
 title: "Revue de l’Organisation Responsable"
 author: "Marie-Julie Catoir-Brisson, Odile Vallée, Évelyne Broudoux, Valérie Billaudeau"
 authors: "Marie-Julie Catoir-Brisson, Odile Vallée, Évelyne Broudoux, Valérie Billaudeau"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-05236567"
 publisher: "ESKA"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

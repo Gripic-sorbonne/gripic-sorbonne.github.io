@@ -1,5 +1,5 @@
 ---
-uuid: e7fb9d99-1248-4a52-a7d7-17e75ff2ffe7
+uuid: 6b13fa4b-f525-485d-a1e7-a31880e0ea4e
 title: "Les modèles pour le journalisme et la communication"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03752989"
 publisher: "Université de Bucarest"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

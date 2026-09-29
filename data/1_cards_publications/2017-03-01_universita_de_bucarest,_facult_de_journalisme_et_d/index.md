@@ -1,5 +1,5 @@
 ---
-uuid: cddd529f-c13b-4fa2-b348-2cf0620318a0
+uuid: 119b19d6-1755-49be-b408-43f389c5ebbd
 title: "Universitéa de Bucarest, Faculté de Journalisme et d’études de Communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03768244"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

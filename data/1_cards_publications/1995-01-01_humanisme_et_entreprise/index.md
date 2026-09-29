@@ -1,5 +1,5 @@
 ---
-uuid: 6bd6eda5-1329-4e7d-aac9-0661e7dd1f32
+uuid: 67d90fa2-d5d9-48f4-b46e-d9dd19c46175
 title: "Humanisme et entreprise"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03754534"
 publisher: "A.A.E.L.S.H.U.P"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 2c3eb813-4452-475e-9127-491176d283b4
+uuid: b07bfb4e-7aa8-456d-b935-4311e04f5bc5
 title: "Jean Baudrillard, l’intelligence du temps qui vient"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964090"
 publisher: "Centre culturel de Cerisy-la-Salle"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

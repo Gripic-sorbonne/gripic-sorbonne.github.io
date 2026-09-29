@@ -1,5 +1,5 @@
 ---
-uuid: 138558e9-6f0d-4cfc-b0d6-d86de41add85
+uuid: 6ae624f6-72bf-40a9-9fe8-e08c2063429b
 title: "Politiques et Management public"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03754523"
 publisher: "Institut de management public"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

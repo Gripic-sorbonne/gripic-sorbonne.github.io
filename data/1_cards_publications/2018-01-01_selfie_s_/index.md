@@ -1,5 +1,5 @@
 ---
-uuid: f0963536-5c0c-48a8-91cf-af7e68e9aa79
+uuid: 5de78cf8-617d-4181-8a08-dd0dbbc6909e
 title: "Selfie(s)"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03750801"
 publisher: "Editions Hermann"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

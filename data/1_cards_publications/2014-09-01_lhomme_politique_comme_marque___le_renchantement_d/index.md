@@ -1,5 +1,5 @@
 ---
-uuid: ec00d3de-9a73-43d4-bc52-91c01b861b75
+uuid: 5f1d55a0-3615-4195-9238-253a7f67fb18
 title: "L’homme politique comme marque : Le réenchantement du politique par la consommation : Propriétés communicationnelles et socio-sémiotiques des marques politiques"
 author: "Nicolas Baygert"
 authors: "Nicolas Baygert"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04267937"
 publisher: "Université Paris-Sorbonne - Paris IV ; Université catholique de Louvain (1970-....)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

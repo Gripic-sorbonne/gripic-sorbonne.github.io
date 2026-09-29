@@ -1,5 +1,5 @@
 ---
-uuid: 66802b09-1742-4b89-a27b-002171ecbe1c
+uuid: 9fe18708-a192-4958-8982-eb9292379b92
 title: "Les Cultural Studies dans les mondes francophones. Précisions et imprécisions, conceptualisations"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03750846"
 publisher: "Editions Lamacs"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

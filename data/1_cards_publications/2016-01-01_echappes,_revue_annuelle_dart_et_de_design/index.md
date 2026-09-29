@@ -1,5 +1,5 @@
 ---
-uuid: 9c79b146-2bb7-42de-83ec-9179d4e1ed64
+uuid: 93e388dc-135b-4420-9cd5-88b5828e742c
 title: "Echappées, Revue annuelle d’art et de design"
 author: "Emmanuël Souchier, Amélie Lassere, Mélissa Malo, Louise Rigaux, Camille Belloc, Céline Blancou"
 authors: "Emmanuël Souchier, Amélie Lassere, Mélissa Malo, Louise Rigaux, Camille Belloc, Céline Blancou"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03760624"
 publisher: "ESA Pyrénées éditions - Ecole supérieure d’art des Pyrénées"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

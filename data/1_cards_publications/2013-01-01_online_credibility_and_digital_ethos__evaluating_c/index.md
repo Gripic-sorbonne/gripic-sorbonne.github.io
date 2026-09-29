@@ -1,5 +1,5 @@
 ---
-uuid: 396519f6-b54e-4927-a911-f9769def72f5
+uuid: f18f7758-0564-4b4a-8038-f9fadd558cef
 title: "Online Credibility and Digital Ethos: Evaluating Computer-Mediated Communication"
 author: "François Allard-Huver, Nicholas Gilewicz"
 authors: "François Allard-Huver, Nicholas Gilewicz"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-02092105"
 publisher: "IGI Global"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

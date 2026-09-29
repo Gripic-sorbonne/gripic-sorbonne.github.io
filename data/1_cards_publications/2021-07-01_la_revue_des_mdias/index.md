@@ -1,5 +1,5 @@
 ---
-uuid: a66fcd05-a95f-4ee8-9713-dc93e2840c00
+uuid: f49e857b-b7f9-43e0-92ab-ed93e48b254a
 title: "La revue des médias"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280547"
 publisher: "Ina - Institut national de l’audiovisuel"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

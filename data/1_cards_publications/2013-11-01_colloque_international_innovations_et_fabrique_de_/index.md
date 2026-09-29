@@ -1,5 +1,5 @@
 ---
-uuid: 4360f79c-cb7c-4758-ad2e-3ee9f47282db
+uuid: 0d0821f9-b9c7-4f67-8b4b-a320da1511ae
 title: "colloque international Innovations et fabrique de l’identité métropolitaine (sciences politiques)"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754572"
 publisher: "Mairie de Paris"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

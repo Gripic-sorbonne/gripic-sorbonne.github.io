@@ -1,5 +1,5 @@
 ---
-uuid: 7e413833-645d-4411-9eb3-19b56c0bc8cd
+uuid: 1a15d801-f233-47c1-bddf-da14fd2efd06
 title: "Glissée au tranchant de la vie, l’âme marouflée obéit..."
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761106"
 publisher: "Galerie L’Entrepôt"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

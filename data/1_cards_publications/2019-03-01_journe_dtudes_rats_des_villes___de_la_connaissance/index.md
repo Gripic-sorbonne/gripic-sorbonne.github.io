@@ -1,5 +1,5 @@
 ---
-uuid: d621f027-d62b-4e9c-b2f2-110547832c0d
+uuid: 1a82b082-6933-42a3-931f-4b882e44e622
 title: "Journée d’études “ Rats des villes : de la connaissance à la gestion ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160331"
 publisher: "Muséum National d’histoire Naturelle"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

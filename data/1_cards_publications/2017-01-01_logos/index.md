@@ -1,5 +1,5 @@
 ---
-uuid: ea64f259-3b5e-40be-9ad2-bba2c835b491
+uuid: 8f01344b-7667-42ba-8cc0-64f80df91ec8
 title: "LOGOS"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03773571"
 publisher: "Brill Academic Publishers"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

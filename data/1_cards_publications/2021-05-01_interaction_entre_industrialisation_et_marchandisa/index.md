@@ -1,5 +1,5 @@
 ---
-uuid: 865209ac-d833-48ca-a209-0791d26bbfec
+uuid: 57b52627-83be-44f7-8655-bf75e6ef116c
 title: "Interaction entre industrialisation et marchandisation des réseaux socionumériques et transformation des dispositifs médiatiques : le cas de WeChat"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://theses.hal.science/tel-03350904"
 publisher: "Sorbonne Université"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

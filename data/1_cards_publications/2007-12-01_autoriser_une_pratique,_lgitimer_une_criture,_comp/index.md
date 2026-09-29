@@ -1,5 +1,5 @@
 ---
-uuid: c4b7647d-fdd9-4ac7-89d4-9ad9bd11ca5e
+uuid: 1afc1e6f-ff90-4bd8-8da6-0c491b88ab8e
 title: "Autoriser une pratique, légitimer une écriture, composer une culture : les conditions de possibilité d’une critique littéraire participative sur Internet. Etude éditoriale de six sites amateurs."
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,8 +9,11 @@ type: "thesis"
 url: "https://hal.science/tel-02519177"
 publisher: "Celsa - Université Paris Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

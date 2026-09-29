@@ -1,5 +1,5 @@
 ---
-uuid: 16f35604-2e30-4d8d-bef7-a17c193fd878
+uuid: f0dc0134-fb86-40ee-b7ed-3c56ee14a852
 title: "Diogène : Revue internationale des sciences humaines"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758569"
 publisher: "Presses universitaires de France"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

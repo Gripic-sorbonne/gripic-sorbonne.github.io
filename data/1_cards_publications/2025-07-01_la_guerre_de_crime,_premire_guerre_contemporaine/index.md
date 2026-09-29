@@ -1,5 +1,5 @@
 ---
-uuid: 0d3a8ee1-e841-44e4-8c52-eda2d747402b
+uuid: bef05784-2ade-4d41-8e39-02ef3aa441db
 title: "La guerre de Crimée, première guerre contemporaine"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-05121518"
 publisher: "Classiques Garnier"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

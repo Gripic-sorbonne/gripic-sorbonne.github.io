@@ -1,5 +1,5 @@
 ---
-uuid: 7f966896-093f-4ba5-86ac-535f39feac8f
+uuid: 45ae9155-81fa-434b-9c0d-1ab46e6b2204
 title: "Colloque “ Numérisation généralisée de la société. Acteurs, pratiques, discours, enjeux ”"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03768243"
 publisher: "UQAM, Cricis, Montréal"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

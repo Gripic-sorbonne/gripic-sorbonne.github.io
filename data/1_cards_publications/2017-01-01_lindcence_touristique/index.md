@@ -1,5 +1,5 @@
 ---
-uuid: 37fdc90e-5e77-4440-90e5-823a2e396194
+uuid: c311705e-342a-44e0-8598-7416c6424f58
 title: "L’Indécence touristique"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03766962"
 publisher: "L’Harmattan"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: b4beb66d-90e5-497b-880b-162937c04b1f
+uuid: 738ed29f-697c-4c07-9af7-99b52268451e
 title: "Colloque “ Histoire, mémoire et nostalgie. Représentations littéraires et culturelles ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160333"
 publisher: "Université de Vilnius"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

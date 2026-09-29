@@ -1,5 +1,5 @@
 ---
-uuid: 38b3cd4f-f694-4424-a821-af58ca383390
+uuid: 96d581be-4294-41c1-a580-e7bb1e2e14eb
 title: "Genre, sexualité & société"
 author: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
 authors: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03758737"
 publisher: "Ecole des Hautes Etudes en Sciences Sociales"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

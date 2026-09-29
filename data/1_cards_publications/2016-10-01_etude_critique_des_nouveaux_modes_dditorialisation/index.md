@@ -1,5 +1,5 @@
 ---
-uuid: 4233c3dd-1c6b-441b-84af-ef4aee209737
+uuid: 6aca2af8-6a40-40ee-aad3-54fcef8dbeb4
 title: "Etude critique des nouveaux modes “ d’éditorialisation ” de revues scientifiques en accès-ouvert"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"
@@ -9,8 +9,11 @@ type: "report"
 url: "https://hal.science/hal-01388556"
 publisher: "Bibliothèque Scientifique Numérique"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

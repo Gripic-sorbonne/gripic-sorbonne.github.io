@@ -1,5 +1,5 @@
 ---
-uuid: 6bfb1226-c4e8-4d9c-a299-e5062bbe4ec3
+uuid: bd645abe-da46-4285-b598-a0259d074c4c
 title: "3 Grands Formats à Vézelay"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03761108"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

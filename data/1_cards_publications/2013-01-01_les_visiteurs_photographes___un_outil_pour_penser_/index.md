@@ -1,5 +1,5 @@
 ---
-uuid: 6d21ba91-ec77-477e-9134-c040d34b7e36
+uuid: 50ff7ee9-9f37-49d8-9443-3b362f47de08
 title: "Les Visiteurs photographes : un outil pour penser le musée"
 author: "hecate vergopoulos, Michaël Bourgatte"
 authors: "hecate vergopoulos, Michaël Bourgatte"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://hal.science/hal-03766974"
 publisher: "La Documentation française"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: 754cd52b-0d64-4af5-a1d4-ff523b260ea4
+uuid: a421c475-9c40-4770-be6a-4f8e1a6e1837
 title: "De l’observation au texte. Du texte à la culture. Deux parcours de la sémiotique ?"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767109"
 publisher: "Université de Tallinn"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

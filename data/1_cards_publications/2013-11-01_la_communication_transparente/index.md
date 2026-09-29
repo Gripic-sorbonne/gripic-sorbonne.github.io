@@ -1,5 +1,5 @@
 ---
-uuid: c565ffdb-d4f8-4208-be62-63a746ec6477
+uuid: 9612cd00-8f4f-44b4-9b02-8b93927ccb70
 title: "La Communication Transparente"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-02094695"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

@@ -1,5 +1,5 @@
 ---
-uuid: cb6b67f8-8f25-4ab1-8bda-096836d97d4a
+uuid: 5013ba17-65d8-49e2-af47-7f13bb7a3c0e
 title: "Le Français Aujourd’hui"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03760613"
 publisher: "Armand Colin ; Association française des professeurs de français"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

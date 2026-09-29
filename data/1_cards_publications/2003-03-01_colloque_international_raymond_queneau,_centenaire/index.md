@@ -1,5 +1,5 @@
 ---
-uuid: 311677ba-24de-441b-a76c-043b8a5d0a8f
+uuid: 939f36cb-bf34-4523-9447-5b15071cd765
 title: "Colloque international Raymond Queneau, Centenaire de la naissance de Raymond Queneau, Le mystère des origines"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03760914"
 publisher: "Université du Havre and Université Paris iii"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

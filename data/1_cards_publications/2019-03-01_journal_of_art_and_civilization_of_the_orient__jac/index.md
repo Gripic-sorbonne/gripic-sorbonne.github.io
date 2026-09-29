@@ -1,5 +1,5 @@
 ---
-uuid: ef08fe2b-69d0-4cd4-b45f-b17153de440e
+uuid: 823b8d0b-cef2-47e7-9fa3-6ec354f307fa
 title: "Journal of Art and Civilization of the Orient (JACO)"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-04164851"
 publisher: "Nazar Research Center for Arts, Architecture and Urbanism (NRC)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

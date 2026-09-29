@@ -1,5 +1,5 @@
 ---
-uuid: 22499293-0150-4509-b49d-5d5dfef8ca28
+uuid: 07c8fff4-1d59-4bb7-beaa-192d3eda5f89
 title: "La démocratie à l’épreuve de la société numérique"
 author: "Etienne Candel, Valérie Jeanne-Perrier"
 authors: "Etienne Candel, Valérie Jeanne-Perrier"
@@ -9,8 +9,11 @@ type: "chapter"
 url: "https://shs.hal.science/halshs-01709094"
 publisher: "Karthala"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

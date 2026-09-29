@@ -1,5 +1,5 @@
 ---
-uuid: ea178372-704c-401f-ad0f-38eee532d85d
+uuid: 6e7c288a-e9a3-4a6e-9e96-30ad1c2ef1e6
 title: "Journée d’études du séminaire de recherche “ Cultures de l’enquête ”"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03766897"
 publisher: "Celsa"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

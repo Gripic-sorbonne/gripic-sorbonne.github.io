@@ -1,5 +1,5 @@
 ---
-uuid: b3f5ae5b-897b-4db8-a375-783982b59bd1
+uuid: 314b0168-ccb0-49f8-9642-617e6a997583
 title: "Suppression des comptes de Trump : on est à un point de bascule"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03750863"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

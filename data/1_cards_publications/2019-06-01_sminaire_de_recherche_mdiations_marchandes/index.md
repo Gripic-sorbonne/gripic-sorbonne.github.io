@@ -1,5 +1,5 @@
 ---
-uuid: 9023a6d5-5444-454b-b2f2-c97ad8d7a37c
+uuid: 8b0d8f06-a923-4d2d-b916-99f70e64935b
 title: "Séminaire de recherche “ Médiations marchandes ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954797"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

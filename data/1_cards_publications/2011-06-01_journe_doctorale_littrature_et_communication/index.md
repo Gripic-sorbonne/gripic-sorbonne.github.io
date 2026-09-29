@@ -1,5 +1,5 @@
 ---
-uuid: ef68b0b3-c39e-4a86-a817-fcc69ee6a557
+uuid: 984f5157-c218-4d2d-b950-666eab30ee2f
 title: "Journée doctorale “ Littérature et communication ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773528"
 publisher: "RIRRA 21 (Université Montpellier 3) and GRIPIC (CELSA, Sorbonne Université)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

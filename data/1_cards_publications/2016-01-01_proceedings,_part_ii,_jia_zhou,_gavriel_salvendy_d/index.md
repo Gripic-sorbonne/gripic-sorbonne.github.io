@@ -1,5 +1,5 @@
 ---
-uuid: 613b4857-7560-4416-be56-bd1de5c06c14
+uuid: f5d2cb19-05a7-42fa-8877-1fd552fabef4
 title: "Proceedings, Part II, Jia Zhou, Gavriel Salvendy Dir., Springer"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.sorbonne-universite.fr/hal-02150269"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

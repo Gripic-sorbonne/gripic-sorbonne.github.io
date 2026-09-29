@@ -1,5 +1,5 @@
 ---
-uuid: ca0ea5dd-675f-4f94-baa1-d8cc96d459e4
+uuid: f6852ef7-2877-4d0e-9a05-b8222bef8fb5
 title: "Les femmes et le vin"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-05083165"
 publisher: "Doctorales de la SFSIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

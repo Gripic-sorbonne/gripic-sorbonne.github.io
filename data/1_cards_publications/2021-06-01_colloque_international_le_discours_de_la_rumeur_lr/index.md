@@ -1,5 +1,5 @@
 ---
-uuid: 7e1d7f5b-a258-4091-853c-b859d475480a
+uuid: b914b4d4-edee-4a4d-a89c-42a7f952eae7
 title: "Colloque international ”Le discours de la rumeur à l’ère numerique”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751276"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

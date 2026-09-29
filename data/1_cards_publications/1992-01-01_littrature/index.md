@@ -1,5 +1,5 @@
 ---
-uuid: a45cce6c-1321-43e9-a828-7dd1eccaadff
+uuid: 10d135be-ab68-4c62-8369-11f05eab7e15
 title: "Littérature"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03760959"
 publisher: "Armand Colin"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

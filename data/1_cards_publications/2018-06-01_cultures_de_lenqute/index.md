@@ -1,5 +1,5 @@
 ---
-uuid: 313c97b3-7d0e-4905-bcd4-fbb47e192467
+uuid: 4a2b6f11-2de4-404a-aac9-1e95f74e2981
 title: "Cultures de l’enquête"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750769"
 publisher: "Celsa Paris-Sorbonne"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

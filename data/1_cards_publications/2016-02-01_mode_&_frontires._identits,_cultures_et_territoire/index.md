@@ -1,5 +1,5 @@
 ---
-uuid: 00c3b073-a455-4d1c-8138-016f50b1f436
+uuid: 51467574-1850-44ef-a791-7105e0744ec3
 title: "Mode & frontières. Identités, cultures et territoires"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749939"
 publisher: "Université de la Mode, Université Lumière Lyon 2"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

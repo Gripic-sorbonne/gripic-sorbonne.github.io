@@ -1,5 +1,5 @@
 ---
-uuid: 1cbab2fe-daf8-4cc1-9ca7-99a8ef843bf5
+uuid: d43f63b6-9109-4c92-85d1-da243ac24d0a
 title: "Rapports sociaux et hégémonie. Conflictualités dans les espaces publics (2)"
 author: "Marion Dalibert, Aurélia Lamy, Nelly Quemener"
 authors: "Marion Dalibert, Aurélia Lamy, Nelly Quemener"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-01612809"
 publisher: "Université de Lille"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

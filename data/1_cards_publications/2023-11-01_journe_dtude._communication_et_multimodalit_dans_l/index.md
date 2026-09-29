@@ -1,5 +1,5 @@
 ---
-uuid: 641ca102-c524-4f4a-8df3-b47e591101c8
+uuid: 50e09225-1bb6-46b4-996c-d6fe9b30f0ff
 title: "Journée d’étude. Communication et multimodalité dans l’action professionnelle"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://institut-agro-dijon.hal.science/hal-04281470"
 publisher: "FoAP l Cnam and LabEx Hastec"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

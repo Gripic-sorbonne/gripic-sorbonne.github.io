@@ -1,5 +1,5 @@
 ---
-uuid: ee3a5a7f-24a2-459a-b98f-a88c93098575
+uuid: 817c3bbf-cb68-4f6e-acd8-2aa2ff44870c
 title: "Îl-E"
 author: "Emmanuël Souchier, Christian Stassart-Springer"
 authors: "Emmanuël Souchier, Christian Stassart-Springer"
@@ -9,8 +9,11 @@ type: "book"
 url: "https://hal.science/hal-03760407"
 publisher: "Éd. de la Goulotte"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

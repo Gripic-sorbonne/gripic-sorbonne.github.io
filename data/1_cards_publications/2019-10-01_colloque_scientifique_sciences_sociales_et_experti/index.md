@@ -1,5 +1,5 @@
 ---
-uuid: 7bc84142-9ee3-416f-a35e-259fac0eac3b
+uuid: 7c1b58f2-6f85-4133-bfcf-2e947270bbaa
 title: "Colloque scientifique ”Sciences sociales et expertises dans les mondes sociaux et politiques contemporains” - Sciences Po Rennes"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://hal.science/hal-03730477"
 publisher: ""
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

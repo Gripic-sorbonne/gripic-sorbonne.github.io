@@ -1,5 +1,5 @@
 ---
-uuid: d2ff7cea-f939-43be-b725-9a9d7505e574
+uuid: a1ace13f-ab19-4559-a45c-0b69d83d4cd0
 title: "Les “ substituts numériques ” : questionner la médiatisation des expositions de musée à l’écran"
 author: "Sébastien Appiotti, Lise Renaud"
 authors: "Sébastien Appiotti, Lise Renaud"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-05454351"
 publisher: "Gresec UGA"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

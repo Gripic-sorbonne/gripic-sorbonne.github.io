@@ -1,5 +1,5 @@
 ---
-uuid: 3fa738cc-4965-4c58-af0c-c52ce9cf66b8
+uuid: f80ff2e6-defa-4e78-9c36-04e696fd8fc8
 title: "Quaderni"
 author: "Zoé Théval"
 authors: "Zoé Théval"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.sorbonne-universite.fr/hal-05555983"
 publisher: "Éditions de la Maison des Sciences de l’Homme"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

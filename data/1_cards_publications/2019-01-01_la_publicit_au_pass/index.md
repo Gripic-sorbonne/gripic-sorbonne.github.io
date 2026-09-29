@@ -1,5 +1,5 @@
 ---
-uuid: 631460c7-26bb-4a4f-8508-4a4475be8c14
+uuid: 8bc7d04d-36c9-46f3-bfdb-b1ab633b8609
 title: "La publicité au passé"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,8 +9,11 @@ type: ""
 url: "https://hal.science/hal-03964045"
 publisher: "OCIM"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

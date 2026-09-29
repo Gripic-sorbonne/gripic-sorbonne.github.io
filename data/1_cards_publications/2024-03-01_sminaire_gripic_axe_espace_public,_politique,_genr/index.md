@@ -1,5 +1,5 @@
 ---
-uuid: a9ddeccf-f32d-4bd7-9bc6-24e548e45278
+uuid: 918fd387-bf8f-4124-85d3-f5c3c1881eb9
 title: "Séminaire GRIPIC axe “ Espace public, politique, genre ”"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,8 +9,11 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-04699430"
 publisher: "LABORATOIRE GRIPIC"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

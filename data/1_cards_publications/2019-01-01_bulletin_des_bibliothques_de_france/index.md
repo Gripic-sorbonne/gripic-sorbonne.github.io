@@ -1,5 +1,5 @@
 ---
-uuid: c094356b-a367-4199-a0ce-2d6f1d722636
+uuid: e6e4b9e7-e5f8-4634-b7be-1f729b35b42c
 title: "Bulletin des Bibliothèques de France"
 author: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
 authors: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://hal.science/hal-03835109"
 publisher: "École Nationale Supérieure des Sciences de l’Information et des Bibliothèques (ENSSIB)"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 

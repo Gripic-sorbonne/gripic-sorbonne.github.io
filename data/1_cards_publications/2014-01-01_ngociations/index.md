@@ -1,5 +1,5 @@
 ---
-uuid: f83e6fa9-d946-4da1-884f-c5cc2afae45b
+uuid: 81fbfde0-f53c-4de6-9f6f-1220b6360c18
 title: "Négociations"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"
@@ -9,8 +9,11 @@ type: "article-journal"
 url: "https://archivesic.ccsd.cnrs.fr/sic_01222973"
 publisher: "De Boeck Supérieur"
 container_title: ""
+image: "no_img.webp"
 publication: true
 ---
+
+<img src="./no_img.webp" width="300px" />
 
 ## Informations sur la publication
 
