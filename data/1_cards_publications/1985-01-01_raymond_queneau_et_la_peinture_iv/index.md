@@ -1,5 +1,5 @@
 ---
-uuid: 0d9d218c-4a36-4237-9985-c5baeff3245d
+uuid: a1653b7a-0295-49a5-973f-05579c213ba7
 title: "Raymond Queneau et la peinture iv"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

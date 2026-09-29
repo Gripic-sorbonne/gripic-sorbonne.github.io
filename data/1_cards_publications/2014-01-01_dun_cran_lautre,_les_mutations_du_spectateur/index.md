@@ -1,5 +1,5 @@
 ---
-uuid: c9dc45d0-808a-4abb-8771-afcb991a90c7
+uuid: 7c081ab0-8b6c-49d5-8252-e85a75a977bf
 title: "D’un écran à l’autre, les mutations du spectateur"
 author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"

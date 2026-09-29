@@ -1,5 +1,5 @@
 ---
-uuid: e594cc05-5aa7-4f0a-818c-4364fa5653ba
+uuid: fbc1b210-ba0f-4833-85c7-9418e99f1970
 title: "Habiter la BnF"
 author: "Joëlle Le Marec, Judith Dehail"
 authors: "Joëlle Le Marec, Judith Dehail"

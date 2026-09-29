@@ -1,5 +1,5 @@
 ---
-uuid: 612634eb-3d43-48b0-a9fc-dfa6dc00812b
+uuid: 514d951d-da68-4744-8c87-6a018d60616b
 title: "Colloque ”Discours de réaction : répertoires nationaux et transnationaux”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"

@@ -1,5 +1,5 @@
 ---
-uuid: 0985dc60-17a8-4556-91ae-3f6ca041e9dc
+uuid: 8d646071-3771-4214-aa20-bb0497df60ec
 title: "Les médiations de l’écrivain. Les conditions de la création littéraire"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

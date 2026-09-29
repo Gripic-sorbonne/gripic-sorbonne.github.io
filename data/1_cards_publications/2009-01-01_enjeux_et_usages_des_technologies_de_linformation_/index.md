@@ -1,5 +1,5 @@
 ---
-uuid: 731a5627-27e6-4207-a34a-15c1dd2712d7
+uuid: dcc768ae-7e07-442e-ae8e-5c2182fdb9a7
 title: "Enjeux et Usages des Technologies de l’Information et de la Communication"
 author: "Karine Berthelot-Guiet, Caroline Marti"
 authors: "Karine Berthelot-Guiet, Caroline Marti"

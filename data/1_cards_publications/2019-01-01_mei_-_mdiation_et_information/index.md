@@ -1,5 +1,5 @@
 ---
-uuid: 83ba1523-a058-453c-8997-aa9d89311335
+uuid: 3bd93d03-69c3-4849-92fc-078b0fee1215
 title: "MEI - Médiation et information"
 author: "Pauline Escande"
 authors: "Pauline Escande"

@@ -1,5 +1,5 @@
 ---
-uuid: c3a38e97-b787-45a8-a063-f946201804ce
+uuid: 15daa03b-cfce-4f42-b674-70731b7690cb
 title: "Comunicação e Sociedade"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

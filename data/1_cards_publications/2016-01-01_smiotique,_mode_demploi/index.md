@@ -1,5 +1,5 @@
 ---
-uuid: 8467534e-64ee-484b-afce-7c4866d7764b
+uuid: 427145c5-50f8-49c5-a86a-ba709c18ef45
 title: "Sémiotique, mode d’emploi"
 author: "Adeline Wrona, Emmanuël Souchier"
 authors: "Adeline Wrona, Emmanuël Souchier"

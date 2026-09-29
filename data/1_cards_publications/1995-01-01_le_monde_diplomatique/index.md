@@ -1,5 +1,5 @@
 ---
-uuid: 63b2e1cb-0767-4347-b7b4-0cea2d7516ad
+uuid: bb707ad3-2ac2-4d39-ae90-26f4b53a4b70
 title: "Le Monde Diplomatique"
 author: "Yves Jeanneret, Emmanuël Souchier"
 authors: "Yves Jeanneret, Emmanuël Souchier"

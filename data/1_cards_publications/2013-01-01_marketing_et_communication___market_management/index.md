@@ -1,5 +1,5 @@
 ---
-uuid: 2b13da42-8ba8-4fb6-ba0f-f49cde65fc95
+uuid: 27e8c2d6-a714-484f-8f7a-af35a97294ce
 title: "Marketing et Communication / Market management"
 author: "Caroline Montety"
 authors: "Caroline Montety"

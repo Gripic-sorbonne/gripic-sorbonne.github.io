@@ -1,5 +1,5 @@
 ---
-uuid: e2cb3967-952f-471f-8a5f-8760f532f80f
+uuid: a465110d-703e-4ac5-a66c-9542f3152ae8
 title: "Journée d’étude autour des humanités numériques"
 author: "Clara Bordier"
 authors: "Clara Bordier"

@@ -1,5 +1,5 @@
 ---
-uuid: cc20029d-8095-4a61-80fb-3d9e32a0b566
+uuid: 1f53d6ca-efbd-41d1-8ad2-03b67c334520
 title: "OBVIL Observatoire de la vie littéraire"
 author: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
 authors: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"

@@ -1,5 +1,5 @@
 ---
-uuid: 90b9ab3d-bda4-41fa-9e5e-4fb78f7ef724
+uuid: c0b789a1-85d1-476d-bcf3-74327b0679fe
 title: "Sémiotique mode d’emploi : le cas Allociné"
 author: "Pauline Escande, Karine Berthelot-Guiet, Jean-Jacques Boutaud"
 authors: "Pauline Escande, Karine Berthelot-Guiet, Jean-Jacques Boutaud"

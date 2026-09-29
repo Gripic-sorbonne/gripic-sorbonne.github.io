@@ -1,5 +1,5 @@
 ---
-uuid: 308e26f2-73fe-4b51-b8ba-b9c1d2bb373c
+uuid: 96eee47a-a6db-4f82-a730-693d0113cb45
 title: "Humanistica 2024"
 author: "Édouard Bouté, Virginie Julliard, Félix Alié, David Gödicke, Fred Pailler, Victor Ecrement"
 authors: "Édouard Bouté, Virginie Julliard, Félix Alié, David Gödicke, Fred Pailler, Victor Ecrement"

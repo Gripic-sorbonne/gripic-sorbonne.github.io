@@ -1,5 +1,5 @@
 ---
-uuid: 2c622ed8-ab7e-4d79-aa2b-b8a5350553ee
+uuid: d58f5cdd-e079-421f-a5e2-597c924ee723
 title: "Sciences, savoirs et sociétés. XXIIe congrès international des sociologues de langue française"
 author: "Coline Reille"
 authors: "Coline Reille"

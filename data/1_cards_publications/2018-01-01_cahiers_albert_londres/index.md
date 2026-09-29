@@ -1,5 +1,5 @@
 ---
-uuid: 5e2bb106-f858-4b05-8c5d-d10e89bf80ef
+uuid: 724256af-0f8f-444d-8d4a-74b3ba370ccd
 title: "cahiers Albert Londres"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

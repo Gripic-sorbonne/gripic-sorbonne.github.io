@@ -1,5 +1,5 @@
 ---
-uuid: a87c024a-d29a-4ab8-95c3-ead8996ca874
+uuid: 0d1f6a52-1590-43a4-9ff4-6d576bf71984
 title: "YouTube ou la liberté d’expression sous contraintes. Contenus vidéo, individus connectés et acteurs économiques sur une plateforme numérique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

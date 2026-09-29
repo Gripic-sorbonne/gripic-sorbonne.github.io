@@ -1,5 +1,5 @@
 ---
-uuid: 7f1f7830-0439-45ee-8493-91192f316253
+uuid: c719b9b3-fdce-4786-a772-b88e78324a82
 title: "PATRIMOINES ET LABELLISATION"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

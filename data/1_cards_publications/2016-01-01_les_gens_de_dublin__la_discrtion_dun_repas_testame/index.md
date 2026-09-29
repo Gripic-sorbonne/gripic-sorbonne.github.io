@@ -1,5 +1,5 @@
 ---
-uuid: d0527021-9ae4-4761-8576-adc913f613c0
+uuid: b6c3298e-e6f8-4449-8caf-e986ea68d36b
 title: "Les gens de Dublin: la discrétion d’un repas testament"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

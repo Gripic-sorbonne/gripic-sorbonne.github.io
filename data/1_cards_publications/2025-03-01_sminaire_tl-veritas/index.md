@@ -1,5 +1,5 @@
 ---
-uuid: ded20710-078e-454c-954f-2f4690577979
+uuid: 346ec6f4-682d-48e6-9f4d-c0f582870f8b
 title: "Séminaire Télé-Veritas"
 author: "Thibault Grison"
 authors: "Thibault Grison"

@@ -1,5 +1,5 @@
 ---
-uuid: 81bbf0b7-f785-413a-809b-3718fbbd415f
+uuid: 0e554a56-8044-43b0-a1b4-5afff70526c4
 title: "Le corpus à l’œuvre"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
