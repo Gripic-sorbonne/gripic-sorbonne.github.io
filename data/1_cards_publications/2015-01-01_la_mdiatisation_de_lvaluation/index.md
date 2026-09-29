@@ -1,5 +1,5 @@
 ---
-uuid: eb49f427-5fae-4acd-bc56-d02d5035042b
+uuid: b69355c6-7c07-43c9-a534-7e9b111410bf
 title: "La médiatisation de l’évaluation"
 author: "Camille Rondot"
 authors: "Camille Rondot"

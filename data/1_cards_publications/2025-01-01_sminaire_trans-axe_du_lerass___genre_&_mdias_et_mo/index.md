@@ -1,5 +1,5 @@
 ---
-uuid: 40d00a6f-98a9-4a6a-ae73-8097f4e6c0c5
+uuid: 6e564242-f9fa-4391-b2a3-63f8527b310b
 title: "Séminaire Trans-axe du LERASS : Genre & Médias et Mondes cultures, expériences, numérique (MOCEN)"
 author: "Thibault Grison"
 authors: "Thibault Grison"

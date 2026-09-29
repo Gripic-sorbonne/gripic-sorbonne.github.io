@@ -1,5 +1,5 @@
 ---
-uuid: efecc481-d83b-4709-99f6-dda9fb85ce1f
+uuid: e5bb56ee-1f3a-4734-8465-4e47e314a926
 title: "Les Cultural Studies et l’école de Birmingham : retour vers le futur"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"

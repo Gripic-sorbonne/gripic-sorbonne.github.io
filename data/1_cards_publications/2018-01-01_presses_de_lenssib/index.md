@@ -1,5 +1,5 @@
 ---
-uuid: f5f57131-ea3e-4285-bad0-7d48cc6ab4f2
+uuid: 7fd63a15-9308-470c-b1ae-868c074d4807
 title: "Presses de l’ENSSIB"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

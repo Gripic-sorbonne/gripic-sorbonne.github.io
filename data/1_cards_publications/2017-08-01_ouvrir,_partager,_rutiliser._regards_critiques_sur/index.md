@@ -1,5 +1,5 @@
 ---
-uuid: 1ebe65cf-0c86-4f97-8a7c-4580ad9348c9
+uuid: 603aa16b-5c01-4ddb-b941-6edda3800a66
 title: "Ouvrir, partager, réutiliser. Regards critiques sur les données numériques"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

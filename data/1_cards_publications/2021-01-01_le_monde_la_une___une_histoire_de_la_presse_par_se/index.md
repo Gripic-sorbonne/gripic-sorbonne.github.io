@@ -1,5 +1,5 @@
 ---
-uuid: 732f1fc7-3a67-4bf0-a7f4-8560b3e3624d
+uuid: 0f11b99b-5b4a-40d5-8b76-e600f5a22c0b
 title: "Le monde à la une : une histoire de la presse par ses rubriques"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

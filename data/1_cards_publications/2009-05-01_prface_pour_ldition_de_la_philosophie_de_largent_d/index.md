@@ -1,5 +1,5 @@
 ---
-uuid: 386ff943-f562-42f6-b907-478bdace9c65
+uuid: ce60fab3-e3df-4fd1-b9ef-3f74a5ab6250
 title: "Préface pour l’édition de La Philosophie de l’argent de Georg Simmel"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

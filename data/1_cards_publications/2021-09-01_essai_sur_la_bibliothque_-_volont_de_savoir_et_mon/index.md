@@ -1,5 +1,5 @@
 ---
-uuid: 20b145a9-7a50-4011-98e2-03b18456c0a9
+uuid: 0f93a8dc-e109-48e5-892a-858335f7dd85
 title: "Essai sur la bibliothèque - volonté de savoir et monde commun"
 author: "Joëlle Le Marec"
 authors: "Joëlle Le Marec"

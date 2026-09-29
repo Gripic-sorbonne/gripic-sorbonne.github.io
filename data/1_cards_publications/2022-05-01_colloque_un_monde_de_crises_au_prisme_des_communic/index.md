@@ -1,5 +1,5 @@
 ---
-uuid: 9e8b4b58-6139-4938-b7cc-3b0352a6d0e0
+uuid: 7881d729-218d-4c78-aef4-86bd5b7d6677
 title: "Colloque Un monde de crises au prisme des communications organisationnelles"
 author: "François Allard-Huver, Françoise Bernard, Andrea Catellani, Catherine Loneux, Nicole Almeida, Céline Pascual Espuny"
 authors: "François Allard-Huver, Françoise Bernard, Andrea Catellani, Catherine Loneux, Nicole Almeida, Céline Pascual Espuny"
