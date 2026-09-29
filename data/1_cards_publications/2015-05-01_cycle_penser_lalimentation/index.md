@@ -1,5 +1,5 @@
 ---
-uuid: bd79d4db-37b6-495e-a6c8-c2bd52643c85
+uuid: 8ef5dfdb-12fa-42fc-b749-ee7f4902f977
 title: "cycle Penser l’alimentation"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

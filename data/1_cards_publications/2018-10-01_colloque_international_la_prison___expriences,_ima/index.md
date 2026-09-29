@@ -1,5 +1,5 @@
 ---
-uuid: 28efefa5-6f60-44bd-ac64-51bdc97329ec
+uuid: 050e9821-63c9-4339-bd09-b6e24a5a49e9
 title: "Colloque international “ La Prison : expériences, imaginaires et créations ”"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

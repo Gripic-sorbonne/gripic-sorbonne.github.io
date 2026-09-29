@@ -1,5 +1,5 @@
 ---
-uuid: d24c0525-9eca-483d-a81b-f76c490fbf84
+uuid: 8385677b-1799-466a-b18b-9f56250c730b
 title: "Le manuel des médias"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

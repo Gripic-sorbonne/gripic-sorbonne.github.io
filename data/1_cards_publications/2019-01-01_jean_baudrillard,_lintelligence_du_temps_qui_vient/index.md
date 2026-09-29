@@ -1,5 +1,5 @@
 ---
-uuid: b9779302-8158-4866-9fb1-3e64318b0f75
+uuid: dc5c6d9f-0fe3-4d02-9d29-00cb2ed0b7dd
 title: "Jean Baudrillard, l’intelligence du temps qui vient"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

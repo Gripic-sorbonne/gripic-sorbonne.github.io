@@ -1,5 +1,5 @@
 ---
-uuid: 4ffbc374-9c49-452e-910f-5a45a891a533
+uuid: 65e25cbb-39cf-4106-8732-37ad38563350
 title: "Séminaire Obcas"
 author: "Pauline Escande"
 authors: "Pauline Escande"

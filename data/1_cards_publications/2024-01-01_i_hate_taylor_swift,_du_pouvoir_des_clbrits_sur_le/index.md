@@ -1,5 +1,5 @@
 ---
-uuid: ef25e413-bc58-4f07-8388-f1a14ab56281
+uuid: d22b876a-ddb3-4c93-8c2d-ae2f72be6029
 title: "“ I Hate Taylor Swift ,” du pouvoir des célébrités sur le choix des urnes"
 author: "Camille Rondot, Brigitte Sebbah"
 authors: "Camille Rondot, Brigitte Sebbah"

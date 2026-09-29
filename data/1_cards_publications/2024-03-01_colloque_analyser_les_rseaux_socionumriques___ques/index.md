@@ -1,5 +1,5 @@
 ---
-uuid: c95304a0-37e4-4a17-9dbb-aa08fbb136c2
+uuid: c4cd9f58-74ff-4c0e-83a3-f34bb1add04c
 title: "Colloque Analyser les réseaux socionumériques : questionner les méthodes"
 author: "Édouard Bouté, Virginie Julliard"
 authors: "Édouard Bouté, Virginie Julliard"

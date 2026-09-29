@@ -1,5 +1,5 @@
 ---
-uuid: 618ec15b-d4c4-49b9-8f6e-92bc0d38d5e3
+uuid: f9fe64d5-043f-4322-a34a-e050ba3ea1d1
 title: "¿ Interrogations ? Revue pluridisciplinaire de sciences humaines et sociales"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

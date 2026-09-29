@@ -1,5 +1,5 @@
 ---
-uuid: 92ef63dc-b4ce-4526-89d0-6d9306a6c15b
+uuid: 65e406ac-1c7f-47df-a561-6e283600c299
 title: "Études de communication publique"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"

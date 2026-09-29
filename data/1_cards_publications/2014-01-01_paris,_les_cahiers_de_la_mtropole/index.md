@@ -1,5 +1,5 @@
 ---
-uuid: f7728b39-5ebf-4a6a-b7eb-33fab195dcff
+uuid: 831ab345-7dc1-42a0-8cd4-e95834d2471a
 title: "Paris, les cahiers de la métropole"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

@@ -1,5 +1,5 @@
 ---
-uuid: be26be20-f5c8-41cc-b6b3-8cb30347649f
+uuid: 4c89a6c6-4f18-4e83-9d1d-84f2686b1c4b
 title: "Le ratage : quand l’expérience culturelle est contrariée"
 author: "Hécate Vergopoulos, Camille Jutant"
 authors: "Hécate Vergopoulos, Camille Jutant"

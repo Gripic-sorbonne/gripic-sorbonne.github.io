@@ -1,5 +1,5 @@
 ---
-uuid: a337de2e-5e89-4e4b-a605-b4ccfd2cd459
+uuid: 49da3339-ab63-4b4f-be5d-8939f73ca67e
 title: "Cahiers du Genre"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"
