@@ -1,9 +1,9 @@
 ---
-uuid: 03cbae9b-ed48-47af-8adc-4f559d928af3
+uuid: c2ac4b01-9133-47f0-9682-d1c596b468bb
 prettyName: TaliaOlveraMartínez
 
-title: Talia Olvera Martínez
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Talia Olvera Martínez"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

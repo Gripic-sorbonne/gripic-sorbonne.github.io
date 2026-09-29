@@ -1,9 +1,9 @@
 ---
-uuid: 879b0cd5-1ad4-441b-840b-c3a074803a06
+uuid: f1802bd8-a30c-4305-941a-75899f714b95
 prettyName: PascalineFaure
 
-title: Pascaline Faure
-abstract: Maître de Conférences HDR | Membre permanent en enseignement et recherche
+title: "Pascaline Faure"
+abstract: "Maître de Conférences HDR | Membre permanent en enseignement et recherche"
 ---
 
 ![small](pascaline_faure.webp)

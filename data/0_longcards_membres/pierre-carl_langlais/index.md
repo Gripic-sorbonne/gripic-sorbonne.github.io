@@ -1,9 +1,9 @@
 ---
-uuid: 110f8369-948d-4dd5-8df4-21d2a93fcf00
+uuid: 400e93f5-cc9e-4e04-b13c-1f00e486a627
 prettyName: PierreCarlLanglais
 
-title: Pierre-Carl Langlais
-abstract: Chercheur | Membre associé
+title: "Pierre-Carl Langlais"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 5a2e6038-72c4-479c-b634-65dc56922cb5
+uuid: f17b4085-f755-4a15-9b0c-93f1d75161cc
 prettyName: ZoéThéval
 
-title: Zoé Théval
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Zoé Théval"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

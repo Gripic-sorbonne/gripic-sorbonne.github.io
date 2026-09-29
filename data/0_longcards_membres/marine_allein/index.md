@@ -1,9 +1,9 @@
 ---
-uuid: 36eac5fb-9752-4a57-aefe-5d2543fa727e
+uuid: fd8c62ac-acfb-4c11-94e9-b01440b32fe2
 prettyName: MarineAllein
 
-title: Marine Allein
-abstract: Chercheuse | Membre associé
+title: "Marine Allein"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](marine_allein.webp)

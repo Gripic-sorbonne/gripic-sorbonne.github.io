@@ -1,9 +1,9 @@
 ---
-uuid: 1d18743d-6dcf-4fc3-aebe-8b87d7516100
+uuid: aad74f7a-9eec-4184-b38b-e61b4e003b6c
 prettyName: IrèneGimenez
 
-title: Irène Gimenez
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Irène Gimenez"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

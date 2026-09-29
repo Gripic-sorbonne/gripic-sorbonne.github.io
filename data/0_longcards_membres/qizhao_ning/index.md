@@ -1,9 +1,9 @@
 ---
-uuid: 5c0ccb71-b9c0-4ba3-afa1-a35ff1b5afdf
+uuid: c7d24783-210d-43fe-8a93-445cec022da2
 prettyName: QizhaoNING
 
-title: Qizhao NING
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Qizhao NING"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

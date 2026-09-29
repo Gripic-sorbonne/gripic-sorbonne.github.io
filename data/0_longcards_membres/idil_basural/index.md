@@ -1,9 +1,9 @@
 ---
-uuid: e635daf9-0ded-4fac-bafc-acd963e7a0e8
+uuid: 83758c15-20fd-4785-81d3-3bd9d2c770bc
 prettyName: IdilBasural
 
-title: Idil Basural
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Idil Basural"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: c4b31266-5b10-4273-8cbb-7d2a6cbed28f
+uuid: 110b77de-f3e0-4d2d-b560-ef07d1e0a39c
 prettyName: JérémyLucasBoursier
 
-title: Jérémy Lucas-Boursier
-abstract: Chercheur | Membre associé
+title: "Jérémy Lucas-Boursier"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

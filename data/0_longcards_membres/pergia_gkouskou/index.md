@@ -1,9 +1,9 @@
 ---
-uuid: 85dcde51-348f-4c13-9237-e7ea5f6d2470
+uuid: 04d9afdc-9edf-4c60-bfec-82ca6dbe94dd
 prettyName: PergiaGkouskou
 
-title: Pergia Gkouskou
-abstract: Maitresse de conférences | Membre associé
+title: "Pergia Gkouskou"
+abstract: "Maitresse de conférences | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 4fe9a1f4-6e38-4ef8-bdeb-1c4bea2afccc
+uuid: a2ba8b71-18e8-4373-bf8e-069f80ed5d46
 prettyName: JunghwanLee
 
-title: Junghwan Lee
-abstract: Chercheuse | Membre associé
+title: "Junghwan Lee"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

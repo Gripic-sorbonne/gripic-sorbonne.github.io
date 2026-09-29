@@ -1,9 +1,9 @@
 ---
-uuid: 1ac28436-5d9d-4612-9a32-d5d7226993d4
+uuid: 31525075-d05b-4c55-ba3c-43a9cd67cf0b
 prettyName: SophieBonnaudLeRoux
 
-title: Sophie Bonnaud-Le Roux
-abstract: Docteure | Membre associé
+title: "Sophie Bonnaud-Le Roux"
+abstract: "Docteure | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

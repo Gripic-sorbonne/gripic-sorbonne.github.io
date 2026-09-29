@@ -1,9 +1,9 @@
 ---
-uuid: 4005df17-b768-4a7a-9c71-1f2e8da52aa1
+uuid: bec5577e-bbd9-4e44-baf4-358398a755b1
 prettyName: EnthéaMalfondet
 
-title: Enthéa Malfondet
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Enthéa Malfondet"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

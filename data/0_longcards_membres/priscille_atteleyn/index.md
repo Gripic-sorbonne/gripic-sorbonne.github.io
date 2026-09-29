@@ -1,9 +1,9 @@
 ---
-uuid: ba48b573-a757-4d64-98a0-27df1a49fb00
+uuid: 34aa44bc-1019-49b5-88c0-91b9f5d9c26a
 prettyName: PriscilleAtteleyn
 
-title: Priscille Atteleyn
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Priscille Atteleyn"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](priscille_atteleyn.webp)

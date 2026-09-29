@@ -1,9 +1,9 @@
 ---
-uuid: c75220cb-2171-4aa5-919d-88404e5c97ef
+uuid: 1f182f00-1fbd-49e3-91b4-32380a27960d
 prettyName: ClaudiaMarson
 
-title: Claudia Marson
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Claudia Marson"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

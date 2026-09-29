@@ -1,0 +1,18 @@
+---
+uuid: 9b25d925-092c-4d3b-9fbc-4582f36694ba
+title: "L. Laref, M. Laref (dir.), Surveillance, Colloque des 6 et 7 avril 2023, organisé à la Faculté de droit de l’UCLille. Colloque organisé dans le cadre d’un projet de recherche INES, en partenariat avec les éditions Dalloz, les revues AJ Pénal Dalloz et Dalloz iP/iT, le Ministère de la Justice-Ecole Nationale d’Administration Pénitentiaire, le Centre Interdisciplinaire de Recherche Appliquée au champ Pénitentiaire (CIRAP), l’Institut des Hautes Etudes du Ministère de l’Intérieur (IHEMI) et avec le soutien du Centre de Recherche sur les Relations entre les Risques et le Droit (C3RD), l’UCLille, la Fondation de la catho, la région Haut-de-France. 35 intervenants."
+authors: "Michaël Laref, Laure Laref, Olivier Aïm, David Forest, Didier Bigo, Olivier Tesquet, Jérôme Lasserre Capdeville, Roxana Family, Pierre-Alain Clément, Pauline Le Monnier De Gouville, Myriam Quéméner, Catherine Giraud-Bonnet, Emilie Caron, Camille Alloing, Delphine Pollet-Panoussis, Marc Rees, Yann Bruna, Philippe Sanegon, Bernard Bossu, Franck Ludwiczak, Nadia Beddiar, André Ferragne, Guillaume Brie, Anaïs Tschanz, Olivier Razac, Ioannis Panoussis, Franck Renucci, Patrick Perrot, Séverine Arsène, Caroline Lequesne, Jean-Gabriel Ganascia, Jean-Pierre Marguénaud, Mustapha Mekki, Florent Castagnino, Philippe Collet, Mehdi Kébir, Tony Ferri, Laure Laref, Michaël Laref, Olivier Aïm, David Forest, Didier Bigo, Olivier Tesquet, Jérôme Lasserre Capdeville, Roxana Family, Pierre-Alain Clément, Pauline Le Monnier De Gouville, Myriam Quéméner, Catherine Giraud-Bonnet, Emilie Caron, Camille Alloing, Delphine Pollet-Panoussis, Marc Rees, Philippe Sanegon, Bernard Bossu, Franck Ludwiczak, Nadia Beddiar, André Ferragne, Guillaume Brie, Anaïs Tschanz, Olivier Razac, Ioannis Panoussis, Franck Renucci, Patrick Perrot, Séverine Arsène, Caroline Lequesne Roth, Jean-Pierre Marguénaud, Mustapha Mekki, Philippe Collet, Mehdi Kébir, Tony Ferri"
+date: "2023-04-01"
+type: "paper-conference"
+url: "https://hal.science/hal-04349488"
+publisher: ""
+container_title: ""
+publication: true
+---
+
+**Auteurs:** Michaël Laref, Laure Laref, Olivier Aïm, David Forest, Didier Bigo, Olivier Tesquet, Jérôme Lasserre Capdeville, Roxana Family, Pierre-Alain Clément, Pauline Le Monnier De Gouville, Myriam Quéméner, Catherine Giraud-Bonnet, Emilie Caron, Camille Alloing, Delphine Pollet-Panoussis, Marc Rees, Yann Bruna, Philippe Sanegon, Bernard Bossu, Franck Ludwiczak, Nadia Beddiar, André Ferragne, Guillaume Brie, Anaïs Tschanz, Olivier Razac, Ioannis Panoussis, Franck Renucci, Patrick Perrot, Séverine Arsène, Caroline Lequesne, Jean-Gabriel Ganascia, Jean-Pierre Marguénaud, Mustapha Mekki, Florent Castagnino, Philippe Collet, Mehdi Kébir, Tony Ferri, Laure Laref, Michaël Laref, Olivier Aïm, David Forest, Didier Bigo, Olivier Tesquet, Jérôme Lasserre Capdeville, Roxana Family, Pierre-Alain Clément, Pauline Le Monnier De Gouville, Myriam Quéméner, Catherine Giraud-Bonnet, Emilie Caron, Camille Alloing, Delphine Pollet-Panoussis, Marc Rees, Philippe Sanegon, Bernard Bossu, Franck Ludwiczak, Nadia Beddiar, André Ferragne, Guillaume Brie, Anaïs Tschanz, Olivier Razac, Ioannis Panoussis, Franck Renucci, Patrick Perrot, Séverine Arsène, Caroline Lequesne Roth, Jean-Pierre Marguénaud, Mustapha Mekki, Philippe Collet, Mehdi Kébir, Tony Ferri
+
+**Type de publication:** paper-conference
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-04349488](https://hal.science/hal-04349488)
+

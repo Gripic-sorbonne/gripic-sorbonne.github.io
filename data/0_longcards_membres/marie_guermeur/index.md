@@ -1,9 +1,9 @@
 ---
-uuid: 1e9c2262-6142-441e-9f0c-3cb1533911ee
+uuid: 19b79190-8e56-4399-9941-c70037c2e520
 prettyName: MarieGuermeur
 
-title: Marie Guermeur
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Marie Guermeur"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](marie_guermeur.webp)

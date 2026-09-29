@@ -1,9 +1,9 @@
 ---
-uuid: 0f91dc7b-7a19-4130-9919-7667cf9e3cc6
+uuid: 66e9b33a-fb8e-4a56-b242-4f83f71a0b0b
 prettyName: DanielLatif
 
-title: Daniel Latif
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Daniel Latif"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: d8dce773-ebad-40b5-9a88-c54e717d1a92
+uuid: 18e8dd10-9cbb-4490-bfd7-3500b2b7d475
 prettyName: FaoudaMaroub
 
-title: Faouda Maroub
-abstract: Chercheuse | Membre associé
+title: "Faouda Maroub"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

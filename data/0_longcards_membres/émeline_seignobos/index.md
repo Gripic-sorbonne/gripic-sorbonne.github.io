@@ -1,9 +1,9 @@
 ---
-uuid: 9975da64-38d5-47d1-ade5-88034818ce9e
+uuid: 1bf93f33-ee45-484d-b0d2-710650a98a38
 prettyName: ÉmelineSeignobos
 
-title: Émeline Seignobos
-abstract: Chercheuse | Membre associé
+title: "Émeline Seignobos"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 09005b6a-c38d-4805-94d1-71e90bc76558
+uuid: 517faf82-fd15-411b-837b-9fbda230277c
 prettyName: LisaBolz
 
-title: Lisa Bolz
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Lisa Bolz"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](lisa_bolz.webp)

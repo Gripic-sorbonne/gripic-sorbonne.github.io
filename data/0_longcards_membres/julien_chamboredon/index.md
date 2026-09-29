@@ -1,9 +1,9 @@
 ---
-uuid: 35b04275-7034-4a30-9a3a-ed123513a9f2
+uuid: 92c707a8-23b1-4d9a-88b4-bb6a04ee02dd
 prettyName: JulienChamboredon
 
-title: Julien Chamboredon
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Julien Chamboredon"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 87abd7e2-8f72-4bb2-90d9-def6a34b3e7e
+uuid: b79e51da-d707-4c17-ba4a-6eee5a571c29
 prettyName: CarolineMarti
 
-title: Caroline Marti
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Caroline Marti"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](caroline_marti.webp)

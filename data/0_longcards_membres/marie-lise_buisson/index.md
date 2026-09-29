@@ -1,9 +1,9 @@
 ---
-uuid: 67a8d671-4f97-48ec-9537-1e0cbfb57bed
+uuid: 2abc3643-e2aa-4dc3-a975-9e20b75e01a5
 prettyName: MarieLiseBuisson
 
-title: Marie-Lise Buisson
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Marie-Lise Buisson"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](marie_lise_buisson.webp)

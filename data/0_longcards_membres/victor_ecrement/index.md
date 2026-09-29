@@ -1,9 +1,9 @@
 ---
-uuid: 52c4b41c-002d-49cb-b899-fffc93c4f912
+uuid: 95d2deb9-fcea-4ba6-9889-8e684fa05864
 prettyName: VictorEcrement
 
-title: Victor Ecrement
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Victor Ecrement"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

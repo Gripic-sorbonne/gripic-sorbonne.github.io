@@ -1,9 +1,9 @@
 ---
-uuid: 888d5504-5d21-4855-9c0c-f52e840314d3
+uuid: afd6fa62-0b08-40db-a002-a002616f6887
 prettyName: PierreYvesHalin
 
-title: Pierre-Yves Halin
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Pierre-Yves Halin"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 ![small](pierre_yves_halin.webp)

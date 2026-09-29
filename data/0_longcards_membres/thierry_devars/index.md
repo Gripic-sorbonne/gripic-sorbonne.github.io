@@ -1,9 +1,9 @@
 ---
-uuid: 59b39200-434e-4d9a-b490-e65c4b976d2c
+uuid: 3ca5d9a5-db43-491f-b271-381308cbcf1b
 prettyName: ThierryDevars
 
-title: Thierry Devars
-abstract: Maitre de conférences | Membre permanent en enseignement et recherche
+title: "Thierry Devars"
+abstract: "Maitre de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](thierry_devars.webp)

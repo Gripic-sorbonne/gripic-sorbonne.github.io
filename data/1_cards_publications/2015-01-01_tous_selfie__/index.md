@@ -1,14 +1,20 @@
 ---
-uuid: 373498ed-9c69-43e2-82a8-bb0cb61d1ef7
+uuid: 920bfb9a-cbaa-4d76-96f4-74136c90c95c
 title: "Tous selfie ?"
 authors: "Pauline Escande"
 date: "2015-01-01"
 type: "book"
 url: "https://hal.science/hal-03750797"
+publisher: "Editions François Bourin"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Pauline Escande
 
- Editions François Bourin
+**Type de publication:** book
+
+**Éditeur:** Editions François Bourin
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750797](https://hal.science/hal-03750797)
 

@@ -1,10 +1,16 @@
 ---
-uuid: fa92ee63-de2f-4c64-a45d-9233b1bf18e2
+uuid: 4178fc80-8243-410a-8c86-a17f8a4ddd86
 title: "Des rives aux écrans"
 authors: "Emmanuël Souchier"
 date: "2016-01-01"
 type: ""
 url: "https://hal.science/hal-03761077"
+publisher: ""
+container_title: ""
 publication: true
 ---
+
+**Auteurs:** Emmanuël Souchier
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761077](https://hal.science/hal-03761077)
 

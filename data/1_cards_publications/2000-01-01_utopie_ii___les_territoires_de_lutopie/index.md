@@ -1,14 +1,18 @@
 ---
-uuid: 9cabf8fb-4a43-4673-ad0c-936e4bbefa5c
+uuid: 1c7a6daf-3cb5-4c06-9901-b025696b27ab
 title: "Utopie II : les Territoires de l’Utopie"
 authors: "Dominique Pagès"
 date: "2000-01-01"
 type: ""
 url: "https://hal.science/hal-03754384"
+publisher: "Éditions de la Maison des sciences de l’homme"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Dominique Pagès
 
- Éditions de la Maison des sciences de l’homme
+**Éditeur:** Éditions de la Maison des sciences de l’homme
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754384](https://hal.science/hal-03754384)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 00cdc686-ecc5-4b45-b503-b521bf1109f8
+uuid: 39b14171-7033-4b60-96bf-cb5bb55c0313
 prettyName: FlorianMalaterre
 
-title: Florian Malaterre
-abstract: Maitre de conférences | Membre associé
+title: "Florian Malaterre"
+abstract: "Maitre de conférences | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

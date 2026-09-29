@@ -1,9 +1,9 @@
 ---
-uuid: 1267c777-da00-4ea8-a971-49fbec5d7de0
+uuid: 292923d7-b6f3-437f-8bb7-6cabbfca55b6
 prettyName: GuillaumeHeuguet
 
-title: Guillaume Heuguet
-abstract: Chercheur | Membre associé
+title: "Guillaume Heuguet"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

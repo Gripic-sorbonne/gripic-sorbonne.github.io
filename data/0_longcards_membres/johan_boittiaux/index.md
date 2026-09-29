@@ -1,9 +1,9 @@
 ---
-uuid: d501d951-9c19-45b3-a9dc-c827574e91b1
+uuid: 74323c3c-f996-4a00-a1e1-ffcf11078d5c
 prettyName: JohanBoittiaux
 
-title: Johan Boittiaux
-abstract: Chercheur | Membre associé
+title: "Johan Boittiaux"
+abstract: "Chercheur | Membre associé"
 ---
 
 ![small](johan_boittiaux.webp)

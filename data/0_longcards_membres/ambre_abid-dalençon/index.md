@@ -1,9 +1,9 @@
 ---
-uuid: ccb0f61a-d55d-4a48-8947-ef764b82235a
+uuid: b9e004ff-1251-4628-bed2-3935075c66cf
 prettyName: AmbreAbidDalençon
 
-title: Ambre Abid-Dalençon
-abstract: Chercheuse | Membre associé
+title: "Ambre Abid-Dalençon"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](ambre_abid_dalencon.webp)

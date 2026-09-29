@@ -1,9 +1,9 @@
 ---
-uuid: d8d37c11-68dd-4142-b937-eb04163fcc9c
+uuid: f6b9d100-1ac5-4c12-99e5-abab81999416
 prettyName: SuzannePenin
 
-title: Suzanne Penin
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Suzanne Penin"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

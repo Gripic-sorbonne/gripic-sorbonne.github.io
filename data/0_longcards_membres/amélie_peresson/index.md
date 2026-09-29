@@ -1,9 +1,9 @@
 ---
-uuid: a6aec316-2bf5-4154-a5e5-1f5932a02721
+uuid: cd7c6c3c-5e7b-4b5e-b857-dc88d100ce06
 prettyName: AméliePeresson
 
-title: Amélie Peresson
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Amélie Peresson"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](amelie_peresson.webp)

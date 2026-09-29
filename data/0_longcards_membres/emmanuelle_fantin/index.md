@@ -1,9 +1,9 @@
 ---
-uuid: 336bc271-140e-4cce-bc80-7c1e3f9b93ae
+uuid: a722a9a2-2f2e-4e38-b0b8-e9abf96c299f
 prettyName: EmmanuelleFantin
 
-title: Emmanuelle Fantin
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Emmanuelle Fantin"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](emmanuelle_fantin.webp)

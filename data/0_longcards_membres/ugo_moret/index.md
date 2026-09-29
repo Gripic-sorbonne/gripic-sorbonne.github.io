@@ -1,9 +1,9 @@
 ---
-uuid: cfd2cd63-35ef-4cac-8ae1-b66f22212d60
+uuid: 1b5bb65d-379b-4590-84f6-49ac15477eab
 prettyName: UgoMoret
 
-title: Ugo Moret
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Ugo Moret"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

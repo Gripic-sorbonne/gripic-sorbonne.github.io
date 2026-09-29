@@ -1,9 +1,9 @@
 ---
-uuid: 6c0826bd-cb77-4c71-9941-4f4238c38170
+uuid: a24f36ef-a052-46bb-9bae-36ed66908fdd
 prettyName: YoussefEnnahi
 
-title: Youssef Ennahi
-abstract: Chercheur | Membre associé
+title: "Youssef Ennahi"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

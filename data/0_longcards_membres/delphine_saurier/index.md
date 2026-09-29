@@ -1,9 +1,9 @@
 ---
-uuid: 2f8d68aa-c564-4472-8ed6-9c828ea156f1
+uuid: 4f39c8d6-4d24-4e93-8857-f3df145c68dc
 prettyName: DelphineSaurier
 
-title: Delphine Saurier
-abstract: Chercheuse | Membre associé
+title: "Delphine Saurier"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

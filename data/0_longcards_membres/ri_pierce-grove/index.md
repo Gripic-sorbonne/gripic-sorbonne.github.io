@@ -1,9 +1,9 @@
 ---
-uuid: 4d10320c-36d0-441b-ad43-4d925dd02990
+uuid: 94167d40-df1f-41fe-9c54-bfaf3934923d
 prettyName: RiPierceGrove
 
-title: Ri Pierce-Grove
-abstract: Chercheuse | Membre associé
+title: "Ri Pierce-Grove"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

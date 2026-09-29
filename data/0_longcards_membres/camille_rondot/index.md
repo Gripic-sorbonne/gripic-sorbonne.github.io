@@ -1,9 +1,9 @@
 ---
-uuid: 72baad8a-0c18-41cd-9b75-a7ea29cd90ad
+uuid: b8b19bb3-7c35-4158-a15c-63a2dc50c230
 prettyName: CamilleRondot
 
-title: Camille Rondot
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Camille Rondot"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](camille_rondot.webp)

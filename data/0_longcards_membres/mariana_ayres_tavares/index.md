@@ -1,9 +1,9 @@
 ---
-uuid: 1cbeb929-fb4e-4ab8-ab9e-66ab1c3a4c72
+uuid: 2b5865e6-33bf-433a-9437-a9a9d36f0df7
 prettyName: MarianaAyresTavares
 
-title: Mariana Ayres Tavares
-abstract: Chercheuse | Membre associé
+title: "Mariana Ayres Tavares"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

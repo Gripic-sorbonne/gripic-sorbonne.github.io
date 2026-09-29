@@ -1,14 +1,18 @@
 ---
-uuid: 2a468745-f77e-4ea9-ab9e-17d7c66dcd13
+uuid: 0e0a8dea-0475-4b34-b9dd-073220ffe7de
 title: "Le lieu du design: l’exposition Impressions 3 D à la rencontre des nouvelles pratiques culinaires"
 authors: "Dominique Pagès"
 date: "2016-01-01"
 type: ""
 url: "https://hal.science/hal-03754441"
+publisher: "ISCC- CNRS"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Dominique Pagès
 
- ISCC- CNRS
+**Éditeur:** ISCC- CNRS
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754441](https://hal.science/hal-03754441)
 

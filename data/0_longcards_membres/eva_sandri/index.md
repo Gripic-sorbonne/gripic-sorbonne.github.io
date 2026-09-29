@@ -1,9 +1,9 @@
 ---
-uuid: 796f42db-e55b-4dc2-8d0d-3a80f2fc1442
+uuid: b3b0e4a8-9438-4a23-8fc6-bc6a77f9b343
 prettyName: EvaSandri
 
-title: Eva Sandri
-abstract: Chercheuse | Membre associé
+title: "Eva Sandri"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

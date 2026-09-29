@@ -1,9 +1,9 @@
 ---
-uuid: 209ba920-aad9-4302-a5e1-8b6036784a12
+uuid: 477228a2-f707-40bf-9dc5-1947a360c449
 prettyName: MarionRollandin
 
-title: Marion Rollandin
-abstract: Chercheuse | Membre associé
+title: "Marion Rollandin"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

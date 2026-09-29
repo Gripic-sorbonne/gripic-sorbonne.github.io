@@ -1,0 +1,20 @@
+---
+uuid: e543cb05-c780-4931-91da-c9602cfc7888
+title: "Communicating Green"
+authors: "nicole D’Almeida, Ana Carolina Peliz"
+date: "2010-11-01"
+type: "paper-conference"
+url: "https://hal.science/hal-03750139"
+publisher: "Université de Louvain la Neuve"
+container_title: ""
+publication: true
+---
+
+**Auteurs:** nicole D’Almeida, Ana Carolina Peliz
+
+**Type de publication:** paper-conference
+
+**Éditeur:** Université de Louvain la Neuve
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750139](https://hal.science/hal-03750139)
+

@@ -1,9 +1,9 @@
 ---
-uuid: 34b9cc90-2c44-4d34-bb03-264112cb0cf2
+uuid: 3701f07e-ad9b-40ff-9c9b-7f7356ad57f8
 prettyName: JulienTassel
 
-title: Julien Tassel
-abstract: Maitre de conférences | Membre permanent en enseignement et recherche
+title: "Julien Tassel"
+abstract: "Maitre de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](julien_tassel.webp)

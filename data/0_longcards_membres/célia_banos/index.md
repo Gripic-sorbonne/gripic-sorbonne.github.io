@@ -1,9 +1,9 @@
 ---
-uuid: 987b8d92-df1c-479d-aa2d-e163a8beeb64
+uuid: 207f987b-2523-4422-b5a1-c51243a226e5
 prettyName: CéliaBanos
 
-title: Célia Banos
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Célia Banos"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

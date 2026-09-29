@@ -1,9 +1,9 @@
 ---
-uuid: b14597e7-5872-4e3b-8b9f-0782a9950048
+uuid: b6c203b4-e27b-432c-86af-c5b922948ca6
 prettyName: LéaAndolfi
 
-title: Léa Andolfi
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Léa Andolfi"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](lea_andolfi.webp)

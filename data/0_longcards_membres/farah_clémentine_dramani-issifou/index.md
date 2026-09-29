@@ -1,9 +1,9 @@
 ---
-uuid: fa1bf068-cf2a-46a2-82c9-b7904f946dc0
+uuid: 66cd1f32-c08b-4156-8817-82aff118571b
 prettyName: FarahClémentineDramaniissifou
 
-title: Farah Clémentine Dramani-issifou
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Farah Clémentine Dramani-issifou"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 9b87d9f3-9bb3-4617-9a92-02e3df1bb784
+uuid: a49c8e0c-c10b-46f8-a12f-45fc752e4bb5
 prettyName: AlexisLevrier
 
-title: Alexis Levrier
-abstract: Maitre de conférences | Membre associé
+title: "Alexis Levrier"
+abstract: "Maitre de conférences | Membre associé"
 ---
 
 ![small](alexis_levrier.webp)

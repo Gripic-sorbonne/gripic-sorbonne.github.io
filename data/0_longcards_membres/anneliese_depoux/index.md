@@ -1,9 +1,9 @@
 ---
-uuid: d9b53d5e-a561-44a3-b71e-0ceb03ae5d10
+uuid: 82a99355-7789-43b4-b2ee-200a6486a0cb
 prettyName: AnnelieseDepoux
 
-title: Anneliese Depoux
-abstract: Chercheuse | Membre associé
+title: "Anneliese Depoux"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

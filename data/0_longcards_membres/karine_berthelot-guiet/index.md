@@ -1,9 +1,9 @@
 ---
-uuid: ff19cebd-6215-4e72-9a35-ace5a2a88493
+uuid: 6557c23c-74c0-47ff-9df1-50da2d3be5f1
 prettyName: KarineBerthelotGuiet
 
-title: Karine Berthelot-Guiet
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Karine Berthelot-Guiet"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](karine_berthelot_guiet.webp)

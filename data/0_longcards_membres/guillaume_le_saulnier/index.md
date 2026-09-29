@@ -1,9 +1,9 @@
 ---
-uuid: f576a7ce-9bc1-4da6-87b2-8a763d990766
+uuid: f3f51cc6-c442-4931-aae9-501ad31909cc
 prettyName: GuillaumeLeSaulnier
 
-title: Guillaume Le Saulnier
-abstract: Maître de conférences | Membre permanent en enseignement et recherche
+title: "Guillaume Le Saulnier"
+abstract: "Maître de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](guillaume_le_saulnier.webp)

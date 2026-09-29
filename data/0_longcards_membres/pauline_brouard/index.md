@@ -1,9 +1,9 @@
 ---
-uuid: c7027d59-a06c-4bfb-9e3c-a46e825b11b4
+uuid: a1acb5c8-8f79-4ce8-8877-a5103ae20063
 prettyName: PaulineBrouard
 
-title: Pauline Brouard
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Pauline Brouard"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

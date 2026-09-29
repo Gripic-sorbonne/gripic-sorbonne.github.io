@@ -1,9 +1,9 @@
 ---
-uuid: 81f8e7eb-6dd7-41f9-acf2-81119795aabf
+uuid: 7a75f48a-efcb-40a9-a4cb-91f5b47a30aa
 prettyName: RomainVindevoghel
 
-title: Romain Vindevoghel
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Romain Vindevoghel"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

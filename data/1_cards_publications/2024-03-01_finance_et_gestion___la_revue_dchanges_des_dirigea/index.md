@@ -1,0 +1,20 @@
+---
+uuid: 7cd350fe-4ba1-4107-af0c-19be94288885
+title: "Finance et gestion : la revue d’échanges des dirigeants financiers"
+authors: "Philippe Robert-Tanguy"
+date: "2024-03-01"
+type: "article-journal"
+url: "https://hal.science/hal-04568765"
+publisher: "Association nationale des conseillers et contrôleurs de gestion"
+container_title: ""
+publication: true
+---
+
+**Auteurs:** Philippe Robert-Tanguy
+
+**Type de publication:** article-journal
+
+**Éditeur:** Association nationale des conseillers et contrôleurs de gestion
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-04568765](https://hal.science/hal-04568765)
+

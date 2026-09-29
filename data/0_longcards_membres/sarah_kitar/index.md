@@ -1,9 +1,9 @@
 ---
-uuid: 849db4b8-7999-4cb7-a5f4-512af2c11363
+uuid: 9ede52bc-3a2c-41f2-8597-55ae7fe9069d
 prettyName: SarahKitar
 
-title: Sarah Kitar
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Sarah Kitar"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

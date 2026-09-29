@@ -1,9 +1,9 @@
 ---
-uuid: 048078ab-9026-4a6c-9894-fbab1d51040d
+uuid: 3d90873b-b23c-4c7a-ac11-7cf738ccc40f
 prettyName: PhilippeRobertTanguy
 
-title: Philippe Robert-Tanguy
-abstract: Professeur des universités associé | Membre associé
+title: "Philippe Robert-Tanguy"
+abstract: "Professeur des universités associé | Membre associé"
 ---
 
 ![small](philippe_robert_tanguy.webp)

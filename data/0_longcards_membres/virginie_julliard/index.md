@@ -1,9 +1,9 @@
 ---
-uuid: 5390a692-3949-4005-8559-546f60284ab0
+uuid: 86797054-e540-4426-9e9e-9a5785fe11b9
 prettyName: VirginieJulliard
 
-title: Virginie Julliard
-abstract: Professeure des Universités | Membre permanent en enseignement et recherche
+title: "Virginie Julliard"
+abstract: "Professeure des Universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](virginie_julliard.webp)

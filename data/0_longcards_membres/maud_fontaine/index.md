@@ -1,9 +1,9 @@
 ---
-uuid: 3aa47179-6cb1-45c2-aabe-60c58cd477e8
+uuid: bc60eb80-d9d8-4cf0-a454-f256c3d1df63
 prettyName: MaudFontaine
 
-title: Maud Fontaine
-abstract: Chercheuse | Membre associé
+title: "Maud Fontaine"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

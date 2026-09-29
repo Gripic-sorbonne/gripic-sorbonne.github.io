@@ -1,9 +1,9 @@
 ---
-uuid: 3cf3ab28-7eb3-441c-a925-aded77cc5a27
+uuid: c83dcf74-c13b-4d5a-b024-c7591058981f
 prettyName: PascalBué
 
-title: Pascal Bué
-abstract: Chercheur | Membre associé
+title: "Pascal Bué"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

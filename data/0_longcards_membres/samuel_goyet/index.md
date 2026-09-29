@@ -1,9 +1,9 @@
 ---
-uuid: 821ae6c9-91f8-4573-b874-3d6f0b178d6e
+uuid: 98c6da1a-9e06-4da4-9e0e-82a8d499ab61
 prettyName: SamuelGoyet
 
-title: Samuel Goyet
-abstract: Chercheur | Membre associé
+title: "Samuel Goyet"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

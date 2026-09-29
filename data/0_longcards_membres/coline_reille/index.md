@@ -1,9 +1,9 @@
 ---
-uuid: cd119ec6-8a5d-4afc-9ca1-7038d6f9dc4f
+uuid: 4d38acf0-8480-4aca-8970-c30db857ed65
 prettyName: ColineReille
 
-title: Coline Reille
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Coline Reille"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](coline_reille.webp)

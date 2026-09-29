@@ -1,9 +1,9 @@
 ---
-uuid: 24496e7b-16fc-433d-a222-c0736bb9894e
+uuid: 310f2559-e620-4196-9258-18c1b6d0aec9
 prettyName: JoachimFischer
 
-title: Joachim Fischer
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Joachim Fischer"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 ![small](joachim_fischer.webp)

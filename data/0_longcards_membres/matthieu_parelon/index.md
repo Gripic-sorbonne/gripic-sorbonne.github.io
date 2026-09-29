@@ -1,9 +1,9 @@
 ---
-uuid: e5154fa1-b072-4d24-809e-8ca689690c0a
+uuid: c7137373-9153-4de2-9686-af2397de1687
 prettyName: MatthieuParelon
 
-title: Matthieu Parelon
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Matthieu Parelon"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

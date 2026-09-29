@@ -1,9 +1,9 @@
 ---
-uuid: 22e5ec18-6508-4518-b127-920014aa353e
+uuid: ac3dbff4-c26c-4c6f-801b-62c96a0a5df8
 prettyName: LucieRaymond
 
-title: Lucie Raymond
-abstract: Chercheuse | Membre associé
+title: "Lucie Raymond"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

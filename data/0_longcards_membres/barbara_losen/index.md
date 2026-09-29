@@ -1,9 +1,9 @@
 ---
-uuid: 21a33f73-092e-408e-9d0a-aed5e74e140b
+uuid: caf36e7e-b087-4a47-8086-1a0812554edd
 prettyName: BarbaraLosen
 
-title: Barbara Losen
-abstract: Chercheuse | Membre associé
+title: "Barbara Losen"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

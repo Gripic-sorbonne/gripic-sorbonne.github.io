@@ -1,9 +1,9 @@
 ---
-uuid: e18cac67-4a0b-46a1-ba2c-15a3ed7d4846
+uuid: e8474970-ac77-4b8c-b239-948af2de32d5
 prettyName: MargotBesnier
 
-title: Margot Besnier
-abstract: Chercheuse | Membre associé
+title: "Margot Besnier"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

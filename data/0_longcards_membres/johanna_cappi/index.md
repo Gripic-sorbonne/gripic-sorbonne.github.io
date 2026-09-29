@@ -1,9 +1,9 @@
 ---
-uuid: 93c23df5-80d5-47c4-b333-c2e8a3480632
+uuid: a3beec78-3e3b-4f7b-98fe-28d74ec3d76e
 prettyName: JohannaCappi
 
-title: Johanna Cappi
-abstract: Chercheuse | Membre associé
+title: "Johanna Cappi"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

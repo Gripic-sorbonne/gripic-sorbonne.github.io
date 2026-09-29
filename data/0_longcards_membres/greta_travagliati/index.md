@@ -1,9 +1,9 @@
 ---
-uuid: 6c40ad9d-1c2d-4f89-95a3-f3747d73d88f
+uuid: f1b45143-abe9-466f-9129-b53f9085b893
 prettyName: GretaTravagliati
 
-title: Greta Travagliati
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Greta Travagliati"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

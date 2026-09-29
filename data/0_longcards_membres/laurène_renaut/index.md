@@ -1,9 +1,9 @@
 ---
-uuid: 4060a5f5-2805-42e6-826b-e0865fe04b8e
+uuid: c53c7114-ab6d-4bc1-98b7-33b4b0b5a725
 prettyName: LaurèneRenaut
 
-title: Laurène Renaut
-abstract: Chercheuse | Membre associé
+title: "Laurène Renaut"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](laurene_renaut.webp)

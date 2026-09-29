@@ -1,9 +1,9 @@
 ---
-uuid: 226ebd38-fe6c-4fca-8aed-ac451be278ca
+uuid: d94222a5-b994-4be5-b24a-f417426adfe8
 prettyName: VéroniqueRichard
 
-title: Véronique Richard
-abstract: Professeure des universités émérite | Membre permanent en enseignement et recherche
+title: "Véronique Richard"
+abstract: "Professeure des universités émérite | Membre permanent en enseignement et recherche"
 ---
 
 ![small](veronique_richard.webp)

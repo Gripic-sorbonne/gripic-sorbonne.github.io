@@ -1,9 +1,9 @@
 ---
-uuid: 9cfd0b60-24c8-45f7-8098-76985e36ae17
+uuid: 00a13b3e-e052-4d68-b5b3-90567130367a
 prettyName: TitoLignon
 
-title: Tito Lignon
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Tito Lignon"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

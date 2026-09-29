@@ -1,14 +1,20 @@
 ---
-uuid: 481c74f1-8bc5-4976-98b9-a556c306bee2
+uuid: aed74a32-a5ef-44e4-9f22-fb7e483fdd32
 title: "“ L’influence ” comme prétention : contribution à une ethnosémiotique de l’expertise dans le conseil en communication"
 authors: "Thomas Grignon"
 date: "2020-12-01"
 type: "thesis"
 url: "https://hal.science/tel-03775636"
+publisher: "Sorbonne Université (France)"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Thomas Grignon
 
- Sorbonne Université (France)
+**Type de publication:** thesis
+
+**Éditeur:** Sorbonne Université (France)
+
+🔗 **Lien HAL / Publication:** [https://hal.science/tel-03775636](https://hal.science/tel-03775636)
 

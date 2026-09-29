@@ -1,9 +1,9 @@
 ---
-uuid: c2f3157d-49ce-465e-9deb-7e0f0c178730
+uuid: 88ef1bb8-2e5f-441e-889c-aace2ba58e2c
 prettyName: FrancisYaiche
 
-title: Francis Yaiche
-abstract: Professeur des universités | Membre associé
+title: "Francis Yaiche"
+abstract: "Professeur des universités | Membre associé"
 ---
 
 ![small](francis_yaiche.webp)

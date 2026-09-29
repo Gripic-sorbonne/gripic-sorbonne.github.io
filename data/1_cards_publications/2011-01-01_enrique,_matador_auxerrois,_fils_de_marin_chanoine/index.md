@@ -1,14 +1,18 @@
 ---
-uuid: f501c73f-7a60-4fb1-b1ae-cfcd56aae670
+uuid: 905932ec-a10a-4888-b7e7-4c027f5e4653
 title: "Enrique, matador auxerrois, fils de Marin chanoine sévillan"
 authors: "Emmanuël Souchier"
 date: "2011-01-01"
 type: ""
 url: "https://hal.science/hal-03761086"
+publisher: "Orangerie des Musées"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Emmanuël Souchier
 
- Orangerie des Musées
+**Éditeur:** Orangerie des Musées
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761086](https://hal.science/hal-03761086)
 

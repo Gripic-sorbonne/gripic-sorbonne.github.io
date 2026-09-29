@@ -1,14 +1,18 @@
 ---
-uuid: b91e294e-dd04-41c8-ba5e-9e2fff2e9dba
+uuid: c9c9b34d-18e4-465b-84d2-820bce239886
 title: "L’Europe sur les réseaux sociaux"
 authors: "Valerie Jeanne Perrier, Sandrine Roginsky"
 date: "2015-01-01"
 type: ""
 url: "https://hal.science/hal-03752945"
+publisher: "Nec Plus"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Valerie Jeanne Perrier, Sandrine Roginsky
 
- Nec Plus
+**Éditeur:** Nec Plus
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752945](https://hal.science/hal-03752945)
 

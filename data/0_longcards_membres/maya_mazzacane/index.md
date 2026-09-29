@@ -1,9 +1,9 @@
 ---
-uuid: 10604201-ed4f-43b0-994d-539bf6adcf94
+uuid: e5f3d43e-1c10-4582-871b-2df9e8062339
 prettyName: MayaMazzacane
 
-title: Maya Mazzacane
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Maya Mazzacane"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](maya_mazzacane.webp)

@@ -1,9 +1,9 @@
 ---
-uuid: 502d75e0-36e5-4537-8c27-855ef522e02b
+uuid: ee993c53-e4ad-4ef9-9aff-219a057abf36
 prettyName: CharlesSarraute
 
-title: Charles Sarraute
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Charles Sarraute"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

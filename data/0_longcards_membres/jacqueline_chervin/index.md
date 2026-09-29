@@ -1,9 +1,9 @@
 ---
-uuid: bd376756-42d6-40b2-8309-c58e4a8cb834
+uuid: 80fa3b63-1d4b-4515-b782-e4adec4ada8c
 prettyName: JacquelineChervin
 
-title: Jacqueline Chervin
-abstract: Chercheuse | Membre invité
+title: "Jacqueline Chervin"
+abstract: "Chercheuse | Membre invité"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 1b80bcca-2f35-4934-88cb-f05856c3bc60
+uuid: bf3de7c2-dc75-43f9-b791-5f7bf789df3e
 prettyName: QiWang
 
-title: Qi Wang
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Qi Wang"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](qi_wang.webp)

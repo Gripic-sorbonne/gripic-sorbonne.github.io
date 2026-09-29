@@ -1,9 +1,9 @@
 ---
-uuid: 6a2c0be9-1400-46e3-a95a-794468bcae3e
+uuid: 5726e77a-096b-4cee-ad1c-c204c546fb15
 prettyName: ClotildeChevet
 
-title: Clotilde Chevet
-abstract: Chercheuse | Membre associé
+title: "Clotilde Chevet"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](clotilde_chevet.webp)

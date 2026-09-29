@@ -1,9 +1,9 @@
 ---
-uuid: 22303d6c-886f-4418-b8a4-f43e96755aca
+uuid: c1e3a2c6-9dab-4fa7-ad9a-c7cc3e04ef4b
 prettyName: KenzaBenabdelouhab
 
-title: Kenza Benabdelouhab
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Kenza Benabdelouhab"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 51539ed6-2def-4044-8e1b-9ac9ccdb3e12
+uuid: cc494328-e16e-40a7-9b69-040af64c0ca0
 prettyName: IsabelleLeBretonFalezan
 
-title: Isabelle Le Breton-Falezan
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Isabelle Le Breton-Falezan"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](isabelle_le_breton_falezan.webp)

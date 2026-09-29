@@ -1,9 +1,9 @@
 ---
-uuid: 527c25af-0b60-48db-a612-77a213f08b62
+uuid: ed73bb0a-dc6f-4616-842c-f294aa2c5238
 prettyName: VitalyBuduchev
 
-title: Vitaly Buduchev
-abstract: Chercheur | Membre associé
+title: "Vitaly Buduchev"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

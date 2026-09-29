@@ -1,9 +1,9 @@
 ---
-uuid: ca722ebf-18f4-4ed5-b034-9944b87ed2a6
+uuid: bc01a45f-2046-47d5-a240-b0b824f5de07
 prettyName: ThibaultGrison
 
-title: Thibault Grison
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Thibault Grison"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 ![small](thibault_grison.webp)

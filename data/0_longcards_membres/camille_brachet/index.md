@@ -1,9 +1,9 @@
 ---
-uuid: 235013c9-f7a5-4137-8944-a2a4308a1b4e
+uuid: f8928861-7893-48be-ac5b-d6b1cf2fd8f5
 prettyName: CamilleBrachet
 
-title: Camille Brachet
-abstract: Chercheuse | Membre associé
+title: "Camille Brachet"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](camille_brachet.webp)

@@ -1,9 +1,9 @@
 ---
-uuid: 395bbcdb-164e-4b62-b2b8-9fb593dcc759
+uuid: 803f1a31-0ce0-424a-b35f-0f782daa887b
 prettyName: SophieCorbillé
 
-title: Sophie Corbillé
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Sophie Corbillé"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](sophie_corbille.webp)

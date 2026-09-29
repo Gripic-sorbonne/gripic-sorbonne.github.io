@@ -1,9 +1,9 @@
 ---
-uuid: cdc4d3ce-08be-40e3-ba6b-fa93216b9bf4
+uuid: 14e1d7fd-e15e-4154-a3bb-19d0b899c97f
 prettyName: SébastienAppiotti
 
-title: Sébastien Appiotti
-abstract: Maitre de conférences | Membre permanent en enseignement et recherche
+title: "Sébastien Appiotti"
+abstract: "Maitre de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](sebastien_appiotti.webp)

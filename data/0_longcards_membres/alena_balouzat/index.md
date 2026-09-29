@@ -1,9 +1,9 @@
 ---
-uuid: 01ba59f9-66bf-4842-ae3d-2f5075426f63
+uuid: 5039883a-4940-45b4-bae6-9d2ece649a8a
 prettyName: AlenaBalouzat
 
-title: Alena Balouzat
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Alena Balouzat"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

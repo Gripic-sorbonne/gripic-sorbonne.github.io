@@ -27,12 +27,23 @@ def normalize_title(title: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", "", title.lower())).strip()
 
 
+def get_field(row_dict: dict, *keys: str, default: str = "") -> str:
+    """Helper to retrieve a dict value checking multiple key variations (case-insensitive)."""
+    for k in keys:
+        if k in row_dict and row_dict[k]:
+            return row_dict[k].strip()
+        for dict_key in row_dict.keys():
+            if dict_key.lower() == k.lower() and row_dict[dict_key]:
+                return row_dict[dict_key].strip()
+    return default
+
+
 def make_yaml_header_member(name: str, position: str) -> str:
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
             f"prettyName: {''.join(re.split(pattern=SPLIT_PATTERN, string=name))}\n\n" +
-            f"title: {name}\n" +
-            f"abstract: {position}\n" +
+            f"title: \"{name}\"\n" +
+            f"abstract: \"{position}\"\n" +
             f"---\n\n")
 
 
@@ -46,16 +57,58 @@ def make_yaml_header_event(title: str, author: str, abstract: str) -> str:
             f"---\n\n")
 
 
-def make_yaml_header_publication(title: str, authors: str, pub_date: str, pub_type: str, url: str) -> str:
+def make_yaml_header_publication(pub_dict: dict) -> str:
+    title = get_field(pub_dict, "Title", "title", "Titre", default="Untitled")
+    authors = get_field(pub_dict, "authors", "author", "Auteurs", default="")
+    pub_date = get_field(pub_dict, "date", "Date", default="")
+    pub_type = get_field(pub_dict, "type", "Type", default="")
+    url = get_field(pub_dict, "url", "URL", default="")
+    publisher = get_field(pub_dict, "publisher", "Editeur", default="")
+    container_title = get_field(pub_dict, "container_title", "container-title", default="")
+
+    # Clean quotes to prevent YAML parsing errors
+    clean_title = title.replace('"', '\\"')
+
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
-            f"title: \"{title}\"\n" +
+            f"title: \"{clean_title}\"\n" +
             f"authors: \"{authors}\"\n" +
             f"date: \"{pub_date}\"\n" +
             f"type: \"{pub_type}\"\n" +
             f"url: \"{url}\"\n" +
+            f"publisher: \"{publisher}\"\n" +
+            f"container_title: \"{container_title}\"\n" +
             f"publication: true\n" +
             f"---\n\n")
+
+
+def generate_markdown_page_publication(pub_dict: dict) -> str:
+    md_page: str = make_yaml_header_publication(pub_dict)
+    
+    authors = get_field(pub_dict, "authors", "author")
+    pub_type = get_field(pub_dict, "type")
+    publisher = get_field(pub_dict, "publisher")
+    container_title = get_field(pub_dict, "container_title", "container-title")
+    url = get_field(pub_dict, "url", "URL")
+    abstract = get_field(pub_dict, "abstract", "resume")
+
+    # Build structured content body for individual publication page
+    if authors:
+        md_page += f"**Auteurs:** {authors}\n\n"
+    if pub_type:
+        md_page += f"**Type de publication:** {pub_type}\n\n"
+    if container_title:
+        md_page += f"**Revue / Conférence:** {container_title}\n\n"
+    if publisher:
+        md_page += f"**Éditeur:** {publisher}\n\n"
+        
+    if url:
+        md_page += f"🔗 **Lien HAL / Publication:** [{url}]({url})\n\n"
+        
+    if abstract:
+        md_page += f"## Résumé\n\n{abstract}\n\n"
+
+    return md_page
 
 
 def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
@@ -81,27 +134,6 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
     for key, val in event_dict.items():
         if val != "":
             md_page += f"## {key}\n\n {val}\n\n"
-    return md_page
-
-
-def generate_markdown_page_publication(pub_dict: dict):
-    title = pub_dict.get("title", "Untitled")
-    authors = pub_dict.get("authors", "")
-    pub_date = pub_dict.get("date", "")
-    pub_type = pub_dict.get("type", "")
-    url = pub_dict.get("url", "")
-    abstract = pub_dict.get("abstract", "")
-
-    md_page: str = make_yaml_header_publication(
-        title=title, authors=authors, pub_date=pub_date, pub_type=pub_type, url=url)
-    
-    if abstract:
-        md_page += f"## Abstract\n\n {abstract}\n\n"
-        
-    for key, val in pub_dict.items():
-        if val != "" and key not in ["title", "authors", "date", "type", "url", "abstract"]:
-            md_page += f"## {key}\n\n {val}\n\n"
-            
     return md_page
 
 
@@ -147,16 +179,18 @@ def csv_to_markdown_publications(csv_file: str):
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
-            title_raw = row.get("title", "")
+            title_raw = get_field(row, "Title", "title", "Titre")
+            if not title_raw:
+                continue
+
             norm_title = normalize_title(title_raw)
 
-            # Deduplication check
             if norm_title in seen_titles:
                 continue
             seen_titles.add(norm_title)
 
             clean_title = clean_folder_name(title_raw)
-            pub_date = row.get("date", "0000-00-00")
+            pub_date = get_field(row, "date", "Date", default="0000-00-00")
             folder_name = f"{pub_date}_{clean_title}"
             
             pub_subdir: Path = PUBLICATION_DIR / folder_name

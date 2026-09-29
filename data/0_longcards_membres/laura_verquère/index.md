@@ -1,9 +1,9 @@
 ---
-uuid: 072ed8eb-6991-4592-bdd7-83cdc7290518
+uuid: 9db50a9a-0503-43a1-806f-42f711d5e956
 prettyName: LauraVerquère
 
-title: Laura Verquère
-abstract: Chercheuse | Membre associé
+title: "Laura Verquère"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](laura_verquere.webp)

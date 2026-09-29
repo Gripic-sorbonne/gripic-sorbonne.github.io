@@ -1,9 +1,9 @@
 ---
-uuid: d57537d8-6cbf-4f27-9690-82de5731d006
+uuid: 9d719826-862d-4ad1-89a8-686ccbe5c5cf
 prettyName: AdélieLaruncet
 
-title: Adélie Laruncet
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Adélie Laruncet"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](adelie_laruncet.webp)

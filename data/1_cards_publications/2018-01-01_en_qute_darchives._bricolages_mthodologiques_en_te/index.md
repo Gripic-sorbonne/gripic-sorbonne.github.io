@@ -1,14 +1,20 @@
 ---
-uuid: 47c57527-f596-4e13-8105-08f70aa8f918
+uuid: 5c707aaf-64c6-45a9-86cd-e58a3ca7ab2e
 title: "En quête d’archives. Bricolages méthodologiques en terrains médiatiques"
 authors: "Nelly Quemener, Sarah Lécossais"
 date: "2018-01-01"
 type: "book"
 url: "https://hal.science/hal-03758360"
+publisher: "Ina Éditions"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Nelly Quemener, Sarah Lécossais
 
- Ina Éditions
+**Type de publication:** book
+
+**Éditeur:** Ina Éditions
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758360](https://hal.science/hal-03758360)
 

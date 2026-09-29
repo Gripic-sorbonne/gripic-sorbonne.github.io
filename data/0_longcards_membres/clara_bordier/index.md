@@ -1,9 +1,9 @@
 ---
-uuid: 9c247230-ef02-4c73-816d-e0ad3316020d
+uuid: a1804832-3d60-4b23-869f-10f737f7364b
 prettyName: ClaraBordier
 
-title: Clara Bordier
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Clara Bordier"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: d0f6f0f0-7cd8-4e08-a1a6-97b702faa819
+uuid: 50a9ff96-e489-422b-9c61-985ff672ec19
 prettyName: AntoineBonino
 
-title: Antoine Bonino
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Antoine Bonino"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

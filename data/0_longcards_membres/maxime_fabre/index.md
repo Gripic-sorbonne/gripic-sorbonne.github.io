@@ -1,9 +1,9 @@
 ---
-uuid: 860a49b4-dc1a-45a4-b1ea-082c82b8d0c8
+uuid: 5f386f62-c625-421e-973a-fe5dd815276c
 prettyName: MaximeFabre
 
-title: Maxime Fabre
-abstract: Maitre de conférences | Membre associé
+title: "Maxime Fabre"
+abstract: "Maitre de conférences | Membre associé"
 ---
 
 ![small](maxime_fabre.webp)

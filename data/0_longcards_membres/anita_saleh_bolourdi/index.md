@@ -1,9 +1,9 @@
 ---
-uuid: f62ba687-b187-49c0-9625-10252e5453dc
+uuid: 4addb780-cbef-4c7d-bef4-938009dac50a
 prettyName: AnitaSalehBolourdi
 
-title: Anita Saleh Bolourdi
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Anita Saleh Bolourdi"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

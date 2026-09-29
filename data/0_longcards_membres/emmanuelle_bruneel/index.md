@@ -1,9 +1,9 @@
 ---
-uuid: 8021003d-8b8a-4802-8731-c71b34fcd9a0
+uuid: 296b424a-44eb-46c6-8b04-333d2daa4227
 prettyName: EmmanuelleBruneel
 
-title: Emmanuelle Bruneel
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Emmanuelle Bruneel"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

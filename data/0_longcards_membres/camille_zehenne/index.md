@@ -1,9 +1,9 @@
 ---
-uuid: 0b9ef8aa-e974-4e15-990d-2b6c574475db
+uuid: 919cb9b9-bdd6-43e3-9f04-691acacbfd05
 prettyName: CamilleZehenne
 
-title: Camille Zehenne
-abstract: Chercheuse | Membre associé
+title: "Camille Zehenne"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

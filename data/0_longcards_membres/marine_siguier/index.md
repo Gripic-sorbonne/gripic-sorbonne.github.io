@@ -1,9 +1,9 @@
 ---
-uuid: dc6ef914-1ca4-49ac-9d39-5328687f3d1b
+uuid: 6a8ee9fd-e8d6-41e6-b148-e9f848f9857d
 prettyName: MarineSiguier
 
-title: Marine Siguier
-abstract: Maitresse de conférences | Membre associé
+title: "Marine Siguier"
+abstract: "Maitresse de conférences | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

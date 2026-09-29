@@ -1,9 +1,9 @@
 ---
-uuid: 06090f8b-048b-49db-9a21-f88d88dd9e17
+uuid: aa1c487c-6616-4cdf-bfea-ee990f48286a
 prettyName: RonanGerman
 
-title: Ronan German
-abstract: Chercheur | Membre associé
+title: "Ronan German"
+abstract: "Chercheur | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

@@ -1,9 +1,9 @@
 ---
-uuid: 8a8288e1-10e0-451f-966f-09248964af9d
+uuid: 7534a191-9c82-43bc-999c-3035fb0e7d56
 prettyName: ElsaTadier
 
-title: Elsa Tadier
-abstract: Chercheuse | Membre associé
+title: "Elsa Tadier"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

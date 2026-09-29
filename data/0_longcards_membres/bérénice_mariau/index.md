@@ -1,9 +1,9 @@
 ---
-uuid: 6f78e1b9-f614-4669-8bcd-3467765e3444
+uuid: 1ea52d9e-074f-4898-a753-74a25bf27126
 prettyName: BéréniceMariau
 
-title: Bérénice Mariau
-abstract: Maitresse de conférences | Membre associé
+title: "Bérénice Mariau"
+abstract: "Maitresse de conférences | Membre associé"
 ---
 
 ![small](berenice_mariau.webp)

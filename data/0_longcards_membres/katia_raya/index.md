@@ -1,9 +1,9 @@
 ---
-uuid: 2f4337ac-9196-4bd0-ac2b-be7d5421ba6e
+uuid: 4a6d672a-4698-49bf-bf18-62de5dc014c9
 prettyName: KatiaRaya
 
-title: Katia Raya
-abstract: Chercheuse | Membre associé
+title: "Katia Raya"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](katia_raya.webp)

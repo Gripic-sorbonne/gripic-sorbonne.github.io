@@ -1,14 +1,20 @@
 ---
-uuid: 2386e1c7-81a6-4067-b715-9e5cf5a30937
+uuid: 6d167fad-1da1-41f4-8c5e-0eb36fb0b2bb
 title: "La médiatisation de l’évaluation – Evaluation in the Media"
-authors: "Etienne Candel, Julie Bouchard, Hélène Cardy, Gustavo Gomez-Mejia"
+authors: "Etienne Candel"
 date: "2015-01-01"
-type: "book"
-url: "https://shs.hal.science/halshs-01709052"
+type: "chapter"
+url: "https://shs.hal.science/halshs-01709058"
+publisher: "Peter Lang"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Etienne Candel
 
- Peter Lang
+**Type de publication:** chapter
+
+**Éditeur:** Peter Lang
+
+🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-01709058](https://shs.hal.science/halshs-01709058)
 

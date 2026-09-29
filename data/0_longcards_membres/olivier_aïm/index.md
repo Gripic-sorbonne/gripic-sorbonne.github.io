@@ -1,9 +1,9 @@
 ---
-uuid: b400e054-5838-4f2a-a3b9-53de2343bd77
+uuid: 08fdd29e-a3a4-46f8-b79a-5d51a0307284
 prettyName: OlivierAïm
 
-title: Olivier Aïm
-abstract: Maitre de conférences | Membre permanent en enseignement et recherche
+title: "Olivier Aïm"
+abstract: "Maitre de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](olivier_aim.webp)

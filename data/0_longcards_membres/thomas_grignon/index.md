@@ -1,9 +1,9 @@
 ---
-uuid: 3c59ee9c-0b79-4d23-a58a-b7cce7787f79
+uuid: c8657305-8f81-4e5e-a8bb-5acd03ac56f6
 prettyName: ThomasGrignon
 
-title: Thomas Grignon
-abstract: Chercheur | Membre associé
+title: "Thomas Grignon"
+abstract: "Chercheur | Membre associé"
 ---
 
 ![small](thomas_grignon.webp)

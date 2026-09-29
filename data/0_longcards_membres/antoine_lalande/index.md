@@ -1,9 +1,9 @@
 ---
-uuid: 3dc8cfe9-64d7-43d5-897b-87879f74404f
+uuid: 55667150-c88a-4628-a79d-46df71c314c1
 prettyName: AntoineLalande
 
-title: Antoine Lalande
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Antoine Lalande"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

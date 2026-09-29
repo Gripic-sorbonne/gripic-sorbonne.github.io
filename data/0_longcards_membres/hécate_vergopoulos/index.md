@@ -1,9 +1,9 @@
 ---
-uuid: affe30e9-3541-4eaf-98c1-03be2a899c8f
+uuid: 43239213-d696-4b0d-b52b-29259d66996a
 prettyName: HécateVergopoulos
 
-title: Hécate Vergopoulos
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Hécate Vergopoulos"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](hecate_vergopoulos.webp)

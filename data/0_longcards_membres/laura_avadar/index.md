@@ -1,9 +1,9 @@
 ---
-uuid: 99a232b4-705f-44ee-a396-a6cd79e01c2d
+uuid: aa85a22e-8f83-41ef-8625-b496d807356a
 prettyName: LauraAvadar
 
-title: Laura Avadar
-abstract: Chercheuse | Membre associé
+title: "Laura Avadar"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

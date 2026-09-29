@@ -1,9 +1,9 @@
 ---
-uuid: 90a5c058-ee8b-42ec-ab35-5a70e701788d
+uuid: 831c9f4c-504e-4374-9169-2261f8cde15a
 prettyName: DianeGarinat
 
-title: Diane Garinat
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Diane Garinat"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

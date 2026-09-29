@@ -1,9 +1,9 @@
 ---
-uuid: a6c05741-6e92-4d6b-95b8-b61b6d8829ab
+uuid: f524b6f0-3da9-4e69-a2e2-3e517c6e7fa9
 prettyName: AdelineWrona
 
-title: Adeline Wrona
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Adeline Wrona"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](adeline_wrona.webp)

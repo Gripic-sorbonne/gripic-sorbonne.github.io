@@ -1,9 +1,9 @@
 ---
-uuid: 7b410083-10b7-44de-a8da-5849e56771ce
+uuid: b3954aeb-30f0-42b3-ad80-37e09fa75e46
 prettyName: LaurenceSalvator
 
-title: Laurence Salvator
-abstract: Chercheuse | Membre associé
+title: "Laurence Salvator"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

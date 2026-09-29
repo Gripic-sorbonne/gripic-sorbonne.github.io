@@ -1,9 +1,9 @@
 ---
-uuid: 2348452e-9b2e-43b0-9c51-2f1efe16477c
+uuid: cd09f92b-d6d0-4319-bd37-2328d7ca5ffb
 prettyName: JulienFéré
 
-title: Julien Féré
-abstract: Professeur des universités associé | Membre associé
+title: "Julien Féré"
+abstract: "Professeur des universités associé | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

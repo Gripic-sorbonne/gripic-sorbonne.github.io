@@ -1,14 +1,18 @@
 ---
-uuid: 7482f069-5e7f-424a-9ecd-5600a64793e0
+uuid: d3827a46-7da7-4175-87e4-1eb23e035263
 title: "à deux doigts la mort ’tit homme…"
 authors: "Emmanuël Souchier"
 date: "2001-01-01"
 type: ""
 url: "https://hal.science/hal-03761096"
+publisher: "Orangerie de l’archevêché"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Emmanuël Souchier
 
- Orangerie de l’archevêché
+**Éditeur:** Orangerie de l’archevêché
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761096](https://hal.science/hal-03761096)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 099a1a9a-a3d6-476a-97e2-4e37dfc85097
+uuid: 9257bbff-8ecc-46f5-927e-459022bb8000
 prettyName: AgatheNicolas
 
-title: Agathe Nicolas
-abstract: Chercheuse | Membre associé
+title: "Agathe Nicolas"
+abstract: "Chercheuse | Membre associé"
 ---
 
 ![small](agathe_nicolas.webp)

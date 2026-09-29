@@ -1,9 +1,9 @@
 ---
-uuid: dd2a1f7d-194a-4c65-8f83-39cd0862ca39
+uuid: cbfa6c89-d7aa-4214-aeee-58458ad9d37e
 prettyName: PaulineChasserayPeraldi
 
-title: Pauline Chasseray-Peraldi
-abstract: Chercheuse | Membre associé
+title: "Pauline Chasseray-Peraldi"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

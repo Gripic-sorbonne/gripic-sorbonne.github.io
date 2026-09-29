@@ -1,9 +1,9 @@
 ---
-uuid: 1b21adf5-25f7-4793-ba94-145029f316fe
+uuid: 0641b4d6-dcd1-4dd3-9e72-d42aa8047b5f
 prettyName: RymGerwigKirèche
 
-title: Rym Gerwig-Kirèche
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Rym Gerwig-Kirèche"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 <img src="./avatar.webp" width="200px" />

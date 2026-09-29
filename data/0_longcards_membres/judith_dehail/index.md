@@ -1,9 +1,9 @@
 ---
-uuid: d2b80e0c-a8c7-469c-8fa3-0c3ff63ee161
+uuid: af9a7d36-404c-4e91-9b19-1864774e17b8
 prettyName: JudithDehail
 
-title: Judith Dehail
-abstract: Chercheuse | Membre associé
+title: "Judith Dehail"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

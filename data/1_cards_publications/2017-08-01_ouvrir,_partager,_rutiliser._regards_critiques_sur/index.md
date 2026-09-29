@@ -1,0 +1,20 @@
+---
+uuid: 1cbf3076-5ebd-4fff-af2b-6e02a3248337
+title: "Ouvrir, partager, réutiliser. Regards critiques sur les données numériques"
+authors: "François Allard-Huver"
+date: "2017-08-01"
+type: "chapter"
+url: "https://hal.science/hal-02044679"
+publisher: "Éditions de la Maison des sciences de l’homme - EMSH"
+container_title: ""
+publication: true
+---
+
+**Auteurs:** François Allard-Huver
+
+**Type de publication:** chapter
+
+**Éditeur:** Éditions de la Maison des sciences de l’homme - EMSH
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-02044679](https://hal.science/hal-02044679)
+

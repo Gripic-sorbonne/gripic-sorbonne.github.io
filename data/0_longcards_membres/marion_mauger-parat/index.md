@@ -1,9 +1,9 @@
 ---
-uuid: 158b2832-e3a3-45bc-91db-a6e5b716b761
+uuid: aa8a8be2-298f-45e2-b881-06823a7ff956
 prettyName: MarionMaugerParat
 
-title: Marion Mauger-Parat
-abstract: Chercheuse | Membre associé
+title: "Marion Mauger-Parat"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

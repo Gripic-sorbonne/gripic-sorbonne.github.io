@@ -1,9 +1,9 @@
 ---
-uuid: faeedde7-163c-4056-8d69-89e5669e3035
+uuid: f8ed1c61-3545-4ec9-aadc-aeb1623d5f7a
 prettyName: NicoleD’Almeida
 
-title: Nicole D’Almeida
-abstract: Professeure des universités émérite | Membre permanent en enseignement et recherche
+title: "Nicole D’Almeida"
+abstract: "Professeure des universités émérite | Membre permanent en enseignement et recherche"
 ---
 
 ![small](nicole_dalmeida.webp)

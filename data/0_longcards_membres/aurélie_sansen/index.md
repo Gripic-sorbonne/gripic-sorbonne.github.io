@@ -1,9 +1,9 @@
 ---
-uuid: 6e6a2b3a-9a3c-429b-9967-9c9781571949
+uuid: eddf392c-5561-427c-8700-c1575a6f5afc
 prettyName: AurélieSansen
 
-title: Aurélie Sansen
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Aurélie Sansen"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

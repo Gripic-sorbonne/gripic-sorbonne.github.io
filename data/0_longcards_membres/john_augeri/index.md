@@ -1,9 +1,9 @@
 ---
-uuid: 028203df-39a2-41ac-bb05-9da71126d049
+uuid: 5ed3fbce-1a59-462b-b7a1-60b43e970398
 prettyName: JohnAugeri
 
-title: John Augeri
-abstract: Chercheur | Membre associé
+title: "John Augeri"
+abstract: "Chercheur | Membre associé"
 ---
 
 ![small](john_augeri.webp)

@@ -1,9 +1,9 @@
 ---
-uuid: 7700978c-a64d-4dc2-bca8-afa6816c357b
+uuid: e0c0bce2-1907-40a2-a250-9e4a9066d5ae
 prettyName: PascalFroissart
 
-title: Pascal Froissart
-abstract: Professeur des universités - Directeur du CELSA | Membre permanent en enseignement et recherche
+title: "Pascal Froissart"
+abstract: "Professeur des universités - Directeur du CELSA | Membre permanent en enseignement et recherche"
 ---
 
 ![small](pascal_froissart.webp)

@@ -1,9 +1,9 @@
 ---
-uuid: 4eea53f9-c6b8-4386-9475-93b55db0eaa0
+uuid: 3b76d68c-2240-44d4-93a0-8e3552373b9d
 prettyName: JulietteCharbonneaux
 
-title: Juliette Charbonneaux
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Juliette Charbonneaux"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](juliette_charbonneaux.webp)

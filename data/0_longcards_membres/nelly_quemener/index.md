@@ -1,9 +1,9 @@
 ---
-uuid: 792c43a5-8f89-4594-a359-dc3ab5853b4e
+uuid: ded6507f-ccfa-4aa3-b7ef-2c0c1ade623b
 prettyName: NellyQuemener
 
-title: Nelly Quemener
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Nelly Quemener"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](nelly_quemener.webp)

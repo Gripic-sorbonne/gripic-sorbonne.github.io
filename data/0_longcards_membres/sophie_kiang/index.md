@@ -1,9 +1,9 @@
 ---
-uuid: edb513fd-f456-46e6-99eb-b27a847204d3
+uuid: 9be772b5-c809-4ad2-ac1e-3caecafdbcbb
 prettyName: SophieKiang
 
-title: Sophie Kiang
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Sophie Kiang"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 ![small](sophie_kiang.webp)

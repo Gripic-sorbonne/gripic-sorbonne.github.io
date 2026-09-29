@@ -1,9 +1,9 @@
 ---
-uuid: aac91223-dc88-428b-a329-f2eb48bb9d05
+uuid: a75a5f65-1fe8-40cb-8ee5-5d6ac66fb631
 prettyName: InesGarmon
 
-title: Ines Garmon
-abstract: Chercheuse | Membre associé
+title: "Ines Garmon"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

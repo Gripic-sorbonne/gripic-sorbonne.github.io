@@ -1,14 +1,20 @@
 ---
-uuid: d78721dd-5ba8-4309-b014-b9b15010e0d6
+uuid: caa9d03d-c374-4a60-ab14-8a7454e8bb0b
 title: "Penser les musiques populaires"
 authors: "Gérôme Guibert, Guillaume Heuguet"
 date: "2022-11-01"
-type: "book"
-url: "https://hal.science/hal-03889389"
+type: "chapter"
+url: "https://hal.science/hal-03983849"
+publisher: "Philharmonie de Paris"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Gérôme Guibert, Guillaume Heuguet
 
- Philharmonie de Paris
+**Type de publication:** chapter
+
+**Éditeur:** Philharmonie de Paris
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03983849](https://hal.science/hal-03983849)
 

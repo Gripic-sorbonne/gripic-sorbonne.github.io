@@ -1,9 +1,9 @@
 ---
-uuid: e07a30bf-2fe2-4243-b47f-073a9e4a1283
+uuid: e6c9a147-79ec-4097-a931-2fc57e35f8e3
 prettyName: LaurentPetit
 
-title: Laurent Petit
-abstract: Professeur des universités | Membre permanent en enseignement et recherche
+title: "Laurent Petit"
+abstract: "Professeur des universités | Membre permanent en enseignement et recherche"
 ---
 
 <img src="./avatar.webp" width="200px" />

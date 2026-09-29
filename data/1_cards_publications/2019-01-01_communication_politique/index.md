@@ -1,14 +1,20 @@
 ---
-uuid: 02109983-2490-4f49-b0e2-460e786ebf3c
+uuid: 83990f9f-4642-4611-acbc-8ae1521dc837
 title: "Communication politique"
-authors: "Pierre-Emmanuel Guigo, Juliette Charbonneaux, Camille Rondot, Thierry Devars, Léa Pawelski, Camila Moreira Cesar"
+authors: "Thierry Devars"
 date: "2019-01-01"
-type: "book"
-url: "https://hal.science/hal-04333633"
+type: "chapter"
+url: "https://hal.science/hal-03964012"
+publisher: "Pearson"
+container_title: ""
 publication: true
 ---
 
-## publisher
+**Auteurs:** Thierry Devars
 
- Pearson
+**Type de publication:** chapter
+
+**Éditeur:** Pearson
+
+🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964012](https://hal.science/hal-03964012)
 

@@ -1,9 +1,9 @@
 ---
-uuid: a8e1f2ca-eb27-4ff3-8d9c-8147e9dba05c
+uuid: 45a2bc58-e7b7-493a-ab24-a025d862acd7
 prettyName: OliviaFoli
 
-title: Olivia Foli
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Olivia Foli"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](olivia_foli.webp)

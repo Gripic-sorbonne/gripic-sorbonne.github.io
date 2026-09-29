@@ -1,9 +1,9 @@
 ---
-uuid: fe73e9f2-2c82-4830-8b8e-ce6ed2c55132
+uuid: 1fadae7a-0bfb-4fc9-945c-f56a00527eb8
 prettyName: EmmanuëlSouchier
 
-title: Emmanuël Souchier
-abstract: Professeur des universités émérite | Membre permanent en enseignement et recherche
+title: "Emmanuël Souchier"
+abstract: "Professeur des universités émérite | Membre permanent en enseignement et recherche"
 ---
 
 ![small](emmanuel_souchier.webp)

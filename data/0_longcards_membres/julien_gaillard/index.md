@@ -1,9 +1,9 @@
 ---
-uuid: 08164505-8155-47e0-ac7c-baf5a9f74414
+uuid: a54e0ff7-851d-4902-a3fa-660c9ffb0529
 prettyName: JulienGaillard
 
-title: Julien Gaillard
-abstract: Doctorant-chercheur | Membre permanent en formation doctorale
+title: "Julien Gaillard"
+abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

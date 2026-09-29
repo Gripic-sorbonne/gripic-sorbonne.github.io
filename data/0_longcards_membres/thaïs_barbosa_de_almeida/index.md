@@ -1,9 +1,9 @@
 ---
-uuid: ee4876c3-a783-498d-9ec7-f8f39e6e49e6
+uuid: 33a1f20c-457b-4e09-9081-a31317b23fd9
 prettyName: ThaïsBarbosadeAlmeida
 
-title: Thaïs Barbosa de Almeida
-abstract: Chercheuse | Membre associé
+title: "Thaïs Barbosa de Almeida"
+abstract: "Chercheuse | Membre associé"
 ---
 
 <img src="./avatar.webp" width="200px" />

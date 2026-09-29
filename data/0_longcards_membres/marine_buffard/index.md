@@ -1,9 +1,9 @@
 ---
-uuid: ab4319c2-05ac-41c1-aa5f-77e8b8c6c2c6
+uuid: 43628456-6fb5-4216-a760-b4ce1e77f6ed
 prettyName: MarineBuffard
 
-title: Marine Buffard
-abstract: Doctorante-chercheuse | Membre permanent en formation doctorale
+title: "Marine Buffard"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 
 <img src="./avatar.webp" width="200px" />

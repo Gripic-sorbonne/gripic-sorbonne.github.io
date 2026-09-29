@@ -1,9 +1,9 @@
 ---
-uuid: dccc518f-6bbd-43e5-9660-7892acc23ec7
+uuid: 92bd848b-2295-4f09-94e7-5f5ca899b6d4
 prettyName: ValériePatrinLeclère
 
-title: Valérie Patrin-Leclère
-abstract: Maitresse de conférences | Membre permanent en enseignement et recherche
+title: "Valérie Patrin-Leclère"
+abstract: "Maitresse de conférences | Membre permanent en enseignement et recherche"
 ---
 
 ![small](valerie_patrin_leclere.webp)

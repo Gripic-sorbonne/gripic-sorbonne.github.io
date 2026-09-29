@@ -1,9 +1,9 @@
 ---
-uuid: 3fb9572e-2efe-4ffc-a5e5-6b74ee9d0d43
+uuid: 16fa3ba9-8c7e-4d49-846d-7fb71bfd9df4
 prettyName: ValérieJeannePerrier
 
-title: Valérie Jeanne-Perrier
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Valérie Jeanne-Perrier"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](valerie_jeanne_perrier.webp)

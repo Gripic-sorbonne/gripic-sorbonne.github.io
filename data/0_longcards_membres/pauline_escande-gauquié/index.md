@@ -1,9 +1,9 @@
 ---
-uuid: 618216a2-f103-4894-9456-f3e6e9b13a57
+uuid: a4a21a79-67a5-4ba6-a273-f5f3d82a892d
 prettyName: PaulineEscandeGauquié
 
-title: Pauline Escande-Gauquié
-abstract: Professeure des universités | Membre permanent en enseignement et recherche
+title: "Pauline Escande-Gauquié"
+abstract: "Professeure des universités | Membre permanent en enseignement et recherche"
 ---
 
 ![small](pauline_escande_gauquie.webp)
