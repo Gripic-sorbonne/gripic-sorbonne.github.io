@@ -1,5 +1,5 @@
 ---
-uuid: 9cc1ce0b-8564-403b-9f53-dd27d6acb7e7
+uuid: 02ccc2e0-50e1-4b9b-a296-a1139503375d
 title: "Îles réelles, îles fictionnelles"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03773286"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

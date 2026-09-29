@@ -1,5 +1,5 @@
 ---
-uuid: 0b02671f-3f1a-485e-8506-f2ac9a83f59f
+uuid: 1da7f6a7-3f25-46a7-a2e2-b12909205e1d
 title: "Communication des organisations : recherches récentes"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03766837"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

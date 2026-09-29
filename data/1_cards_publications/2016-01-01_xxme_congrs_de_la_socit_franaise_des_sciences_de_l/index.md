@@ -1,5 +1,5 @@
 ---
-uuid: 80ba5b47-54e4-4461-8b8c-e913c22e8ce3
+uuid: 7d1de03e-dd74-446b-a6fd-93b89f877285
 title: "XXème Congrès de la Société Française des Sciences de l’Information et de la Communication (SFSIC)."
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964041"
 publisher: "SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

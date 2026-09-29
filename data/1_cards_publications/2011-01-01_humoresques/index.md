@@ -1,5 +1,5 @@
 ---
-uuid: 996b9c96-49d6-4fbe-bbb8-976845b8fa41
+uuid: 366b6ac8-298a-4f80-adc8-d6814df1de6e
 title: "Humoresques"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758656"
 publisher: "CORHUM-Humoresques"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

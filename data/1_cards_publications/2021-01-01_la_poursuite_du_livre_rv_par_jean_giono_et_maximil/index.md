@@ -1,5 +1,5 @@
 ---
-uuid: e7a95c6d-0df7-4b0e-a0d6-b1882f32745a
+uuid: edc38b37-b780-4f73-b6b3-35b905a4a9c5
 title: "À la poursuite du livre rêvé par Jean Giono et Maximilien Vox. Dialogues typographiques"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03760995"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

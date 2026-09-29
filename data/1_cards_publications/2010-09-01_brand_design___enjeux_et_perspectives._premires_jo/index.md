@@ -1,5 +1,5 @@
 ---
-uuid: 17bbf989-00dc-407f-b6cc-ea45943fd5e3
+uuid: 43541a00-9add-4a4e-9559-010c2b04955c
 title: "Brand Design : enjeux et perspectives. Premières journées de recherches sur le design de la marque"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749809"
 publisher: "Université de Limoges"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

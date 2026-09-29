@@ -1,5 +1,5 @@
 ---
-uuid: 3d08d8f9-ba2a-4f11-8b9c-c4def5f6a94e
+uuid: 78c74f86-5a1c-4ccf-af6a-d84ad71f06e8
 title: "Love Data Week"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605984"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: a8d6bd30-1f27-4db7-ac05-061371cdad82
+uuid: 840afd49-8265-4e5d-a588-da64a92c44b1
 title: "Journée d’étude Zoosemiotique et cultures animalières"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05264622"
 publisher: "Sorbonne Université and Société Française de Zoosémiotique"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

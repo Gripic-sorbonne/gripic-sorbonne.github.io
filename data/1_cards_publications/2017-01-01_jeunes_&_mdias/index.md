@@ -1,5 +1,5 @@
 ---
-uuid: 122eae35-3dce-4ca1-9d47-17a2b3dfeb27
+uuid: 9123079b-e034-4524-93d6-e0fd05c3ad2e
 title: "Jeunes & Médias"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03767309"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

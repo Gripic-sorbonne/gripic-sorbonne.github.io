@@ -1,5 +1,5 @@
 ---
-uuid: 184ef941-c605-4a19-8706-63ae44b2f65d
+uuid: 5c667132-d95d-487b-bc9d-e0d0ce7deca4
 title: "Humanistica 2024"
 author: "Édouard Bouté, Virginie Julliard, Félix Alié, David Gödicke, Fred Pailler, Victor Ecrement"
 authors: "Édouard Bouté, Virginie Julliard, Félix Alié, David Gödicke, Fred Pailler, Victor Ecrement"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04687627"
 publisher: "Association francophone des humanités numériques"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

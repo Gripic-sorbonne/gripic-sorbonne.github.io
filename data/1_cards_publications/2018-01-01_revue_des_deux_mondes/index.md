@@ -1,5 +1,5 @@
 ---
-uuid: 43b89221-447e-448c-852b-127ba3b9c334
+uuid: c87786e1-f74a-49b1-b86e-3907ad210c4f
 title: "Revue des Deux Mondes"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750865"
 publisher: "Société de la Revue des Deux Mondes"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

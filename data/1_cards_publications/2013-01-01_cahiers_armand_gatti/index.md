@@ -1,5 +1,5 @@
 ---
-uuid: 258bbc76-733e-41fd-9886-60432f0de776
+uuid: 93f140d6-a668-4455-9274-5046e5b3e104
 title: "Cahiers Armand Gatti"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-05605811"
 publisher: "La Parole errante"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

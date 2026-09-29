@@ -1,5 +1,5 @@
 ---
-uuid: 556a1046-a9be-4762-b91a-64a64e05b93a
+uuid: 095d259a-65d7-4e0b-ab17-55cd693e331f
 title: "De la créativité à la réactivité : repenser le travail affectif sur YouTube comme réaction"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758796"
 publisher: "XIXe Congrès de la SFSIC and MSH Paris Nord"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

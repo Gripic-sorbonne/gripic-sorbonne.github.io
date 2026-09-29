@@ -1,5 +1,5 @@
 ---
-uuid: 1f85dc45-9386-460d-ba8e-b586f7ec18f2
+uuid: 12360aa7-f9d9-4122-8617-7321f1cae50a
 title: "Exhibiting Migration: Centering Migrant Experiences, Voices, and Perspectives within the Museum"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04865479"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 7abb3e1c-a5fa-4ae6-8d27-6fabf25b6c2a
+uuid: 2bcf34c9-c587-4240-9fe3-4783aa00cbd8
 title: "Communication et Management : Revue internationale des sciences commerciales"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03608554"
 publisher: "Eska (Paris, France) [2013, vol. 10, n 1 - ....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

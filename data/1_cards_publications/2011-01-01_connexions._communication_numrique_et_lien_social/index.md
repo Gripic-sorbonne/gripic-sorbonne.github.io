@@ -1,5 +1,5 @@
 ---
-uuid: e89c2c07-b2a3-4a5b-8228-c4a73b4f7d28
+uuid: 4227be10-f773-4309-8250-c97fac62fe9c
 title: "Connexions. Communication numérique et lien social"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03752960"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

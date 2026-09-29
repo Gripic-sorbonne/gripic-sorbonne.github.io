@@ -1,5 +1,5 @@
 ---
-uuid: 4c24a9ab-0545-45ed-b9ba-0198bb11b0ee
+uuid: 0abe60e5-4624-45ac-bdfc-031b02aac834
 title: "Médias pouvoirs Politiques, économies et stratégies des médias"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03754532"
 publisher: "Bayard"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

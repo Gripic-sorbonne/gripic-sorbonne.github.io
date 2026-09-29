@@ -1,5 +1,5 @@
 ---
-uuid: f8eaf21e-44c2-417e-8326-6d6f4087b020
+uuid: f9025270-01f9-4bcf-990b-307483370b1e
 title: "Vigneronnes, la part des anges ?"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-05083183"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: b310524b-392e-492e-8b7c-251aed2c3bd3
+uuid: 211837f9-9310-4306-8c36-20e9b7786c3f
 title: "Séminaire de lecture du GRIPIC ”Mikhaïl Bakhtine”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160339"
 publisher: "GRIPIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

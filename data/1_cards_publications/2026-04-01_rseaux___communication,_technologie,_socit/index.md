@@ -1,5 +1,5 @@
 ---
-uuid: e1e8d0e2-bcf6-425e-bf2a-b4bd37507186
+uuid: 0ac4e881-ab57-4f51-9ecf-786b312fdc3b
 title: "Réseaux : communication, technologie, société"
 author: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
 authors: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-05609655"
 publisher: "Lavoisier, La Découverte"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

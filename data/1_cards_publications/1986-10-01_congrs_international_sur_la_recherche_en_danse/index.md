@@ -1,5 +1,5 @@
 ---
-uuid: eaa3d10c-926d-4a41-a751-d3ea62db6c6f
+uuid: 34baeb2a-024a-4b9b-af1e-634f8d80ca17
 title: "Congrès international sur la recherche en danse"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754590"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 1b969628-cad0-4dd0-9126-5dcc967ce9d9
+uuid: d8a6072f-111e-471c-86c2-0415a7bb9e33
 title: "Jacques Perriault : le savant, l’expert et le politique"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03968171"
 publisher: "CNED-Centre national d’enseignement à distance"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

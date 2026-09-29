@@ -1,5 +1,5 @@
 ---
-uuid: d8a3ac86-503b-44c1-91be-e734fe8f0d0e
+uuid: 545af724-6aa2-4b8c-8a29-82c904b8896f
 title: "Les relations (des)enchantees entre humains et animaux dits de compagnie"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-05264762"
 publisher: "SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

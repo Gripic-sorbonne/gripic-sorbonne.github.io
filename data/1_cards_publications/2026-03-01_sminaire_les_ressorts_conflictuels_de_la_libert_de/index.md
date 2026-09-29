@@ -1,5 +1,5 @@
 ---
-uuid: d42cdd31-ba53-423e-ac6d-b8776435e3c4
+uuid: 54b133c2-26cc-4584-b2f7-32b7ccbfd52a
 title: "Séminaire ”Les ressorts conflictuels de la liberté d’expression”"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606017"
 publisher: "GRIPIC-GERiiCO"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

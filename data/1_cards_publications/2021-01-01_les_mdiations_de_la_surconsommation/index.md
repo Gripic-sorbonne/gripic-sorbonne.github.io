@@ -1,5 +1,5 @@
 ---
-uuid: 51bd1178-1803-4b56-817b-4db466b5632a
+uuid: 59872d68-6164-47e2-aae0-f06a446694b9
 title: "Les médiations de la surconsommation"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03768214"
 publisher: "Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

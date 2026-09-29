@@ -1,5 +1,5 @@
 ---
-uuid: 74c579c7-b84e-4149-b764-f089dc7c666d
+uuid: 6e32667b-41d4-4015-96be-6dfb790c1aa7
 title: "Journée d’étude - Communication, Santé, Environnement - IRSIC"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127882"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

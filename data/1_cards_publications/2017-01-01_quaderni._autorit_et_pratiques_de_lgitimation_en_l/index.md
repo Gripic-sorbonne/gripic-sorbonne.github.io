@@ -1,5 +1,5 @@
 ---
-uuid: 1e9b30ef-7e68-4674-b767-f780ac3be41a
+uuid: c0958aef-b95c-4d21-94ff-62cc86e3978b
 title: "Quaderni. Autorité et pratiques de légitimation en ligne"
 author: "Etienne Candel, Pergia Gkouskou-Giannakou"
 authors: "Etienne Candel, Pergia Gkouskou-Giannakou"
@@ -9,7 +9,6 @@ type: ""
 url: "https://shs.hal.science/halshs-01709098"
 publisher: "Editions de la Maison des Sciences de l’Homme"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

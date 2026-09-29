@@ -1,5 +1,5 @@
 ---
-uuid: b06bcdb2-5c86-4649-9ec5-e4cabfcdf4b8
+uuid: 32673ea2-7dd9-4672-ae6b-4a14fe94fd72
 title: "Journalists and Knowledge Practices. Histories of Observing the Everyday in the Newspaper Age"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03966990"
 publisher: "Routledge"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

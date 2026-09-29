@@ -1,5 +1,5 @@
 ---
-uuid: ace8b303-fead-42fc-bd48-bec31383a61b
+uuid: d581e6a1-8585-49e7-8197-44ef01fccf1f
 title: "La stratégie de marque dans le secteur audiovisuel"
 author: "Caroline Marti de Montety"
 authors: "Caroline Marti de Montety"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754358"
 publisher: "Université de Toulouse 2-Le Mirail"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

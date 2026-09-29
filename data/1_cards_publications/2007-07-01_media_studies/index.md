@@ -1,5 +1,5 @@
 ---
-uuid: a2942abb-c61d-4122-a43e-2c7a48f0513e
+uuid: 688bb154-9660-4afc-aa90-6f64e84c27d6
 title: "Media Studies"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04168944"
 publisher: "Islamic Azad University science and research branch"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

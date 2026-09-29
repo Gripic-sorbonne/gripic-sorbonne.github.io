@@ -1,5 +1,5 @@
 ---
-uuid: c4a75fb6-1636-4c96-bf0d-a52aa38ce580
+uuid: 368d8980-3242-4a63-829e-dff648ac3431
 title: "Dans la tête de Sputnik"
 author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03723041"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

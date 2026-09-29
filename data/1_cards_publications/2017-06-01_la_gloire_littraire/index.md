@@ -1,5 +1,5 @@
 ---
-uuid: d4feedde-7f68-4e00-b87e-c26dd6c7a142
+uuid: e103133c-b3ea-4f63-9804-57b61ea77e64
 title: "La gloire littéraire"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754340"
 publisher: "Labex OBVIL, Paris-Sorbonne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

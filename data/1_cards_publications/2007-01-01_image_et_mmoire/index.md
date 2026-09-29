@@ -1,5 +1,5 @@
 ---
-uuid: 99a350ed-3fd9-4ddb-a605-0a4c378ffe55
+uuid: 4d9abfb6-b8c3-4717-8e8d-2074625da639
 title: "Image et mémoire"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03760411"
 publisher: "Obsidiane - Les Belles Lettres"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: b47ab956-911f-4d7b-bf31-89b5e014f89f
+uuid: 9ec9e0c2-1be6-4e8e-afee-f5cde1be6ed9
 title: "Lire, écrire, récrire. Objets, signes et pratiques des médias informatisés"
 author: "Emmanuël Souchier, Yves Jeanneret, Joelle Le Marec"
 authors: "Emmanuël Souchier, Yves Jeanneret, Joelle Le Marec"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03760418"
 publisher: "Bpi – Centre Pompidou"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

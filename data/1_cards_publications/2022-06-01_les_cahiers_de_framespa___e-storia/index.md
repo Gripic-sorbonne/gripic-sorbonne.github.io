@@ -1,5 +1,5 @@
 ---
-uuid: 1ed2db85-2e61-4858-a814-a93c13474f01
+uuid: d5e88c76-e9dd-408f-bbba-11fde5c52b51
 title: "Les Cahiers de Framespa : e-Storia"
 author: "Antoine Lalande, Joëlle Le Marec"
 authors: "Antoine Lalande, Joëlle Le Marec"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03968256"
 publisher: "laboratoire FRAMESPA (UMR 5136, Université Toulouse - Jean Jaurès / CNRS)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

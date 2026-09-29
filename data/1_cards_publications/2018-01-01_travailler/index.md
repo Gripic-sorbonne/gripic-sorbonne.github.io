@@ -1,5 +1,5 @@
 ---
-uuid: 16eaada7-3e4a-4969-bbfb-4486a68daae5
+uuid: 17c64e49-a8d2-45dd-8bf1-2b7b2b47f9f0
 title: "Travailler"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03749877"
 publisher: "Martin Média"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

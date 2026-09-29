@@ -1,5 +1,5 @@
 ---
-uuid: 8df9cf0a-faa6-4393-8873-ca2fc257996c
+uuid: 4885eb7e-345b-47e3-8304-9c9781ebfd6e
 title: "Ville d’eau, eau de vie"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750101"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

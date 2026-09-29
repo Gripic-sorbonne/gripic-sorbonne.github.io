@@ -1,5 +1,5 @@
 ---
-uuid: 440d51e7-0e15-46bb-89a2-e37b12fcdff3
+uuid: 1234f092-a34d-4e6a-ac17-6bd162c9c9ed
 title: "Retrospective et perspective : 1989 - 2009 H2PTM’38"
 author: "Sophie Pène, Cathy Dubois"
 authors: "Sophie Pène, Cathy Dubois"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-00409488"
 publisher: "Hermes Science Publications"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

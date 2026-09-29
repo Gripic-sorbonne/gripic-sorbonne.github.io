@@ -1,5 +1,5 @@
 ---
-uuid: 6095c00f-b1f5-47dd-8a0f-71d85e0fbb08
+uuid: 8d4cb55b-9f00-4ee5-92bb-09193f7ea52b
 title: "Journée d’étude GRIPIC-IRSIC, Ville d’eau, eau de vie"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127889"
 publisher: "Université Aix-Marseille"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

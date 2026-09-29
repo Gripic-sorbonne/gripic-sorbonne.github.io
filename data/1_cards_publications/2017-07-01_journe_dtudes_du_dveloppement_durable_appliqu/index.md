@@ -1,5 +1,5 @@
 ---
-uuid: a7bca8b0-c4ff-4b35-b249-5772e5ea7a4b
+uuid: 4ddd4899-3b12-476f-b3ac-1261609cbebb
 title: "Journée d’études DU Développement Durable Appliqué"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-03127913"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

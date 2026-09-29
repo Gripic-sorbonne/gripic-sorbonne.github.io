@@ -1,5 +1,5 @@
 ---
-uuid: 5696d53e-2ec7-46c0-b4b1-632305ced747
+uuid: e0e6e402-ae47-4dba-bfdd-fe2fb364aa87
 title: "Littérature et Cinéma : une perspective comparée"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750739"
 publisher: "UFR Littérature Générale et Comparée - Paris 3 et le Grupo de Investigacion sobre Literatura y Tecnologias Audiovisuales : “ L’adaptation cinématographique .”"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

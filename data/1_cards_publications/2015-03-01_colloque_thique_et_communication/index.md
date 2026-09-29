@@ -1,5 +1,5 @@
 ---
-uuid: e5ae21ae-0a52-4a26-b100-d20818a78dc0
+uuid: bcbd02a0-59fd-4010-b392-6958bc074b6d
 title: "Colloque “ Éthique et communication ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773520"
 publisher: "GRIPIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

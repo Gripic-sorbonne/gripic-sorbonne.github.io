@@ -1,5 +1,5 @@
 ---
-uuid: b7ab8423-431e-4f1d-8c79-cae4f301ffba
+uuid: 8503d949-19ad-4e7f-a279-d66256d0c0a7
 title: "Communication et langages"
 author: "Alexandra Saemmer, Virginie Julliard"
 authors: "Alexandra Saemmer, Virginie Julliard"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03998805"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

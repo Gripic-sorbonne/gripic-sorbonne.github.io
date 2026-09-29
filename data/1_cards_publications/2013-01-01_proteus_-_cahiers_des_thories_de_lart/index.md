@@ -1,5 +1,5 @@
 ---
-uuid: 40016aa1-bb4e-4b08-b586-187af323bcba
+uuid: 1e16e62e-5880-4846-bb3e-0e632a75676b
 title: "Proteus - Cahiers des théories de l’art"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03749332"
 publisher: "Proteus"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

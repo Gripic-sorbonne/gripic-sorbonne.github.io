@@ -1,5 +1,5 @@
 ---
-uuid: 792c16f2-6d3e-44c2-8835-2190d57b9896
+uuid: f0b08f58-22d6-4aa5-b678-184c63128183
 title: "Convergence des médias et Communication numérique"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773564"
 publisher: "School of Media & Communication, Shanghai Jiao Tong University"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

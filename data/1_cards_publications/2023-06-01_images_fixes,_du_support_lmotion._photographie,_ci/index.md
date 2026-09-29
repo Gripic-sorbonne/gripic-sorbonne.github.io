@@ -1,5 +1,5 @@
 ---
-uuid: 7228ca03-62e5-44d3-a268-8109f5344529
+uuid: 1d16d208-22fd-4aaa-abd3-70daf1b5e2db
 title: "Images fixes, du support à l’émotion. Photographie, cinéma, vidéo"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04118184"
 publisher: "Cerlis and Ircav and Labex ICCA and Sorbonne Nouvelle"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

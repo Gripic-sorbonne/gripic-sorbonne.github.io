@@ -1,5 +1,5 @@
 ---
-uuid: 65822a09-85fc-4719-9688-cee3eb904ac3
+uuid: a34751ac-2557-4b2d-a53d-1fc568198a7f
 title: "Malice, le Magazine des Littératures et des Cultures à l’ère numérique"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-02902248"
 publisher: "Centre interdisciplinaire d’étude des littératures d’Aix Marseille (Cielam)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

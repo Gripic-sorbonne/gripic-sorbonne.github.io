@@ -1,5 +1,5 @@
 ---
-uuid: 4d3c4190-34de-4433-aa74-1d2f8ac3922c
+uuid: 5a25fe9b-13fd-465c-b458-2f80229e738f
 title: "Bêbêtes et autres animaux secs (arbres, nids ou bergers...)"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761095"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

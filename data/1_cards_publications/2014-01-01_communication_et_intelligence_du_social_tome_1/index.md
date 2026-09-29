@@ -1,5 +1,5 @@
 ---
-uuid: fbfa362d-77ce-44e2-ad49-b251def580a6
+uuid: 2c60ccde-324a-49c4-a9ca-f98a9270d3b0
 title: "Communication et intelligence du social tome 1"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03750032"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 54b8c964-75ac-45a2-9167-2f09ae75f63e
+uuid: 6aac7036-47f8-47f6-8193-1d71ad33312d
 title: "Etudes digitales"
 author: "Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty"
 authors: "Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03760620"
 publisher: "Classiques Garnier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

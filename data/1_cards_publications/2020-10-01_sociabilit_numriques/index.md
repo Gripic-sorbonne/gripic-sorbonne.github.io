@@ -1,5 +1,5 @@
 ---
-uuid: bef3fa46-ad5e-4f0c-a366-a97907d792da
+uuid: 58dede78-42fb-43e3-8010-7192252fb6c7
 title: "Sociabilité numériques"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.sorbonne-universite.fr/hal-03136448"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

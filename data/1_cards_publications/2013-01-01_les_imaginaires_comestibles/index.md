@@ -1,5 +1,5 @@
 ---
-uuid: 8fa3b626-4756-4605-8e51-df012d574a4e
+uuid: 30b91ecd-3db2-46ad-b3c3-a21930da62d6
 title: "Les imaginaires comestibles"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03758428"
 publisher: "Poli éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

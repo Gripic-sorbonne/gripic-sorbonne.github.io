@@ -1,5 +1,5 @@
 ---
-uuid: 89d539f1-325c-4347-bd53-1b751122a05f
+uuid: 89aa59bc-0e6a-4b6a-a3dc-41bbd386de0e
 title: "Interfaces numériques"
 author: "Mathilde Vassor"
 authors: "Mathilde Vassor"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03773990"
 publisher: "Editions design numérique"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 8c26685e-14e6-4f4f-a8f2-5b03804702f8
+uuid: dcdedd8d-fd59-46d4-ae24-c0907dae0ebe
 title: "Conserveries mémorielles"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03741994"
 publisher: "IHTP/CELAT"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

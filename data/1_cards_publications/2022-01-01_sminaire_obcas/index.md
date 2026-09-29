@@ -1,5 +1,5 @@
 ---
-uuid: c8680623-2658-4e4f-aa28-4d01a976f24f
+uuid: 1b9f3ff4-a7dc-4631-874f-67a374ca6cd6
 title: "Séminaire Obcas"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750758"
 publisher: "Université Paris 2 - Assas"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

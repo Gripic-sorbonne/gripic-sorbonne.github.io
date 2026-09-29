@@ -1,5 +1,5 @@
 ---
-uuid: d090b039-4616-422b-a3dd-24ffb0e87b45
+uuid: 004cc15f-b5a1-4cd9-917f-80e6136f1dae
 title: "Genealogies of online content identification"
 author: "Maria Eriksson, Guillaume Heuguet"
 authors: "Maria Eriksson, Guillaume Heuguet"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.sorbonne-universite.fr/hal-03987163"
 publisher: "Taylor & Francis"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

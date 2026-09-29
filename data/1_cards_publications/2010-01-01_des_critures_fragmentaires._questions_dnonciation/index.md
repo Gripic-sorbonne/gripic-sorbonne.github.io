@@ -1,5 +1,5 @@
 ---
-uuid: fdb38834-af58-499d-ace2-d6885267ec94
+uuid: a259ae5c-c781-4fe7-9bd3-908af1d6ce18
 title: "Des écritures fragmentaires. Questions d’énonciation"
 author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749714"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

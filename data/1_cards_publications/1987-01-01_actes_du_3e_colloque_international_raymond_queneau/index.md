@@ -1,5 +1,5 @@
 ---
-uuid: 6a279298-b2e7-4cff-90d0-5da9726cc582
+uuid: b305fe59-7152-4ed7-9243-9340a6078133
 title: "Actes du 3e Colloque international Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761058"
 publisher: "Verviers"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

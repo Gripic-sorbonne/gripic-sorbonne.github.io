@@ -1,5 +1,5 @@
 ---
-uuid: 54325075-85ea-4324-81d6-337b44573a22
+uuid: b41df92d-b5da-4680-bc47-dc3b0e0b72ca
 title: "Les scènes de l’humour"
 author: "Nelly Quemener, Marie Duret Pujol"
 authors: "Nelly Quemener, Marie Duret Pujol"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03758394"
 publisher: "Presses Universitaires de Bordeaux - PUB (1983 à …) / Atelier de recherche transdisciplinaire Esthétique et sociétés - ARTES"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

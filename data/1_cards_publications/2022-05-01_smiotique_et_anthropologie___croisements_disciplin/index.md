@@ -1,5 +1,5 @@
 ---
-uuid: 1de6fbdf-1115-4d63-85a2-58d6b265bf7d
+uuid: b32f8de1-d7dd-4fbd-9f0d-955512e2654a
 title: "Sémiotique et anthropologie : croisements disciplinaires, pratiques et méthodes d’enquête, théories pour l’interprétation"
 author: "Pauline Brouard"
 authors: "Pauline Brouard"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767279"
 publisher: "Acfas"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

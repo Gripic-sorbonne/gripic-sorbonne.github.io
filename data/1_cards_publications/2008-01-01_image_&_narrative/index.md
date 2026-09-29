@@ -1,5 +1,5 @@
 ---
-uuid: d04d6e47-b1fc-4b56-b576-203201047ba6
+uuid: aea70101-f55e-449b-bd21-3e56f46047fa
 title: "Image & Narrative"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03749678"
 publisher: "Leuven : Instituut voor Culturele Studies"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

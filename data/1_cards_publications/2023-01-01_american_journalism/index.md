@@ -1,5 +1,5 @@
 ---
-uuid: 369a6e8f-b975-4c96-8d75-ab1c805d7edb
+uuid: 014cf7ed-6bfc-472b-a898-9c33175e9949
 title: "American Journalism"
 author: "Clara Bordier"
 authors: "Clara Bordier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04101192"
 publisher: "Taylor & Francis (Routledge)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

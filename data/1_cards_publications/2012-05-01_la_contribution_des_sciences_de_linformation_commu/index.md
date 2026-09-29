@@ -1,5 +1,5 @@
 ---
-uuid: dc74b570-860f-4072-9b5e-6b9c0dce7400
+uuid: 6f6fdb61-0f96-421d-9731-40dbf4fc4e82
 title: "La contribution des sciences de l’information – communication aux débats publics"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758914"
 publisher: "XVIIIe Congrès de la SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 4bb0fc44-9135-4377-ad9a-e37da47497b8
+uuid: 3beec8cc-37b7-42c8-982e-cffda49056c0
 title: "Actes des doctorales de la SFSIC – Dijon 2022"
 author: "Marie-lise Buisson"
 authors: "Marie-lise Buisson"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03963876"
 publisher: "SFSIC and Laboratoire CIMEOS"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

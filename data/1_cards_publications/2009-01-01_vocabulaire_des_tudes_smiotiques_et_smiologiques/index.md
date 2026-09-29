@@ -1,5 +1,5 @@
 ---
-uuid: db9326bf-275f-4152-aee0-a9de602395d4
+uuid: c6869481-af08-442d-99db-a7667e695acc
 title: "Vocabulaire des études sémiotiques et sémiologiques"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03760520"
 publisher: "Éditions Honoré Champion - Presses universitaires de Franche Comté"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

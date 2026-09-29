@@ -1,5 +1,5 @@
 ---
-uuid: 4982d073-6276-4abd-b0e1-65f60426c5ad
+uuid: 9506299b-3406-4787-9a6a-ebadef83640d
 title: "Colloque COSMOS"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750119"
 publisher: "Laboratoire CIMEOS, EA 4177, Université de Bourgogne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

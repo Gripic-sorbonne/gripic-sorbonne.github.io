@@ -1,5 +1,5 @@
 ---
-uuid: 8e9f4806-424c-4e93-b64b-e36c2d223076
+uuid: 699097e9-1d71-4533-a844-ea8b4dcd4a3d
 title: "Argent numérique : pratiques et enjeux"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04733741"
 publisher: "Université Gustave Eiffel - LATTS and Université de Caen Normandie - CERREV and Orange Innovation and La Banque de France"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

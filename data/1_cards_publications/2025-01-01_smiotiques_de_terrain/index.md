@@ -1,5 +1,5 @@
 ---
-uuid: 77adba0d-7103-4305-b389-a809fac234a1
+uuid: 24305cdd-1773-4c12-93f7-c40f76c83153
 title: "Sémiotiques de terrain"
 author: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
 authors: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-05415639"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

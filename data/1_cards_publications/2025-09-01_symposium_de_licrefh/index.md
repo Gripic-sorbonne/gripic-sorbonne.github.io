@@ -1,5 +1,5 @@
 ---
-uuid: c906bb20-9a2b-4be9-88e5-3ea47a2c8036
+uuid: a01de810-60d9-45a2-9b6d-52a7f95f5593
 title: "Symposium de l’ICREFH"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05411530"
 publisher: "International Commission for Research into European Food History"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

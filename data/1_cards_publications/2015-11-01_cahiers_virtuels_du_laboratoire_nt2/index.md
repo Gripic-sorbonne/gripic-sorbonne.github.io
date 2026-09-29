@@ -1,5 +1,5 @@
 ---
-uuid: 760e8e55-267e-4d72-8485-49137627f94d
+uuid: bea82f0e-8a5a-4056-9fbc-4d0376b87fb5
 title: "Cahiers virtuels du Laboratoire NT2"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750623"
 publisher: "Université Paul Valéry – Montpellier 3"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

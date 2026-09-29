@@ -1,5 +1,5 @@
 ---
-uuid: 5ac6aadc-e398-4c9e-8f5a-357e0ae99a70
+uuid: f60c97f7-0ca9-4c12-a31d-4adbff2cb50f
 title: "Bases de données et outils numériques : des révélateurs de l’imprimé et du littéraire"
 author: "Guillaume Pinson, Julien Schuh, Pierre-Carl Langlais"
 authors: "Guillaume Pinson, Julien Schuh, Pierre-Carl Langlais"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-01485991"
 publisher: "Marie-Claude Felton and Anthony Glinoer"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

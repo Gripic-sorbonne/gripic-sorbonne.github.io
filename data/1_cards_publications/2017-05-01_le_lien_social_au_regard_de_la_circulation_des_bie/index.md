@@ -1,5 +1,5 @@
 ---
-uuid: 68007c63-3ae4-4912-8867-5c5b7eac4751
+uuid: 2eb9b3c2-a223-44a9-a0b3-0e59d99c1309
 title: "Le lien social au regard de la circulation des biens, des personnes et des capitaux"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749938"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

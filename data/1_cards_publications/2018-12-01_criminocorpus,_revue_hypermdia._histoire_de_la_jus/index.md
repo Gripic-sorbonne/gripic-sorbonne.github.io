@@ -1,5 +1,5 @@
 ---
-uuid: e30e41a7-997f-4b1c-b9c4-d10188a2033e
+uuid: a084c885-4515-4168-a41a-6b71ea276cf1
 title: "Criminocorpus, revue hypermédia. Histoire de la justice, des crimes et des peines"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-02438494"
 publisher: "Criminocorpus [2005-....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

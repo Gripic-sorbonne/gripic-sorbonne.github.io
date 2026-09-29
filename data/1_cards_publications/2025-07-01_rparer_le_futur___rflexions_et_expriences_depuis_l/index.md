@@ -1,5 +1,5 @@
 ---
-uuid: 5450f4c7-1300-4603-b359-27cd6c4ca4a5
+uuid: ecc74e32-f37a-4354-b653-c7ffa3c30bdc
 title: "Réparer le futur ? Réflexions et expériences depuis l’écologie politique"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05053064"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

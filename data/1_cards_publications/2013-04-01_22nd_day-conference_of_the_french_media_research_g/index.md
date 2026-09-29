@@ -1,5 +1,5 @@
 ---
-uuid: b2c0be65-0451-4fd7-949d-df3e71e38d89
+uuid: a5303b9c-1121-4537-91b6-3ad67d0ae8d4
 title: "22nd day-conference of the French Media Research Group (FMRG)"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160341"
 publisher: "Edimbug University"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

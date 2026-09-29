@@ -1,5 +1,5 @@
 ---
-uuid: 050d53d7-ca21-474c-af34-ec93c7b0c3ab
+uuid: 0a473b70-c36d-4a3d-b477-333aa8a66ecb
 title: "Paris, tourisme et métropolisation : échelles, acteurs et pratiques du tourisme d’une destination Capitale"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754555"
 publisher: "Belin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: a7889ee3-cafe-4b1c-83f8-1110988661d7
+uuid: a886a7be-8bde-4d50-93df-54a504a04083
 title: "Encyclopédie critique du genre. Corps, sexualité, rapports sociaux"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758770"
 publisher: "La Découverte"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

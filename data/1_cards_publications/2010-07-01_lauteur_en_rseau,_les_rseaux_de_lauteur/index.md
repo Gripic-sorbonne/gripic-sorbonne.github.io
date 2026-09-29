@@ -1,5 +1,5 @@
 ---
-uuid: 0ee7ab9d-7787-4935-9d69-36cf836fca9b
+uuid: 329d771b-0166-4131-b3c3-28c7c698345f
 title: "L’auteur en réseau, les réseaux de l’auteur"
 author: "Etienne Candel, Gustavo Gomez-Mejia"
 authors: "Etienne Candel, Gustavo Gomez-Mejia"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-01704022"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

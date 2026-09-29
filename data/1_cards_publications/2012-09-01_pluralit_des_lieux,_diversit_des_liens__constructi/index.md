@@ -1,5 +1,5 @@
 ---
-uuid: c413807f-576e-421a-b328-1b5382ac9939
+uuid: bca04de0-e5bf-4f84-9443-6d388bdbc5f8
 title: "Pluralité des lieux, diversité des liens: construction de soi et ouverture à l’autre / Journées Nationales de Chambéry"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754574"
 publisher: "Fédération de la Santé Mentale"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

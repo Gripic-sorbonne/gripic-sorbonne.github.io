@@ -1,5 +1,5 @@
 ---
-uuid: e7a7047d-f671-48af-8b66-6e672434f3d5
+uuid: d268f1bf-e51f-4654-adf9-d7badbed6e99
 title: "IC - 17èmes Journées francophones d’Ingénierie des Connaissances"
 author: "Fabrice Papy"
 authors: "Fabrice Papy"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://inria.hal.science/hal-01026328"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

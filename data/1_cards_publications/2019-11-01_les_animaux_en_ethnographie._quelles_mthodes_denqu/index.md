@@ -1,5 +1,5 @@
 ---
-uuid: 290d5601-c8d0-41f1-a5d7-301dc6b8a993
+uuid: 40e320ae-fd6a-4fc6-8732-aeeb8b1d308f
 title: "Les animaux en ethnographie. Quelles méthodes d’enquêtes, quelles postures éthiques ?"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749930"
 publisher: "Société d’ethnologie française"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

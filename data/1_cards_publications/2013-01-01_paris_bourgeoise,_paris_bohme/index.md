@@ -1,5 +1,5 @@
 ---
-uuid: 899dc27c-c31a-4007-8f20-065a3343ba82
+uuid: ea80de64-3745-4c33-921f-fc33b3668825
 title: "Paris bourgeoise, Paris bohème"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03749815"
 publisher: "PUF"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

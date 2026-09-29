@@ -1,5 +1,5 @@
 ---
-uuid: 3f9dc591-3006-498a-aed6-3e6227860d23
+uuid: d9dad0d2-d8b0-4961-a728-7cd084871a78
 title: "Mauriac au monde comme n’y étant pas. Le journaliste, l’histoire et les médias"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03767175"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

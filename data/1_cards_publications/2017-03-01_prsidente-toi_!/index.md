@@ -1,5 +1,5 @@
 ---
-uuid: 3da025c8-543b-47a6-8762-411e94143b6a
+uuid: 97e9033f-0924-441d-b2b6-10e3b8e347e0
 title: "Présidente-toi !"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750683"
 publisher: "Association des Étudiants de Sciences politiques de l’Université de Nantes (AESP)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

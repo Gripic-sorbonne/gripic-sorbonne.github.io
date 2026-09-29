@@ -1,5 +1,5 @@
 ---
-uuid: c44745c1-e942-4dde-9e3a-a141865b3230
+uuid: d1127d91-ff54-4742-9fa7-31155becca80
 title: "GéoProximitéS"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04279655"
 publisher: "Quamoter"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

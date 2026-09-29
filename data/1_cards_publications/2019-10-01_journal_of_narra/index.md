@@ -1,5 +1,5 @@
 ---
-uuid: 1a698927-f832-4a8e-9893-1d84be06f7f4
+uuid: 1b8f4beb-1f17-4005-90a5-6cb3edbefe84
 title: "Journal of Narra"
 author: "Anita SALEH BOLOURDI, Mir Mohammadreza Heidari"
 authors: "Anita SALEH BOLOURDI, Mir Mohammadreza Heidari"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04173381"
 publisher: "Iran Academy of Literary Criticism"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

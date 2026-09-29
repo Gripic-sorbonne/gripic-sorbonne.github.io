@@ -1,5 +1,5 @@
 ---
-uuid: 627adc83-1d86-4c2a-9905-ed6aee164aa7
+uuid: 2fa7e9c9-70b5-4ead-9664-356d0ebb4e9a
 title: "Mises en scènes politiques et problèmes publics"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750688"
 publisher: "Journée doctorale organisée par le CARISM (IFP) et le GRIPIC (CELSA)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

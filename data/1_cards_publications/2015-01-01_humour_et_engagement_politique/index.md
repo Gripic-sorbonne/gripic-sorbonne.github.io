@@ -1,5 +1,5 @@
 ---
-uuid: d92d8f1b-d692-4b96-9590-448e13d687ed
+uuid: fabb69a6-281e-4076-95d0-2dac7145bb5f
 title: "Humour et engagement politique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758772"
 publisher: "Éditions Lambert-Lucas"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

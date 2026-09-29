@@ -1,5 +1,5 @@
 ---
-uuid: 883a5b8f-189b-46ad-8105-c32c87e53bb4
+uuid: 2e5f408e-7e5c-4c9a-afbc-cbc474180b1b
 title: "Portraits de pays. Textes, images, sons"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767060"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

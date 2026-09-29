@@ -1,5 +1,5 @@
 ---
-uuid: 3bf38189-ee35-45aa-aec8-f0c0c9b27634
+uuid: fb68e3ac-da61-493c-87a0-ba579aeed91a
 title: "Semiotics and Hermeneutics of the Everyday"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03766969"
 publisher: "Cambridge Scholars Publishing"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

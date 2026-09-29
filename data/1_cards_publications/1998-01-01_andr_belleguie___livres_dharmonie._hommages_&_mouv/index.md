@@ -1,5 +1,5 @@
 ---
-uuid: bbc71d80-f755-4d9a-bc1a-28c684607935
+uuid: e3af854b-ab42-4e00-8c9b-e75c9dc19fb8
 title: "André Belleguie : Livres d’harmonie. Hommages & mouvements"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761102"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

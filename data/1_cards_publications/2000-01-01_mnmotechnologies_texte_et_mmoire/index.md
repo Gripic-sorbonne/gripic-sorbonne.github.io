@@ -1,5 +1,5 @@
 ---
-uuid: b4badd80-343a-4ebf-966e-852b995e4406
+uuid: ce9e91a6-ab6a-4e24-858c-78d949052077
 title: "Mnémotechnologies – texte et mémoire"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761031"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

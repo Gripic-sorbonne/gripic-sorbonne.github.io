@@ -1,5 +1,5 @@
 ---
-uuid: 4c6172f4-905b-4876-98eb-6e4ea6ad8ed9
+uuid: fa363aa6-e7f7-4247-a9fb-ac5344bd8a05
 title: "Cahiers du Genre"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04270675"
 publisher: "L’Harmattan [1999, n 24-....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

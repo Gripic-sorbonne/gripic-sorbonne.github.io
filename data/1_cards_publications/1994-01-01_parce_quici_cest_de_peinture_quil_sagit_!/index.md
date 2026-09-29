@@ -1,5 +1,5 @@
 ---
-uuid: 7bb6e073-c317-442c-8f27-96ab766c2ef2
+uuid: 38350190-085a-45ee-8b4e-52d8f71ddc70
 title: "“… parce qu’ici c’est de peinture qu’il s’agit !”"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761103"
 publisher: "Galerie Thierry Spira"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

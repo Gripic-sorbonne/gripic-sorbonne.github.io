@@ -1,5 +1,5 @@
 ---
-uuid: bb7fa520-1955-45f4-9e0f-43df989263da
+uuid: 31db9c8e-ea64-487d-b678-337c397bc67a
 title: "Paris sous l’œil des chercheurs"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03749856"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

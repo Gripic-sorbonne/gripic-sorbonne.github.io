@@ -1,5 +1,5 @@
 ---
-uuid: 4312c284-8032-4846-a77b-9ec29164f461
+uuid: 931b3b8a-523d-4a7b-9a00-16f22381b21f
 title: "Le discours publicitaire : fonction et fantasme symbolique"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03768191"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

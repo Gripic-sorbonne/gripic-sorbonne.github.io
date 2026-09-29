@@ -1,5 +1,5 @@
 ---
-uuid: d8669d1c-bac7-4b2e-a473-95e84cca3c6f
+uuid: 15bc66a5-c082-4f2d-9e43-df53fdbb2692
 title: "Changer ou s’éffondrer ? Penser les questions de transition écologiques"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04726634"
 publisher: "RIODD and CLERSE"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

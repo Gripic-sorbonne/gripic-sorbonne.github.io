@@ -1,5 +1,5 @@
 ---
-uuid: b89de6c0-5ee0-41a8-9953-bc03c17e4534
+uuid: 85716234-eabb-4a51-880d-e580be02121d
 title: "Séminaire général"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751305"
 publisher: "Groupe de recherches interdisciplinaires sur les processus d’information et de communication (GRIPIC)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

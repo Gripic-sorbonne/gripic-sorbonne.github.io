@@ -1,5 +1,5 @@
 ---
-uuid: a5f33194-e7f0-4dd5-b2f4-8aa515b92fc5
+uuid: 12627e55-7720-40d1-875c-88a60a65648a
 title: "Émergences : le genre dans la communication et les médias"
 author: "Nelly Quemener, Virginie Julliard"
 authors: "Nelly Quemener, Virginie Julliard"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03758422"
 publisher: "Société Française des Sciences de l’Information et de la Communication"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

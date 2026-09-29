@@ -1,5 +1,5 @@
 ---
-uuid: 920a15bc-88d6-47d1-91fd-a3bff9ae0a37
+uuid: ae909048-0d3e-4136-87c3-ccb5cc2c9bdf
 title: "Études de communication - Langages, information, médiations"
 author: "Thierry Devars, Lucie Raymond, Mathilde Vassor"
 authors: "Thierry Devars, Lucie Raymond, Mathilde Vassor"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750656"
 publisher: "Université de Lille"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

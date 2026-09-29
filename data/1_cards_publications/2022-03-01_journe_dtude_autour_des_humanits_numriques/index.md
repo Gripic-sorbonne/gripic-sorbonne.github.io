@@ -1,5 +1,5 @@
 ---
-uuid: 9c3b3f39-14d9-403b-803a-dd4f437e9e99
+uuid: 0f80b2d0-1545-4bd2-b4c1-8cb1a8d9b4aa
 title: "Journée d’étude autour des humanités numériques"
 author: "Clara Bordier"
 authors: "Clara Bordier"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04101211"
 publisher: "Antoine Doucet (La rochelle, ICTLab)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

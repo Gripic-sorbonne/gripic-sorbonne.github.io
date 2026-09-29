@@ -1,5 +1,5 @@
 ---
-uuid: df691c8c-06d7-459f-9bf8-de76c931a96f
+uuid: 8afc9afa-4a9b-4bbf-bdaa-07a2f0299a78
 title: "Presses anciennes et modernes à l’ère du numérique"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03956300"
 publisher: "Guillaume Pinson and Marie-Ève Thérenty"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

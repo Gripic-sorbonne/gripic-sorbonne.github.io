@@ -1,5 +1,5 @@
 ---
-uuid: 5d4b347a-75fa-46fc-ac66-fd2732291264
+uuid: e82186b6-f691-4e27-a8f5-adfdbb5fd2c8
 title: "Ein fehlender deutsch-französischer kommunikationswissenschaftlicher Diskurs?"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03966767"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

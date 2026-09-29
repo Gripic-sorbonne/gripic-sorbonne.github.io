@@ -1,5 +1,5 @@
 ---
-uuid: b0cc4c21-0720-44fd-b1f1-79bf5f8e8a24
+uuid: 926c680c-6828-4d27-bcc3-13b1da81b7fd
 title: "Tendances RSE 2014"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: ""
 url: "https://shs.hal.science/halshs-03127875"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

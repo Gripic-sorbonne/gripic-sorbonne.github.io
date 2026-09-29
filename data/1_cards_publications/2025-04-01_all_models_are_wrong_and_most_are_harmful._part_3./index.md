@@ -1,5 +1,5 @@
 ---
-uuid: 8c8620cc-f7e3-4225-8f5f-3b2e86551a7f
+uuid: 0ec60b59-9bb1-4403-8bbc-6c476ac18fcf
 title: "All models are wrong and most are harmful. Part 3. Possible explanations"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-05036923"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

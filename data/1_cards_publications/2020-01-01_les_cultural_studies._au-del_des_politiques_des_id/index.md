@@ -1,5 +1,5 @@
 ---
-uuid: 6eadb07f-1090-4b39-bbb8-e2b1f0025b86
+uuid: 16af719d-c791-4a5d-b4ce-6b03f5fad079
 title: "Les Cultural Studies. Au-delà des politiques des identités"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758750"
 publisher: "Les Éditions Le Bord de l’eau"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 457cb93d-c6de-4098-9c01-9a7169eec9c3
+uuid: 2d75d6ff-4595-4ea1-8375-fd38535f60c9
 title: "Recherche et création la sémiogonie en pratique"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750696"
 publisher: "INHA"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

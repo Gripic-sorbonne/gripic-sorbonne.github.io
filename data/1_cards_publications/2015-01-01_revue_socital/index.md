@@ -1,5 +1,5 @@
 ---
-uuid: b63149c1-ce37-458d-a1a5-9300b3bbdc91
+uuid: 08158355-c07a-4e21-a068-f5b99dbd045c
 title: "Revue Sociétal"
 author: "Véronique Richard"
 authors: "Véronique Richard"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03779422"
 publisher: "Institut de l’Entreprise"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

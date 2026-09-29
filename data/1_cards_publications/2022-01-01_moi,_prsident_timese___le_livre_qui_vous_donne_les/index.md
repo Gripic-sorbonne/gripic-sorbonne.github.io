@@ -1,5 +1,5 @@
 ---
-uuid: 5f3a2ddd-3276-42f2-8a7f-edf81e2cff20
+uuid: 6c2fef55-02e9-494f-93f4-7faa371d788a
 title: "Moi, Président\timese : le livre qui vous donne les clefs de l’Élysée"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://univ-reims.hal.science/hal-04279703"
 publisher: "Éditions des Équateurs"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

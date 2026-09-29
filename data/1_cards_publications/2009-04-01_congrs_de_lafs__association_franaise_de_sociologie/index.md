@@ -1,5 +1,5 @@
 ---
-uuid: e27a1bce-0135-48c3-a073-81201a58ea58
+uuid: 5528c1a4-66ed-4532-822f-d916180ba66d
 title: "Congrès de l’AFS (Association Française de Sociologie)"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://utt.hal.science/hal-02968091"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

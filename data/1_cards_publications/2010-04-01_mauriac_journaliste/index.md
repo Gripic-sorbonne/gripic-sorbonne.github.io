@@ -1,5 +1,5 @@
 ---
-uuid: 239c643d-3e7f-4e0a-a2eb-38fd62268351
+uuid: e4b6d028-d232-48c1-bc04-0523b85f1752
 title: "Mauriac journaliste"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767249"
 publisher: "Université Montpellier 3"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

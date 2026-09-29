@@ -1,5 +1,5 @@
 ---
-uuid: 60c210ef-3da5-447a-abb2-82f002d0e9e8
+uuid: b8a8283f-573d-47fd-8071-e7d136c4da61
 title: "No fake news"
 author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03723044"
 publisher: "Éditions Hermann"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

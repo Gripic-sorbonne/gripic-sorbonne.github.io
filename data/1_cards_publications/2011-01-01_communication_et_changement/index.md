@@ -1,5 +1,5 @@
 ---
-uuid: 28764b0d-d23f-4081-bee1-f2b76cab751d
+uuid: cf000d4c-f7a8-49b6-8e04-8732b63bd3db
 title: "Communication et changement"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03750039"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

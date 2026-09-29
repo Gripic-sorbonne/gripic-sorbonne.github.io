@@ -1,5 +1,5 @@
 ---
-uuid: c0a2125d-6c6d-4c69-8fbb-3a9ac979f2f6
+uuid: cb398f41-3590-40da-8f3a-b23b5a3ae125
 title: "Textes, Fragmentation, Créativité II."
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03749261"
 publisher: "Peter Lang"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 6705ce37-1cae-442c-8dca-cfe90dc895e8
+uuid: 7b5999c3-cf87-4c9e-ba69-b617b317d707
 title: "3e Colloque International sur les Usages et Services des Télécommunications"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761028"
 publisher: "Icust, Eusages, Paris, Enst - Get"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

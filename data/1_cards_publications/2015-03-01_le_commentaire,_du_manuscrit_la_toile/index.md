@@ -1,5 +1,5 @@
 ---
-uuid: a859b5d6-3488-43e1-8fbf-282c9744d191
+uuid: 5d487f51-49b5-41bc-b681-b061219a64df
 title: "Le commentaire, du manuscrit à la toile"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750638"
 publisher: "Université Libre de Bruxelles"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

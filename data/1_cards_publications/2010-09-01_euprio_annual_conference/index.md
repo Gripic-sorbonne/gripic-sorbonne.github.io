@@ -1,5 +1,5 @@
 ---
-uuid: 79cf41a8-f57f-4cfb-abe5-092a9538c3d1
+uuid: 2d0b6451-3200-4c66-9a47-e6077f75c1a5
 title: "EUPRIO annual conference"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750140"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

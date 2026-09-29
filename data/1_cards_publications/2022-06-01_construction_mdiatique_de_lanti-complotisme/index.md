@@ -1,5 +1,5 @@
 ---
-uuid: e26b0f05-9acf-49bc-9239-c69b2bd4a65a
+uuid: 75810611-3cfe-45d4-ba6e-2957ec4c04ec
 title: "Construction médiatique de l’anti-complotisme"
 author: "Clara Bordier"
 authors: "Clara Bordier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-04101162"
 publisher: "Société française des sciences de l’information et de la communication; Doctorales de la SFSIC (Société Française des Sciences de l’Information & de la Communication )"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

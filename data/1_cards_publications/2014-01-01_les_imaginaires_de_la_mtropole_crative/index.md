@@ -1,5 +1,5 @@
 ---
-uuid: d502594d-6944-4bb7-9e36-c2e4b1086a5b
+uuid: 379727df-dbee-42d3-8a40-b36bd6f51af9
 title: "Les Imaginaires de la Métropole créative"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03754375"
 publisher: "Mairie de Paris"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

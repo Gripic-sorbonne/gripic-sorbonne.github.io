@@ -1,5 +1,5 @@
 ---
-uuid: fa723b88-0379-4c8c-a6ab-146834da8011
+uuid: a68414e3-1237-440a-8478-a51176f66419
 title: "Springer"
 author: "Yannick Zelle, Thibault Grison, Marc Feger"
 authors: "Yannick Zelle, Thibault Grison, Marc Feger"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606007"
 publisher: "HCII"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

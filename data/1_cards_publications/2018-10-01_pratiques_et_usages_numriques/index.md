@@ -1,5 +1,5 @@
 ---
-uuid: b6948b48-5fa3-4520-9fc0-8deeea55da3d
+uuid: 144aed51-0095-4261-8fa1-bf47c6d18c57
 title: "Pratiques et usages numériques"
 author: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
 authors: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758909"
 publisher: "CNAM; Hermès Lavoisier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

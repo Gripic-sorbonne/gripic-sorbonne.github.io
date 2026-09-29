@@ -1,5 +1,5 @@
 ---
-uuid: 919534a7-e8cc-4474-859a-855ef1cbe1f4
+uuid: 5e653ba8-d1c8-4a3c-b65d-5b8b1563837f
 title: "Lisbon Winter School for the Study of Communication"
 author: "Marie-lise Buisson, Thibault Grison"
 authors: "Marie-lise Buisson, Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03963952"
 publisher: "Faculty of Human Sciences (Universidade Católica Portuguesa) and Center for Media@Risk – Annenberg School for Communication (University of Pennsylvania), the School of Journalism and Communication (Chinese University of Hong Kong), the Annenberg School for Communication and Journalism (University of Southern California) and Faculty of Social Sciences (University of Helsinki)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 4588e53f-a212-45ff-9b09-dd79086e0f5a
+uuid: 77cf87f1-ea8d-4f52-bfeb-a5aceff752e9
 title: "Digital Platforms and the Global South"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04306379"
 publisher: "Routledge"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

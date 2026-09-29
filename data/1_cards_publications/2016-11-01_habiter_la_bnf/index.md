@@ -1,5 +1,5 @@
 ---
-uuid: 17f49bef-9899-488f-9c52-7780eb247126
+uuid: 808d441f-5050-468c-a97c-f55db9bdeb35
 title: "Habiter la BnF"
 author: "Joëlle Le Marec, Judith Dehail"
 authors: "Joëlle Le Marec, Judith Dehail"
@@ -9,7 +9,6 @@ type: "report"
 url: "https://hal.science/hal-01399233"
 publisher: "École des hautes études en sciences de l’information et de la communication (CELSA) ; Bibliothèque nationale de France"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: ec4d13b1-de76-4f64-9fa6-a960cd623e69
+uuid: c768bd3f-a229-4c36-882c-2508ae2adbf6
 title: "Projections. Essais sur la photographie"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03121598"
 publisher: "Anesthetize Éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

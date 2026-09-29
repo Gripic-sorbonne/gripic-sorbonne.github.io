@@ -1,5 +1,5 @@
 ---
-uuid: 49710c5b-cc76-4b0c-94c1-d8cb62a9e98e
+uuid: aff31b1e-8474-4088-b719-65861078ff6d
 title: "Colloque interdisciplinaire “ Langues, cultures et vins en France et dans les pays germanophones et anglophones ”"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05083160"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

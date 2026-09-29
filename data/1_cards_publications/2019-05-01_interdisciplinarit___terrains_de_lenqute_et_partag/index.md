@@ -1,5 +1,5 @@
 ---
-uuid: 81ebad7b-b33b-4f71-a0e4-98fbec552f5c
+uuid: 5e776cb1-dfa6-4f92-b2cf-5485c22fdb39
 title: "Interdisciplinarité : terrains de l’enquête et partages d’expériences"
 author: "Joelle Le Marec"
 authors: "Joelle Le Marec"
@@ -9,7 +9,6 @@ type: ""
 url: "https://media.hal.science/medihal-02182022"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

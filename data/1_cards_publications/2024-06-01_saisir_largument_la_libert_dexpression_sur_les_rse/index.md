@@ -1,5 +1,5 @@
 ---
-uuid: 36aff445-1ec8-420e-92bb-8e97ca4e46d9
+uuid: afa5ca06-dba1-4d25-aca9-98c9281e7c9d
 title: "Saisir l’argument la “ liberté d’expression ” sur les réseaux sociaux : entre circulation et emballement"
 author: "Adélie Laruncet"
 authors: "Adélie Laruncet"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-05505698"
 publisher: "SFSIC (la Société française des sciences de l’information et de la communication); Doctorales de la SFSIC 2024"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

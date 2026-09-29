@@ -1,5 +1,5 @@
 ---
-uuid: 52bfaeec-bb14-4170-bbaa-52415cfffe55
+uuid: 67bbdb18-eb35-42eb-ba40-38e471932b7f
 title: "Les Essentiels d’Hermès"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03608550"
 publisher: "CNRS Edition"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

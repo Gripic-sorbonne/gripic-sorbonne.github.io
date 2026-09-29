@@ -1,5 +1,5 @@
 ---
-uuid: bef605a2-84f5-4c28-bee2-7ec9090331aa
+uuid: 2b7fc9c0-25cb-4fb5-8787-d1b081305536
 title: "L’Observatoire, la revue des politiques culturelles"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758648"
 publisher: "Observatoire des politiques culturelles"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

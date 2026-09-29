@@ -1,5 +1,5 @@
 ---
-uuid: db77dbdf-8ebb-4ed2-bef3-9e312e4b14ef
+uuid: 42c52df0-2b80-4774-a2e7-14d896ca4fa0
 title: "II Colloque franco-chilien de communication d’entreprise"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750143"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

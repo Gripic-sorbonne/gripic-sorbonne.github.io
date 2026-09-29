@@ -1,5 +1,5 @@
 ---
-uuid: 89fee913-451e-49c4-90c7-58ad2f497961
+uuid: af5823f2-233c-4bb8-990f-cb0ce439ee30
 title: "De Europa"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03799831"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

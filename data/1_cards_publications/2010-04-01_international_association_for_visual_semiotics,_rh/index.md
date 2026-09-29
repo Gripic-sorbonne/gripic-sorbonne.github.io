@@ -1,5 +1,5 @@
 ---
-uuid: 68802f1c-3986-4c90-ad5f-44a16d3dc983
+uuid: 682aea3c-8c0f-4ea3-befe-26b040ee16b0
 title: "International Association for Visual Semiotics, Rhétorique du visible. Stratégies de l’image entre signification et communication"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749806"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

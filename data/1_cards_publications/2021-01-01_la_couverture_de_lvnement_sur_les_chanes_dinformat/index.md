@@ -1,5 +1,5 @@
 ---
-uuid: 21f1ec05-7186-4569-8580-a55149447720
+uuid: 4d87e8bd-f81f-4894-a0ea-53eef3454a91
 title: "La couverture de l’événement sur les chaînes d’information encontinu"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03964078"
 publisher: "CNRS Editions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: f0e5a4a1-dccf-46a7-bbdd-185f13204ce9
+uuid: 83dcfcf0-a293-42ff-a486-e2f3c237828c
 title: "Données, textes et documents"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03760986"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

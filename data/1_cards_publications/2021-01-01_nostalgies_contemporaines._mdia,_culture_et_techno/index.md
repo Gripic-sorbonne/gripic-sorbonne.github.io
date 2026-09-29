@@ -1,5 +1,5 @@
 ---
-uuid: f77dd6a3-8a87-4993-9da2-0e7a0d29d7e6
+uuid: f5e329d0-19c8-4fc6-8feb-56e71bd7aea1
 title: "Nostalgies contemporaines. Média, culture et technologie"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03721423"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

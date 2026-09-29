@@ -1,5 +1,5 @@
 ---
-uuid: 875cf5c0-73f4-48ac-89f3-19983c9bb922
+uuid: acd92f30-d45e-46e0-9d4a-cdbc8d20a742
 title: "Journée d’études ”Mode Médias Médiation. Des enjeux communicationels”"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773309"
 publisher: "Gripic Celsa Sorbonne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

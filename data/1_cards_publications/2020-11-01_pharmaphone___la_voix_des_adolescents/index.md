@@ -1,5 +1,5 @@
 ---
-uuid: 972e00a1-12fa-45c9-aad0-ad598716a005
+uuid: 47489bf6-7a74-408e-90b9-5b489d9fbcd2
 title: "Pharmaphone : la voix des adolescents"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03723007"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

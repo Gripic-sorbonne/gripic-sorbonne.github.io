@@ -1,5 +1,5 @@
 ---
-uuid: 0ac21fec-5f4b-4465-8dba-75e864b6a382
+uuid: 3f3307d4-5e6d-426b-873e-fb6c4eedb1a6
 title: "Face au portrait"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03767152"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

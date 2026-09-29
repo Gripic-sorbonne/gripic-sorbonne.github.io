@@ -1,5 +1,5 @@
 ---
-uuid: eabee67b-bb6c-46aa-b175-1e8f540c8b8f
+uuid: 69289f5e-f627-46dd-8698-8aa028453cd6
 title: "Primates"
 author: "Cédric Sueur, Agathe Nicolas, Marie Pelé, Satoshi Hirata"
 authors: "Cédric Sueur, Agathe Nicolas, Marie Pelé, Satoshi Hirata"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://univ-catholille.hal.science/hal-05620095"
 publisher: "Springer Verlag"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

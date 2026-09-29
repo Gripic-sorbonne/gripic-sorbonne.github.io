@@ -1,5 +1,5 @@
 ---
-uuid: 41240f7e-b6b0-420f-a251-c205b83b1e1b
+uuid: 18d61f81-b189-41f3-8150-b48cf3898648
 title: "Micro PBQ"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761043"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

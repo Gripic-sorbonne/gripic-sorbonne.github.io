@@ -1,5 +1,5 @@
 ---
-uuid: 2db60f99-16cd-4f88-9311-9b2b84c75fd7
+uuid: a591046d-7603-401d-9991-256799f25f0b
 title: "La marque objet communicationnel"
 author: "Karine Berthelot-Guiet, Denis Benoit, Christian Marcon"
 authors: "Karine Berthelot-Guiet, Denis Benoit, Christian Marcon"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03749736"
 publisher: "Eska"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

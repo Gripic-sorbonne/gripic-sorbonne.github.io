@@ -1,5 +1,5 @@
 ---
-uuid: 1238887b-a3cb-4ed9-a782-51f4a3682bf4
+uuid: 00f056cb-c6f7-40be-b04a-2e3c3af30060
 title: "Conference of the American Association of Anthropology (AAA)"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749974"
 publisher: "American Association of Anthropology (AAA)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

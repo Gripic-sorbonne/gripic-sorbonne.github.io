@@ -1,5 +1,5 @@
 ---
-uuid: e7bd547e-7673-48be-b9a6-c79ed79b9c9a
+uuid: dbf4572e-0abb-4164-90c3-de4c71874507
 title: "Actes du colloque international ORC IARSIC - ESSACHESS"
 author: "Camille Rondot"
 authors: "Camille Rondot"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03753019"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

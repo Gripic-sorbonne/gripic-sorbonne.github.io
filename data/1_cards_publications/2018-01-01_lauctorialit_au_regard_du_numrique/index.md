@@ -1,5 +1,5 @@
 ---
-uuid: fe7470a2-67f7-4acc-b35b-63a9a17cf25e
+uuid: 5604ac8a-064b-4982-a939-1583a2ea42f8
 title: "L’auctorialité au regard du numérique"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03760980"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

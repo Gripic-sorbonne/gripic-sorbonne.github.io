@@ -1,5 +1,5 @@
 ---
-uuid: 3041bbea-7604-4ef9-b516-25788df30d26
+uuid: 01983091-6e89-43f4-92e4-01880a8aebdd
 title: "R. Queneau, Exercices de style, Œuvres complètes"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03760491"
 publisher: "Gallimard"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

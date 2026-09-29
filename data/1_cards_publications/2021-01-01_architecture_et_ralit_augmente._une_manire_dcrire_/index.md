@@ -1,5 +1,5 @@
 ---
-uuid: 747b1ea0-b302-4671-acb0-56daef435644
+uuid: 59ef16db-5ce3-4b67-82b9-d3dad0f4c62a
 title: "Architecture et réalité augmentée. Une manière d’écrire l’espace : la pensée visuelle instrumentée"
 author: "Pascal Bué"
 authors: "Pascal Bué"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-03181642"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

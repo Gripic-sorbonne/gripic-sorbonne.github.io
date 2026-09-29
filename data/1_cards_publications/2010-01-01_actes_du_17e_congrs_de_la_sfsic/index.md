@@ -1,5 +1,5 @@
 ---
-uuid: e6fb9171-bf94-4583-b7ee-6ab556a6656b
+uuid: 3693ab49-bf6d-490f-8939-96dd26fc5fa9
 title: "Actes du 17e Congrès de la SFSIC"
 author: "Caroline Marti, Karine Berthelot-Guiet"
 authors: "Caroline Marti, Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749770"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 2429386b-9fca-48ed-903c-76c7e7423fcc
+uuid: 91b10430-6c0d-46be-a972-3b0fe9d8453b
 title: "L’entreprise à responsabilité illimitée"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03750018"
 publisher: "Liaisons"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

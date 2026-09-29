@@ -1,5 +1,5 @@
 ---
-uuid: 46eff26f-73f1-46ac-af9f-c0d4170aaac8
+uuid: 4b80336f-9f7e-435a-a176-8fc0506bb189
 title: "Communication"
 author: "Olivier AÏM, Stéphane Billiet"
 authors: "Olivier AÏM, Stéphane Billiet"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03749205"
 publisher: "Dunod"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

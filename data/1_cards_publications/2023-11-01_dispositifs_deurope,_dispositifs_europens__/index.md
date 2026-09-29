@@ -1,5 +1,5 @@
 ---
-uuid: 2148c62f-3162-4ff0-bcbc-b25832c93d0d
+uuid: 5fa01b85-1e9d-48e6-931d-f2963b10aa40
 title: "Dispositifs d’Europe, dispositifs européens ?"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04432691"
 publisher: "Observatoire des discours sur l’Europe and Gripic"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

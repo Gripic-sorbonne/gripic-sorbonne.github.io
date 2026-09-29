@@ -1,5 +1,5 @@
 ---
-uuid: b91bb0b9-6a23-41c5-9878-27528564ef94
+uuid: ce3d8d8f-c486-47f3-9a50-2ebb5b59e5f4
 title: "Sémiotique, mode d’emploi"
 author: "Adeline Wrona, Emmanuël Souchier"
 authors: "Adeline Wrona, Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03767168"
 publisher: "Le Bord de l’eau"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: be9ccef9-10ea-4676-aba4-9ccc0369ffba
+uuid: 2b151a4c-1821-4202-9ff9-e04fda081f16
 title: "Queneau aujourd’hui, Actes du colloque Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761063"
 publisher: "Éd. Clancier-Guénaud"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

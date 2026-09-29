@@ -1,5 +1,5 @@
 ---
-uuid: 77b9f20f-c146-4a70-ac4f-be8f578e1457
+uuid: 39bca5b4-4669-4f4c-9561-2dd82e30e782
 title: "séminaire Tourisme: recherches, institutions, pratiques saison 8"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754550"
 publisher: "EHESS Bâtiment Le France"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

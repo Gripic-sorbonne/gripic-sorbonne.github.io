@@ -1,5 +1,5 @@
 ---
-uuid: 83f9f709-f851-4339-9f7d-e74920bf1c5c
+uuid: ac3d2ede-6f03-42c6-95a4-79d4aaf36a8b
 title: "Entre nostalgie et melancolie : nouveaux regards, nouvelles questions"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04865551"
 publisher: "ARTEC Nanterre Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 21daf034-235b-4a50-b417-c44d29256f1a
+uuid: 180f7e53-5c01-43f5-bbd1-ef2e0916f34d
 title: "IA : enjeux et responsabilités"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-05347465"
 publisher: "CNRS Editions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

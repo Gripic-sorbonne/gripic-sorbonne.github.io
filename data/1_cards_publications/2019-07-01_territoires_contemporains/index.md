@@ -1,5 +1,5 @@
 ---
-uuid: fa466743-c1f8-4fb1-929d-1b19cd1716d0
+uuid: 0f031bc5-15c4-4ebf-a78d-9e2ff2328666
 title: "Territoires contemporains"
 author: "Christèle Couleau, Oriane Deseilligny"
 authors: "Christèle Couleau, Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://ube.hal.science/hal-02185036"
 publisher: "Université de Bourgogne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

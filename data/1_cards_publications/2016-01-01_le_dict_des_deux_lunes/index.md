@@ -1,5 +1,5 @@
 ---
-uuid: d9b790bd-94a2-42d1-ba72-5e174ee639a9
+uuid: c94b63ee-8399-4ceb-a0ab-d45d0479f87c
 title: "Le dict des deux Lunes"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761076"
 publisher: "Bibliothèque Polonaise de Paris"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

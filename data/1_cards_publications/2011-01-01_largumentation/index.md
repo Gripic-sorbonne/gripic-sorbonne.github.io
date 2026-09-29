@@ -1,5 +1,5 @@
 ---
-uuid: 2d65210e-ad5e-4ab2-91cf-0febf6cb1752
+uuid: f11e8861-e89f-4d40-ae8c-f3e79b453b87
 title: "L’Argumentation"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03750011"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

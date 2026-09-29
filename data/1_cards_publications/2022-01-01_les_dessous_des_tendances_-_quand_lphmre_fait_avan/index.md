@@ -1,5 +1,5 @@
 ---
-uuid: 6a706864-3994-43ec-8121-a38d6022a9a9
+uuid: 2ff8fa20-6efc-4500-92f3-0cfdb8a60ceb
 title: "Les dessous des tendances - Quand l’éphémère fait avancer le monde"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03768201"
 publisher: "Editions Ellipses"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: aa8925eb-855e-4288-b6d0-e3cf6f528716
+uuid: b3e78da0-6812-41d9-8007-93e56feb77f3
 title: "Questions de communication. Série actes"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03767199"
 publisher: "Presses universitaires de Nancy"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

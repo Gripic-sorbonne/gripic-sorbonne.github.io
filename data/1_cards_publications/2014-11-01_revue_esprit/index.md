@@ -1,5 +1,5 @@
 ---
-uuid: 15b9ecaf-710a-4efe-958f-b35af1855905
+uuid: 53a4abd3-3ec1-4617-92f4-142e54b0cb71
 title: "Revue Esprit"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-01141216"
 publisher: "Editions Esprit"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

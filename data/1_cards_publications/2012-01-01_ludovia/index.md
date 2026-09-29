@@ -1,5 +1,5 @@
 ---
-uuid: 071796c2-d468-4289-9fec-3943d0df6d57
+uuid: f0679960-7c96-4216-bdf2-26c3047cdfe1
 title: "Ludovia"
 author: "hecate vergopoulos, Charles Boury"
 authors: "hecate vergopoulos, Charles Boury"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767047"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

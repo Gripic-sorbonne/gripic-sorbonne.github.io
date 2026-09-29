@@ -1,5 +1,5 @@
 ---
-uuid: fc31baab-97d1-4394-ad75-61f5a52e02b2
+uuid: acaaf9a3-2b57-496d-a9d3-dc584f9eefd4
 title: "Penser avec Stuart Hall"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758748"
 publisher: "La Dispute"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

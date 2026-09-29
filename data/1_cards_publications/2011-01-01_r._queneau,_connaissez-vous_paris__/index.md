@@ -1,5 +1,5 @@
 ---
-uuid: 5ad98caa-344c-412b-b833-f807e2f1a183
+uuid: a77bcb96-4acf-4e69-97da-336cb4bfe373
 title: "R. Queneau, Connaissez-vous Paris ?"
 author: "Emmanuël Souchier, Odile Cortinovis"
 authors: "Emmanuël Souchier, Odile Cortinovis"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03760482"
 publisher: "Gallimard"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

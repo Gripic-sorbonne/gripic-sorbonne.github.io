@@ -1,5 +1,5 @@
 ---
-uuid: 10df6f19-c71c-4589-9347-dcd243066bdd
+uuid: 4f8376ae-4aea-4ec3-8599-91d2ca090163
 title: "La stratégie de marque dans l’audiovisuel"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03754298"
 publisher: "Armand Colin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

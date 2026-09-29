@@ -1,5 +1,5 @@
 ---
-uuid: c3348524-791a-431f-a84d-168cc2c47233
+uuid: e6a2273a-c349-4cd6-928b-5f8fa6f04789
 title: "The romanian journal of journalism and communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03768228"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

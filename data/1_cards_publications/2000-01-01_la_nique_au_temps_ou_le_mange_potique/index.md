@@ -1,5 +1,5 @@
 ---
-uuid: 4f3412d9-75b5-4cb0-9139-ecf602d287a7
+uuid: 7428a951-fc7f-4b31-b6d1-dd6d10fd1a4b
 title: "La nique au temps ou le manège poétique"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761099"
 publisher: "Orangerie de l’Archevêché de Sens"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

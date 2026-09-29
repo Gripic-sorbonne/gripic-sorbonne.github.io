@@ -1,5 +1,5 @@
 ---
-uuid: ae7d31ad-f812-49bd-9fb1-84ed60df8367
+uuid: 812e1799-3ccc-4037-8828-223304713313
 title: "Names: A Journal of Onomastics"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.sorbonne-universite.fr/hal-04949643"
 publisher: "Maney Publishing"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

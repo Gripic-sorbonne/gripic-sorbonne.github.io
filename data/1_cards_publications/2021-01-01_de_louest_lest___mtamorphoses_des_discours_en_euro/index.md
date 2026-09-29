@@ -1,5 +1,5 @@
 ---
-uuid: db81b65c-b450-4bf1-8b11-b443ba8ffca1
+uuid: 70ecac1f-e807-40f8-ad23-4f24084a439e
 title: "De l’Ouest à l’Est : Métamorphoses des Discours en Europe"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03799774"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

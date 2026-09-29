@@ -1,5 +1,5 @@
 ---
-uuid: 5be61bd1-998b-41b2-8a5b-089d7a5e6719
+uuid: cf6c84e4-5cdd-4edc-a50b-7676e50efeb8
 title: "Les Théories de la surveillance"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03749221"
 publisher: "Armand Colin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

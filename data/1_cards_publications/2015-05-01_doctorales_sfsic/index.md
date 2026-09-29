@@ -1,5 +1,5 @@
 ---
-uuid: 45082684-4861-45aa-b027-714ebfe1b37e
+uuid: 2e90f3fb-b677-4d6d-afaa-0d9a311623f3
 title: "Doctorales SFSIC"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03725102"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

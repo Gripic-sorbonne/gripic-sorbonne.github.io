@@ -1,5 +1,5 @@
 ---
-uuid: 2a354a78-31e6-4da8-aa0e-2b4165b431c9
+uuid: 56deaa2e-5fc8-42f7-9cce-b1992085b967
 title: "Journée d’études “ L’éducation aux médias et à l’information sur tous les fronts ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606009"
 publisher: "CLEMI"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

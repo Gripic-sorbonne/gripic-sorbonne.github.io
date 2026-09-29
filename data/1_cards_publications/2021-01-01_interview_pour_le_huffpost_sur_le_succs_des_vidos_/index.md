@@ -1,5 +1,5 @@
 ---
-uuid: 18480c38-cbb0-48f6-b891-e18a074b9faa
+uuid: cfdf5270-20e0-4ebd-ab9d-c284383bb574
 title: "Interview pour le HuffPost sur le succès des vidéos de récits de faits divers sur les réseaux sociaux."
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03773532"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

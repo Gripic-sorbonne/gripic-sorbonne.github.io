@@ -1,5 +1,5 @@
 ---
-uuid: 30794022-2ecb-43e0-8be5-634f53f299c2
+uuid: 95a59616-4eae-4cfc-920c-7fa4eb3bbad8
 title: "Parole publique"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750049"
 publisher: "Association communication publique"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

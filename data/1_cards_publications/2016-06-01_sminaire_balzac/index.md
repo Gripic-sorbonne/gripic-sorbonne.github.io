@@ -1,5 +1,5 @@
 ---
-uuid: 6dcf2205-2c8f-4168-abbc-f4d2a0201b67
+uuid: 76af63a1-5e53-424e-b9cf-8740767648aa
 title: "Séminaire Balzac"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750637"
 publisher: "Maison de Balzac"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

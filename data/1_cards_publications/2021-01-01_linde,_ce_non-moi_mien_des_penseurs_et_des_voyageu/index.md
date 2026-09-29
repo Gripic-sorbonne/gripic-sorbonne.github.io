@@ -1,5 +1,5 @@
 ---
-uuid: 9d5336cf-c786-4658-8fe4-8502a5b62746
+uuid: 3cde827a-3111-4cb0-be50-fd3fb1ef5890
 title: "L’Inde, ce non-moi mien des penseurs et des voyageurs européens, sous la direction de Vanezia Parlea"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03773283"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

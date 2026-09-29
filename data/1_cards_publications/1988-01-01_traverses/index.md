@@ -1,5 +1,5 @@
 ---
-uuid: 6d30e0d9-f61a-4dc9-ac3a-b44423cd3e13
+uuid: 65372aa1-b1e1-4c9b-832a-19a7cab07777
 title: "Traverses"
 author: "Emmanuël Souchier, Joanna Pomian"
 authors: "Emmanuël Souchier, Joanna Pomian"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761055"
 publisher: "Bpi"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 7a6f3307-bdb3-42e0-877f-18357da526ce
+uuid: b6a5cc8d-4a6b-4064-aa73-e89aab1c53b1
 title: "Biennales d’Ethnographie de l’EHESS 2024"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05556160"
 publisher: "École des Hautes Études en Sciences Sociales"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

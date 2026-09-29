@@ -1,5 +1,5 @@
 ---
-uuid: 2e63ddb9-679b-4bdc-893d-603871005f97
+uuid: b07734ff-3c84-47fd-bcf9-d3918a02cf53
 title: "Séminaire “ Intelligence Design ”"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05609775"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

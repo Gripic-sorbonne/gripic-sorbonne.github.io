@@ -1,5 +1,5 @@
 ---
-uuid: c9c1b869-043e-40db-941a-8e79bd46ce75
+uuid: 628c6d30-54a0-4f94-a4b7-b25fb9d92e06
 title: "3 questions à Julien Tassel sur les usages sociaux du passé"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03766821"
 publisher: "Dunod"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

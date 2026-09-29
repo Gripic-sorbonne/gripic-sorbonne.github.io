@@ -1,5 +1,5 @@
 ---
-uuid: 15b59c87-32e5-4020-83ea-3422561f8c9e
+uuid: e3ceabec-3690-4059-8514-038258869c0e
 title: "Avis à la pub"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03749752"
 publisher: "Le Cherche-midi"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

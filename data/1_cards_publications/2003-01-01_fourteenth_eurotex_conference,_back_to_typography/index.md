@@ -1,5 +1,5 @@
 ---
-uuid: 2ab27830-536a-45c9-ad43-9942da1df23e
+uuid: 87c17d2c-afd3-4e65-91a2-2aefa8f45b4f
 title: "Fourteenth EuroTex Conference, Back to typography"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03760927"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

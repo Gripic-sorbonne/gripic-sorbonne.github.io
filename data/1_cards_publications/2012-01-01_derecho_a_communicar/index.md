@@ -1,5 +1,5 @@
 ---
-uuid: 4ab71707-a08a-411b-9634-50b3a2cbb0a6
+uuid: 9e223678-b6d5-429d-a505-07e639a5ea52
 title: "Derecho a Communicar"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758625"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

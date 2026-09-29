@@ -1,5 +1,5 @@
 ---
-uuid: 02911941-0377-4323-9d80-9eb62d3520fc
+uuid: 6d8076cd-9ac6-47ed-b8a5-4fdf8d28071d
 title: "Stigmatiser : normes sociales et pratiques médiatiques"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754341"
 publisher: "Université de Paris 2 Pantheon Assas"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

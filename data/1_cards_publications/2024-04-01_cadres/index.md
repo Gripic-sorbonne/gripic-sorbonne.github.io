@@ -1,5 +1,5 @@
 ---
-uuid: 81908265-9696-491d-9c21-d8f30b2bc8ca
+uuid: 2b277db9-56a1-4240-ac01-623c852dd40c
 title: "Cadres"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04568762"
 publisher: "Union des ingénieurs et cadres CFDT"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

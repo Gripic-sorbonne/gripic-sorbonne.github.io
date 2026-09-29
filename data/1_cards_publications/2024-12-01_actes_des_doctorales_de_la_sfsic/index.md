@@ -1,5 +1,5 @@
 ---
-uuid: e517c163-3441-4cd8-9a05-60632d708de4
+uuid: d0698ca6-c5af-4cff-a6cf-ba6dbe3c22ad
 title: "Actes des doctorales de la SFSIC"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04814181"
 publisher: "SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

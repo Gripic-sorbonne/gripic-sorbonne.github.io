@@ -1,5 +1,5 @@
 ---
-uuid: 80c2496a-4b4b-4986-b953-428449ca451b
+uuid: 1f402de5-217d-4589-81ff-adb807e1557d
 title: "Rumeur et comm’ sont dans un bateau (électoral)"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03751419"
 publisher: "Chut !"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 02e0041f-0dae-400e-8195-5818da0b46bd
+uuid: a98a0b6e-a680-43f9-bc7a-39180d7b7fac
 title: "Le corpus à l’œuvre"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773510"
 publisher: "Cérep, Université de Reims Champagne Ardenne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: d717bb43-0e76-4a43-a02a-d2c84bb0a47f
+uuid: 6d130ae7-7961-4eea-b89a-7240456d938e
 title: "Communications [EHESS]"
 author: "Nelly Quemener, Antoine Char"
 authors: "Nelly Quemener, Antoine Char"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758741"
 publisher: "Éditions du Seuil [1961-....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

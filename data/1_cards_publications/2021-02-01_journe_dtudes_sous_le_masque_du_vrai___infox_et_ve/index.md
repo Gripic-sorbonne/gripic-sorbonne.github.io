@@ -1,5 +1,5 @@
 ---
-uuid: ac296fed-9d42-451e-ba13-fae1d043f8ca
+uuid: 9c4c32a9-85c5-4a65-9c51-585c59a26ca5
 title: "Journée d’études “ Sous le masque du Vrai : Infox et verites alternatives ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751299"
 publisher: "(Guillaume Roussage, coord.), Université de Picardie"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

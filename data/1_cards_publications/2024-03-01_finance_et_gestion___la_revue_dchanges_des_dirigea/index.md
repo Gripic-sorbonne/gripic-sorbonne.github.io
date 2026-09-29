@@ -1,5 +1,5 @@
 ---
-uuid: 6e9a7979-e16a-48d5-b4ff-4a9299adc35e
+uuid: 468e769a-6aeb-49c0-824e-f29efd50580b
 title: "Finance et gestion : la revue d’échanges des dirigeants financiers"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04568765"
 publisher: "Association nationale des conseillers et contrôleurs de gestion"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

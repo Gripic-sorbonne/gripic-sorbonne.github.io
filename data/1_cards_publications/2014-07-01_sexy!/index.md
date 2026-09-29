@@ -1,5 +1,5 @@
 ---
-uuid: 4c4b7584-45cf-418a-9bc0-7f06f70229a1
+uuid: a0ab2333-957a-4692-b592-cbe194c9e396
 title: "sexy!"
 author: "gabo"
 authors: "gabo"
@@ -9,7 +9,6 @@ type: "chapter"
 url: ""
 publisher: "the -life"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

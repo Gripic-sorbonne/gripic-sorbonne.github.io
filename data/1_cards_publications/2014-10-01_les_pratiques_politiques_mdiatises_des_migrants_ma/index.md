@@ -1,5 +1,5 @@
 ---
-uuid: 1cceb591-3cf6-4397-9830-750b3baf0c26
+uuid: 2f694e3f-c7f9-4d9f-8f76-8b905a59ea82
 title: "Les pratiques politiques médiatisées des migrants marocains : entre écriture de soi et écriture du pays d’origine"
 author: "Asmaa Azizi"
 authors: "Asmaa Azizi"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://hal.science/tel-04972713"
 publisher: "Paris 4"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

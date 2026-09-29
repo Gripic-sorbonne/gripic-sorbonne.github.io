@@ -1,5 +1,5 @@
 ---
-uuid: af760bcb-d5bb-42a4-885c-0aef7d6a1c4a
+uuid: c22f0198-4119-4721-8442-2b16afcb218e
 title: "Communication symbolique et symbolique de la communication dans les sociétés modernes et pot-modernes"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750747"
 publisher: "ORC IARSIC-ESSACHESS"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

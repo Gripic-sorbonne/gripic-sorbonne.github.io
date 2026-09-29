@@ -1,5 +1,5 @@
 ---
-uuid: f18c10c9-3f60-41c7-9a90-52e02dae8675
+uuid: b52791f2-21b3-42bf-9259-99fe4d58b7de
 title: "Mode : Ethique, étiquette, étiquetage"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750713"
 publisher: "Sorbonne Université – Celsa"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

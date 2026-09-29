@@ -1,5 +1,5 @@
 ---
-uuid: 98275a6c-26e9-4d61-ad27-437dcdceedac
+uuid: 0dd89400-5216-4cc6-bc85-b43cfec5e298
 title: "IMPEC “ Interactions Multimodales par Par Ecran ”"
 author: "Thierry Devars, Rym Gerwig-Kirèche, Marion Philippe"
 authors: "Thierry Devars, Rym Gerwig-Kirèche, Marion Philippe"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750677"
 publisher: "ENS de Lyon"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

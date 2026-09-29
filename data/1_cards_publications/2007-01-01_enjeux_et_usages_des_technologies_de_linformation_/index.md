@@ -1,5 +1,5 @@
 ---
-uuid: 8ef5635c-dbe4-400a-9019-1f786444f2ba
+uuid: 7d117128-40ed-4350-8055-1c0ad2ebdd06
 title: "Enjeux et Usages des Technologies de l’Information et de la Communication. Médias et diffusion de l’information : vers une société ouverte"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749797"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

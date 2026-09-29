@@ -1,5 +1,5 @@
 ---
-uuid: 3f74e65f-8e19-4a43-b1b6-065fa816f065
+uuid: c1a26a5a-276a-498e-882e-774e226a3b07
 title: "E-virtuoses"
 author: "hecate vergopoulos, Aude Seurrat, Sarah Labelle"
 authors: "hecate vergopoulos, Aude Seurrat, Sarah Labelle"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767097"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

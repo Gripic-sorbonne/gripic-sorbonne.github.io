@@ -1,5 +1,5 @@
 ---
-uuid: ce900be9-2f2a-478a-a940-787c06fd9a20
+uuid: 5f934d4b-78fd-4ce6-90ff-a73a526cc82a
 title: "Les dessous des marques. Une lecture des marques comme signes des mythes contemporains"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03768204"
 publisher: "Editions Ellipses"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

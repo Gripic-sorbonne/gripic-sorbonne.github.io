@@ -1,5 +1,5 @@
 ---
-uuid: ff1642ec-83ae-4e49-b1cd-7e36f044246f
+uuid: 00ddb31a-d0ff-4a7f-8aac-1253ffc56ea0
 title: "Thinking Through Tourism"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749980"
 publisher: "Association of Social Anthropologist of the UK and Commonwealth (ASA)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

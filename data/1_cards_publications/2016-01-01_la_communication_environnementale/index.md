@@ -1,5 +1,5 @@
 ---
-uuid: bf4dd9e0-d884-4653-9ae4-ea0535aeb75c
+uuid: 845c5a1d-02df-487f-ab75-b241760387ee
 title: "La communication environnementale"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03065409"
 publisher: "CNRS Éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

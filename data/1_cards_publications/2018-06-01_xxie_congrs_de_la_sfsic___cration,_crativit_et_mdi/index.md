@@ -1,5 +1,5 @@
 ---
-uuid: 872637bc-0ef6-445e-9910-2e5087faec50
+uuid: 19650b88-9085-4637-93fa-8aefa8d4dbaf
 title: "XXIe Congrés de la SFSIC : Création, créativité et médiations"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03616145"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

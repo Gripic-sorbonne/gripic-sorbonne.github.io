@@ -1,5 +1,5 @@
 ---
-uuid: 87a13e76-a136-4884-a891-f3937470a77b
+uuid: c0dd71ef-2774-4d09-b945-865f62d13d69
 title: "La Civilisation du journal"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03767179"
 publisher: "Nouveau Monde édition"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

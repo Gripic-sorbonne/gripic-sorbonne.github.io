@@ -1,5 +1,5 @@
 ---
-uuid: 9b41c16e-0ef1-45fc-8dc4-a71156ecc7c4
+uuid: cf6b5e58-f2ec-4feb-9c7c-5c8a85d384b3
 title: "Captation, circulation et effets des images de guerres, conflits et émeutes"
 author: "Berenice Mariau, Lucie Raymond"
 authors: "Berenice Mariau, Lucie Raymond"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04625471"
 publisher: "Michaël Bourgatte and Bénédicte Chéron and Marie-Hélène Chevrier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

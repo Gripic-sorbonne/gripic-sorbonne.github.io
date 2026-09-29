@@ -1,5 +1,5 @@
 ---
-uuid: f20cdd5f-1e27-417a-968f-e4a353da8284
+uuid: 5f11ccaa-c34d-4192-b71a-39733c767fbd
 title: "La médiatisation de l’évaluation – Evaluation in the Media"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://shs.hal.science/halshs-01709058"
 publisher: "Peter Lang"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

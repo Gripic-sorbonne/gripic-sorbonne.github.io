@@ -1,5 +1,5 @@
 ---
-uuid: e2f8e062-426b-4a19-8843-c084ef351420
+uuid: c2389eee-a445-4d17-bb02-aa86d252fcd6
 title: "XXIIe Congrès international des sociologues de langue française, Sciences, savoirs et société"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05264711"
 publisher: "AISLF and Université d’Ottawa and Agence Universitaire de la Francophonie and Conseil de recherche en sciences humaines au Canada and CIRCEM"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

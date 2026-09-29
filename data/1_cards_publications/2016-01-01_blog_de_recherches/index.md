@@ -1,5 +1,5 @@
 ---
-uuid: b4795b18-53fe-479d-bb71-4f8c17ef12e5
+uuid: 388c5fd9-4222-4548-a516-f3149c545b2e
 title: "Blog de recherches"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03754436"
 publisher: "Pôle alimentation ISCC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

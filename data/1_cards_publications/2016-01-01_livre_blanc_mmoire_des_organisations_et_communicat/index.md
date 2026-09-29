@@ -1,5 +1,5 @@
 ---
-uuid: 7e1294fc-1a88-4dca-bc27-c26a97196577
+uuid: 24eebfd1-c96b-4a9e-90b0-96cad8218968
 title: "Livre Blanc Mémoire des organisations et communication interne"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03766817"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

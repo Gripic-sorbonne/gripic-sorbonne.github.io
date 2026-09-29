@@ -1,5 +1,5 @@
 ---
-uuid: e3a6fa8c-bef1-438b-a49a-6b5ca89dd14d
+uuid: c528992a-f6cf-4215-b77c-42a7bc7dcb56
 title: "Terrains/Théories"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758606"
 publisher: "Université Paris Nanterre"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

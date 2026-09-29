@@ -1,5 +1,5 @@
 ---
-uuid: 482ce0cf-c3ee-4607-93a9-36127811d66d
+uuid: 6d5ae3fb-eea5-4642-a0f7-ca74b259fdc2
 title: "Monde(s). Histoire, Espaces, Relations"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03966222"
 publisher: "Rennes : Presses universitaires de Rennes"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

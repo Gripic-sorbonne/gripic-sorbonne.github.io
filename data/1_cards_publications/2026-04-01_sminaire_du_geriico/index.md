@@ -1,5 +1,5 @@
 ---
-uuid: cd5ffaf5-a486-4c70-b31a-77762fcfda9f
+uuid: b8f9b2e3-fdee-451d-88c1-144f1eb3e393
 title: "Séminaire du GERiiCO"
 author: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
 authors: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05606015"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

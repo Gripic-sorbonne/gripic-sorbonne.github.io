@@ -1,5 +1,5 @@
 ---
-uuid: 3b5de115-dace-44be-a2ad-f9ec8b836607
+uuid: 59c06f63-6b09-42b6-a36b-98aa4c526441
 title: "La Furia Umana"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03773297"
 publisher: "Duen de Bux"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

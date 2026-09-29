@@ -1,5 +1,5 @@
 ---
-uuid: 9d6c4eca-738f-4611-9879-a6d84788ccb3
+uuid: 68e6824a-60b1-4ca8-a837-03734f19af17
 title: "Le regard de l’autre/Through the eyes of the other"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750642"
 publisher: "Université de Chennai/Madras"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

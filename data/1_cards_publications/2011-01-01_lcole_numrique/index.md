@@ -1,5 +1,5 @@
 ---
-uuid: 2b027c7d-588c-4c84-b490-a708c0c5eaeb
+uuid: 1fbae263-86c3-4073-ac7a-e29344e7c6ed
 title: "L’école numérique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03752965"
 publisher: "CNDP"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

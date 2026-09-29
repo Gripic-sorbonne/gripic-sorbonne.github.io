@@ -1,5 +1,5 @@
 ---
-uuid: e72054de-a9d6-4bd6-a9f4-b9f5080e9275
+uuid: 4e94133e-4025-44c0-a3e8-f4667460d97e
 title: "Y’a pas qu’un ton dans la boite à Kinton…"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761073"
 publisher: "Moulins de Villancourt"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

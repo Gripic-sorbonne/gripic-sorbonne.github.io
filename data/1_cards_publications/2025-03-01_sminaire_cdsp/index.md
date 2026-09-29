@@ -1,5 +1,5 @@
 ---
-uuid: eca72b6b-24c9-4539-95d2-c97b6b21c2f1
+uuid: aef548cb-8c77-42db-bf0b-e3c4c253eb51
 title: "Séminaire CDSP"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605985"
 publisher: "Sciences Po"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

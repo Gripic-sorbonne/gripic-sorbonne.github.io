@@ -1,5 +1,5 @@
 ---
-uuid: fa5dadd0-6629-44cf-ad7b-bcb9061eb378
+uuid: be84f32a-fad2-4630-a452-ad5d2a38e9b8
 title: "Ina global.fr"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750663"
 publisher: "INA, Institut national de l’audiovisuel"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

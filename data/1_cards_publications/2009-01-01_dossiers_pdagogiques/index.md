@@ -1,5 +1,5 @@
 ---
-uuid: 53515d27-b213-40b9-a152-6fde0a2709dd
+uuid: f4a46642-a294-4033-8c86-122532fb1b06
 title: "Dossiers pédagogiques"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750610"
 publisher: "CLEMI"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

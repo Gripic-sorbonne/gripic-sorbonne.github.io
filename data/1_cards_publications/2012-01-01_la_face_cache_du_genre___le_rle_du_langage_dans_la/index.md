@@ -1,5 +1,5 @@
 ---
-uuid: f45ed7fc-641c-44fe-9e98-a7884312c569
+uuid: 56c77bf4-607f-4a8b-9ce8-4ec58ddc843a
 title: "La face cachée du genre : le rôle du langage dans la transmission et la contestation des normes"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758785"
 publisher: "Presses Universitaires de la Sorbonne Nouvelle"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

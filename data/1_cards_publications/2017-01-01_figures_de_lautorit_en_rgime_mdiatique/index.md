@@ -1,5 +1,5 @@
 ---
-uuid: a67df757-4d60-4cb5-b346-9d12a2fed007
+uuid: 80d73988-ce3b-4189-a70c-2623bded943a
 title: "Figures de l’autorité en régime médiatique"
 author: "Adeline Wrona, Émeline Seignobos"
 authors: "Adeline Wrona, Émeline Seignobos"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03767138"
 publisher: "Les Petits matins"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

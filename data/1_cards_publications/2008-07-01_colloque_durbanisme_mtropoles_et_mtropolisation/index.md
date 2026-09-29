@@ -1,5 +1,5 @@
 ---
-uuid: 09d81a21-726d-4701-b131-a1fcf9bf6b37
+uuid: c4d4037d-98a6-4746-adb4-8c741543d5b0
 title: "Colloque d’Urbanisme ”Métropoles et métropolisation”"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754579"
 publisher: "Université Paris 12"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 5f418701-1c45-4101-8cad-71e3455048e3
+uuid: 308bfb8d-63be-4179-97b5-eff88dad1c90
 title: "Jeunes et médias, les cahiers francophones de l’éducation aux médias"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03767299"
 publisher: "Publibook"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

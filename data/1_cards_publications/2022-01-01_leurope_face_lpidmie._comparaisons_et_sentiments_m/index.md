@@ -1,5 +1,5 @@
 ---
-uuid: 36196f87-5486-4030-b8f1-b0e7d242f486
+uuid: cf559d69-b0bb-4eb8-a04d-40bb9c4e7ead
 title: "L’Europe face à l’épidémie. Comparaisons et sentiments médiatiques"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03799730"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

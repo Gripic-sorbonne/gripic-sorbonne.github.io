@@ -1,5 +1,5 @@
 ---
-uuid: 39ba0ef3-5394-4ecd-9af2-5243774ff64b
+uuid: 59613fac-9e27-43f3-a2b1-90591d5003a3
 title: "L’éducation aux médias et à l’information au prisme de formes et écritures médiatiques renouvelées"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750676"
 publisher: "ESPE"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

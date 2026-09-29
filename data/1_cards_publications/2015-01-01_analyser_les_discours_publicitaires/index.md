@@ -1,5 +1,5 @@
 ---
-uuid: 68ead855-43a9-499e-9deb-3e6ce3a9876a
+uuid: 2e5e970e-28fb-4cbe-811b-46f7bf8f805e
 title: "Analyser les discours publicitaires"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03749722"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

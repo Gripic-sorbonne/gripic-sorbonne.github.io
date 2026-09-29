@@ -1,5 +1,5 @@
 ---
-uuid: f99492c1-a8c2-4f65-af73-b5c1269c0694
+uuid: 38c83727-64b5-4f1e-8ee4-4d4ac6eb2f98
 title: "Musées et Recherches. Le souci du public"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03721413"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

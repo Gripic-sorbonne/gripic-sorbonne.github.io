@@ -1,5 +1,5 @@
 ---
-uuid: 77f787f9-f350-46e3-b685-b336423851d8
+uuid: 556f5ed0-db53-4c58-9028-e46c95738007
 title: "18ème édition de la journée jeunes chercheur.e.s en sciences de l’information et de la communication, ”Le positionnement des jeunes chercheur.e.s en SIC”"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05556192"
 publisher: "Laboratoire Gériico, Université de Lille"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

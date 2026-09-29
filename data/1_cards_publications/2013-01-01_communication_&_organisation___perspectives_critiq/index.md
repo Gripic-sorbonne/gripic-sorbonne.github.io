@@ -1,5 +1,5 @@
 ---
-uuid: 827557ce-3bfa-430b-9ad8-26f932d399c8
+uuid: c30aea57-310b-42f5-95ff-c51a7088ff12
 title: "Communication & organisation : perspectives critiques"
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03766832"
 publisher: "Presses du Septentrion"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

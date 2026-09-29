@@ -1,5 +1,5 @@
 ---
-uuid: bf0957c3-c9ba-4e75-8272-eb481eadd6f9
+uuid: 1d8e2064-90d8-423d-8e8c-74da3477963d
 title: "Écrire le design d’expérience utilisateur : enquête sur la textualisation d’un savoir professionnel numérique"
 author: "Jérémy Lucas-Boursier"
 authors: "Jérémy Lucas-Boursier"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04509114"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

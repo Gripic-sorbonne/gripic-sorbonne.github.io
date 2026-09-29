@@ -1,5 +1,5 @@
 ---
-uuid: ed83cf8a-bd5e-45cb-951a-52f2872a958f
+uuid: febbfe0d-4a94-46a8-8ed6-c5346125d7d8
 title: "Actes des journées d’étude Design… graphique ?"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761022"
 publisher: "École des Beaux-arts de Valence"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

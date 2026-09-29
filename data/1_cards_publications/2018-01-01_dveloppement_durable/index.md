@@ -1,5 +1,5 @@
 ---
-uuid: c2b047ab-8e1e-40d5-81ba-e6f03a80d287
+uuid: e603c165-8340-4f60-891a-7d8cffb2a393
 title: "Développement durable"
 author: "nicole D’Almeida, Solange Tremblay, Thierry Libaert"
 authors: "nicole D’Almeida, Solange Tremblay, Thierry Libaert"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03749998"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

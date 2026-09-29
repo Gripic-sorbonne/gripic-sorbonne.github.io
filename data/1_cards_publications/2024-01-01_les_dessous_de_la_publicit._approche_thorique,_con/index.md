@@ -1,5 +1,5 @@
 ---
-uuid: 7da18b66-83b3-42a8-9508-d772abb147e6
+uuid: 090e0028-95cd-415e-8224-820a191d6931
 title: "Les dessous de la publicité. Approche théorique, contenus, canaux et métiers"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04653481"
 publisher: "Ellipses"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

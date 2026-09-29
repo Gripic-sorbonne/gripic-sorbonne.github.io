@@ -1,5 +1,5 @@
 ---
-uuid: 585dc4c0-5fba-44ef-a564-dae53d3ecf6a
+uuid: af3bbca6-0d49-470c-8c00-8b15578daa12
 title: "Comprendre l’Eurovision"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-05606034"
 publisher: "MkF éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

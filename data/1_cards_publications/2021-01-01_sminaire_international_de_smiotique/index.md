@@ -1,5 +1,5 @@
 ---
-uuid: 8dadae56-4eba-4984-aedf-905ed6d410f5
+uuid: 737dda07-c2fc-4a3c-a837-1d03d0449a06
 title: "Séminaire international de Sémiotique"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964084"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

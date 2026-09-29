@@ -1,5 +1,5 @@
 ---
-uuid: b08c6ef9-3648-4284-a44b-da78940f6e11
+uuid: b9722c9f-939c-4bf5-8ec0-cc6926264334
 title: "Ateliers de la SFIC, Communication"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754578"
 publisher: "La Cité des Sciences"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

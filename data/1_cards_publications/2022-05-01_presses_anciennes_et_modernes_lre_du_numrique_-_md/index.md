@@ -1,5 +1,5 @@
 ---
-uuid: bd47486a-33cd-48f6-9ce7-6c616b0c3ce8
+uuid: f3414217-287b-40f6-9709-19c6c29dcbe3
 title: "Presses anciennes et modernes à l’ère du numérique - Médias 19"
 author: "Violaine Sauty, Oriane Deseilligny"
 authors: "Violaine Sauty, Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://univ-montpellier3-paul-valery.hal.science/hal-04447614"
 publisher: "Guillaume Pinson and Marie-Ève Thérenty"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: b96ad091-e0a4-4d2e-a9f7-39a2c2b955f4
+uuid: 971f39e7-97af-49f1-9691-e44edcca0a0d
 title: "Enjeux et pratiques du développement durable"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750155"
 publisher: "Université de Sherbrooke"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

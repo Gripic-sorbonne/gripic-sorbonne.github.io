@@ -1,5 +1,5 @@
 ---
-uuid: 29bb8a5a-ef50-4d22-b46f-a9ddd63e821a
+uuid: 1e34d5e9-4d9a-48bd-b2b1-324a6cc549fc
 title: "Colloque “ Mondialisation de la communication. La diversité des cultures en question ” XXVème colloque franco-roumain en SIC"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954709"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 38b4ce65-b83b-4ed6-a977-94d9267879a8
+uuid: bd49e62d-7df7-482b-985f-cac357bb876b
 title: "La vie quotidienne des communautés artificielles. Société de disponibilité"
 author: "Sophie Pène"
 authors: "Sophie Pène"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-00132522"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

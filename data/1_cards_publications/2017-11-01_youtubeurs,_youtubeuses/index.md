@@ -1,5 +1,5 @@
 ---
-uuid: e1ec588f-c55e-4254-8137-524521616cb1
+uuid: 3bc1395a-1cf3-4e13-a0a9-cf9f82bdb2df
 title: "Youtubeurs, Youtubeuses"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750680"
 publisher: "PRIM, Université de Tours"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

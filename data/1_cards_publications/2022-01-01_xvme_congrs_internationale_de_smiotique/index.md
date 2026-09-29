@@ -1,5 +1,5 @@
 ---
-uuid: 9470273d-40c9-4ee8-b2a8-1469dbf07bf7
+uuid: 4d4deba3-865c-4787-871a-b0923c643d8b
 title: "XVème Congrès internationale de sémiotique"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750708"
 publisher: "Université de Macédoine"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

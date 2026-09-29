@@ -1,5 +1,5 @@
 ---
-uuid: d1eadcdb-95ea-4fc5-984a-ea7f75cec0bc
+uuid: 66f3ace1-a5f1-4674-a0fd-f4d709af0f83
 title: "La fabrique médiatique des récits de vie. Circulation des biographèmes de Vapereau à Wikipédia"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03956185"
 publisher: "Olivier Bara and Marie-Ève Thérenty"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

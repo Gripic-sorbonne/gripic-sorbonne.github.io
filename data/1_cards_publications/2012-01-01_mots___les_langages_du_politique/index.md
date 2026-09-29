@@ -1,5 +1,5 @@
 ---
-uuid: 171299ff-aac1-4c19-aa09-f8252a84ec1f
+uuid: f534d3d1-f790-42b3-936e-890addee21ef
 title: "Mots : les langages du politique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03758613"
 publisher: "ENS Éditions (Lyon)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

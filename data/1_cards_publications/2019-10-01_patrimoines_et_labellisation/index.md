@@ -1,5 +1,5 @@
 ---
-uuid: 09cbf87a-06a5-4dfa-ad30-7475fa8371a9
+uuid: 6d28c7e3-78d6-4f19-85a9-e9d55802a25d
 title: "PATRIMOINES ET LABELLISATION"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754566"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

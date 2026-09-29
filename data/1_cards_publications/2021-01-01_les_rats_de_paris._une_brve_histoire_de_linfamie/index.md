@@ -1,5 +1,5 @@
 ---
-uuid: cfa14b8d-1580-4c56-8849-1b2d125d35ae
+uuid: c739c036-5861-4381-a5c0-f91126908cef
 title: "Les rats de Paris. Une brève histoire de l’infamie"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03766950"
 publisher: "Editions du murmure"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

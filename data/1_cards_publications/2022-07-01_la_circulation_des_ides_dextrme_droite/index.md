@@ -1,5 +1,5 @@
 ---
-uuid: e5928185-e4b7-4a87-a3e9-075f2110bc4b
+uuid: 7c450d2e-1f3d-4bba-a77a-ab9a7be05384
 title: "La circulation des idées d’extrême droite"
 author: "Clara Bordier, Pascal Froissart"
 authors: "Clara Bordier, Pascal Froissart"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04101208"
 publisher: "Marion Dalibert (Lille, Geriico) and Virginie Julliard (Sorbonne, Gripic) and Camila Moreira Cesar (Paris 3, Irmeccen) and Nelly Quemener (Sorbonne, Gripic)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

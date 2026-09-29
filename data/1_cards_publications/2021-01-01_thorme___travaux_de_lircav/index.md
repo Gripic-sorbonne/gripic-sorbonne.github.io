@@ -1,5 +1,5 @@
 ---
-uuid: 0e0aaa90-3553-4c68-a2ff-83e0d0c91fe1
+uuid: b0c5225e-70d2-40a8-bbe1-eae88e17d83d
 title: "Théorème : travaux de l’IRCAV"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750819"
 publisher: "Presses Sorbonne Nouvelle [1990-....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

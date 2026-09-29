@@ -1,5 +1,5 @@
 ---
-uuid: ad46b683-38b0-4f6b-8939-fa0cf374ddef
+uuid: ecb17b5d-6986-4e2a-a064-252e94f81ea8
 title: "Fin et confins du tourisme"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767113"
 publisher: "Université de Grenoble"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

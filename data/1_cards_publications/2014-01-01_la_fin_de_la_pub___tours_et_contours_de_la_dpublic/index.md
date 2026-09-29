@@ -1,5 +1,5 @@
 ---
-uuid: e48aa7b7-eeab-42e9-95c9-463335d054f5
+uuid: fa02f384-0d12-4d05-abed-21b8ebff37e7
 title: "La fin de la pub ? Tours et contours de la dépublicitarisation"
 author: "Caroline Marti de Montety, Valérie Patrin-Leclère, Karine Berthelot-Guiet"
 authors: "Caroline Marti de Montety, Valérie Patrin-Leclère, Karine Berthelot-Guiet"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03768163"
 publisher: "Le Bord de l’Eau"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 34be25db-293a-4971-92d4-df221f72ce91
+uuid: d23f8bcf-0e6b-4ad9-9c2a-020cbd69bf4e
 title: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Brésil. “ Consumo, Existência, Resistência ”"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03768242"
 publisher: "USP, Universite de Sao Paulo and ECA, Escola de Comunicaçoes e Artes"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: ae9c1027-f5a8-48e5-b601-8e6d6f3634d8
+uuid: 2c9d1e99-3826-4132-85a3-1355e1770bd6
 title: "90e Congrès de l’Acfas - La gouvernementalité : histoire et usages d’un concept fuyant"
 author: "Claudia Marson"
 authors: "Claudia Marson"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05561760"
 publisher: "Université de Montréal and HEC Montréal and Polytechnique Montréal"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

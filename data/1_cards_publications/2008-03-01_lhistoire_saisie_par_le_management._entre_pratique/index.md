@@ -1,5 +1,5 @@
 ---
-uuid: 54e3042c-72de-456a-b886-1fdb2e7f6cd1
+uuid: c3fc088a-f232-4316-a29c-efd6203cc6dc
 title: "L’histoire saisie par le management. Entre pratiques du passé et exercice du pouvoir managérial. L’exemple du Groupe Caisse d’Épargne."
 author: "Julien Tassel"
 authors: "Julien Tassel"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://hal.science/tel-03740471"
 publisher: "Université Paris Sorbonne ( Paris IV)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

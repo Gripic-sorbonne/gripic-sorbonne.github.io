@@ -1,5 +1,5 @@
 ---
-uuid: bce35782-e0b6-4b6a-9fe4-fb692452380f
+uuid: 2d62b342-1981-4e1a-b4d4-5c8b13b8bd6e
 title: "Nuit Debout et maintenant ?"
 author: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
 authors: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03766957"
 publisher: "MkF"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 1165fd02-45f3-4499-8dce-20a98ad4f87c
+uuid: adcc2cc1-f063-48d1-816f-f2fde8963895
 title: "medien & zeit"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03966173"
 publisher: "Arbeitskreis für historische Kommunikationsforschung (AHK)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

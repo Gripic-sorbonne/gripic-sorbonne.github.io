@@ -1,5 +1,5 @@
 ---
-uuid: 3062a5fe-a90e-4750-bade-85d5c9b382e9
+uuid: 9f59a3bf-585e-4fb0-93e5-88ed3cf3b080
 title: "L’histoire dans l’espace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerrannée"
 author: "Julien Tassel, hecate vergopoulos"
 authors: "Julien Tassel, hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03766912"
 publisher: "TELEMME (MMSH) and l’IHTP and l’IRMC and CELAT"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

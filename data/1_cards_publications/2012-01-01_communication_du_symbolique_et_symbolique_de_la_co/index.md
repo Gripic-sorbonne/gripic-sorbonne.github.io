@@ -1,5 +1,5 @@
 ---
-uuid: b92a4d6a-5cee-44a4-a348-5c2654ed8665
+uuid: daa52fa6-635c-49ff-b0a5-aeb4cbc8f4f6
 title: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
 author: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
 authors: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03749710"
 publisher: "ORC IARSIC ESSACHESS"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

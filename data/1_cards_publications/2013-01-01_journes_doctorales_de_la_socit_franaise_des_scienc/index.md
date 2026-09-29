@@ -1,5 +1,5 @@
 ---
-uuid: 44be1798-cdf3-4201-a521-3aa12e997a37
+uuid: d0d95ec2-ee5d-4e7f-b959-ee1ffdb46395
 title: "Journées doctorales de la Société Française des Sciences de l’Information et de la Communication (SFSIC)"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964043"
 publisher: "SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

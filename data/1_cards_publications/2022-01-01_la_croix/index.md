@@ -1,5 +1,5 @@
 ---
-uuid: 42428c6b-533a-41d4-9fe2-db7cc0ce0f9a
+uuid: 479be6bd-73a7-435a-be8d-c6196a029356
 title: "La Croix"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280567"
 publisher: "Bayard Presse"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

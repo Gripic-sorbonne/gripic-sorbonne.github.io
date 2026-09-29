@@ -1,5 +1,5 @@
 ---
-uuid: cfc9468c-0ac3-4111-9d18-a0e9916984c0
+uuid: 554e731c-5421-4927-925f-928d024e2cd5
 title: "Lampe-tempête"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03760649"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

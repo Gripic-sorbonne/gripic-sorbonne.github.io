@@ -1,5 +1,5 @@
 ---
-uuid: 40f19aed-a82f-4282-97d8-12165f542e98
+uuid: 05a211e9-6c76-4ea1-8f52-43c7203ef8ac
 title: "Semiotica"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03767011"
 publisher: "De Gruyter"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

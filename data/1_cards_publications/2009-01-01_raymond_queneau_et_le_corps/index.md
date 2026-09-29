@@ -1,5 +1,5 @@
 ---
-uuid: ea33a63f-9fd9-4c44-b645-4d72620b9ce6
+uuid: 19a47c0d-cf15-44de-ad4a-4d6ebd6d1de5
 title: "Raymond Queneau et le corps"
 author: "Julia Bonaccorsi, Sarah Labelle"
 authors: "Julia Bonaccorsi, Sarah Labelle"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-01967793"
 publisher: "Editions Calliopées"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

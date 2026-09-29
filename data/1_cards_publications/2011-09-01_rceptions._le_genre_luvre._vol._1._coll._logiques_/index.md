@@ -1,5 +1,5 @@
 ---
-uuid: 6e2d28a3-e2aa-4b24-9610-57cc69ee9ce5
+uuid: 47e99aac-edbc-40d6-b015-f6f8c7c50f89
 title: "Réceptions. Le genre à l’œuvre. Vol. 1. coll. “ Logiques sociales ”"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03758919"
 publisher: "Université La Sorbonne and GdRI OpUS 2 and Mage; L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

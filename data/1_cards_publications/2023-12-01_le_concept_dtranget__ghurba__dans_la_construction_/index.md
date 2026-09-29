@@ -1,5 +1,5 @@
 ---
-uuid: f8206df8-ac01-4590-b679-25df22f79275
+uuid: 815773fd-8080-4c07-bc45-a74978c0ef2f
 title: "Le concept d’étrangeté (ghurba) dans la construction identitaire des cyber-militants de l’Etat Islamique. Ethnographie d’une djihadosphère entre 2018 et 2022"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://hal.science/tel-05609686"
 publisher: "CY Cergy Paris Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 3450745d-7fee-4f4e-9dcc-295e41a1ee22
+uuid: 76a4f213-9485-4b00-bba7-ab947ae3e7e0
 title: "L’étoile de Pénélope"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761085"
 publisher: "Galerie Talos"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

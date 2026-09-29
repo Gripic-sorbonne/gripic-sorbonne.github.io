@@ -1,5 +1,5 @@
 ---
-uuid: a34503b3-b08f-4a81-9a05-5d4cfd3bd4b5
+uuid: d6e6e912-3b5c-43e2-8816-3dc276d76472
 title: "French Journal for Media Research"
 author: "Thierry Devars"
 authors: "Thierry Devars"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750658"
 publisher: "French Journal for Media Research"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

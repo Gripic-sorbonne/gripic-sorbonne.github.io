@@ -1,5 +1,5 @@
 ---
-uuid: 1e4f4c64-7282-474e-afdf-a1665f6fce9f
+uuid: 56399453-0823-4f8c-affe-7e2e9444c81d
 title: "IEEE Xplore"
 author: "Julie Tores, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Frédéric Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
 authors: "Julie Tores, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Frédéric Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04840507"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

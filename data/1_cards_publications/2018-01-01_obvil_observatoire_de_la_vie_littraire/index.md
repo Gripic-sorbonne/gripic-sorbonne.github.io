@@ -1,5 +1,5 @@
 ---
-uuid: 96f23d63-a4b9-43cd-aba0-86d0cd969d43
+uuid: 2daeb16f-5e3f-4477-b562-2a9952b8e06e
 title: "OBVIL Observatoire de la vie littéraire"
 author: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
 authors: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03760610"
 publisher: "Sorbonne Universités"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

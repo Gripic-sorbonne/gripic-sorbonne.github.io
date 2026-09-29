@@ -1,5 +1,5 @@
 ---
-uuid: 028f2296-2c6a-4c92-bf34-af96ec47c4e5
+uuid: 8cfc5c35-9b20-468a-af03-32ac3a5e9af1
 title: "Le Guide des Meilleurs Vins de France, un dispositif de médiation(s) et de représentation(s) genrées"
 author: "Celia Banos"
 authors: "Celia Banos"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-05083192"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

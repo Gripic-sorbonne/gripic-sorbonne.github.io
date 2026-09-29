@@ -1,5 +1,5 @@
 ---
-uuid: b6adc8cd-0ab8-4369-9bfd-a1f323633ada
+uuid: 543cd866-9c62-4dcc-b373-a1f1799fa7ac
 title: "La sémiologie graphique d’André Belleguie"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761093"
 publisher: "Bibliothèque municipale d’Auxerre"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 91790e9c-229a-4ee8-bdaf-f648b42a7a74
+uuid: d2cc97bb-3512-4d50-9d0c-454577e95409
 title: "Le développement durable: promesse d’un changement paradigmatique? Etude d’un processus discursif négocié . Un exemple: REACH"
 author: "Céline Pascual Espuny"
 authors: "Céline Pascual Espuny"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://amu.hal.science/tel-01896585"
 publisher: "Université Paris 4 Paris-Sorbonne ; CELSA"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: b87e80e7-2519-4867-91e3-784f6e4ef2e7
+uuid: 22a36106-de2b-4c54-96d8-d8253f605128
 title: "Tic&société"
 author: "Asmaa Azizi"
 authors: "Asmaa Azizi"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-01723947"
 publisher: "association ARTIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

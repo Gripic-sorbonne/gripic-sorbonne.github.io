@@ -1,5 +1,5 @@
 ---
-uuid: 67dc2f71-85d0-4f4d-9392-8d6bf130be51
+uuid: 13b0afc3-5003-4c2e-a044-295362d2590c
 title: "Revue Française de Gestion"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750089"
 publisher: "Lavoisier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

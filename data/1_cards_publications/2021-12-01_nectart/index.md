@@ -1,5 +1,5 @@
 ---
-uuid: 042f7ddd-e053-4f14-9294-1277992c908c
+uuid: 0b90f892-efe5-4d3a-959b-4ac92e06d385
 title: "NECTART"
 author: "Sébastien Appiotti"
 authors: "Sébastien Appiotti"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03722905"
 publisher: "Éditions de l’Attribut"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

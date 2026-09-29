@@ -1,5 +1,5 @@
 ---
-uuid: 512168d5-eb20-4b66-9f5e-8df1dd186b7c
+uuid: 75511633-91d8-4436-8808-784e586ae717
 title: "Pi Silence"
 author: "Emmanuël Souchier, Vincent Verdeguer"
 authors: "Emmanuël Souchier, Vincent Verdeguer"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03760433"
 publisher: "L’impatiente"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

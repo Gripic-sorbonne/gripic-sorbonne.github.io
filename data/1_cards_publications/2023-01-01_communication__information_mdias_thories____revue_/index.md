@@ -1,5 +1,5 @@
 ---
-uuid: 257ff96a-9023-42f7-bade-c0e6c57fbbf7
+uuid: edc63d5a-9f1d-4805-be70-3de0e04bf68b
 title: "Communication [Information Médias Théories] : revue québécoise des recherches et des pratiques en communication et information"
 author: "Nelly Quemener, Virginie Julliard"
 authors: "Nelly Quemener, Virginie Julliard"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04969330"
 publisher: "Département d’information et de communication (Université Laval, Québec, Canada) [1984, vol. 7, n 1 -....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

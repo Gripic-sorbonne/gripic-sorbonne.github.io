@@ -1,5 +1,5 @@
 ---
-uuid: a7836240-a283-4986-a169-06053aed81b3
+uuid: 20f1889e-429c-448a-bd6d-13af000f4b3b
 title: "Memory, Commemoration and Communication : Looking Back, Looking Forward"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160334"
 publisher: "International Association for Media and Communication Research 2016 Conference (IAMCR)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

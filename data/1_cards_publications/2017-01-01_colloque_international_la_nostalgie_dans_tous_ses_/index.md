@@ -1,5 +1,5 @@
 ---
-uuid: 44b40371-e7bc-43dc-b4fe-1f22a643002c
+uuid: a8fdbdd7-1cff-4d34-aefb-164dfe9ade38
 title: "Colloque international “ La nostalgie dans tous ses états ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964069"
 publisher: "Université de Lorraine"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

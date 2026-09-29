@@ -1,5 +1,5 @@
 ---
-uuid: 768f6128-9c52-4ee4-b34c-10700dd64f7c
+uuid: 094f99a9-4745-461f-b146-be892eb4a572
 title: "Changements et permanence du journalisme"
 author: "Emmanuël Souchier, Adeline Wrona"
 authors: "Emmanuël Souchier, Adeline Wrona"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03760999"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

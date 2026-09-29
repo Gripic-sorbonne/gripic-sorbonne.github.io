@@ -1,5 +1,5 @@
 ---
-uuid: afb6be13-b618-4b02-993e-26c2f54cfb28
+uuid: b3d75d42-0a17-45e1-abc1-c84c6529f003
 title: "Colloque “ Enfance et histoire : cultures et pratiques enfantines du passé ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03954725"
 publisher: "GRIPIC/SORBONNE UNIVERSITE"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

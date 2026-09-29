@@ -1,5 +1,5 @@
 ---
-uuid: 78b3b4fe-cdf6-4de8-ba0a-2492cd689442
+uuid: c28aa111-a183-4477-a2c5-552d8823fc8c
 title: "séminaire Penser l’alimentation de demain, Le Grand Paris qui mange"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767093"
 publisher: "ISCC and Université Paris-Sorbonne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

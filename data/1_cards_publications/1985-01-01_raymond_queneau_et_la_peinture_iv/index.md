@@ -1,5 +1,5 @@
 ---
-uuid: 84844439-74ad-415d-9da6-b36ea836f805
+uuid: 077f08e2-1c45-4ad1-afc0-cbe137af74d4
 title: "Raymond Queneau et la peinture iv"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761062"
 publisher: "Les Amis de Valentin Brû"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

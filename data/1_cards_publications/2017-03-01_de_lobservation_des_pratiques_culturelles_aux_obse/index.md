@@ -1,5 +1,5 @@
 ---
-uuid: 2d29df83-6230-4420-9078-29fd6c9be9b3
+uuid: 4f2ab662-40c1-400b-8801-e6daf2793805
 title: "De l’observation des pratiques culturelles aux observatoires des publics : La scientifisation d’une démarche en question(s)"
 author: "Etienne Candel"
 authors: "Etienne Candel"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-02532034"
 publisher: "Domaine Formes et modèles culturels - Université d’Avignon"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

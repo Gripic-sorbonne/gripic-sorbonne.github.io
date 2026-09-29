@@ -1,5 +1,5 @@
 ---
-uuid: de526054-ac6d-48fb-9162-487aef9f2030
+uuid: a77c99d6-a8b2-447a-8016-009f52b3a2b2
 title: "Fan studies / Gender studies - la rencontre"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758761"
 publisher: "Téraèdre"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

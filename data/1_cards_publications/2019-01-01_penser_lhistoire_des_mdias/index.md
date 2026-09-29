@@ -1,5 +1,5 @@
 ---
-uuid: ad747d30-9a87-494f-887d-d162b0656221
+uuid: 4e3001fa-05b7-4389-808a-6d3f036019b3
 title: "Penser l’histoire des médias"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03721429"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 9eacab50-2571-4fb2-bac1-c450112b0bbf
+uuid: c860033f-0e08-4bc1-8364-2d15c539b8df
 title: "Multiplier l’enquête : approches multi-espèces et multi- scalaires en sciences humaines et sociales. Colloque des doctorant.es de la F3S CODOFE 2023"
 author: "Coline Reille"
 authors: "Coline Reille"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://univ-pantheon-assas.hal.science/hal-04372206"
 publisher: "Muséum National d’Histoire Naturelle de Paris, PALOC, CEPED, CREDA, F3S, Laboratoire d’anthropologie sociale"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: e89b2bcb-bdda-4be0-a31d-0924a598896b
+uuid: 7f50c5ad-0de5-46af-bcda-07b0a24c520b
 title: "Séminaire du GRIPIC"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605978"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

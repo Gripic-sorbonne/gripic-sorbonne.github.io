@@ -1,5 +1,5 @@
 ---
-uuid: 2c222e98-77c2-4d20-8359-4b52992e53aa
+uuid: 53ab5fc7-bead-4ba7-8c06-fa03dd8687c1
 title: "Bel-Ami"
 author: "Adeline Wrona, Guy Maupassant"
 authors: "Adeline Wrona, Guy Maupassant"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03767160"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

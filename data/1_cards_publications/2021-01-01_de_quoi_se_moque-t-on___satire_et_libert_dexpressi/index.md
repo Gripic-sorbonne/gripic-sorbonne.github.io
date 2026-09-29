@@ -1,5 +1,5 @@
 ---
-uuid: 7ed2d3f8-369f-4d6b-bc16-72c7da5e5dab
+uuid: ce8d4c1b-816e-4225-bb22-7740ac80bf37
 title: "De quoi se moque-t-on ? Satire et liberté d’expression"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758746"
 publisher: "CNRS Éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

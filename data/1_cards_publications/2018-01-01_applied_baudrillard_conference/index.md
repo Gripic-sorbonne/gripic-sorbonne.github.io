@@ -1,5 +1,5 @@
 ---
-uuid: b67bda2c-c6d6-4785-9c47-1dfe3712f5b1
+uuid: d6940d8f-5b1d-45d7-8276-7da8f2b4471f
 title: "Applied Baudrillard Conference"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964064"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

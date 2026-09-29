@@ -1,5 +1,5 @@
 ---
-uuid: 3b59a641-ffd9-44e3-af39-9651b8b6cb43
+uuid: 7eb8a2bf-7367-4032-a86e-2daf45741ebb
 title: "Contemporanéité et hybridations des pratiques de la recherche"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04947827"
 publisher: "Presses universitaires de Bordeaux"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

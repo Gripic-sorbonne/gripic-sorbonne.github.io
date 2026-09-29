@@ -1,5 +1,5 @@
 ---
-uuid: e4839a0c-7296-4cf3-85ba-8d63038b9064
+uuid: 21637669-dfa5-4660-bfff-1fcc9d3ff5bd
 title: "Poètique de l’eau"
 author: "nicole D’Almeida, Michaël Oustinoff, Paiva Morais, Douce J.Eric, Céline Hervé Bazin"
 authors: "nicole D’Almeida, Michaël Oustinoff, Paiva Morais, Douce J.Eric, Céline Hervé Bazin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750102"
 publisher: "Celsa, Gripic"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

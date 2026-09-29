@@ -1,5 +1,5 @@
 ---
-uuid: 6575d900-8eb4-4bfb-b31b-4fb007055483
+uuid: e009906f-1592-4926-bbf2-cfbab437c824
 title: "16éme Congrés SFSIC : Les sciences de l’information et de la communication : affirmation et pluralité"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750750"
 publisher: "IUT de Compiègne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

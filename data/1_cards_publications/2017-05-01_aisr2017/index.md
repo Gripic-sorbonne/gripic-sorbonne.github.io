@@ -1,5 +1,5 @@
 ---
-uuid: a33addf0-b010-4703-a30a-39466f02ce0f
+uuid: 8220a44c-c8eb-4f94-8fd3-10c03c505117
 title: "AISR2017"
 author: "Sophie Pène"
 authors: "Sophie Pène"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-01640304"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 6c79f871-0ed1-441e-90de-9b33311e3243
+uuid: dbba667d-5370-444d-ab3c-dc60db3bc9cf
 title: "Éditorial printemps 2011"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03754496"
 publisher: "Syndicat Paris Métropole"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

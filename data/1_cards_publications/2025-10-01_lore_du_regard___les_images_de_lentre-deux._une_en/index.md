@@ -1,5 +1,5 @@
 ---
-uuid: 41839ac1-b558-4d67-8739-fe7ed12df474
+uuid: ab128250-1847-4729-9bde-3be4ba095e6d
 title: "À l’orée du regard : les images de l’entre-deux. Une enquête sur la fabrique discrète de notre habiter"
 author: "Aurélie Sansen"
 authors: "Aurélie Sansen"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-05479323"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

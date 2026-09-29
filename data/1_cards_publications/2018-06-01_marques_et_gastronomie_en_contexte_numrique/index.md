@@ -1,5 +1,5 @@
 ---
-uuid: ef8866b2-5eab-4b64-83ee-d4b09f0a0ce0
+uuid: da45c775-5f26-4568-9095-f986fb30a007
 title: "Marques et gastronomie en contexte numérique"
 author: "Julien Tassel, Camille Brachet"
 authors: "Julien Tassel, Camille Brachet"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04003580"
 publisher: "GRIPIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

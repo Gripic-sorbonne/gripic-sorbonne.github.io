@@ -1,5 +1,5 @@
 ---
-uuid: a0d680a6-aa56-4a0f-9342-21291b07a723
+uuid: 868b9612-7870-470e-828d-cc35c507bb8d
 title: "Nouveaux médias : mythes et expérimentations dans les arts"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03758745"
 publisher: "Heidelberg"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

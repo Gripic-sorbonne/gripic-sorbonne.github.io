@@ -1,5 +1,5 @@
 ---
-uuid: e2d33a34-1880-4cb8-aefa-256fe6ac555e
+uuid: 4f2458bf-9cec-4081-b5af-6504071a89a8
 title: "Séminaire Ecritures Contemporaines du voyage, nouveaux itinéraires poétiques"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754582"
 publisher: "Maison de la Recherche Paris IV, Centre de Recherche sur la littérature de voyage"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

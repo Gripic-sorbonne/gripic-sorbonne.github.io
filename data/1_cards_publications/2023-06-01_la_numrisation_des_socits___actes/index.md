@@ -1,5 +1,5 @@
 ---
-uuid: 1d75f396-9bcd-41d3-be1a-2dbbb177c1f5
+uuid: 0acda450-e23e-4c78-a4ac-0af58250e3b3
 title: "La numérisation des sociétés : Actes"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://institut-agro-dijon.hal.science/hal-04281471"
 publisher: "Société Française des Sciences de l’Information et de la Communication; SFSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

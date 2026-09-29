@@ -1,5 +1,5 @@
 ---
-uuid: 73448b9a-7110-42d6-94b9-f4f161aad99f
+uuid: 5b128f7d-0285-41cc-931e-d63275978287
 title: "Communication managériale et conduite du changement : une politique de mobilité en question chez Orange France"
 author: "Laurence Perrin Eloy-Perrin"
 authors: "Laurence Perrin Eloy-Perrin"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-04266778"
 publisher: "Université Paris-Sorbonne - Paris IV"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

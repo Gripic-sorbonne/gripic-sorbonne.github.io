@@ -1,5 +1,5 @@
 ---
-uuid: 3a69d245-378b-4146-80e7-6a06623fd417
+uuid: ed5803bb-23d8-4513-91df-8af27cab11d0
 title: "Recherches en communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03768223"
 publisher: "Centre de recherche en communication, Université Catholique de Louvain"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

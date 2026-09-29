@@ -1,5 +1,5 @@
 ---
-uuid: 4cb3bbf1-eb17-4946-a572-c623e20985bd
+uuid: 5db7c24f-5306-477d-9162-be555173f607
 title: "IA, culture et médias"
 author: "Thibault Grison, Virginie Julliard"
 authors: "Thibault Grison, Virginie Julliard"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03956398"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

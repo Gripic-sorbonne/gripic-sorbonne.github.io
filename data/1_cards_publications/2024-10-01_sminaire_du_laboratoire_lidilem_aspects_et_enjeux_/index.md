@@ -1,5 +1,5 @@
 ---
-uuid: 83c2b734-fef0-41e4-8f4d-8b99f35958a0
+uuid: 4bcc12dc-7c2e-4230-b1be-3c2123612bd8
 title: "Séminaire du laboratoire Lidilem “ Aspects et enjeux sociaux du langage ”"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05609777"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

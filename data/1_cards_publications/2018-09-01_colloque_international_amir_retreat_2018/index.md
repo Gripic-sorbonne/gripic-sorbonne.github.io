@@ -1,5 +1,5 @@
 ---
-uuid: c2446898-29a7-4809-a6c6-36a9d921391b
+uuid: 65718399-8be9-436f-b0e0-4471a4aab100
 title: "Colloque international AMIR retreat 2018"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750724"
 publisher: "Université de Thessalonique"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

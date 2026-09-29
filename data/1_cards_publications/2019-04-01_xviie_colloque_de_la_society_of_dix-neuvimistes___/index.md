@@ -1,5 +1,5 @@
 ---
-uuid: b73fb478-ee01-48f4-8d4c-99752fe37476
+uuid: 917ec1f8-075c-4343-a158-3debee5dfba9
 title: "XVIIe Colloque de la Society of Dix-Neuviémistes : “ Découvertes et Explorations ”"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767058"
 publisher: "University of Southampton"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

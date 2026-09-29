@@ -1,5 +1,5 @@
 ---
-uuid: bd7ff4c3-8926-4859-bb65-25e37482b300
+uuid: 4283f66d-2249-423a-b217-be085585585f
 title: "Dynamiques des recherches en sciences de l’information et de la communication"
 author: "Béatrice Damian-Gaillard, Garcin-Marrou Isabelle, Rémy Rieffel, Adeline Wrona"
 authors: "Béatrice Damian-Gaillard, Garcin-Marrou Isabelle, Rémy Rieffel, Adeline Wrona"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://univ-pantheon-assas.hal.science/hal-03982924"
 publisher: "CPDirSIC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

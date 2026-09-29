@@ -1,5 +1,5 @@
 ---
-uuid: 548eceb7-bbd9-495e-8ebe-1c2936c80bd3
+uuid: d96d0d17-9d20-4966-a347-9a27b092c3c2
 title: "Le Dessous des Marques"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.sorbonne-universite.fr/hal-04949639"
 publisher: "ELLIPSES"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

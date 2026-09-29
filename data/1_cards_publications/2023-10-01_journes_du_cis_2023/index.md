@@ -1,5 +1,5 @@
 ---
-uuid: 976988d3-41b6-4efb-9c14-9c79c6a658b3
+uuid: adb0a873-e0e2-45db-ba77-370255c485df
 title: "Journées du CIS 2023"
 author: "Thibault Grison"
 authors: "Thibault Grison"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05605973"
 publisher: "Centre Internet et Société"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 1b33a56e-acdb-41d4-8606-3b13ac757469
+uuid: 8455ef88-3e4a-4e85-8689-e23c941e336a
 title: "Media and History : crime, violence and justice"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03773513"
 publisher: "IAMHIST (The international association for media and history)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

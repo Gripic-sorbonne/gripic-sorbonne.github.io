@@ -1,5 +1,5 @@
 ---
-uuid: 07d340ec-a3e4-4473-9ad8-f9e65b936a0a
+uuid: 3f3f3846-1225-4a36-8cdb-6d583be5e66e
 title: "Communication & langages"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04270670"
 publisher: "PUF"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

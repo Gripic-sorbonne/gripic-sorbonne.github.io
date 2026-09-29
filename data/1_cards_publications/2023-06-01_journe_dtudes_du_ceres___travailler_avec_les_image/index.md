@@ -1,5 +1,5 @@
 ---
-uuid: b7e91a04-0a3a-48c2-9e2b-6f1f13fdc477
+uuid: 4cb9ce06-0be7-469a-80d1-ecd065ae5ba8
 title: "Journée d’études du CERES : Travailler avec les images"
 author: "Édouard Bouté, Virginie Julliard"
 authors: "Édouard Bouté, Virginie Julliard"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-04221773"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

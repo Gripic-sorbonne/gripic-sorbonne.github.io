@@ -1,5 +1,5 @@
 ---
-uuid: 9e0ee010-76ef-401e-82ea-a60415bad68f
+uuid: ab8cf172-a88c-451b-b5ce-488c4c4dd126
 title: "Essai sur la bibliothèque - volonté de savoir et monde commun"
 author: "Joëlle Le Marec"
 authors: "Joëlle Le Marec"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-03987262"
 publisher: "Presses de l’enssib"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

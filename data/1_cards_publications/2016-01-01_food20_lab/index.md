@@ -1,5 +1,5 @@
 ---
-uuid: d5a02505-d34f-43d7-91f9-eadc6fbb3a31
+uuid: 96642614-8682-43e3-8b78-585f40567d34
 title: "Food20 lab"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03754446"
 publisher: "ISCC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

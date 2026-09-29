@@ -1,5 +1,5 @@
 ---
-uuid: c39db99c-760b-49f4-b40f-6f112d21c94c
+uuid: e1dbca77-4244-4d8b-b013-2aa2092c92fb
 title: "Identités en Construction"
 author: "Adeline Wrona, Aude Seurrat"
 authors: "Adeline Wrona, Aude Seurrat"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767256"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

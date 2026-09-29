@@ -1,5 +1,5 @@
 ---
-uuid: bd0d849a-1733-4fa3-a08f-9178ba5a1e78
+uuid: 189a6635-3e8f-4f0c-a224-3cb6335d5d97
 title: "Le Temps des médias. Revue d’histoire"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03950581"
 publisher: "Nouveau Monde Editions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

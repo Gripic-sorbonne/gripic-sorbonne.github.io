@@ -1,5 +1,5 @@
 ---
-uuid: fc46fb5e-3790-4b81-a7d3-a224d1629433
+uuid: 71119083-d9bf-48a7-b2ed-adc3a19ef437
 title: "Cycle de conférences"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03767214"
 publisher: "Université Libre de Bruxelles and Institut des Hautes Études Belges (IHEB)"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

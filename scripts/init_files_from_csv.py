@@ -317,7 +317,7 @@ def make_yaml_header_event(title: str, author: str, abstract: str) -> str:
             f"---\n\n")
 
 
-def make_yaml_header_publication(pub_dict: dict, image_filename: str) -> str:
+def make_yaml_header_publication(pub_dict: dict) -> str:
     title = get_field(pub_dict, "Title", "title", "Titre", default="Untitled")
     authors = get_field(pub_dict, "authors", "author", "Auteurs", default="")
     pub_date = get_field(pub_dict, "date", "Date", default="")
@@ -328,9 +328,6 @@ def make_yaml_header_publication(pub_dict: dict, image_filename: str) -> str:
 
     clean_title = title.replace('"', '\\"')
     clean_authors = authors.replace('"', '\\"')
-
-    # Formatear como ruta relativa para que Gatsby lo reconozca como File/Image object
-    image_yaml_val = f"./{image_filename}" if image_filename else ""
 
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
@@ -343,14 +340,17 @@ def make_yaml_header_publication(pub_dict: dict, image_filename: str) -> str:
             f"url: \"{url}\"\n" +
             f"publisher: \"{publisher}\"\n" +
             f"container_title: \"{container_title}\"\n" +
-            f"image: \"{image_yaml_val}\"\n" +
             f"publication: true\n" +
             f"---\n\n")
 
 
 def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> str:
-    md_page: str = make_yaml_header_publication(pub_dict, image_filename)
+    md_page: str = make_yaml_header_publication(pub_dict)
     
+    # La imagen se inserta en el cuerpo Markdown igual que en los miembros
+    if image_filename:
+        md_page += f'<img src="./{image_filename}" width="300px" />\n\n'
+
     authors = get_field(pub_dict, "authors", "author")
     pub_type = get_field(pub_dict, "type")
     publisher = get_field(pub_dict, "publisher")
@@ -358,11 +358,6 @@ def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> s
     url = get_field(pub_dict, "url", "URL")
     abstract = get_field(pub_dict, "abstract", "resume")
 
-    # Add image to content body if present
-    if image_filename:
-        md_page += f'<img src="./{image_filename}" width="300px" />\n\n'
-
-    # Content body formatted for internal page view
     md_page += "## Informations sur la publication\n\n"
     
     if authors:

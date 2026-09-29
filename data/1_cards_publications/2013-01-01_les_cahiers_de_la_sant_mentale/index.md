@@ -1,5 +1,5 @@
 ---
-uuid: b027720f-deca-46e2-a221-f3ab1c87a917
+uuid: 779fdac3-92cb-48be-b255-e161d828b062
 title: "les Cahiers de la Santé mentale"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03754490"
 publisher: "La Documentation française"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

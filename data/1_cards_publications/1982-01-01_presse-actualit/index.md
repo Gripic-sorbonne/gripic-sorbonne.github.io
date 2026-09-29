@@ -1,5 +1,5 @@
 ---
-uuid: 1ffcebd4-7f69-42e6-b343-9e296e752b3d
+uuid: b373188b-cef0-45df-9de0-2ddb09cf5677
 title: "Presse-Actualité"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761071"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

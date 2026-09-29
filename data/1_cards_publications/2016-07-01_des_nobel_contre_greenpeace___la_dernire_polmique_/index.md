@@ -1,5 +1,5 @@
 ---
-uuid: 75eb2a12-69a6-47be-ad6c-88563659b05b
+uuid: e6ab25e9-0bb0-4536-b216-f1806fae2857
 title: "Des Nobel contre Greenpeace : la dernière polémique OGM décryptée"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.univ-lorraine.fr/hal-01738145"
 publisher: "The Conversation France"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: d9d41bf7-80c9-4330-bd3b-3669425ee982
+uuid: b2fb7288-728a-48ce-afe3-51eebc57565b
 title: "Bloguer la politique"
 author: "Sophie Pène"
 authors: "Sophie Pène"
@@ -9,7 +9,6 @@ type: "manuscript"
 url: "https://hal.science/hal-00122422"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: cb67e810-c1eb-4f18-bf4f-cf0b3ef8652c
+uuid: 2c380195-3815-4550-aa1b-a81f2bde9874
 title: "Métropolisation et tourisme : Comment le tourisme redessine"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03754399"
 publisher: "Belin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

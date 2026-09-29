@@ -1,5 +1,5 @@
 ---
-uuid: 6ed04c32-222c-42cd-8b39-89cae62851f8
+uuid: aa936d1a-2fe2-48c2-8bc7-0c017ffd02fa
 title: "Le Monde.fr"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04280559"
 publisher: "Le Monde"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

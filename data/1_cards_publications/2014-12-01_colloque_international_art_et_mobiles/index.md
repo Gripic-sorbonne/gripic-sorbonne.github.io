@@ -1,5 +1,5 @@
 ---
-uuid: 1612536c-63c0-4a61-b09e-d31328ca2a30
+uuid: 4364289c-33a7-411f-a4c8-e648647c24f7
 title: "Colloque international Art et Mobiles"
 author: "Pauline Escande"
 authors: "Pauline Escande"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03750725"
 publisher: "Université Paris 3, INHA"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

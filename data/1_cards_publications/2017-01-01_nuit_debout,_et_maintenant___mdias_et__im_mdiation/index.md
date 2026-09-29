@@ -1,5 +1,5 @@
 ---
-uuid: 51637919-3054-4937-bafd-c5d47d5f1c0f
+uuid: 2b8ff76a-ef9d-4cb6-900e-253c41fd4d64
 title: "Nuit debout, et maintenant ? Médias et (im)médiations"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03749844"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

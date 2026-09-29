@@ -1,5 +1,5 @@
 ---
-uuid: a15769d4-0b9e-4102-99ad-bf225aa0dfdb
+uuid: 63cbde3e-9a49-43a1-bb98-81c7cfd77e5f
 title: "Best sellers. L’industrie du succès"
 author: "Pierre-Carl Langlais, Marie-Ève Thérenty"
 authors: "Pierre-Carl Langlais, Marie-Ève Thérenty"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://univ-montpellier3-paul-valery.hal.science/hal-04481358"
 publisher: "Armand Colin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

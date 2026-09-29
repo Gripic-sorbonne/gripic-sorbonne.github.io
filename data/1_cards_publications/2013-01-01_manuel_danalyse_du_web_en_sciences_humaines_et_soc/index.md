@@ -1,5 +1,5 @@
 ---
-uuid: bb0c6ed9-985e-4b02-92d2-37841b1e394a
+uuid: a7aa1ac3-ed7d-449a-9986-ff1c10938a43
 title: "Manuel d’analyse du Web en sciences humaines et sociales"
 author: "Etienne Candel, Gustavo Gomez-Mejia"
 authors: "Etienne Candel, Gustavo Gomez-Mejia"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://shs.hal.science/halshs-01709081"
 publisher: "Armand Colin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

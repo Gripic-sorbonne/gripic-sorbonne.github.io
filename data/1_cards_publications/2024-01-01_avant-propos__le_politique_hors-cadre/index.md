@@ -1,5 +1,5 @@
 ---
-uuid: 5e69c85c-ea87-46ba-8193-bb32e5f92dca
+uuid: 3a543050-aa05-4b37-81d5-511b7cd3ccdf
 title: "Avant-propos : Le politique “ hors-cadre ”"
 author: "Camille Rondot, Brigitte Sebbah"
 authors: "Camille Rondot, Brigitte Sebbah"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-05247817"
 publisher: "Éditions de la Maison des Sciences de l’Homme"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

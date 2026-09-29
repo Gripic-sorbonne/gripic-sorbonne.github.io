@@ -1,5 +1,5 @@
 ---
-uuid: fc47f946-e7f9-4e90-854c-4f4179f48c1d
+uuid: f59ef1b6-1c53-4bfa-bc24-48128bf00c1f
 title: "Genre et médiasQuelles représentations ?"
 author: "Rym Gerwig-Kireche"
 authors: "Rym Gerwig-Kireche"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04043445"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

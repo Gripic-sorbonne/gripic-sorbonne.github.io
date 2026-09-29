@@ -1,5 +1,5 @@
 ---
-uuid: 264f9623-e4d5-46f6-8f2d-42a658c7ac54
+uuid: 3c13b5ff-52e6-46c3-be05-9ff8ab6e40ca
 title: "Territoires sous Influence Tome 2"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03754408"
 publisher: "L’Harmattan"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

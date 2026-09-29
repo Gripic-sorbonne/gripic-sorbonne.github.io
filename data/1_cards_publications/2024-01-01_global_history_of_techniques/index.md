@@ -1,5 +1,5 @@
 ---
-uuid: 29827fab-7d9b-41b6-a8ed-2aae2c0954d0
+uuid: 641ecda5-4a45-4e3b-b92c-7aa4b10d5a12
 title: "Global History of Techniques"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-04969365"
 publisher: "Brepols Publishers"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: bbbb7e9e-c56d-402b-84b2-39efc40fe66f
+uuid: 1de15922-39b8-4e89-8b02-f3fb3b26476c
 title: "La publicité au passé. Approche communicationnelle d’une médiation ordinaire du passé"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://hal.science/tel-03721096"
 publisher: "Paris 4 Sorbonne"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

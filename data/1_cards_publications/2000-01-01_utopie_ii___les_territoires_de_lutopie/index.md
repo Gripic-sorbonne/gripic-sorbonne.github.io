@@ -1,5 +1,5 @@
 ---
-uuid: ffec381d-429a-4726-b88b-a2429a3e3bc1
+uuid: debc94f7-dccb-404d-ae00-6c5b3844588a
 title: "Utopie II : les Territoires de l’Utopie"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03754384"
 publisher: "Éditions de la Maison des sciences de l’homme"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

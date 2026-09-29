@@ -1,5 +1,5 @@
 ---
-uuid: ab3b95b6-0d3d-49a3-bdaa-aa8f39c9acbe
+uuid: 4b015af5-90e8-4e6d-8753-e3803045f6bc
 title: "Penser les musiques populaires"
 author: "Gérôme Guibert, Guillaume Heuguet"
 authors: "Gérôme Guibert, Guillaume Heuguet"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03983849"
 publisher: "Philharmonie de Paris"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

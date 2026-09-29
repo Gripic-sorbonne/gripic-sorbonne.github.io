@@ -1,5 +1,5 @@
 ---
-uuid: 1d84d0da-1def-49d9-a39e-fe69bb1ba42c
+uuid: c27f5e66-f2a0-4350-9813-4edbb1ca08f2
 title: "Voyage et Scandale"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03773280"
 publisher: "Classiques Garnier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

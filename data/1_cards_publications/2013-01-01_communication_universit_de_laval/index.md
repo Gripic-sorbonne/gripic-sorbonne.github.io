@@ -1,5 +1,5 @@
 ---
-uuid: 7f6d3d49-5349-4853-ac57-886fdaa74d62
+uuid: c1fd8eed-f65a-40a7-bc68-4ba80fc5a889
 title: "Communication Université de Laval"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03749894"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

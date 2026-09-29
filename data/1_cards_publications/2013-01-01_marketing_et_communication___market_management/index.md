@@ -1,5 +1,5 @@
 ---
-uuid: 72935bc2-4601-4597-9c8b-1b35557a53ec
+uuid: ee573040-bc5f-4dfc-9ae5-3704013ab838
 title: "Marketing et Communication / Market management"
 author: "Caroline Montety"
 authors: "Caroline Montety"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03768233"
 publisher: "Eska (Paris, France) [2005-2009]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

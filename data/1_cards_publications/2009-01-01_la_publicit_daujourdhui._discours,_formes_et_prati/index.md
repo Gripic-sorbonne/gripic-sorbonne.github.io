@@ -1,5 +1,5 @@
 ---
-uuid: dd69ebb1-4afd-4eec-93bc-7ecd8640385d
+uuid: 16795fa0-b76b-4b55-96b8-7580d7d362d0
 title: "La Publicité d’aujourd’hui. Discours, formes et pratiques"
 author: "Karine Berthelot-Guiet, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Caroline Montety"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03749767"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

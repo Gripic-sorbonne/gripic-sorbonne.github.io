@@ -1,5 +1,5 @@
 ---
-uuid: 2fbd816a-1969-4c41-84c2-a10031004750
+uuid: 4eaccd06-a874-413d-b96d-0582241baa1b
 title: "Volume !"
 author: "Pauline Escande, Noémie Vermoesen"
 authors: "Pauline Escande, Noémie Vermoesen"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750833"
 publisher: "Éditions Mélanie Seteun"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

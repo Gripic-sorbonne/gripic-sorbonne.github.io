@@ -1,5 +1,5 @@
 ---
-uuid: c96b39d7-2eb9-4adb-b05f-5d3b8d215847
+uuid: f4724214-89d4-474d-b25b-5b9fc22d17e7
 title: "75th Annual Conference of the International Communication Association – ICA"
 author: "Emmanuelle Fantin, Katharina Niemeyer, Corine Dufresne-Delières"
 authors: "Emmanuelle Fantin, Katharina Niemeyer, Corine Dufresne-Delières"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05160327"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

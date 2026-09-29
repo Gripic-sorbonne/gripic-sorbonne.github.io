@@ -1,5 +1,5 @@
 ---
-uuid: 0c4f2ecf-2319-427b-b540-31fd4c345cb4
+uuid: 3eb97e0d-c195-4b90-ae79-bc598bc2bb20
 title: "Komodo 21"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-03750627"
 publisher: "Centre de recherche Rirra 21 (EA 4209) / Université Paul-Valéry Montpellier"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

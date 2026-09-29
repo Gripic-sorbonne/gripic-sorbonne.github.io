@@ -1,5 +1,5 @@
 ---
-uuid: 5f79a4b9-8f54-4949-899d-6ecec84a94ef
+uuid: 98fdee5e-07f4-43f8-845a-440eb66f4fc3
 title: "Le développement de l’Intelligence artificielle (IA) dans l’éducation : en cerner les enjeux par une approche interdisciplinaire"
 author: "Laurent Petit"
 authors: "Laurent Petit"
@@ -9,7 +9,6 @@ type: "report"
 url: "https://hal.science/hal-03968564"
 publisher: "GIS2IF"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

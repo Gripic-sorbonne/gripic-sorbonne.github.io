@@ -1,5 +1,5 @@
 ---
-uuid: 4947cd20-5ba5-4388-829f-6d9d57f76ea6
+uuid: 436e75dd-ced0-4f72-85fc-f80f4ff2b7cb
 title: "Critical study of the new ways of “editorialising” open access scientific journals"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"
@@ -9,7 +9,6 @@ type: "report"
 url: "https://hal.science/hal-01399286"
 publisher: "Bibliothèque Scientifique Numérique"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 2a9155eb-91fb-497f-bdbf-f3a59db1770b
+uuid: d1fbfa74-3325-45b5-b786-bcaac2f0e3de
 title: "L’art de lucidité"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761079"
 publisher: "Médiathèque Jean-Christophe Rufin"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

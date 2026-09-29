@@ -1,5 +1,5 @@
 ---
-uuid: bf3dc24e-107a-4533-a652-49b7b09959dc
+uuid: 288bf8db-f276-44d8-a143-a0784ea75cef
 title: "."
 author: "Caroline Marti, Camille Rondot"
 authors: "Caroline Marti, Camille Rondot"
@@ -9,7 +9,6 @@ type: "book"
 url: "https://hal.science/hal-05523087"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

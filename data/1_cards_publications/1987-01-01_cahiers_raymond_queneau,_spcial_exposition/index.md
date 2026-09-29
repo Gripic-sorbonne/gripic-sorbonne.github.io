@@ -1,5 +1,5 @@
 ---
-uuid: 509b1848-1a97-4521-ad96-1d0a2220b5f2
+uuid: 184ecf38-2aca-4a81-927e-bade218f5c69
 title: "Cahiers Raymond Queneau, spécial exposition"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: "chapter"
 url: "https://hal.science/hal-03761059"
 publisher: "Les Amis de Valentin Brû"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-uuid: 33e0a530-3274-40a8-9594-4c60f4930052
+uuid: 7260ecbe-1e63-4ebd-b5e9-f41bbf8756dc
 title: "Doctoriales du Dicen-IdF"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-05448201"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

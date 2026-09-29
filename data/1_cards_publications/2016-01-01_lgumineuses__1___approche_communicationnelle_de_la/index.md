@@ -1,5 +1,5 @@
 ---
-uuid: f82838c9-0b54-4016-9497-ffd1d412dec4
+uuid: a82637b1-de33-4072-9c71-11ffb9322b22
 title: "Légumineuses (1): approche communicationnelle de l’année internationale 2016"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03754466"
 publisher: "ISCC"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

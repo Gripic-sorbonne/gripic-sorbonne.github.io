@@ -1,5 +1,5 @@
 ---
-uuid: 539dcc71-8304-4ef0-9e50-8476efb6a082
+uuid: 22f711bb-10bf-44d0-95b7-1db460482d01
 title: "à deux doigts la mort ’tit homme…"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761096"
 publisher: "Orangerie de l’archevêché"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

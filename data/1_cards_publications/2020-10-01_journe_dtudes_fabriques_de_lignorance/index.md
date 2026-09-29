@@ -1,5 +1,5 @@
 ---
-uuid: 20e64c98-6f79-4546-b04d-51afc9b4e783
+uuid: 31be2560-f339-42ad-9de8-d9fdd64f2137
 title: "Journée d’études “ Fabriques de l’ignorance ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03751303"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

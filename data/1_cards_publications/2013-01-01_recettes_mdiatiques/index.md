@@ -1,5 +1,5 @@
 ---
-uuid: f2e11545-d389-447e-a3ff-74bf39184e25
+uuid: 32122afc-16bf-4d55-b710-06513de76192
 title: "Recettes médiatiques"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03758644"
 publisher: "Poli éditions"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

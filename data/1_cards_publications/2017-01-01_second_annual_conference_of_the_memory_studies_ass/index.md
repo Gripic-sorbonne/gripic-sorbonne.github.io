@@ -1,5 +1,5 @@
 ---
-uuid: c0158df7-ebd5-4079-b8f9-ea0159f08fa4
+uuid: 6d53d97f-6036-4df4-b7ca-c042d06c36c2
 title: "Second Annual Conference of the Memory Studies Association"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03964068"
 publisher: "Memory Studies Association"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

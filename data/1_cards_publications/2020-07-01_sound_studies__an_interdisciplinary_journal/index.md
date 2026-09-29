@@ -1,5 +1,5 @@
 ---
-uuid: d3ff9cb3-6f01-42d5-abc9-4777482c4036
+uuid: 63ceb3ab-0f8f-4229-90ed-303ff28d037c
 title: "Sound Studies: An Interdisciplinary Journal"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.sorbonne-universite.fr/hal-03136413"
 publisher: "Taylor & Francis Online"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

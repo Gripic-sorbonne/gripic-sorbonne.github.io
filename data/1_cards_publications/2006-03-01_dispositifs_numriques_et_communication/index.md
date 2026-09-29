@@ -1,5 +1,5 @@
 ---
-uuid: ddcdae27-3770-4ec9-8272-367cc5a67cf1
+uuid: a05f1514-573f-443d-8311-109ab654b194
 title: "Dispositifs numériques et communication"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03754584"
 publisher: "Colloque IUFM Vitry Sur Seine"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

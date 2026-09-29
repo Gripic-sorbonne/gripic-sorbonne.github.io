@@ -1,5 +1,5 @@
 ---
-uuid: 797e8163-c0cf-4e3f-8845-e430d6dcfa60
+uuid: 353a1506-5dc1-4949-a34d-b6121a166c03
 title: "Language Related Research"
 author: "Anita SALEH BOLOURDI, Mehdi Yousefi Sadeghloo"
 authors: "Anita SALEH BOLOURDI, Mehdi Yousefi Sadeghloo"
@@ -9,7 +9,6 @@ type: "article-journal"
 url: "https://hal.science/hal-04173385"
 publisher: "Tarbiat Modares University"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

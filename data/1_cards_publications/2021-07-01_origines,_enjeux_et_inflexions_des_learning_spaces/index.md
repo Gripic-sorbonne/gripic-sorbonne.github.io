@@ -1,5 +1,5 @@
 ---
-uuid: 060300fb-4b88-45e7-952a-a8d8b6fd873d
+uuid: 79ed182b-ac84-44af-9d2f-7ee82befe2ce
 title: "Origines, enjeux et inflexions des Learning Spaces dans un système d’Enseignement Supérieur : le cas du Japon"
 author: "John Augeri"
 authors: "John Augeri"
@@ -9,7 +9,6 @@ type: "thesis"
 url: "https://theses.hal.science/tel-03663310"
 publisher: "Sorbonne Université"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

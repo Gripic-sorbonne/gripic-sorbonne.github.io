@@ -1,5 +1,5 @@
 ---
-uuid: abf761a8-db2e-4fbf-a260-87c40870e80c
+uuid: e399fc0d-ea10-4421-be4b-c9cac0f738e9
 title: "Religion et travail"
 author: "Claire Galembert, Julien Tassel"
 authors: "Claire Galembert, Julien Tassel"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03745385"
 publisher: "Presses de Sciences Po [1999-....]"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

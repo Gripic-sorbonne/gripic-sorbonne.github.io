@@ -1,5 +1,5 @@
 ---
-uuid: bc765ba2-4f37-4f35-a4c9-f74a337ae7b6
+uuid: f4c6dc6c-23c4-43c5-a42b-e5e93e2a6b13
 title: "L’art en jeu des Correspondances : technique ou communication ?"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
@@ -9,7 +9,6 @@ type: ""
 url: "https://hal.science/hal-03761092"
 publisher: "Espace Van Gogh"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

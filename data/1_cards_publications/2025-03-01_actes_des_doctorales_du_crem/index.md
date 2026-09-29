@@ -1,5 +1,5 @@
 ---
-uuid: 2a7ee1e5-e1a8-4ffa-8332-a2b62f4fa02f
+uuid: 74b71154-3570-4ea1-a6fd-126a63d2366b
 title: "Actes des Doctorales du CREM"
 author: "Joachim Fischer"
 authors: "Joachim Fischer"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://shs.hal.science/halshs-05579224"
 publisher: "CREM"
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

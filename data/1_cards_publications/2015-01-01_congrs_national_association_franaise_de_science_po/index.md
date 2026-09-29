@@ -1,5 +1,5 @@
 ---
-uuid: afe3cacf-0f33-4751-aa08-412fa1e916a0
+uuid: 50f26bad-7758-4388-881b-fa46f9a53479
 title: "Congrès national Association Française de Science Politique"
 author: "Camille Rondot"
 authors: "Camille Rondot"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03753018"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 

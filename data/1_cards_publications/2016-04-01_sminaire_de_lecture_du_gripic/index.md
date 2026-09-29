@@ -1,5 +1,5 @@
 ---
-uuid: ad377c98-3040-435b-a81f-59ad6f2612f2
+uuid: b249bc72-a7a7-4d23-91c8-6134480ad7b6
 title: "Séminaire de lecture du GRIPIC"
 author: "Ambre Abid-Dalençon, Emmanuelle Fantin"
 authors: "Ambre Abid-Dalençon, Emmanuelle Fantin"
@@ -9,7 +9,6 @@ type: "paper-conference"
 url: "https://hal.science/hal-03963911"
 publisher: ""
 container_title: ""
-image: "./no_img.webp"
 publication: true
 ---
 
