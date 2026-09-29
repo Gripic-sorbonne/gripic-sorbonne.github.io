@@ -1,5 +1,5 @@
 ---
-uuid: 5d745b04-6b4b-45e4-9dd4-ca27a5f45f17
+uuid: abecc0d9-0b36-4f51-8086-a65c134dd0bd
 title: "Journées d’études Les fabriques de l’ignorance"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

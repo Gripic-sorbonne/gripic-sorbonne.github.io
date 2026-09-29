@@ -1,5 +1,5 @@
 ---
-uuid: 976846d7-75b9-404d-bf20-1b8d781654c8
+uuid: 175047bc-3f60-459a-8d12-91cb0101d18c
 title: "Converging and Conflicting Trends in the Public Administration of the US, Europe, and Germany, German Research Institute for Public Administration Speyer (GRIP) & School of Public and Environmental Affairs (SPEA) of Indiana University"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

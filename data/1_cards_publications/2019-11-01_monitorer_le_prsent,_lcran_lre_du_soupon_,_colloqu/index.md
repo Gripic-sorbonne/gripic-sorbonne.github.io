@@ -1,5 +1,5 @@
 ---
-uuid: 7419aa45-6b54-45c8-b6a3-fa198a62f69f
+uuid: c805fca7-e0cb-4555-af07-a70a25d68de0
 title: "“ Monitorer le présent, l’écran à l’ère du soupçon ,” Colloque international organisé par le laboratoire AL NT2, Université de Montréal."
 author: "Inès Garmon"
 authors: "Inès Garmon"

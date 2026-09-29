@@ -1,5 +1,5 @@
 ---
-uuid: 44bb3e9c-111d-4963-abcd-c6bf4c5116ae
+uuid: edf37535-daad-4556-89dc-95ff75590e4c
 title: "Comprendre la culture numérique"
 author: "Pauline Escande, Bertrand Naivin"
 authors: "Pauline Escande, Bertrand Naivin"

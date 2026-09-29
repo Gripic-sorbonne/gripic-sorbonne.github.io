@@ -1,5 +1,5 @@
 ---
-uuid: 87d743e1-3228-4566-b811-7d5c7ef94625
+uuid: 0fdf8ae3-b714-426d-8722-1e3f91728ad3
 title: "Humanitarians in 21st Century, Lobachevsky State University of Nizhni Novgorod"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

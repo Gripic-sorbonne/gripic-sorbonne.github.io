@@ -1,5 +1,5 @@
 ---
-uuid: 9c982a50-f0d6-4e03-b4d3-6e3cced3fce2
+uuid: 8c2d9119-3c08-4b6e-94f3-5ab62fc72333
 title: "Humanisme et entreprise"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

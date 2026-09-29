@@ -1,5 +1,5 @@
 ---
-uuid: 66fd7d94-c737-4ad7-a6de-6d2715b897a1
+uuid: 7983185c-8438-42a9-881a-2e2615afeb34
 title: "L’Europe face à l’épidémie. Comparaisons et sentiments médiatiques"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

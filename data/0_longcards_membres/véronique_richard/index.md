@@ -1,5 +1,5 @@
 ---
-uuid: f1f892ea-46c7-4796-924a-3d6c5fb54ed6
+uuid: c34ff417-29bb-4e48-aebf-2446b2c7d84a
 prettyName: VéroniqueRichard
 
 title: "Véronique Richard"

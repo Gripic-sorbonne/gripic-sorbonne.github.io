@@ -1,5 +1,5 @@
 ---
-uuid: f70d6e96-8242-4da5-bb8f-a729ad7afdc2
+uuid: e92e90f2-c771-4aa7-9763-0eb645ee1706
 title: "Management des technologies organisationnelles"
 author: "Véronique Richard"
 authors: "Véronique Richard"

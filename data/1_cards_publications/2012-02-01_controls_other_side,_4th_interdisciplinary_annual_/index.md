@@ -1,5 +1,5 @@
 ---
-uuid: 1ad33668-09b6-42e0-961c-0cab509f7e22
+uuid: 5759cf38-889f-44a1-afee-8111350a43f2
 title: "Control’s Other Side, 4th Interdisciplinary Annual Seminar of the Bielefeld Graduate School in History and Sociology"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

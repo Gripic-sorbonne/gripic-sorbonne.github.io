@@ -1,5 +1,5 @@
 ---
-uuid: e249b9be-af7f-4a6f-af8d-fdd0019e682e
+uuid: 77de944d-a2f8-4929-9bbe-2b9e5942bacf
 title: "European Vertebrate Pest Management"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

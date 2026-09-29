@@ -1,5 +1,5 @@
 ---
-uuid: 8367aa21-1171-476f-a2d9-e7dfd39e089a
+uuid: 21e61276-7da2-4c70-bfdf-8a76648e40f3
 title: "Penser l’histoire des médias"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

@@ -1,5 +1,5 @@
 ---
-uuid: 66d332df-f230-4ddb-a5cb-252f22537728
+uuid: 03077a49-c6ab-48fb-adde-8ec0cacc66bd
 title: "Maître Girardin. La formation au journalisme vue par Émile de Girardin"
 author: "Adeline Wrona, Juliette Charbonneaux, Lisa Bolz"
 authors: "Adeline Wrona, Juliette Charbonneaux, Lisa Bolz"

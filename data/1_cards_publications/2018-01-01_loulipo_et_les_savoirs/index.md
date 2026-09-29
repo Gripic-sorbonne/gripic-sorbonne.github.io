@@ -1,5 +1,5 @@
 ---
-uuid: a8ad4030-e673-419f-aec8-e6b39ca6de01
+uuid: 45929811-f1e3-45b2-90f2-ae667021741a
 title: "L’Oulipo et les savoirs"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

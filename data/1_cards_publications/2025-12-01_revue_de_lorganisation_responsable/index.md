@@ -1,5 +1,5 @@
 ---
-uuid: af1ea7d1-bee0-43fe-bacd-4bf6384f3234
+uuid: 9fbd8d83-7347-4f06-b920-6503862b8a36
 title: "Revue de l’Organisation Responsable"
 author: "Marie-Julie Catoir-Brisson, Odile Vallée, Évelyne Broudoux, Valérie Billaudeau"
 authors: "Marie-Julie Catoir-Brisson, Odile Vallée, Évelyne Broudoux, Valérie Billaudeau"

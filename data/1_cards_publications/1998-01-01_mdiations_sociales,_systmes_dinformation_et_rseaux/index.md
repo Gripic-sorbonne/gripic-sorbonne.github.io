@@ -1,5 +1,5 @@
 ---
-uuid: 1bd5446c-d7ff-4a29-9299-fa63e3ad22fe
+uuid: bc6f0444-61a9-4dc5-86cf-c7faa74d6fe6
 title: "Médiations sociales, systèmes d’information et réseaux de communication, Actes du Onzième Congrès national des Sciences de l’information et de la communication"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

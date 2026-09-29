@@ -1,5 +1,5 @@
 ---
-uuid: 6d4f59a2-4a52-474f-b1c9-68c06e4b2a2e
+uuid: bc409524-2aa8-4957-a71e-63a9fdbb2edc
 title: "Changer ou s’éffondrer ? Penser les questions de transition écologiques"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"

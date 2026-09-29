@@ -1,5 +1,5 @@
 ---
-uuid: 00860169-fb7c-41e4-8521-27338c2d3530
+uuid: 8ae2768a-29d5-45b4-baa0-6e27b11ddb05
 title: "Retrospective et perspective : 1989 - 2009 H2PTM’09"
 author: "Gustavo Gomez-Mejia, Etienne Candel"
 authors: "Gustavo Gomez-Mejia, Etienne Candel"

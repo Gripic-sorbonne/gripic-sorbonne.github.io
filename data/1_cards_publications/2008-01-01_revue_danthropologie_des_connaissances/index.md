@@ -1,5 +1,5 @@
 ---
-uuid: f88d5f73-23d0-477a-a050-628dd898f085
+uuid: 2da38c07-4046-4196-9178-29bf225bcd9c
 title: "Revue d’Anthropologie des Connaissances"
 author: "Igor Babou, Joëlle Le Marec"
 authors: "Igor Babou, Joëlle Le Marec"
