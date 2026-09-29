@@ -1,7 +1,9 @@
 ---
-uuid: 74dd98a5-6bdb-47a0-80f4-84de25e32c3a
+uuid: 29477f2b-303b-44a2-b0b5-fd5661fec283
 title: "PATRIMOINES ET LABELLISATION"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2019-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754566"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754566](https://hal.science/hal-03754566)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754566](https://hal.science/hal-03754566)
 

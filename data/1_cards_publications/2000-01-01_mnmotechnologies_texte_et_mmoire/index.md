@@ -1,7 +1,9 @@
 ---
-uuid: 7bc25ded-70a2-4c80-bb27-39cd5aaf9e54
+uuid: 697cb024-60a7-4578-aacd-2f65ecaeb236
 title: "Mnémotechnologies – texte et mémoire"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2000-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761031"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761031](https://hal.science/hal-03761031)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761031](https://hal.science/hal-03761031)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 88ac761d-c73f-46ee-86eb-96816d2ef545
+uuid: 71f58bea-b7b4-4490-b7b0-aad8300b769c
 title: "TDC-Réseau Canopé"
+author: "Olivier AÏM, Anneliese Depoux"
 authors: "Olivier AÏM, Anneliese Depoux"
+abstract: "Olivier AÏM, Anneliese Depoux"
 date: "2014-06-01"
 type: "article-journal"
 url: "https://hal.science/hal-03749314"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Olivier AÏM, Anneliese Depoux
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749314](https://hal.science/hal-03749314)
+- **Auteurs:** Olivier AÏM, Anneliese Depoux
+- **Type de publication:** article-journal
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749314](https://hal.science/hal-03749314)
 

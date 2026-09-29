@@ -1,7 +1,9 @@
 ---
-uuid: 7cc64f87-889b-4ad5-94e9-973fcf54a239
+uuid: 9ee07b77-cf98-490a-8a37-8accb7b1155f
 title: "Rhétorique du visible. Stratégies de l’image entre signification et communication"
+author: "Caroline Marti"
 authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2010-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754363"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754363](https://hal.science/hal-03754363)
+- **Auteurs:** Caroline Marti
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754363](https://hal.science/hal-03754363)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 630d997a-d956-44e4-9ee6-ce2e0455f897
+uuid: 1c62a1e7-97cd-42e9-8f88-7c623af3feb6
 title: "ESSACHESS – Journal for Communication Studies"
+author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
+abstract: "Oriane Deseilligny"
 date: "2012-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750601"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Oriane Deseilligny
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** ESSACHESS editors
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750601](https://hal.science/hal-03750601)
+- **Auteurs:** Oriane Deseilligny
+- **Type de publication:** article-journal
+- **Éditeur:** ESSACHESS editors
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750601](https://hal.science/hal-03750601)
 

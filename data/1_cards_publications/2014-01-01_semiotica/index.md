@@ -1,7 +1,9 @@
 ---
-uuid: 6aea2838-e094-4ead-8309-81f74cada7d5
+uuid: 6e897d75-f8d4-429a-a588-2d25c8ad0af0
 title: "Semiotica"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2014-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03767011"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** De Gruyter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767011](https://hal.science/hal-03767011)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** article-journal
+- **Éditeur:** De Gruyter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767011](https://hal.science/hal-03767011)
 

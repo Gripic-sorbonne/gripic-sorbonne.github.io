@@ -1,7 +1,9 @@
 ---
-uuid: f788151b-116e-45f7-9faf-2724d801a59d
+uuid: d7a2d54b-7971-4b0f-853a-bd6bb5c6f78d
 title: "La guerre de Crimée, la première guerre moderne européenne ?"
+author: "Johanna Cappi"
 authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2019-11-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773304"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Johanna Cappi
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Colloque international Centre d’histoire du XIXe siècle, LabEx EHNE, Centre de recherches en histoire des Slaves (UMR SIRICE)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773304](https://hal.science/hal-03773304)
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** paper-conference
+- **Éditeur:** Colloque international Centre d’histoire du XIXe siècle, LabEx EHNE, Centre de recherches en histoire des Slaves (UMR SIRICE)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773304](https://hal.science/hal-03773304)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 951663af-a2f6-47d2-8865-41e24b8a15b8
+uuid: 4e904a5b-8706-43b1-a6de-ddffa7bd0184
 title: "LiFraLu : une belle inconnue. La littérature francophone luxembourgeoise : Bilan et perspectives"
+author: "Séverine Barthes"
 authors: "Séverine Barthes"
+abstract: "Séverine Barthes"
 date: "2010-12-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-00682023"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Séverine Barthes
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00682023](https://shs.hal.science/halshs-00682023)
+- **Auteurs:** Séverine Barthes
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00682023](https://shs.hal.science/halshs-00682023)
 

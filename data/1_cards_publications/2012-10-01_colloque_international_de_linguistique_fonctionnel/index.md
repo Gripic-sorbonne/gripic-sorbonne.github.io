@@ -1,7 +1,9 @@
 ---
-uuid: a11305c4-aa4b-4466-9c4d-cf22038b67cc
+uuid: c2d68633-0493-4da0-924b-7be3efae396f
 title: "Colloque International de Linguistique Fonctionnelle"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2012-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750754"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750754](https://hal.science/hal-03750754)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750754](https://hal.science/hal-03750754)
 

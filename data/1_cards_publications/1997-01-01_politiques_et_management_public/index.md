@@ -1,7 +1,9 @@
 ---
-uuid: ad5634ed-e629-4396-b9d7-84ae76580d63
+uuid: 4cc7b038-d576-4afb-8ca4-38680874be94
 title: "Politiques et Management public"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "1997-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03754523"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Institut de management public
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754523](https://hal.science/hal-03754523)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
+- **Éditeur:** Institut de management public
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754523](https://hal.science/hal-03754523)
 

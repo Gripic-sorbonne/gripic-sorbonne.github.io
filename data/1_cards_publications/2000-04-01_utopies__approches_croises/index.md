@@ -1,7 +1,9 @@
 ---
-uuid: b85e44dc-3f4a-4610-9ef7-080a4cc2af67
+uuid: 73ff9bba-f774-4e03-891a-742dfe8d80bb
 title: "Utopies: approches croisées"
+author: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
 authors: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
+abstract: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
 date: "2000-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754588"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Librairie TeKné
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754588](https://hal.science/hal-03754588)
+- **Auteurs:** Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre
+- **Type de publication:** paper-conference
+- **Éditeur:** Librairie TeKné
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754588](https://hal.science/hal-03754588)
 

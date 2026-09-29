@@ -1,7 +1,9 @@
 ---
-uuid: 2ced48d5-795b-4359-9426-7d7939e4aa76
+uuid: ade32ae4-b57b-4e2f-a491-1194b6c0d76e
 title: "Communication & Organisation"
+author: "Caroline Montety"
 authors: "Caroline Montety"
+abstract: "Caroline Montety"
 date: "2008-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03754328"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Montety
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Presses Universitaires de Bordeaux
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754328](https://hal.science/hal-03754328)
+- **Auteurs:** Caroline Montety
+- **Type de publication:** article-journal
+- **Éditeur:** Presses Universitaires de Bordeaux
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754328](https://hal.science/hal-03754328)
 

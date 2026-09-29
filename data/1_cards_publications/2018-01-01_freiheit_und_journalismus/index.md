@@ -1,7 +1,9 @@
 ---
-uuid: f980d0c9-fb22-4946-bfe6-c9f526dfaf1a
+uuid: 82995fac-3a2f-410e-8cc2-be6576c1b24f
 title: "Freiheit und Journalismus"
+author: "Lisa Bolz, Juliette Charbonneaux"
 authors: "Lisa Bolz, Juliette Charbonneaux"
+abstract: "Lisa Bolz, Juliette Charbonneaux"
 date: "2018-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03966964"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Lisa Bolz, Juliette Charbonneaux
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Nomos
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966964](https://hal.science/hal-03966964)
+- **Auteurs:** Lisa Bolz, Juliette Charbonneaux
+- **Type de publication:** chapter
+- **Éditeur:** Nomos
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966964](https://hal.science/hal-03966964)
 

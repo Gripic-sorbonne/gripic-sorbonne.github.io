@@ -1,7 +1,9 @@
 ---
-uuid: d4948915-b11c-47ff-8375-20dfd5b2b77f
+uuid: 3baf229b-eab3-493a-9864-a4f137b196d9
 title: "Données, textes et documents"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2017-01-01"
 type: ""
 url: "https://hal.science/hal-03760986"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760986](https://hal.science/hal-03760986)
+- **Auteurs:** Emmanuël Souchier
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760986](https://hal.science/hal-03760986)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 1b5a1587-2f45-496d-b412-ffec37731f16
+uuid: a9b58c33-84d0-4c51-b150-a663818c9cd1
 title: "Gastronomie et Communication"
+author: "Camille Brachet, Julien Tassel"
 authors: "Camille Brachet, Julien Tassel"
+abstract: "Camille Brachet, Julien Tassel"
 date: "2022-01-01"
 type: ""
 url: "https://hal.science/hal-03740493"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Camille Brachet, Julien Tassel
+## Informations sur la publication
 
-**Éditeur:** L’Harmattan
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03740493](https://hal.science/hal-03740493)
+- **Auteurs:** Camille Brachet, Julien Tassel
+- **Éditeur:** L’Harmattan
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03740493](https://hal.science/hal-03740493)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 42a7860c-ba9e-4435-adc6-181409eec401
+uuid: 711d5ba8-9e13-420f-a1d5-ebb5588ae0b0
 title: "De l’institutionnalisation à la fictionnalisation du discours d’expertise :une forme d’engagement social de l’expert au sein d’une controverse socio-environnementale ?"
+author: "Barbara Losen, Cécile Do Huu"
 authors: "Barbara Losen, Cécile Do Huu"
+abstract: "Barbara Losen, Cécile Do Huu"
 date: "2025-01-01"
 type: "manuscript"
 url: "https://hal.science/hal-04922398"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Barbara Losen, Cécile Do Huu
+## Informations sur la publication
 
-**Type de publication:** manuscript
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04922398](https://hal.science/hal-04922398)
+- **Auteurs:** Barbara Losen, Cécile Do Huu
+- **Type de publication:** manuscript
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04922398](https://hal.science/hal-04922398)
 

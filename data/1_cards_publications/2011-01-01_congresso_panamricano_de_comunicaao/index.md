@@ -1,7 +1,9 @@
 ---
-uuid: 29127076-612c-414e-ae0e-815e41de0eee
+uuid: 2b4b6ec8-6ad9-455a-93b8-9ee4b51dbf47
 title: "Congresso panaméricano de Comunicaçao"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2011-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750126"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750126](https://hal.science/hal-03750126)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750126](https://hal.science/hal-03750126)
 

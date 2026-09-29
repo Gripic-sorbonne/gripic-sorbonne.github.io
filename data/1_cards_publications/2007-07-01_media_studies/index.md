@@ -1,7 +1,9 @@
 ---
-uuid: 3a2e5598-914e-4b20-b92c-8974da309d26
+uuid: 781fe159-c870-4104-840b-b5a61b20ffad
 title: "Media Studies"
+author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"
+abstract: "Anita SALEH BOLOURDI"
 date: "2007-07-01"
 type: "article-journal"
 url: "https://hal.science/hal-04168944"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Anita SALEH BOLOURDI
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Islamic Azad University science and research branch
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04168944](https://hal.science/hal-04168944)
+- **Auteurs:** Anita SALEH BOLOURDI
+- **Type de publication:** article-journal
+- **Éditeur:** Islamic Azad University science and research branch
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04168944](https://hal.science/hal-04168944)
 

@@ -1,7 +1,9 @@
 ---
-uuid: e9357d5d-e9d7-4b06-8109-48d2defb8f2e
+uuid: 66fab2e6-c27a-45b1-9a33-6e0175b6a627
 title: "Migrations transnationales, interculturalité, politiques et communication"
+author: "Claire Scopsi, Asmaa Azizi"
 authors: "Claire Scopsi, Asmaa Azizi"
+abstract: "Claire Scopsi, Asmaa Azizi"
 date: "2020-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03796334"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Claire Scopsi, Asmaa Azizi
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Edition de l’Institut de la Comunicacio de la Universitat Autonoma de Barcelona
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03796334](https://hal.science/hal-03796334)
+- **Auteurs:** Claire Scopsi, Asmaa Azizi
+- **Type de publication:** chapter
+- **Éditeur:** Edition de l’Institut de la Comunicacio de la Universitat Autonoma de Barcelona
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03796334](https://hal.science/hal-03796334)
 

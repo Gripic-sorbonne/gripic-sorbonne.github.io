@@ -1,7 +1,9 @@
 ---
-uuid: 333f0583-2f51-4ada-a209-8485bb787b39
+uuid: e9a31893-55b9-44a6-9e06-51514b9d26e9
 title: "50 ans de communication"
+author: "Julien Tassel"
 authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2008-01-01"
 type: "chapter"
 url: "https://hal.science/hal-04003619"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Julien Tassel
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Celsa, Université Paris Sorbonne
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04003619](https://hal.science/hal-04003619)
+- **Auteurs:** Julien Tassel
+- **Type de publication:** chapter
+- **Éditeur:** Celsa, Université Paris Sorbonne
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04003619](https://hal.science/hal-04003619)
 

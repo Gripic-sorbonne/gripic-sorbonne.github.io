@@ -1,7 +1,9 @@
 ---
-uuid: 8fa80a53-3db6-4f56-98cb-c7f3d395f4a1
+uuid: ec632107-46f7-412d-98b4-515016408987
 title: "Colloque international de Wroclaw : “Traits, fragments, figures chez Roland Barthes ”"
+author: "Pauline Escande, Olivier AÏM"
 authors: "Pauline Escande, Olivier AÏM"
+abstract: "Pauline Escande, Olivier AÏM"
 date: "2015-09-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750704"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande, Olivier AÏM
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Institut d’études Romanes
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750704](https://hal.science/hal-03750704)
+- **Auteurs:** Pauline Escande, Olivier AÏM
+- **Type de publication:** paper-conference
+- **Éditeur:** Institut d’études Romanes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750704](https://hal.science/hal-03750704)
 

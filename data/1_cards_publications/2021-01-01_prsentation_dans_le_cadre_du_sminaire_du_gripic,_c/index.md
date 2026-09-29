@@ -1,7 +1,9 @@
 ---
-uuid: d2c3f55d-cfc7-4374-a565-39dc43c8dacb
+uuid: e36713b0-fd82-4945-8295-9525bdbaa129
 title: "Présentation dans le cadre du séminaire du GRIPIC, Celsa"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2021-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750762"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** GRIPIC, Celsa
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750762](https://hal.science/hal-03750762)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** GRIPIC, Celsa
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750762](https://hal.science/hal-03750762)
 

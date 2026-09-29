@@ -1,7 +1,9 @@
 ---
-uuid: 052aa797-bad3-4b57-9ccd-c52b31fedeea
+uuid: 2a7f1a33-bd76-44e1-abcf-40252b76798c
 title: "Nostalgies contemporaines. Médias, cultures et technologies"
+author: "Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer"
 authors: "Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer"
+abstract: "Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer"
 date: "2021-01-01"
 type: "book"
 url: "https://hal.science/hal-03721124"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721124](https://hal.science/hal-03721124)
+- **Auteurs:** Emmanuelle Fantin, Sébastien Fevry, Katharina Niemeyer
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721124](https://hal.science/hal-03721124)
 

@@ -1,7 +1,9 @@
 ---
-uuid: e4ac0307-0a4a-49d7-a817-55ae8a217495
+uuid: a8b66d70-ec5e-41ca-a06b-05f1145e367a
 title: "Homotopies littéraires et images partagées. Figurations du lecteur, du livre et de la lecture sur trois plateformes numériques (YouTube, Instagram, Tumblr)."
+author: "Marine Siguier"
 authors: "Marine Siguier"
+abstract: "Marine Siguier"
 date: "2020-12-01"
 type: "thesis"
 url: "https://theses.hal.science/tel-03260336"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Marine Siguier
+## Informations sur la publication
 
-**Type de publication:** thesis
-
-**Éditeur:** Sorbonne Université (France)
-
-🔗 **Lien HAL / Publication:** [https://theses.hal.science/tel-03260336](https://theses.hal.science/tel-03260336)
+- **Auteurs:** Marine Siguier
+- **Type de publication:** thesis
+- **Éditeur:** Sorbonne Université (France)
+- 🔗 **Lien HAL / Publication:** [https://theses.hal.science/tel-03260336](https://theses.hal.science/tel-03260336)
 

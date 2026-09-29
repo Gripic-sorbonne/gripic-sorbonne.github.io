@@ -1,7 +1,9 @@
 ---
-uuid: f2c95246-2108-4c2c-9b79-7c9d0a5d1d7e
+uuid: 3b306894-73b3-4cb3-ae4b-98b6e903fcff
 title: "Proteus - Cahiers des théories de l’art"
+author: "Olivier AÏM"
 authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2013-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03749332"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Olivier AÏM
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Proteus
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749332](https://hal.science/hal-03749332)
+- **Auteurs:** Olivier AÏM
+- **Type de publication:** article-journal
+- **Éditeur:** Proteus
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749332](https://hal.science/hal-03749332)
 

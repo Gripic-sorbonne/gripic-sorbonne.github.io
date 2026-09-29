@@ -1,7 +1,9 @@
 ---
-uuid: 62366dce-6ac1-4c45-a44e-cb2c8d2022fc
+uuid: 67bd15b8-562f-4942-9d57-92fcc5dab196
 title: "Colloque international IAERI"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2017-07-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750152"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750152](https://hal.science/hal-03750152)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750152](https://hal.science/hal-03750152)
 

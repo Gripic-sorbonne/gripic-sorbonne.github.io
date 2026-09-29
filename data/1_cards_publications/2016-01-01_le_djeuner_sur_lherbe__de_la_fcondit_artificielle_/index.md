@@ -1,7 +1,9 @@
 ---
-uuid: 7f81d2b2-1b4a-41ad-9581-d4a1404cede2
+uuid: 81923674-17f8-456d-a09f-cddef73e7fdf
 title: "Le déjeuner sur l’herbe: de la fécondité artificielle à la fertilité de la nature?"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2016-01-01"
 type: ""
 url: "https://hal.science/hal-03754455"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Éditeur:** ISCC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754455](https://hal.science/hal-03754455)
+- **Auteurs:** Dominique Pagès
+- **Éditeur:** ISCC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754455](https://hal.science/hal-03754455)
 

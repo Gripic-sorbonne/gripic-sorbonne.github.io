@@ -1,7 +1,9 @@
 ---
-uuid: b48962b7-defe-474f-af77-82c91e23bfd1
+uuid: 9c63bb63-9c83-4f4c-9b37-87c9e953242e
 title: "23ème CONGRÈS MONDIAL DE SCIENCE POLITIQUE"
+author: "François Allard-Huver"
 authors: "François Allard-Huver"
+abstract: "François Allard-Huver"
 date: "2014-07-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-05469955"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** François Allard-Huver
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** IPSA
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-05469955](https://shs.hal.science/halshs-05469955)
+- **Auteurs:** François Allard-Huver
+- **Type de publication:** paper-conference
+- **Éditeur:** IPSA
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-05469955](https://shs.hal.science/halshs-05469955)
 

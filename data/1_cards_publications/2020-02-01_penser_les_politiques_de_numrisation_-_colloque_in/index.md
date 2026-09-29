@@ -1,7 +1,9 @@
 ---
-uuid: 92b20bf5-1118-4f18-b318-418982e2ca83
+uuid: d4eedf24-8592-4b37-aa72-afde719b1f8d
 title: "Penser les politiques de numérisation - Colloque Interdisciplinaire Transnum"
+author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
+abstract: "Yuwen Zhang"
 date: "2020-02-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773562"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yuwen Zhang
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** GRIPIC - Sorbonne Université and COSTECH - UTC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773562](https://hal.science/hal-03773562)
+- **Auteurs:** Yuwen Zhang
+- **Type de publication:** paper-conference
+- **Éditeur:** GRIPIC - Sorbonne Université and COSTECH - UTC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773562](https://hal.science/hal-03773562)
 

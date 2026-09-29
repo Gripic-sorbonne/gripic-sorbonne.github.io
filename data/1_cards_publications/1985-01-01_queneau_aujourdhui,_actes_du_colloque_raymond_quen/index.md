@@ -1,7 +1,9 @@
 ---
-uuid: 95459e9e-1f9d-4ae5-8f33-b1bd82e0d1b1
+uuid: cf66f2c2-be1a-4b5a-9fd5-00e86ba3245c
 title: "Queneau aujourd’hui, Actes du colloque Raymond Queneau"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1985-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761063"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Éd. Clancier-Guénaud
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761063](https://hal.science/hal-03761063)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** Éd. Clancier-Guénaud
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761063](https://hal.science/hal-03761063)
 

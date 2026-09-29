@@ -1,7 +1,9 @@
 ---
-uuid: 151b21c8-4c2c-41be-89ab-33e1d11eda98
+uuid: e503733d-9de7-49fb-89a6-5f3a0f2b9390
 title: "De la Danse du fragment pour ce qu’elle est philosophie primordiale ou l’Ars d’escrire & portraicturer ès manières del Sieur Chariot - Henri de nom - en profession d’Ymagier & résidant aux États d’Amériques"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2011-01-01"
 type: ""
 url: "https://hal.science/hal-03761088"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Galerie Talos
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761088](https://hal.science/hal-03761088)
+- **Auteurs:** Emmanuël Souchier
+- **Éditeur:** Galerie Talos
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761088](https://hal.science/hal-03761088)
 

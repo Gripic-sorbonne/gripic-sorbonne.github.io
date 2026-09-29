@@ -1,7 +1,9 @@
 ---
-uuid: 8f57cbc2-d170-4858-9a55-65a18905b60e
+uuid: 3588cd9d-3cc1-4302-9ac5-5ecb455d5a8a
 title: "New Queer Images. Representations of Homosexualities in Contemporary Francophone Visual Cultures"
+author: "Nelly Quemener"
 authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2011-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03758787"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Peter Lang
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758787](https://hal.science/hal-03758787)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** chapter
+- **Éditeur:** Peter Lang
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758787](https://hal.science/hal-03758787)
 

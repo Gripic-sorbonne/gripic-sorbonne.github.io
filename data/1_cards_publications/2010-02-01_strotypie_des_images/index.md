@@ -1,7 +1,9 @@
 ---
-uuid: d5d3c8bb-4262-49ad-bf6d-56a34c9bfbab
+uuid: 4e7c8f7a-f36c-416a-b885-ef4cabca7fc0
 title: "Stéréotypie des images"
+author: "Thierry Devars"
 authors: "Thierry Devars"
+abstract: "Thierry Devars"
 date: "2010-02-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750690"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thierry Devars
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Journée d’études organisée par le CÉDITEC (Université Paris-Est) et le GRIPIC (CELSA)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750690](https://hal.science/hal-03750690)
+- **Auteurs:** Thierry Devars
+- **Type de publication:** paper-conference
+- **Éditeur:** Journée d’études organisée par le CÉDITEC (Université Paris-Est) et le GRIPIC (CELSA)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750690](https://hal.science/hal-03750690)
 

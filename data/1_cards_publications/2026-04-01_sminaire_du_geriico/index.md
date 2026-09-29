@@ -1,7 +1,9 @@
 ---
-uuid: 7d738607-c217-4f5a-8f6b-1dd19b96296e
+uuid: e718bd1e-adef-47af-bed8-28b7683aff27
 title: "Séminaire du GERiiCO"
+author: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
 authors: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
+abstract: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
 date: "2026-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05606015"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ona Anglada Pujol, Thibault Grison, Florian Vörös
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05606015](https://hal.science/hal-05606015)
+- **Auteurs:** Ona Anglada Pujol, Thibault Grison, Florian Vörös
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05606015](https://hal.science/hal-05606015)
 

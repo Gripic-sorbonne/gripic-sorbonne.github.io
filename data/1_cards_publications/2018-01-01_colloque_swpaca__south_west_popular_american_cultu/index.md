@@ -1,7 +1,9 @@
 ---
-uuid: 6bf26691-05e0-4cb8-8a80-dcf9d9982fd3
+uuid: 6608d443-c91d-45cb-bfb8-b358d7fd8c2a
 title: "Colloque SWPACA (South West Popular/American Culture Association)"
+author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
+abstract: "Agathe Nicolas"
 date: "2018-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773585"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Agathe Nicolas
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Groupe de recherche “ Harry Potter Studies ”
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773585](https://hal.science/hal-03773585)
+- **Auteurs:** Agathe Nicolas
+- **Type de publication:** paper-conference
+- **Éditeur:** Groupe de recherche “ Harry Potter Studies ”
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773585](https://hal.science/hal-03773585)
 

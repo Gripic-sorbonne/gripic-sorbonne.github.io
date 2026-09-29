@@ -1,7 +1,9 @@
 ---
-uuid: bdaf8e98-4c5e-4ca6-9334-3077b87c27ed
+uuid: 2f2a5411-c7fb-45bd-86b6-e7a200645be2
 title: "Tourism Imaginaries – Imaginaires touristiques"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2011-02-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767102"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** University of California
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767102](https://hal.science/hal-03767102)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** paper-conference
+- **Éditeur:** University of California
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767102](https://hal.science/hal-03767102)
 

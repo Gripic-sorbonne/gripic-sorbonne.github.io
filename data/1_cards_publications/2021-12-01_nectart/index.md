@@ -1,7 +1,9 @@
 ---
-uuid: 5e4cf9c7-37b0-49a0-ade6-86e6e0980d0e
+uuid: 6075d4bb-5e4e-4332-a990-21add83fc50e
 title: "NECTART"
+author: "Sébastien Appiotti"
 authors: "Sébastien Appiotti"
+abstract: "Sébastien Appiotti"
 date: "2021-12-01"
 type: "article-journal"
 url: "https://hal.science/hal-03722905"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sébastien Appiotti
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Éditions de l’Attribut
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03722905](https://hal.science/hal-03722905)
+- **Auteurs:** Sébastien Appiotti
+- **Type de publication:** article-journal
+- **Éditeur:** Éditions de l’Attribut
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03722905](https://hal.science/hal-03722905)
 

@@ -1,7 +1,9 @@
 ---
-uuid: b141d4e9-f9b7-48ea-a1e8-ed9529758a47
+uuid: fbf4f2c0-9de9-4179-8e95-b1825c6d2392
 title: "Les médiations de la surconsommation"
+author: "Caroline Marti"
 authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2021-01-01"
 type: ""
 url: "https://hal.science/hal-03768214"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti
+## Informations sur la publication
 
-**Éditeur:** Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768214](https://hal.science/hal-03768214)
+- **Auteurs:** Caroline Marti
+- **Éditeur:** Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768214](https://hal.science/hal-03768214)
 

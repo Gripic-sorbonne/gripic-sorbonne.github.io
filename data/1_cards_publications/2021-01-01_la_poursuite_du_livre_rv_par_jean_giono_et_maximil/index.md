@@ -1,7 +1,9 @@
 ---
-uuid: 074c9ba0-d427-4439-b2ac-4ec0eed15307
+uuid: 390b0b08-4567-497b-8b6f-7fa4300e4919
 title: "À la poursuite du livre rêvé par Jean Giono et Maximilien Vox. Dialogues typographiques"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2021-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03760995"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760995](https://hal.science/hal-03760995)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760995](https://hal.science/hal-03760995)
 

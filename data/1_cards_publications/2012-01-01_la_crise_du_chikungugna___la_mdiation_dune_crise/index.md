@@ -1,7 +1,9 @@
 ---
-uuid: 1a93ebd8-6cec-4a61-a71b-eddbf7791209
+uuid: 420a2851-0e4d-4878-aa22-871268ff9ec0
 title: "La crise du chikungugna : la médiation d’une crise"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2012-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750038"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750038](https://hal.science/hal-03750038)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750038](https://hal.science/hal-03750038)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 86db7ebb-9c65-4849-a7a3-3a6875baca2e
+uuid: 684f5360-356a-4655-a002-5a55ee08f609
 title: "Genealogies of online content identification"
+author: "Maria Eriksson, Guillaume Heuguet"
 authors: "Maria Eriksson, Guillaume Heuguet"
+abstract: "Maria Eriksson, Guillaume Heuguet"
 date: "2021-01-01"
 type: ""
 url: "https://hal.sorbonne-universite.fr/hal-03987163"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Maria Eriksson, Guillaume Heuguet
+## Informations sur la publication
 
-**Éditeur:** Taylor & Francis
-
-🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-03987163](https://hal.sorbonne-universite.fr/hal-03987163)
+- **Auteurs:** Maria Eriksson, Guillaume Heuguet
+- **Éditeur:** Taylor & Francis
+- 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-03987163](https://hal.sorbonne-universite.fr/hal-03987163)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 43206d2a-f588-4fa9-8adb-90960dc4d763
+uuid: 84d2c0ed-59d5-4f7e-a823-05ba71d8a5cb
 title: "Converging and Conflicting Trends in the Public Administration of the US, Europe, and Germany, German Research Institute for Public Administration Speyer (GRIP) & School of Public and Environmental Affairs (SPEA) of Indiana University"
+author: "François Allard-Huver"
 authors: "François Allard-Huver"
+abstract: "François Allard-Huver"
 date: "2012-07-01"
 type: "paper-conference"
 url: "https://hal.science/hal-02892595"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** François Allard-Huver
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-02892595](https://hal.science/hal-02892595)
+- **Auteurs:** François Allard-Huver
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02892595](https://hal.science/hal-02892595)
 

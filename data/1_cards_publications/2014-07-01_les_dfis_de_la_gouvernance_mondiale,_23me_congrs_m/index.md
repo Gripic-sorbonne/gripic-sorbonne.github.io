@@ -1,7 +1,9 @@
 ---
-uuid: 60dd1b0f-7a92-4c42-80c0-88cce903129f
+uuid: 682afead-1977-44e1-ae76-7bdd03a29ddc
 title: "Les défis de la gouvernance mondiale, 23ème Congrès mondial de science politique"
+author: "Camille Rondot"
 authors: "Camille Rondot"
+abstract: "Camille Rondot"
 date: "2014-07-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03753020"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Camille Rondot
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03753020](https://hal.science/hal-03753020)
+- **Auteurs:** Camille Rondot
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03753020](https://hal.science/hal-03753020)
 

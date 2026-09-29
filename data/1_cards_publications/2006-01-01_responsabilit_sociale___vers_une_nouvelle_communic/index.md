@@ -1,7 +1,9 @@
 ---
-uuid: 721fde72-a001-4126-ab12-0bc8d6f308f1
+uuid: 83f866f5-ee7a-4233-87ef-6c23c0158cf1
 title: "Responsabilité sociale : vers une nouvelle communication des entreprises"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2006-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750045"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750045](https://hal.science/hal-03750045)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750045](https://hal.science/hal-03750045)
 

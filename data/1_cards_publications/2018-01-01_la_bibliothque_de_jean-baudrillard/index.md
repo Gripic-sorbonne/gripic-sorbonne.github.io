@@ -1,7 +1,9 @@
 ---
-uuid: 0d536025-78fe-4447-afcc-c950430debbe
+uuid: bfeaec1c-5329-45d5-903a-a19098fcce1a
 title: "La bibliothèque de Jean-Baudrillard"
+author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2018-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03964096"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Columbia University
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964096](https://hal.science/hal-03964096)
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** paper-conference
+- **Éditeur:** Columbia University
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964096](https://hal.science/hal-03964096)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 8c7aa719-10d9-4fdc-bd8f-e5183712bb53
+uuid: 7d79fd27-2328-40d0-a9b3-734ac6c87f3a
 title: "Transitions"
+author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2025-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05245531"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** SFSIC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05245531](https://hal.science/hal-05245531)
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** paper-conference
+- **Éditeur:** SFSIC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05245531](https://hal.science/hal-05245531)
 

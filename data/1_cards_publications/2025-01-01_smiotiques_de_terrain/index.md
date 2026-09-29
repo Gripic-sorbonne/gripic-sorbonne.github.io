@@ -1,7 +1,9 @@
 ---
-uuid: baa979c6-8cff-49a8-ad97-8e7d578dae1f
+uuid: ade4a628-0367-4a12-89ef-459a2a37d1ba
 title: "Sémiotiques de terrain"
+author: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
 authors: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
+abstract: "Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti"
 date: "2025-01-01"
 type: "book"
 url: "https://hal.science/hal-05415639"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05415639](https://hal.science/hal-05415639)
+- **Auteurs:** Alexandra Saemmer, Nolwenn Tréhondart, Sébastien Appiotti
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05415639](https://hal.science/hal-05415639)
 

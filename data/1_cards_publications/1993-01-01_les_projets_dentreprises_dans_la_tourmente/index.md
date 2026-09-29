@@ -1,7 +1,9 @@
 ---
-uuid: ff827ab0-cfba-42d6-91f0-bbb4813d1b60
+uuid: 57d0d79c-5b2b-41b3-aa70-1ca0d8a065d1
 title: "Les projets d’entreprises dans la tourmente"
+author: "nicole D’Almeida, Alain Nutkowicz"
 authors: "nicole D’Almeida, Alain Nutkowicz"
+abstract: "nicole D’Almeida, Alain Nutkowicz"
 date: "1993-01-01"
 type: "book"
 url: "https://hal.science/hal-03750019"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida, Alain Nutkowicz
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Liaisons
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750019](https://hal.science/hal-03750019)
+- **Auteurs:** nicole D’Almeida, Alain Nutkowicz
+- **Type de publication:** book
+- **Éditeur:** Liaisons
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750019](https://hal.science/hal-03750019)
 

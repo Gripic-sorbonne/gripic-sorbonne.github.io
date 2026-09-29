@@ -1,7 +1,9 @@
 ---
-uuid: 51ee1a6c-e1f3-405e-9b1a-4ba6bf883737
+uuid: 2c173550-7e91-4da6-97e8-afbe4b11099b
 title: "Studies of Discourse and Governmentality. New perspectives and methods."
+author: "Sun-Ha Hong, François Allard-Huver"
 authors: "Sun-Ha Hong, François Allard-Huver"
+abstract: "Sun-Ha Hong, François Allard-Huver"
 date: "2016-06-01"
 type: "chapter"
 url: "https://shs.hal.science/halshs-02061132"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sun-Ha Hong, François Allard-Huver
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** John Benjamins
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-02061132](https://shs.hal.science/halshs-02061132)
+- **Auteurs:** Sun-Ha Hong, François Allard-Huver
+- **Type de publication:** chapter
+- **Éditeur:** John Benjamins
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-02061132](https://shs.hal.science/halshs-02061132)
 

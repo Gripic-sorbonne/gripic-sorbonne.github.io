@@ -1,7 +1,9 @@
 ---
-uuid: 1ccee81e-a674-4268-9c08-ad3e52b9ef45
+uuid: abe5fd18-65fd-4ee9-b20c-0471f2f13d59
 title: "IAMCR 2013 Conference"
+author: "Etienne Candel, Brian J. Bowe, François Allard-Huver"
 authors: "Etienne Candel, Brian J. Bowe, François Allard-Huver"
+abstract: "Etienne Candel, Brian J. Bowe, François Allard-Huver"
 date: "2013-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-02095915"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Etienne Candel, Brian J. Bowe, François Allard-Huver
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-02095915](https://hal.science/hal-02095915)
+- **Auteurs:** Etienne Candel, Brian J. Bowe, François Allard-Huver
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02095915](https://hal.science/hal-02095915)
 

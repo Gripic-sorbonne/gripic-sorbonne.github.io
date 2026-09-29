@@ -1,7 +1,9 @@
 ---
-uuid: a8aeb0d5-1078-4814-8154-9c00b7dbee99
+uuid: 1cf2835e-9850-45c0-b6d4-a8565fca6a55
 title: "D’un écran à l’autre, les mutations du spectateur"
+author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"
+abstract: "Olivier AÏM, Pauline Escande"
 date: "2014-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03749706"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Olivier AÏM, Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749706](https://hal.science/hal-03749706)
+- **Auteurs:** Olivier AÏM, Pauline Escande
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749706](https://hal.science/hal-03749706)
 

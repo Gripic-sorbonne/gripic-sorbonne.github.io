@@ -1,7 +1,9 @@
 ---
-uuid: f4dcb0bb-7b90-49dc-9e83-38368a1e20e1
+uuid: 0bc425e1-76e3-497d-b9d3-476919bc2fb5
 title: "L’eau en fête."
+author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
+abstract: "Johan Boittiaux"
 date: "2017-03-01"
 type: ""
 url: "https://hal.science/hal-03807091"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Johan Boittiaux
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03807091](https://hal.science/hal-03807091)
+- **Auteurs:** Johan Boittiaux
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03807091](https://hal.science/hal-03807091)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 9ebd581b-7470-4900-a93c-9b669686c26f
+uuid: 05f57c16-26cc-4bdc-a70c-8e0532b8d2fc
 title: "Comunicação e Sociedade"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2009-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750078"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Centro de Estudos de Comunicação e Sociedade (CECS)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750078](https://hal.science/hal-03750078)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** article-journal
+- **Éditeur:** Centro de Estudos de Comunicação e Sociedade (CECS)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750078](https://hal.science/hal-03750078)
 

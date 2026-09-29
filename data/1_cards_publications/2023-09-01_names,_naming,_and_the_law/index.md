@@ -1,7 +1,9 @@
 ---
-uuid: 911e5900-26a2-4da7-902f-58dbbf1d5fa9
+uuid: d4e8f943-45e8-44a6-9f4d-13c6e644623b
 title: "Names, Naming, and the Law"
+author: "Pascaline Faure"
 authors: "Pascaline Faure"
+abstract: "Pascaline Faure"
 date: "2023-09-01"
 type: "chapter"
 url: "https://hal.sorbonne-universite.fr/hal-04245952"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pascaline Faure
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-04245952](https://hal.sorbonne-universite.fr/hal-04245952)
+- **Auteurs:** Pascaline Faure
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-04245952](https://hal.sorbonne-universite.fr/hal-04245952)
 

@@ -1,7 +1,9 @@
 ---
-uuid: c7a9ebc1-56b2-43f3-b05a-c5daaf9fb006
+uuid: d7894f2a-4389-4268-b0e5-8f2fc22e7c78
 title: "De quoi sémio est-il le nom? L’apport des SIC à la sémiotique"
+author: "Caroline Marti, Valérie Patrin-Leclère"
 authors: "Caroline Marti, Valérie Patrin-Leclère"
+abstract: "Caroline Marti, Valérie Patrin-Leclère"
 date: "2023-09-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04653486"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti, Valérie Patrin-Leclère
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université de Liège
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04653486](https://hal.science/hal-04653486)
+- **Auteurs:** Caroline Marti, Valérie Patrin-Leclère
+- **Type de publication:** paper-conference
+- **Éditeur:** Université de Liège
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04653486](https://hal.science/hal-04653486)
 

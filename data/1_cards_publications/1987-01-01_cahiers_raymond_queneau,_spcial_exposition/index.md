@@ -1,7 +1,9 @@
 ---
-uuid: 861ed72f-8e17-44e7-9765-751f895b3f6e
+uuid: 95cc805f-1e93-468b-98b8-5c75a6c234f2
 title: "Cahiers Raymond Queneau, spécial exposition"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1987-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761059"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Les Amis de Valentin Brû
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761059](https://hal.science/hal-03761059)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** Les Amis de Valentin Brû
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761059](https://hal.science/hal-03761059)
 

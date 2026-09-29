@@ -1,7 +1,9 @@
 ---
-uuid: a845b16c-a1ed-4041-abe5-f727ecdc3bf6
+uuid: 770e314b-d36e-4d50-9f9f-18ed9ac4c9ed
 title: "(Re)politiser les discours sur la photographie"
+author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2015-12-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767314"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Bruneel
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Paris 7 Diderot
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767314](https://hal.science/hal-03767314)
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** paper-conference
+- **Éditeur:** Paris 7 Diderot
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767314](https://hal.science/hal-03767314)
 

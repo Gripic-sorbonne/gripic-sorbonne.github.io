@@ -1,7 +1,9 @@
 ---
-uuid: 22d15cb6-3942-46b3-9fea-70ce4e7ba858
+uuid: 8df0d364-b2bf-4834-b856-8dbe1f9f74e9
 title: "Journalists and Knowledge Practices. Histories of Observing the Everyday in the Newspaper Age"
+author: "Lisa Bolz"
 authors: "Lisa Bolz"
+abstract: "Lisa Bolz"
 date: "2022-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03966990"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Lisa Bolz
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Routledge
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966990](https://hal.science/hal-03966990)
+- **Auteurs:** Lisa Bolz
+- **Type de publication:** chapter
+- **Éditeur:** Routledge
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966990](https://hal.science/hal-03966990)
 

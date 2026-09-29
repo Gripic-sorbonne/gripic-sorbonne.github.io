@@ -1,7 +1,9 @@
 ---
-uuid: 5952a7ef-1c73-4850-a81a-e352dfb84c1e
+uuid: 93151294-e637-4213-9a7d-38de37ec21ab
 title: "Or c’est du blanc qu’advient l’écrit..."
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2000-01-01"
 type: ""
 url: "https://hal.science/hal-03761097"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761097](https://hal.science/hal-03761097)
+- **Auteurs:** Emmanuël Souchier
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761097](https://hal.science/hal-03761097)
 

@@ -1,7 +1,9 @@
 ---
-uuid: afd89d4f-9df9-4413-a4b2-c8e99f2d0066
+uuid: 8a0c6281-7ab8-49b5-a956-0693dc53e720
 title: "Le Journal des psychologues"
+author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"
+abstract: "Oriane Deseilligny"
 date: "2009-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750613"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Oriane Deseilligny
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Martin Media.
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750613](https://hal.science/hal-03750613)
+- **Auteurs:** Oriane Deseilligny
+- **Type de publication:** article-journal
+- **Éditeur:** Martin Media.
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750613](https://hal.science/hal-03750613)
 

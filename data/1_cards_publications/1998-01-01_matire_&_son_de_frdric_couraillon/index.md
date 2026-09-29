@@ -1,7 +1,9 @@
 ---
-uuid: 68693efc-ce6a-48e5-84b0-86aaf42c6ed6
+uuid: 50cc2488-8a37-4541-818c-4bd8e3aaee09
 title: "Matière & son de Frédéric Couraillon"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1998-01-01"
 type: ""
 url: "https://hal.science/hal-03761101"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Galerie Imagine Art Contemporain
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761101](https://hal.science/hal-03761101)
+- **Auteurs:** Emmanuël Souchier
+- **Éditeur:** Galerie Imagine Art Contemporain
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761101](https://hal.science/hal-03761101)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 90a11b6e-4f52-410b-a97e-b27ed5d5fcec
+uuid: 453f7c95-95c8-4762-b361-597741602629
 title: "Figures de décideurs en régime médiatique"
+author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"
+abstract: "Isabelle LE BRETON-FALEZAN"
 date: "2017-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03752998"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Isabelle LE BRETON-FALEZAN
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Les Petits Matins
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752998](https://hal.science/hal-03752998)
+- **Auteurs:** Isabelle LE BRETON-FALEZAN
+- **Type de publication:** chapter
+- **Éditeur:** Les Petits Matins
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752998](https://hal.science/hal-03752998)
 

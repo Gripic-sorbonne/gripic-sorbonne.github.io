@@ -1,7 +1,9 @@
 ---
-uuid: 9075d7b6-7355-499c-aac0-f78fcb3d1a9e
+uuid: d7583592-70e3-4054-af99-7817566ef799
 title: "Congrès national Association Française de Science Politique"
+author: "Camille Rondot"
 authors: "Camille Rondot"
+abstract: "Camille Rondot"
 date: "2015-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03753018"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Camille Rondot
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03753018](https://hal.science/hal-03753018)
+- **Auteurs:** Camille Rondot
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03753018](https://hal.science/hal-03753018)
 

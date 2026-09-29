@@ -1,7 +1,9 @@
 ---
-uuid: a4680ea7-275a-4f1c-b24e-acb04253d223
+uuid: 7c370bc4-fcd7-4327-80b0-5ae9dac3702f
 title: "La défiance des consommateurs face aux industries agro-alimentaires"
+author: "Julien Tassel, Camille Brachet"
 authors: "Julien Tassel, Camille Brachet"
+abstract: "Julien Tassel, Camille Brachet"
 date: "2022-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04003572"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Julien Tassel, Camille Brachet
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** GRIPIC AGAP
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04003572](https://hal.science/hal-04003572)
+- **Auteurs:** Julien Tassel, Camille Brachet
+- **Type de publication:** paper-conference
+- **Éditeur:** GRIPIC AGAP
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04003572](https://hal.science/hal-04003572)
 

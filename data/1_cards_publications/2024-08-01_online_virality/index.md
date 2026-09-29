@@ -1,7 +1,9 @@
 ---
-uuid: c2213831-d67d-4301-aed0-271a9f0f7713
+uuid: 805e5885-97c5-443f-b57a-ecec439e9d14
 title: "Online Virality"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2024-08-01"
 type: "chapter"
 url: "https://hal.science/hal-04703603"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** De Gruyter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04703603](https://hal.science/hal-04703603)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** chapter
+- **Éditeur:** De Gruyter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04703603](https://hal.science/hal-04703603)
 

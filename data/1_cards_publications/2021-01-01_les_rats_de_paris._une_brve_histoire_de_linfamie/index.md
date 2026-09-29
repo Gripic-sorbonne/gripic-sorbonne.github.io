@@ -1,7 +1,9 @@
 ---
-uuid: fbf8171c-e0fb-41c7-92f7-ad62285764a0
+uuid: 4ad4794f-a3f0-4c5c-b85f-58743d898454
 title: "Les rats de Paris. Une brève histoire de l’infamie"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2021-01-01"
 type: "book"
 url: "https://hal.science/hal-03766950"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Editions du murmure
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766950](https://hal.science/hal-03766950)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** book
+- **Éditeur:** Editions du murmure
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766950](https://hal.science/hal-03766950)
 

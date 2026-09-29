@@ -1,7 +1,9 @@
 ---
-uuid: 80a3334f-9668-46d7-99c4-9cde4c61da08
+uuid: 7183e558-3c6c-4e4d-8a6c-2b28e20db520
 title: "Citer, indexer ou cartographier ?<br />De la circulation et de la lecture des textes relatifs à une œuvre littéraire sur internet"
+author: "Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier"
 authors: "Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier"
+abstract: "Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier"
 date: "2005-11-01"
 type: "book"
 url: "https://shs.hal.science/halshs-00082852"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Université Charles-de-Gaulle - Lille 3
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00082852](https://shs.hal.science/halshs-00082852)
+- **Auteurs:** Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** Université Charles-de-Gaulle - Lille 3
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00082852](https://shs.hal.science/halshs-00082852)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 523aa2af-aaa2-45b7-afe5-64008c45af1a
+uuid: 7dc31d42-d794-41f0-a516-b4a72f46087b
 title: "Colloque COSMOS"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2012-11-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750119"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Laboratoire CIMEOS, EA 4177, Université de Bourgogne
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750119](https://hal.science/hal-03750119)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- **Éditeur:** Laboratoire CIMEOS, EA 4177, Université de Bourgogne
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750119](https://hal.science/hal-03750119)
 

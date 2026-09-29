@@ -1,7 +1,9 @@
 ---
-uuid: ad30e85e-6f95-4237-8167-0d28f8967e5e
+uuid: d19ed5ef-f3ac-48ee-a412-8f962ee841ab
 title: "Dans la tête de Sputnik"
+author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"
+abstract: "Damien Liccia, Jean-Baptiste Delhomme"
 date: "2021-03-01"
 type: ""
 url: "https://hal.science/hal-03723041"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Damien Liccia, Jean-Baptiste Delhomme
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723041](https://hal.science/hal-03723041)
+- **Auteurs:** Damien Liccia, Jean-Baptiste Delhomme
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723041](https://hal.science/hal-03723041)
 

@@ -1,7 +1,9 @@
 ---
-uuid: e95ddc52-8b57-42b1-bc85-f53d176212e6
+uuid: 30fb6093-0609-46e5-b141-d866d975d65d
 title: "A participatory democracy for capitalists. The TYNDP as a tool for the collective governance of EU energy investments"
+author: "Vanille Ecrement"
 authors: "Vanille Ecrement"
+abstract: "Vanille Ecrement"
 date: "2026-01-01"
 type: ""
 url: "https://hal.science/hal-05477381"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Vanille Ecrement
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05477381](https://hal.science/hal-05477381)
+- **Auteurs:** Vanille Ecrement
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05477381](https://hal.science/hal-05477381)
 

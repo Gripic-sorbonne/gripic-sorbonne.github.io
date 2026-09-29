@@ -1,7 +1,9 @@
 ---
-uuid: 38754b3b-629c-42ce-9208-111d91297f71
+uuid: 982957d9-e0d1-490d-a28a-5f209b7a3f71
 title: "Recherches en communication"
+author: "Caroline Marti"
 authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2021-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03768223"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Centre de recherche en communication, Université Catholique de Louvain
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768223](https://hal.science/hal-03768223)
+- **Auteurs:** Caroline Marti
+- **Type de publication:** article-journal
+- **Éditeur:** Centre de recherche en communication, Université Catholique de Louvain
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768223](https://hal.science/hal-03768223)
 

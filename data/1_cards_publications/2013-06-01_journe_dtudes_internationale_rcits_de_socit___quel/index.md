@@ -1,7 +1,9 @@
 ---
-uuid: 9dd1ae27-57ac-4e6d-a88b-7195752e1358
+uuid: ef381387-b297-4b2b-af2b-da47b3e89239
 title: "Journée d’études internationale Récits de société : quelles approches critiques ?"
+author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2013-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03725133"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725133](https://hal.science/hal-03725133)
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725133](https://hal.science/hal-03725133)
 

@@ -1,7 +1,9 @@
 ---
-uuid: fb143779-996f-4b7b-8f2e-33649a042402
+uuid: 1aee81d7-0aeb-436a-a107-5358ebbb1380
 title: "La fabrication de Abu Dhabi"
+author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2016-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03749942"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Universidad de Chile
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749942](https://hal.science/hal-03749942)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** paper-conference
+- **Éditeur:** Universidad de Chile
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749942](https://hal.science/hal-03749942)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 43aedcad-7640-46f1-88a5-9661d0e1ac5e
+uuid: 6e1eb69c-2a74-4e57-9721-9bc9e83a520d
 title: "L’Imaginaire de l’écran / Screen Imaginary"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2004-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761016"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** BRILL
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761016](https://hal.science/hal-03761016)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** BRILL
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761016](https://hal.science/hal-03761016)
 

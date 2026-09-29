@@ -1,7 +1,9 @@
 ---
-uuid: 9411ae3f-fadd-49b7-9f63-49b891cbb0c8
+uuid: e75d245d-977f-4ca6-be92-fd40dc26b6aa
 title: "Séminaire du laboratoire Lidilem “ Aspects et enjeux sociaux du langage ”"
+author: "Laurène Renaut"
 authors: "Laurène Renaut"
+abstract: "Laurène Renaut"
 date: "2024-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05609777"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Laurène Renaut
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609777](https://hal.science/hal-05609777)
+- **Auteurs:** Laurène Renaut
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609777](https://hal.science/hal-05609777)
 

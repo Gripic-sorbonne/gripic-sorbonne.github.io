@@ -1,7 +1,9 @@
 ---
-uuid: 5acb33bd-da7c-48dc-ab0e-89a0d2dbdb4a
+uuid: cedace11-775c-48a1-8fd5-203973d7426c
 title: "L’hégémonie du QR code en Chine"
+author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
+abstract: "Yuwen Zhang"
 date: "2021-06-01"
 type: "book"
 url: "https://hal.science/hal-03773559"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yuwen Zhang
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773559](https://hal.science/hal-03773559)
+- **Auteurs:** Yuwen Zhang
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773559](https://hal.science/hal-03773559)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 6f14c7e9-067b-4103-8f20-5db0c0850cf9
+uuid: 1fb5838e-51c0-4602-92be-e713a934ec78
 title: "Étudier les communautés interprétatives et émotionnelles"
+author: "Virginie Julliard, Alexandra Saemmer"
 authors: "Virginie Julliard, Alexandra Saemmer"
+abstract: "Virginie Julliard, Alexandra Saemmer"
 date: "2022-08-01"
 type: ""
 url: "https://hal.science/hal-03992191"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Virginie Julliard, Alexandra Saemmer
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03992191](https://hal.science/hal-03992191)
+- **Auteurs:** Virginie Julliard, Alexandra Saemmer
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03992191](https://hal.science/hal-03992191)
 

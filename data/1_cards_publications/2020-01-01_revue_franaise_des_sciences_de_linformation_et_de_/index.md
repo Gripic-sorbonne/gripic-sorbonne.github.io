@@ -1,7 +1,9 @@
 ---
-uuid: ce5408bd-22ce-423b-9729-8109149b7d95
+uuid: ef88fd01-dccb-499a-81a2-544a1b8c4e9d
 title: "Revue française des sciences de l’information et de la communication"
+author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"
+abstract: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 date: "2020-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03799845"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Juliette Charbonneaux, Karine Berthelot-Guiet
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Société Française des Sciences de l’Information et de la Communication [2012-....]
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799845](https://hal.science/hal-03799845)
+- **Auteurs:** Juliette Charbonneaux, Karine Berthelot-Guiet
+- **Type de publication:** article-journal
+- **Éditeur:** Société Française des Sciences de l’Information et de la Communication [2012-....]
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799845](https://hal.science/hal-03799845)
 

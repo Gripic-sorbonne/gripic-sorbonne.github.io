@@ -1,7 +1,9 @@
 ---
-uuid: 320dc57e-f044-48be-af3a-d47cb271dd9b
+uuid: 34323f76-e0db-4a7a-aa29-fe692fbe8686
 title: "Métamorphoses de la musique et capitalisme médiatique. Au prisme de YouTube (2005-2018)"
+author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
+abstract: "Guillaume Heuguet"
 date: "2018-11-01"
 type: "thesis"
 url: "https://theses.hal.science/tel-03277779"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Guillaume Heuguet
+## Informations sur la publication
 
-**Type de publication:** thesis
-
-**Éditeur:** Sorbonne Université
-
-🔗 **Lien HAL / Publication:** [https://theses.hal.science/tel-03277779](https://theses.hal.science/tel-03277779)
+- **Auteurs:** Guillaume Heuguet
+- **Type de publication:** thesis
+- **Éditeur:** Sorbonne Université
+- 🔗 **Lien HAL / Publication:** [https://theses.hal.science/tel-03277779](https://theses.hal.science/tel-03277779)
 

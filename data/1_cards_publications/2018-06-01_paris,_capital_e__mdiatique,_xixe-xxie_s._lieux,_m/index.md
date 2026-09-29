@@ -1,7 +1,9 @@
 ---
-uuid: 0ac1eede-1bd5-48b7-870f-a9ca8535b1a5
+uuid: 830e265e-eed1-4b1c-baed-89ebf99d0210
 title: "Paris, capital(e) médiatique, XIXe-XXIe s. Lieux, modèles et figures des médias, de Girardin aux start-ups"
+author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2018-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05245539"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** GRIPIC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05245539](https://hal.science/hal-05245539)
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** paper-conference
+- **Éditeur:** GRIPIC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05245539](https://hal.science/hal-05245539)
 

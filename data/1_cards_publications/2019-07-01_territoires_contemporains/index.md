@@ -1,7 +1,9 @@
 ---
-uuid: 8b19d157-834a-4546-b8fc-81a6a18828f4
+uuid: 2734c235-5429-4473-b519-cddc27c73385
 title: "Territoires contemporains"
+author: "Christèle Couleau, Oriane Deseilligny"
 authors: "Christèle Couleau, Oriane Deseilligny"
+abstract: "Christèle Couleau, Oriane Deseilligny"
 date: "2019-07-01"
 type: "article-journal"
 url: "https://ube.hal.science/hal-02185036"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Christèle Couleau, Oriane Deseilligny
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Université de Bourgogne
-
-🔗 **Lien HAL / Publication:** [https://ube.hal.science/hal-02185036](https://ube.hal.science/hal-02185036)
+- **Auteurs:** Christèle Couleau, Oriane Deseilligny
+- **Type de publication:** article-journal
+- **Éditeur:** Université de Bourgogne
+- 🔗 **Lien HAL / Publication:** [https://ube.hal.science/hal-02185036](https://ube.hal.science/hal-02185036)
 

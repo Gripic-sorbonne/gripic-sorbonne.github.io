@@ -1,7 +1,9 @@
 ---
-uuid: 887e6944-2cb1-477e-981f-394728c0e4b7
+uuid: 2f59c5c9-7ac4-496f-8ebd-7bcf299eb561
 title: "L’alphabet des astres”, “Matière & son de Frédéric Couraillon,” “L’éveil des lucioles”"
+author: "Emmanuël Souchier, Christian Noorbergen, Cécile Kermet"
 authors: "Emmanuël Souchier, Christian Noorbergen, Cécile Kermet"
+abstract: "Emmanuël Souchier, Christian Noorbergen, Cécile Kermet"
 date: "2013-01-01"
 type: ""
 url: "https://hal.science/hal-03761083"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier, Christian Noorbergen, Cécile Kermet
+## Informations sur la publication
 
-**Éditeur:** Musées de Sens
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761083](https://hal.science/hal-03761083)
+- **Auteurs:** Emmanuël Souchier, Christian Noorbergen, Cécile Kermet
+- **Éditeur:** Musées de Sens
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761083](https://hal.science/hal-03761083)
 

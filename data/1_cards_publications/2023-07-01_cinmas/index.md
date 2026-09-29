@@ -1,7 +1,9 @@
 ---
-uuid: 5c13c984-93b8-4023-a74e-449c20944e64
+uuid: c61de4be-b247-4ece-9519-fa4ebd4ff80c
 title: "CiNéMAS"
+author: "Johanna Cappi"
 authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2023-07-01"
 type: "article-journal"
 url: "https://hal.science/hal-03773282"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Johanna Cappi
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Université de Montréal
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773282](https://hal.science/hal-03773282)
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** article-journal
+- **Éditeur:** Université de Montréal
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773282](https://hal.science/hal-03773282)
 

@@ -1,7 +1,9 @@
 ---
-uuid: c9b1920b-ac54-4a3b-8636-18980bdcdda4
+uuid: 6b2a1c03-7faf-48c5-aed3-b4f39d0166e9
 title: "Espaces, Tourismes et Loisirs"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2009-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03754510"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Editions ESPACE
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754510](https://hal.science/hal-03754510)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
+- **Éditeur:** Editions ESPACE
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754510](https://hal.science/hal-03754510)
 

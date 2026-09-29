@@ -1,7 +1,9 @@
 ---
-uuid: 865de6bf-e398-456a-8824-48417c31e540
+uuid: b74b711e-a97d-43c6-a49c-1658093a1bed
 title: "Forum DocNum - présentation des textes et commentaires"
+author: "Marc Augier, Evelyne Broudoux, Dominique Cotte, Olivier Ertzscheid, Gabriel Gallezot, Yves Jeanneret, Sylvie Leleu-Merviel, Niels Windfeld Lund, Jean-Hugues Réty, Jean-Michel Salaün, Michael Totschnig, Jean-Daniel Zeller"
 authors: "Marc Augier, Evelyne Broudoux, Dominique Cotte, Olivier Ertzscheid, Gabriel Gallezot, Yves Jeanneret, Sylvie Leleu-Merviel, Niels Windfeld Lund, Jean-Hugues Réty, Jean-Michel Salaün, Michael Totschnig, Jean-Daniel Zeller"
+abstract: "Marc Augier, Evelyne Broudoux, Dominique Cotte, Olivier Ertzscheid, Gabriel Gallezot, Yves Jeanneret, Sylvie Leleu-Merviel, Niels Windfeld Lund, Jean-Hugues Réty, Jean-Michel Salaün, Michael Totschnig, Jean-Daniel Zeller"
 date: "2004-10-01"
 type: ""
 url: "https://archivesic.ccsd.cnrs.fr/sic_00001099"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Marc Augier, Evelyne Broudoux, Dominique Cotte, Olivier Ertzscheid, Gabriel Gallezot, Yves Jeanneret, Sylvie Leleu-Merviel, Niels Windfeld Lund, Jean-Hugues Réty, Jean-Michel Salaün, Michael Totschnig, Jean-Daniel Zeller
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://archivesic.ccsd.cnrs.fr/sic_00001099](https://archivesic.ccsd.cnrs.fr/sic_00001099)
+- **Auteurs:** Marc Augier, Evelyne Broudoux, Dominique Cotte, Olivier Ertzscheid, Gabriel Gallezot, Yves Jeanneret, Sylvie Leleu-Merviel, Niels Windfeld Lund, Jean-Hugues Réty, Jean-Michel Salaün, Michael Totschnig, Jean-Daniel Zeller
+- 🔗 **Lien HAL / Publication:** [https://archivesic.ccsd.cnrs.fr/sic_00001099](https://archivesic.ccsd.cnrs.fr/sic_00001099)
 

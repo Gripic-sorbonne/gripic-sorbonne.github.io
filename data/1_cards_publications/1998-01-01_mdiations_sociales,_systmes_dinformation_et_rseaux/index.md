@@ -1,7 +1,9 @@
 ---
-uuid: 107cdb60-5b1e-44b4-a7dd-3443055366fe
+uuid: 50696f5b-fda4-4f31-85d0-bb28ccde8dfb
 title: "Médiations sociales, systèmes d’information et réseaux de communication, Actes du Onzième Congrès national des Sciences de l’information et de la communication"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1998-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761039"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761039](https://hal.science/hal-03761039)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761039](https://hal.science/hal-03761039)
 

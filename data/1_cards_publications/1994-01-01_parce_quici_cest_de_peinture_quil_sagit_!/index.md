@@ -1,7 +1,9 @@
 ---
-uuid: 2f36277b-cf8b-4094-80dc-bf44afd622b2
+uuid: 2d6943d0-b30f-4927-a40b-e9c40de3cee3
 title: "“… parce qu’ici c’est de peinture qu’il s’agit !”"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1994-01-01"
 type: ""
 url: "https://hal.science/hal-03761103"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Galerie Thierry Spira
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761103](https://hal.science/hal-03761103)
+- **Auteurs:** Emmanuël Souchier
+- **Éditeur:** Galerie Thierry Spira
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761103](https://hal.science/hal-03761103)
 

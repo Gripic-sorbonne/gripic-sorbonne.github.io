@@ -1,7 +1,9 @@
 ---
-uuid: 0751b32d-3529-4373-a4ed-f550044bd1e4
+uuid: e03c7a92-da88-4115-9523-2cc33c6e94ed
 title: "CONFERENCES DU POLE ALIMENTATION DU SIRICE"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2020-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754564"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Maison de la Recherche and SIRICE
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754564](https://hal.science/hal-03754564)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- **Éditeur:** Maison de la Recherche and SIRICE
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754564](https://hal.science/hal-03754564)
 

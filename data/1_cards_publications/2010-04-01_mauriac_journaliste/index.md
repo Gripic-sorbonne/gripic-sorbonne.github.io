@@ -1,7 +1,9 @@
 ---
-uuid: 126cb218-899b-4d90-8fd0-8aaf417929f6
+uuid: f9a1fed4-6475-4ec2-a795-7a759e49e0a5
 title: "Mauriac journaliste"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2010-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767249"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université Montpellier 3
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767249](https://hal.science/hal-03767249)
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** paper-conference
+- **Éditeur:** Université Montpellier 3
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767249](https://hal.science/hal-03767249)
 

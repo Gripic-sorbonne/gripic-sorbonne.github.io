@@ -1,7 +1,9 @@
 ---
-uuid: c3137aa9-9011-4400-979e-d9801fa48eba
+uuid: 6373823a-20ea-4a55-8302-65e7a59e3de0
 title: "Paris capital(e) médiatique, XIXe -XXIe siècles Lieux, modèles et figures des médias, de Girardin aux start-ups"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2018-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767067"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Sorbonne Université
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767067](https://hal.science/hal-03767067)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** paper-conference
+- **Éditeur:** Sorbonne Université
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767067](https://hal.science/hal-03767067)
 

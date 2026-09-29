@@ -1,7 +1,9 @@
 ---
-uuid: 213f1921-a1c6-41a1-acfd-8aa4ab7b549d
+uuid: e1665c6a-af06-4394-8db4-fec29c11f65b
 title: "Phantasmata. Techniques of the Uncanny"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2009-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767114"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Institute for Cultural Inquiry (ICI)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767114](https://hal.science/hal-03767114)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** paper-conference
+- **Éditeur:** Institute for Cultural Inquiry (ICI)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767114](https://hal.science/hal-03767114)
 

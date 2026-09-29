@@ -1,7 +1,9 @@
 ---
-uuid: 43997705-c7b6-43d4-85b2-48fa65b7818f
+uuid: 078b15f8-a213-4078-b381-ce417ac01699
 title: "Les Cahiers de Protagoras"
+author: "Thierry Devars"
 authors: "Thierry Devars"
+abstract: "Thierry Devars"
 date: "2018-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750672"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thierry Devars
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** La Charte
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750672](https://hal.science/hal-03750672)
+- **Auteurs:** Thierry Devars
+- **Type de publication:** paper-conference
+- **Éditeur:** La Charte
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750672](https://hal.science/hal-03750672)
 

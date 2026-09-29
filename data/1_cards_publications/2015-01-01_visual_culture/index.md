@@ -1,7 +1,9 @@
 ---
-uuid: 162afeda-101f-4554-af52-45197d5b708e
+uuid: cdfd0e9e-ced5-47c2-b5fa-723d34fb1168
 title: "Visual Culture"
+author: "Anita SALEH BOLOURDI, Ali Abbassi"
 authors: "Anita SALEH BOLOURDI, Ali Abbassi"
+abstract: "Anita SALEH BOLOURDI, Ali Abbassi"
 date: "2015-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-04164891"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Anita SALEH BOLOURDI, Ali Abbassi
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Korean Association for Visual Culture
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04164891](https://hal.science/hal-04164891)
+- **Auteurs:** Anita SALEH BOLOURDI, Ali Abbassi
+- **Type de publication:** article-journal
+- **Éditeur:** Korean Association for Visual Culture
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04164891](https://hal.science/hal-04164891)
 

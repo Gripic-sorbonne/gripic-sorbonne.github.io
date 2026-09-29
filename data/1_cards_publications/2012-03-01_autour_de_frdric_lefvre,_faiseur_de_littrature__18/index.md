@@ -1,7 +1,9 @@
 ---
-uuid: 755dcce9-604d-4811-879a-bee17e2ffbb6
+uuid: b590b013-0bca-469d-8b03-60a95b1ee567
 title: "Autour de Frédéric Lefèvre, faiseur de littérature (1889-1949), Journée d’études HIDIL"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2012-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767238"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Fanny Jaffray
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767238](https://hal.science/hal-03767238)
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** paper-conference
+- **Éditeur:** Fanny Jaffray
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767238](https://hal.science/hal-03767238)
 

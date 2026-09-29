@@ -1,7 +1,9 @@
 ---
-uuid: a7c757b3-c983-4f6e-8729-5c622d919c5b
+uuid: 53536961-5660-45ee-b408-2eaee2a212fd
 title: "Revue Esprit"
+author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
+abstract: "Guillaume Heuguet"
 date: "2014-11-01"
 type: "article-journal"
 url: "https://hal.science/hal-01141216"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Guillaume Heuguet
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Editions Esprit
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-01141216](https://hal.science/hal-01141216)
+- **Auteurs:** Guillaume Heuguet
+- **Type de publication:** article-journal
+- **Éditeur:** Editions Esprit
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01141216](https://hal.science/hal-01141216)
 

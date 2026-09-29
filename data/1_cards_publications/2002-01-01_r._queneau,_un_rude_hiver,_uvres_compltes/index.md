@@ -1,7 +1,9 @@
 ---
-uuid: 694c9f64-511d-4297-b7ba-4f5a0f1aea1a
+uuid: c9185d97-3a4d-4909-af9b-fd05d3a0c37c
 title: "R. Queneau, Un rude hiver, Œuvres complètes"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2002-01-01"
 type: "book"
 url: "https://hal.science/hal-03760494"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Gallimard
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760494](https://hal.science/hal-03760494)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** Gallimard
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760494](https://hal.science/hal-03760494)
 

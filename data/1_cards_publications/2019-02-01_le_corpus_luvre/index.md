@@ -1,7 +1,9 @@
 ---
-uuid: 1b938b89-57be-44ac-94eb-ce604ceeaa27
+uuid: 26e54b54-ca80-4127-84cc-f5aea51f4afb
 title: "Le corpus à l’œuvre"
+author: "Berenice Mariau"
 authors: "Berenice Mariau"
+abstract: "Berenice Mariau"
 date: "2019-02-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773510"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Berenice Mariau
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Cérep, Université de Reims Champagne Ardenne
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773510](https://hal.science/hal-03773510)
+- **Auteurs:** Berenice Mariau
+- **Type de publication:** paper-conference
+- **Éditeur:** Cérep, Université de Reims Champagne Ardenne
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773510](https://hal.science/hal-03773510)
 

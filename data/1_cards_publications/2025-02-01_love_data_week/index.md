@@ -1,7 +1,9 @@
 ---
-uuid: 79045303-3447-4a15-a82d-9684481778f2
+uuid: cb5cb495-3303-4a33-8564-b772480b2c1c
 title: "Love Data Week"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2025-02-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605984"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Sorbonne Université
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605984](https://hal.science/hal-05605984)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** Sorbonne Université
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605984](https://hal.science/hal-05605984)
 

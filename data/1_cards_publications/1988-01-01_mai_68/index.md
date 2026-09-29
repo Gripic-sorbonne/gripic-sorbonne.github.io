@@ -1,7 +1,9 @@
 ---
-uuid: 3782802a-3608-42f4-b8e0-9f2951089224
+uuid: 3f75a743-ffd0-4626-82dd-b7af8af7bf0c
 title: "Mai 68"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1988-01-01"
 type: "book"
 url: "https://hal.science/hal-03760456"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** La Documentation Française
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760456](https://hal.science/hal-03760456)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** La Documentation Française
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760456](https://hal.science/hal-03760456)
 

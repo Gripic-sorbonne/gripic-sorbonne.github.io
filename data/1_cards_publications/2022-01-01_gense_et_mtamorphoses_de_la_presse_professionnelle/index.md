@@ -1,7 +1,9 @@
 ---
-uuid: 50df1fd1-8320-426a-a204-3d9c11285b1e
+uuid: bbb3c7fe-09f5-4411-9202-942a2a1e1cbb
 title: "Genèse et métamorphoses de la presse professionnelle en communication. De la configuration d’un territoire spécialisé à la médiation reconfigurante de la “ revue-livre ” vendue en librairie"
+author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2022-01-01"
 type: "thesis"
 url: "https://hal.science/tel-03722988"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon
+## Informations sur la publication
 
-**Type de publication:** thesis
-
-**Éditeur:** Sorbonne Universite
-
-🔗 **Lien HAL / Publication:** [https://hal.science/tel-03722988](https://hal.science/tel-03722988)
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** thesis
+- **Éditeur:** Sorbonne Universite
+- 🔗 **Lien HAL / Publication:** [https://hal.science/tel-03722988](https://hal.science/tel-03722988)
 

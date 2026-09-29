@@ -66,13 +66,17 @@ def make_yaml_header_publication(pub_dict: dict) -> str:
     publisher = get_field(pub_dict, "publisher", "Editeur", default="")
     container_title = get_field(pub_dict, "container_title", "container-title", default="")
 
-    # Clean quotes to prevent YAML parsing errors
+    # Escape quotes for YAML safe rendering
     clean_title = title.replace('"', '\\"')
+    clean_authors = authors.replace('"', '\\"')
 
+    # Setting abstract equal to authors so the card preview only shows the author's name
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
             f"title: \"{clean_title}\"\n" +
-            f"authors: \"{authors}\"\n" +
+            f"author: \"{clean_authors}\"\n" +
+            f"authors: \"{clean_authors}\"\n" +
+            f"abstract: \"{clean_authors}\"\n" +
             f"date: \"{pub_date}\"\n" +
             f"type: \"{pub_type}\"\n" +
             f"url: \"{url}\"\n" +
@@ -92,19 +96,22 @@ def generate_markdown_page_publication(pub_dict: dict) -> str:
     url = get_field(pub_dict, "url", "URL")
     abstract = get_field(pub_dict, "abstract", "resume")
 
-    # Build structured content body for individual publication page
+    # Content body formatted for internal page view
+    md_page += "## Informations sur la publication\n\n"
+    
     if authors:
-        md_page += f"**Auteurs:** {authors}\n\n"
+        md_page += f"- **Auteurs:** {authors}\n"
     if pub_type:
-        md_page += f"**Type de publication:** {pub_type}\n\n"
+        md_page += f"- **Type de publication:** {pub_type}\n"
     if container_title:
-        md_page += f"**Revue / Conférence:** {container_title}\n\n"
+        md_page += f"- **Revue / Conférence:** {container_title}\n"
     if publisher:
-        md_page += f"**Éditeur:** {publisher}\n\n"
-        
+        md_page += f"- **Éditeur:** {publisher}\n"
     if url:
-        md_page += f"🔗 **Lien HAL / Publication:** [{url}]({url})\n\n"
+        md_page += f"- 🔗 **Lien HAL / Publication:** [{url}]({url})\n"
         
+    md_page += "\n"
+
     if abstract:
         md_page += f"## Résumé\n\n{abstract}\n\n"
 

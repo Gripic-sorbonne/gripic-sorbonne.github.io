@@ -1,7 +1,9 @@
 ---
-uuid: 38e92c93-e62c-4f43-ab69-20d84e5e2ff3
+uuid: 8b39626d-de9d-41a7-a2fb-b37a223f8616
 title: "Alternative on content modération on social media"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2022-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605994"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Pre-conference ICA, Carism, Assas
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605994](https://hal.science/hal-05605994)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** Pre-conference ICA, Carism, Assas
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605994](https://hal.science/hal-05605994)
 

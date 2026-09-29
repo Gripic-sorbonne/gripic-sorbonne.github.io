@@ -1,7 +1,9 @@
 ---
-uuid: 87fc7ff6-b0b0-4049-aefc-03068e019d62
+uuid: e6545aa6-4cf5-4d27-82c3-7e4ea84c430a
 title: "Séminaire GIRANIUM, GRIPIC"
+author: "Ambre Abid-Dalençon, Juliette Charbonneaux"
 authors: "Ambre Abid-Dalençon, Juliette Charbonneaux"
+abstract: "Ambre Abid-Dalençon, Juliette Charbonneaux"
 date: "2018-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03963917"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon, Juliette Charbonneaux
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963917](https://hal.science/hal-03963917)
+- **Auteurs:** Ambre Abid-Dalençon, Juliette Charbonneaux
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963917](https://hal.science/hal-03963917)
 

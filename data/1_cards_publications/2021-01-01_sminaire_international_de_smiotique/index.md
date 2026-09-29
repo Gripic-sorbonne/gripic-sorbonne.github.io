@@ -1,7 +1,9 @@
 ---
-uuid: a2e7c1bc-af42-4bc6-87cb-d9558fb50804
+uuid: ffed4b54-f900-493c-84ae-333b53953c6c
 title: "Séminaire international de Sémiotique"
+author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
+abstract: "Emmanuelle Fantin, Sophie Corbillé"
 date: "2021-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03964084"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin, Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964084](https://hal.science/hal-03964084)
+- **Auteurs:** Emmanuelle Fantin, Sophie Corbillé
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964084](https://hal.science/hal-03964084)
 

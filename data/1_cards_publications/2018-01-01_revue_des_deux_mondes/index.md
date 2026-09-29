@@ -1,7 +1,9 @@
 ---
-uuid: 08d3be28-8678-424e-b511-14bb95616ba3
+uuid: 1762b933-9839-4a9d-8106-f6fa977a28ac
 title: "Revue des Deux Mondes"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2018-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750865"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Société de la Revue des Deux Mondes
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750865](https://hal.science/hal-03750865)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** article-journal
+- **Éditeur:** Société de la Revue des Deux Mondes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750865](https://hal.science/hal-03750865)
 

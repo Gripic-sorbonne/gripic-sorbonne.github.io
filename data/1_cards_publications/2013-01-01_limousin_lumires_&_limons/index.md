@@ -1,7 +1,9 @@
 ---
-uuid: 9617786e-219d-4929-8dad-7d1a361b2a1d
+uuid: ea4b4b16-23a6-4059-b22b-b713d696af26
 title: "Limousin Lumières & limons"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2013-01-01"
 type: ""
 url: "https://hal.science/hal-03761081"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Galerie L’aiguillage
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761081](https://hal.science/hal-03761081)
+- **Auteurs:** Emmanuël Souchier
+- **Éditeur:** Galerie L’aiguillage
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761081](https://hal.science/hal-03761081)
 

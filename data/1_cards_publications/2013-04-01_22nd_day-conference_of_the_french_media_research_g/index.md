@@ -1,7 +1,9 @@
 ---
-uuid: b0c67e7f-af0d-410c-a25c-be5e41349aa2
+uuid: 97da3639-39e6-49b2-8b71-5fd645b776e2
 title: "22nd day-conference of the French Media Research Group (FMRG)"
+author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2013-04-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05160341"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Edimbug University
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05160341](https://hal.science/hal-05160341)
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** paper-conference
+- **Éditeur:** Edimbug University
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05160341](https://hal.science/hal-05160341)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 00d38d14-daed-4e50-96c1-c02c3140df10
+uuid: 560d9346-af8e-459a-8083-1c9f9d90bbda
 title: "L’atelier de lecture, Cm 1 - cycle 3, Cahier d’entraînement"
+author: "Emmanuël Souchier, M. Descouens, J. Mesnager, P.-L. Médard, G. Rémond"
 authors: "Emmanuël Souchier, M. Descouens, J. Mesnager, P.-L. Médard, G. Rémond"
+abstract: "Emmanuël Souchier, M. Descouens, J. Mesnager, P.-L. Médard, G. Rémond"
 date: "2011-01-01"
 type: "book"
 url: "https://hal.science/hal-03760385"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier, M. Descouens, J. Mesnager, P.-L. Médard, G. Rémond
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Nathan
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760385](https://hal.science/hal-03760385)
+- **Auteurs:** Emmanuël Souchier, M. Descouens, J. Mesnager, P.-L. Médard, G. Rémond
+- **Type de publication:** book
+- **Éditeur:** Nathan
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760385](https://hal.science/hal-03760385)
 

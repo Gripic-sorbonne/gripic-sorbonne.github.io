@@ -1,7 +1,9 @@
 ---
-uuid: cc78b72c-a74b-4ccf-9c65-dcf3ea7ebd74
+uuid: 4b5141c9-ba4e-4fe7-bbd9-49e6cbe3bc15
 title: "Dynamiques de développement au carrefour des mondes"
+author: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Montety"
+abstract: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Montety"
 date: "2008-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03768247"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Montety
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** EUTIC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768247](https://hal.science/hal-03768247)
+- **Auteurs:** Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Montety
+- **Type de publication:** paper-conference
+- **Éditeur:** EUTIC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768247](https://hal.science/hal-03768247)
 

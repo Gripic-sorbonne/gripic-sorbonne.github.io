@@ -1,7 +1,9 @@
 ---
-uuid: 72b50e4c-49e3-4dd6-8573-cd2b1fc293fd
+uuid: b0633a9c-e59d-4e61-98e8-f054d0a28017
 title: "L’Observatoire, la revue des politiques culturelles"
+author: "Nelly Quemener"
 authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2020-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03758648"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Observatoire des politiques culturelles
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758648](https://hal.science/hal-03758648)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
+- **Éditeur:** Observatoire des politiques culturelles
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758648](https://hal.science/hal-03758648)
 

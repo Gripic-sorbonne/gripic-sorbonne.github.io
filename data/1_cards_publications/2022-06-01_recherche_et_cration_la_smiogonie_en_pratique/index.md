@@ -1,7 +1,9 @@
 ---
-uuid: 931307ac-c9f2-4ea1-82c2-b6ae74eaafa4
+uuid: 37070ded-80fb-4300-90cd-12fd091529af
 title: "Recherche et création la sémiogonie en pratique"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2022-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750696"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** INHA
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750696](https://hal.science/hal-03750696)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** INHA
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750696](https://hal.science/hal-03750696)
 

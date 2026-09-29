@@ -1,7 +1,9 @@
 ---
-uuid: e30a9eb2-e6b2-4729-8dc3-2294bf77e6ff
+uuid: d28a20a0-db0c-456e-a051-7219481381bd
 title: "Sciences de la société : Les cahiers du LERASS"
+author: "Berenice Mariau"
 authors: "Berenice Mariau"
+abstract: "Berenice Mariau"
 date: "2017-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03773498"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Berenice Mariau
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Presses Universitaires de Toulouse
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773498](https://hal.science/hal-03773498)
+- **Auteurs:** Berenice Mariau
+- **Type de publication:** article-journal
+- **Éditeur:** Presses Universitaires de Toulouse
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773498](https://hal.science/hal-03773498)
 

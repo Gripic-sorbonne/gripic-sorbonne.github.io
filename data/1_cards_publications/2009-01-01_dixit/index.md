@@ -1,7 +1,9 @@
 ---
-uuid: 52813725-ff23-4528-9461-5fbb9cf76869
+uuid: 47d555ec-1be1-4c0f-955d-b18ed50cf784
 title: "Dixit"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2009-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750080"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Universidad Catolica del Uruguay
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750080](https://hal.science/hal-03750080)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** article-journal
+- **Éditeur:** Universidad Catolica del Uruguay
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750080](https://hal.science/hal-03750080)
 

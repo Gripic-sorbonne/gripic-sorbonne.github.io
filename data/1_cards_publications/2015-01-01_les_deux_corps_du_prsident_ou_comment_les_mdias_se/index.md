@@ -1,7 +1,9 @@
 ---
-uuid: 0e53ea02-b7d8-4b3a-aa6f-726c6ccace13
+uuid: 9ee20f2a-4a31-4e49-a700-0d7e7a35672b
 title: "Les deux corps du Président ou comment les médias se laissent séduire par le people"
+author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
+abstract: "Juliette Charbonneaux"
 date: "2015-01-01"
 type: "book"
 url: "https://hal.science/hal-03799876"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Juliette Charbonneaux
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799876](https://hal.science/hal-03799876)
+- **Auteurs:** Juliette Charbonneaux
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799876](https://hal.science/hal-03799876)
 

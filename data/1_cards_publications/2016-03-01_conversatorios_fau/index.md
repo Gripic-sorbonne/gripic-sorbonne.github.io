@@ -1,7 +1,9 @@
 ---
-uuid: a693c8d4-8f26-44fc-adee-e6a1baa8351c
+uuid: 132e8ea9-1679-47f9-9793-aa5e9cbb26d8
 title: "Conversatorios FAU"
+author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2016-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03749944"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Facultad de arquitectura y urbanismo
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749944](https://hal.science/hal-03749944)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** paper-conference
+- **Éditeur:** Facultad de arquitectura y urbanismo
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749944](https://hal.science/hal-03749944)
 

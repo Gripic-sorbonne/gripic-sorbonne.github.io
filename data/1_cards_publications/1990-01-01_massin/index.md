@@ -1,7 +1,9 @@
 ---
-uuid: 081555b2-1c03-4f6f-9dd6-74f3bd7e7526
+uuid: 5035335d-89ca-493d-b2ac-e3621b210880
 title: "Massin"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1990-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761048"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** André Derval éd.
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761048](https://hal.science/hal-03761048)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** André Derval éd.
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761048](https://hal.science/hal-03761048)
 

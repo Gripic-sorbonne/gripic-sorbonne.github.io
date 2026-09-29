@@ -1,7 +1,9 @@
 ---
-uuid: 9a75ad2b-29f2-4d05-9c19-3c0c465bc8ba
+uuid: c7c9da4e-4791-4b0e-843c-e2b56464b0ca
 title: "Jeunes et médias, les cahiers francophones de l’éducation aux médias"
+author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2019-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03767299"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Bruneel
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Publibook
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767299](https://hal.science/hal-03767299)
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** article-journal
+- **Éditeur:** Publibook
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767299](https://hal.science/hal-03767299)
 

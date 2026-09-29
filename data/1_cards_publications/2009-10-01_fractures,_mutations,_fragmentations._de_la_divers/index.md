@@ -1,7 +1,9 @@
 ---
-uuid: 20dd635d-23c2-44af-acb6-3b69838e0f67
+uuid: 94609553-f868-4f91-841b-b5ebd4260bce
 title: "Fractures, mutations, fragmentations. De la diversité des cultures numériques"
+author: "Yanita Andonova"
 authors: "Yanita Andonova"
+abstract: "Yanita Andonova"
 date: "2009-10-01"
 type: "chapter"
 url: "https://hal.science/hal-00533217"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yanita Andonova
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Lavoisier
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-00533217](https://hal.science/hal-00533217)
+- **Auteurs:** Yanita Andonova
+- **Type de publication:** chapter
+- **Éditeur:** Lavoisier
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-00533217](https://hal.science/hal-00533217)
 

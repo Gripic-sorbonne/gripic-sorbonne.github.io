@@ -1,7 +1,9 @@
 ---
-uuid: 8efebae8-2434-4985-8b12-efff50e87af5
+uuid: 7546e071-5c70-427d-93d0-05c446581d35
 title: "International Journal of Tourism Cities"
+author: "hecate vergopoulos"
 authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2019-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03766983"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** hecate vergopoulos
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Emerald Group Publishing Limited
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766983](https://hal.science/hal-03766983)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** article-journal
+- **Éditeur:** Emerald Group Publishing Limited
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766983](https://hal.science/hal-03766983)
 

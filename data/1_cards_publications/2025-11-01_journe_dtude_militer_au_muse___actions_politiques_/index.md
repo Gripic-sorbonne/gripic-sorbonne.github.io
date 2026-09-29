@@ -1,7 +1,9 @@
 ---
-uuid: 74238caf-6a64-41e8-9662-f62675b8ebfe
+uuid: 6da5cecb-220f-4307-b9e9-ce56119e7ece
 title: "Journée d’étude ”Militer au musée : actions politiques dans la sphère patrimoniale – Volet 2”"
+author: "Lucille Lamache"
 authors: "Lucille Lamache"
+abstract: "Lucille Lamache"
 date: "2025-11-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05448028"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Lucille Lamache
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05448028](https://hal.science/hal-05448028)
+- **Auteurs:** Lucille Lamache
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05448028](https://hal.science/hal-05448028)
 

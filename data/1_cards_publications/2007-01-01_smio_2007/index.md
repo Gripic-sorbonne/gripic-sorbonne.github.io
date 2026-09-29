@@ -1,7 +1,9 @@
 ---
-uuid: e4ff8db3-842e-4abf-87d7-032aa21c476a
+uuid: 51df0e20-0356-444e-a9b9-4f5fc67dca21
 title: "Sémio 2007"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2007-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750756"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Association Française de Sémiotique
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750756](https://hal.science/hal-03750756)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** Association Française de Sémiotique
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750756](https://hal.science/hal-03750756)
 

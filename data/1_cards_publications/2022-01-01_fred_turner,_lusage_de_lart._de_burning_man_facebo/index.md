@@ -1,7 +1,9 @@
 ---
-uuid: 1e7c8c6c-dc9a-4844-b392-6df58ccc6d42
+uuid: 65be48e6-0b03-4feb-aee9-ea13e1c68469
 title: "Fred TURNER, L’usage de l’art. De Burning Man à Facebook, art, technologie et management dans la Silicon Valley"
+author: "Pascal Froissart"
 authors: "Pascal Froissart"
+abstract: "Pascal Froissart"
 date: "2022-01-01"
 type: ""
 url: "https://hal.science/hal-03751418"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pascal Froissart
+## Informations sur la publication
 
-**Éditeur:** La Découverte
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03751418](https://hal.science/hal-03751418)
+- **Auteurs:** Pascal Froissart
+- **Éditeur:** La Découverte
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03751418](https://hal.science/hal-03751418)
 

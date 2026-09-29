@@ -1,7 +1,9 @@
 ---
-uuid: 0eb053fc-603e-4e87-b77b-9e5178a95b7a
+uuid: e1f00c43-0d18-4c24-ab79-13ad2ce21179
 title: "World Social Science Forum"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2013-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750110"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750110](https://hal.science/hal-03750110)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750110](https://hal.science/hal-03750110)
 

@@ -1,7 +1,9 @@
 ---
-uuid: f4b4758c-58c7-489a-942a-a132ec668d5c
+uuid: 7418dd11-e0bb-4edc-ac73-8b43ff87f138
 title: "Revue Française de Gestion"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2005-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03750089"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Lavoisier
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750089](https://hal.science/hal-03750089)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** article-journal
+- **Éditeur:** Lavoisier
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750089](https://hal.science/hal-03750089)
 

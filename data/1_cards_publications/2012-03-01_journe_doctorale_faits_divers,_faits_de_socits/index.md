@@ -1,7 +1,9 @@
 ---
-uuid: 1ff2536b-bfa9-4f1e-8087-ba7e0fbb1248
+uuid: 3123ed09-e80d-4ac3-afdd-472adcba4aac
 title: "Journée doctorale “ Faits divers, faits de sociétés ”"
+author: "Berenice Mariau"
 authors: "Berenice Mariau"
+abstract: "Berenice Mariau"
 date: "2012-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773527"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Berenice Mariau
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** CARISM (Université Paris 2 – Panthéon-Assas) and GRIPIC (CELSA, Sorbonne Université)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773527](https://hal.science/hal-03773527)
+- **Auteurs:** Berenice Mariau
+- **Type de publication:** paper-conference
+- **Éditeur:** CARISM (Université Paris 2 – Panthéon-Assas) and GRIPIC (CELSA, Sorbonne Université)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773527](https://hal.science/hal-03773527)
 

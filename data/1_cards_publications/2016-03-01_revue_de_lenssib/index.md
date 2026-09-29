@@ -1,7 +1,9 @@
 ---
-uuid: a53c4b0a-feb7-4609-97db-6aec5a9ab1e6
+uuid: 5a435409-eedf-43dc-8534-4fbce134a281
 title: "Revue de l’Enssib"
+author: "Laurent Petit"
 authors: "Laurent Petit"
+abstract: "Laurent Petit"
 date: "2016-03-01"
 type: "article-journal"
 url: "https://hal.science/hal-05347481"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Laurent Petit
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Ecole nationale supérieure des sciences de l’information et des bibliothèques
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05347481](https://hal.science/hal-05347481)
+- **Auteurs:** Laurent Petit
+- **Type de publication:** article-journal
+- **Éditeur:** Ecole nationale supérieure des sciences de l’information et des bibliothèques
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05347481](https://hal.science/hal-05347481)
 

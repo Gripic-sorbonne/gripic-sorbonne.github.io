@@ -1,7 +1,9 @@
 ---
-uuid: e9ce788f-ed85-40de-a9e3-9c81346c89d8
+uuid: a212e6fd-de47-4ee9-bc43-cb22c0c71dbc
 title: "Zola au Panthéon. L’Épilogue de l’affaire Dreyfus"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2010-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03767184"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Presses Sorbonne Nouvelle
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767184](https://hal.science/hal-03767184)
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** chapter
+- **Éditeur:** Presses Sorbonne Nouvelle
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767184](https://hal.science/hal-03767184)
 

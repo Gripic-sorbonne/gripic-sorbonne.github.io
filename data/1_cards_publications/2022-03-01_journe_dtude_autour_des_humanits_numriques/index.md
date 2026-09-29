@@ -1,7 +1,9 @@
 ---
-uuid: 0908afc4-aafc-4c15-ac36-cfbca818813f
+uuid: 36786ed5-fd08-4f49-99e8-da915dff255e
 title: "Journée d’étude autour des humanités numériques"
+author: "Clara Bordier"
 authors: "Clara Bordier"
+abstract: "Clara Bordier"
 date: "2022-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04101211"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Clara Bordier
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Antoine Doucet (La rochelle, ICTLab)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04101211](https://hal.science/hal-04101211)
+- **Auteurs:** Clara Bordier
+- **Type de publication:** paper-conference
+- **Éditeur:** Antoine Doucet (La rochelle, ICTLab)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04101211](https://hal.science/hal-04101211)
 

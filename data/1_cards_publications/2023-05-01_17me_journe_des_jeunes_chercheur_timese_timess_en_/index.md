@@ -1,7 +1,9 @@
 ---
-uuid: e2e9c089-3167-4c4e-870d-e8940439b7bc
+uuid: 36a5fc66-671e-4a22-8370-480e8b14f55a
 title: "17ème Journée des Jeunes Chercheur\timese\timess en SIC : En(quête) de terrains"
+author: "Coline Reille"
 authors: "Coline Reille"
+abstract: "Coline Reille"
 date: "2023-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04500969"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Coline Reille
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Laboratoire GERiiCO and Université de Lille
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04500969](https://hal.science/hal-04500969)
+- **Auteurs:** Coline Reille
+- **Type de publication:** paper-conference
+- **Éditeur:** Laboratoire GERiiCO and Université de Lille
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04500969](https://hal.science/hal-04500969)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 85fdcf90-b65d-4f28-8957-c5781f70ee87
+uuid: 264a1e85-f561-424a-8087-cf3a9bcb5e1b
 title: "Ethnologie française"
+author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2007-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03749916"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Presses Universitaires de France
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749916](https://hal.science/hal-03749916)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** article-journal
+- **Éditeur:** Presses Universitaires de France
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749916](https://hal.science/hal-03749916)
 

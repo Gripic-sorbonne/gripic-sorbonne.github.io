@@ -1,7 +1,9 @@
 ---
-uuid: 6524c0d0-687a-4ede-a589-a9aca2f90a5c
+uuid: 057a733f-54b7-439e-bcb3-419ece2d47da
 title: "La stratégie de marque dans l’audiovisuel"
+author: "Caroline Marti"
 authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2013-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03754298"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Armand Colin
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754298](https://hal.science/hal-03754298)
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
+- **Éditeur:** Armand Colin
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754298](https://hal.science/hal-03754298)
 

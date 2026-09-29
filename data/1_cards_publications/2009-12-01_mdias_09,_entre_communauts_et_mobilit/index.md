@@ -1,7 +1,9 @@
 ---
-uuid: 98317b53-4c0d-4260-8b11-fcc6e5a120ec
+uuid: 556a5370-f3e3-4984-be70-ad4fe5fc2543
 title: "Médias 09, entre communautés et mobilité"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2009-12-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03767255"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université Paul Cézanne
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767255](https://hal.science/hal-03767255)
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** paper-conference
+- **Éditeur:** Université Paul Cézanne
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767255](https://hal.science/hal-03767255)
 

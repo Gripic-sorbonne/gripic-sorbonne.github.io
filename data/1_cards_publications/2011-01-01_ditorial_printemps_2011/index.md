@@ -1,7 +1,9 @@
 ---
-uuid: c6ac2e8e-98fd-4f6d-8e5b-f6a27d88a4f5
+uuid: 2a24f253-6993-40e1-bf9f-7e88770ee945
 title: "Éditorial printemps 2011"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2011-01-01"
 type: ""
 url: "https://hal.science/hal-03754496"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Éditeur:** Syndicat Paris Métropole
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754496](https://hal.science/hal-03754496)
+- **Auteurs:** Dominique Pagès
+- **Éditeur:** Syndicat Paris Métropole
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754496](https://hal.science/hal-03754496)
 

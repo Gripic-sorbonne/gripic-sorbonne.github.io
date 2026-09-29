@@ -1,7 +1,9 @@
 ---
-uuid: add3be10-3924-40a3-ac7b-364857b3261c
+uuid: 02dfef9e-46ba-478c-a3b4-5b1d7bfafb09
 title: "Revue Voltaire"
+author: "Alexis Levrier"
 authors: "Alexis Levrier"
+abstract: "Alexis Levrier"
 date: "2026-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-05620644"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Alexis Levrier
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Sorbonne Université Presses
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05620644](https://hal.science/hal-05620644)
+- **Auteurs:** Alexis Levrier
+- **Type de publication:** article-journal
+- **Éditeur:** Sorbonne Université Presses
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05620644](https://hal.science/hal-05620644)
 

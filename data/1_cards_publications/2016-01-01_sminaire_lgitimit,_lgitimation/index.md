@@ -1,7 +1,9 @@
 ---
-uuid: e465bab7-553f-4c66-8afb-0d3ddfc44aa4
+uuid: 379f1445-3590-43db-b3ff-106cd8186c95
 title: "Séminaire ”Légitimité, légitimation”"
+author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
+abstract: "Agathe Nicolas"
 date: "2016-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773590"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Agathe Nicolas
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Gripic
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773590](https://hal.science/hal-03773590)
+- **Auteurs:** Agathe Nicolas
+- **Type de publication:** paper-conference
+- **Éditeur:** Gripic
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773590](https://hal.science/hal-03773590)
 

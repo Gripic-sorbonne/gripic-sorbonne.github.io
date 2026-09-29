@@ -1,7 +1,9 @@
 ---
-uuid: 4983b6e6-57a9-4d62-8070-6612d67eceda
+uuid: 343791dc-9baf-4ad8-a2d5-05af66167807
 title: "MédiaMorphoses"
+author: "Nelly Quemener"
 authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2007-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03758647"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Institut National de l’Audiovisuel (INA)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758647](https://hal.science/hal-03758647)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
+- **Éditeur:** Institut National de l’Audiovisuel (INA)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758647](https://hal.science/hal-03758647)
 

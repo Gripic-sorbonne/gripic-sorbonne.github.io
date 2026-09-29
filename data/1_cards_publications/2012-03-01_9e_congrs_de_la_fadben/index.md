@@ -1,7 +1,9 @@
 ---
-uuid: a9a1ebaa-8072-49e1-89ce-cc3047d7b185
+uuid: cfc9b284-6967-47e0-a69b-b243402837bf
 title: "9e Congrès de la FADBEN"
+author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
+abstract: "Valerie Jeanne Perrier"
 date: "2012-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03752984"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Valerie Jeanne Perrier
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** FADBEN
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752984](https://hal.science/hal-03752984)
+- **Auteurs:** Valerie Jeanne Perrier
+- **Type de publication:** paper-conference
+- **Éditeur:** FADBEN
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752984](https://hal.science/hal-03752984)
 

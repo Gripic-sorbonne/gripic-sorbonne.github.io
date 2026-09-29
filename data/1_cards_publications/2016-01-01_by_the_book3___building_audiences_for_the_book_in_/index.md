@@ -1,7 +1,9 @@
 ---
-uuid: 1ecc142d-4753-4302-ad80-0b483a7d55a7
+uuid: 6182cf85-8853-4918-9985-d0cc44745861
 title: "By the Book3 : Building Audiences for the Book in an Age of Media Proliferation"
+author: "Agathe Nicolas"
 authors: "Agathe Nicolas"
+abstract: "Agathe Nicolas"
 date: "2016-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03773587"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Agathe Nicolas
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773587](https://hal.science/hal-03773587)
+- **Auteurs:** Agathe Nicolas
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773587](https://hal.science/hal-03773587)
 

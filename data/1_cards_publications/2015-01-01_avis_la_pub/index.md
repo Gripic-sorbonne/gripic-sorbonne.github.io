@@ -1,7 +1,9 @@
 ---
-uuid: 8fb11c3b-5db5-4a33-91d0-c0d921f02c03
+uuid: 7170f9dd-e06c-48f8-971e-e80fc6b82a2f
 title: "Avis à la pub"
+author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2015-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03749752"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Karine Berthelot-Guiet
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Le Cherche-midi
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749752](https://hal.science/hal-03749752)
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** chapter
+- **Éditeur:** Le Cherche-midi
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749752](https://hal.science/hal-03749752)
 

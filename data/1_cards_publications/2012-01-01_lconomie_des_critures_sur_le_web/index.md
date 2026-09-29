@@ -1,7 +1,9 @@
 ---
-uuid: 5b38417b-ea1d-4b94-a54f-adb09564fc4c
+uuid: 3fbc4fe0-f41b-4a41-8500-377f0699d21f
 title: "L’économie des écritures sur le web"
+author: "Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier"
 authors: "Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier"
+abstract: "Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier"
 date: "2012-01-01"
 type: "chapter"
 url: "https://shs.hal.science/halshs-01709086"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Hermès-Lavoisier
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-01709086](https://shs.hal.science/halshs-01709086)
+- **Auteurs:** Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** Hermès-Lavoisier
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-01709086](https://shs.hal.science/halshs-01709086)
 

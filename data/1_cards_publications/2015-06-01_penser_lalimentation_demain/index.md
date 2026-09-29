@@ -1,7 +1,9 @@
 ---
-uuid: 0deac903-8298-452f-be19-d41da70e97b1
+uuid: f381bba5-a8f1-4c4e-8636-76044976de7c
 title: "Penser l’alimentation demain"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2015-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754570"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** ISCC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754570](https://hal.science/hal-03754570)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- **Éditeur:** ISCC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754570](https://hal.science/hal-03754570)
 

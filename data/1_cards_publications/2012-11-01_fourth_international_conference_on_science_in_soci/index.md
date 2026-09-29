@@ -1,7 +1,9 @@
 ---
-uuid: 242ae6f0-d758-4083-9f2d-0dfd07374854
+uuid: 9394e9da-e345-4710-8464-c9371b353c0e
 title: "Fourth international Conference on Science in Society"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2012-11-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750111"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université de Berkeley-California
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750111](https://hal.science/hal-03750111)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- **Éditeur:** Université de Berkeley-California
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750111](https://hal.science/hal-03750111)
 

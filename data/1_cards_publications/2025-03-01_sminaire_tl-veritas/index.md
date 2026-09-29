@@ -1,7 +1,9 @@
 ---
-uuid: 6a52366f-ccc1-4d33-9517-d6474ba8fe8c
+uuid: b703409d-ff67-40fb-aa86-0cea742b3ea0
 title: "Séminaire Télé-Veritas"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2025-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605987"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** CEMTI
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605987](https://hal.science/hal-05605987)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** CEMTI
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605987](https://hal.science/hal-05605987)
 

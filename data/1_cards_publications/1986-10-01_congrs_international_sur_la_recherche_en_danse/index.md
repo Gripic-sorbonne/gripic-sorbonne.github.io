@@ -1,7 +1,9 @@
 ---
-uuid: 77bb2a51-2961-4513-afbf-894e7a7de219
+uuid: 60559775-38d2-49da-be92-657fc283c307
 title: "Congrès international sur la recherche en danse"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "1986-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754590"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754590](https://hal.science/hal-03754590)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754590](https://hal.science/hal-03754590)
 

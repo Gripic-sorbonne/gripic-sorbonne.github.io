@@ -1,7 +1,9 @@
 ---
-uuid: fa6a2c8b-37e0-417d-a2cf-124999b3d892
+uuid: 7692acb2-3026-438c-b933-e1ca71722e0b
 title: "Congrès de l’Association Internationale de Sociologie de Langues Françaises"
+author: "Nelly Quemener"
 authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2008-07-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03758936"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** GT13 Sociologie de la Communication
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758936](https://hal.science/hal-03758936)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** paper-conference
+- **Éditeur:** GT13 Sociologie de la Communication
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758936](https://hal.science/hal-03758936)
 

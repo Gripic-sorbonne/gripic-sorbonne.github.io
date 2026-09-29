@@ -1,7 +1,9 @@
 ---
-uuid: 58d25274-6342-46b3-b88a-0a823c976cd7
+uuid: 8a886e9d-f68e-4675-a6b4-83f87dae89b0
 title: "Instagrammabilité"
+author: "Olivier AÏM"
 authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2020-01-01"
 type: ""
 url: "https://hal.science/hal-03958086"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Olivier AÏM
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03958086](https://hal.science/hal-03958086)
+- **Auteurs:** Olivier AÏM
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03958086](https://hal.science/hal-03958086)
 

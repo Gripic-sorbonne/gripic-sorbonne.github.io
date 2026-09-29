@@ -1,7 +1,9 @@
 ---
-uuid: 90e27bac-3f17-48eb-b9ba-e87281d40117
+uuid: 17622cdb-dbce-4f7d-a177-a9c1c77d7778
 title: "Symposium de l’ICREFH"
+author: "Celia Banos"
 authors: "Celia Banos"
+abstract: "Celia Banos"
 date: "2025-09-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05411530"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Celia Banos
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** International Commission for Research into European Food History
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05411530](https://hal.science/hal-05411530)
+- **Auteurs:** Celia Banos
+- **Type de publication:** paper-conference
+- **Éditeur:** International Commission for Research into European Food History
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05411530](https://hal.science/hal-05411530)
 

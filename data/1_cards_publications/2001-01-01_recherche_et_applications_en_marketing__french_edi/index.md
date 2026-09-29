@@ -1,7 +1,9 @@
 ---
-uuid: 5cec43a2-832a-471c-a3fe-d3bba8a0772b
+uuid: e19aa784-96ff-416c-8356-8ec534be6c6f
 title: "Recherche et Applications en Marketing (French Edition)"
+author: "Caroline Montety"
 authors: "Caroline Montety"
+abstract: "Caroline Montety"
 date: "2001-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03768241"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Montety
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** SAGE Publications
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768241](https://hal.science/hal-03768241)
+- **Auteurs:** Caroline Montety
+- **Type de publication:** article-journal
+- **Éditeur:** SAGE Publications
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768241](https://hal.science/hal-03768241)
 

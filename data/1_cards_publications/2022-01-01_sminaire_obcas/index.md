@@ -1,7 +1,9 @@
 ---
-uuid: 55754b12-e11e-4fec-bf50-abac291f6225
+uuid: 4ffbc374-9c49-452e-910f-5a45a891a533
 title: "Séminaire Obcas"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2022-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750758"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université Paris 2 - Assas
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750758](https://hal.science/hal-03750758)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** Université Paris 2 - Assas
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750758](https://hal.science/hal-03750758)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 2d56a27b-8f8d-461e-9d3a-2e32316698ba
+uuid: 0b20c3cf-c31e-4c2c-b5ee-383b688e7fb3
 title: "Communication & professionnalisation"
+author: "Thomas Grignon"
 authors: "Thomas Grignon"
+abstract: "Thomas Grignon"
 date: "2015-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03775632"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thomas Grignon
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Presses universitaires de Louvain
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03775632](https://hal.science/hal-03775632)
+- **Auteurs:** Thomas Grignon
+- **Type de publication:** article-journal
+- **Éditeur:** Presses universitaires de Louvain
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03775632](https://hal.science/hal-03775632)
 

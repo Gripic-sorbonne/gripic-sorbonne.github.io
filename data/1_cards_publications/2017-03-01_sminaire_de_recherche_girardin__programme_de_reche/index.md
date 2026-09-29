@@ -1,7 +1,9 @@
 ---
-uuid: ae8168ea-b0a1-4975-8fe6-bfa9771572cb
+uuid: a75afc26-7774-4b29-9f33-4b2cd2e19c30
 title: "Séminaire de recherche “ Girardin ” (programme de recherche Giranium)"
+author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2017-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03954849"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** A. Wrona, GRIPIC SORBONNE UNIVERSITE
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03954849](https://hal.science/hal-03954849)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** paper-conference
+- **Éditeur:** A. Wrona, GRIPIC SORBONNE UNIVERSITE
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03954849](https://hal.science/hal-03954849)
 

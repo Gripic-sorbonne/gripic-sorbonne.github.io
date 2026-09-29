@@ -1,7 +1,9 @@
 ---
-uuid: 6525bfbd-d9fb-435f-a213-faa3d92ffea9
+uuid: def43617-a96b-4191-98ff-cbd630c17e35
 title: "Dispositifs numériques et communication"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2006-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03754584"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Colloque IUFM Vitry Sur Seine
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754584](https://hal.science/hal-03754584)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- **Éditeur:** Colloque IUFM Vitry Sur Seine
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754584](https://hal.science/hal-03754584)
 

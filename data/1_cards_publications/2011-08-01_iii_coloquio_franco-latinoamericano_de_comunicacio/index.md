@@ -1,7 +1,9 @@
 ---
-uuid: 0604fe70-386e-4709-9834-b3f8621b383b
+uuid: f4de640f-49e0-4f27-997e-8b921b59200b
 title: "III coloquio franco-latinoamericano de comunicacion empresarial"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2011-08-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750127"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750127](https://hal.science/hal-03750127)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750127](https://hal.science/hal-03750127)
 

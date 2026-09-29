@@ -1,7 +1,9 @@
 ---
-uuid: 65cc38b7-3135-491b-adb7-75be6a7e3c96
+uuid: 566b2316-5fa6-4cf1-88cd-da652d072c44
 title: "R. Queneau, Philosophes et voyous (ii), Littérature"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1992-01-01"
 type: "book"
 url: "https://hal.science/hal-03760508"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Larousse
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760508](https://hal.science/hal-03760508)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** Larousse
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760508](https://hal.science/hal-03760508)
 

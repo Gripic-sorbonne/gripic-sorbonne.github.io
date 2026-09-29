@@ -1,7 +1,9 @@
 ---
-uuid: 274b6ddb-97f1-4f97-af5d-531beb6446d4
+uuid: edef101f-5816-46cd-a83a-8eded0d43858
 title: "Chine, Corée, Japon : comparaison(s)"
+author: "Yuwen Zhang"
 authors: "Yuwen Zhang"
+abstract: "Yuwen Zhang"
 date: "2023-09-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04240092"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yuwen Zhang
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Association française d’études chinoises (AFEC) and Association française pour l’étude de la Corée (AFPEC) and Société française d’études japonaises (SFEJ)
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04240092](https://hal.science/hal-04240092)
+- **Auteurs:** Yuwen Zhang
+- **Type de publication:** paper-conference
+- **Éditeur:** Association française d’études chinoises (AFEC) and Association française pour l’étude de la Corée (AFPEC) and Société française d’études japonaises (SFEJ)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04240092](https://hal.science/hal-04240092)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 9c686e82-6c5c-44b1-916d-71861ea53634
+uuid: 88787118-66e4-4f8b-881a-6e3cf4c0787e
 title: "Congrès international ICA - International Communication Association"
+author: "nicole D’Almeida, Larissa Conceição dos Santos"
 authors: "nicole D’Almeida, Larissa Conceição dos Santos"
+abstract: "nicole D’Almeida, Larissa Conceição dos Santos"
 date: "2012-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750114"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida, Larissa Conceição dos Santos
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Universidad de Chile
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750114](https://hal.science/hal-03750114)
+- **Auteurs:** nicole D’Almeida, Larissa Conceição dos Santos
+- **Type de publication:** paper-conference
+- **Éditeur:** Universidad de Chile
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750114](https://hal.science/hal-03750114)
 

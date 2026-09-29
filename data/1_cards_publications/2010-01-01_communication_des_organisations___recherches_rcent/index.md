@@ -1,7 +1,9 @@
 ---
-uuid: 1f15c080-a821-4110-9e38-daed9be4cd5a
+uuid: 8885ea17-a75f-41be-a87c-245ea017ff6e
 title: "Communication des organisations : recherches récentes"
+author: "Julien Tassel"
 authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2010-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03766837"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Julien Tassel
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** L’Harmattan
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766837](https://hal.science/hal-03766837)
+- **Auteurs:** Julien Tassel
+- **Type de publication:** chapter
+- **Éditeur:** L’Harmattan
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766837](https://hal.science/hal-03766837)
 

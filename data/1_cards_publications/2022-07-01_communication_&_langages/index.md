@@ -1,7 +1,9 @@
 ---
-uuid: c00edecd-84ef-4b86-9dee-e2dc5dffde64
+uuid: f203e23e-2b6c-447e-994d-652803fec413
 title: "Communication & langages"
+author: "Virginie Julliard"
 authors: "Virginie Julliard"
+abstract: "Virginie Julliard"
 date: "2022-07-01"
 type: "article-journal"
 url: "https://hal.science/hal-04270670"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Virginie Julliard
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** PUF
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04270670](https://hal.science/hal-04270670)
+- **Auteurs:** Virginie Julliard
+- **Type de publication:** article-journal
+- **Éditeur:** PUF
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04270670](https://hal.science/hal-04270670)
 

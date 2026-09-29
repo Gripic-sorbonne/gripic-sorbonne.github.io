@@ -1,7 +1,9 @@
 ---
-uuid: ec874bc4-0101-4a7c-bf54-55f8f0013ae7
+uuid: 3b71545a-8ede-4679-b7c1-e0beceea1daa
 title: "Méthodes de recherche sur l’information et la communication - Regards croisés"
+author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"
+abstract: "Nelly Quemener, Maxime Cervulle"
 date: "2014-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03758775"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener, Maxime Cervulle
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Mare & Martin
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758775](https://hal.science/hal-03758775)
+- **Auteurs:** Nelly Quemener, Maxime Cervulle
+- **Type de publication:** chapter
+- **Éditeur:** Mare & Martin
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758775](https://hal.science/hal-03758775)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 47b36f5c-58d2-421b-8861-1bc1a3a4aa64
+uuid: 9432d1de-198a-4b20-881a-58852cbe7ea4
 title: "Sur les voies du Patrimoine, entre culture et politique, Délits de curiosité II"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2008-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761008"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** L’Harmattan
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761008](https://hal.science/hal-03761008)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** L’Harmattan
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761008](https://hal.science/hal-03761008)
 

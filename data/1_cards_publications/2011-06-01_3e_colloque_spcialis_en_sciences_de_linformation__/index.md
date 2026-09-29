@@ -1,7 +1,9 @@
 ---
-uuid: 39970851-2d7b-456a-ad20-174024a6f902
+uuid: d92319c5-02ff-4a18-86ef-1e938c9ad1ee
 title: "3e colloque spécialisé en sciences de l’information (COSSI),"
+author: "Fabrice Papy, Corinne Leblond"
 authors: "Fabrice Papy, Corinne Leblond"
+abstract: "Fabrice Papy, Corinne Leblond"
 date: "2011-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-02516003"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Fabrice Papy, Corinne Leblond
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-02516003](https://hal.science/hal-02516003)
+- **Auteurs:** Fabrice Papy, Corinne Leblond
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02516003](https://hal.science/hal-02516003)
 

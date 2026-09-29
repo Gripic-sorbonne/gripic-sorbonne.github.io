@@ -1,7 +1,9 @@
 ---
-uuid: c32c8fe2-b2f9-42f8-a36b-c556e5380bc1
+uuid: ed32f426-bc4b-4fca-a0a4-4827c862a032
 title: "9eme Congrès International de Sémiotique IASS/AIS"
+author: "Pauline Escande"
 authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2007-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750736"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pauline Escande
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université d’Helsinki
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750736](https://hal.science/hal-03750736)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** Université d’Helsinki
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750736](https://hal.science/hal-03750736)
 

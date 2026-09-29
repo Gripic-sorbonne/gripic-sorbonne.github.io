@@ -1,7 +1,9 @@
 ---
-uuid: 5ed79611-cfb1-4e46-9655-5e7c076aaecc
+uuid: 3a82ed0c-95d6-47b0-8f27-050a1821a3fe
 title: "Journées d’études Les fabriques de l’ignorance"
+author: "Pascal Froissart"
 authors: "Pascal Froissart"
+abstract: "Pascal Froissart"
 date: "2020-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03751307"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pascal Froissart
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03751307](https://hal.science/hal-03751307)
+- **Auteurs:** Pascal Froissart
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03751307](https://hal.science/hal-03751307)
 

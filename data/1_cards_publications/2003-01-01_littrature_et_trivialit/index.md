@@ -1,7 +1,9 @@
 ---
-uuid: adb30132-4520-4872-8f44-ed3186031970
+uuid: 20756ab9-22af-4c65-8fa3-1b45b5451a2e
 title: "Littérature et trivialité"
+author: "Yves Jeanneret, Emmanuël Souchier"
 authors: "Yves Jeanneret, Emmanuël Souchier"
+abstract: "Yves Jeanneret, Emmanuël Souchier"
 date: "2003-01-01"
 type: ""
 url: "https://hal.science/hal-03760930"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yves Jeanneret, Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Nec Plus
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760930](https://hal.science/hal-03760930)
+- **Auteurs:** Yves Jeanneret, Emmanuël Souchier
+- **Éditeur:** Nec Plus
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760930](https://hal.science/hal-03760930)
 

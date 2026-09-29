@@ -1,7 +1,9 @@
 ---
-uuid: 8946e8ef-282f-4dbd-80b3-256831de711d
+uuid: bb754cae-9650-401d-9fba-044574272d29
 title: "Les femmes et le vin"
+author: "Celia Banos"
 authors: "Celia Banos"
+abstract: "Celia Banos"
 date: "2024-06-01"
 type: ""
 url: "https://hal.science/hal-05083165"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Celia Banos
+## Informations sur la publication
 
-**Éditeur:** Doctorales de la SFSIC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05083165](https://hal.science/hal-05083165)
+- **Auteurs:** Celia Banos
+- **Éditeur:** Doctorales de la SFSIC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05083165](https://hal.science/hal-05083165)
 

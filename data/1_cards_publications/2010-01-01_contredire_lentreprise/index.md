@@ -1,7 +1,9 @@
 ---
-uuid: ad85265a-9dc0-4911-8222-df87c6c3a241
+uuid: ee126d1a-e99d-4c10-873d-9533c0af9808
 title: "Contredire l’entreprise"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2010-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750042"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750042](https://hal.science/hal-03750042)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750042](https://hal.science/hal-03750042)
 

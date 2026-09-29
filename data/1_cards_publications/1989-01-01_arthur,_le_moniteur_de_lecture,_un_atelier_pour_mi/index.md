@@ -1,7 +1,9 @@
 ---
-uuid: facb9df9-b54f-4c22-b186-62cd6fe72d57
+uuid: 942db3ea-083a-4ad8-80f8-a9f7b9ebcde9
 title: "Arthur, le moniteur de lecture, Un atelier pour mieux maîtriser la lecture"
+author: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 authors: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
+abstract: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 date: "1989-01-01"
 type: "book"
 url: "https://hal.science/hal-03760451"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Nathan-Retz
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760451](https://hal.science/hal-03760451)
+- **Auteurs:** Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau
+- **Type de publication:** book
+- **Éditeur:** Nathan-Retz
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760451](https://hal.science/hal-03760451)
 

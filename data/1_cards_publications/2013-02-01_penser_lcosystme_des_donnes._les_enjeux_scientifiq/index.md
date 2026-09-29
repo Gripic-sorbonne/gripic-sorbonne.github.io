@@ -1,7 +1,9 @@
 ---
-uuid: d7d89205-f220-4101-9162-f1cd4741975c
+uuid: 475dd627-1a05-4bb6-b1d6-7d35f569d530
 title: "Penser l’écosystème des données. Les enjeux scientifiques et politiques des données numériques. Projet SACRED-CNRS"
+author: "François Allard-Huver"
 authors: "François Allard-Huver"
+abstract: "François Allard-Huver"
 date: "2013-02-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-03126456"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** François Allard-Huver
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03126456](https://shs.hal.science/halshs-03126456)
+- **Auteurs:** François Allard-Huver
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03126456](https://shs.hal.science/halshs-03126456)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 1f4fca8f-36a3-4a24-8d7f-2c4424d2b01f
+uuid: 72edc90a-4d2d-49bd-bea6-bfc59b688cc9
 title: "Sciences, savoirs et sociétés. XXIIe congrès international des sociologues de langue française"
+author: "Coline Reille"
 authors: "Coline Reille"
+abstract: "Coline Reille"
 date: "2024-07-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-04699439"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Coline Reille
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** AISLF
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-04699439](https://shs.hal.science/halshs-04699439)
+- **Auteurs:** Coline Reille
+- **Type de publication:** paper-conference
+- **Éditeur:** AISLF
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-04699439](https://shs.hal.science/halshs-04699439)
 

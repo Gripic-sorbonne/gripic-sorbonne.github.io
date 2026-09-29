@@ -1,7 +1,9 @@
 ---
-uuid: b3a6a316-f352-4400-b80e-9e6618c2fb7b
+uuid: 972e12e7-8697-434c-bc6e-9c8f2d1597e5
 title: "R. Queneau, Exercices de style, Œuvres complètes"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2006-01-01"
 type: "book"
 url: "https://hal.science/hal-03760491"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Gallimard
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760491](https://hal.science/hal-03760491)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** Gallimard
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760491](https://hal.science/hal-03760491)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 5af86502-5820-4444-bce1-f78372941ee3
+uuid: 328fddad-a1aa-4a05-b9e0-adeed561248e
 title: "10 ans de la revue RESET"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2023-03-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605968"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605968](https://hal.science/hal-05605968)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605968](https://hal.science/hal-05605968)
 

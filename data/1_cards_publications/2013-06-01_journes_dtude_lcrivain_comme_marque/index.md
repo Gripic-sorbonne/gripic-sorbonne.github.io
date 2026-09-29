@@ -1,7 +1,9 @@
 ---
-uuid: c32d43e8-c5b1-4c4b-aa6f-96b206c6d21a
+uuid: 5024d446-b69e-4c65-9e36-4f3addfa1e24
 title: "Journées d’étude L’écrivain comme marque"
+author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2013-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03749802"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Karine Berthelot-Guiet
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** RIRRA 21- Montpellier III Gripic-Celsa
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749802](https://hal.science/hal-03749802)
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** paper-conference
+- **Éditeur:** RIRRA 21- Montpellier III Gripic-Celsa
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749802](https://hal.science/hal-03749802)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 179ee42c-a3c7-4697-97d2-bfd8a4ebd7c2
+uuid: 5ca750bc-8eae-49fe-b8d3-34194028906f
 title: "Actes des Doctorales du CREM"
+author: "Joachim Fischer"
 authors: "Joachim Fischer"
+abstract: "Joachim Fischer"
 date: "2025-03-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-05579224"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Joachim Fischer
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** CREM
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-05579224](https://shs.hal.science/halshs-05579224)
+- **Auteurs:** Joachim Fischer
+- **Type de publication:** paper-conference
+- **Éditeur:** CREM
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-05579224](https://shs.hal.science/halshs-05579224)
 

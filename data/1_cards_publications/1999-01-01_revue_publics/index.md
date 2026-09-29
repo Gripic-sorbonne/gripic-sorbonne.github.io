@@ -1,7 +1,9 @@
 ---
-uuid: baf539ed-0a3a-41d0-9ce5-e4f5ce6be45e
+uuid: 3ab62a83-14a2-47c7-8c31-e8dcf33a17b5
 title: "Revue PUBLICS"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "1999-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03754520"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754520](https://hal.science/hal-03754520)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754520](https://hal.science/hal-03754520)
 

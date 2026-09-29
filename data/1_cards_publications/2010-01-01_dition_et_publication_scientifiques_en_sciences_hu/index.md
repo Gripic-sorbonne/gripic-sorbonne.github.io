@@ -1,7 +1,9 @@
 ---
-uuid: 2aff10ed-1813-4ea3-af90-b3d6fe859b89
+uuid: 40c5c588-c3fb-4393-8de9-1246aacafeae
 title: "Édition et publication scientifiques en sciences humaines et sociales : formes et enjeux"
+author: "Valerie Jeanne Perrier, Olivier AÏM"
 authors: "Valerie Jeanne Perrier, Olivier AÏM"
+abstract: "Valerie Jeanne Perrier, Olivier AÏM"
 date: "2010-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03752976"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Valerie Jeanne Perrier, Olivier AÏM
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université d’Avignon et des Pays de Vaucluse
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752976](https://hal.science/hal-03752976)
+- **Auteurs:** Valerie Jeanne Perrier, Olivier AÏM
+- **Type de publication:** paper-conference
+- **Éditeur:** Université d’Avignon et des Pays de Vaucluse
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752976](https://hal.science/hal-03752976)
 

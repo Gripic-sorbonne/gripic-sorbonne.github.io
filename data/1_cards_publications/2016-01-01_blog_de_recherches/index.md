@@ -1,7 +1,9 @@
 ---
-uuid: cf1a00d4-5d8a-406c-bbd2-fd6e0d374883
+uuid: 2caaa7b2-f5df-45de-9486-066ce2c6800c
 title: "Blog de recherches"
+author: "Dominique Pagès"
 authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2016-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03754436"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Dominique Pagès
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Pôle alimentation ISCC
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754436](https://hal.science/hal-03754436)
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
+- **Éditeur:** Pôle alimentation ISCC
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754436](https://hal.science/hal-03754436)
 

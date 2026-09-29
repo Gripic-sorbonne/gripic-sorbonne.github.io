@@ -1,7 +1,9 @@
 ---
-uuid: ef795ab4-e234-4f9e-9543-d6843ae8152c
+uuid: 11a5acef-6ab6-413e-9ffa-9263eb46decc
 title: "Paris sous l’œil des chercheurs"
+author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2007-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03749856"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749856](https://hal.science/hal-03749856)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749856](https://hal.science/hal-03749856)
 

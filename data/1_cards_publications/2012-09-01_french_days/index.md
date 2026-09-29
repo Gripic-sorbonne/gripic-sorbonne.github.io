@@ -1,7 +1,9 @@
 ---
-uuid: 5b9f1c47-b241-40e7-90bf-bbbffaf4a33b
+uuid: 9bc2cf71-1c7f-4885-a094-61c37c66bdc1
 title: "French Days"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2012-09-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03750118"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** University of Kwa Zulu Natal
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750118](https://hal.science/hal-03750118)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- **Éditeur:** University of Kwa Zulu Natal
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750118](https://hal.science/hal-03750118)
 

@@ -1,7 +1,9 @@
 ---
-uuid: ef75ae12-9cf2-470e-9ae8-2ea25e0392b0
+uuid: 72b67cdd-4d1a-484c-8cb4-12fad303fb83
 title: "Troisième Colloque International Icône-Image, Image et mémoir"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2007-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761013"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Musées de Sens
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761013](https://hal.science/hal-03761013)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** Musées de Sens
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761013](https://hal.science/hal-03761013)
 

@@ -1,7 +1,9 @@
 ---
-uuid: af284951-d939-471a-8174-3b8972c9d123
+uuid: e253eba8-adca-466f-8aad-c5941e82260e
 title: "Support et conseil éditorial pour la 7e édition du Communicator, en collaboration avec les éditions Dunod et l’institut d’études Occurrence"
+author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2015-01-01"
 type: ""
 url: "https://hal.science/hal-03963955"
@@ -10,7 +12,8 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ambre Abid-Dalençon
+## Informations sur la publication
 
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963955](https://hal.science/hal-03963955)
+- **Auteurs:** Ambre Abid-Dalençon
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963955](https://hal.science/hal-03963955)
 

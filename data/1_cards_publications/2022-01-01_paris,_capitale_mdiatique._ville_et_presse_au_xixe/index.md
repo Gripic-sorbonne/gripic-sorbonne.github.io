@@ -1,7 +1,9 @@
 ---
-uuid: 1cd3e446-7d36-437d-b160-b42e21bf7be6
+uuid: ca4383bf-7fe0-49bd-9ee4-13e21bc63837
 title: "Paris, capitale médiatique. Ville et presse au XIXe siècle"
+author: "Juliette Charbonneaux, Lisa Bolz"
 authors: "Juliette Charbonneaux, Lisa Bolz"
+abstract: "Juliette Charbonneaux, Lisa Bolz"
 date: "2022-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03966976"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Juliette Charbonneaux, Lisa Bolz
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Presses universitaires de Vincennes
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966976](https://hal.science/hal-03966976)
+- **Auteurs:** Juliette Charbonneaux, Lisa Bolz
+- **Type de publication:** chapter
+- **Éditeur:** Presses universitaires de Vincennes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966976](https://hal.science/hal-03966976)
 

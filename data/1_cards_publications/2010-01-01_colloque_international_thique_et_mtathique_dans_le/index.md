@@ -1,7 +1,9 @@
 ---
-uuid: 37933938-a3e9-4db6-af6f-0ba8b3116b88
+uuid: aa8dc109-1a13-4e35-9318-5f204ac6e2c7
 title: "Colloque international éthique et métaéthique dans les professions de l’information et de la communication"
+author: "Véronique Richard"
 authors: "Véronique Richard"
+abstract: "Véronique Richard"
 date: "2010-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03779433"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Véronique Richard
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Éditions universitaires européennes
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03779433](https://hal.science/hal-03779433)
+- **Auteurs:** Véronique Richard
+- **Type de publication:** paper-conference
+- **Éditeur:** Éditions universitaires européennes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03779433](https://hal.science/hal-03779433)
 

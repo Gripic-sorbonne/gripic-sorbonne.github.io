@@ -1,7 +1,9 @@
 ---
-uuid: e2f4ad0f-74c1-4d20-aecf-b00c4ccf8432
+uuid: 507eba2d-1eb6-4c03-8ca1-e20e0df65a14
 title: "L’écrivain comme marque"
+author: "Caroline Marti"
 authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2020-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03768190"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Marti
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768190](https://hal.science/hal-03768190)
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768190](https://hal.science/hal-03768190)
 

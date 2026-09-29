@@ -1,7 +1,9 @@
 ---
-uuid: 8efcbf02-7694-4f43-acef-9e071e840229
+uuid: 0d064f6d-0dc6-48d4-a2b9-113b67895cf0
 title: "GéoProximitéS"
+author: "Alexis Lévrier"
 authors: "Alexis Lévrier"
+abstract: "Alexis Lévrier"
 date: "2023-01-01"
 type: "article-journal"
 url: "https://univ-reims.hal.science/hal-04279655"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Alexis Lévrier
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Quamoter
-
-🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04279655](https://univ-reims.hal.science/hal-04279655)
+- **Auteurs:** Alexis Lévrier
+- **Type de publication:** article-journal
+- **Éditeur:** Quamoter
+- 🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04279655](https://univ-reims.hal.science/hal-04279655)
 

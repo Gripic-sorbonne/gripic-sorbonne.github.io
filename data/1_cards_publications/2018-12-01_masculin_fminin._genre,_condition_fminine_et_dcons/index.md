@@ -1,7 +1,9 @@
 ---
-uuid: 66abe2e2-e871-4a78-9a02-43ff693cb376
+uuid: b7d1307c-25c3-47bc-b3c4-188f3cef5c33
 title: "Masculin/Féminin. Genre, condition féminine et déconstruction de la virilité dans les littératures du monde arabe"
+author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"
+abstract: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 date: "2018-12-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04168832"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Anita SALEH BOLOURDI, Abolhassan Riazi
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Centre Régional Francophone de Recherches Avancées en sciences Sociales
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04168832](https://hal.science/hal-04168832)
+- **Auteurs:** Anita SALEH BOLOURDI, Abolhassan Riazi
+- **Type de publication:** paper-conference
+- **Éditeur:** Centre Régional Francophone de Recherches Avancées en sciences Sociales
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04168832](https://hal.science/hal-04168832)
 

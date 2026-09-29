@@ -1,7 +1,9 @@
 ---
-uuid: bd75f56f-08dd-41ed-8ff2-1235b71f9755
+uuid: fd1b4848-30ae-47b6-8136-a1cc0046659a
 title: "17e Congrès de la SFSIC"
+author: "Karine Berthelot-Guiet, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Caroline Montety"
+abstract: "Karine Berthelot-Guiet, Caroline Montety"
 date: "2010-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03768246"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Karine Berthelot-Guiet, Caroline Montety
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université de Bourgogne
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768246](https://hal.science/hal-03768246)
+- **Auteurs:** Karine Berthelot-Guiet, Caroline Montety
+- **Type de publication:** paper-conference
+- **Éditeur:** Université de Bourgogne
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768246](https://hal.science/hal-03768246)
 

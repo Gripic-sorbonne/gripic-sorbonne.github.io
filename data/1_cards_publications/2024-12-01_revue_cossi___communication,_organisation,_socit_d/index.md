@@ -1,7 +1,9 @@
 ---
-uuid: c790dd7c-cb99-4f23-835b-4319506b1592
+uuid: 62ec6e47-fd37-4919-a36d-c436df0b6210
 title: "Revue COSSI : communication, organisation, société du savoir et information"
+author: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova"
 authors: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova"
+abstract: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova"
 date: "2024-12-01"
 type: "article-journal"
 url: "https://hal.science/hal-04815792"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Groupe de recherche international en information, communication et documentation durables [2016-....]
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04815792](https://hal.science/hal-04815792)
+- **Auteurs:** Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson, Iana Antonova
+- **Type de publication:** article-journal
+- **Éditeur:** Groupe de recherche international en information, communication et documentation durables [2016-....]
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04815792](https://hal.science/hal-04815792)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 07276339-50c2-46c0-a58c-8d93da4070a5
+uuid: 4bdb094c-29a3-4805-8d87-1ce85b14d1a4
 title: "L’Opinion publique"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2009-01-01"
 type: "book"
 url: "https://hal.science/hal-03750014"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750014](https://hal.science/hal-03750014)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750014](https://hal.science/hal-03750014)
 

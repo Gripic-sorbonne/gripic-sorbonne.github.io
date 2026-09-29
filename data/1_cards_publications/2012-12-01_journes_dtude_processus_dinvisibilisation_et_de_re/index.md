@@ -1,7 +1,9 @@
 ---
-uuid: 095524f5-6218-45df-ac4a-cdf14d49fccd
+uuid: bf6e5eca-b1d1-4be7-8543-119336a6faae
 title: "Journées d’étude Processus d’invisibilisation et de reconnaissance dans le travail"
+author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"
+abstract: "Gérald Gaglio, Olivia Foli"
 date: "2012-12-01"
 type: "paper-conference"
 url: "https://utt.hal.science/hal-02968084"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Gérald Gaglio, Olivia Foli
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://utt.hal.science/hal-02968084](https://utt.hal.science/hal-02968084)
+- **Auteurs:** Gérald Gaglio, Olivia Foli
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://utt.hal.science/hal-02968084](https://utt.hal.science/hal-02968084)
 

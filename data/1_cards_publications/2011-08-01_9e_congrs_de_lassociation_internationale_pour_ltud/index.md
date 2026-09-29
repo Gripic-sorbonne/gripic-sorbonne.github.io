@@ -1,7 +1,9 @@
 ---
-uuid: be77645a-6104-4911-9bac-e82c94d694b1
+uuid: 5edee4e0-ff8f-42ac-81b3-23213d9d369f
 title: "9e Congrès de l’Association Internationale pour l’Étude des Rapports entre Texte et Image (IAWIS/AIERTI)"
+author: "Séverine Barthes"
 authors: "Séverine Barthes"
+abstract: "Séverine Barthes"
 date: "2011-08-01"
 type: "paper-conference"
 url: "https://shs.hal.science/halshs-00681917"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Séverine Barthes
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00681917](https://shs.hal.science/halshs-00681917)
+- **Auteurs:** Séverine Barthes
+- **Type de publication:** paper-conference
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00681917](https://shs.hal.science/halshs-00681917)
 

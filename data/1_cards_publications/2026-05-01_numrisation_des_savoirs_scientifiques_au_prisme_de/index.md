@@ -1,7 +1,9 @@
 ---
-uuid: ee5cf9aa-e809-4712-bf7a-5c3da13edd6f
+uuid: c76f3fca-405b-4fea-928b-27a6fca43a0f
 title: "Numérisation des savoirs scientifiques au prisme des pratiques de recherche. Mémoires, usages et enjeux critiques"
+author: "Fabrice Papy"
 authors: "Fabrice Papy"
+abstract: "Fabrice Papy"
 date: "2026-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05638525"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Fabrice Papy
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Collex Persée and Université de Lille
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05638525](https://hal.science/hal-05638525)
+- **Auteurs:** Fabrice Papy
+- **Type de publication:** paper-conference
+- **Éditeur:** Collex Persée and Université de Lille
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05638525](https://hal.science/hal-05638525)
 

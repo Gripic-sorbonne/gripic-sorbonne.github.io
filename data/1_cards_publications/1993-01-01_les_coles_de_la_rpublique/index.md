@@ -1,7 +1,9 @@
 ---
-uuid: 7b95a6e5-887c-497b-9839-9e72cf652388
+uuid: 6533b6b6-2548-4ffe-9254-6c0e393ba8e6
 title: "Les Écoles de la République"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1993-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03761047"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Éclectis
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761047](https://hal.science/hal-03761047)
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
+- **Éditeur:** Éclectis
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761047](https://hal.science/hal-03761047)
 

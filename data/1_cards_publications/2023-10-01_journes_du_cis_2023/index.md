@@ -1,7 +1,9 @@
 ---
-uuid: f83e0e08-7b9c-4aca-8c97-bcf7587cef17
+uuid: 17451c8f-7d19-489e-80fb-c24b1a52d031
 title: "Journées du CIS 2023"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2023-10-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605973"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Centre Internet et Société
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605973](https://hal.science/hal-05605973)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** Centre Internet et Société
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605973](https://hal.science/hal-05605973)
 

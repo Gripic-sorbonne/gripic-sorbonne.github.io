@@ -1,7 +1,9 @@
 ---
-uuid: 9eec32b8-c45a-4fbe-af74-c10ad6d405bb
+uuid: 7941b83b-7e64-4deb-bfbc-e0c0334488da
 title: "Retrospective et perspective : 1989 - 2009 H2PTM’36"
+author: "Caroline Angé, Oriane Deseilligny"
 authors: "Caroline Angé, Oriane Deseilligny"
+abstract: "Caroline Angé, Oriane Deseilligny"
 date: "2009-09-01"
 type: "paper-conference"
 url: "https://hal.univ-grenoble-alpes.fr/hal-01151257"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Caroline Angé, Oriane Deseilligny
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Hermes Science Publications
-
-🔗 **Lien HAL / Publication:** [https://hal.univ-grenoble-alpes.fr/hal-01151257](https://hal.univ-grenoble-alpes.fr/hal-01151257)
+- **Auteurs:** Caroline Angé, Oriane Deseilligny
+- **Type de publication:** paper-conference
+- **Éditeur:** Hermes Science Publications
+- 🔗 **Lien HAL / Publication:** [https://hal.univ-grenoble-alpes.fr/hal-01151257](https://hal.univ-grenoble-alpes.fr/hal-01151257)
 

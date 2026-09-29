@@ -1,7 +1,9 @@
 ---
-uuid: 1204e237-a8a4-481d-8198-01577ecfd801
+uuid: bc855d6b-c944-4ec1-bc0d-3ca8aa3101b8
 title: "Face au portrait"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2012-01-01"
 type: "book"
 url: "https://hal.science/hal-03767152"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** book
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767152](https://hal.science/hal-03767152)
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** book
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767152](https://hal.science/hal-03767152)
 

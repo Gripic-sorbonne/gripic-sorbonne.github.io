@@ -1,7 +1,9 @@
 ---
-uuid: de834530-4c2d-48b7-8c06-711da1f0c77b
+uuid: 8995ce36-b092-47ff-943b-b700c3e6a3b5
 title: "Literatūra"
+author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2018-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03721233"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Vilnius University Press
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721233](https://hal.science/hal-03721233)
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** article-journal
+- **Éditeur:** Vilnius University Press
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721233](https://hal.science/hal-03721233)
 

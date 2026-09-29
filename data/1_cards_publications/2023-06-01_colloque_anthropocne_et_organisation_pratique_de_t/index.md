@@ -1,7 +1,9 @@
 ---
-uuid: 697c6a6c-e295-4e24-b09a-5284104d48bb
+uuid: 00dd97e3-76d1-4861-b851-722171f30f52
 title: "Colloque Anthropocène et organisation “ pratique de travail et outils de gestion dans l’anthropocène."
+author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"
+abstract: "Priscille-Laëta Atteleyn"
 date: "2023-06-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04726678"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Priscille-Laëta Atteleyn
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** ESG Clermont Business School
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04726678](https://hal.science/hal-04726678)
+- **Auteurs:** Priscille-Laëta Atteleyn
+- **Type de publication:** paper-conference
+- **Éditeur:** ESG Clermont Business School
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04726678](https://hal.science/hal-04726678)
 

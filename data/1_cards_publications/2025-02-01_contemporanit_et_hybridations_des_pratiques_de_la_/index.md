@@ -1,7 +1,9 @@
 ---
-uuid: 6131eb09-34b7-487a-9e41-e88b91470443
+uuid: b7958678-fcef-43f7-b4c5-e6868077a292
 title: "Contemporanéité et hybridations des pratiques de la recherche"
+author: "Maxime Fabre"
 authors: "Maxime Fabre"
+abstract: "Maxime Fabre"
 date: "2025-02-01"
 type: "chapter"
 url: "https://hal.science/hal-04947827"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Maxime Fabre
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Presses universitaires de Bordeaux
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04947827](https://hal.science/hal-04947827)
+- **Auteurs:** Maxime Fabre
+- **Type de publication:** chapter
+- **Éditeur:** Presses universitaires de Bordeaux
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04947827](https://hal.science/hal-04947827)
 

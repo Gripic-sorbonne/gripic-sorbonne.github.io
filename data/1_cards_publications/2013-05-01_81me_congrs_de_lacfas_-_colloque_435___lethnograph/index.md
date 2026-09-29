@@ -1,7 +1,9 @@
 ---
-uuid: f29e6871-ddd3-4871-a421-ea8fc112e3f3
+uuid: 824e5887-8392-4717-a74b-be33f60d6583
 title: "81ème Congrès de l’ACFAS - Colloque 435 : l’ethnographie organisationnelle pratiques émergentes et contributions"
+author: "Julien Tassel"
 authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2013-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03766919"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Julien Tassel
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Université Laval
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766919](https://hal.science/hal-03766919)
+- **Auteurs:** Julien Tassel
+- **Type de publication:** paper-conference
+- **Éditeur:** Université Laval
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766919](https://hal.science/hal-03766919)
 

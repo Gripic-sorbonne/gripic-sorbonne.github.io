@@ -1,7 +1,9 @@
 ---
-uuid: e79e75b2-ac17-4045-89c3-5e40aa90ee49
+uuid: 0839f82c-30b7-422c-b2cb-1894e1289b63
 title: "Comunicaçao Organizacional, Dimensoes epistemologicas e discursivas"
+author: "nicole D’Almeida"
 authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2015-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750023"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** FAFICH
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750023](https://hal.science/hal-03750023)
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
+- **Éditeur:** FAFICH
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750023](https://hal.science/hal-03750023)
 

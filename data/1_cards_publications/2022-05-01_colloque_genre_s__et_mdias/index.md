@@ -1,7 +1,9 @@
 ---
-uuid: 6c227743-9f01-4dca-a753-5445d1ba64ac
+uuid: 7097f2ff-c5c3-4a7c-a05b-14579d999e84
 title: "Colloque Genre(s) et médias"
+author: "Thibault Grison"
 authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2022-05-01"
 type: "paper-conference"
 url: "https://hal.science/hal-05605991"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Thibault Grison
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Congrès de l’ACFAS
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605991](https://hal.science/hal-05605991)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** Congrès de l’ACFAS
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605991](https://hal.science/hal-05605991)
 

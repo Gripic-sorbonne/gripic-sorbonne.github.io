@@ -1,7 +1,9 @@
 ---
-uuid: f226e218-eb52-4011-b92e-4aca6fa1ad01
+uuid: c2a303c0-d436-4c02-b2c6-1a87f6f48628
 title: "Le dict des deux Lunes"
+author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2016-01-01"
 type: ""
 url: "https://hal.science/hal-03761076"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuël Souchier
+## Informations sur la publication
 
-**Éditeur:** Bibliothèque Polonaise de Paris
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761076](https://hal.science/hal-03761076)
+- **Auteurs:** Emmanuël Souchier
+- **Éditeur:** Bibliothèque Polonaise de Paris
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761076](https://hal.science/hal-03761076)
 

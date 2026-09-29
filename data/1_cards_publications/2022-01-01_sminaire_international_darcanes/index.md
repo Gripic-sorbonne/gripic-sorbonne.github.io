@@ -1,7 +1,9 @@
 ---
-uuid: 55a50256-e40c-4548-bd03-b83d0ffa19ec
+uuid: ea57283b-2910-4765-9d9b-c72f4307170d
 title: "Séminaire international d’Arcanes"
+author: "Emmanuelle Fantin, Katharina Niemeyer"
 authors: "Emmanuelle Fantin, Katharina Niemeyer"
+abstract: "Emmanuelle Fantin, Katharina Niemeyer"
 date: "2022-01-01"
 type: "paper-conference"
 url: "https://hal.science/hal-03964079"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin, Katharina Niemeyer
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** ARts, Communication, Artifices Numériques et Écosystèmes Socio-numériques
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964079](https://hal.science/hal-03964079)
+- **Auteurs:** Emmanuelle Fantin, Katharina Niemeyer
+- **Type de publication:** paper-conference
+- **Éditeur:** ARts, Communication, Artifices Numériques et Écosystèmes Socio-numériques
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964079](https://hal.science/hal-03964079)
 

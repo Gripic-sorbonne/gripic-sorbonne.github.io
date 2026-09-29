@@ -1,7 +1,9 @@
 ---
-uuid: 75e10ba3-1776-4e00-a542-2854699099d2
+uuid: 65f5ae3c-c377-47e4-a8d1-f60830df09bb
 title: "L’âge d’or"
+author: "Emmanuelle Fantin, Thibault Le Hégarat"
 authors: "Emmanuelle Fantin, Thibault Le Hégarat"
+abstract: "Emmanuelle Fantin, Thibault Le Hégarat"
 date: "2017-01-01"
 type: ""
 url: "https://hal.science/hal-03964025"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Emmanuelle Fantin, Thibault Le Hégarat
+## Informations sur la publication
 
-**Éditeur:** Nouveau Monde Editions
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964025](https://hal.science/hal-03964025)
+- **Auteurs:** Emmanuelle Fantin, Thibault Le Hégarat
+- **Éditeur:** Nouveau Monde Editions
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964025](https://hal.science/hal-03964025)
 

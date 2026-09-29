@@ -1,7 +1,9 @@
 ---
-uuid: 60a9a710-ffa6-4380-bafe-9c9abfb1eb53
+uuid: d24c0525-9eca-483d-a81b-f76c490fbf84
 title: "Le manuel des médias"
+author: "Pascal Froissart"
 authors: "Pascal Froissart"
+abstract: "Pascal Froissart"
 date: "2025-10-01"
 type: "chapter"
 url: "https://hal.science/hal-05452774"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Pascal Froissart
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** Éditions Panthéon-Assas
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05452774](https://hal.science/hal-05452774)
+- **Auteurs:** Pascal Froissart
+- **Type de publication:** chapter
+- **Éditeur:** Éditions Panthéon-Assas
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05452774](https://hal.science/hal-05452774)
 

@@ -1,7 +1,9 @@
 ---
-uuid: b1513950-71dc-48da-9c5a-d4187046e09d
+uuid: a81cdde6-2b18-4f97-aa46-59768106ee78
 title: "L’éthique dans les pratiques professionnelles de l’information et de la communication"
+author: "Florian Malaterre"
 authors: "Florian Malaterre"
+abstract: "Florian Malaterre"
 date: "2015-03-01"
 type: "paper-conference"
 url: "https://institut-agro-dijon.hal.science/hal-05234865"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Florian Malaterre
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Florian Malaterre and Véronique Richard
-
-🔗 **Lien HAL / Publication:** [https://institut-agro-dijon.hal.science/hal-05234865](https://institut-agro-dijon.hal.science/hal-05234865)
+- **Auteurs:** Florian Malaterre
+- **Type de publication:** paper-conference
+- **Éditeur:** Florian Malaterre and Véronique Richard
+- 🔗 **Lien HAL / Publication:** [https://institut-agro-dijon.hal.science/hal-05234865](https://institut-agro-dijon.hal.science/hal-05234865)
 

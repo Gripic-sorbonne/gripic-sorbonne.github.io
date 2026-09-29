@@ -1,7 +1,9 @@
 ---
-uuid: 98362f3b-0eb2-4171-bc05-ed98e178caf6
+uuid: 930bdd4f-bbb2-499c-931d-cce27879ae5b
 title: "Dispositifs d’Europe, dispositifs européens ?"
+author: "Johan Boittiaux"
 authors: "Johan Boittiaux"
+abstract: "Johan Boittiaux"
 date: "2023-11-01"
 type: "paper-conference"
 url: "https://hal.science/hal-04432691"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Johan Boittiaux
+## Informations sur la publication
 
-**Type de publication:** paper-conference
-
-**Éditeur:** Observatoire des discours sur l’Europe and Gripic
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04432691](https://hal.science/hal-04432691)
+- **Auteurs:** Johan Boittiaux
+- **Type de publication:** paper-conference
+- **Éditeur:** Observatoire des discours sur l’Europe and Gripic
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04432691](https://hal.science/hal-04432691)
 

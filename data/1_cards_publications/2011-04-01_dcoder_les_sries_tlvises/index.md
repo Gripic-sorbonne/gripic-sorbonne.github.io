@@ -1,7 +1,9 @@
 ---
-uuid: 242e1eb0-51df-47bc-8090-4d1f5f28d8eb
+uuid: d9664812-4d20-42d3-80db-ccf25ddebee6
 title: "Décoder les séries télévisées"
+author: "Séverine Barthes"
 authors: "Séverine Barthes"
+abstract: "Séverine Barthes"
 date: "2011-04-01"
 type: "chapter"
 url: "https://shs.hal.science/halshs-00681911"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Séverine Barthes
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-**Éditeur:** De Boeck
-
-🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00681911](https://shs.hal.science/halshs-00681911)
+- **Auteurs:** Séverine Barthes
+- **Type de publication:** chapter
+- **Éditeur:** De Boeck
+- 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00681911](https://shs.hal.science/halshs-00681911)
 

@@ -1,7 +1,9 @@
 ---
-uuid: faebd45c-3275-40b5-9388-860517fff285
+uuid: 81189980-c550-44e5-aedf-f73ed01aa7cf
 title: "Paris, capitale médiatique, Presse et ville au XXe siècle"
+author: "Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona"
 authors: "Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona"
+abstract: "Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona"
 date: "2022-01-01"
 type: "book"
 url: "https://hal.science/hal-03721129"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona
+## Informations sur la publication
 
-**Type de publication:** book
-
-**Éditeur:** Presses universitaires de Vincennes
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721129](https://hal.science/hal-03721129)
+- **Auteurs:** Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona
+- **Type de publication:** book
+- **Éditeur:** Presses universitaires de Vincennes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721129](https://hal.science/hal-03721129)
 

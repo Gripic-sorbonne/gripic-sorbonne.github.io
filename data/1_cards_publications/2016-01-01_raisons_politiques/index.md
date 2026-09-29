@@ -1,7 +1,9 @@
 ---
-uuid: b80e310e-0af3-408b-ad77-b12a1d238212
+uuid: f4704f8e-c43d-46f7-90f6-10756cc954fb
 title: "Raisons politiques"
+author: "Nelly Quemener"
 authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2016-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03758589"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Nelly Quemener
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Presses de Sciences Po
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758589](https://hal.science/hal-03758589)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
+- **Éditeur:** Presses de Sciences Po
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758589](https://hal.science/hal-03758589)
 

@@ -1,7 +1,9 @@
 ---
-uuid: 954c2a03-08f2-4941-b922-28f89638c410
+uuid: a5148bde-f51e-4e51-8a89-4edb20f1b3a0
 title: "Réseaux : communication, technologie, société"
+author: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
 authors: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
+abstract: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
 date: "2026-04-01"
 type: "article-journal"
 url: "https://hal.science/hal-05609655"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Laurène Renaut, Clotilde Chevet, Lucie Raymond
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Lavoisier, La Découverte
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609655](https://hal.science/hal-05609655)
+- **Auteurs:** Laurène Renaut, Clotilde Chevet, Lucie Raymond
+- **Type de publication:** article-journal
+- **Éditeur:** Lavoisier, La Découverte
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609655](https://hal.science/hal-05609655)
 

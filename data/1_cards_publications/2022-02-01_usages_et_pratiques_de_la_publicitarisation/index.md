@@ -1,7 +1,9 @@
 ---
-uuid: 48d44b06-9377-4f42-8bdc-1e8270c0c682
+uuid: f88d92df-acc5-47f5-bf03-c4ababb8112c
 title: "Usages et pratiques de la publicitarisation"
+author: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
 authors: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
+abstract: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
 date: "2022-02-01"
 type: ""
 url: "https://hal.science/hal-04100859"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère
+## Informations sur la publication
 
-**Éditeur:** Eska (Paris, France) [2013, vol. 10, n 1 - ....]
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-04100859](https://hal.science/hal-04100859)
+- **Auteurs:** Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère
+- **Éditeur:** Eska (Paris, France) [2013, vol. 10, n 1 - ....]
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04100859](https://hal.science/hal-04100859)
 

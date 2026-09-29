@@ -1,7 +1,9 @@
 ---
-uuid: 2c64134c-ea04-4402-8342-07b2b09d3a80
+uuid: 96a1bb69-d67c-4b13-ba01-7bae8e02b5a2
 title: "Le Monde Diplomatique"
+author: "Yves Jeanneret, Emmanuël Souchier"
 authors: "Yves Jeanneret, Emmanuël Souchier"
+abstract: "Yves Jeanneret, Emmanuël Souchier"
 date: "1995-01-01"
 type: "article-journal"
 url: "https://hal.science/hal-03760955"
@@ -10,11 +12,10 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Yves Jeanneret, Emmanuël Souchier
+## Informations sur la publication
 
-**Type de publication:** article-journal
-
-**Éditeur:** Le Monde
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760955](https://hal.science/hal-03760955)
+- **Auteurs:** Yves Jeanneret, Emmanuël Souchier
+- **Type de publication:** article-journal
+- **Éditeur:** Le Monde
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760955](https://hal.science/hal-03760955)
 

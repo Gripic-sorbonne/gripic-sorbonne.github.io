@@ -1,7 +1,9 @@
 ---
-uuid: 9f8494c8-9eff-447b-b954-79201f2409cf
+uuid: 431c8141-72dd-4928-8182-707a3366645e
 title: "Sciences de l’information et de la communication. Objets, savoirs, discipline"
+author: "nicole D’Almeida, Yanita Andonova"
 authors: "nicole D’Almeida, Yanita Andonova"
+abstract: "nicole D’Almeida, Yanita Andonova"
 date: "2013-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750036"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** nicole D’Almeida, Yanita Andonova
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750036](https://hal.science/hal-03750036)
+- **Auteurs:** nicole D’Almeida, Yanita Andonova
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750036](https://hal.science/hal-03750036)
 

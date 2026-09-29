@@ -1,7 +1,9 @@
 ---
-uuid: 324919bb-5a66-4189-8005-ac0d13e75126
+uuid: 9aa0f9de-2e06-4c06-871f-bac719e5e68a
 title: "L’identité plurielle. Images de soi, regards sur les autres"
+author: "Oriane Deseilligny, Caroline Angé"
 authors: "Oriane Deseilligny, Caroline Angé"
+abstract: "Oriane Deseilligny, Caroline Angé"
 date: "2011-01-01"
 type: "chapter"
 url: "https://hal.science/hal-03750629"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Oriane Deseilligny, Caroline Angé
+## Informations sur la publication
 
-**Type de publication:** chapter
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750629](https://hal.science/hal-03750629)
+- **Auteurs:** Oriane Deseilligny, Caroline Angé
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750629](https://hal.science/hal-03750629)
 

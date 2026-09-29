@@ -1,7 +1,9 @@
 ---
-uuid: 890bf0cd-233d-43ae-8906-6a35ad5c90d7
+uuid: 61999f4f-3694-4ec3-bf24-5a26474c68c5
 title: "Usages médiatiques du portrait"
+author: "Adeline Wrona"
 authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2007-01-01"
 type: ""
 url: "https://hal.science/hal-03767165"
@@ -10,9 +12,9 @@ container_title: ""
 publication: true
 ---
 
-**Auteurs:** Adeline Wrona
+## Informations sur la publication
 
-**Éditeur:** Nec Plus
-
-🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767165](https://hal.science/hal-03767165)
+- **Auteurs:** Adeline Wrona
+- **Éditeur:** Nec Plus
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767165](https://hal.science/hal-03767165)
 
