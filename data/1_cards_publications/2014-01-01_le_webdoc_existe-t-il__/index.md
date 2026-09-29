@@ -1,5 +1,5 @@
 ---
-uuid: 0c626e92-ec56-40fa-a3ad-2a04669dcc71
+uuid: 19c7a4f6-1575-4818-befa-f9204bce56d5
 title: "Le webdoc existe-t-il ?"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"

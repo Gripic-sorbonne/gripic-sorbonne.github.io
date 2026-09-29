@@ -1,5 +1,5 @@
 ---
-uuid: f05dc1f8-dc2d-4e47-8d61-9d933ca19877
+uuid: e5cc3369-9c53-4edb-a9c8-fb2383750a4b
 title: "The Discourses and Materialities of Tourism"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

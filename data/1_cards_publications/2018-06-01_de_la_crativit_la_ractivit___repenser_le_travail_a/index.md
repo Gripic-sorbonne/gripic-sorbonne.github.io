@@ -1,5 +1,5 @@
 ---
-uuid: 095d259a-65d7-4e0b-ab17-55cd693e331f
+uuid: c6261bf5-5bb2-463d-baaa-7492b2cf45af
 title: "De la créativité à la réactivité : repenser le travail affectif sur YouTube comme réaction"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

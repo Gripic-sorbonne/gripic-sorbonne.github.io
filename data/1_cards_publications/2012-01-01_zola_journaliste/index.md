@@ -1,5 +1,5 @@
 ---
-uuid: bd72c691-1412-4a34-9c25-e793d03a0877
+uuid: ecf0ea17-1869-4fa9-9a5e-45ff6ff82380
 title: "Zola journaliste"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

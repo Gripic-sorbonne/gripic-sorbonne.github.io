@@ -1,5 +1,5 @@
 ---
-uuid: 1f41b78c-cfbd-478e-8c8b-25309da46cf7
+uuid: d9a84647-d0bd-452e-a931-8b6a4a334d7e
 title: "Les nouvelles astuces pour vendre plus “ vert ”"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

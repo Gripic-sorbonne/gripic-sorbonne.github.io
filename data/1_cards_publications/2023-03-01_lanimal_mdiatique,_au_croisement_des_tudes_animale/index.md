@@ -1,5 +1,5 @@
 ---
-uuid: a29c7d13-a59b-46c2-ac17-1d0e321f5fad
+uuid: 3cebc39f-c56d-499d-8109-6fb820b71f14
 title: "L’animal médiatique, au croisement des études animales et de l’histoire culturelle"
 author: "Emmanuelle Fantin, Valérie Schafer, Claire Sécail"
 authors: "Emmanuelle Fantin, Valérie Schafer, Claire Sécail"

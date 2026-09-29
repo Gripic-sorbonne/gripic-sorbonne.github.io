@@ -1,5 +1,5 @@
 ---
-uuid: 4df6d150-c9e5-43d7-ac19-05321bc8a9c9
+uuid: dece9e6a-7091-476e-a0bd-5412d2d044e5
 title: "Histoire, mémoire et passé au cœur des organisations"
 author: "Julien Tassel, François Granier"
 authors: "Julien Tassel, François Granier"

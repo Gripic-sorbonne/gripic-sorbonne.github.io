@@ -1,5 +1,5 @@
 ---
-uuid: a1d1e9a5-ae49-4d41-90bb-abc7bfbfd0db
+uuid: b3bc3165-8df3-4fc9-9526-388773e592c5
 title: "Cahiers de la communication interne"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

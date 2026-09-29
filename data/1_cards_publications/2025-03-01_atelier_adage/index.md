@@ -1,5 +1,5 @@
 ---
-uuid: fa253583-4c3f-4b70-b78e-3f8d39dd310b
+uuid: 6045c49c-4e3a-4cc7-9361-3236fa0aefb2
 title: "Atelier Adage"
 author: "Thibault Grison"
 authors: "Thibault Grison"

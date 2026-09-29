@@ -1,5 +1,5 @@
 ---
-uuid: 55d2f53e-9dc3-402c-a67b-dce334ec3b31
+uuid: b899c3df-4350-4a95-b5d5-0b7b046deefe
 title: "Revue française des sciences de l’information et de la communication"
 author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"

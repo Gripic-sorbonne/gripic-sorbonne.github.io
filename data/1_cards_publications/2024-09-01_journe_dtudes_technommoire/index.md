@@ -1,5 +1,5 @@
 ---
-uuid: 93d66ad4-4326-4c4b-abe9-e2539885c9fd
+uuid: 4a8e2980-b41a-42bc-bbdc-70940e031b20
 title: "Journée d’études “ Technomémoire ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

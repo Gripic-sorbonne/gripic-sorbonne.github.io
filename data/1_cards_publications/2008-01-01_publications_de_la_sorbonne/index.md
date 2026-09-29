@@ -1,5 +1,5 @@
 ---
-uuid: b42ff2e2-0bb2-481c-9a7f-a658580c3496
+uuid: b8f13336-2a84-42e7-9d08-428b4996050f
 title: "Publications de la Sorbonne"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

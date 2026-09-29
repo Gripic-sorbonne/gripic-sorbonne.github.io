@@ -1,5 +1,5 @@
 ---
-uuid: be84f32a-fad2-4630-a452-ad5d2a38e9b8
+uuid: 74e7f874-74c6-4a2b-86c9-bc9ff6da3282
 title: "Ina global.fr"
 author: "Thierry Devars"
 authors: "Thierry Devars"

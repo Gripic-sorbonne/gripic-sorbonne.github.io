@@ -1,5 +1,5 @@
 ---
-uuid: a5de4b0b-638e-4dcd-be0c-6eafef22da15
+uuid: f012c2e6-8d2e-4b6b-a528-1eb907c29cfc
 title: "Médiatisations de mode"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"

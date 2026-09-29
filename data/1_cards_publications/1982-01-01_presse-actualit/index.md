@@ -1,5 +1,5 @@
 ---
-uuid: b373188b-cef0-45df-9de0-2ddb09cf5677
+uuid: 50f66505-1da9-4c07-8844-c3425d4acf0c
 title: "Presse-Actualité"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

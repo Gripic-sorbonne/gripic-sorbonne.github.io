@@ -1,5 +1,5 @@
 ---
-uuid: 7428a951-fc7f-4b31-b6d1-dd6d10fd1a4b
+uuid: a16c8b7e-587f-4504-a979-5046cb95e6dc
 title: "La nique au temps ou le manège poétique"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: a0ab2333-957a-4692-b592-cbe194c9e396
+uuid: e9fce0b7-c793-4b4f-b94d-36adca78eaf9
 title: "sexy!"
 author: "gabo"
 authors: "gabo"
@@ -12,7 +12,7 @@ container_title: ""
 publication: true
 ---
 
-<img src="./no_img.webp" width="300px" />
+<img src="./test1.webp" width="300px" />
 
 ## Informations sur la publication
 

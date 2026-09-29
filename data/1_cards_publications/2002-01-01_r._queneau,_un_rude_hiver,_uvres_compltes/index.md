@@ -1,5 +1,5 @@
 ---
-uuid: 4358fcbc-9fce-4b53-aacd-8d7c10751af9
+uuid: 56396f82-9024-49c3-978f-e1524d03b8e1
 title: "R. Queneau, Un rude hiver, Œuvres complètes"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: c22f0198-4119-4721-8442-2b16afcb218e
+uuid: fd83ecee-0135-4314-ba0d-371cf3277f22
 title: "Communication symbolique et symbolique de la communication dans les sociétés modernes et pot-modernes"
 author: "Pauline Escande"
 authors: "Pauline Escande"

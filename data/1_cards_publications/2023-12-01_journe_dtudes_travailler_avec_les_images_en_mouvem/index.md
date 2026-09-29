@@ -1,5 +1,5 @@
 ---
-uuid: cfc050f4-53bc-4a2b-9cbd-de173bd15041
+uuid: f9b8819b-2321-40e6-bb84-5820dccbb6a6
 title: "Journée d’études “ Travailler avec les images en mouvement ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"

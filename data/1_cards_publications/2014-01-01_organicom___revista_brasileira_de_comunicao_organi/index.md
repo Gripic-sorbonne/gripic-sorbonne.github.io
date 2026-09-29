@@ -1,5 +1,5 @@
 ---
-uuid: 08c8738f-ff93-4b5a-b1c6-989fb1efc07b
+uuid: b697c19b-968b-45d8-a630-b9aed31816da
 title: "Organicom : revista brasileira de comunicação organizacional e relações públicas"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

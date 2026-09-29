@@ -1,5 +1,5 @@
 ---
-uuid: 27c95a01-074d-4c6f-ad4d-17ecebb25a4b
+uuid: b77cedd8-acf4-40a3-998d-ec6d58fd0e64
 title: "Globalization and Health"
 author: "Sandra Barteit, Ali Sié, Maurice Yé, Anneliese Depoux, Valérie Louis, Rainer Sauerborn"
 authors: "Sandra Barteit, Ali Sié, Maurice Yé, Anneliese Depoux, Valérie Louis, Rainer Sauerborn"
