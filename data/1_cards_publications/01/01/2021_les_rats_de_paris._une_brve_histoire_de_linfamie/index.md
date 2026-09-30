@@ -1,5 +1,5 @@
 ---
-uuid: 9894c23f-c5e3-48dd-a6b9-b0cf37cdd288
+uuid: c3de86d6-508d-437d-ab83-5d4a9b09e090
 title: "Les rats de Paris. Une brève histoire de l’infamie"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

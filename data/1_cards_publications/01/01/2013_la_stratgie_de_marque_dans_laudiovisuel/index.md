@@ -1,5 +1,5 @@
 ---
-uuid: 2f64f410-5b90-4a70-83da-7df30bfbba59
+uuid: 9761a582-d9d4-4509-aba8-39a50ada5a7d
 title: "La stratégie de marque dans l’audiovisuel"
 author: "Caroline Marti"
 authors: "Caroline Marti"

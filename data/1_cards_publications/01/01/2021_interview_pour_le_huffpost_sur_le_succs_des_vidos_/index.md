@@ -1,5 +1,5 @@
 ---
-uuid: a8443ee4-9d49-4f56-9718-b944e26a78ec
+uuid: 5805d09e-e78f-4399-8482-1b38fe6bd7a4
 title: "Interview pour le HuffPost sur le succès des vidéos de récits de faits divers sur les réseaux sociaux."
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

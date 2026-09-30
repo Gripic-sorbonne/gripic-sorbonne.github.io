@@ -1,5 +1,5 @@
 ---
-uuid: 887079ec-722f-44ee-8add-cc78cfa9f3bb
+uuid: 195cae89-c25e-409d-a3c7-8673a8c0b9b4
 title: "La démocratie à l’épreuve de la société numérique"
 author: "Etienne Candel, Valérie Jeanne-Perrier"
 authors: "Etienne Candel, Valérie Jeanne-Perrier"

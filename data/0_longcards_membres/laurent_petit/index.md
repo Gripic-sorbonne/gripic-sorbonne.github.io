@@ -1,5 +1,5 @@
 ---
-uuid: 969da7b3-ff0a-4d69-83f2-a412414c1a8b
+uuid: 6e96f4e4-f9a2-4e04-aa57-2d8d54ba68bc
 prettyName: LaurentPetit
 
 title: "Laurent Petit"

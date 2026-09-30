@@ -1,5 +1,5 @@
 ---
-uuid: 1a9a95b2-ec07-4f6e-90b7-c46303ac24c8
+uuid: 6ccb1e9c-959b-4eca-8c27-281d3e86283e
 title: "Conserveries mémorielles"
 author: "Julien Tassel"
 authors: "Julien Tassel"

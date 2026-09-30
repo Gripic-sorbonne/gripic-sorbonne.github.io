@@ -1,0 +1,23 @@
+---
+uuid: 7173d05a-be81-456a-b43a-f74957dd9652
+title: "Poli-Politiques des Cultural Studies"
+author: "Maxime Cervulle, Nelly Quemener"
+authors: "Maxime Cervulle, Nelly Quemener"
+abstract: "Maxime Cervulle, Nelly Quemener"
+date: "10/01/2022"
+type: "article-journal"
+url: "https://hal.science/hal-04269941"
+publisher: "Poli éditions"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Maxime Cervulle, Nelly Quemener
+- **Type de publication:** article-journal
+- **Éditeur:** Poli éditions
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04269941](https://hal.science/hal-04269941)
+

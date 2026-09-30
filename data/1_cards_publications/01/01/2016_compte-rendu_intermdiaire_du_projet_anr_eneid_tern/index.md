@@ -1,5 +1,5 @@
 ---
-uuid: 0cb1b9d5-d913-4af4-b136-06678b568a2b
+uuid: 11688850-332a-44f8-af47-75ddb97aefb9
 title: "Compte-rendu intermédiaire du projet ANR ENEID Éternités numériques Les identités numériques post mortem et les usages mémoriaux du web au prisme du genre"
 author: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
 authors: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"

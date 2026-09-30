@@ -1,5 +1,5 @@
 ---
-uuid: 5a5bdc71-aa90-4ede-9abb-a82a8ac81173
+uuid: 4817e748-6d49-4ab7-b2c9-91fec1cc30f3
 title: "Lectures de Zola. La Fortune des Rougon"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

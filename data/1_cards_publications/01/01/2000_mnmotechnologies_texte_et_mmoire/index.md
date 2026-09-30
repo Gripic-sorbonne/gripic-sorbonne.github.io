@@ -1,5 +1,5 @@
 ---
-uuid: 3a0eff8d-86f8-483c-bd26-4291901ba8c8
+uuid: 960a73a1-5dfb-4df9-aeb3-0950d6f5e4f2
 title: "Mnémotechnologies – texte et mémoire"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
