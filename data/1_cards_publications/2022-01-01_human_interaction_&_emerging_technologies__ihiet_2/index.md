@@ -1,5 +1,5 @@
 ---
-uuid: 84e0d1b2-4273-44ae-98f5-c5e50a889f6e
+uuid: 8ccab453-505b-4c17-b2a2-146cce7a478f
 title: "Human Interaction & Emerging Technologies (IHIET 2022): Artificial Intelligence & Future Applications"
 author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"

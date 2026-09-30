@@ -1,5 +1,5 @@
 ---
-uuid: 2b45c94d-5049-41d6-b15e-05844bb65238
+uuid: 28b0214d-55ce-4233-8ef6-acab8a4569e4
 title: "Communautés et pratiques d’écritures des patrimoines et des mémoires"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"

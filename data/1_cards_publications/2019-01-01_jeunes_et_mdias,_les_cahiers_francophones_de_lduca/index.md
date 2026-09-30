@@ -1,5 +1,5 @@
 ---
-uuid: e3010c9e-0fcf-42af-bace-c8f889292bda
+uuid: 02858a3b-68d7-48e9-a335-aebc1efb7075
 title: "Jeunes et médias, les cahiers francophones de l’éducation aux médias"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"

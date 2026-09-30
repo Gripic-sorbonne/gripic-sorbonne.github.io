@@ -1,5 +1,5 @@
 ---
-uuid: 4c351670-6895-4114-bbd1-d4fddb667a1a
+uuid: 1f7f75e5-3437-4500-9818-387f4c61fccc
 title: "Découvertes et explorations. XVIIème colloque annuel de la Society of Dix-Neuviémistes"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"

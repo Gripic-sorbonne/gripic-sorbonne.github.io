@@ -1,5 +1,5 @@
 ---
-uuid: 707fda2c-eb8c-4fe0-a8d8-0b511d3eabf5
+uuid: 7b16796e-6ee0-40b9-8f12-c879eb0e9e02
 title: "29ème Congrès de l’Association Internationale de Pédagogie Universitaire (AIPU)"
 author: "François Allard-Huver, Véronique Hébrard, Sylvie Michaud, Fiona Casey"
 authors: "François Allard-Huver, Véronique Hébrard, Sylvie Michaud, Fiona Casey"

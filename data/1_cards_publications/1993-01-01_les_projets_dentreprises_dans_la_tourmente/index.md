@@ -1,5 +1,5 @@
 ---
-uuid: 76d06aa9-8148-49a9-b659-e9b87822b46f
+uuid: ec1991a5-2651-4346-a01b-6eb9eb49baf7
 title: "Les projets d’entreprises dans la tourmente"
 author: "nicole D’Almeida, Alain Nutkowicz"
 authors: "nicole D’Almeida, Alain Nutkowicz"

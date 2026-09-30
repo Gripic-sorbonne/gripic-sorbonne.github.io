@@ -1,5 +1,5 @@
 ---
-uuid: f7dbd15f-2b5f-4867-81e5-bccf993b5fbd
+uuid: b1a25871-34e4-403a-859d-ca6e4e98494d
 title: "Réseaux sociaux : des vertus démocratiques, journalistiques et littéraires ?"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

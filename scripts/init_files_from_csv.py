@@ -249,6 +249,36 @@ def csv_to_markdown_publications(csv_file: str, photo_header: str = "Photo"):
                 md_file.write(generate_markdown_page_publication(pub_dict=row, image_filename=target_image))
 
 
+# def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
+#     global FORMATION_DIR
+#     with open(csv_file, mode="r", encoding="utf-8") as f:
+#         reader = csv.DictReader(f, delimiter=";")
+#         for row in reader:
+#             title_raw = get_field(row, "Title", "title", "Titre")
+#             if not title_raw:
+#                 continue
+
+#             clean_title = clean_folder_name(title_raw)
+#             form_subdir: Path = FORMATION_DIR / clean_title
+#             form_subdir.mkdir(parents=True, exist_ok=True)
+
+#             img_filename = get_field(row, photo_header, "image", "photo", default="")
+#             target_image = ""
+
+#             if img_filename and os.path.exists(f'./inputs/formations_img/{img_filename}'):
+#                 shutil.copy(f'./inputs/formations_img/{img_filename}', str(form_subdir / img_filename))
+#                 target_image = img_filename
+
+#             # Copiar imagenes adicionales necesarias para las paginas de formación
+#             extra_imgs = ["nuage_1972_1999.webp", "nuage_2000_2022.webp"]
+#             for extra_img in extra_imgs:
+#                 src_path = f'./inputs/formations_img/{extra_img}'
+#                 if os.path.exists(src_path):
+#                     shutil.copy(src_path, str(form_subdir / extra_img))
+
+#             with (form_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
+#                 md_file.write(generate_markdown_page_formation(form_dict=row, image_filename=target_image))
+
 def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
     global FORMATION_DIR
     with open(csv_file, mode="r", encoding="utf-8") as f:
@@ -262,6 +292,7 @@ def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
             form_subdir: Path = FORMATION_DIR / clean_title
             form_subdir.mkdir(parents=True, exist_ok=True)
 
+            # 1. Copiar imagen principal (portada)
             img_filename = get_field(row, photo_header, "image", "photo", default="")
             target_image = ""
 
@@ -269,13 +300,20 @@ def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
                 shutil.copy(f'./inputs/formations_img/{img_filename}', str(form_subdir / img_filename))
                 target_image = img_filename
 
-            # Copiar imagenes adicionales necesarias para las paginas de formación
-            extra_imgs = ["nuage_1972_1999.webp", "nuage_2000_2022.webp"]
-            for extra_img in extra_imgs:
-                src_path = f'./inputs/formations_img/{extra_img}'
-                if os.path.exists(src_path):
-                    shutil.copy(src_path, str(form_subdir / extra_img))
+            # 2. Copiar automáticamente cualquier imagen extra referenciada en la descripción
+            description = get_field(row, "Description", "description", "abstract")
+            
+            # Busca patrones como src='./nombre.ext', src="nombre.ext" o ![](nombre.ext)
+            extra_imgs = re.findall(r'(?:src=[\'"]\.\/|src=[\'"]|!\[.*?\]\(\.\/|!\[.*?\]\()([^\'"\)]+\.(?:webp|png|jpg|jpeg|svg))[\'"]?', description)
 
+            for extra_img in set(extra_imgs):
+                # Evitar duplicar si es la misma portada
+                if extra_img != img_filename:
+                    src_path = f'./inputs/formations_img/{extra_img}'
+                    if os.path.exists(src_path):
+                        shutil.copy(src_path, str(form_subdir / extra_img))
+
+            # 3. Generar archivo Markdown
             with (form_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_formation(form_dict=row, image_filename=target_image))
 

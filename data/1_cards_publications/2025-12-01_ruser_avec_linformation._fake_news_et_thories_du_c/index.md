@@ -1,5 +1,5 @@
 ---
-uuid: 677ea553-6402-4c9a-8121-184c54ea3514
+uuid: ee900962-dec5-4ea3-9f72-3f92287291cf
 title: "Ruser avec l’information. Fake news et théories du complot de l’Antiquité à nos jours"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

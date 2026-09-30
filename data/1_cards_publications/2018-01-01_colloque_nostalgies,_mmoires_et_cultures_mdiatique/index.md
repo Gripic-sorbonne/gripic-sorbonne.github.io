@@ -1,5 +1,5 @@
 ---
-uuid: 550b355b-a81e-4911-946a-f6e5e1950fe1
+uuid: f2be2059-41dc-45d7-acd3-443461a15179
 title: "Colloque “ Nostalgies, mémoires et cultures médiatiques. Entre esthétique, marchandisation et politisation ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

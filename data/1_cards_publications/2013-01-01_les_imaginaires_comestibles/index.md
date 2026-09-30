@@ -1,5 +1,5 @@
 ---
-uuid: 64ce1125-d632-4970-8d99-bab5aa24f646
+uuid: 19fc25f0-b2d7-429f-bccd-92797f3a5f58
 title: "Les imaginaires comestibles"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"

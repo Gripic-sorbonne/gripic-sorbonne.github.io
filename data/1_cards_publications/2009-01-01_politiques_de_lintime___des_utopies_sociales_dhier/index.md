@@ -1,5 +1,5 @@
 ---
-uuid: 68103947-57b3-4c54-86d2-979fa097363f
+uuid: bebb772a-db7a-45e0-87e8-b5700d5f1fcc
 title: "Politiques de l’intime : des utopies sociales d’hier aux mondes du travail d’aujourd’hui"
 author: "Olivia Foli"
 authors: "Olivia Foli"

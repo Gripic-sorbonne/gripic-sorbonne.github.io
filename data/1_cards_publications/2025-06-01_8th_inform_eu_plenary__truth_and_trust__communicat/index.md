@@ -1,5 +1,5 @@
 ---
-uuid: e2cfa52a-6709-46cf-9783-99ef0f974405
+uuid: 5013b7d2-583f-4748-a36a-31572ad5e090
 title: "8th INFORM EU Plenary: Truth and Trust: Communicators VS Disinformation"
 author: "Thibault Grison"
 authors: "Thibault Grison"

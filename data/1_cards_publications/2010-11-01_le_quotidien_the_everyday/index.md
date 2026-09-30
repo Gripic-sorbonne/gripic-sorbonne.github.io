@@ -1,5 +1,5 @@
 ---
-uuid: beaff3f7-17bc-4dd7-aaad-066c589f5115
+uuid: 1d6bf06b-bba0-45bd-bd92-38e956ea0d3d
 title: "Le Quotidien – The Everyday"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

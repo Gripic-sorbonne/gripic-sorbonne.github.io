@@ -1,5 +1,5 @@
 ---
-uuid: 8d25b032-735e-43ab-a1db-4e9d59a5eda0
+uuid: b7b56796-5706-493b-8ab9-c087a9290fa7
 title: "Les défis de la gouvernance mondiale, 23ème Congrès mondial de science politique"
 author: "Camille Rondot"
 authors: "Camille Rondot"
