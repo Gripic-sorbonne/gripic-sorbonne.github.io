@@ -1,5 +1,5 @@
 ---
-uuid: c5b8f53c-636f-4224-90e3-6e06b61a8396
+uuid: e70d7df7-aaaf-4b45-be18-be146ebd5cf7
 title: "Actes des doctorales de la société des sciences de l’information et de la communication"
 author: "Maya Mazzacane Gripic"
 authors: "Maya Mazzacane Gripic"

@@ -1,5 +1,5 @@
 ---
-uuid: fd05483e-7043-4ebe-91a2-88f17b19e14f
+uuid: 00059b5d-892b-4bad-9657-31208f5370e3
 title: "L’Opinion publique"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

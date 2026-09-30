@@ -1,5 +1,5 @@
 ---
-uuid: d62e79db-04b8-4745-8f80-4f1e9be1838b
+uuid: 7449e8c2-d156-4a1a-b077-566d40217782
 title: "Communication & organisation : perspectives critiques"
 author: "Julien Tassel"
 authors: "Julien Tassel"

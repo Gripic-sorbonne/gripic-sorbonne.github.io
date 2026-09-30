@@ -1,5 +1,5 @@
 ---
-uuid: d7eb9ef5-4b5f-455c-bfa9-45fc18f76119
+uuid: be0a042e-b71b-4897-a8fc-e6cc9d144619
 title: "(Re)Shaping Societies: Global Tasks for Public Relations in the 21st Century, London College of Communication, University of Arts London"
 author: "François Allard-Huver, Julie Escurignan"
 authors: "François Allard-Huver, Julie Escurignan"

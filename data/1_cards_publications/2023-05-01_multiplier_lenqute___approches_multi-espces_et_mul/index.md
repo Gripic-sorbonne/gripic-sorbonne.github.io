@@ -1,5 +1,5 @@
 ---
-uuid: fb0cc9d9-701c-444f-acd1-fc4a4c6b5365
+uuid: bc7ed82f-d6a7-4cb7-83c6-cf6b283290be
 title: "Multiplier l’enquête : approches multi-espèces et multi- scalaires en sciences humaines et sociales. Colloque des doctorant.es de la F3S CODOFE 2023"
 author: "Coline Reille"
 authors: "Coline Reille"

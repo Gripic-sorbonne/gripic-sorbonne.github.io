@@ -1,5 +1,5 @@
 ---
-uuid: bb943b68-62a3-4bc7-899d-ff4835eefd68
+uuid: 21a337db-fc31-4b1a-aece-a218be4b2673
 title: "Congrès international SPHM Rêver d’un autre monde. Médias, utopies et expérimentations de l’époque moderne à nos jours"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

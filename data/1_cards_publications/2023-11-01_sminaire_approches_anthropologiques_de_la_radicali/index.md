@@ -1,5 +1,5 @@
 ---
-uuid: 2aba50fd-452e-4343-b8e7-54f43bc7df3f
+uuid: c190787e-86d7-4b11-9556-6f29b1a9b7a4
 title: "Séminaire “ Approches anthropologiques de la radicalisation ”"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"

@@ -1,5 +1,5 @@
 ---
-uuid: 04f7c55a-9458-41c3-a56d-f298da6e6e0c
+uuid: 1b7eb1ef-df94-4f51-b36d-734847e2c129
 title: "5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 & 1-2 June 2011"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"

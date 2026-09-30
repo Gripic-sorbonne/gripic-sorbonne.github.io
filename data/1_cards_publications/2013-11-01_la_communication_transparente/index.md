@@ -1,5 +1,5 @@
 ---
-uuid: fa17b3fb-cb38-4092-afd5-2d894e572b38
+uuid: b4d2b9e9-245f-44c4-aa8a-f8b8866183ea
 title: "La Communication Transparente"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

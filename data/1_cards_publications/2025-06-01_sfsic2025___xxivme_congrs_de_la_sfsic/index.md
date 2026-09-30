@@ -1,5 +1,5 @@
 ---
-uuid: 2c837493-9075-4d9f-a7dc-4cf30f94d90b
+uuid: ed5a657d-dc5c-4577-abdb-25422629bb89
 title: "SFSIC2025 : XXIVème Congrès de la Sfsic"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"
