@@ -1,5 +1,5 @@
 ---
-uuid: 0b90a2d8-cfdc-4a64-8d64-b68ab6cf569e
+uuid: a67c6f20-25ac-4adc-841f-d7ce53e8335c
 title: "IA, culture et médias"
 author: "Thibault Grison, Virginie Julliard"
 authors: "Thibault Grison, Virginie Julliard"

@@ -1,5 +1,5 @@
 ---
-uuid: 18f08e90-c920-4bbd-bb22-e3ae45d339cc
+uuid: 53a75a38-eb97-4871-9682-7e51bafcd3eb
 title: "La défiance des consommateurs face aux industries agro-alimentaires"
 author: "Julien Tassel, Camille Brachet"
 authors: "Julien Tassel, Camille Brachet"

@@ -1,5 +1,5 @@
 ---
-uuid: 342d5af5-e2ad-4aff-9bee-086af2c73675
+uuid: 39aba412-0788-4276-9c0c-8633e7da78fd
 title: "Journée d’études du CERES : Travailler avec les images"
 author: "Édouard Bouté, Virginie Julliard"
 authors: "Édouard Bouté, Virginie Julliard"

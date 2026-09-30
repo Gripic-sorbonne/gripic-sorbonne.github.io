@@ -1,5 +1,5 @@
 ---
-uuid: 4a6aef1c-27b6-4a11-af7b-c08bec7d5217
+uuid: ade69461-4e3d-4bf4-a19b-d88ded5ab861
 title: "Comicalités. Études de culture graphique"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

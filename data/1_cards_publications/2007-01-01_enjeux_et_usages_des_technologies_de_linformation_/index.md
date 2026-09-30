@@ -1,5 +1,5 @@
 ---
-uuid: 5e1f188d-bece-471e-b305-4abf394ca0de
+uuid: 1f750473-50bb-4b05-b025-cf5229d1c698
 title: "Enjeux et Usages des Technologies de l’Information et de la Communication. Médias et diffusion de l’information : vers une société ouverte"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

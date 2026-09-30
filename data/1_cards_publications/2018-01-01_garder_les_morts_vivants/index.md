@@ -1,5 +1,5 @@
 ---
-uuid: 9baec556-8219-4a8d-8281-fedcb10fdc75
+uuid: f003a8fb-868d-4556-92e9-28de35a093b3
 title: "Garder les morts vivants"
 author: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
 authors: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"

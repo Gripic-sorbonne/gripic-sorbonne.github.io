@@ -1,5 +1,5 @@
 ---
-uuid: 80023751-1e11-4fab-9931-6d38ab806352
+uuid: b285d5a5-7a15-4433-a443-99fb14298571
 title: "Paroles de pub"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

@@ -1,5 +1,5 @@
 ---
-uuid: a25b0b7c-0407-4de1-9ceb-d6db4bfa67af
+uuid: 01973830-fbf5-4aa1-8e41-74597e54475d
 title: "Master 2 Communication en transformation"
 abstract: ""
 url: "https://www.celsa.fr"
@@ -9,7 +9,7 @@ url: "https://www.celsa.fr"
 
 # Master 2 Communication en transformation
 
-Une formation pour les carrières intellectuelles de haut niveau
+# Une formation pour les carrières intellectuelles de haut niveau
 
 Le GRIPIC a pour mission la formation à la recherche. Pour y répondre, les membres du laboratoire sont particulièrement impliqués dans le parcours « Recherche et développement » du master du CELSA en sciences de l’information et de la communication. Le master poursuit une double exigence:
 - former à la recherche par l’apprentissage des concepts, l’application des méthodologies en sciences sociales, la problématisation des enjeux, et la pratique de la démarche réflexive

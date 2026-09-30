@@ -1,5 +1,5 @@
 ---
-uuid: 5238d8ff-bcd5-4ca5-b18b-00eaa17de872
+uuid: 4a5edcb8-7b24-49dc-a62a-a25c2e0fbc0a
 title: "XXIVe congrès de la SFSIC - Transition(s)"
 author: "Ines Garmon, Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Daniel Llerena"
 authors: "Ines Garmon, Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Daniel Llerena"

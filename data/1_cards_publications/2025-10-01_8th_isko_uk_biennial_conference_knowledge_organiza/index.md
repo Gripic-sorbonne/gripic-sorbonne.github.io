@@ -1,5 +1,5 @@
 ---
-uuid: 026ed8e3-dc56-47ae-90f7-0f3f8cb60beb
+uuid: 72800de0-4e94-4208-b323-e021215edcd7
 title: "8th ISKO UK biennial conference ”Knowledge Organization in the Age of AI: Innovation, Integration and Impact”"
 author: "Joana Casenave, Widad Mustafa El Hadi, Thibault Grison"
 authors: "Joana Casenave, Widad Mustafa El Hadi, Thibault Grison"

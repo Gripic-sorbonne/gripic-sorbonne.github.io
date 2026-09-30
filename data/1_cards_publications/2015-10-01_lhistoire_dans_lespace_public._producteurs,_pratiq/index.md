@@ -1,5 +1,5 @@
 ---
-uuid: 46132150-2838-44f4-bd71-84a98f92ecc2
+uuid: 38e27cf3-1554-4a67-8206-14f1a4e040cf
 title: "L’histoire dans l’espace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerrannée"
 author: "Julien Tassel, hecate vergopoulos"
 authors: "Julien Tassel, hecate vergopoulos"

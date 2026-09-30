@@ -1,5 +1,5 @@
 ---
-uuid: 423557b4-0a6f-4350-b5b2-087487e36201
+uuid: 3f0d8079-81c5-4e76-85a4-624a9d31f00d
 title: "Le grand reportage : formes historiques, littéraires et médiatiques de l’enquête. Les exemples d’Albert Londres et de ses successeurs"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

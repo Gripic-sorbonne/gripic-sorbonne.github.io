@@ -1,5 +1,5 @@
 ---
-uuid: bb55861b-b372-48dc-8a61-00d53f780db1
+uuid: 2ef4f070-a17f-42f0-ac4b-7c51db308239
 title: "Mises en scènes politiques et problèmes publics"
 author: "Thierry Devars"
 authors: "Thierry Devars"

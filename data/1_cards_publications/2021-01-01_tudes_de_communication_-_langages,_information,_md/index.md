@@ -1,5 +1,5 @@
 ---
-uuid: 20dea2d0-cd99-4858-9917-2d76d9ae5133
+uuid: cc93a70c-4401-43a7-a63e-9da65709067f
 title: "Études de communication - Langages, information, médiations"
 author: "Thierry Devars, Lucie Raymond, Mathilde Vassor"
 authors: "Thierry Devars, Lucie Raymond, Mathilde Vassor"

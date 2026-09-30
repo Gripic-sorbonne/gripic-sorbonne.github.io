@@ -1,5 +1,5 @@
 ---
-uuid: f6cc2800-a477-4476-9cd3-df2f68f37589
+uuid: 4e5c99eb-10fd-4a68-be41-7598539f532f
 title: "La vie quotidienne du franco-allemand ou l’exercice du pouvoir périodique. Comparaison du Monde et de la FAZ (1949-2013)"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

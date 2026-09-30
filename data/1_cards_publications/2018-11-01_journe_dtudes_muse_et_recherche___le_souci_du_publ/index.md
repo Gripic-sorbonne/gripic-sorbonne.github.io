@@ -1,5 +1,5 @@
 ---
-uuid: 452eccd2-9e5e-4080-a8d4-28adc32bfc5e
+uuid: 77603664-2f95-4896-bb67-e5260e849e42
 title: "Journée d’études Musée et recherche : le souci du public"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

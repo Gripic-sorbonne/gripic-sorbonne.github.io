@@ -1,5 +1,5 @@
 ---
-uuid: 8dc0583e-653b-43e8-b401-32fe32691291
+uuid: e62d071a-06eb-4e91-88d7-8a508f6058a5
 title: "Le songe de J.-M. Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

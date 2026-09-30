@@ -1,5 +1,5 @@
 ---
-uuid: cc7a6f11-95a5-421c-b3d2-de5520bddbc9
+uuid: 9b78216e-3a01-4496-a728-d71228c53123
 title: "Dictionnaire culturel et littéraire de l’insecte"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

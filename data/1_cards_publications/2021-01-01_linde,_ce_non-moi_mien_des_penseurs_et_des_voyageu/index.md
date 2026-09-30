@@ -1,5 +1,5 @@
 ---
-uuid: 50515ff5-1f77-4ae0-a20c-cde73e79ca60
+uuid: 8080d94e-275a-4e50-bb5d-25f983f19a99
 title: "L’Inde, ce non-moi mien des penseurs et des voyageurs européens, sous la direction de Vanezia Parlea"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

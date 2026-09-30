@@ -1,5 +1,5 @@
 ---
-uuid: eb5382e8-36aa-40c7-9f01-10505492139a
+uuid: 1ec8bc17-9216-4acc-9c27-a18d972931dd
 title: "Séminaire “ Médiamorphoses ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

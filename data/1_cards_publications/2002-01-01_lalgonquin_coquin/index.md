@@ -1,5 +1,5 @@
 ---
-uuid: f7241d8f-bc0f-48b3-9035-37f8ca06dbab
+uuid: cd37d4f0-10b2-499e-b2df-f6321bceb577
 title: "L’algonquin coquin"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
