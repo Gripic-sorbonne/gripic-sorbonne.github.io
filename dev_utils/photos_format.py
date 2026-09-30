@@ -2,10 +2,10 @@ from pathlib import Path
 from PIL import Image
 
 # Source folder
-PHOTOS_DIR = Path("../scripts/inputs/formations_img_old")
+PHOTOS_DIR = Path("../scripts/inputs/cd")
 
 # Destination folder for the converted images
-OUTPUT_DIR = Path("../scripts/inputs/formations_img")
+OUTPUT_DIR = Path("../scripts/inputs/new")
 
 # Supported image formats
 EXTENSIONS = {".jpg", ".jpeg", ".png", ".JPG", ".PNG", ".JPEG"}

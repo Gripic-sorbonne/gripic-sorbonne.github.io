@@ -1,5 +1,5 @@
 ---
-uuid: 985b1187-a9f8-443f-8018-6b260a7c2ab0
+uuid: 8b5054b1-9a5c-4b4e-abc6-a2bf6ec31345
 title: "Journée d’étude Zoosemiotique et cultures animalières"
 author: "Coline Reille"
 authors: "Coline Reille"

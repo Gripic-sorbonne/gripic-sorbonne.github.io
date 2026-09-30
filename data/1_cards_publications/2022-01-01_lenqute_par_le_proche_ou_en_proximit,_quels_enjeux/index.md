@@ -1,5 +1,5 @@
 ---
-uuid: d2c7c0b8-320d-4c1d-b566-e2a2661bf328
+uuid: 343a4665-2362-4152-8ca7-04f784659e26
 title: "L’enquête par le proche ou en proximité, quels enjeux pour les SIC ?"
 author: "Pauline Escande, Pauline Brouard"
 authors: "Pauline Escande, Pauline Brouard"

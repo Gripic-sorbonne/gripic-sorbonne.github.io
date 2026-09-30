@@ -1,5 +1,5 @@
 ---
-uuid: f9a3163f-812a-45f1-8f4e-e0e79257b299
+uuid: 1dd70ee0-4787-4791-8418-d79c6d36b970
 title: "Direction de thèse et d’habilitation à diriger des recherches"
 abstract: ""
 url: ""

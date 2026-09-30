@@ -1,5 +1,5 @@
 ---
-uuid: baaedd45-5ba3-40f7-a9dc-bdee19efe6bf
+uuid: 3cfa90ca-6a88-436d-83f8-0219a74fa28d
 title: "Défier le temps, une affaire de mode"
 author: "Julien Tassel"
 authors: "Julien Tassel"

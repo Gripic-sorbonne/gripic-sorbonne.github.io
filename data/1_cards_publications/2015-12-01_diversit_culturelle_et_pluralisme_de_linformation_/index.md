@@ -1,5 +1,5 @@
 ---
-uuid: 93a38f52-1807-442e-a192-fd7ff6cec994
+uuid: 4cd6ab89-249d-4c1a-aeeb-2fc919ada9f5
 title: "Diversité culturelle et pluralisme de l’information à l’ère numérique : mêmes combats ?"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"

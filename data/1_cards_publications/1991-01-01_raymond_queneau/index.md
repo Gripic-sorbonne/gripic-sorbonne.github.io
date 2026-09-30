@@ -1,5 +1,5 @@
 ---
-uuid: 0c5c0108-d376-4de7-a1aa-623197504d64
+uuid: 25c0fcc5-760a-4d92-b5e4-05e2000b4dc5
 title: "Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: f5194380-613f-4cc6-b141-84a157768195
+uuid: 869b8264-9b62-43b2-b537-00e3a41b23a2
 title: "Plume : revue semestrielle de l’Association iranienne de langue et de littérature françaises"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"

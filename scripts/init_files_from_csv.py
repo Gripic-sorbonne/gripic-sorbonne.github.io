@@ -131,26 +131,6 @@ def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> s
     return md_page
 
 
-# def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> str:
-#     title = get_field(form_dict, "Title", "title", "Titre")
-#     description = get_field(form_dict, "Description", "description", "abstract")
-#     url = get_field(form_dict, "URL", "url", "Lien")
-
-#     # Pasamos abstract="" para evitar el texto en la tarjeta y el recuadro destacado
-#     md_page: str = make_yaml_header_formation(title=title, abstract="", url=url)
-    
-#     if image_filename:
-#         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
-
-#     md_page += f"# {title}\n\n"
-#     if description:
-#         md_page += f"{description}\n\n"
-        
-#     if url:
-#         md_page += f"[En savoir plus / En savoir +]({url})\n\n"
-
-#     return md_page
-
 def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> str:
     title = get_field(form_dict, "Title", "title", "Titre")
     description = get_field(form_dict, "Description", "description", "abstract")
@@ -161,7 +141,6 @@ def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> st
     
     if image_filename:
         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
-
 
     if description:
         md_page += f"{description}\n\n"
@@ -289,6 +268,13 @@ def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
             if img_filename and os.path.exists(f'./inputs/formations_img/{img_filename}'):
                 shutil.copy(f'./inputs/formations_img/{img_filename}', str(form_subdir / img_filename))
                 target_image = img_filename
+
+            # Copiar imagenes adicionales necesarias para las paginas de formación
+            extra_imgs = ["nuage_1972_1999.webp", "nuage_2000_2022.webp"]
+            for extra_img in extra_imgs:
+                src_path = f'./inputs/formations_img/{extra_img}'
+                if os.path.exists(src_path):
+                    shutil.copy(src_path, str(form_subdir / extra_img))
 
             with (form_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_formation(form_dict=row, image_filename=target_image))

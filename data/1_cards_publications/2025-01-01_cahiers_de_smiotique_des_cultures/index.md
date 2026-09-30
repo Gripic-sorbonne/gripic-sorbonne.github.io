@@ -1,5 +1,5 @@
 ---
-uuid: 2cc4695e-57c1-48e2-aad5-a5393441d92d
+uuid: b130ec39-629d-4a3d-b417-2a6f686f70a1
 title: "Cahiers de sémiotique des cultures"
 author: "Joachim Fischer, Lucille Lamache"
 authors: "Joachim Fischer, Lucille Lamache"

@@ -1,5 +1,5 @@
 ---
-uuid: 14066d9d-e580-4821-9205-7fd8210bea14
+uuid: c2947e9f-a488-4686-90bf-41763eba97ee
 title: "Journée d’études “ Rats des villes : de la connaissance à la gestion ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

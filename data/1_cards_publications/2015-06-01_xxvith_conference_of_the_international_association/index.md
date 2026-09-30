@@ -1,5 +1,5 @@
 ---
-uuid: 60b01b06-749b-45f8-ba8f-133672ec2c56
+uuid: 4bb257c0-a557-4ea3-aded-8f132f9fbb9d
 title: "XXVIth Conference of the International Association for Media and History (IAMHIST) “ Media and History Revisited"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

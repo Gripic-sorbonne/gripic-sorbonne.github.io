@@ -1,13 +1,13 @@
 ---
-uuid: 9cbb1354-21ad-4cca-81a5-78c65fcb3753
+uuid: 7579e6b4-0ada-47e9-a5c1-9d35750132aa
 title: "Le doctorat en sciences de l’information et de la communication au GRIPIC"
 abstract: ""
-url: "https://ed433.sorbonne-universite.fr"
+url: "doctorat.webp"
 ---
 
 <img src="./doctorat.webp" width="100%" />
 
-Présentation du parcours doctoral en Sciences de l’Information et de la Communication (71e section) au sein de Sorbonne Université.
+Le doctorat en sciences de l’information et de la communication au GRIPIC"
 
-[En savoir plus / En savoir +](https://ed433.sorbonne-universite.fr)
+[En savoir plus / En savoir +](doctorat.webp)
 

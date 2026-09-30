@@ -1,5 +1,5 @@
 ---
-uuid: 06801c3e-8e75-49dd-b18a-fe9d9203f174
+uuid: cc36f428-cafc-4d56-b562-e02fa692cc29
 title: "Séminaire du GRIPIC, axe médiations marchandes"
 author: "Celia Banos, Marie-lise Buisson"
 authors: "Celia Banos, Marie-lise Buisson"

@@ -1,5 +1,5 @@
 ---
-uuid: c40bc713-6ad7-431c-8a1a-72773819a69d
+uuid: a91de7b1-6fd5-4e13-800c-109618f633b0
 title: "Revue des Deux Mondes"
 author: "Pauline Escande"
 authors: "Pauline Escande"
