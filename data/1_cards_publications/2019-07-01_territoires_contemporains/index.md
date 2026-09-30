@@ -1,5 +1,5 @@
 ---
-uuid: 213235c9-22a4-40bb-b012-108d354a4fb2
+uuid: da8c92a0-c9c2-4061-aab9-1ec47a19c779
 title: "Territoires contemporains"
 author: "Christèle Couleau, Oriane Deseilligny"
 authors: "Christèle Couleau, Oriane Deseilligny"

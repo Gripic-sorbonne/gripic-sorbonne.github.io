@@ -1,5 +1,5 @@
 ---
-uuid: 35c3486a-a534-4985-ab5e-7ec07e436c85
+uuid: 2c6a83f7-6940-47a3-bec9-2aaac5a76f77
 title: "La circulation des idées d’extrême droite"
 author: "Clara Bordier, Pascal Froissart"
 authors: "Clara Bordier, Pascal Froissart"

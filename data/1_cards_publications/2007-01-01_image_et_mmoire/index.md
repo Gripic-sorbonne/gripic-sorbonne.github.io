@@ -1,5 +1,5 @@
 ---
-uuid: 4fed3ca2-c166-4403-b648-273277e669b9
+uuid: 0f2fab1a-b290-42ad-945e-ad8a63d379e2
 title: "Image et mémoire"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

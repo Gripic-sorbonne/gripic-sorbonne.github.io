@@ -1,5 +1,5 @@
 ---
-uuid: 48b1847d-a6c7-49bd-a905-930af7ccd387
+uuid: 24d71d0b-0864-4355-b263-ac8b2f2282ca
 title: "Littérature et Cinéma : une perspective comparée"
 author: "Pauline Escande"
 authors: "Pauline Escande"

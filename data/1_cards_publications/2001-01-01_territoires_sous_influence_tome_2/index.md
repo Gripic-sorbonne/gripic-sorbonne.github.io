@@ -1,5 +1,5 @@
 ---
-uuid: ab0853b4-aa32-494b-9942-c8a096a5a567
+uuid: 28442620-1d63-470b-a7d4-3fc9b60bc8e4
 title: "Territoires sous Influence Tome 2"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

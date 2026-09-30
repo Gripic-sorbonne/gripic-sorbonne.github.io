@@ -1,5 +1,5 @@
 ---
-uuid: dadbe719-3773-4150-8dd2-9db2761431a4
+uuid: f4c2872f-7236-46dd-a901-67ead74e22a1
 title: "Journée d’études le Grand Paris qui Mange"
 author: "Sophie Corbillé, Julien Tassel"
 authors: "Sophie Corbillé, Julien Tassel"

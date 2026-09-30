@@ -1,5 +1,5 @@
 ---
-uuid: 5e4bd803-7e56-4dde-9fff-98ccecefaabe
+uuid: 3700804d-c6bb-47ce-9393-01aa334c9391
 title: "Questionner le tournant créatif : dispositifs, processus et représentation"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

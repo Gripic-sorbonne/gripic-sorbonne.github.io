@@ -1,5 +1,5 @@
 ---
-uuid: bae009d0-aefe-4d2b-885d-cbfc15fc29db
+uuid: ba745fb2-3b61-4eee-9f47-0767e6b4ef07
 title: "Critique et médium: xxe–xxie siècles"
 author: "Etienne Candel"
 authors: "Etienne Candel"

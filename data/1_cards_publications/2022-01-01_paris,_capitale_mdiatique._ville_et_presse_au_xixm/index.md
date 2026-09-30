@@ -1,5 +1,5 @@
 ---
-uuid: 5a7e9c21-ac94-408b-b2de-4fd4088bba43
+uuid: eb0c351f-3064-46e4-a085-c75d37419a41
 title: "Paris, capitale médiatique. Ville et presse au XIXème siècle"
 author: "Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé"

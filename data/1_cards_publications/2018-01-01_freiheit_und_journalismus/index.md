@@ -1,5 +1,5 @@
 ---
-uuid: 7aedc334-9f09-443f-b41c-3bc1395607dd
+uuid: b2dd9892-c10e-40b7-99c9-e1ad2ea34def
 title: "Freiheit und Journalismus"
 author: "Lisa Bolz, Juliette Charbonneaux"
 authors: "Lisa Bolz, Juliette Charbonneaux"
