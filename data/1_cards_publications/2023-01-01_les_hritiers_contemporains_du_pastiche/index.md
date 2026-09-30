@@ -1,5 +1,5 @@
 ---
-uuid: 7334a2fc-8a97-41a4-9cc2-6e60084daca0
+uuid: dbaa18f5-28b8-4ce6-8531-2c33f79bca55
 title: "Les héritiers contemporains du pastiche"
 author: "Thierry Devars"
 authors: "Thierry Devars"

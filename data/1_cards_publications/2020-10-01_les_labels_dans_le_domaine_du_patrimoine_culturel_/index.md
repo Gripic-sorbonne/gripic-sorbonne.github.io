@@ -1,5 +1,5 @@
 ---
-uuid: 40e76b41-789a-4d6a-9dc3-38d6889af614
+uuid: f07622f6-3c35-48a3-b5c4-3460a5cd7ee5
 title: "Les Labels dans le domaine du patrimoine culturel et naturel"
 author: "Olivier AÏM, Emmanuelle Lallement"
 authors: "Olivier AÏM, Emmanuelle Lallement"

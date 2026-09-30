@@ -1,5 +1,5 @@
 ---
-uuid: 4fd3b3e9-e2b9-47a2-afb3-9f8ae1ca249e
+uuid: c538dc25-d8ee-478f-9951-67e358142031
 title: "Une archéologie de l’énonciation éditoriale avec Massin"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 79c66e62-6f57-4b67-89e1-92c3140d33e2
+uuid: cb07ca30-5acf-4445-8b02-e7e874906ae1
 title: "Présidente-toi !"
 author: "Thierry Devars"
 authors: "Thierry Devars"

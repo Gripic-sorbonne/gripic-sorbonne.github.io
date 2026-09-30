@@ -1,5 +1,5 @@
 ---
-uuid: be6c22a7-a970-45cd-bc00-e2f994a08d22
+uuid: 5c18a673-8c7b-4ca7-a150-e9daa51d2434
 title: "Sémiotique et anthropologie : croisements disciplinaires, pratiques et méthodes d’enquête, théories pour l’interprétation"
 author: "Pauline Brouard"
 authors: "Pauline Brouard"

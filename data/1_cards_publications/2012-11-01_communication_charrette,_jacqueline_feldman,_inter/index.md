@@ -1,5 +1,5 @@
 ---
-uuid: 6f26e880-2fb0-40a4-9b11-f926fbe3da6e
+uuid: 690744d0-e96f-48d1-b670-6d82398b76f1
 title: "Communication Charrette, Jacqueline Feldman, International scholars and researchers workshop, CELSA"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

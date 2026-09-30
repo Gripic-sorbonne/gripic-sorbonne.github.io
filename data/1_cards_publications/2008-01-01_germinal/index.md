@@ -1,5 +1,5 @@
 ---
-uuid: 4403c9fa-ef76-478e-bd52-d6eafb4770ed
+uuid: 2452f22b-8652-41e8-a690-1c14128b0e0c
 title: "Germinal"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

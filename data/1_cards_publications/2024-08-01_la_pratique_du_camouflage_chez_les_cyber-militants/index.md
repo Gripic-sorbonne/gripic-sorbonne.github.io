@@ -1,5 +1,5 @@
 ---
-uuid: 81c78f0b-b342-4b52-b556-df90f540768a
+uuid: e517adcf-d128-4fcb-bdb6-64b3219ab41d
 title: "La pratique du camouflage chez les cyber-militants de l’Etat Islamique. Ethnographie de djihadosphères entre 2018 et 2024. Bulletin de l’Observatoire international du religieux (n50)"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"

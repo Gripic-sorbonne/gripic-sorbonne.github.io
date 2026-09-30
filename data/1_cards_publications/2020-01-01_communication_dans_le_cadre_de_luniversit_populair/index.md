@@ -1,5 +1,5 @@
 ---
-uuid: 3c68ffa0-eaf6-41ad-b595-35b8889d59df
+uuid: a29acada-bd8e-4ad4-9788-d0e1c373e449
 title: "Communication dans le cadre de l’Université populaire IDEE"
 author: "Pauline Escande"
 authors: "Pauline Escande"

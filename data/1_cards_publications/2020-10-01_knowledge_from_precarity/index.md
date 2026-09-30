@@ -1,5 +1,5 @@
 ---
-uuid: ea9b0f32-2b55-4430-ada5-c69c9098b3e6
+uuid: 6babda0c-5f59-421e-b7a9-b47bcff3ebb6
 title: "knowledge from precarity"
 author: "Joëlle Le Marec, Hester Du Plessis"
 authors: "Joëlle Le Marec, Hester Du Plessis"

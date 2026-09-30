@@ -1,5 +1,5 @@
 ---
-uuid: 1b275660-6b61-4a26-b605-f4435d17d66d
+uuid: 3050a6f7-8796-432a-aa1b-017221b67a54
 title: "Et demain j’apprends quoi ? Le leurre démocratique du code"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

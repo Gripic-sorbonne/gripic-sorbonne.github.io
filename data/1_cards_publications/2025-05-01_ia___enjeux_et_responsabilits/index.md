@@ -1,5 +1,5 @@
 ---
-uuid: 9b07653f-dd4b-4df8-a5fd-2d1ba1a7f865
+uuid: 099c0d0b-73c4-416c-89ea-24c2557887ee
 title: "IA : enjeux et responsabilités"
 author: "Laurent Petit"
 authors: "Laurent Petit"

@@ -1,5 +1,5 @@
 ---
-uuid: c204f077-a418-4e05-ba0c-70dc4c12a22d
+uuid: 72fe60fd-3660-4881-9f22-cab75ce20d0d
 title: "Le numerique à l’ère de l’Internet des objets, de l’hypertexte à l’hyper-objet : actes de H2PTM’15, 14, 15 et 16 octobre 2015"
 author: "Sarah Labelle, Marion Rollandin"
 authors: "Sarah Labelle, Marion Rollandin"

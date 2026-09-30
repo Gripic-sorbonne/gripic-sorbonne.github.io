@@ -1,5 +1,5 @@
 ---
-uuid: bdd8e253-91a5-46a4-bfde-69b5bbf2ee70
+uuid: e2fb677a-bae3-483d-badd-f68c11a1d9b9
 title: "Cycle Les écrivains et la presse"
 author: "Sophie Robert, Adeline Wrona, Alain Pagès, Daniel Kenisgberg"
 authors: "Sophie Robert, Adeline Wrona, Alain Pagès, Daniel Kenisgberg"

@@ -1,5 +1,5 @@
 ---
-uuid: c084d714-f683-4280-9f48-5b3e223be7fe
+uuid: c648722b-9106-4c4d-b244-d14ff160db8b
 title: "L’Indécence touristique"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

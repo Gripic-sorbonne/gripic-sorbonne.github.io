@@ -1,5 +1,5 @@
 ---
-uuid: f548508b-d411-4145-a185-dc70a8d12d41
+uuid: d61113e6-9a38-4059-9db3-0b56a478833f
 title: "Appropriation du discours de représentation par le discours publicitaire : recherche sur le discours publicitaire contemporain et ses stratégies de représentation de minorités symboliques au Brésil"
 author: "Mariana Ayres Tavares"
 authors: "Mariana Ayres Tavares"

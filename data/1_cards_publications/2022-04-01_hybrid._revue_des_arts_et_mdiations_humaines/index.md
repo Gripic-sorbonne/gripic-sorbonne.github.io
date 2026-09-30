@@ -1,5 +1,5 @@
 ---
-uuid: be942ede-5264-4338-a66b-02be0bff1c7c
+uuid: 0a08ca5a-e171-4973-82c6-970fc0a4017d
 title: "Hybrid. Revue des arts et médiations humaines"
 author: "Sébastien Appiotti"
 authors: "Sébastien Appiotti"
