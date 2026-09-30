@@ -1,5 +1,5 @@
 ---
-uuid: 542ee71c-f7f6-49d5-bfa9-7fd79b20a564
+uuid: d8fd8420-ac12-45da-a63d-221e67776fb8
 title: "Séminaire CDSP"
 author: "Thibault Grison"
 authors: "Thibault Grison"

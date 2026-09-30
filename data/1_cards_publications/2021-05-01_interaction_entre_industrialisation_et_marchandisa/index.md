@@ -1,5 +1,5 @@
 ---
-uuid: a0b62e30-c68c-422c-8c44-ba1835a89fb3
+uuid: bab2fbf2-b56c-40d8-b061-678be35bdbc1
 title: "Interaction entre industrialisation et marchandisation des réseaux socionumériques et transformation des dispositifs médiatiques : le cas de WeChat"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

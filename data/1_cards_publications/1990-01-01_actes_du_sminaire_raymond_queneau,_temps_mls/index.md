@@ -1,5 +1,5 @@
 ---
-uuid: 6e3978fe-58c6-413b-8cf3-fd64c25593e2
+uuid: 607db6f4-c907-4dcb-938c-85facb8882d2
 title: "Actes du Séminaire Raymond Queneau, Temps mêlés"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

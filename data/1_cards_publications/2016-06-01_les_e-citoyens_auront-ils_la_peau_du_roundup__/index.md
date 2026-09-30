@@ -1,5 +1,5 @@
 ---
-uuid: bcd71e38-545d-47a9-9d75-2a3b7a185771
+uuid: 245cd92e-b95a-42b5-85b4-62076c8039e9
 title: "Les e-citoyens auront-ils la peau du Roundup ?"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

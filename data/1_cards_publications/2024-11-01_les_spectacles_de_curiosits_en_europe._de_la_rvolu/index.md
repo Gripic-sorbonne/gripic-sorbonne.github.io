@@ -1,5 +1,5 @@
 ---
-uuid: 3890e43e-bdb0-47cd-9c82-c5cb4a9c0379
+uuid: 1fb6b9f7-fb3f-47bc-9686-2c3c16e512d4
 title: "Les spectacles de curiosités en Europe. De la Révolution française à la fin du XIXè siècle"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

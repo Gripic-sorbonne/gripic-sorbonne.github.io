@@ -1,5 +1,5 @@
 ---
-uuid: f44b64aa-015e-4c7a-bf24-ffcbdd7f5c84
+uuid: 71f3f663-08eb-44be-ab5b-8475d3170935
 title: "La vie quotidienne des communautés artificielles. Société de disponibilité"
 author: "Sophie Pène"
 authors: "Sophie Pène"

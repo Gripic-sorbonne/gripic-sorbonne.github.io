@@ -1,5 +1,5 @@
 ---
-uuid: cb707145-3a4d-4132-b596-9d1878ddfd8e
+uuid: 75ab76ea-ba42-419d-832b-1ce0c206afee
 title: "Figures de l’autorité en régime médiatique"
 author: "Adeline Wrona, Émeline Seignobos"
 authors: "Adeline Wrona, Émeline Seignobos"

@@ -1,5 +1,5 @@
 ---
-uuid: 8866c88b-6f43-443a-907b-e1b123c915b1
+uuid: bea416b4-4968-4afd-8b9f-216d9c50ed23
 title: "TDC-Réseau Canopé"
 author: "Olivier AÏM, Anneliese Depoux"
 authors: "Olivier AÏM, Anneliese Depoux"

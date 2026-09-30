@@ -1,5 +1,5 @@
 ---
-uuid: ff3c0d37-cdb3-471d-a74f-466ea32a9d38
+uuid: cfbb57c9-0a8d-43d5-9210-0869359f7a34
 title: "Le partage photographique : le régime performatif de la photo"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"

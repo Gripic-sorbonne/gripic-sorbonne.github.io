@@ -1,5 +1,5 @@
 ---
-uuid: 437945d1-0a2a-4cd4-ba68-a589586cc3a1
+uuid: 3c7488ba-8134-4cc4-a7ab-42f1c95eebbe
 title: "“ La normalisation et la valeur sociale du swipe et autres ‘petits gestes’ de manipulation des interfaces tactiles ”."
 author: "Inès Garmon"
 authors: "Inès Garmon"

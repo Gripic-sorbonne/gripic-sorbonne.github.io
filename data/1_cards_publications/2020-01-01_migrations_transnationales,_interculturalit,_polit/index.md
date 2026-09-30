@@ -1,5 +1,5 @@
 ---
-uuid: 37bf4e1a-38d7-4c66-965d-cb96e59f4f34
+uuid: 55b6f8dd-a0ec-4f4f-a2ba-b70697ad3f0c
 title: "Migrations transnationales, interculturalité, politiques et communication"
 author: "Claire Scopsi, Asmaa Azizi"
 authors: "Claire Scopsi, Asmaa Azizi"

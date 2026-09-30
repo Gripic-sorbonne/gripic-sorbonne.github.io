@@ -1,5 +1,5 @@
 ---
-uuid: aa1a4357-4b3d-4ae3-b684-071e7bf1e71c
+uuid: 3f664a4b-e31c-433c-9f6e-316b494015af
 title: "Voir, être vu. L’injonction à la visibilité dans les sociétés contemporaines"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

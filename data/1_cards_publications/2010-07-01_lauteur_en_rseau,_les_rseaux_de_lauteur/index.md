@@ -1,5 +1,5 @@
 ---
-uuid: f5c93cd9-c146-45e0-93b5-e04503e622ef
+uuid: 8768388e-40f8-4a79-a372-3476a07e2f27
 title: "L’auteur en réseau, les réseaux de l’auteur"
 author: "Etienne Candel, Gustavo Gomez-Mejia"
 authors: "Etienne Candel, Gustavo Gomez-Mejia"

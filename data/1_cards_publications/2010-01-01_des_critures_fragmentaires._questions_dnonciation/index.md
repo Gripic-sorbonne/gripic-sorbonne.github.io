@@ -1,5 +1,5 @@
 ---
-uuid: 9aad694a-8147-437a-a572-a338bd0e7f80
+uuid: 0c6791e1-544d-4e2b-b8fe-d446cea9c08c
 title: "Des écritures fragmentaires. Questions d’énonciation"
 author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"
