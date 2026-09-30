@@ -1,5 +1,5 @@
 ---
-uuid: 47c7d419-790f-417b-b7a6-16bbc75d6ccb
+uuid: 2bf85a1b-8106-4d02-b44c-208361d17e4f
 title: "La guerre de Crimée, première guerre contemporaine"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

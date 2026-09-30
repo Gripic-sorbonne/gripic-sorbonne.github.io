@@ -1,5 +1,5 @@
 ---
-uuid: 22a59481-0ca2-4154-afe8-ddb3dad77050
+uuid: b023448c-8135-4d77-8cab-7053e9fd0e90
 title: "Internet histories"
 author: "Maria Eriksson, Guillaume Heuguet"
 authors: "Maria Eriksson, Guillaume Heuguet"

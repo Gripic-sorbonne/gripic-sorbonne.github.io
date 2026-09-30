@@ -1,5 +1,5 @@
 ---
-uuid: 430dcdc8-c1f4-46e3-a621-5c8f4e28586c
+uuid: fb09bfd5-a7df-4a5c-bf89-2a310b0cca19
 title: "23ème CONGRÈS MONDIAL DE SCIENCE POLITIQUE"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

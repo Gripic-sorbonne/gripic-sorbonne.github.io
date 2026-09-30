@@ -1,5 +1,5 @@
 ---
-uuid: 7464b1aa-f18b-4e5c-bd28-c4b5fef8a28a
+uuid: 2f1dbcf8-54db-4a3d-9b6a-61556074fb25
 title: "Alternative on content modération on social media"
 author: "Thibault Grison"
 authors: "Thibault Grison"

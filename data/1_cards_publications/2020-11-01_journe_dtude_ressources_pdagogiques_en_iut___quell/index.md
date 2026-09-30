@@ -1,5 +1,5 @@
 ---
-uuid: 20131ae9-a4ef-43d6-ad2e-5ad56cf48e4c
+uuid: 41ec890f-6698-4b3b-9e8b-4842c5b6aebc
 title: "Journée d’étude ”Ressources pédagogiques en IUT : quelles conceptions de la professionnalisation ?”"
 author: "Caroline Ladage, Thomas Grignon, Maryse Cadet-Mieze, Aude Seurrat"
 authors: "Caroline Ladage, Thomas Grignon, Maryse Cadet-Mieze, Aude Seurrat"

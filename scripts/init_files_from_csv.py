@@ -131,18 +131,38 @@ def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> s
     return md_page
 
 
+# def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> str:
+#     title = get_field(form_dict, "Title", "title", "Titre")
+#     description = get_field(form_dict, "Description", "description", "abstract")
+#     url = get_field(form_dict, "URL", "url", "Lien")
+
+#     # Pasamos abstract="" para evitar el texto en la tarjeta y el recuadro destacado
+#     md_page: str = make_yaml_header_formation(title=title, abstract="", url=url)
+    
+#     if image_filename:
+#         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
+
+#     md_page += f"# {title}\n\n"
+#     if description:
+#         md_page += f"{description}\n\n"
+        
+#     if url:
+#         md_page += f"[En savoir plus / En savoir +]({url})\n\n"
+
+#     return md_page
+
 def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> str:
     title = get_field(form_dict, "Title", "title", "Titre")
     description = get_field(form_dict, "Description", "description", "abstract")
     url = get_field(form_dict, "URL", "url", "Lien")
 
-    # Pasamos abstract="" para evitar el texto en la tarjeta y el recuadro destacado
+    # Transmitimos abstract="" para evitar el texto duplicado en el recuadro superior
     md_page: str = make_yaml_header_formation(title=title, abstract="", url=url)
     
     if image_filename:
         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
 
-    md_page += f"# {title}\n\n"
+
     if description:
         md_page += f"{description}\n\n"
         

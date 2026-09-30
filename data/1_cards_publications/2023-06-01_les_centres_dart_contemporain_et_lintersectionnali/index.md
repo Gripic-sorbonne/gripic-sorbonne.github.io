@@ -1,5 +1,5 @@
 ---
-uuid: ad059f9b-5918-4f53-bf12-8e1a02ff1f76
+uuid: aeda0e2b-b2d8-4b76-bf66-16685eabe3db
 title: "Les centres d’art contemporain et l’intersectionnalité : enjeux, discours, appropriations (InterCAC)"
 author: "Rime Fetnan, Louise Barrière, Emmanuelle Bruneel"
 authors: "Rime Fetnan, Louise Barrière, Emmanuelle Bruneel"

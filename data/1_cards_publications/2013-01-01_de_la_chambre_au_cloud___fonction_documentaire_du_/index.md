@@ -1,5 +1,5 @@
 ---
-uuid: 8a39570d-37d1-4282-93a1-142e617263f9
+uuid: 995bda25-8035-482c-add5-544a78224d33
 title: "De la chambre au “ cloud ” ? Fonction documentaire du son et énonciation éditoriale des “ players audio ”"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"

@@ -1,5 +1,5 @@
 ---
-uuid: 6b3be40d-e904-4f5c-b5e9-fa30e82fa7f9
+uuid: fc5d2aff-559c-460c-80c5-c0a7d36d138d
 title: "Écrire le design d’expérience utilisateur : enquête sur la textualisation d’un savoir professionnel numérique"
 author: "Jérémy Lucas-Boursier"
 authors: "Jérémy Lucas-Boursier"

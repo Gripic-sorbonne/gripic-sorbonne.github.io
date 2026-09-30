@@ -1,5 +1,5 @@
 ---
-uuid: 89b6efaa-c75a-457f-b397-1ebd8be4aebc
+uuid: 98df0a7a-e51d-436d-8c62-8329553d9bf6
 title: "La métropole parisienne : entre récits, paroles et échanges"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

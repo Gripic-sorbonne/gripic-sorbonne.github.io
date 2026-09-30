@@ -1,5 +1,5 @@
 ---
-uuid: f5cc2027-2910-463c-9be0-235a179dcc45
+uuid: 8222ef32-9d70-4935-af5a-5e36681b5084
 title: "Écriture et image : cahiers du CEEI"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

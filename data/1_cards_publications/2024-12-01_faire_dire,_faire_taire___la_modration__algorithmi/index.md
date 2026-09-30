@@ -1,5 +1,5 @@
 ---
-uuid: dbccf1e9-225f-4b24-a18b-078c2125d4f1
+uuid: 220ed8a1-94b6-406b-9fab-a4bd86ccd8c4
 title: "Faire dire, faire taire : la modération (algorithmique) des réseaux sociaux numériques au prisme des sexualités"
 author: "Thibault Grison"
 authors: "Thibault Grison"

@@ -1,5 +1,5 @@
 ---
-uuid: 3202efde-9f4b-49f9-a0e5-3568418cd980
+uuid: 8b77a28b-b76b-4b5f-bef7-d0f13d36d162
 title: "IC - 17èmes Journées francophones d’Ingénierie des Connaissances"
 author: "Fabrice Papy"
 authors: "Fabrice Papy"

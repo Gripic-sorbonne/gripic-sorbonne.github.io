@@ -1,5 +1,5 @@
 ---
-uuid: 8d2874b4-047f-4179-9e13-f83b9fcc0dd6
+uuid: aae5f34c-e3cb-40b7-9837-8e19e6259591
 title: "L’innovation dans la formation en question : l’enjeu de l’interdisciplinarité. XXIe congrès de la SFSIC. MSH Paris Nord. 13-15 juin 2018"
 author: "Aude Seurrat, Christine Barats, Julie Bouchard, Béatrice Drot-Delange, Thibaud Hulin, Petit Laurent"
 authors: "Aude Seurrat, Christine Barats, Julie Bouchard, Béatrice Drot-Delange, Thibaud Hulin, Petit Laurent"

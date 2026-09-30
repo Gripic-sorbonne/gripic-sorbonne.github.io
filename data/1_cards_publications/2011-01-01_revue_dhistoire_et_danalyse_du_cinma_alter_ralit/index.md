@@ -1,5 +1,5 @@
 ---
-uuid: 9fd70de1-656b-4a40-b325-bce523e03979
+uuid: 1d58b091-b208-41a0-a66a-8ab9fa51f876
 title: "Revue d’histoire et d’analyse du cinéma Alter/Réalité"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

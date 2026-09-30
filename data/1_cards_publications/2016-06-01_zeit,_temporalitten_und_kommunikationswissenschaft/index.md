@@ -1,5 +1,5 @@
 ---
-uuid: 55a0efbf-26df-47bc-a55d-0cff637b032d
+uuid: 650dcd83-c2fd-4038-ae09-9baea3094cf6
 title: "Zeit, Temporalitäten und Kommunikationswissenschaft, Tagungsbericht zum Kongress der Sfsic in Metz (8.-10. Juni 2016)"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

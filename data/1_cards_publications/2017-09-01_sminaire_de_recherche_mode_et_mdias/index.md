@@ -1,5 +1,5 @@
 ---
-uuid: e2f60033-95b1-47ab-933b-6e2bc38443ff
+uuid: e1bab6bd-dcd4-47fa-bcf0-5666903a12b4
 title: "Séminaire de recherche “ Mode et médias ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

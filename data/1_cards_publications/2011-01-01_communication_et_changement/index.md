@@ -1,5 +1,5 @@
 ---
-uuid: 926ecaf4-b8a4-4648-a30c-af02eb837fd5
+uuid: b090d6f4-d439-4357-807e-c2c257ae835a
 title: "Communication et changement"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

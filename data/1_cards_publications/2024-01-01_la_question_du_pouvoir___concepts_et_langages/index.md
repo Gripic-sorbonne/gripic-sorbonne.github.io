@@ -1,5 +1,5 @@
 ---
-uuid: 3cfc2ef8-20d5-4d0a-bbb8-718dd3333315
+uuid: b7141f7f-b706-4a39-ab7b-c71e77acf9a7
 title: "La question du pouvoir : concepts et langages"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

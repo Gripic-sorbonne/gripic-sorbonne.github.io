@@ -1,5 +1,5 @@
 ---
-uuid: 3b0991c6-ac55-4b9a-8869-4f5eb83db452
+uuid: dd7df2c5-f2cb-49c5-929a-6c1cf90a7bc9
 title: "Image & Narrative"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

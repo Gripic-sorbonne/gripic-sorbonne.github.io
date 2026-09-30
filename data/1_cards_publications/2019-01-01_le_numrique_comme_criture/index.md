@@ -1,5 +1,5 @@
 ---
-uuid: f75cc459-0631-4ff2-bdb1-22eca3247d0a
+uuid: 749ac635-0fd4-4546-8a2e-7a5469abe37c
 title: "Le numérique comme écriture"
 author: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
 authors: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"

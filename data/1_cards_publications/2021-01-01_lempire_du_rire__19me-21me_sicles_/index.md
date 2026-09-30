@@ -1,5 +1,5 @@
 ---
-uuid: 1542c7d0-921e-4d94-931f-462c2f777008
+uuid: 222f2131-f6bd-4f19-a523-ef1d14894e42
 title: "L’Empire du rire (19ème-21ème siècles)"
 author: "Thierry Devars"
 authors: "Thierry Devars"

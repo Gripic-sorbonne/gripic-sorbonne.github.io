@@ -1,5 +1,5 @@
 ---
-uuid: 948e90e4-b3fe-43dc-b13d-a9a733833af2
+uuid: 18ff912e-632b-4708-bfbd-1e7683c41d52
 title: "À l’orée du regard : les images de l’entre-deux. Une enquête sur la fabrique discrète de notre habiter"
 author: "Aurélie Sansen"
 authors: "Aurélie Sansen"

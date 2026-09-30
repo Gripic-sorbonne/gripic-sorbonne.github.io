@@ -1,5 +1,5 @@
 ---
-uuid: 495d18a9-1bcb-4f15-87fc-ad438f2ab9eb
+uuid: c972820b-2c91-419d-bf7f-f4657a76c8e8
 title: "Revue Voltaire"
 author: "Alexis Levrier"
 authors: "Alexis Levrier"

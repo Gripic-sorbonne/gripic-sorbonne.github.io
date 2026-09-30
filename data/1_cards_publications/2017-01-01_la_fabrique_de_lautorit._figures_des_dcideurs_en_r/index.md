@@ -1,5 +1,5 @@
 ---
-uuid: 95e13caf-4e26-468d-9341-6056773be4f0
+uuid: fa0a2e10-7ef9-47a4-99b5-266455fe4e6a
 title: "La Fabrique de l’autorité. Figures des décideurs en régime médiatique"
 author: "Lisa Bolz, Juliette Charbonneaux, Valerie Jeanne Perrier"
 authors: "Lisa Bolz, Juliette Charbonneaux, Valerie Jeanne Perrier"

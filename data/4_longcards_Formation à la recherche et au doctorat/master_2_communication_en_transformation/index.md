@@ -1,13 +1,11 @@
 ---
-uuid: 6827219e-a035-4862-a91a-26bfa14461cc
+uuid: 346223f7-1058-4c3a-8996-834d277eb137
 title: "Master 2 Communication en transformation"
 abstract: ""
 url: "https://www.celsa.fr"
 ---
 
 <img src="./m2_recherche.webp" width="100%" />
-
-# Master 2 Communication en transformation
 
 ## Une formation pour les carrières intellectuelles de haut niveau
 
