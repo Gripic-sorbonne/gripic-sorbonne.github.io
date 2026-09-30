@@ -1,5 +1,5 @@
 ---
-uuid: 7749c7b5-6eef-4d52-b30d-5b926be49681
+uuid: bac0ef51-462f-4377-96ac-a8d3754c2589
 title: "L’insecte dans tous ses états"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

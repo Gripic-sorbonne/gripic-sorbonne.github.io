@@ -1,5 +1,5 @@
 ---
-uuid: e0f5cb13-80d8-4e5c-934e-9269f0cf32c5
+uuid: f3ea3fe9-957e-4788-9b76-5caa7c3acd49
 title: "L’espace public numérique en période de consolidation démocratique. Cas des élections législatives, régionales et communales de septembre 2021 au Maroc"
 author: "Fadoua Maroub"
 authors: "Fadoua Maroub"

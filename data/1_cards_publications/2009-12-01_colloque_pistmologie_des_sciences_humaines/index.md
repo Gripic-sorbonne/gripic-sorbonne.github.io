@@ -1,5 +1,5 @@
 ---
-uuid: ab696131-d84c-49b6-9cc5-09de6dd3f6f8
+uuid: 8c0cadd7-3306-4e54-aebf-3d40159da588
 title: "Colloque Épistémologie des sciences humaines"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

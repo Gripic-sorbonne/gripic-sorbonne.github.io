@@ -1,5 +1,5 @@
 ---
-uuid: d8a95109-a518-4c72-974a-071b0e3ad69d
+uuid: 26b8233e-08c4-427f-babc-5126b7d2d6de
 title: "Colloque ”Autour du langage et des organisations”, en hommage à Jacques Girin, Centre de recherche en Gestion de l’Ecole Polytechnique (CRG). 13 novembre 2006"
 author: "Sophie Pène"
 authors: "Sophie Pène"

@@ -1,5 +1,5 @@
 ---
-uuid: 67538eea-85bc-45fb-9ce5-a8b5be2b7b09
+uuid: be266ae2-6432-4603-916e-349242b19378
 title: "Les émotions sont-elles des données comme les autres ? Enjeux de la coopération entre les équipes créatives et les IA génératives"
 author: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson"
 authors: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson"

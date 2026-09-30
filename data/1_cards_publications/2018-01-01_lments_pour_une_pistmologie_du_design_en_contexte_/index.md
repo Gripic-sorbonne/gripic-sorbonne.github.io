@@ -1,5 +1,5 @@
 ---
-uuid: 53c8f724-9cbd-4a5d-b11e-324f35f27e6e
+uuid: d12fd373-aba5-4aa8-b4f1-771425c0202e
 title: "Éléments pour une épistémologie du design en contexte numérique"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

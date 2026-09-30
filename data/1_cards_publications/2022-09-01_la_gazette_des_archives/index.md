@@ -1,5 +1,5 @@
 ---
-uuid: 7963a2f6-fa88-4b51-8b7b-15813f5f178a
+uuid: ad8367ab-61a3-4024-bb80-597b232543af
 title: "La Gazette des Archives"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"

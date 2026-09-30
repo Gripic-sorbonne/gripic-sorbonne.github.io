@@ -1,5 +1,5 @@
 ---
-uuid: e67393dc-d52e-47fb-a2c6-46a994ccbc85
+uuid: 32d00be3-f312-4563-b399-e3387aada1c6
 title: "Homotopies littéraires et images partagées. Figurations du lecteur, du livre et de la lecture sur trois plateformes numériques (YouTube, Instagram, Tumblr)."
 author: "Marine Siguier"
 authors: "Marine Siguier"

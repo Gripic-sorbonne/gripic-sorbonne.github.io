@@ -1,5 +1,5 @@
 ---
-uuid: bb90d026-1911-4d6d-acf7-212e0f1c568e
+uuid: a47f3f02-aeb2-4b03-a56f-146157305315
 title: "Les Cahiers de la métropole. Hors-Série : Les Imaginaires de la métropole créative"
 author: "hecate vergopoulos, Michaël Bourgatte"
 authors: "hecate vergopoulos, Michaël Bourgatte"

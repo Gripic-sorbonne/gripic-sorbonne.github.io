@@ -1,5 +1,5 @@
 ---
-uuid: b3f3aad5-0937-4549-9d90-13d21464879c
+uuid: 7a354d8d-5f73-4f0a-af9a-35a284f883cb
 title: "séminaire Tourisme: recherches, institutions, pratiques saison 8"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

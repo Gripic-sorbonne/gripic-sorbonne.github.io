@@ -1,5 +1,5 @@
 ---
-uuid: 979b5eac-93c8-4017-8335-18fac8b13056
+uuid: 08dfa21f-facc-4ba6-aef5-ea8047c94dc9
 title: "Journée doctorale “ Faits divers, faits de sociétés ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

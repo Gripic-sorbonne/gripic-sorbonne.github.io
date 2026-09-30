@@ -1,5 +1,5 @@
 ---
-uuid: 3d0a24d4-803a-4e1e-a2ff-bf1148f67590
+uuid: b03a5908-b09f-4b0a-85fc-fa2c5bcd8bc9
 title: "Repenser le capital Humain"
 author: "Julien Tassel"
 authors: "Julien Tassel"

@@ -1,5 +1,5 @@
 ---
-uuid: 0f9398f7-fdd6-44a5-a738-ee43d3d902ba
+uuid: 5ce7ae03-cbb3-405e-8b96-556ef737ca2b
 title: "L’existence d’un audiovisuel public indépendant est au cœur du modèle européen"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

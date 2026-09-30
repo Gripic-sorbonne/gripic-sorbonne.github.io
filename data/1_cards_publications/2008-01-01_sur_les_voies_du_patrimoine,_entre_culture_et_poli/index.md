@@ -1,5 +1,5 @@
 ---
-uuid: 00cb9b17-8c97-4e15-84f1-9faeaca66666
+uuid: 1e6d2400-309b-417b-8c95-5edd198e7874
 title: "Sur les voies du Patrimoine, entre culture et politique, Délits de curiosité II"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

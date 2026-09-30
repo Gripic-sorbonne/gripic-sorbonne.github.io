@@ -1,5 +1,5 @@
 ---
-uuid: 67b18e57-dcc0-43bd-a5f9-7e1e223d1b51
+uuid: 09c72902-355a-4191-922c-618ce2917829
 title: "Les récits de la crise, mythes et réalités"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

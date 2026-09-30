@@ -1,5 +1,5 @@
 ---
-uuid: 6f4a17bc-2b1d-4821-924c-8e23ce7ecc93
+uuid: c4fe37a1-af66-4db1-bb39-aa2c52a1badb
 title: "Séminaire de l’Axe 4 du GERiiCO"
 author: "Thibault Grison"
 authors: "Thibault Grison"

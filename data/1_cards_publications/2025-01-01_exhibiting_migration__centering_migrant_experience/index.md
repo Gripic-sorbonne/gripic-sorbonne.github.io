@@ -1,5 +1,5 @@
 ---
-uuid: b4545266-52e2-4c09-a676-2d2662c5b093
+uuid: dd4da97d-3fc4-475c-945b-3a65aeed49e2
 title: "Exhibiting Migration: Centering Migrant Experiences, Voices, and Perspectives within the Museum"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

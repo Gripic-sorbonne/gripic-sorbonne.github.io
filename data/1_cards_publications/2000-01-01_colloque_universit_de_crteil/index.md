@@ -1,5 +1,5 @@
 ---
-uuid: 2c48faf0-c8c5-4b60-9343-2eaa662b9a66
+uuid: 400bbe5d-30de-4ca4-ae7e-cefbdbb2a0b4
 title: "Colloque Université de Créteil"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
