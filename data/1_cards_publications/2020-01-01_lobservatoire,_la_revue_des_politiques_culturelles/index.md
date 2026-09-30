@@ -1,5 +1,5 @@
 ---
-uuid: 98ddcc46-6303-4cb1-9530-54d256180361
+uuid: 77f44fea-3465-4fe7-bf0b-1e2c1b11d86e
 title: "L’Observatoire, la revue des politiques culturelles"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: 42266538-aa50-42f2-bd3e-879445771596
+uuid: 8751a596-2aa3-4c44-9998-e136f36eaa33
 title: "Journée d’études “ Authoritarian Populism and Media ”"
 author: "Sophie Corbillé, Juliette Charbonneaux, Pascal Froissart"
 authors: "Sophie Corbillé, Juliette Charbonneaux, Pascal Froissart"

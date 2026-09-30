@@ -1,5 +1,5 @@
 ---
-uuid: e51bf980-b101-4575-8ae5-56e29cfd5e02
+uuid: c9baf6a6-f99c-4389-9e1f-077e5967b407
 title: "Bases de données et outils numériques : des révélateurs de l’imprimé et du littéraire"
 author: "Guillaume Pinson, Julien Schuh, Pierre-Carl Langlais"
 authors: "Guillaume Pinson, Julien Schuh, Pierre-Carl Langlais"

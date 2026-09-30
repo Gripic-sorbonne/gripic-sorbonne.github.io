@@ -1,5 +1,5 @@
 ---
-uuid: 5e9529bc-6aa3-4277-864a-1973cef9e5c6
+uuid: 4f79a716-c466-46ce-8aec-b0f153567067
 title: "Horizon hors écran. Explorations et navigations en recherche-creation"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

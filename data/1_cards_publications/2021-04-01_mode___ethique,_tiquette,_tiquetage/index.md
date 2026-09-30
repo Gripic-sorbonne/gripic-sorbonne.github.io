@@ -1,5 +1,5 @@
 ---
-uuid: 7f3f1f21-35b2-4cda-bbfb-28afdef538e7
+uuid: 8ce4c3fd-27f2-4e98-bddd-78332b96c1c5
 title: "Mode : Ethique, étiquette, étiquetage"
 author: "Pauline Escande"
 authors: "Pauline Escande"

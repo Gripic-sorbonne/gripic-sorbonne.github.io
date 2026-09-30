@@ -1,5 +1,5 @@
 ---
-uuid: 8b880188-36ee-4802-bb02-8c340d83fbb9
+uuid: 5ec7e9d0-8222-4781-8349-0a4f30c0ac82
 title: "Paris, capitale médiatique. Ville et presse au XIXe siècle"
 author: "Juliette Charbonneaux, Lisa Bolz"
 authors: "Juliette Charbonneaux, Lisa Bolz"

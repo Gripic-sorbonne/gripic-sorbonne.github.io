@@ -1,5 +1,5 @@
 ---
-uuid: 5c528127-20be-4e1a-8806-17d7546b3067
+uuid: 5dbb3a0d-affd-4feb-83a0-d56b39bdff6b
 title: "Colloque international IRCAV, Cinéma audiovisuel, nouveaux médias"
 author: "Pauline Escande"
 authors: "Pauline Escande"

@@ -1,5 +1,5 @@
 ---
-uuid: b6734ee7-beb3-4936-af97-ee5610fec324
+uuid: 22ce2796-3e29-4a61-abd4-2c36e50c32d3
 title: "2nd Annual Conflict Conference, The University of Texas at Austin,"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

@@ -1,5 +1,5 @@
 ---
-uuid: 9646eff1-ef55-4390-bd2d-b68057f14709
+uuid: 5e2f54ea-b431-4f8b-8457-771a7fa0b2ee
 title: "Le discours publicitaire : fonction et fantasme symbolique"
 author: "Caroline Marti"
 authors: "Caroline Marti"

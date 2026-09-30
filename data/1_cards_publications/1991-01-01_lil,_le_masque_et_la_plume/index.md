@@ -1,5 +1,5 @@
 ---
-uuid: 477ee605-2751-4a58-a9e5-6137c5353e7c
+uuid: bcdc0c8a-25e5-434c-b58f-bd5a115667e8
 title: "L’œil, le masque et la plume"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

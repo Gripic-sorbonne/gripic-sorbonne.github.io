@@ -1,5 +1,5 @@
 ---
-uuid: 7650e773-2b84-4621-9f24-a7ad44bde012
+uuid: 26234442-9a8d-446c-b407-1d92929535de
 title: "Paris, tourisme et métropolisation : échelles, acteurs et pratiques du tourisme d’une destination Capitale"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

@@ -1,5 +1,5 @@
 ---
-uuid: f61c4fa6-4805-4a7d-b92d-08f996aa7c2e
+uuid: 71ae05d0-cf15-4b38-bb73-e2e5bc3af89a
 title: "Recherches en communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"

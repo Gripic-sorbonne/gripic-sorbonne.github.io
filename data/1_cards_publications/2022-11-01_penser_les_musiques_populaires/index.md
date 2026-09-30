@@ -1,5 +1,5 @@
 ---
-uuid: a98cc673-41eb-477d-bd4a-ae810ac81fbd
+uuid: 599b0f75-cfc4-4e79-8bad-2545a10e57c5
 title: "Penser les musiques populaires"
 author: "Gérôme Guibert, Guillaume Heuguet"
 authors: "Gérôme Guibert, Guillaume Heuguet"

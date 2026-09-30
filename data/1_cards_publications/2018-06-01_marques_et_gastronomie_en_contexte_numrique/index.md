@@ -1,5 +1,5 @@
 ---
-uuid: 2020d42a-b4ec-4463-b193-94feb45ab476
+uuid: 5f7ed441-fadc-4452-8c35-57d1fb71b7b6
 title: "Marques et gastronomie en contexte numérique"
 author: "Julien Tassel, Camille Brachet"
 authors: "Julien Tassel, Camille Brachet"

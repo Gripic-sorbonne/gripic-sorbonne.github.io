@@ -1,5 +1,5 @@
 ---
-uuid: bb000462-f231-4326-a1e1-ed48f5af7a2d
+uuid: 091ee7c2-db8e-429e-bc93-85668e46d244
 title: "Sociabilité numériques"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"
