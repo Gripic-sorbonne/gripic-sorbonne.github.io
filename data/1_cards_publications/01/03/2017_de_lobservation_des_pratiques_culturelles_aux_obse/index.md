@@ -1,5 +1,5 @@
 ---
-uuid: 22cd0777-8193-4a1c-9bc5-2f52f6e319ae
+uuid: b08ffd0a-9928-4eee-a425-8e056350b31f
 title: "De l’observation des pratiques culturelles aux observatoires des publics : La scientifisation d’une démarche en question(s)"
 author: "Etienne Candel"
 authors: "Etienne Candel"

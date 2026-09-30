@@ -1,5 +1,5 @@
 ---
-uuid: 7c484597-7a81-4190-ac14-3f312d98ec1e
+uuid: 25f434f4-7533-41ac-b83c-34c96b535024
 title: "Arts, médias et engagement. Métamorphose de la culture d’expression citoyenne"
 author: "Asmaa Azizi"
 authors: "Asmaa Azizi"

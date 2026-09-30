@@ -1,5 +1,5 @@
 ---
-uuid: a6b1e73b-bb9e-4201-b03e-de0e26ec21d4
+uuid: bf926461-e920-4491-91e6-5560e1c144c7
 title: "Traces du corps, tome 4 de la série L’Homme-trace"
 author: "Véronique Richard"
 authors: "Véronique Richard"

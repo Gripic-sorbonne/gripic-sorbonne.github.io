@@ -1,5 +1,5 @@
 ---
-uuid: 7a61e5e3-cc88-4363-aafa-460a30fc8eb4
+uuid: d3faab1b-bc34-4f97-bd74-4310264c81fa
 title: "Poli-Politiques des Cultural Studies"
 author: "Maxime Cervulle, Nelly Quemener"
 authors: "Maxime Cervulle, Nelly Quemener"

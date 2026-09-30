@@ -1,5 +1,5 @@
 ---
-uuid: c8e7b5f2-c833-4cc7-ae8f-d9d9031a7cab
+uuid: 6119bc6c-a21f-4472-813a-b7ecf7f68278
 title: "La communication environnementale"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

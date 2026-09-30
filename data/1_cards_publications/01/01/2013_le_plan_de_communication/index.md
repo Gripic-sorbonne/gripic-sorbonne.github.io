@@ -1,5 +1,5 @@
 ---
-uuid: 48213f8f-5238-4fb1-836a-002139ab2de7
+uuid: 7fd959e2-3cce-47ae-a3d8-19ebc4b658cb
 title: "Le plan de communication"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

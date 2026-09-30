@@ -1,5 +1,5 @@
 ---
-uuid: f584d595-26f6-4a7a-b7c8-7ff3e391654f
+uuid: 3ebc763f-e28d-4b10-a9db-eea1a3537921
 title: "Industrialiser l’éducation : Anthologie commentée (1913-2012)"
 author: "Pierre Mœglin, Laurent Petit"
 authors: "Pierre Mœglin, Laurent Petit"

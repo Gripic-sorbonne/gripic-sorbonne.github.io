@@ -1,5 +1,5 @@
 ---
-uuid: 7fa48f3c-0ded-4072-83d9-5ee880521082
+uuid: a5cb58c8-ee42-4d85-af1b-bfd0428918cb
 title: "Séminaire général"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

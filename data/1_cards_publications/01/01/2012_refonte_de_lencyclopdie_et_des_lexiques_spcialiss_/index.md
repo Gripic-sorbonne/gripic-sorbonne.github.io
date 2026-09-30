@@ -1,5 +1,5 @@
 ---
-uuid: b862ee94-75ff-44f4-bab6-1020627552e2
+uuid: e874191d-f206-487c-b5ad-b07f8331fc31
 title: "Refonte de l’encyclopédie et des lexiques spécialisés de l’édition, des médias, du marketing et de la publicité"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

@@ -1,5 +1,5 @@
 ---
-uuid: 329033bd-f7b6-4fc0-8af2-6104b787698a
+uuid: 594e562b-e9aa-45e4-966a-0e1ac458b5ca
 title: "Séminaire EPIN"
 author: "Thibault Grison"
 authors: "Thibault Grison"

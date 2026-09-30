@@ -1,5 +1,5 @@
 ---
-uuid: b8a3fed4-7e83-4660-83cb-a67da71597a5
+uuid: cc760697-eae9-4d24-826d-5cc1de20852f
 title: "LA PRÉSIDENTIELLE CHAMBOULE-TOUT. La communication politique au prisme du ”dégagisme”"
 author: "Thierry Devars, Juliette Charbonneaux"
 authors: "Thierry Devars, Juliette Charbonneaux"

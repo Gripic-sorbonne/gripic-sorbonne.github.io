@@ -1,5 +1,5 @@
 ---
-uuid: a3738c54-d478-4c9d-b086-91b254490439
+uuid: 9543e649-bfe9-47e0-b6cb-bc93cb0ce5fe
 title: "3e Colloque International sur les Usages et Services des Télécommunications"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"

@@ -1,5 +1,5 @@
 ---
-uuid: 1b59db82-836a-4166-b7fd-0b1715b34879
+uuid: 4a55b878-21f6-4baa-bb9f-a1235b25ce5b
 title: "Assises internationales du journalisme"
 author: "Caroline Marti, Valérie Patrin-Leclère"
 authors: "Caroline Marti, Valérie Patrin-Leclère"

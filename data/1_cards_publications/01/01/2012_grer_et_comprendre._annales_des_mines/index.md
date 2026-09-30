@@ -1,5 +1,5 @@
 ---
-uuid: 39f7a225-41e4-4c5c-95dc-de20db74ba71
+uuid: fe2718cf-e55e-4586-872c-9b90ad54e631
 title: "Gérer et Comprendre. Annales des Mines"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"

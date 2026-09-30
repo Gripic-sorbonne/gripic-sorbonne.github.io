@@ -1,5 +1,5 @@
 ---
-uuid: c3416bf8-05ea-4c1a-8209-ad5a99031f8b
+uuid: fc128bd6-7c2c-4049-8db2-d2ad5d7c9977
 title: "Blog de recherches"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

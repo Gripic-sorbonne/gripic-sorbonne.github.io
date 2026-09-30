@@ -1,5 +1,5 @@
 ---
-uuid: 2a57119e-a2c2-4635-936a-e35793caafda
+uuid: e494568f-4795-4cc2-9a43-48972c5f8a5d
 title: "Limousin Lumières & limons"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
