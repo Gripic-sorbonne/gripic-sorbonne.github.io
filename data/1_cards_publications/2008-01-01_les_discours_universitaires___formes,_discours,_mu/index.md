@@ -1,5 +1,5 @@
 ---
-uuid: 07d7f27b-6584-4fd3-9760-e06af83ff62e
+uuid: 549c5e4e-735a-49b0-961a-3cf39d0741c6
 title: "Les discours universitaires : formes, discours, mutations"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

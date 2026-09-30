@@ -1,5 +1,5 @@
 ---
-uuid: 7b309032-0d3f-4874-838a-0eaebdd6c0bb
+uuid: 19a0ab87-2506-4340-807f-cae615af13a0
 title: "Colloque d’Urbanisme ”Métropoles et métropolisation”"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

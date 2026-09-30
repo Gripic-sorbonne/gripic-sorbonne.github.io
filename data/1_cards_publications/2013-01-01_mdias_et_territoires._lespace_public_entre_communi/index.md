@@ -1,5 +1,5 @@
 ---
-uuid: 1d496ff8-f999-4ae2-aac4-f1d63f8385ec
+uuid: acf25ce1-55f7-4c28-9150-b7001509fd2d
 title: "Médias et territoires. L’espace public entre communication et imaginaire territorial"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

@@ -1,5 +1,5 @@
 ---
-uuid: 455c74cc-13e5-43c9-87a4-cb064fa3b9d3
+uuid: ee84bfa6-474d-4444-b3bd-3f47dde9eebc
 title: "Sémiotique de l’espace, espaces de la sémiotique"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

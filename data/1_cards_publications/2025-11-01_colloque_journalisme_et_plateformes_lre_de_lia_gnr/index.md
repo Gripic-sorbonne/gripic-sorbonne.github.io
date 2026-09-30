@@ -1,5 +1,5 @@
 ---
-uuid: 43d30435-c8f0-4ad6-83e6-83cc31304857
+uuid: 99ac99aa-8b12-4f94-9977-13b163a44faa
 title: "Colloque journalisme et plateformes à l’ère de l’IA générative"
 author: "Lisa Bolz, Thibault Grison"
 authors: "Lisa Bolz, Thibault Grison"

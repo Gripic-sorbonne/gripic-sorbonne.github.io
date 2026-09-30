@@ -1,5 +1,5 @@
 ---
-uuid: 99e8f765-e5bb-469d-b32e-dbae411e7697
+uuid: a47276e7-a92f-4394-a9cf-2d90d1fd3d96
 title: "Nouvelle Revue du travail"
 author: "Olivia Foli"
 authors: "Olivia Foli"

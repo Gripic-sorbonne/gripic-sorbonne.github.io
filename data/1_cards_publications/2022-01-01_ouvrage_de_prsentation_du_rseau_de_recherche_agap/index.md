@@ -1,5 +1,5 @@
 ---
-uuid: 4e773fd4-35fa-40b7-97f6-acdf8d4d9c8f
+uuid: 419b2ac9-e3ff-49c9-9180-e72caf8b132b
 title: "Ouvrage de présentation du réseau de recherche AGAP"
 author: "Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot"
 authors: "Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot"

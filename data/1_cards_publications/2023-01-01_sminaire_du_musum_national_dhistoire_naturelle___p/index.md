@@ -1,5 +1,5 @@
 ---
-uuid: 54604c2f-4e73-43f1-97f5-6b9b6f26256f
+uuid: afeddc12-b78b-41ec-88de-f1c545bdc0c0
 title: "Séminaire du Muséum National d’Histoire Naturelle : ”Patrimoines, processus de patrimonialisation : musées, savoirs, communautés”"
 author: "Julien Gaillard, Romain Vindevoghel"
 authors: "Julien Gaillard, Romain Vindevoghel"

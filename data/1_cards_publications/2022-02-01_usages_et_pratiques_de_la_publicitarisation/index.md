@@ -1,5 +1,5 @@
 ---
-uuid: 50b4324a-8a82-4796-bcf9-cd2afa19fcc8
+uuid: 4e53f89c-28c0-4983-bb72-f88e83a3c59d
 title: "Usages et pratiques de la publicitarisation"
 author: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"
 authors: "Frédéric Aubrun, Caroline Marti, Valérie Patrin-Leclère"

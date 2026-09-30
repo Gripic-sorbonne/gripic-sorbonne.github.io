@@ -1,5 +1,5 @@
 ---
-uuid: 89eac4ed-0388-462a-81be-217cb895e531
+uuid: cf6c09c8-fb07-411a-94f2-3ff00f23e468
 title: "Actes des journées doctorales Littérature et peinture"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

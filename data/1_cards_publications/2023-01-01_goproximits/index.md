@@ -1,5 +1,5 @@
 ---
-uuid: 8114358b-682d-47b0-a51c-7c2c4ae43b29
+uuid: 6eab8e1f-c9da-4ef6-b8cb-4069a9df8d65
 title: "GéoProximitéS"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

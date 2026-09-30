@@ -1,5 +1,5 @@
 ---
-uuid: bf55cedf-6187-49d9-b405-0ddc1c72370a
+uuid: ad0ee32c-9898-480b-8e50-c27d19622c7f
 title: "OpenMod 2024 workshop"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

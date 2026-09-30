@@ -1,5 +1,5 @@
 ---
-uuid: 74304189-05b8-49b0-b9eb-eb44890a1c54
+uuid: 68b3af46-45b9-46a2-882a-b8278d32a083
 title: "Numerique et education : dispositifs, jeux, enjeux, hors jeux"
 author: "Laurent Petit"
 authors: "Laurent Petit"

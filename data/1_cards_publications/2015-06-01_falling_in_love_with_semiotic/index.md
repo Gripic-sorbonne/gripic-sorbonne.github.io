@@ -1,5 +1,5 @@
 ---
-uuid: f9225bac-106a-41b6-a2e2-d54070740165
+uuid: 3496e71e-4368-4525-a017-769ea1c45aed
 title: "Falling in love with semiotic"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

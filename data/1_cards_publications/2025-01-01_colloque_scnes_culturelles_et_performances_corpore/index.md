@@ -1,5 +1,5 @@
 ---
-uuid: be59421d-b9f8-490f-957b-eed1e1e46b48
+uuid: a8b3827c-de46-44b9-bdf8-0dba47610f89
 title: "Colloque ”Scènes culturelles et performances corporelles”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"

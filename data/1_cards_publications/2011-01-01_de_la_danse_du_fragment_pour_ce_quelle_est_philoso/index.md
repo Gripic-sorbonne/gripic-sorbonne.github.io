@@ -1,5 +1,5 @@
 ---
-uuid: 3b1f9ed0-05dc-4d8d-a249-b861bd182c88
+uuid: d227d1d5-2746-4b00-8928-5021900e81f2
 title: "De la Danse du fragment pour ce qu’elle est philosophie primordiale ou l’Ars d’escrire & portraicturer ès manières del Sieur Chariot - Henri de nom - en profession d’Ymagier & résidant aux États d’Amériques"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 605c6fdb-b327-4039-ad7d-5ef35cac08ac
+uuid: a7cfc29b-bc7e-46ea-9da5-5c5d0dda02bb
 title: "Rumeur et comm’ sont dans un bateau (électoral)"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

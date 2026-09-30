@@ -1,5 +1,5 @@
 ---
-uuid: fc97f5b3-3202-420f-9f91-684954600066
+uuid: 8bda1c60-e541-482b-ae91-0746b67c7fe6
 title: "Colloque international AMIR retreat 2018"
 author: "Pauline Escande, Valérie Jeanne-Perrier"
 authors: "Pauline Escande, Valérie Jeanne-Perrier"

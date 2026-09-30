@@ -1,5 +1,5 @@
 ---
-uuid: b211dcf4-9dfe-434f-b9a4-184ee2f32fb8
+uuid: dab528ac-abac-40a9-897b-9ae0d131980d
 title: "Proteus - Cahiers des théories de l’art"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

@@ -1,5 +1,5 @@
 ---
-uuid: e976c743-19d2-4f46-a789-19ac6cecf77d
+uuid: 2c32cf5f-4449-43be-86b0-35a0d7b6aa5a
 title: "Genre, sexualité & société"
 author: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
 authors: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"

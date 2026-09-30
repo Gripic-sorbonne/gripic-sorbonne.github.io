@@ -1,5 +1,5 @@
 ---
-uuid: 45474927-b2c6-4d7f-bd41-6112e2a0c54c
+uuid: 3094a163-63b6-4faa-9a0a-c2b91011dcb6
 title: "Les Cultural Studies. Au-delà des politiques des identités"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

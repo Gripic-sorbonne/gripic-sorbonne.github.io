@@ -1,5 +1,5 @@
 ---
-uuid: 29d2932a-7415-421a-8478-9ea8d30278d2
+uuid: 2d44f7ae-ddb6-482a-ada8-e3c260f12dec
 title: "Annuaire français de relations internationales"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"
