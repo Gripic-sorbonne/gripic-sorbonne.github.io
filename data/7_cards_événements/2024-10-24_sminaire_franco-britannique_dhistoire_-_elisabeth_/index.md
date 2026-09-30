@@ -1,5 +1,5 @@
 ---
-uuid: a7331c27-5c45-4e42-8e76-db9b71c6446b
+uuid: a20b0a69-9102-4f67-973d-f5bf8de10ceb
 title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne), « L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »"
 author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA).
 En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
@@ -14,7 +14,7 @@ Perçue progressivement comme un problème public, la gestion de l’eau est pri
 Elisabeth Davin-Mortier est post-doctorante au Laboratory for the History of Science and Technology à l’École polytechnique fédérale de Lausanne. Sa thèse intitulée « Les territoires de l’eau en Palestine rurale : une histoire environnementale, sociale et politique durant la domination britannique (1917-1947) », soutenue en 2022 à Sorbonne Université, sera publiée prochainement aux Presses des mines. "
 ---
 
-## ﻿Séquentiel
+## Séquentiel
 
  1
 

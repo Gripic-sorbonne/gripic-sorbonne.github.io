@@ -1,5 +1,5 @@
 ---
-uuid: 78469828-a722-410e-893b-ee04aea46371
+uuid: 2e3c35c5-13ff-49f1-9ddb-1335e4633cfc
 title: "Colloque international Raymond Queneau, Centenaire de la naissance de Raymond Queneau, Le mystère des origines"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

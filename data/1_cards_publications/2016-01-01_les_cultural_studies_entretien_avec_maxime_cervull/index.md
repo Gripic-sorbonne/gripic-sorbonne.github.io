@@ -1,5 +1,5 @@
 ---
-uuid: 0a2fb876-f7c2-43a7-b2c0-f1fcee4dbaf6
+uuid: bd099361-feb2-4c53-b209-7be9577b3afe
 title: "Les Cultural Studies – entretien avec Maxime Cervulle et Nelly Quemener"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"

@@ -1,5 +1,5 @@
 ---
-uuid: d4f666f8-c3f0-441c-b941-062d3a538092
+uuid: eb262c9e-419b-4482-abd6-f73841dcf7c7
 title: "La politique en continu. Vers une BFMisation de la communication ?"
 author: "Thierry Devars"
 authors: "Thierry Devars"

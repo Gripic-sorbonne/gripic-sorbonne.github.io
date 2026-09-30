@@ -1,5 +1,5 @@
 ---
-uuid: b9f73038-1b2e-4c80-87aa-09bc0e082441
+uuid: bbe5621a-15d4-453a-9abc-6f2512df57e0
 title: "Doctoriales du LERASS - Communication et engagement"
 author: "Amélie Peresson"
 authors: "Amélie Peresson"

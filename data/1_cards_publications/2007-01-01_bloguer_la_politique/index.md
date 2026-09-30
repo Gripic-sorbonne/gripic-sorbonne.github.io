@@ -1,5 +1,5 @@
 ---
-uuid: 1e8c3981-255d-4be6-be3f-aebc5ca3d0a9
+uuid: 27c774ff-ba3f-4583-a6f9-c61685ecce54
 title: "Bloguer la politique"
 author: "Sophie Pène"
 authors: "Sophie Pène"

@@ -1,5 +1,5 @@
 ---
-uuid: 457fdbb9-69d9-4289-8ad9-214acb58030e
+uuid: 9dd9b43d-42e8-44b4-9b4e-ad574138cb98
 title: "Avis à la pub"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

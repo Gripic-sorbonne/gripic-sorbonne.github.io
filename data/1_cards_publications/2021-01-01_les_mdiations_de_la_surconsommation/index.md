@@ -1,5 +1,5 @@
 ---
-uuid: 809e0da0-a7fe-4cd8-90da-209cdf688f14
+uuid: 619dfd53-a464-4293-884c-b13460981ca8
 title: "Les médiations de la surconsommation"
 author: "Caroline Marti"
 authors: "Caroline Marti"

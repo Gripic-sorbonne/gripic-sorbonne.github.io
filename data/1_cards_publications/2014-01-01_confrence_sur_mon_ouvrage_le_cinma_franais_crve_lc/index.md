@@ -1,5 +1,5 @@
 ---
-uuid: 7b12640c-1394-41ee-802a-17a25d4d78a9
+uuid: 9b786dea-dd1d-45b7-9a0b-7daae22d6f36
 title: "Conférence sur mon ouvrage Le cinéma français crève l’écran (Atlande, 2012)"
 author: "Pauline Escande"
 authors: "Pauline Escande"

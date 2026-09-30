@@ -1,5 +1,5 @@
 ---
-uuid: a9268129-b63c-4a1e-853c-047f90c15d7b
+uuid: 5415a601-ec17-4db9-96c2-7c976cc11e00
 title: "ICA Post conference Digital Health Communication : Issues and Perspectives"
 author: "Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang"
 authors: "Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang"

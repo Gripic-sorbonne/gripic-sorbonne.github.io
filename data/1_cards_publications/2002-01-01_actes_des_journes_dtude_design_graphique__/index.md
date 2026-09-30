@@ -1,5 +1,5 @@
 ---
-uuid: c79035a4-9f9c-4257-a861-1fc69929d19f
+uuid: d3fbb6fe-9086-4b38-91fb-d987af27a353
 title: "Actes des journées d’étude Design… graphique ?"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

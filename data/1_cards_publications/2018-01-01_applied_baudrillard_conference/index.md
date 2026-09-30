@@ -1,5 +1,5 @@
 ---
-uuid: cc3e7ab0-2e40-4780-86fc-7b87bf472887
+uuid: a5f134b4-8cc2-4d24-a84d-4255847790bb
 title: "Applied Baudrillard Conference"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

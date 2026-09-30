@@ -1,5 +1,5 @@
 ---
-uuid: 072430f6-36a1-4687-afa2-f47110a99aad
+uuid: 2a10905d-6cd6-4b85-b9b0-bda3d6773d13
 title: "Communication politique. Les clés essentielles pour comprendre la communication politique grâce à une approche pédagogique unique."
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

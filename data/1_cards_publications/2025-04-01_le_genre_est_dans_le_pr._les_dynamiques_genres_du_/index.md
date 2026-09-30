@@ -1,5 +1,5 @@
 ---
-uuid: db9b1162-fd5d-4606-9f79-e5f0541a1827
+uuid: 04cff4be-1e9f-4622-93f4-04c983b8b24d
 title: "“ Le genre est dans le pré. Les dynamiques genrées du travail agricole ”"
 author: "Celia Banos"
 authors: "Celia Banos"

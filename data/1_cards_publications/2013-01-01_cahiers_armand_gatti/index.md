@@ -1,5 +1,5 @@
 ---
-uuid: 89918584-ef83-40d2-8f10-87fc0e72e3c2
+uuid: c1b209ba-154c-4a9a-a74f-f4abdbda748b
 title: "Cahiers Armand Gatti"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

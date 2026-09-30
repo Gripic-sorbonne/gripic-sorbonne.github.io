@@ -1,5 +1,5 @@
 ---
-uuid: 2bfc3f75-19bb-4b63-99e8-6a67535bc8a9
+uuid: d0a55b48-2d12-4a51-a9c9-194792fa4ecb
 title: "De l’Ouest à l’Est : Métamorphoses des Discours en Europe"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"
