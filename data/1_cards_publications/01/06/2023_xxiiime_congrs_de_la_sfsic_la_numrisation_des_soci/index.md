@@ -1,5 +1,5 @@
 ---
-uuid: 65271a2d-069c-43cc-a2a8-36cd8f2361b2
+uuid: dbade98c-d41b-49f9-9de0-4b22ba987877
 title: "XXIIIème Congrès de la SFSIC ”La numérisation des sociétés”"
 author: "Laurence Allard, Pauline Escande-Gauquié, Étienne Candel, Gustavo Gomez-Mejia, Laurent Creton, Emilie Lage, David Galli, Marc Jahjah, Franck Renucci, Alexandra Saemmer"
 authors: "Laurence Allard, Pauline Escande-Gauquié, Étienne Candel, Gustavo Gomez-Mejia, Laurent Creton, Emilie Lage, David Galli, Marc Jahjah, Franck Renucci, Alexandra Saemmer"

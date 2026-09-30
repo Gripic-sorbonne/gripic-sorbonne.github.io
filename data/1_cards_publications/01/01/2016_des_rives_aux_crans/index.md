@@ -1,5 +1,5 @@
 ---
-uuid: b3aabe62-1630-4b9f-9ed9-a21456e91edf
+uuid: 272b3b10-4dbc-4114-a88f-5ad9058f7376
 title: "Des rives aux écrans"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

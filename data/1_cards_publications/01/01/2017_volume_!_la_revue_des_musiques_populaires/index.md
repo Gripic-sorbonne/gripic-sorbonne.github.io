@@ -1,5 +1,5 @@
 ---
-uuid: b7622151-c48d-427e-a5df-71e5989cc736
+uuid: e31418e8-40a9-4c5a-b56d-77f2e2f398f6
 title: "Volume ! La revue des musiques populaires"
 author: "Jonathan Sterne, Jedediah Sklower, Guillaume Heuguet"
 authors: "Jonathan Sterne, Jedediah Sklower, Guillaume Heuguet"

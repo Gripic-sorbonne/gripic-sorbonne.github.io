@@ -1,5 +1,5 @@
 ---
-uuid: a3b39c7a-9863-4896-ada6-b0236426d105
+uuid: 82a2bdb4-5129-48f0-82de-02a25226ae68
 title: "Le concept d’étrangeté (ghurba) dans la construction identitaire des cyber-militants de l’Etat Islamique. Ethnographie d’une djihadosphère entre 2018 et 2022"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"

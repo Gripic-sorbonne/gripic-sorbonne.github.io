@@ -1,5 +1,5 @@
 ---
-uuid: 396fee78-48df-460f-95e2-5fbc2c53ee80
+uuid: ad5fc4e2-3234-4703-900a-6171eeaae4b1
 title: "Ocula : occhio semiotico sui media"
 author: "Inès Garmon"
 authors: "Inès Garmon"

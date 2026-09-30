@@ -1,5 +1,5 @@
 ---
-uuid: a79df48f-3dc5-40e9-9d11-a59c473e719c
+uuid: 5a880398-e5c7-45cd-be66-e1010d989399
 title: "Association des doctorants et doctorantes du GRIPIC"
 abstract: ""
 url: ""

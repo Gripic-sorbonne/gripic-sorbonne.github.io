@@ -1,5 +1,5 @@
 ---
-uuid: 9506ccbc-53c4-4630-9a5f-81ecad7f95b2
+uuid: 0983f7ba-2d28-445d-9826-1ec4193ce5b8
 title: "Re-thinking the Metaverse Toward Ecological Futures: A-cosmic Immersive Virtual Worlds?"
 author: "Laurence Allard, Pauline Brouard, José Halloy, Ahn Sungseok"
 authors: "Laurence Allard, Pauline Brouard, José Halloy, Ahn Sungseok"

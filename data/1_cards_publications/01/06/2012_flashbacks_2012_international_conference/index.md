@@ -1,5 +1,5 @@
 ---
-uuid: ea5b2436-cd44-44a8-84c1-07bcfc807f91
+uuid: a87fc9fb-e788-4d4b-a4de-def5467ebd05
 title: "Flashbacks 2012 – International conference"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

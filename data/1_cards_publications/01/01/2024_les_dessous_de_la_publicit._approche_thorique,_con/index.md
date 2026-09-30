@@ -1,5 +1,5 @@
 ---
-uuid: 0bd824bd-40ed-4fd7-aa10-9046f39d19b7
+uuid: ffd85d15-4442-4cb5-b4b0-903c22daddcf
 title: "Les dessous de la publicité. Approche théorique, contenus, canaux et métiers"
 author: "Caroline Marti"
 authors: "Caroline Marti"

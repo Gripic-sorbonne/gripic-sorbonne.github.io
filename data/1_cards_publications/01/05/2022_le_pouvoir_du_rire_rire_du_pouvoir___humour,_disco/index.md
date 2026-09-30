@@ -1,5 +1,5 @@
 ---
-uuid: 19f83b8f-ed91-4c2b-b1ce-eb0913dbf4ee
+uuid: 5e2880d1-7454-42f3-91c7-be4103e377fc
 title: "Le pouvoir du rire – Rire du pouvoir : humour, discours et politique"
 author: "Thierry Devars"
 authors: "Thierry Devars"

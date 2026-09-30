@@ -1,5 +1,5 @@
 ---
-uuid: 00bc7500-31a1-475e-be32-4e445206b4bd
+uuid: 8c65479d-c6fb-42a6-8ebd-88df573e0f1a
 title: "Xème Congrès de l’Association Internationale de Sémiotique Visuelle (AISV)"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

@@ -1,5 +1,5 @@
 ---
-uuid: 8b1bdcc1-b41d-49a1-a3c9-08b07396f687
+uuid: 88100f14-f91a-4afb-84ba-3d39b1311303
 title: "xxie journées internationales sur la communication, l’éducation et la culture scientifique et industrielle, “Technologies / technologie”"
 author: "Emmanuël Souchier, Hugues Choplin"
 authors: "Emmanuël Souchier, Hugues Choplin"

@@ -1,5 +1,5 @@
 ---
-uuid: 421bcf0b-b3b6-490a-944b-162eed708fe0
+uuid: aca416cd-6601-40ae-b085-049cf45b1676
 title: "Bulletin Epidémiologique Hebdomadaire"
 author: "Guillaume Potherat, Julien Tassel, Olivier Epaulard"
 authors: "Guillaume Potherat, Julien Tassel, Olivier Epaulard"

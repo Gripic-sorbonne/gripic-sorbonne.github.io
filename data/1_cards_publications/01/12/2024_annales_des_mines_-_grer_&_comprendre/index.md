@@ -1,5 +1,5 @@
 ---
-uuid: 0ccef023-21dd-4cd2-be8b-092df73b48db
+uuid: fa57954c-a70b-49cd-80ad-f8fa893c76f9
 title: "Annales des Mines - Gérer & comprendre"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"

@@ -1,5 +1,5 @@
 ---
-uuid: 431807fc-055b-4b84-9e8d-7221a85fbfdc
+uuid: f9f5c39d-0ce3-44c2-b69a-468fde6f8926
 title: "Troisième Colloque International Icône-Image, Image et mémoir"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 36376997-4d2a-4164-b72e-51475e3ab661
+uuid: de4da719-5a14-4c59-bb53-36ad713e0474
 title: "R. Queneau, Connaissez-vous Paris ?"
 author: "Emmanuël Souchier, Odile Cortinovis"
 authors: "Emmanuël Souchier, Odile Cortinovis"

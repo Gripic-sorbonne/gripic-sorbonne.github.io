@@ -1,5 +1,5 @@
 ---
-uuid: db7f5c2b-a4bd-46a1-b4d2-1bf0696da45b
+uuid: 016ec4e4-7e83-44ad-8f3a-8401035dac3b
 title: "Journée d’études DU Développement Durable Appliqué"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

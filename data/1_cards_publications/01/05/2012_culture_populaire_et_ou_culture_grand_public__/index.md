@@ -1,5 +1,5 @@
 ---
-uuid: 6be5b1a6-71da-45f8-a802-a45cb92cea17
+uuid: e65820a9-d9a7-40d8-a94f-f5202d3bc2b0
 title: "“ Culture populaire et/ou culture grand public ?"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

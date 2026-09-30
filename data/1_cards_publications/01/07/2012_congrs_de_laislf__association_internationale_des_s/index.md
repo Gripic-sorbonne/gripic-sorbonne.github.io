@@ -1,5 +1,5 @@
 ---
-uuid: 43000461-b466-45f3-a138-440aed829c34
+uuid: fc3be4de-3866-4853-a192-86c955d164d5
 title: "Congrès de l’AISLF (Association Internationale des Sociologues de Langue Française)"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"

@@ -1,5 +1,5 @@
 ---
-uuid: 8ba49309-7385-48c0-b6e8-dee821103538
+uuid: b3895af9-c5e0-431b-aef6-fe594118638a
 title: "Science communication in the world: Practices, theories and trends"
 author: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
 authors: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"

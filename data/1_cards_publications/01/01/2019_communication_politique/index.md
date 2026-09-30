@@ -1,5 +1,5 @@
 ---
-uuid: f3d391b5-5b41-4e01-86e7-fbb2b3a956ee
+uuid: 6810b252-7e2e-4813-a393-10a51dbd9707
 title: "Communication politique"
 author: "Thierry Devars"
 authors: "Thierry Devars"

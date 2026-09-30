@@ -1,5 +1,5 @@
 ---
-uuid: 52b0fe19-5ef5-4309-a431-6b40526a6a4a
+uuid: 0ac5347f-ceed-455b-8088-fd5b643e2dd1
 title: "Journée d’étude ”Militer au musée : actions politiques dans la sphère patrimoniale – Volet 2”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"

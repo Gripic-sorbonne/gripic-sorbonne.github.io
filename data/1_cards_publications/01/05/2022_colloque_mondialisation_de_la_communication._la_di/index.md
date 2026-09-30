@@ -1,5 +1,5 @@
 ---
-uuid: 9465576c-26ab-4926-9ee5-6c2c88189090
+uuid: 25bacaf1-bad2-46f4-b8eb-ccc29a06cb81
 title: "Colloque “ Mondialisation de la communication. La diversité des cultures en question ” XXVème colloque franco-roumain en SIC"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

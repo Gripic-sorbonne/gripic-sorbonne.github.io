@@ -1,5 +1,5 @@
 ---
-uuid: 9a20ecbd-dead-475d-8a93-2074bd4c6a05
+uuid: 66ba2226-374c-451e-8830-63064c88276c
 title: "Actes du XXII SFSIC"
 author: "Pauline Escande-Gauquié"
 authors: "Pauline Escande-Gauquié"

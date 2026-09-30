@@ -1,5 +1,5 @@
 ---
-uuid: 422754cc-16cc-4276-81c9-6c52077c8487
+uuid: 378bd664-8ff8-47ab-af08-448a864dc7ae
 title: "Amity Journal of Media and Communication Studies"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"
