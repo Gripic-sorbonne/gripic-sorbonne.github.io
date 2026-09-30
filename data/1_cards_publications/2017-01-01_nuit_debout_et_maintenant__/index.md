@@ -1,5 +1,5 @@
 ---
-uuid: d424332c-2a87-48d4-974f-f465e625f0a0
+uuid: 607e2d44-49b2-42e7-9b99-501c811fa00f
 title: "Nuit Debout et maintenant ?"
 author: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
 authors: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"

@@ -1,5 +1,5 @@
 ---
-uuid: d5817869-b7be-4677-9760-4e53edff80a9
+uuid: 85069172-5860-4cdb-baef-34d788ec22e3
 title: "Prêts pour la surveillance algorithmique en permanence ?"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

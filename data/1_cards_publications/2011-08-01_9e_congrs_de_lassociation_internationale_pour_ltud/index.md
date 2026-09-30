@@ -1,5 +1,5 @@
 ---
-uuid: 7dc1cda7-6c94-47e6-bce1-eebac6b57e5a
+uuid: 16391f28-0775-43cd-977b-4ebf08c47342
 title: "9e Congrès de l’Association Internationale pour l’Étude des Rapports entre Texte et Image (IAWIS/AIERTI)"
 author: "Séverine Barthes"
 authors: "Séverine Barthes"

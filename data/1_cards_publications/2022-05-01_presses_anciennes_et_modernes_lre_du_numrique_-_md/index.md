@@ -1,5 +1,5 @@
 ---
-uuid: 46113c4e-1465-4895-ba95-85c2166164a3
+uuid: 4f674391-7aff-4d8c-a04a-60432e5e1620
 title: "Presses anciennes et modernes à l’ère du numérique - Médias 19"
 author: "Violaine Sauty, Oriane Deseilligny"
 authors: "Violaine Sauty, Oriane Deseilligny"

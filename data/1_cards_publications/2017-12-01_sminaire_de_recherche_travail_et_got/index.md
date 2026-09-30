@@ -1,5 +1,5 @@
 ---
-uuid: cba58e9a-286a-4228-ac7b-c16f63660ad0
+uuid: 640841e2-84c5-438d-9cbf-c88d3d8fcd8c
 title: "Séminaire de recherche “ Travail et goût ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

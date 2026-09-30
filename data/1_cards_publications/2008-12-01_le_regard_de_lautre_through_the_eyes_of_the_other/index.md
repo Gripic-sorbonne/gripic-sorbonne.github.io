@@ -1,5 +1,5 @@
 ---
-uuid: c98a9d29-121b-41a1-88bf-14225615e9d0
+uuid: f7837a33-57fb-451b-9d0a-85f5dc69c2de
 title: "Le regard de l’autre/Through the eyes of the other"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

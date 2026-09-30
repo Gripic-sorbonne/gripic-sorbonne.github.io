@@ -1,5 +1,5 @@
 ---
-uuid: 5035d4b1-0b50-49fa-ac8b-7ebe6f60da85
+uuid: aad914f3-6771-43ed-88f3-adaa1fc873e2
 title: "A comparative analysis of content moderation methods on social media platforms. Working on the DSA Transparency Database."
 author: "Thibault Grison, Yannick Zelle"
 authors: "Thibault Grison, Yannick Zelle"

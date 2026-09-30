@@ -1,5 +1,5 @@
 ---
-uuid: 45d01b92-4922-4bae-8f8c-def93253aea5
+uuid: d7fde8c3-f01b-495a-bc25-8e1f5b566577
 title: "Journée d’études La marque, à la croisée du marketing et de la communication"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

@@ -1,5 +1,5 @@
 ---
-uuid: 2bef9a35-69d1-4392-ba0f-746cb630d541
+uuid: 105fe7ff-dd92-45bd-870e-ce8997e451d1
 title: "Fourth international Conference on Science in Society"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

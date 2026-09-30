@@ -1,5 +1,5 @@
 ---
-uuid: 631577fa-16ea-4498-94a2-45256dcff717
+uuid: 0206c194-df72-42db-9bb0-76a84fa2806c
 title: "Tendances RSE 2014"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

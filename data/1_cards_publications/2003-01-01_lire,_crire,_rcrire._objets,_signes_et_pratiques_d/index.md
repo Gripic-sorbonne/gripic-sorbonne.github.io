@@ -1,5 +1,5 @@
 ---
-uuid: c2bb1912-3e39-45c8-b4b5-e4b74262624d
+uuid: 2110c5c2-2c2d-4bea-a37a-6d7bc79fc80b
 title: "Lire, écrire, récrire. Objets, signes et pratiques des médias informatisés"
 author: "Emmanuël Souchier, Yves Jeanneret, Joelle Le Marec"
 authors: "Emmanuël Souchier, Yves Jeanneret, Joelle Le Marec"

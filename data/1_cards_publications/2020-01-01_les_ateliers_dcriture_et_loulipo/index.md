@@ -1,5 +1,5 @@
 ---
-uuid: fe7847df-8295-47f1-903e-a27a0eb5ab77
+uuid: 2734e3b1-0b60-4c8a-9a87-2d93d2e6d5c4
 title: "Les ateliers d’écriture et l’Oulipo"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
