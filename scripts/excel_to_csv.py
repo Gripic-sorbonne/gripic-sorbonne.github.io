@@ -5,25 +5,40 @@ EXCEL_FILE = './gripic_data.xlsx'
 OUTPUT_DIR = './inputs/'
 
 
+def format_dates_in_df(df: pd.DataFrame) -> pd.DataFrame:
+    """Ensure all datetime columns are formatted as DD/MM/YYYY."""
+    for col in df.columns:
+        # Check if column is datetime or contains date objects
+        if pd.api.types.is_datetime64_any_dtype(df[col]):
+            df[col] = df[col].dt.strftime('%d/%m/%Y')
+        elif 'date' in col.lower():
+            # Attempt parsing text date columns to standardize format
+            parsed_dates = pd.to_datetime(df[col], errors='coerce')
+            if not parsed_dates.isna().all():
+                df[col] = parsed_dates.dt.strftime('%d/%m/%Y').fillna(df[col])
+    return df
+
+
 def convert_excel_to_csvs():
     if not os.path.exists(EXCEL_FILE):
         print(f"Error: File '{EXCEL_FILE}' was not found.")
         return
 
-    # Read all sheets from the Excel workbook
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+
     xls = pd.ExcelFile(EXCEL_FILE)
     print(f"Sheets found in the Excel file: {xls.sheet_names}")
 
     for sheet_name in xls.sheet_names:
-        # Read the data from the current sheet
         df = pd.read_excel(xls, sheet_name=sheet_name)
 
-        # Define the output CSV file path
+        # Apply date formatting before export
+        df = format_dates_in_df(df)
+
         csv_filename = f"{sheet_name}.csv"
         csv_path = os.path.join(OUTPUT_DIR, csv_filename)
 
-        # Export to CSV using ';' as the separator and UTF-8 encoding
-        # index=False prevents pandas from including the row numbers
         df.to_csv(
             csv_path,
             sep=';',
