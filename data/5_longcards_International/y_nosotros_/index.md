@@ -1,9 +1,11 @@
 ---
-uuid: 497216a0-4029-4169-b928-1d4973fb2ef9
+uuid: 9c529c5c-d3bc-45f5-bc0b-cf3856b8654a
 title: "¿Y nosotros?"
 abstract: ""
 url: ""
 ---
+
+<img src="./pexels-pixabay-268460.webp" width="100%" />
 
 ## Presentación
 

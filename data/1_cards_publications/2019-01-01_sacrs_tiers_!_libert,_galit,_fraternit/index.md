@@ -1,5 +1,5 @@
 ---
-uuid: 4416cdc3-e8b9-4c07-a4de-b8b7524ac1b8
+uuid: 8ece369d-d1ff-4668-8767-2d065dee3744
 title: "Sacrés Tiers ! Liberté, Égalité, Fraternité"
 author: "Emmanuël Souchier, E. Tadier"
 authors: "Emmanuël Souchier, E. Tadier"

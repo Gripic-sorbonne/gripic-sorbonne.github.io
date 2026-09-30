@@ -1,5 +1,5 @@
 ---
-uuid: 3c64a629-7376-449d-ab27-ee6ae0087b46
+uuid: 16c7f6a2-f9f2-441a-8c98-1aeffe3f305c
 title: "Critical study of the new ways of “editorialising” open access scientific journals"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"

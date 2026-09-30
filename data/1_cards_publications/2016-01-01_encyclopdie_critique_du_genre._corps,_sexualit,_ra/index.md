@@ -1,5 +1,5 @@
 ---
-uuid: 99a2359a-a4e7-470a-8010-c40653468561
+uuid: 1cfcdc19-2067-4a5f-8e21-1a50c414feef
 title: "Encyclopédie critique du genre. Corps, sexualité, rapports sociaux"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"

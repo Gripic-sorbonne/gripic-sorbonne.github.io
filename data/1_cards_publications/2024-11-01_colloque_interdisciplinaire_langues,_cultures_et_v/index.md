@@ -1,5 +1,5 @@
 ---
-uuid: 5d124fbb-5373-4b63-88b5-61be8bc70c1f
+uuid: 896e08bd-c631-4a49-a328-f63945d632f7
 title: "Colloque interdisciplinaire “ Langues, cultures et vins en France et dans les pays germanophones et anglophones ”"
 author: "Celia Banos"
 authors: "Celia Banos"

@@ -1,5 +1,5 @@
 ---
-uuid: 2b2fe5a7-2342-4b3c-8f25-4ea4d3f2166d
+uuid: 90cdd0da-f779-41a7-9788-ed8dc9314882
 title: "Presses anciennes et modernes à l’ère du numérique"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

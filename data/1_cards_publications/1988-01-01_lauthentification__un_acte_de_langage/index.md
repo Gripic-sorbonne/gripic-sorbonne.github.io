@@ -1,5 +1,5 @@
 ---
-uuid: feb4c86b-2186-4427-8fc1-d4e29f5fe506
+uuid: f338e004-b1f9-424b-b15b-20ec88b3457a
 title: "L’authentification: un acte de langage"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

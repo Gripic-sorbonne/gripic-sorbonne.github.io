@@ -1,5 +1,5 @@
 ---
-uuid: cd7c32d6-4e3f-4730-a291-fcfe425682d3
+uuid: c7c3e5f8-b9fc-424d-a9ce-effe857666ba
 title: "Itinéraires. Littérature, textes, cultures"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

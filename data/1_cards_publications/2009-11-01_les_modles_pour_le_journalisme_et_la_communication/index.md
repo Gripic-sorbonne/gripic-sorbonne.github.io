@@ -1,5 +1,5 @@
 ---
-uuid: de824cf3-1c84-4655-9785-ba02aacdb925
+uuid: 6c7e339a-e2f3-45eb-b818-5eea860429f7
 title: "Les modèles pour le journalisme et la communication"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

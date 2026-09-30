@@ -1,5 +1,5 @@
 ---
-uuid: d93c735f-eb9a-498c-b75b-99fb478891d9
+uuid: 8ab167e3-fb7b-471d-9090-c4ce8801d761
 title: "Séminaire “ Viral ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

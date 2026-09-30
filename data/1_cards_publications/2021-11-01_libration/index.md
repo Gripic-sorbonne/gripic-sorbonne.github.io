@@ -1,5 +1,5 @@
 ---
-uuid: 2b67c5ea-759a-45bb-b03b-04b4027c7f96
+uuid: 8d6cda31-d781-4e73-b4d2-74f4e8c9f2df
 title: "Libération"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

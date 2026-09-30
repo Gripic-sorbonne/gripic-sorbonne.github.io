@@ -1,5 +1,5 @@
 ---
-uuid: fd790a3d-b66c-401c-8545-8dbaa06460f8
+uuid: f4bd9ec3-d8d3-4c99-b761-a7309b4b1cee
 title: "Journée d’étude. Communication et multimodalité dans l’action professionnelle"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"

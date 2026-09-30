@@ -1,5 +1,5 @@
 ---
-uuid: 782b225a-eb4a-4d9e-b324-0d7a5a08b712
+uuid: 52b7b31d-08c7-4dd4-9951-cf18806e640e
 title: "Youtubeurs, Youtubeuses"
 author: "Thierry Devars"
 authors: "Thierry Devars"

@@ -1,5 +1,5 @@
 ---
-uuid: 7d1d8d6b-20c6-427e-9e24-b004c51f0341
+uuid: 80c35835-7581-4002-9e57-2756a58a8a93
 title: "Publictionnaire"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

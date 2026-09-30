@@ -1,5 +1,5 @@
 ---
-uuid: dec8cd6a-2526-4b5c-a83b-1677565ad30b
+uuid: 93a179ba-4229-4264-b78c-f6fe0b0a48fd
 title: "Colloque Transnum – Penser le numerique comme transformation"
 author: "Guillaume Heuguet, Pauline Brouard"
 authors: "Guillaume Heuguet, Pauline Brouard"

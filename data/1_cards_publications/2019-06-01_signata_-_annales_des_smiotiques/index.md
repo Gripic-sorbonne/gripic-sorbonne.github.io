@@ -1,5 +1,5 @@
 ---
-uuid: 5c3a1fb6-1645-4711-b6d9-c6574d65f656
+uuid: 642805be-232d-4aa1-a0c8-97824c81f532
 title: "Signata - Annales des sémiotiques"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"

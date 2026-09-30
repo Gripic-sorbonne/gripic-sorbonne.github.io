@@ -1,5 +1,5 @@
 ---
-uuid: 919fcfe4-ee32-43af-b3e2-8d29794044d2
+uuid: 5c8a0902-c33f-4800-bda3-617c686a2d13
 title: "Communication & Organisation"
 author: "Caroline Montety"
 authors: "Caroline Montety"
