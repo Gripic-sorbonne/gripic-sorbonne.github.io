@@ -1,5 +1,5 @@
 ---
-uuid: 0dc5a188-5383-4ec9-b96f-554d1dfcdb35
+uuid: 5747f10f-f2fc-4fb6-a2a8-69fa8313dc56
 title: "Inscription au doctorat et à l’habilitation à diriger des recherches"
 abstract: ""
 url: ""

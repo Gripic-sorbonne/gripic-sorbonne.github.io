@@ -1,5 +1,5 @@
 ---
-uuid: cc029c7f-ed63-4588-b1ef-ae9c181a92eb
+uuid: 89c660e5-06df-481c-b0a9-fc673b7b094a
 title: "Actes du colloque Figures de l’anonymat : médias et société"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

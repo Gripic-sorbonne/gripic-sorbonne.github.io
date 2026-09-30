@@ -1,5 +1,5 @@
 ---
-uuid: dc5f9321-1c04-47c8-a9dc-7cb53a6023a7
+uuid: 067ea45a-1945-4023-83ea-e6025ceff947
 title: "Les Cahiers du numérique"
 author: "Laurent Petit"
 authors: "Laurent Petit"

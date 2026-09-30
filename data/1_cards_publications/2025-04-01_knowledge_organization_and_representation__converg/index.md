@@ -1,5 +1,5 @@
 ---
-uuid: f75e713a-b484-46ec-bbb4-6b1d6bf4686c
+uuid: 811c9bdc-d838-40e5-a751-49fcd72c75c4
 title: "”Knowledge Organization and Representation: Convergences and New Opportunities”"
 author: "Fabrice Papy, Micol Pasti"
 authors: "Fabrice Papy, Micol Pasti"

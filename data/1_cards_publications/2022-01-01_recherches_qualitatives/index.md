@@ -1,5 +1,5 @@
 ---
-uuid: cd33f1a8-9543-4b1e-a1c2-6175c1483dd7
+uuid: 917f259e-39d1-48bb-89ac-8b82e62daf84
 title: "Recherches Qualitatives"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"

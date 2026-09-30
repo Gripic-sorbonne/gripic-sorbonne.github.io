@@ -1,5 +1,5 @@
 ---
-uuid: 679bb49d-3a97-4962-810b-8a7bac1a0baa
+uuid: c48b5f36-35ad-4ba7-a95e-76eadaccdb25
 title: "Revue des Interactions Humaines Médiatisées (RIHM) = Journal of Human Mediated Interactions"
 author: "Emilie Flon, Yves Jeanneret"
 authors: "Emilie Flon, Yves Jeanneret"

@@ -1,5 +1,5 @@
 ---
-uuid: 3939d979-8eed-444f-af43-617c2ad120f2
+uuid: 408bdc8b-325e-4734-be13-8c49211b9cfb
 title: "Les monstres 2.0, l’autre visage des réseaux sociaux"
 author: "Pauline Escande, Bertrand Naivin"
 authors: "Pauline Escande, Bertrand Naivin"

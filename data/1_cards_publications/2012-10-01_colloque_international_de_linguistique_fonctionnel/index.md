@@ -1,5 +1,5 @@
 ---
-uuid: e8e660f5-9762-4c09-8fdd-b1f0449351fa
+uuid: 93b70870-6e8d-4ed1-a752-42c94444bbea
 title: "Colloque International de Linguistique Fonctionnelle"
 author: "Pauline Escande"
 authors: "Pauline Escande"

@@ -1,5 +1,5 @@
 ---
-uuid: e6e706f6-9213-4164-b189-a839c714cf5d
+uuid: 193af976-9661-48d1-97f6-14997fefb3e4
 title: "La Cité du Vin : carrefour et parcours d’interprétation libre"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

@@ -1,5 +1,5 @@
 ---
-uuid: f408aeec-33ed-4a1f-be61-3eb76704daa8
+uuid: 7b140c32-46bd-49d5-a3f0-d2ed8e04c14f
 title: "L’auctorialité au regard du numérique"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

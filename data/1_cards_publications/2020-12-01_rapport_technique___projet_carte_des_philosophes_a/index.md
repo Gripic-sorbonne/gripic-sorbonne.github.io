@@ -1,5 +1,5 @@
 ---
-uuid: dd43281d-ce83-45a9-8510-7e8f6fe815b2
+uuid: 4ee10427-dc21-4e2f-818f-5678dcf15581
 title: "Rapport technique : projet “ Carte des philosophes antiques ”"
 author: "Julie Giovacchini, Aurélien Berra, Laurent Capron, Catherine Psilakis, Bernard Weiss, Pierre-Carl Langlais, Juliette Lemaire"
 authors: "Julie Giovacchini, Aurélien Berra, Laurent Capron, Catherine Psilakis, Bernard Weiss, Pierre-Carl Langlais, Juliette Lemaire"

@@ -1,5 +1,5 @@
 ---
-uuid: 6e2ed375-8d0f-4806-8a18-1753b5cd28e9
+uuid: 585c3d12-0cd9-4178-ad66-e929352db111
 title: "La bibliothèque de Jean-Baudrillard"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

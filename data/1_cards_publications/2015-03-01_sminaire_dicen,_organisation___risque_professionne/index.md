@@ -1,5 +1,5 @@
 ---
-uuid: eb9ae973-87a4-47ac-9470-bd471ad1c10f
+uuid: 1ec65a28-d0a2-4a60-928b-64907b0d25bc
 title: "Séminaire DICEN, “ Organisation : risque professionnel et surveillance ,” CNAM"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

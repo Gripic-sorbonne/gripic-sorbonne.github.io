@@ -1,5 +1,5 @@
 ---
-uuid: 6b2f816c-93b4-462c-b246-5c224be7fe35
+uuid: 18db7de5-c28f-4fae-bfd7-b22a3f79c4c3
 title: "“… parce qu’ici c’est de peinture qu’il s’agit !”"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

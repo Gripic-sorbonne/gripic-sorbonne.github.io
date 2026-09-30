@@ -1,5 +1,5 @@
 ---
-uuid: 3fbc9158-d32d-480e-861b-ce6ed2c07f02
+uuid: c29d3e76-b0b4-4596-b909-e5841de109a9
 title: "L’alimentation demain Cultures et médiations"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

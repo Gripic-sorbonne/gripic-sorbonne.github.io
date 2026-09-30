@@ -1,5 +1,5 @@
 ---
-uuid: 6e795626-b91d-40b6-b255-9b963e9eeae0
+uuid: bd0b39d8-666d-4dfc-bfb0-982cdb86a24f
 title: "Support et conseil éditorial pour la 7e édition du Communicator, en collaboration avec les éditions Dunod et l’institut d’études Occurrence"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

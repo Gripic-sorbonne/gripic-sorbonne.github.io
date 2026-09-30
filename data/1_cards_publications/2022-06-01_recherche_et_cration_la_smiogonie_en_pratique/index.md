@@ -1,5 +1,5 @@
 ---
-uuid: 616a8fbf-8dcc-4b1b-aa5c-58ade88fe20a
+uuid: ee9c7aa7-691c-4204-9ddc-57af6668710b
 title: "Recherche et création la sémiogonie en pratique"
 author: "Pauline Escande"
 authors: "Pauline Escande"

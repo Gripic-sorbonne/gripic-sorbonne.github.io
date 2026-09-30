@@ -1,5 +1,5 @@
 ---
-uuid: b89e3b5b-ab4c-4c45-96bf-cf0ca12453c5
+uuid: 23454cb7-6e9a-498d-9b16-ae32299585d7
 title: "From fossil capital protection to flow-based communism. About Overshoot, Malm and Carton, 2024"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

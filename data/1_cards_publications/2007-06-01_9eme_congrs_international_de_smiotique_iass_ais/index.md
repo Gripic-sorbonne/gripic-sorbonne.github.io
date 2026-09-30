@@ -1,5 +1,5 @@
 ---
-uuid: a9b9b963-c149-47b1-bc5e-53169fd2a2bc
+uuid: ad2bf913-cade-429e-98f0-c50b082065b4
 title: "9eme Congrès International de Sémiotique IASS/AIS"
 author: "Pauline Escande"
 authors: "Pauline Escande"
