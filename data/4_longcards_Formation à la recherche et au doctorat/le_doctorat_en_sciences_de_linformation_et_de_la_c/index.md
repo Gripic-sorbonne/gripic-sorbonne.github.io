@@ -1,5 +1,5 @@
 ---
-uuid: eabe90c7-6a99-40c3-8ebd-01b9855bc883
+uuid: 6ef67c9e-c14d-49c5-8301-ff232804003d
 title: "Le doctorat en sciences de l’information et de la communication au GRIPIC"
 abstract: ""
 url: "https://ed433.sorbonne-universite.fr"
