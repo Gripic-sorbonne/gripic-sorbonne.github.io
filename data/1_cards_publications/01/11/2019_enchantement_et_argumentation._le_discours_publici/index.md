@@ -1,5 +1,5 @@
 ---
-uuid: 36db2314-1aa9-4fec-bfce-2d795b382010
+uuid: 85facabc-e26b-4e27-8f56-3c4d62ca0490
 title: "Enchantement et argumentation. Le discours publicitaire des parcs à thème"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"

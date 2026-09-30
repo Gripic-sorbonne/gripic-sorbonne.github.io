@@ -1,5 +1,5 @@
 ---
-uuid: 07d3fe9c-7690-4081-a572-132160895b38
+uuid: 28e2da4b-680c-4ad8-bb09-cce93e5aba56
 title: "Penser l’alimentation demain"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

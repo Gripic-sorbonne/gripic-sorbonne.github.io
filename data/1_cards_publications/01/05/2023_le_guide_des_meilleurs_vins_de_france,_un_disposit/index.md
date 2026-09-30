@@ -1,5 +1,5 @@
 ---
-uuid: 3aaa98cd-67c6-4697-a6d7-d2ea9ea798e3
+uuid: c9c22d3c-bf89-4d08-9725-335973f0992c
 title: "Le Guide des Meilleurs Vins de France, un dispositif de médiation(s) et de représentation(s) genrées"
 author: "Celia Banos"
 authors: "Celia Banos"

@@ -1,5 +1,5 @@
 ---
-uuid: c5765b4e-be61-476e-b026-ac51cfa94b01
+uuid: 43392540-adbd-41d6-96b5-60ab8ad3aebc
 title: "Griffon"
 author: "Emmanuël Souchier, Martine Descouens"
 authors: "Emmanuël Souchier, Martine Descouens"

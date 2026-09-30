@@ -1,5 +1,5 @@
 ---
-uuid: aae9ea71-13b6-40ee-a906-2d7bba799a9d
+uuid: 4177d2ba-20c0-4f3b-8c53-040d56b6fcb6
 title: "Journée d’étude GRIPIC-IRSIC, Ville d’eau, eau de vie"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

@@ -1,5 +1,5 @@
 ---
-uuid: 558cc9fd-8701-492c-9a88-6942b74aa14b
+uuid: b9bfb58e-a5f1-43b4-8d90-f18566780670
 title: "Arthur, Fiches réponses avec consignes des exercices"
 author: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 authors: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"

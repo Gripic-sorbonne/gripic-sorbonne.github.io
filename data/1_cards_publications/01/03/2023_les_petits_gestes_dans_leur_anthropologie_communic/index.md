@@ -1,5 +1,5 @@
 ---
-uuid: da9421f4-bf1b-4b97-871e-49508bcbfa3d
+uuid: 49bf5410-fd27-475e-9de5-bb34e2bbeea4
 title: "Les “ petits gestes ” dans leur anthropologie communicationnelle. Étudier la “ digipulation ” des applications mobiles"
 author: "Inès Garmon"
 authors: "Inès Garmon"

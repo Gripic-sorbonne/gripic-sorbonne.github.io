@@ -1,5 +1,5 @@
 ---
-uuid: b62035e4-5b3d-454a-8266-d7c9c6d09281
+uuid: 76e5a30c-df81-4dfc-81c3-dc95e729ab87
 title: "Télévision et pouvoirs, Actes du colloque 25 images / seconde"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: ea273d6b-0c9b-40ba-94bb-d036c203981e
+uuid: 5f966ff7-77c1-4aa3-81c8-e4e77ab04fbd
 title: "Les Visiteurs photographes : un outil pour penser le musée"
 author: "hecate vergopoulos, Michaël Bourgatte"
 authors: "hecate vergopoulos, Michaël Bourgatte"

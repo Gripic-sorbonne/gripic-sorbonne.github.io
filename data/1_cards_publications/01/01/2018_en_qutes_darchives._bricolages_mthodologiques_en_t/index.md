@@ -1,5 +1,5 @@
 ---
-uuid: 99b87691-b724-4300-9a40-fd776b8f08cf
+uuid: 5333c70e-361e-456e-8af5-ab571c3c4295
 title: "En quêtes d’archives. Bricolages méthodologiques en terrains médiatiques"
 author: "Nelly Quemener, Jamil Dakhlia"
 authors: "Nelly Quemener, Jamil Dakhlia"

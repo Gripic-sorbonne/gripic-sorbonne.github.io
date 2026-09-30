@@ -1,5 +1,5 @@
 ---
-uuid: 1c9a0839-5ac3-491b-9b99-02ead7ad2c66
+uuid: d10c87d0-0162-479e-be39-2f0eed73ecac
 title: "Zola au Panthéon. L’Épilogue de l’affaire Dreyfus"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

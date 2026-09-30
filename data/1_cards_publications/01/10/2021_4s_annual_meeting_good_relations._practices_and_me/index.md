@@ -1,5 +1,5 @@
 ---
-uuid: 30b1dda2-671e-403a-bc79-d4bd3ba684d6
+uuid: 0cba6928-cd77-4fae-8d07-9083b00ba1cf
 title: "4S Annual Meeting ”Good Relations. Practices and Methods in Unequal and Incertain Worlds”"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"

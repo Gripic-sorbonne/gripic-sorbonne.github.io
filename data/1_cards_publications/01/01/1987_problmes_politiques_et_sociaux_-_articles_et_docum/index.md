@@ -1,5 +1,5 @@
 ---
-uuid: 3af0836f-35dd-47f6-8b89-2de7dcb8f9a5
+uuid: 5f12e02c-6972-499b-b154-cc4007a359e1
 title: "Problèmes Politiques et Sociaux - Articles et Documents d’Actualité Mondiale"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

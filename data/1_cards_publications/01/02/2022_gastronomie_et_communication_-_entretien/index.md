@@ -1,5 +1,5 @@
 ---
-uuid: f5d57de2-add1-4e02-a354-51e4a63e6f18
+uuid: e7ca56ea-88df-48bc-8592-246cdea88900
 title: "Gastronomie et Communication - Entretien"
 author: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
 authors: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"

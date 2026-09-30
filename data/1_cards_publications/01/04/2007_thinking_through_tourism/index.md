@@ -1,5 +1,5 @@
 ---
-uuid: 5a8768c8-c802-43b8-93d0-7ba4d4ccfe74
+uuid: fa562783-2f22-45dd-8835-e87885b0d5f5
 title: "Thinking Through Tourism"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

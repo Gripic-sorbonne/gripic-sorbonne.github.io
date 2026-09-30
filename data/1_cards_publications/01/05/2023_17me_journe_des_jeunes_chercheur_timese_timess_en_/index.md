@@ -1,5 +1,5 @@
 ---
-uuid: 4f3e7cfb-5b39-44b6-8caa-8c8a05067cda
+uuid: e6dc2f33-67f2-48b5-8b68-2fa18b2e154e
 title: "17ème Journée des Jeunes Chercheur\timese\timess en SIC : En(quête) de terrains"
 author: "Coline Reille"
 authors: "Coline Reille"

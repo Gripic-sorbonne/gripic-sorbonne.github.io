@@ -1,5 +1,5 @@
 ---
-uuid: 8187345b-5a1c-471c-92b7-78fdf9fbec8d
+uuid: 6347c2de-5c55-43cd-b8a2-e7e0fa015f47
 title: "séminaire Penser l’alimentation de demain, Le Grand Paris qui mange"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

@@ -1,3 +1,4 @@
+import csv
 import os
 import pandas as pd
 
@@ -8,11 +9,9 @@ OUTPUT_DIR = './inputs/'
 def format_dates_in_df(df: pd.DataFrame) -> pd.DataFrame:
     """Ensure all datetime columns are formatted as DD/MM/YYYY."""
     for col in df.columns:
-        # Check if column is datetime or contains date objects
         if pd.api.types.is_datetime64_any_dtype(df[col]):
             df[col] = df[col].dt.strftime('%d/%m/%Y')
         elif 'date' in col.lower():
-            # Attempt parsing text date columns to standardize format
             parsed_dates = pd.to_datetime(df[col], errors='coerce')
             if not parsed_dates.isna().all():
                 df[col] = parsed_dates.dt.strftime('%d/%m/%Y').fillna(df[col])
@@ -33,17 +32,18 @@ def convert_excel_to_csvs():
     for sheet_name in xls.sheet_names:
         df = pd.read_excel(xls, sheet_name=sheet_name)
 
-        # Apply date formatting before export
         df = format_dates_in_df(df)
 
         csv_filename = f"{sheet_name}.csv"
         csv_path = os.path.join(OUTPUT_DIR, csv_filename)
 
+        # Force QUOTE_ALL to enclose every cell in quotes
         df.to_csv(
             csv_path,
             sep=';',
             index=False,
-            encoding='utf-8'
+            encoding='utf-8',
+            quoting=csv.QUOTE_ALL
         )
 
         print(
@@ -53,7 +53,7 @@ def convert_excel_to_csvs():
 
     print(
         "\nProcess completed successfully! "
-        "All CSV files have been updated."
+        "All CSV files have been updated with enclosed quotes."
     )
 
 

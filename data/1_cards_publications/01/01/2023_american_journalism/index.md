@@ -1,5 +1,5 @@
 ---
-uuid: c8040111-1f01-4a20-aab5-d197f8394198
+uuid: 263d972f-1195-43ad-b5f1-6015a5c6f72f
 title: "American Journalism"
 author: "Clara Bordier"
 authors: "Clara Bordier"
