@@ -1,5 +1,5 @@
 ---
-uuid: 6c274cc1-d772-469b-800f-15cf661bd219
+uuid: 4a21a037-a050-466c-a018-18142da2d743
 title: "II Colloque franco-chilien de communication d’entreprise"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

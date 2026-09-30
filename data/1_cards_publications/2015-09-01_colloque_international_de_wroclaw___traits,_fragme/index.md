@@ -1,5 +1,5 @@
 ---
-uuid: 71058748-f484-4032-bd33-586084d9767e
+uuid: 3091a29c-f794-4e12-9574-6d0430b9b774
 title: "Colloque international de Wroclaw : “Traits, fragments, figures chez Roland Barthes ”"
 author: "Pauline Escande, Olivier AÏM"
 authors: "Pauline Escande, Olivier AÏM"

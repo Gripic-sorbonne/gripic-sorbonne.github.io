@@ -1,5 +1,5 @@
 ---
-uuid: ad4c0a50-6c76-4657-9a80-799bc66030e7
+uuid: 15958522-eb2a-45b0-9122-527f93d2907a
 title: "Le Dessous des Marques"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"

@@ -1,5 +1,5 @@
 ---
-uuid: 8baca0a5-a3c0-4069-9629-711700183909
+uuid: 73c6497e-965b-4954-b922-0640dad5fa4e
 title: "Trajectoire et témoignage. Pour une réflexion pluridisciplinaire"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

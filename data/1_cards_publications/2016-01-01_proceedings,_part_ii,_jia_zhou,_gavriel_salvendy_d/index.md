@@ -1,5 +1,5 @@
 ---
-uuid: 4591b5bc-7191-4ff7-bb78-c33a18ec609c
+uuid: 8691029e-e9ff-4491-a02e-6c250a3cb56f
 title: "Proceedings, Part II, Jia Zhou, Gavriel Salvendy Dir., Springer"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

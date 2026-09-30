@@ -1,5 +1,5 @@
 ---
-uuid: 2f32f573-3a94-406d-b1c2-0bd7ca6f525f
+uuid: e2ea06f9-a6d0-4a3e-8c73-f7a895f97de2
 title: "Éditorial printemps 2011"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

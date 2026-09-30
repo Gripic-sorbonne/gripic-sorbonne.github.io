@@ -1,5 +1,5 @@
 ---
-uuid: f8abe388-fcc5-4772-a636-f30a80e9b2ee
+uuid: f97ff2d7-0291-4ae3-9660-6acb6d3c3baf
 title: "Textexpo. Produire, éditer et afficher les textes d’exposition"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

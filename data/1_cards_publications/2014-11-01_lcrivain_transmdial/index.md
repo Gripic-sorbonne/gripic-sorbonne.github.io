@@ -1,5 +1,5 @@
 ---
-uuid: c900d8df-89d9-4980-8bdb-79110d7ed55d
+uuid: 9cb51b04-c7a2-4668-8020-d7e85feb0e08
 title: "L’Écrivain transmédial"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

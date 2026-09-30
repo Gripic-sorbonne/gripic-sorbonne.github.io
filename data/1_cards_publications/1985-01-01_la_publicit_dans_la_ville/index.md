@@ -1,5 +1,5 @@
 ---
-uuid: e1481348-1793-44c4-a835-449d5ebd6466
+uuid: b80b8c4f-8747-40c8-b2b4-d96980b67cea
 title: "La publicité dans la ville"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

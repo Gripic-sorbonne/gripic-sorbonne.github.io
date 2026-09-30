@@ -1,5 +1,5 @@
 ---
-uuid: 11855d10-cafd-4281-aa58-4d64a3b71865
+uuid: ccb6fd4c-e9dc-4687-b39a-52df066cb6bc
 title: "Le cinéma français crève l’écran, pour en finir avec la crise du cinéma français"
 author: "Pauline Escande"
 authors: "Pauline Escande"

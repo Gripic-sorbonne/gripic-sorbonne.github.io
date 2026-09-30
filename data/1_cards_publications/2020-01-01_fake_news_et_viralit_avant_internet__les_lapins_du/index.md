@@ -1,5 +1,5 @@
 ---
-uuid: 0af48c04-2a1b-4d72-a126-fcd2943b7410
+uuid: 4b7a6731-154b-47ce-abc8-a2aed392ed42
 title: "Fake news et viralité avant Internet: les lapins du Père-Lachaise et autres légendes médiatiques"
 author: "Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty"
 authors: "Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty"

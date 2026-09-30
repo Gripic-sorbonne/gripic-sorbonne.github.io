@@ -1,5 +1,5 @@
 ---
-uuid: da3b54f6-c403-4e59-b0ca-f3360dc64ea8
+uuid: e8832d9c-a654-4494-a1f5-6dd07504c5d2
 title: "Écrire le fait divers à la télévision : la rhétorique émotionnelle du drame personnel au journal télévisé de TF1"
 author: "Bérénice Mariau"
 authors: "Bérénice Mariau"

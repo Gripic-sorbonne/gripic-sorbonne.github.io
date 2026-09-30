@@ -1,5 +1,5 @@
 ---
-uuid: df45dc9d-1e39-4df4-b759-40c33c8f5450
+uuid: f0d8d500-c391-4558-9ec7-92baf6cb271b
 title: "Mutations de l’image documentaire"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

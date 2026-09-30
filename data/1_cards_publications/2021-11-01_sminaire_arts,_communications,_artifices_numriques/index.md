@@ -1,5 +1,5 @@
 ---
-uuid: ab16f48d-56b6-4ae5-a371-46940cf48368
+uuid: 8f5ce640-d232-45c8-ad29-288fb7323d0c
 title: "Séminaire “ Arts, communications, artifices numériques et écosystèmes socio-numériques (Arcanes)"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

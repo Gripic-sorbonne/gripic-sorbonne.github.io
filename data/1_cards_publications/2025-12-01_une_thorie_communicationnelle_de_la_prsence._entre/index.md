@@ -1,5 +1,5 @@
 ---
-uuid: cfa90cc3-ab11-401c-81b5-c94c19886be2
+uuid: e54bf7dc-f4ec-4aa0-afa8-6cff2ecf16dd
 title: "Une théorie communicationnelle de la présence. Entretenir une relation avec une séité non-humaine : le cas de la poupée de compagnie"
 author: "Pierre-Yves Halin"
 authors: "Pierre-Yves Halin"

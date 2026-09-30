@@ -1,5 +1,5 @@
 ---
-uuid: e7ab92e0-a29d-456a-af0a-b523b74f9912
+uuid: 21ecf2e8-7894-4b8c-87cb-0225975f0ff5
 title: "Or c’est du blanc qu’advient l’écrit..."
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
