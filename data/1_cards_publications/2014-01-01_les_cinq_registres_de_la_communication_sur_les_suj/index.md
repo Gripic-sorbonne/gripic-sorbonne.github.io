@@ -1,5 +1,5 @@
 ---
-uuid: 216f931a-8158-47e0-b197-9bb764875a8e
+uuid: a5c3b388-bfd4-4a14-9e7e-e6bc3fcc0013
 title: "Les cinq registres de la communication sur les sujets sensibles"
 author: "Thierry Libaert, François Allard-Huver"
 authors: "Thierry Libaert, François Allard-Huver"

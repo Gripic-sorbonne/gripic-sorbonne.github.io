@@ -1,5 +1,5 @@
 ---
-uuid: 675169c3-0bac-4797-ab21-7433c1f7b283
+uuid: 1478338f-6e41-4181-bdd0-527ff7dd73be
 title: "Handbook of Research on Digital Media and Creative Technologies"
 author: "François Allard-Huver, Nicholas Gilewicz"
 authors: "François Allard-Huver, Nicholas Gilewicz"

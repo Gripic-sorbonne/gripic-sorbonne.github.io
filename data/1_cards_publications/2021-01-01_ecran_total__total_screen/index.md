@@ -1,5 +1,5 @@
 ---
-uuid: 1bcf5d7f-05cf-481b-b70c-e9d5bd8af44e
+uuid: 348d6d05-5304-4d62-a384-5169da905244
 title: "Ecran total/ Total Screen"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

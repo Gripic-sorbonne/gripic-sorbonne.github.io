@@ -1,5 +1,5 @@
 ---
-uuid: 4f901bc8-47c3-4b77-bace-bf7b4a7158d1
+uuid: 0e430c1d-9f87-4152-b36a-85e3d286725c
 title: "Association des doctorants et doctorantes du GRIPIC"
 abstract: "ADAGE : L’association qui fédère les jeunes chercheurs, doctorants et docteurs en communication du GRIPIC."
 url: ""

@@ -1,5 +1,5 @@
 ---
-uuid: 721aefe2-bdc7-4973-bcd3-807f664b081a
+uuid: b6dd2c31-77a0-4d73-9518-2e661125aa9a
 title: "Va, d’un lien lié : délier…"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

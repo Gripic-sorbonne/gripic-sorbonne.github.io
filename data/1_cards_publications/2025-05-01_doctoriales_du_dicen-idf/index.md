@@ -1,5 +1,5 @@
 ---
-uuid: fcead51c-deda-4148-be8c-f6f4ca296e60
+uuid: 72565ad7-440b-4048-8b66-ff8e095e11d7
 title: "Doctoriales du Dicen-IdF"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"

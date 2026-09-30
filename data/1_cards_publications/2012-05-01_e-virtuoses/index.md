@@ -1,5 +1,5 @@
 ---
-uuid: e15439fb-a463-4a9c-8b64-d82ff3a52b47
+uuid: 9c36bc7e-39e2-46ee-a382-5721d4a8d1cb
 title: "E-virtuoses"
 author: "hecate vergopoulos, Aude Seurrat, Sarah Labelle"
 authors: "hecate vergopoulos, Aude Seurrat, Sarah Labelle"

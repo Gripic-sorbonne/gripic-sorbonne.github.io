@@ -1,5 +1,5 @@
 ---
-uuid: 942bf5ea-77d2-4a80-b147-0f17e7166ab8
+uuid: 0c9cde26-48bf-4116-9bf0-35e39e0f7758
 title: "L’éducation aux médias et à l’information"
 author: "Laurent Petit"
 authors: "Laurent Petit"

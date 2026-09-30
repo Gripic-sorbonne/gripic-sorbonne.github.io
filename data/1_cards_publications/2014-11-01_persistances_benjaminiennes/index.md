@@ -1,5 +1,5 @@
 ---
-uuid: e85c2007-3414-4e55-b82c-488c5e985b1c
+uuid: 15191c0d-23ac-406d-87a1-da7109c21492
 title: "Persistances benjaminiennes"
 author: "Olivier AÏM, Jacqueline Chervin, Perrine Boutin, Gustavo Gomez-Mejia, Jean-François Guennoc"
 authors: "Olivier AÏM, Jacqueline Chervin, Perrine Boutin, Gustavo Gomez-Mejia, Jean-François Guennoc"

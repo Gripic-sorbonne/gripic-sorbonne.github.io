@@ -1,5 +1,5 @@
 ---
-uuid: f69e189e-7b9d-439f-a41d-b0866fc109f6
+uuid: f71b66be-9281-497d-b234-12d4b1fe2c06
 title: "Colloque international ”Le discours de la rumeur à l’ère numerique”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

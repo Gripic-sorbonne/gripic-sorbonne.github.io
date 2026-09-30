@@ -1,5 +1,5 @@
 ---
-uuid: f06a43c2-8be0-4163-b2b7-2f70313cd213
+uuid: ec794471-8a40-4299-853b-9d55306a7c9d
 title: "Communiquer-Innover. Réseaux, dispositifs, territoires"
 author: "nicole D’Almeida, Pascal Griset, Serge Proulx"
 authors: "nicole D’Almeida, Pascal Griset, Serge Proulx"

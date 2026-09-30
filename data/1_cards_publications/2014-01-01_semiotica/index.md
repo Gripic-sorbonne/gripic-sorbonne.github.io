@@ -1,5 +1,5 @@
 ---
-uuid: 007601d0-04b3-41d8-aacd-86c425ea0296
+uuid: 8548e9ae-e4e2-44a5-bed1-38e62417f5bb
 title: "Semiotica"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

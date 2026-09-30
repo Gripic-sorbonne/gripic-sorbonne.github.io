@@ -1,5 +1,5 @@
 ---
-uuid: 795191ae-babc-41d8-a619-217f683051bd
+uuid: a30d56e1-55e2-4f7f-b581-7634b1abc8c3
 title: "Journée d’étude de chien"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

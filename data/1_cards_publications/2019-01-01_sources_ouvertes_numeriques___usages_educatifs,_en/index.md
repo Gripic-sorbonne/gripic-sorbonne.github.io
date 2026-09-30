@@ -1,5 +1,5 @@
 ---
-uuid: d9f8aabc-b0d8-4f31-80e1-0becd7d1e697
+uuid: ee20f9ff-e893-40ff-bb17-320f797b6862
 title: "Sources ouvertes numeriques : usages educatifs, enjeux communicationnels : colloque international, École de journalisme et de communication d’Aix-Marseille, 13-14 octobre 2016"
 author: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
 authors: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
