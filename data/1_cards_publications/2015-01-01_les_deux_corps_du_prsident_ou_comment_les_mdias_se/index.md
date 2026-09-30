@@ -1,5 +1,5 @@
 ---
-uuid: b026cd46-a255-4e05-8bb3-7169160aa3bb
+uuid: a38e9dad-9682-4eba-8d9e-1678441a8993
 title: "Les deux corps du Président ou comment les médias se laissent séduire par le people"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

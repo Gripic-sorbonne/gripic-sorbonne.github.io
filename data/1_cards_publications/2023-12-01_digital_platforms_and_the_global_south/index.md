@@ -1,5 +1,5 @@
 ---
-uuid: bf154fd1-3789-426a-8303-90ab46929580
+uuid: 48992832-898d-4e8b-ad03-c625af239b8b
 title: "Digital Platforms and the Global South"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

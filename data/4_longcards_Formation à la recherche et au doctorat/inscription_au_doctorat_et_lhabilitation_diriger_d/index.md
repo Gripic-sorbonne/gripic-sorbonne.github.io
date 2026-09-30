@@ -1,7 +1,7 @@
 ---
-uuid: ee6e4b1b-6c4d-4955-953e-48588f6bf4a4
+uuid: 00564727-1793-4d05-aca8-534cba7f9b39
 title: "Inscription au doctorat et à l’habilitation à diriger des recherches"
-abstract: "Démarches administratives, calendriers et critères d'admission pour s'inscrire en thèse ou HDR à Sorbonne Université."
+abstract: ""
 url: ""
 ---
 

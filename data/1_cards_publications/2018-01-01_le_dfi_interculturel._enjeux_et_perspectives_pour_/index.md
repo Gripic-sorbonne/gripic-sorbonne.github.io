@@ -1,5 +1,5 @@
 ---
-uuid: d74a5e0c-2b30-4805-a648-9a358b0c5f79
+uuid: 2a912ca3-bba0-4449-a4c6-c01b6389d311
 title: "Le défi interculturel. Enjeux et perspectives pour entreprendre"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"

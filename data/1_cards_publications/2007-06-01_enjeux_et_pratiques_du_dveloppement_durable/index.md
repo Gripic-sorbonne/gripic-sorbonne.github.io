@@ -1,5 +1,5 @@
 ---
-uuid: 8d60e0c4-aea8-47db-a123-240ae6e644f3
+uuid: cbc21cd0-1e27-494d-99b3-3925d58a5c38
 title: "Enjeux et pratiques du développement durable"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

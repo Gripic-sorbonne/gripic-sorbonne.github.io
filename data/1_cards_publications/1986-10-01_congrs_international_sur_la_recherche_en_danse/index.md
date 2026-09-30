@@ -1,5 +1,5 @@
 ---
-uuid: dfdc676c-6b91-40d6-b794-9011239f3341
+uuid: f1d3592f-a6a5-46c4-a30c-afe9470c479d
 title: "Congrès international sur la recherche en danse"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

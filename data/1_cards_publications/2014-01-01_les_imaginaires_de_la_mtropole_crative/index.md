@@ -1,5 +1,5 @@
 ---
-uuid: 6f72ef30-6b8c-4bdc-ba3c-3d7a963bdd62
+uuid: 1ba6a59e-830d-4e61-8fe1-01cccdb7c7c1
 title: "Les Imaginaires de la Métropole créative"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

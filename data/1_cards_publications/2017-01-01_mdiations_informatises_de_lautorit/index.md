@@ -1,5 +1,5 @@
 ---
-uuid: 5b188e84-02a6-4d2c-94e4-574620161205
+uuid: 4649caac-f893-454c-aec6-5e43731ca280
 title: "Médiations informatisées de l’autorité"
 author: "Etienne Candel, Pergia Gkouskou-Giannakou"
 authors: "Etienne Candel, Pergia Gkouskou-Giannakou"

@@ -1,5 +1,5 @@
 ---
-uuid: b307ea56-b51e-4e15-9bab-0ecc0f25e8fd
+uuid: 659fe75f-4e72-428c-b2a9-29aa5b6f1d07
 title: "Mode & frontières. Identités, cultures et territoires"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

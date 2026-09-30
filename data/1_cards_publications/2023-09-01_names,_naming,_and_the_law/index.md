@@ -1,5 +1,5 @@
 ---
-uuid: 49101920-b1d4-433f-a4ad-1e97e061207e
+uuid: 3624b783-6135-4927-9fbb-31a3dffa66e0
 title: "Names, Naming, and the Law"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"

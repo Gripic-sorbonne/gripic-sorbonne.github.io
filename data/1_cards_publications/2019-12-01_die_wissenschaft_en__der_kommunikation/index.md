@@ -1,5 +1,5 @@
 ---
-uuid: 38853aaa-a0ee-4e13-95cb-33542250b9bd
+uuid: 0fc8ab7c-28f0-4c7c-b628-d6b52989cf49
 title: "Die Wissenschaft(en) der Kommunikation"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

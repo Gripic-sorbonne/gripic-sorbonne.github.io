@@ -1,7 +1,7 @@
 ---
-uuid: 4bc93408-4ac6-4623-adb7-6ba7a20b25ba
+uuid: 631ddc31-69da-469f-a39e-a238df9a2fe5
 title: "Direction de thèse et d’habilitation à diriger des recherches"
-abstract: "Modalités, enseignants-chercheurs habilités à diriger des recherches (HDR) et encadrement des doctorants au GRIPIC."
+abstract: ""
 url: ""
 ---
 

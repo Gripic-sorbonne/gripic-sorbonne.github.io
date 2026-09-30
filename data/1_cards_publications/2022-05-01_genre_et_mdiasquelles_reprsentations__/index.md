@@ -1,5 +1,5 @@
 ---
-uuid: 277fe92f-0740-4a6f-9303-c2c1678786f2
+uuid: d14d0d9b-9fbd-4d7e-88d8-23db8c3fbce9
 title: "Genre et médiasQuelles représentations ?"
 author: "Rym Gerwig-Kireche"
 authors: "Rym Gerwig-Kireche"

@@ -1,5 +1,5 @@
 ---
-uuid: 679213be-6b5d-47ad-a7d7-4942cb42ed9d
+uuid: 147f94ed-0c70-4ab3-899c-e0898370ada5
 title: "Épistémologie des sciences humaines"
 author: "Adeline Wrona, Emmanuël Souchier"
 authors: "Adeline Wrona, Emmanuël Souchier"

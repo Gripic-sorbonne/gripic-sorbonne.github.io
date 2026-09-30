@@ -1,5 +1,5 @@
 ---
-uuid: 8d91b05d-9f1a-47a1-be2e-ef0c4cb23dd3
+uuid: aee8f162-c5d9-4060-a705-97de6cbcdd51
 title: "Echappées, Revue annuelle d’art et de design"
 author: "Emmanuël Souchier, Amélie Lassere, Mélissa Malo, Louise Rigaux, Camille Belloc, Céline Blancou"
 authors: "Emmanuël Souchier, Amélie Lassere, Mélissa Malo, Louise Rigaux, Camille Belloc, Céline Blancou"
