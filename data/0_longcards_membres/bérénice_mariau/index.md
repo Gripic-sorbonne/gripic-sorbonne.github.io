@@ -1,5 +1,5 @@
 ---
-uuid: 811a3f9e-b839-4492-8f40-96e694aa3aa8
+uuid: fbebfc08-8206-4974-a4da-0ada8c41b03d
 prettyName: BéréniceMariau
 
 title: "Bérénice Mariau"
@@ -17,7 +17,7 @@ abstract: "Maitresse de conférences | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Formes et écritures médiatiques
 Télécharger le CV

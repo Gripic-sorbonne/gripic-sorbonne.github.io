@@ -1,5 +1,5 @@
 ---
-uuid: 8c91c231-afae-4db5-907d-8ddf20ed35ba
+uuid: 0f6177b0-415f-4242-985c-9603f2b61502
 prettyName: FrancisYaiche
 
 title: "Francis Yaiche"
@@ -15,5 +15,5 @@ abstract: "Professeur des universités | Membre associé"
 
 ## Expertises
 
- Théories de linformation et de la communication, Sémiotique des discours publicitaires et politiques, Atelier décriture, Créativité, jeux et simulations, Jeu théâtral et direction dacteurs, Didactique des langues et des cultures : approches communicatives.
+ Théories de l'information et de la communication, Sémiotique des discours publicitaires et politiques, Atelier d'écriture, Créativité, jeux et simulations, Jeu théâtral et direction d'acteurs, Didactique des langues et des cultures : approches communicatives.
 

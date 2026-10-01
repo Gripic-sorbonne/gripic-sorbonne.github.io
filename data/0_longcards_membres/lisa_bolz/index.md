@@ -1,5 +1,5 @@
 ---
-uuid: fd4a87c1-bc89-4046-850c-8b2d587e4d4e
+uuid: 66ec3c3e-fe5b-4d19-b1d2-902af912a16d
 prettyName: LisaBolz
 
 title: "Lisa Bolz"
@@ -15,7 +15,7 @@ abstract: "Maitresse de conférences | Membre permanent en enseignement et reche
 ## Autres activités de recherche
 
  Die telegraphische Agenturdepesche in der deutschen und französischen Presse des 19. Jahrhunderts, 1849-1870.
-Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
+Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
 Standardisierung und Normalisierung eines journalistischen Formats in der Auslandsberichterstattung.
 Lisa Bolz, 2016
 Comment penser l’actualité ?

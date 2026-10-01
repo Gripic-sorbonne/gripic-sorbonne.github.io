@@ -1,5 +1,5 @@
 ---
-uuid: e405ae04-325c-45db-be76-3bc0fa0c2b53
+uuid: 40b1d94b-b77c-4df5-a1c6-57717cc4b03b
 prettyName: NellyQuemener
 
 title: "Nelly Quemener"
@@ -16,10 +16,10 @@ abstract: "Professeure des universités | Membre permanent en enseignement et re
 
 ## Activités scientifiques
 
- Chercheuse associée de lInstitut National de Science et Technologie en Démocratie Numérique (INCT.DD), rattaché à lUniversité fédérale de Bahia, à Salvador, au Brésil (depuis 2024).
+ Chercheuse associée de l'Institut National de Science et Technologie en Démocratie Numérique (INCT.DD), rattaché à l'Université fédérale de Bahia, à Salvador, au Brésil (depuis 2024).
 Collaboratrice au sein de la chaire, portée par Mireille Lalancette et Éric Belanger, « La démocratie, le vivre ensemble et les valeurs communes du Québec ».
 Chercheuse associée, depuis 2018, au GRCP, Groupe de Recherche en Communication Politique, Université de Laval.
-Membre du Conseil scientifique de lInstitut du Genre pour la mandature 2025-2029.
+Membre du Conseil scientifique de l'Institut du Genre pour la mandature 2025-2029.
 Co-organisatrice avec Virginie Julliard (CELSA, Gripic) du séminaire Genre, Médias et Communication.
 Directrice de la revue Poli - Politiques des Cultural Studies.
 Membre du comité de rédaction de la revue French Cultural Studies.
@@ -32,7 +32,7 @@ Participations régulières au Global Media Monitoring Project (éditions 2010, 
 Organisation d’événements scientifiques
 16 et 17 janvier 2025 – Co-organisation avec Rym Kireche-Gerwig du colloque international Scènes culturelles et performances corporelles, avec le soutien du GRIPIC, Maison de la recherche de Sorbonne Université.
 13 et 14 juin 2024 – Co-organisation avec Camila Moreira César, Virginie Julliard du colloque international sur Communautés politiques, émotions et réactions. Avec le soutien du GRIPIC, du Fond d’Intervention de la Recherche, de l’IRMÉCCEN (Université Sorbonne Nouvelle), de la Commission Recherche de Paris 3, Maison de la recherche de Sorbonne Université.
-24 et 25 novembre 2022 – Co-organisation au sein de l’association RIRH du colloque international sur Les publics de l’humour. Avec le soutien de l’IRMÉCCEN (Université Sorbonne Nouvelle), du CERC (Université Sorbonne Nouvelle), d’ARTES (Université de Bordeaux), du CPTC (Université de Bourgogne). En partenariat avec lENSATT (Lyon) et de l’Observatoire de lHumour (Montréal).
+24 et 25 novembre 2022 – Co-organisation au sein de l’association RIRH du colloque international sur Les publics de l’humour. Avec le soutien de l’IRMÉCCEN (Université Sorbonne Nouvelle), du CERC (Université Sorbonne Nouvelle), d’ARTES (Université de Bordeaux), du CPTC (Université de Bourgogne). En partenariat avec l'ENSATT (Lyon) et de l’Observatoire de l'Humour (Montréal).
 7 et 8 juillet 2022 – Co-organisation avec Camila Moreira César, Virginie Julliard et Marion Dalibert des journées d’études La circulation des extrêmes droites. Avec le soutien de la Commission Recherche de Paris 3, de l’IMECCEN, du GRIPIC et de GERiiCO.
 22 et 23 mars 2018 – Co-organisation avec Marie-Duret Pujol des journées d’études Les scènes de l’humour. Avec le laboratoire CLARE/ Artes de l’université de Bordeaux, l’association RIRH et le festival Les Fous rires de Bordeaux.
 
@@ -45,7 +45,7 @@ Nelly Quemener, « “Vous voulez réagir ?” L’étude des controverses mé
 Jamil Dakhlia, Nelly Quemener, « Hérauts et héros de la postérité. Logiques de médiatisation et fabrique de la célébrité post mortem », Réseaux, vol. 210, no 4, 2018, p. 53-88.
 Nelly Quemener. « A-t-on encore besoin de la politique de l’identité ? Réflexions sur les Cultural Studies aujourd’hui », Diogène, vol. 258-259-260, no 2-3-4, 2017, p. 38-51.
 Marion Dalibert, Nelly Quemener, « Femen. La reconnaissance médiatique d’un féminisme aux seins nus », Mots. Les langages du politique, no 111, 2016, p. 83-102.
-Nelly Quemener, « “Ma chérie, il faut révéler ta féminité !”. Rhétorique du choix et de lémancipation dans les émissions de relooking en France », Raisons politiques, no 62, 2016, p. 35-49.
+Nelly Quemener, « “Ma chérie, il faut révéler ta féminité !”. Rhétorique du choix et de l'émancipation dans les émissions de relooking en France », Raisons politiques, no 62, 2016, p. 35-49.
 Gérôme Guibert, Nelly Quemener, « Cultural Studies et Économie Politique de la Communication : quel rapport au marxisme ? », Réseaux, vol. 33, no 192, 2015, p. 88-114.
 Nelly Quemener, « Des pratiques subversives ? Les humoristes françaises dans les talk-shows », Recherches féministes, vol. 25, no 2, 2012, p. 139-156.
 
@@ -59,7 +59,7 @@ Nelly Quemener, « Repenser une approche intersectionnelle au prisme du concept
 Nelly Quemener, « Affects et réception médiatique. Des dimensions idéologiques du plaisir du texte aux dimensions affectives de l’idéologie », dans Éric Maigret, Laurent Martin (dir.), Les Cultural Studies. Au-delà des politiques des identités, Lormont, Les Éditions Le Bord de l’eau, 2020, p. 223-234.
 Maxime Cervulle, Nelly Quemener, « Queer », dans Juliette Rennes (dir.), Encyclopédie critique du genre. Corps, sexualité, rapports sociaux, Paris, La Découverte, 2016, p. 229-238.
 Nelly Quemener, « Une bouffonnerie désengagée ? Du comique anti-système à la critique hyperpersonnalisée », dans Patrick Charaudeau (dir.), Humour et engagement politique, Limoges, Éditions Lambert-Lucas, 2015, p. 89-112.
-Maxime Cervulle, Nelly Quemener, « Genre, race et médias. Divergences et convergences méthodologiques dans les sciences de l’information et de la communication » dans Hélène Bourdeloie, David Douyère (dir.), Méthodes de recherche sur linformation et la communication - Regards croisés, Paris, collection MediaCritic, Mare & Martin, 2014, p. 79-98.
+Maxime Cervulle, Nelly Quemener, « Genre, race et médias. Divergences et convergences méthodologiques dans les sciences de l’information et de la communication » dans Hélène Bourdeloie, David Douyère (dir.), Méthodes de recherche sur l'information et la communication - Regards croisés, Paris, collection MediaCritic, Mare & Martin, 2014, p. 79-98.
 Nelly Quemener, « Les contradictions corps/langage comme moteur du rire. Parodies et incarnations de genre chez les humoristes femmes en France », dans Luca Greco & Natacha Chetcuti (dir.), La Face cachée du genre : le rôle du langage dans la transmission et la contestation des normes, Paris, Presses Universitaires de la Sorbonne Nouvelle, 2012, p. 85-103.
 
 ## Communications et interventions
@@ -78,7 +78,7 @@ Nelly Quemener, « D’une marge à l’autre. Repenser les politiques des iden
 Jamil Dakhlia, Nelly Quemener, « Mediatized death as an hegemonic process », Congrès IAMCR / AIERI Montréal 2015, UQAM, WG Popular Culture, 12-16 juillet 2015.
 Marion Dalibert, Nelly Quemener, « L’émancipation par les seins nus ? Les Femen, de l’hypermédiatisation à l’hypersexualisation », 2ème colloque international Penser l’émancipation. Théories, pratiques et conflits autour de l’émancipation humaine, Université Paris-Ouest Nanterre, 19-22 février 2014.
 Nelly Quemener, « Disarticulated laughers: backlash in entertainment in France », Congrès IAMCR / AIERI Istanbul 2011, Kadir Haas University, SG Gender and Communication, 12 au 17 juillet 2011.
-Nelly Quemener, « Les nouveaux ressorts de l’humour : montée des groupes subalternes dans les sketches télévisuels en France », Congrès de l’Association Française de Sociologie 2011, RT 24 Genre, Classe, Race. Rapports sociaux et construction de laltérité, Université de Grenoble, 5 au 8 juillet 2011.
+Nelly Quemener, « Les nouveaux ressorts de l’humour : montée des groupes subalternes dans les sketches télévisuels en France », Congrès de l’Association Française de Sociologie 2011, RT 24 Genre, Classe, Race. Rapports sociaux et construction de l'altérité, Université de Grenoble, 5 au 8 juillet 2011.
 Nelly Quemener, « Mockery or fantasy ? Transvestite characters, cross-dressing and subaltern sexualities in the French one wo/man shows », Queer in Europe, A 3-Day International Research Symposium, The Centre for the Interdisciplinary Study of Sexuality and Gender in Europe, University of Exeter, UK, 13-15 sept. 2008.
 
 ## Directions de dossiers
@@ -98,7 +98,7 @@ Julliard Virginie, Quemener Nelly, Dossier « Émergences : le genre dans la c
 
  16 et 17 janvier 2025 – Co-organisation avec Rym Kireche-Gerwig du colloque international Scènes culturelles et performances corporelles, avec le soutien du GRIPIC, Maison de la recherche de Sorbonne Université.
 13 et 14 juin 2024 – Co-organisation avec Camila Moreira César, Virginie Julliard du colloque international sur Communautés politiques, émotions et réactions. Avec le soutien du GRIPIC, du Fond d’Intervention de la Recherche, de l’IRMÉCCEN (Université Sorbonne Nouvelle), de la Commission Recherche de Paris 3, Maison de la recherche de Sorbonne Université.
-24 et 25 novembre 2022 – Co-organisation au sein de l’association RIRH du colloque international sur Les publics de l’humour. Avec le soutien de l’IRMÉCCEN (Université Sorbonne Nouvelle), du CERC (Université Sorbonne Nouvelle), d’ARTES (Université de Bordeaux), du CPTC (Université de Bourgogne). En partenariat avec lENSATT (Lyon) et de l’Observatoire de lHumour (Montréal).
+24 et 25 novembre 2022 – Co-organisation au sein de l’association RIRH du colloque international sur Les publics de l’humour. Avec le soutien de l’IRMÉCCEN (Université Sorbonne Nouvelle), du CERC (Université Sorbonne Nouvelle), d’ARTES (Université de Bordeaux), du CPTC (Université de Bourgogne). En partenariat avec l'ENSATT (Lyon) et de l’Observatoire de l'Humour (Montréal).
 7 et 8 juillet 2022 – Co-organisation avec Camila Moreira César, Virginie Julliard et Marion Dalibert des journées d’études La circulation des extrêmes droites. Avec le soutien de la Commission Recherche de Paris 3, de l’IMECCEN, du GRIPIC et de GERiiCO.
 22 et 23 mars 2018 – Co-organisation avec Marie-Duret Pujol des journées d’études Les scènes de l’humour. Avec le laboratoire CLARE/ Artes de l’université de Bordeaux, l’association RIRH et le festival Les Fous rires de Bordeaux.
 
@@ -140,7 +140,7 @@ Nelly Quemener, « Repenser une approche intersectionnelle au prisme du concept
 Nelly Quemener, « Affects et réception médiatique. Des dimensions idéologiques du plaisir du texte aux dimensions affectives de l’idéologie », dans Éric Maigret, Laurent Martin (dir.), Les Cultural Studies. Au-delà des politiques des identités, Lormont, Les Éditions Le Bord de l’eau, 2020, p. 223-234.
 Maxime Cervulle, Nelly Quemener, « Queer », dans Juliette Rennes (dir.), Encyclopédie critique du genre. Corps, sexualité, rapports sociaux, Paris, La Découverte, 2016, p. 229-238.
 Nelly Quemener, « Une bouffonnerie désengagée ? Du comique anti-système à la critique hyperpersonnalisée », dans Patrick Charaudeau (dir.), Humour et engagement politique, Limoges, Éditions Lambert-Lucas, 2015, p. 89-112.
-Maxime Cervulle, Nelly Quemener, « Genre, race et médias. Divergences et convergences méthodologiques dans les sciences de l’information et de la communication » dans Hélène Bourdeloie, David Douyère (dir.), Méthodes de recherche sur linformation et la communication - Regards croisés, Paris, collection MediaCritic, Mare & Martin, 2014, p. 79-98.
+Maxime Cervulle, Nelly Quemener, « Genre, race et médias. Divergences et convergences méthodologiques dans les sciences de l’information et de la communication » dans Hélène Bourdeloie, David Douyère (dir.), Méthodes de recherche sur l'information et la communication - Regards croisés, Paris, collection MediaCritic, Mare & Martin, 2014, p. 79-98.
 Nelly Quemener, « Les contradictions corps/langage comme moteur du rire. Parodies et incarnations de genre chez les humoristes femmes en France », dans Luca Greco & Natacha Chetcuti (dir.), La Face cachée du genre : le rôle du langage dans la transmission et la contestation des normes, Paris, Presses Universitaires de la Sorbonne Nouvelle, 2012, p. 85-103.
 Articles
 Nelly Quemener, Virginie Julliard, « Défaire le genre des représentations médiatiques et des dispositifs numériques », Communication [En ligne], vol. 40, 2023. URL : http://journals.openedition.org/communication/18028
@@ -150,7 +150,7 @@ Nelly Quemener, « “Vous voulez réagir ?” L’étude des controverses mé
 Jamil Dakhlia, Nelly Quemener, « Hérauts et héros de la postérité. Logiques de médiatisation et fabrique de la célébrité post mortem », Réseaux, vol. 210, no 4, 2018, p. 53-88.
 Nelly Quemener. « A-t-on encore besoin de la politique de l’identité ? Réflexions sur les Cultural Studies aujourd’hui », Diogène, vol. 258-259-260, no 2-3-4, 2017, p. 38-51.
 Marion Dalibert, Nelly Quemener, « Femen. La reconnaissance médiatique d’un féminisme aux seins nus », Mots. Les langages du politique, no 111, 2016, p. 83-102.
-Nelly Quemener, « “Ma chérie, il faut révéler ta féminité !”. Rhétorique du choix et de lémancipation dans les émissions de relooking en France », Raisons politiques, no 62, 2016, p. 35-49.
+Nelly Quemener, « “Ma chérie, il faut révéler ta féminité !”. Rhétorique du choix et de l'émancipation dans les émissions de relooking en France », Raisons politiques, no 62, 2016, p. 35-49.
 Gérôme Guibert, Nelly Quemener, « Cultural Studies et Économie Politique de la Communication : quel rapport au marxisme ? », Réseaux, vol. 33, no 192, 2015, p. 88-114.
 Nelly Quemener, « Des pratiques subversives ? Les humoristes françaises dans les talk-shows », Recherches féministes, vol. 25, no 2, 2012, p. 139-156.
 Communications et interventions
@@ -168,7 +168,7 @@ Nelly Quemener, « D’une marge à l’autre. Repenser les politiques des iden
 Jamil Dakhlia, Nelly Quemener, « Mediatized death as an hegemonic process », Congrès IAMCR / AIERI Montréal 2015, UQAM, WG Popular Culture, 12-16 juillet 2015.
 Marion Dalibert, Nelly Quemener, « L’émancipation par les seins nus ? Les Femen, de l’hypermédiatisation à l’hypersexualisation », 2ème colloque international Penser l’émancipation. Théories, pratiques et conflits autour de l’émancipation humaine, Université Paris-Ouest Nanterre, 19-22 février 2014.
 Nelly Quemener, « Disarticulated laughers: backlash in entertainment in France », Congrès IAMCR / AIERI Istanbul 2011, Kadir Haas University, SG Gender and Communication, 12 au 17 juillet 2011.
-Nelly Quemener, « Les nouveaux ressorts de l’humour : montée des groupes subalternes dans les sketches télévisuels en France », Congrès de l’Association Française de Sociologie 2011, RT 24 Genre, Classe, Race. Rapports sociaux et construction de laltérité, Université de Grenoble, 5 au 8 juillet 2011.
+Nelly Quemener, « Les nouveaux ressorts de l’humour : montée des groupes subalternes dans les sketches télévisuels en France », Congrès de l’Association Française de Sociologie 2011, RT 24 Genre, Classe, Race. Rapports sociaux et construction de l'altérité, Université de Grenoble, 5 au 8 juillet 2011.
 Nelly Quemener, « Mockery or fantasy ? Transvestite characters, cross-dressing and subaltern sexualities in the French one wo/man shows », Queer in Europe, A 3-Day International Research Symposium, The Centre for the Interdisciplinary Study of Sexuality and Gender in Europe, University of Exeter, UK, 13-15 sept. 2008.
 
 ## Thématiques de recherche

@@ -1,5 +1,5 @@
 ---
-uuid: 1e7c6c00-da7f-42f9-97a7-efdb841e5d62
+uuid: 33afe0dd-184e-4dba-889e-9adf79da72ed
 prettyName: KatiaRaya
 
 title: "Katia Raya"
@@ -17,7 +17,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication
 Sujet de recherche
@@ -27,6 +27,6 @@ Titre de thèse
 Mots-clés
 : Social Media
 Directeur de thèse
-: Nicole DAlmeida
+: Nicole D'Almeida
 Télécharger le CV
 

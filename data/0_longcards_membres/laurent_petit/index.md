@@ -1,5 +1,5 @@
 ---
-uuid: 4a9bd73e-f307-4b99-a8a4-7fb7df2b0b0e
+uuid: e4e72c57-55c1-43c8-875a-c384a494fa56
 prettyName: LaurentPetit
 
 title: "Laurent Petit"
@@ -22,7 +22,7 @@ Chercheur au GRIPIC (CELSA)
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication
 

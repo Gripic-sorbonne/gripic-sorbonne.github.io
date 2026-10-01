@@ -1,5 +1,5 @@
 ---
-uuid: 02d71f68-3b9d-4170-a30b-8b1a6ccf44c1
+uuid: 0dab8060-ba2d-40c7-8f14-275266dfffe3
 prettyName: ZoéThéval
 
 title: "Zoé Théval"
@@ -21,7 +21,7 @@ Dans le cadre de ce master recherche, j’ai pu explorer à partir des textes d�
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication
 Titre de thèse

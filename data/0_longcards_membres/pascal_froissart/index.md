@@ -1,5 +1,5 @@
 ---
-uuid: b1058a7b-4f95-43ab-9b39-95d400007f10
+uuid: dc960068-413f-41c4-8f92-7d498777446d
 prettyName: PascalFroissart
 
 title: "Pascal Froissart"
@@ -60,8 +60,8 @@ abstract: "Professeur des universités - Directeur du CELSA | Membre permanent e
 
 ## Ouvrages
 
- Pascal Froissart, Linvention du fact-checking : Enquête sur la « Clinique des rumeurs ». Boston, 1942-1943, Paris, Presses universitaires de France, 2024, 344 p.
-Julia Bonaccorsi, Perrine Boutin, Étienne Candel, Pauline Escande-Gauquié, Pascal Froissart, Sarah Labelle, Claire Oger et Aude Seurrat (coord.), Écrire un mémoire en sciences de linformation et de la communication : Récits de cas, démarches et méthodes, Paris, Presses de la Sorbonne nouvelle, 2014, 169 p.
+ Pascal Froissart, L'invention du fact-checking : Enquête sur la « Clinique des rumeurs ». Boston, 1942-1943, Paris, Presses universitaires de France, 2024, 344 p.
+Julia Bonaccorsi, Perrine Boutin, Étienne Candel, Pauline Escande-Gauquié, Pascal Froissart, Sarah Labelle, Claire Oger et Aude Seurrat (coord.), Écrire un mémoire en sciences de l'information et de la communication : Récits de cas, démarches et méthodes, Paris, Presses de la Sorbonne nouvelle, 2014, 169 p.
 Pascal Froissart, La rumeur : Histoire et fantasmes, Paris, Belin, 2010 (1
 re
 éd. 2002), 356 p.
@@ -69,8 +69,8 @@ re
 ## Publications et communications
 
  Ouvrages
-Pascal Froissart, Linvention du fact-checking : Enquête sur la « Clinique des rumeurs ». Boston, 1942-1943, Paris, Presses universitaires de France, 2024, 344 p.
-Julia Bonaccorsi, Perrine Boutin, Étienne Candel, Pauline Escande-Gauquié, Pascal Froissart, Sarah Labelle, Claire Oger et Aude Seurrat (coord.), Écrire un mémoire en sciences de linformation et de la communication : Récits de cas, démarches et méthodes, Paris, Presses de la Sorbonne nouvelle, 2014, 169 p.
+Pascal Froissart, L'invention du fact-checking : Enquête sur la « Clinique des rumeurs ». Boston, 1942-1943, Paris, Presses universitaires de France, 2024, 344 p.
+Julia Bonaccorsi, Perrine Boutin, Étienne Candel, Pauline Escande-Gauquié, Pascal Froissart, Sarah Labelle, Claire Oger et Aude Seurrat (coord.), Écrire un mémoire en sciences de l'information et de la communication : Récits de cas, démarches et méthodes, Paris, Presses de la Sorbonne nouvelle, 2014, 169 p.
 Pascal Froissart, La rumeur : Histoire et fantasmes, Paris, Belin, 2010 (1
 re
 éd. 2002), 356 p.

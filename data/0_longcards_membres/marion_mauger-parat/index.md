@@ -1,5 +1,5 @@
 ---
-uuid: d28b9350-73e8-44ca-9d0f-571045ffaf00
+uuid: 12c7b425-0fd3-47ca-8990-c6a25c23d370
 prettyName: MarionMaugerParat
 
 title: "Marion Mauger-Parat"
@@ -20,5 +20,5 @@ abstract: "Chercheuse | Membre associé"
 Institution de rattachement
 : GRIPIC
 Thématiques de recherche
-: Cultures, savoirs et communication, Dynamiques de communication dans lespace public
+: Cultures, savoirs et communication, Dynamiques de communication dans l'espace public
 

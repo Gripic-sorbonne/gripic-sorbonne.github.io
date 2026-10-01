@@ -1,5 +1,5 @@
 ---
-uuid: cd01ffd9-924e-4fe1-aed7-705266bd24e8
+uuid: 7a32033f-7811-4790-949c-bac82e10374c
 title: "Le doctorat en sciences de l’information et de la communication au GRIPIC"
 abstract: ""
 url: "https://ed433.sorbonne-universite.fr"
@@ -53,10 +53,10 @@ Les sources de financement les plus courantes sont les contrats doctoraux et les
 
 Plus de 150 thèses ont été soutenues depuis la création du GRIPIC. Les deux nuages de mots ci-dessous illustrent les choix thématiques faits entre 1970 et 1999 (fig. 1) et entre 2000 et 2022 (fig. 2).
 
-<img src=./mots-cles-01.webp width=100% alt=Fig 1 />
+<img src='./mots-cles-01.webp' width='100%' alt='Fig 1' />
 <p><strong>Fig. 1. — Nuage de mots constitué avec les titres des thèses soutenues au GRIPIC entre 1972 et 1999</strong></p>
 
-<img src=./mots-cles-02.webp width=100% alt=Fig 2 />
+<img src='./mots-cles-02.webp' width='100%' alt='Fig 2' />
 <p><strong>Fig. 2. — Nuage de mots constitué avec les titres des thèses soutenues au GRIPIC entre 2000 et 2022</strong></p>
 
 ## Association des doctorants et doctorantes du GRIPIC

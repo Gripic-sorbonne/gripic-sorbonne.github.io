@@ -1,5 +1,5 @@
 ---
-uuid: d0962c90-e385-4ab3-955c-9172d571a49b
+uuid: fcfd9148-5c1a-4845-bd51-583f83dd2a95
 prettyName: ElsaTadier
 
 title: "Elsa Tadier"
@@ -16,7 +16,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 

@@ -1,5 +1,5 @@
 ---
-uuid: 20f0cf2c-a4e0-4da3-b9b9-ce9f74cd63eb
+uuid: 94199956-e681-436b-94cc-9d2d1d0fcf3e
 prettyName: LauraAvadar
 
 title: "Laura Avadar"
@@ -16,7 +16,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Titre de thèse

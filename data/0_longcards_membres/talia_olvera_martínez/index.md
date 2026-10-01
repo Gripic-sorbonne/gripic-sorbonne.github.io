@@ -1,5 +1,5 @@
 ---
-uuid: e0e9523b-144f-488d-a3bd-fc5571965080
+uuid: 49ec0adb-ed28-4f01-ad3b-0819886db648
 prettyName: TaliaOlveraMartínez
 
 title: "Talia Olvera Martínez"
@@ -15,11 +15,11 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Titre de thèse
-: Indépendance de la presse et innovation, les nouveaux visages de lentrepreneuriat en journalisme
+: Indépendance de la presse et innovation, les nouveaux visages de l'entrepreneuriat en journalisme
 Directeur de thèse
 : Valérie Jeanne-Perrier
 

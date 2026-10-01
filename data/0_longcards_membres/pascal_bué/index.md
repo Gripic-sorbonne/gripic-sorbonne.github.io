@@ -1,5 +1,5 @@
 ---
-uuid: 1e30d5cf-d677-47dd-b949-e093801b726d
+uuid: f4505f43-0904-4583-ae84-f46b7d733ae2
 prettyName: PascalBué
 
 title: "Pascal Bué"
@@ -16,7 +16,7 @@ abstract: "Chercheur | Membre associé"
 ## Activités scientifiques
 
  Groupe de travail Médiatisation/numérisation
-Depuis 2019, je contribue, aux côtés d’Antoine Bonino, Lisa Bolz, Pauline Chasseray-Peraldi, Samuel Goyet, Thomas Grignon et Guillaume Heuguet, au groupe de travail Médiatisation/numérisation, dédié au partage de lecture concernant la place de l’informatique, des réseaux et outils numériques contemporains dans les activités humaines. Ce groupe permet de discuter la variété des inspirations théoriques mobilisées par les jeunes chercheur·e·s du GRIPIC pour analyser ces phénomènes, en complément des approches et outils conceptuels élaborés au sein du laboratoire (« écrits décran », « médias informatisés », « trivialité ») : études de sciences et techniques, cybernétique, anthropologie, théorie des industries culturelles, archéologie des médias, approches phénoménologiques et phénoménotechniques ... Il sintéresse également à toute lextension des méthodologies émergentes, y compris les plus « bricolées », pour traiter terrains et corpus afin de mieux réfléchir à la pensée des disciplines et des objets quelles impliquent.
+Depuis 2019, je contribue, aux côtés d’Antoine Bonino, Lisa Bolz, Pauline Chasseray-Peraldi, Samuel Goyet, Thomas Grignon et Guillaume Heuguet, au groupe de travail Médiatisation/numérisation, dédié au partage de lecture concernant la place de l’informatique, des réseaux et outils numériques contemporains dans les activités humaines. Ce groupe permet de discuter la variété des inspirations théoriques mobilisées par les jeunes chercheur·e·s du GRIPIC pour analyser ces phénomènes, en complément des approches et outils conceptuels élaborés au sein du laboratoire (« écrits d'écran », « médias informatisés », « trivialité ») : études de sciences et techniques, cybernétique, anthropologie, théorie des industries culturelles, archéologie des médias, approches phénoménologiques et phénoménotechniques ... Il s'intéresse également à toute l'extension des méthodologies émergentes, y compris les plus « bricolées », pour traiter terrains et corpus afin de mieux réfléchir à la pensée des disciplines et des objets qu'elles impliquent.
 
 ## Thématiques de recherche
 
