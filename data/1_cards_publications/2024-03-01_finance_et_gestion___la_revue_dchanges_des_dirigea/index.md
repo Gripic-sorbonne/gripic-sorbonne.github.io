@@ -1,5 +1,5 @@
 ---
-uuid: a4cdbeb8-a000-4294-a6cd-2d0abda92d6a
+uuid: 9068a521-7756-4654-92f0-c3ecc264fafb
 title: "Finance et gestion : la revue d’échanges des dirigeants financiers"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"

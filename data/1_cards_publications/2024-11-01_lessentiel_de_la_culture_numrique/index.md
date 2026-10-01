@@ -1,5 +1,5 @@
 ---
-uuid: 14865d87-b6ea-45a2-abb3-6c1678922978
+uuid: 6a82d09b-b87a-40ec-8b86-7a071c372b67
 title: "L’essentiel de la culture numérique"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"

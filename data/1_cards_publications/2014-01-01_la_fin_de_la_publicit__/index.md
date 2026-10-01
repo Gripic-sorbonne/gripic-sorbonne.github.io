@@ -1,5 +1,5 @@
 ---
-uuid: d96f057a-ddce-4cfe-ae70-5d01235a6dfc
+uuid: fe951043-70f2-42d2-81d8-76463d461167
 title: "La fin de la publicité ?"
 author: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti"
 authors: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti"

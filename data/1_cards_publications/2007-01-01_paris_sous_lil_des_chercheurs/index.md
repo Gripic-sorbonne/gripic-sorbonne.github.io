@@ -1,5 +1,5 @@
 ---
-uuid: 6b01ca49-30b2-4647-b914-3c143c49648f
+uuid: ed833f04-5610-4e46-a3d7-aa936346d4ab
 title: "Paris sous l’œil des chercheurs"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

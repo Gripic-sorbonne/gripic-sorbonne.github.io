@@ -1,5 +1,5 @@
 ---
-uuid: a62572b4-023d-4cca-9186-99cc876edceb
+uuid: 611325b5-d4f4-4d64-810c-bb37d1b6c464
 title: "Ethnologie française"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

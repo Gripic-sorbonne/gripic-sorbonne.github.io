@@ -1,5 +1,5 @@
 ---
-uuid: cfe8d459-4adb-4047-bcda-1b06bd22af8a
+uuid: 9f78357e-933b-4489-99e1-6cc755df964a
 title: "Paris, Capitale médiatique. Presse et ville au 19ème siècle"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

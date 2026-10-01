@@ -1,5 +1,5 @@
 ---
-uuid: 494fab2a-a047-4df5-bbb2-ddeac592d6ea
+uuid: fb4d611e-0e6a-46d6-90c6-25417136d5f8
 title: "Le tourisme hors des sentiers battus : coulisses, interstices et nouveaux territoires touristiques"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

@@ -1,5 +1,5 @@
 ---
-uuid: 855371f9-1f24-4614-a637-84c621c1c3e8
+uuid: 0097cffe-6f73-4f65-9211-6c0e9c21f992
 title: "Usages et pratiques de la publicitarisation : enjeux économiques et symboliques des relations actuelles entre marques et média"
 author: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
 authors: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"

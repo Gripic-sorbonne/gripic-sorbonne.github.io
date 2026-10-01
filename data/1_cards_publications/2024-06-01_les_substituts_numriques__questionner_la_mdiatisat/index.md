@@ -1,5 +1,5 @@
 ---
-uuid: b5d94d43-7571-4f51-b376-404153462e62
+uuid: a832f354-ef0e-46be-923e-44dfcb42c718
 title: "Les “ substituts numériques ” : questionner la médiatisation des expositions de musée à l’écran"
 author: "Sébastien Appiotti, Lise Renaud"
 authors: "Sébastien Appiotti, Lise Renaud"

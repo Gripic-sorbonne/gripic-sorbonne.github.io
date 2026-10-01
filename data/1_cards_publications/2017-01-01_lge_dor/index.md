@@ -1,5 +1,5 @@
 ---
-uuid: 7f53d7ab-fca0-4540-85a4-6296955db229
+uuid: 9ce40a57-99c0-42c0-96ba-2b01953f28db
 title: "L’âge d’or"
 author: "Emmanuelle Fantin, Thibault Le Hégarat"
 authors: "Emmanuelle Fantin, Thibault Le Hégarat"

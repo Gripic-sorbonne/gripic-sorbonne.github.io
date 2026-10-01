@@ -1,5 +1,5 @@
 ---
-uuid: 3af76b40-d963-442e-99b7-26545ae004ec
+uuid: 2b14caa5-f48f-484d-918f-cbb9f28e3bf2
 title: "H2PTM’17 : Le numérique à l’ère des designs, de l’hypertexte à l’hyper-expérience"
 author: "Sylvie Leleu-Merviel, Yves Jeanneret, Imad Saleh, Nasreddine Bouhai"
 authors: "Sylvie Leleu-Merviel, Yves Jeanneret, Imad Saleh, Nasreddine Bouhai"

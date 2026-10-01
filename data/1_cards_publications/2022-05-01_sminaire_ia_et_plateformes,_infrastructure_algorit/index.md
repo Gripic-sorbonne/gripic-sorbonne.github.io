@@ -1,5 +1,5 @@
 ---
-uuid: 768a885d-be70-4fb1-a948-e1f903e81fdc
+uuid: b58e7a1f-da5a-4707-944c-a57a3608fc4e
 title: "Séminaire IA et plateformes, infrastructure algorithmique"
 author: "Thibault Grison"
 authors: "Thibault Grison"
