@@ -1,5 +1,5 @@
 ---
-uuid: a3c64af9-9d52-446c-845d-eef2a601691d
+uuid: 793e6848-9e0c-4078-9012-4c0520fb2b53
 title: "Inscription au doctorat et à l’habilitation à diriger des recherches"
 abstract: ""
 url: "https://lettres.sorbonne-universite.fr/recherche/doctorat/candidater-au-doctorat"

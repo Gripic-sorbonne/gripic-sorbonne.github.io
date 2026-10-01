@@ -1,5 +1,5 @@
 ---
-uuid: 4392c91d-a9a6-4c2b-a38c-081c2c8d496e
+uuid: 823bfbbc-c157-425b-b34f-43a14bef41ee
 title: "Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à lagenda du problème des famines par lÉtat colonial britannique au Bengale en 1866 »"
 author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
 (Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)"

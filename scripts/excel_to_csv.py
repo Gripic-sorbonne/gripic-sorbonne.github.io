@@ -44,7 +44,6 @@
 
 # if __name__ == '__main__':
 #     convert_excel_to_csvs()
-
 import csv
 import os
 import pandas as pd
@@ -53,27 +52,84 @@ EXCEL_FILE = './gripic_data.xlsx'
 OUTPUT_DIR = './inputs/'
 
 
+def format_date_cell(val):
+    """
+    Converts any date value from Excel
+    (serial numbers, empty dates, strings) to DD/MM/YYYY format.
+    """
+    if pd.isna(val) or str(val).strip() == '':
+        return ''
+
+    val_str = str(val).strip().lstrip("'")
+
+    # If it already has the DD/MM/YYYY format
+    if '/' in val_str and len(val_str.split('/')) == 3:
+        return val_str
+
+    # If Excel automatically converted it to a Python timestamp/date
+    try:
+        parsed_dt = pd.to_datetime(
+            val_str,
+            dayfirst=True,
+            errors='coerce'
+        )
+
+        if not pd.isna(parsed_dt):
+            return parsed_dt.strftime('%d/%m/%Y')
+
+    except Exception:
+        pass
+
+    return val_str
+
+
 def convert_excel_to_csvs():
     if not os.path.exists(EXCEL_FILE):
-        print(f"Error: No se encontró '{EXCEL_FILE}'")
+        print(f"Error: '{EXCEL_FILE}' was not found.")
         return
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     xls = pd.ExcelFile(EXCEL_FILE)
 
     for sheet_name in xls.sheet_names:
-        # Lee la hoja respetando lo que el usuario escribió
-        df = pd.read_excel(xls, sheet_name=sheet_name, dtype=str).fillna('')
+        # 1. Read all cells
+        df = pd.read_excel(
+            xls,
+            sheet_name=sheet_name,
+            dtype=str
+        )
 
-        # LIMPIEZA AUTOMÁTICA:
-        # Remueve cualquier comilla oculta que Excel agregue y limpia espacios
+        # 2. Remove accidental empty rows from Excel
+        df = df.dropna(how='all')
+
+        # 3. General text and quote cleanup
         for col in df.columns:
-            df[col] = df[col].astype(str).str.replace("'", "", regex=False).str.strip()
+            df[col] = (
+                df[col]
+                .fillna('')
+                .astype(str)
+                .str.replace("'", "", regex=False)
+                .str.strip()
+            )
+
+            # Automatically format date columns to avoid split('/') errors
+            if 'date' in col.lower():
+                df[col] = df[col].apply(format_date_cell)
+
+        # 4. Remove rows where the main field (Title / name / etc.) is empty
+        if 'Titre' in df.columns:
+            df = df[df['Titre'] != '']
+        elif 'nom' in df.columns:
+            df = df[df['nom'] != '']
 
         csv_filename = f"{sheet_name}.csv"
         csv_path = os.path.join(OUTPUT_DIR, csv_filename)
 
-        encoding_type = 'utf-8-sig' if sheet_name == 'calendar' else 'utf-8'
+        encoding_type = (
+            'utf-8-sig'
+            if sheet_name == 'calendar'
+            else 'utf-8'
+        )
 
         df.to_csv(
             csv_path,
@@ -83,7 +139,12 @@ def convert_excel_to_csvs():
             quoting=csv.QUOTE_MINIMAL
         )
 
-        print(f"Generado: '{csv_filename}' de forma transparente.")
+        print(
+            f"Generated: '{csv_filename}' "
+            f"with {len(df)} rows processed."
+        )
+
+    print("\nCompleted successfully!")
 
 
 if __name__ == '__main__':
