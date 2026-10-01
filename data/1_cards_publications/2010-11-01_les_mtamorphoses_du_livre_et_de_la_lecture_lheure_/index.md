@@ -1,5 +1,5 @@
 ---
-uuid: 60ca86cc-840f-447b-8014-daf06548d5d6
+uuid: 1a3df13a-1a59-44ae-8e60-58370689abf8
 title: "Les métamorphoses du livre et de la lecture à l’heure du numérique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

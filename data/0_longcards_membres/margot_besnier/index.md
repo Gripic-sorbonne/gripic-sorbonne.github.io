@@ -1,5 +1,5 @@
 ---
-uuid: a5fd1163-ecf5-45c0-85b9-762c924ea518
+uuid: 485425d7-1d80-4a6d-ab7c-3e021efe300a
 prettyName: MargotBesnier
 
 title: "Margot Besnier"
@@ -15,12 +15,12 @@ abstract: "Chercheuse | Membre associé"
 
 ## Thématiques de recherche
 
- Espace-temps de la Parisienne : Circulation, dissémination et patrimonialisation d'une forme de vie
+ Espace-temps de la Parisienne : Circulation, dissémination et patrimonialisation dune forme de vie
 
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Médiations marchandes
 Sujet de recherche

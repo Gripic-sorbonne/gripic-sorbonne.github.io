@@ -1,5 +1,5 @@
 ---
-uuid: 0a30e109-bfdb-4d21-bec1-9718ce3955cc
+uuid: 2ba7ed77-9972-475e-86d7-a204fdbe3103
 title: "Bel-Ami"
 author: "Adeline Wrona, Guy Maupassant"
 authors: "Adeline Wrona, Guy Maupassant"

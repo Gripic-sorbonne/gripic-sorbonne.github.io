@@ -1,5 +1,5 @@
 ---
-uuid: 535ffe8f-8fff-42e3-aaef-3d772e1472cc
+uuid: 9cad9d74-b622-4d42-bcdc-3b71ebc54361
 title: "séminaire de François Jost Médias et société"
 author: "Pauline Escande"
 authors: "Pauline Escande"

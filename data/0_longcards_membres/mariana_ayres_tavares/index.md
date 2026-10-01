@@ -1,5 +1,5 @@
 ---
-uuid: 4d723744-f336-4ad6-9bfa-7a70719a5a6f
+uuid: d9d91524-7061-4132-8d8a-bd067abe1ae1
 prettyName: MarianaAyresTavares
 
 title: "Mariana Ayres Tavares"
@@ -16,11 +16,11 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Médiations marchandes
 Titre de thèse
-: Appropriation du discours de résistance par les campagnes publicitaires : recherche sur la publicité contemporaine et les stratégies d'appropriation du discours des mouvements sociaux des minorités
+: Appropriation du discours de résistance par les campagnes publicitaires : recherche sur la publicité contemporaine et les stratégies dappropriation du discours des mouvements sociaux des minorités
 Directeur de thèse
 : Karine Berthelot-Guiet
 

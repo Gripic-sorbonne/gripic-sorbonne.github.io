@@ -1,5 +1,5 @@
 ---
-uuid: d841c898-e2ce-4005-8f56-9b5d6124f6f9
+uuid: 94ee47dd-af0c-4b27-94a8-74b179652e5e
 prettyName: VéroniqueRichard
 
 title: "Véronique Richard"
@@ -20,12 +20,12 @@ Comment le travail se transforme par et dans le divertissement et comment le div
 Mercredi 11 juin 2014 - 09:30
 au
 Vendredi 13 juin 2014 - 16:15
-Co-organisation de la journée d'études sur "L'éthique dans les pratiques professionnelles de l'information et de la communication"
+Co-organisation de la journée détudes sur "Léthique dans les pratiques professionnelles de linformation et de la communication"
 Mercredi 18 mars 2015 - 09:30
 au
 Mercredi 18 mars 2015 - 17:30
 Au cours de mes deux mandats de directrice du CELSA, j’ai œuvré pour que nos programmes d’enseignement et ceux de recherches s’enrichissent mutuellement. J’ai aussi contribué au développement du GRIPIC et facilité la redistribution de nos axes pour intégrer en particulier les évolutions journalistiques et technologiques de notre champ.
-J’ai personnellement co-dirigé lors du contrat 2004-2009 l’axe « Enjeux de communication et relations de travail » et en 2009-2013 l’axe : « Dynamiques de communication dans l'espace public, Enjeux de communication et relations de travail ».
+J’ai personnellement co-dirigé lors du contrat 2004-2009 l’axe « Enjeux de communication et relations de travail » et en 2009-2013 l’axe : « Dynamiques de communication dans lespace public, Enjeux de communication et relations de travail ».
 Projets de recherche
 Richard Véronique, Eloy-Perrin Florence, Malaterre Florian, L’éthique dans les discours patronaux. La construction d’un éthos patronal dans un monde incertain ? », Bord de l’eau, à paraitre, Printemps 2025.
 Poursuivre les questions posées dans l’ouvrage à paraître par une proposition d’intervention au colloque annuel de la SFSIC.
@@ -48,7 +48,7 @@ Richard Véronique, « Pour une éthique relationnelle dans les organisations c
 
  Richard Véronique, « Que nous disent les médias de l’intelligence artificielle ? », intervention au colloque Transnum. Penser le numérique comme transformation, porté par le GRIPIC et le Costech, Juin 2018.
 Richard Véronique, Présidente du conseil scientifique du colloque « Travail et loisir. Ou comment se transforme le travail par et dans le divertissement et comment le divertissement se requalifie en travail », colloque organisé par le GRIPIC, (dir) Actes du colloque, Juin 2014.
-Richard Véronique, « Les pratiques professionnelles au regard de la VAE », dans Denis Benoît (dir.), L'éthique en communication. Actes du colloque international Éthique et métaéthique dans les professions de l'information et de la communication, Éditions universitaires européennes, 2011, p.122-128.
+Richard Véronique, « Les pratiques professionnelles au regard de la VAE », dans Denis Benoît (dir.), Léthique en communication. Actes du colloque international Éthique et métaéthique dans les professions de linformation et de la communication, Éditions universitaires européennes, 2011, p.122-128.
 Richard Véronique, « Articulation entre management, gestion des ressources humaines et communication organisationnelle, Intervention au Colloque de la SFSIC à Castres, Juin 2001.
 Nombreuses invitations à des conférences ou débats en entreprise comme Orange, LVMH, ou dans des associations professionnelles comme l’AFCI, Association française de la communication interne, l’Observatoire des cadres, Admical, Association pour le développement du Mécénat, Entreprise et communication, Reporters d’espoir, AJIS, Association des journalistes de l’information sociale, ANDRH (Association des DRH) et membre de jurys pour des prix : Prix Schoendoerffer de l’Armée de terre, Prix média du dispositif médical.
 
@@ -89,7 +89,7 @@ Communications avec actes
 Communications et interventions
 Richard Véronique, « Que nous disent les médias de l’intelligence artificielle ? », intervention au colloque Transnum. Penser le numérique comme transformation, porté par le GRIPIC et le Costech, Juin 2018.
 Richard Véronique, Présidente du conseil scientifique du colloque « Travail et loisir. Ou comment se transforme le travail par et dans le divertissement et comment le divertissement se requalifie en travail », colloque organisé par le GRIPIC, (dir) Actes du colloque, Juin 2014.
-Richard Véronique, « Les pratiques professionnelles au regard de la VAE », dans Denis Benoît (dir.), L'éthique en communication. Actes du colloque international Éthique et métaéthique dans les professions de l'information et de la communication, Éditions universitaires européennes, 2011, p.122-128.
+Richard Véronique, « Les pratiques professionnelles au regard de la VAE », dans Denis Benoît (dir.), Léthique en communication. Actes du colloque international Éthique et métaéthique dans les professions de linformation et de la communication, Éditions universitaires européennes, 2011, p.122-128.
 Richard Véronique, « Articulation entre management, gestion des ressources humaines et communication organisationnelle, Intervention au Colloque de la SFSIC à Castres, Juin 2001.
 Nombreuses invitations à des conférences ou débats en entreprise comme Orange, LVMH, ou dans des associations professionnelles comme l’AFCI, Association française de la communication interne, l’Observatoire des cadres, Admical, Association pour le développement du Mécénat, Entreprise et communication, Reporters d’espoir, AJIS, Association des journalistes de l’information sociale, ANDRH (Association des DRH) et membre de jurys pour des prix : Prix Schoendoerffer de l’Armée de terre, Prix média du dispositif médical.
 

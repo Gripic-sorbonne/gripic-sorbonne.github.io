@@ -1,5 +1,5 @@
 ---
-uuid: 214a3525-cce1-4817-b65a-2e4b509fc867
+uuid: 7156229d-5597-4a99-ab9c-c44d1cdab182
 prettyName: FlorianMalaterre
 
 title: "Florian Malaterre"
@@ -16,11 +16,11 @@ abstract: "Maitre de conférences | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Institution de rattachement
 : Agrosup Dijon
 Thématiques de recherche
 : Enjeux de communication et relations de travail
-Activité d'enseignement
+Activité denseignement
 : Management, ressources humaines, communication, éthique
 

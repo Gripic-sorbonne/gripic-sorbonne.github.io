@@ -1,5 +1,5 @@
 ---
-uuid: 4c06352f-d17c-412d-bb10-50b267096308
+uuid: f2cf3a6f-ffea-4c82-afee-00f7e939fe84
 prettyName: KarineBerthelotGuiet
 
 title: "Karine Berthelot-Guiet"
@@ -11,7 +11,7 @@ abstract: "Professeure des universités | Membre permanent en enseignement et re
 ## Autres activités de recherche
 
  Brevet "Procédé et dispositif pour thématiser un itinéraire parcouru par un véhicule"
-Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
+Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
 Karine Berthelot-Guiet, 2015
 
 ## Discours universitaires, discours professionnels : croisements et hybridations

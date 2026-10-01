@@ -1,8 +1,8 @@
 ---
-uuid: 7a8d850e-0509-4d78-b57a-b29e8d598761
+uuid: 33a36529-11fd-4666-ad9c-9b5a0cce760b
 prettyName: ClaraScottodAppolonia
 
-title: "Clara Scotto d'Appolonia"
+title: "Clara Scotto dAppolonia"
 abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ---
 

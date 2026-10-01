@@ -1,5 +1,5 @@
 ---
-uuid: 6d53b0ee-68bd-4d93-8320-19814f44b79a
+uuid: 06931035-d6e1-4d95-9a3d-d5ce191e6953
 prettyName: LucilleLamache
 
 title: "Lucille Lamache"
@@ -14,5 +14,5 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 
 ## Thématiques de recherche
 
- Mes recherches portent sur les mobilisations sociales écologistes du XXIe siècle. Plus particulièrement, je m'intéresse aux actions qui prennent place dans les musées européens, nord-américains et océaniens depuis juin 2022 et aux processus de médiatisation qui entourent ce phénomène.
+ Mes recherches portent sur les mobilisations sociales écologistes du XXIe siècle. Plus particulièrement, je mintéresse aux actions qui prennent place dans les musées européens, nord-américains et océaniens depuis juin 2022 et aux processus de médiatisation qui entourent ce phénomène.
 

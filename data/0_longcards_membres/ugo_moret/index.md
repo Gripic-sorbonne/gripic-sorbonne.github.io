@@ -1,5 +1,5 @@
 ---
-uuid: 48272fd0-cc62-411e-8e55-a3715aa4fa65
+uuid: 2de6988b-c533-44e9-ab57-e96b68a15c04
 prettyName: UgoMoret
 
 title: "Ugo Moret"
@@ -16,13 +16,13 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Titre de thèse
 : Cultures du texte journalistique en ligne : sémantisation du temps dans les nouvelles formes éditoriales en ligne
 Mots-clés
-: Média - Presse - Internet - Journalisme - Temps - Représentations - Écrits d'écran
+: Média - Presse - Internet - Journalisme - Temps - Représentations - Écrits décran
 Directeur de thèse
 : Valérie Jeanne-Perrier
 

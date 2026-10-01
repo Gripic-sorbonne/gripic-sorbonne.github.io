@@ -1,5 +1,5 @@
 ---
-uuid: 069ae937-e8b6-4c66-9cda-a53e13c91157
+uuid: 93368135-a8e2-4bb2-b4d4-1324df673729
 prettyName: JudithDehail
 
 title: "Judith Dehail"
@@ -16,20 +16,20 @@ abstract: "Chercheuse | Membre associé"
 
 ## Autres activités de recherche
 
- Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
+ Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
 Habiter la BnF
 Joëlle Le Marec, Judith Dehail, 2016
 
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication
 Sujet de recherche
 : Les musées de la Musique à l’épreuve des visiteurs. Vers une redéfinition des pratiques de muséologie
 Mots-clés
-: Muséologie - publics de musée - hiérarchie des sens - visualité - organologie - musées d'instruments de musique
+: Muséologie - publics de musée - hiérarchie des sens - visualité - organologie - musées dinstruments de musique
 Directeur de thèse
 : Joëlle le Marec
 

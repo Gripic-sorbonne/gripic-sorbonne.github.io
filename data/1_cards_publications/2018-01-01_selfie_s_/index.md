@@ -1,5 +1,5 @@
 ---
-uuid: 9f73fa3f-c0dc-47db-9cd8-68bda01d5279
+uuid: a96f6c06-fe4d-473a-a13e-91b398685d2b
 title: "Selfie(s)"
 author: "Pauline Escande"
 authors: "Pauline Escande"

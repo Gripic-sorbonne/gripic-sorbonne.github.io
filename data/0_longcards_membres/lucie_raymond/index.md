@@ -1,5 +1,5 @@
 ---
-uuid: a3e0d2e9-20c6-4528-93a6-09735030fc55
+uuid: 2798fb9a-204f-47d8-a97f-ec8ef17d517f
 prettyName: LucieRaymond
 
 title: "Lucie Raymond"
@@ -20,9 +20,9 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
-: Formes et écritures médiatiques, Dynamiques de communication dans l'espace public
+: Formes et écritures médiatiques, Dynamiques de communication dans lespace public
 Titre de thèse
 : La construction médiatique de la revendication « antisystème » : enquête sur les stratégies de création et de renouvellement d’une (im)posture journalistique et politique
 Mots-clés

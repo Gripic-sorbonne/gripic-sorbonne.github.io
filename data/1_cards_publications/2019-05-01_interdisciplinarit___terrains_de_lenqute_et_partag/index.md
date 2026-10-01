@@ -1,5 +1,5 @@
 ---
-uuid: b70af3b8-8447-4a04-bcd9-13708747b4fc
+uuid: 24d725c2-2c18-45ae-a67d-d01448703453
 title: "Interdisciplinarité : terrains de l’enquête et partages d’expériences"
 author: "Joelle Le Marec"
 authors: "Joelle Le Marec"

@@ -1,5 +1,5 @@
 ---
-uuid: 7e4e85a6-40d0-437b-bbce-78cc25400370
+uuid: 204d5e34-461d-451b-882e-3dfbdd206798
 prettyName: SuzannePenin
 
 title: "Suzanne Penin"
@@ -15,7 +15,7 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Titre de thèse

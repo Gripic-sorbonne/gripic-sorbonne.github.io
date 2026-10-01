@@ -1,5 +1,5 @@
 ---
-uuid: f51ab6f9-1fbc-4480-a1c3-e2ba14527e78
+uuid: 15c4e314-71e1-4edd-90a6-4cb0a5639b3d
 title: "Queneau aujourd’hui, Actes du colloque Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

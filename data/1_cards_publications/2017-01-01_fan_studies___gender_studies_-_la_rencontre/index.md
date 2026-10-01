@@ -1,5 +1,5 @@
 ---
-uuid: 564f3a69-9c63-40fe-a667-432f80438075
+uuid: 9dc666e0-e074-4253-b403-199cfc326c11
 title: "Fan studies / Gender studies - la rencontre"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: dc262992-b434-4085-951b-aeeca804e688
+uuid: df291c23-6d91-4a4a-a44c-30ce0c96c5c9
 prettyName: NicoleD’Almeida
 
 title: "Nicole D’Almeida"
@@ -15,7 +15,7 @@ abstract: "Professeure des universités émérite | Membre permanent en enseigne
 
 ## Expertises et enseignements
 
- Direction de recherches menée à travers des séminaires, directions de thèses, organisation de colloques et contributions principalement sur les thèmes suivants : communication des organisations (analyse de la responsabilité sociale des entreprises, approche narratologique des organisations)//communication environnementale et de développement durable //communication internationale, approche comparatiste des discours, cadrages, médiations  et médiatisations // Opinion publique et jeu d'acteurs dans l'espace public mondialisé conçu comme espace d'énonciation et de dénonciation.
+ Direction de recherches menée à travers des séminaires, directions de thèses, organisation de colloques et contributions principalement sur les thèmes suivants : communication des organisations (analyse de la responsabilité sociale des entreprises, approche narratologique des organisations)//communication environnementale et de développement durable //communication internationale, approche comparatiste des discours, cadrages, médiations  et médiatisations // Opinion publique et jeu dacteurs dans lespace public mondialisé conçu comme espace dénonciation et de dénonciation.
 Création, développement et direction du département Communication des entreprises et des institutions du Celsa (2000-2020) et du MBA Management Communication et Sociétés (2006-2016)
 
 ## Thématiques de recherche

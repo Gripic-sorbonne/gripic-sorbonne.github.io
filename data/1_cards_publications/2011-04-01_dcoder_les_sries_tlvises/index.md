@@ -1,5 +1,5 @@
 ---
-uuid: 2208ba04-e484-4588-b814-79de92aca4f4
+uuid: d93138ab-67f1-4269-81db-61c991260fbf
 title: "Décoder les séries télévisées"
 author: "Séverine Barthes"
 authors: "Séverine Barthes"

@@ -1,5 +1,5 @@
 ---
-uuid: 1384eb93-c2d8-4921-bb80-51e80fd00f12
+uuid: f96ddcd2-2708-4f63-9f96-708b2e145c2e
 title: "Trousse-Livres"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

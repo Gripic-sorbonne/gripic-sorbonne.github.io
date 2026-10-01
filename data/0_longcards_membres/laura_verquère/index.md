@@ -1,5 +1,5 @@
 ---
-uuid: 29315b12-4a4b-4221-9a67-9fe0871b4562
+uuid: 36aaf09d-cf10-43dd-a0aa-acd3d4d67b53
 prettyName: LauraVerquère
 
 title: "Laura Verquère"
@@ -21,9 +21,9 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
-: Cultures, savoirs et communication, Formes et écritures médiatiques, Dynamiques de communication dans l'espace public
+: Cultures, savoirs et communication, Formes et écritures médiatiques, Dynamiques de communication dans lespace public
 Sujet de recherche
 : Le problème public du congé paternité
 Titre de thèse

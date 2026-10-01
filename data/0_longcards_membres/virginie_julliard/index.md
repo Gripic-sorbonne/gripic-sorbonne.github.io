@@ -1,5 +1,5 @@
 ---
-uuid: 170483f0-2132-4d60-aa06-f7395ff5c4ea
+uuid: 40ca9bbe-34ef-46ad-9109-28dc8d2fe560
 prettyName: VirginieJulliard
 
 title: "Virginie Julliard"
@@ -31,7 +31,7 @@ Diaconat
 
 ## Expertises
 
- Après avoir été maîtresse de conférences à l'université de technologie de Compiègne (COSTECH), j'ai rejoint le CELSA/GRIPIC en tant que professeure des universités en septembre 2019. // Recherche // Mes recherches portent sur la production médiatique du genre, la conflictualité sociale autour de la définition de la "différence des sexes" et les dispositifs d'écriture numérique. Dans le cadre de la recherche originale pour l'HDR, j'ai notamment étudié la façon dont les réseaux sociaux numériques renouvellent les manifestations du genre, la forme des débats publics, et la structuration des communautés politiques. Depuis 2018 (HDR), je m'intéresse au statut de l'informatique dans la recherche en SHS. //Directrice de CERES// Faisant suite au projet TRANSNUM (COSTECH-UTC/GRIPIC-CELSA-SU), l'unité de service CERES a été créée en février 2021. CERES, le Centre d'expérimentation en méthodes numériques pour les SHS, a vocation à accompagner techniquement et méthodologiquement les chercheuses et les chercheurs de la faculté des Lettres de Sorbonne-Université qui souhaitent recourir à l'informatique dans leurs projets de recherche. CERES constitue par ailleurs un contexte pour réfléchir au statut des outils informatiques dans la recherche en sciences humaines et sociales. CERES est adossé au programme doctoral Méthodes numériques pour les Lettres et SHS de l'Alliance Sorbonne Université.
+ Après avoir été maîtresse de conférences à luniversité de technologie de Compiègne (COSTECH), jai rejoint le CELSA/GRIPIC en tant que professeure des universités en septembre 2019. // Recherche // Mes recherches portent sur la production médiatique du genre, la conflictualité sociale autour de la définition de la "différence des sexes" et les dispositifs décriture numérique. Dans le cadre de la recherche originale pour lHDR, jai notamment étudié la façon dont les réseaux sociaux numériques renouvellent les manifestations du genre, la forme des débats publics, et la structuration des communautés politiques. Depuis 2018 (HDR), je mintéresse au statut de linformatique dans la recherche en SHS. //Directrice de CERES// Faisant suite au projet TRANSNUM (COSTECH-UTC/GRIPIC-CELSA-SU), lunité de service CERES a été créée en février 2021. CERES, le Centre dexpérimentation en méthodes numériques pour les SHS, a vocation à accompagner techniquement et méthodologiquement les chercheuses et les chercheurs de la faculté des Lettres de Sorbonne-Université qui souhaitent recourir à linformatique dans leurs projets de recherche. CERES constitue par ailleurs un contexte pour réfléchir au statut des outils informatiques dans la recherche en sciences humaines et sociales. CERES est adossé au programme doctoral Méthodes numériques pour les Lettres et SHS de lAlliance Sorbonne Université.
 
 ## Ouvrages
 
@@ -61,12 +61,12 @@ Virginie Julliard (Sorbonne Université CELSA, GRIPIC): « The Strategic Use of
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 :
 Formes et écritures médiatiques,
-Dynamiques de communication dans l'espace public
-Activité d'enseignement
+Dynamiques de communication dans lespace public
+Activité denseignement
 :
 L3 - Le travail du genre,
 M1 - Culture populaire médiatique : histoire, représentations, circulations (avec T. Devars et C. Rondot),
@@ -75,7 +75,7 @@ M2 Médias, innovation et création (app) - Approche sémiopragmatique du genre 
 M2 Médias et management - Enquête de terrain,
 M2 Médias et management - Méthodologie du mémoire,
 M2 Médias et management - Approche sémiopragmatique du genre,
-M2 Technologie et communication numérique (FI/FC) - Gestion de projet numérique (avec l'Ecole des Mines Alès),
+M2 Technologie et communication numérique (FI/FC) - Gestion de projet numérique (avec lEcole des Mines Alès),
 M2 Technologie et communication numérique (FI/FC) - Méthodologie du mémoire
 Télécharger le CV
 

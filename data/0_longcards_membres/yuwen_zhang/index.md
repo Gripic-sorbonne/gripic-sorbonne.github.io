@@ -1,5 +1,5 @@
 ---
-uuid: dcf2f8c5-b339-4453-9e17-67a19322e6c4
+uuid: a20de936-0546-4326-b11c-8496dd244190
 prettyName: YuwenZhang
 
 title: "Yuwen Zhang"
@@ -16,8 +16,8 @@ abstract: "Chercheuse | Membre associé"
 
 ## Communications et interventions
 
- Yuwen Zhang. « L'hégémonie du QR code en Chine », Actes du XXIIIème Congrès de la SFSIC, 2022, p 800-810.
-Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang. Exploring China's digital public diplomacy in Africa in the time of Pandemic: Building a China-Africa global community of health for all ? , Digital Health Communication: Issues and Perspectives, ICA Post Conference organized by CIMEOS Laboratory University of Burgundy Franche-Comté, mai 31 -juin 1, 2022.
+ Yuwen Zhang. « Lhégémonie du QR code en Chine », Actes du XXIIIème Congrès de la SFSIC, 2022, p 800-810.
+Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang. Exploring Chinas digital public diplomacy in Africa in the time of Pandemic: Building a China-Africa global community of health for all ? , Digital Health Communication: Issues and Perspectives, ICA Post Conference organized by CIMEOS Laboratory University of Burgundy Franche-Comté, mai 31 -juin 1, 2022.
 Yuwen Zhang. « Comprendre le geste de scanner le QR code dans le contexte de la convergence des médias », Colloque international Convergence des médias et Communication numérique, organisé par Shanghai Jiao Tong University, 16 décembre 2020.
 Yuwen Zhang. « Politiques des plateformes numériques : contrôle social », colloque Transnum Penser le numérique comme transformation, co-organisé par GRIPIC - Sorbonne Université et le COSTECH - UTC, 04 février 2020.
 Yuwen Zhang. « Interaction entre industrialisation et marchandisation des réseaux socio-numériques et transformation des dispositifs médiatiques, le cas de WeChat », séminaire du LabSIC, le 15 avril 2021.
@@ -27,8 +27,8 @@ Yuwen Zhang, Qi Wang. « QR code et Big Data », la Fête de la Science 2019, or
 ## Publications et communications
 
  Communications et interventions
-Yuwen Zhang. « L'hégémonie du QR code en Chine », Actes du XXIIIème Congrès de la SFSIC, 2022, p 800-810.
-Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang. Exploring China's digital public diplomacy in Africa in the time of Pandemic: Building a China-Africa global community of health for all ? , Digital Health Communication: Issues and Perspectives, ICA Post Conference organized by CIMEOS Laboratory University of Burgundy Franche-Comté, mai 31 -juin 1, 2022.
+Yuwen Zhang. « Lhégémonie du QR code en Chine », Actes du XXIIIème Congrès de la SFSIC, 2022, p 800-810.
+Zhao Alexandre Huang, Rui Wang, Yuwen Zhang, Xifei Wang. Exploring Chinas digital public diplomacy in Africa in the time of Pandemic: Building a China-Africa global community of health for all ? , Digital Health Communication: Issues and Perspectives, ICA Post Conference organized by CIMEOS Laboratory University of Burgundy Franche-Comté, mai 31 -juin 1, 2022.
 Yuwen Zhang. « Comprendre le geste de scanner le QR code dans le contexte de la convergence des médias », Colloque international Convergence des médias et Communication numérique, organisé par Shanghai Jiao Tong University, 16 décembre 2020.
 Yuwen Zhang. « Politiques des plateformes numériques : contrôle social », colloque Transnum Penser le numérique comme transformation, co-organisé par GRIPIC - Sorbonne Université et le COSTECH - UTC, 04 février 2020.
 Yuwen Zhang. « Interaction entre industrialisation et marchandisation des réseaux socio-numériques et transformation des dispositifs médiatiques, le cas de WeChat », séminaire du LabSIC, le 15 avril 2021.

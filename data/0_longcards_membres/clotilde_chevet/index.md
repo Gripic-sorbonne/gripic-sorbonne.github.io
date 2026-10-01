@@ -1,5 +1,5 @@
 ---
-uuid: af7ace18-af35-4f1a-ac9b-5f6b28762904
+uuid: 3abebc62-643f-4b12-addd-861311ca36dc
 prettyName: ClotildeChevet
 
 title: "Clotilde Chevet"
@@ -26,7 +26,7 @@ C-COM : Communications sans actes dans un congrès international ou national
 « Du cybermilitantisme djihadiste à la cybersexualité : enjeux, défis et limites éthiques de deux ethnographies en ligne ». Intervention à deux voix avec Laurène RENAUT, Colloque Ludovia, Ax les Thermes le 24 août 2022.
 « Dialoguer avec son téléphone : entre mythe relationnel et réalité technique », dans le cadre du cycle de conférences organisé par le FEC de Strasbourg, le 27 janvier 2020.
 « Siri, le robot qui m’aimait ? Etude des ressorts linguistiques d’une “ingénierie de l’enchantement” » - Colloque international sur « L’Attachement aux cyber-choses : logiciels sentimentaux, love-bots et séducteurs de synthèse », Université Paris Nanterre, 15 juin 2017.
-« L’application Siri, un « être de langage » ? Regard sur les pratiques d’écriture et d’oralité dans le cadre de « l’interaction homme-machine », Colloque international « RIAL 2016 : Rencontres internationales d'anthropologie linguistique - l’être de langage, entre corps et technique : nouvelles données, nouvelle donne ? » Montpellier, 25 mars 2016.
+« L’application Siri, un « être de langage » ? Regard sur les pratiques d’écriture et d’oralité dans le cadre de « l’interaction homme-machine », Colloque international « RIAL 2016 : Rencontres internationales danthropologie linguistique - l’être de langage, entre corps et technique : nouvelles données, nouvelle donne ? » Montpellier, 25 mars 2016.
 Séminaires et journées d’étude
 « Observation incognito en e-terrains “sensibles” : une recherche interdite ? » Présentation avec Laurène RENAUT Journée d’étude « Éthique et numérique » JEJC Université Paris Cité - 16 juin 2022.
 Table ronde « : « Impact, valeur et éthique de la recherche » Présentation avec Laurène RENAUT, Journée d’études interdisciplinaire Sorbonne Actuelle, Campus Jussieu, 22 avril 2022.
@@ -46,17 +46,17 @@ https://www.youtube.com/watch?v=jE1TPbXVynI&ab_channel=SorbonneUniversit%C3%A9
 
 ## Expertises et enseignements
 
- Les recherches de Clotilde Chevet portent sur les assistants vocaux, ces « êtres de langage » partagés entre écriture et oralité, code informatique et langage naturel. Par l'étude de ces objets, elle cherche à décrire la mimesis communicationnelle caractérisant "l'interaction humain-machine". À la croisée de l’enquête théorique, de l’anthropologie et de la recherche-création, sa thèse fait ainsi l'étude d'un système d'écritures mimétique qui organise et renouvelle le rapport à soi et à l’autre.
+ Les recherches de Clotilde Chevet portent sur les assistants vocaux, ces « êtres de langage » partagés entre écriture et oralité, code informatique et langage naturel. Par létude de ces objets, elle cherche à décrire la mimesis communicationnelle caractérisant "linteraction humain-machine". À la croisée de l’enquête théorique, de l’anthropologie et de la recherche-création, sa thèse fait ainsi létude dun système décritures mimétique qui organise et renouvelle le rapport à soi et à l’autre.
 
 ## L’Intelligence Artificielle générative au service de l’identité nationale ou l’essor d’un patriotisme technologique
 
  Laurène Renaut, Clotilde Chevet, Lucie Raymond, Samuel Vernet
-Ecole d’hiver de l’Institut des Humanités Numériques (IDHN), CY Cergy Paris Université, Dec 2024, L'Isle-Adam, France. ⟨hal-05682163⟩
+Ecole d’hiver de l’Institut des Humanités Numériques (IDHN), CY Cergy Paris Université, Dec 2024, LIsle-Adam, France. ⟨hal-05682163⟩
 
 ## Post Update Blues : Pourquoi mon amie est-elle devenue si robotique ?
 
  Clotilde Chevet
-Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue d'ethnologie de l'Europe], 2021. ⟨hal-03723004⟩
+Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue dethnologie de lEurope], 2021. ⟨hal-03723004⟩
 
 ## Publications
 
@@ -90,11 +90,11 @@ Clotilde Chevet
 Article dans une revue
 Post Update Blues : Pourquoi mon amie est-elle devenue si robotique ?
 Clotilde Chevet
-Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue d'ethnologie de l'Europe], 2021. ⟨hal-03723004⟩
+Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue dethnologie de lEurope], 2021. ⟨hal-03723004⟩
 Communication dans un congrès
 L’Intelligence Artificielle générative au service de l’identité nationale ou l’essor d’un patriotisme technologique
 Laurène Renaut, Clotilde Chevet, Lucie Raymond, Samuel Vernet
-Ecole d’hiver de l’Institut des Humanités Numériques (IDHN), CY Cergy Paris Université, Dec 2024, L'Isle-Adam, France. ⟨hal-05682163⟩
+Ecole d’hiver de l’Institut des Humanités Numériques (IDHN), CY Cergy Paris Université, Dec 2024, LIsle-Adam, France. ⟨hal-05682163⟩
 Communication dans un congrès
 Re-générer la musique de propagande identitaire sur les réseaux socionumériques : la rhétorique de la “ remigration ” en chansons
 Justine Simon, Clotilde Chevet, Lucie Raymond, Laurène Renaut

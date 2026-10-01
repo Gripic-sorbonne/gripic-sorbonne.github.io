@@ -1,5 +1,5 @@
 ---
-uuid: 74ef5405-d6c5-4e0c-9f95-70ccd11afae2
+uuid: 921b035b-9f97-4de4-8697-1bee53b869e3
 prettyName: MaximeFabre
 
 title: "Maxime Fabre"
@@ -18,23 +18,23 @@ abstract: "Maitre de conférences | Membre associé"
 « Régimes de croyance médiatique ». Séminaire 2021-2022 – Médiamorphoses, Axe 4 GRIPIC : Formes et écritures médiatiques, Pauline Escande-Gauquié et Valé-rie Jeanne-Perrier, intervention le 16 février 2022.
 « Poétique de la saisie : les banalités numériques ». Autour du contemporain, journée d’études de l’axe IDEM à l’ISIC, 4 juin 2021. URL : https://mica.u-bordeaux-montaigne.fr/wp-content/uploads/2021/05/Programme-web-25-mai.pdf.
 « L’Urdoxa : la sémiotique au défi de l’évidence. La représentation du visage en Occident ». SEMDI, journée d’études, Comment les images nous mentent, la sé-miotique au défi du Deep Fake, Université Bordeaux Montaigne, 27 mais 2021. URL : https://mica.u-bordeaux-montaigne.fr/events/comment-les-images-nous-mentent-la-semiotique-au-defi-du-deep-fake/.
-« Des usages journalistiques de la photographie mobile. Archéologie du photo-journalisme aux prises avec les réseaux socionumériques ». Séminaire de l'axe Médias, sociétés et cultures, Laboratoire MICA EA 4426, 2 mars 2021.
-« “Manger les images”, pour une approche politique de la banalité sur les réseaux socionumériques ». Séminaire de l'axe IDEM, Laboratoire MICA EA 4426, 22 fé-vrier 2021. URL : https://mica.u-bordeaux-montaigne.fr/events/seminaire-de-laxe-idem-0121/.
+« Des usages journalistiques de la photographie mobile. Archéologie du photo-journalisme aux prises avec les réseaux socionumériques ». Séminaire de laxe Médias, sociétés et cultures, Laboratoire MICA EA 4426, 2 mars 2021.
+« “Manger les images”, pour une approche politique de la banalité sur les réseaux socionumériques ». Séminaire de laxe IDEM, Laboratoire MICA EA 4426, 22 fé-vrier 2021. URL : https://mica.u-bordeaux-montaigne.fr/events/seminaire-de-laxe-idem-0121/.
 18
 « Traces du passage : le “phénomène migratoire” au prisme de la photographie de presse ». Colloque international Migrations : traces, inscriptions et textualités, Bordeaux Montaigne, 14 février 2020. URL : https://emila.hypotheses.org/1128.
 « Sémiotique et photographie : le régime de l’emprise. Le cas de l’image de presse ». Atelier de Sémiotique organisé par Anne Beyaert-Geslin, laboratoire MICA EA 4426 Maison de la Recherche, Bordeaux Montaigne, 17 janvier 2020. URL : https://mica.u-bordeaux-montaigne.fr/events/at-semio-vis-ecri-1/.
-« Prétentions humanistes et représentations des Autres dans le photojournalisme ». Atelier Décrypt'images au Musée de l'Homme, 4 octobre 2017. URL : http://nousetlesautres.museedelhomme.fr/fr/node/3829.
-« Passeurs de sens : étude sémiotique sur le visage médiatisé des Détective (1936) au visage représenté du Nouveau Détective (2014) ». Journée d'études Détective, fabrique de crimes ? à la BiLiPo, 14 janvier 2017. URL : https://bibliotheques-specialisees.paris.fr/in/actualites/agenda-culturel/null!2279c23a-28aa-40ad-a432-521577477ed5.
-« La photographie de presse au ban des dispositifs d'exposition numérique ». Journée d'études Paris Match - Le partage photographique au CELSA, 12 octobre 2016. URL : https://calenda.org/379032?file=1.
+« Prétentions humanistes et représentations des Autres dans le photojournalisme ». Atelier Décryptimages au Musée de lHomme, 4 octobre 2017. URL : http://nousetlesautres.museedelhomme.fr/fr/node/3829.
+« Passeurs de sens : étude sémiotique sur le visage médiatisé des Détective (1936) au visage représenté du Nouveau Détective (2014) ». Journée détudes Détective, fabrique de crimes ? à la BiLiPo, 14 janvier 2017. URL : https://bibliotheques-specialisees.paris.fr/in/actualites/agenda-culturel/null!2279c23a-28aa-40ad-a432-521577477ed5.
+« La photographie de presse au ban des dispositifs dexposition numérique ». Journée détudes Paris Match - Le partage photographique au CELSA, 12 octobre 2016. URL : https://calenda.org/379032?file=1.
 « Le rôle journalistique des applications de photographie pour téléphones mo-biles : le corps du photojournaliste entre mobilité et exposition ». Colloque In-ternational du GIS - Le journalisme et ses outils au CELSA, 9 octobre 2015. URL : https://www.sfsic.org/index.php/sfsic-infos-151/appels-%C3%A0-comm./2775-colloque-du-gis-journalisme-7-8-9-octobre-celsa.
-« Pour une sémiosis du devenir photographique : de l'ordre chimique à l'ordre numérique ». XIe Congrès International de Sémiotique Visuelle (AISV) à l'Ulg - Ce que les images font au savoir et inversement, 11 septembre 2015. URL : https://aisviavs.wordpress.com/2014/12/05/aisv-2015-xie-congres-de-lassociation-internationale-de-semiotique-visuelle/.
-« L'horizon d'attente de la photographie de presse, quand le photojournalisme devient art, le cas #Dysturb ». Colloque International - Les devenirs artistiques de l'information à l'IFP, 10 juin 2015. URL : https://carismblog.files.wordpress.com/2016/03/devenirs-artistisques-information-brochure-bat.pdf.
+« Pour une sémiosis du devenir photographique : de lordre chimique à lordre numérique ». XIe Congrès International de Sémiotique Visuelle (AISV) à lUlg - Ce que les images font au savoir et inversement, 11 septembre 2015. URL : https://aisviavs.wordpress.com/2014/12/05/aisv-2015-xie-congres-de-lassociation-internationale-de-semiotique-visuelle/.
+« Lhorizon dattente de la photographie de presse, quand le photojournalisme devient art, le cas #Dysturb ». Colloque International - Les devenirs artistiques de linformation à lIFP, 10 juin 2015. URL : https://carismblog.files.wordpress.com/2016/03/devenirs-artistisques-information-brochure-bat.pdf.
 « Pour une érotétique de la présence ». Ateliers de Poésie de Sorbonne Universi-té, Présences, Alexis Rosier, 13 décembre 2014.
 Collaboration à des projets de recherche
 TRANSNUM (Sorbonne Université), penser les transformations du/par le numé-rique, définition sur la « photographie numérique/numérisée » (URL :
 https://transnum.pre.utc.fr/lexique/
 ).
-EMILA (Université Bordeaux Montaigne), représentations médiatiques des migra-tions, possibilité d'élargir ces recherches à l'Afrique francophone et anglophone, et à d’autres espaces internationaux, européens et extra-européens, soutien de la coor-dinatrice du projet, Mme Isabelle Tauzin (Université Bordeaux Montaigne, études latino-américaines), postdoctorant (URL :
+EMILA (Université Bordeaux Montaigne), représentations médiatiques des migra-tions, possibilité délargir ces recherches à lAfrique francophone et anglophone, et à d’autres espaces internationaux, européens et extra-européens, soutien de la coor-dinatrice du projet, Mme Isabelle Tauzin (Université Bordeaux Montaigne, études latino-américaines), postdoctorant (URL :
 https://emila.hypotheses.org
 ).
 Numapresse (International), mutations culturelles, transferts génériques, poétiques médiatiques de la presse, conférence au congrès Médias 19 (8-11 juin 2021).
@@ -73,7 +73,7 @@ https://theconversation.com/podcast-le-photojournalisme-et-la-representation-des
 
 ## Expertises et enseignements
 
- Maxime Fabre est Docteur en Sciences de l’information et de la communication et Maître de conférences dans cette même discipline. Diplômé du Celsa (Sorbonne Université) et de l’Université de Liège, il poursuit des recherches dans le domaine du journalisme, du numérique et de la sémiotique visuelle. Il est actuellement Mcf à l’UCO Laval et membre du Centre de Sémiotique et de Rhétorique de l’Université de Liège. Il travaille sur la dimension pragmatique et épistémologique de ces objets. Il a publié plusieurs articles dans des revues internationales (Communication & langages, Signata), a soutenu une thèse intitulée « L’image exposée, la représentation des photographies de l’Agence France-Presse sur les réseaux sociaux » sous la direction d’Adeline Wrona et de Sémir Badir, et publié un ouvrage, "Photographie de presse. Régimes de croyance" en 2020, nommé aux prix de recherche des Assises internationales de journalisme en 2021. Ses activités d’enseignement à l'UCO Laval portent sur le journalisme, les médias, la communication des organisations, la photographie de presse et la sémiotique générale. Il accompagne plusieurs projets de recherche : sur le journalisme : Numapresse (international) ; le numérique : TRANSNUM (Sorbonne Université), et la représentation médiatique des migrations : EMILA (Université Bordeaux Montaigne). En 2013 il a obtenu le prix d’Excellence à l’international décerné par les Conseillers du Commerce Extérieur de Paris après un diplôme universitaire effectué en Roumanie. Passionné de photographie, il a exposé une série d’images sur le thème des « Vestiges » à Târgu Mureș en Transylvanie.
+ Maxime Fabre est Docteur en Sciences de l’information et de la communication et Maître de conférences dans cette même discipline. Diplômé du Celsa (Sorbonne Université) et de l’Université de Liège, il poursuit des recherches dans le domaine du journalisme, du numérique et de la sémiotique visuelle. Il est actuellement Mcf à l’UCO Laval et membre du Centre de Sémiotique et de Rhétorique de l’Université de Liège. Il travaille sur la dimension pragmatique et épistémologique de ces objets. Il a publié plusieurs articles dans des revues internationales (Communication & langages, Signata), a soutenu une thèse intitulée « L’image exposée, la représentation des photographies de l’Agence France-Presse sur les réseaux sociaux » sous la direction d’Adeline Wrona et de Sémir Badir, et publié un ouvrage, "Photographie de presse. Régimes de croyance" en 2020, nommé aux prix de recherche des Assises internationales de journalisme en 2021. Ses activités d’enseignement à lUCO Laval portent sur le journalisme, les médias, la communication des organisations, la photographie de presse et la sémiotique générale. Il accompagne plusieurs projets de recherche : sur le journalisme : Numapresse (international) ; le numérique : TRANSNUM (Sorbonne Université), et la représentation médiatique des migrations : EMILA (Université Bordeaux Montaigne). En 2013 il a obtenu le prix d’Excellence à l’international décerné par les Conseillers du Commerce Extérieur de Paris après un diplôme universitaire effectué en Roumanie. Passionné de photographie, il a exposé une série d’images sur le thème des « Vestiges » à Târgu Mureș en Transylvanie.
 
 ## La photographie de presse au ban des dispositifs d’exposition numérique. Paris Match et l’AFP sur Instagram
 
@@ -95,8 +95,8 @@ Criminocorpus, revue hypermédia. Histoire de la justice, des crimes et des pein
 ## Photographie de presse. Régimes de croyance
 
  Maxime Fabre
-En revenant sur les promesses originelles de l'objet photographie de presse, Maxime Fabre examine à nouveaux frais l'ensemble des croyances qui se portent sur la photographie. Des croyances façonnées par la technique, consolidées au cours du temps par les discours théoriques et…
-Academia/L'Harmattan, 204 p., 2020, 978-2-8061-0533-2. ⟨hal-03120556⟩
+En revenant sur les promesses originelles de lobjet photographie de presse, Maxime Fabre examine à nouveaux frais lensemble des croyances qui se portent sur la photographie. Des croyances façonnées par la technique, consolidées au cours du temps par les discours théoriques et…
+Academia/LHarmattan, 204 p., 2020, 978-2-8061-0533-2. ⟨hal-03120556⟩
 
 ## Publications
 
@@ -124,9 +124,9 @@ Criminocorpus, revue hypermédia. Histoire de la justice, des crimes et des pein
 Ouvrages
 Photographie de presse. Régimes de croyance
 Maxime Fabre
-En revenant sur les promesses originelles de l'objet photographie de presse, Maxime Fabre examine à nouveaux frais l'ensemble des croyances qui se portent sur la photographie. Des croyances façonnées par la technique, consolidées au cours du temps par les discours théoriques et…
-Academia/L'Harmattan, 204 p., 2020, 978-2-8061-0533-2. ⟨hal-03120556⟩
-Chapitre d'ouvrage
+En revenant sur les promesses originelles de lobjet photographie de presse, Maxime Fabre examine à nouveaux frais lensemble des croyances qui se portent sur la photographie. Des croyances façonnées par la technique, consolidées au cours du temps par les discours théoriques et…
+Academia/LHarmattan, 204 p., 2020, 978-2-8061-0533-2. ⟨hal-03120556⟩
+Chapitre douvrage
 L’indice et la photographie, un exercice de croyance
 Maxime Fabre
 Guillaume Beringer. Projections. Essais sur la photographie, Anesthetize Éditions, 2020. ⟨hal-03121598⟩

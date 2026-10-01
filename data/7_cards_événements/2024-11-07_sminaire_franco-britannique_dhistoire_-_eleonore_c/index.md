@@ -1,11 +1,8 @@
 ---
-uuid: dd82c56b-04b8-4bb6-a482-27f0ab091e46
-title: "Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à l'agenda du problème des famines par l'État colonial britannique au Bengale en 1866 »
-
-"
-author: " Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
-(Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)
-"
+uuid: 4392c91d-a9a6-4c2b-a38c-081c2c8d496e
+title: "Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à lagenda du problème des famines par lÉtat colonial britannique au Bengale en 1866 »"
+author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
+(Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)"
 event: true
 abstract: ""
 ---
@@ -16,9 +13,7 @@ abstract: ""
 
 ## Titre
 
- Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à l'agenda du problème des famines par l'État colonial britannique au Bengale en 1866 »
-
-
+ Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à lagenda du problème des famines par lÉtat colonial britannique au Bengale en 1866 »
 
 ## Date
 
@@ -34,9 +29,8 @@ abstract: ""
 
 ## Organisateur(s)
 
-  Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
+ Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
 (Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)
-
 
 ## Contact
 

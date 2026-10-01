@@ -1,5 +1,5 @@
 ---
-uuid: 586b2487-0fdb-4d6b-8dd2-76a23da492b6
+uuid: 75a6cde4-c55c-4f1d-bd72-89ff97545225
 prettyName: JunghwanLee
 
 title: "Junghwan Lee"
@@ -16,7 +16,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Sujet de recherche

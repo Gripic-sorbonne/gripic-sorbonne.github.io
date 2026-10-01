@@ -1,5 +1,5 @@
 ---
-uuid: d894c9e3-234d-4708-8b5e-559813fd0c02
+uuid: beb92c0e-e5dc-44aa-a2b4-596c7a6c779b
 title: "Communicating Green"
 author: "nicole D’Almeida, Ana Carolina Peliz"
 authors: "nicole D’Almeida, Ana Carolina Peliz"

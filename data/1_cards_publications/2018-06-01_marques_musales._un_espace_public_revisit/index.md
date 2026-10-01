@@ -1,5 +1,5 @@
 ---
-uuid: c0a901fc-a207-475d-9d3b-8df993a001c3
+uuid: c155571a-8724-4d3a-82f6-554670baeccd
 title: "Marques Muséales. Un espace public revisité"
 author: "Caroline Marti"
 authors: "Caroline Marti"

@@ -1,5 +1,5 @@
 ---
-uuid: 0c3ec7e0-216a-4aaf-b133-f32c27ffee3b
+uuid: fd5b6591-68cf-4b85-994c-be3f26d31cfa
 prettyName: MatthieuParelon
 
 title: "Matthieu Parelon"
@@ -15,11 +15,11 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Formes et écritures médiatiques
 Titre de thèse
-: (Se) Jouer des dispositifs médiatiques. Trois cas d'ironie transcendantale : Mallarmé, Lacan, Godard
+: (Se) Jouer des dispositifs médiatiques. Trois cas dironie transcendantale : Mallarmé, Lacan, Godard
 Mots-clés
 : Dispositif, Ironie, Média, Intellectuel, Mallarmé, Lacan, Godard
 Directeur de thèse

@@ -1,5 +1,5 @@
 ---
-uuid: 4bbb63bd-7925-4aa9-801e-365783202bed
+uuid: 53029c94-4ff5-4845-bc97-67efadc1c045
 prettyName: IsabelleLeBretonFalezan
 
 title: "Isabelle Le Breton-Falezan"
@@ -21,7 +21,7 @@ abstract: "Maitresse de conférences | Membre permanent en enseignement et reche
 1 co-encadrement scientifique de Thèse (avec le professeur Yves Jeanneret) :
 (2010-2015) : Celsa Paris-Sorbonne, Titre : “Représenter et incarner une organisation internationale. Analyse d’une prétention communicationnelle sur le site internet de l’UNESCO” - Auteur : Camille Rondot. Thèse soutenue le 13 septembre 201.5
 2 autres participations à des jurys de Thèse :
-octobre 2016 : Ecole doctorale de Sciences-Po Paris - Discipline : Sciences politiques - Titre : “ La communication à l'ONU” - Auteur : M. REGRAGUI Ismaël - Direction : professeur Guillaume Devin.
+octobre 2016 : Ecole doctorale de Sciences-Po Paris - Discipline : Sciences politiques - Titre : “ La communication à lONU” - Auteur : M. REGRAGUI Ismaël - Direction : professeur Guillaume Devin.
 décembre 2017 : Ecole doctorale de l’Université Paris VII Denis Diderot - Discipline : SIC - Titre : “Continuité et rupture de la prégnance médiatique. La couverture de la Chine par le Monde diplomatique (1975-1992)”  - Auteur : M. Alexandre Schiele - Direction : professeure  Joëlle Le Marec.
 Organisation de “Tables rondes” entre professionnels et universitaires. Un exemple :
 13 juin 2017 : Celsa Sorbonne-Université - “L’Election présidentielle française” (avec Th. Devars, MCF Celsa)

@@ -1,5 +1,5 @@
 ---
-uuid: e1b4cb0e-c1bc-4454-ab4a-11459131892f
+uuid: 5e99c9a0-a3d0-4810-8ac6-7b251432c119
 prettyName: YoussefEnnahi
 
 title: "Youssef Ennahi"
@@ -15,9 +15,9 @@ abstract: "Chercheur | Membre associé"
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
-: Dynamiques de communication dans l'espace public
+: Dynamiques de communication dans lespace public
 Sujet de recherche
 : Les stratégies d’influence dans la communication du chef du gouvernement islamiste marocain
 Directeur de thèse

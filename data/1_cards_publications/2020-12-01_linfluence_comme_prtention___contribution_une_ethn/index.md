@@ -1,5 +1,5 @@
 ---
-uuid: 3e23ba9a-083d-423d-92c9-5a80cee86944
+uuid: 7fd7f4c5-33fb-4b08-8184-6ca2c189a01f
 title: "“ L’influence ” comme prétention : contribution à une ethnosémiotique de l’expertise dans le conseil en communication"
 author: "Thomas Grignon"
 authors: "Thomas Grignon"

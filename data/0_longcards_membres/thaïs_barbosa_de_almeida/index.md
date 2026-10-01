@@ -1,5 +1,5 @@
 ---
-uuid: 7d01fa0e-4e29-492d-a587-e05c40540ad1
+uuid: ff2374a0-4f71-404e-8a95-0fc1016b3c75
 prettyName: ThaïsBarbosadeAlmeida
 
 title: "Thaïs Barbosa de Almeida"
@@ -14,7 +14,7 @@ abstract: "Chercheuse | Membre associé"
 
 ## Expertises
 
- Docteure en Sciences de l'information et de la Communication et en Sciences Politiques de l'Université de Limoges (France) et de l'Université Fédérale du Paraná (Brésil), je suis actuellement ingénieure de recherche dans le projet MatrioscIA (Université Bordeaux Montaigne). Ce projet vise à étudier les évolutions du journalisme d'investigation sous l'impulsion des techniques OSINT et, plus spécifiquement, l'arrivée de l'IA dans le secteur.
-J'ai de l'expérience dans l'enseignement universitaire dans les domaines du journalisme, de l'étude de l'image et de la sémiologie, de la gestion des projets, de la stratégie de communication numérique, des techniques d'écriture professionnelle, de la théorie des Sciences de l'Information et de la Communication et de la méthodologie de la recherche.
-Anciennement journaliste au Brésil, j'ai également participé à la couverture de l'actualité (rédaction d'articles, interviews, tournage, montage) et à des missions de communication numérique.
+ Docteure en Sciences de linformation et de la Communication et en Sciences Politiques de lUniversité de Limoges (France) et de lUniversité Fédérale du Paraná (Brésil), je suis actuellement ingénieure de recherche dans le projet MatrioscIA (Université Bordeaux Montaigne). Ce projet vise à étudier les évolutions du journalisme dinvestigation sous limpulsion des techniques OSINT et, plus spécifiquement, larrivée de lIA dans le secteur.
+Jai de lexpérience dans lenseignement universitaire dans les domaines du journalisme, de létude de limage et de la sémiologie, de la gestion des projets, de la stratégie de communication numérique, des techniques décriture professionnelle, de la théorie des Sciences de lInformation et de la Communication et de la méthodologie de la recherche.
+Anciennement journaliste au Brésil, jai également participé à la couverture de lactualité (rédaction darticles, interviews, tournage, montage) et à des missions de communication numérique.
 
