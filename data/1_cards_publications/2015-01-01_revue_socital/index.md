@@ -1,5 +1,5 @@
 ---
-uuid: 11c542ef-785c-40bd-aee5-0e3952cfad9c
+uuid: 8f9abcda-8b29-49d8-ac71-d3587ffe5ddf
 title: "Revue Sociétal"
 author: "Véronique Richard"
 authors: "Véronique Richard"

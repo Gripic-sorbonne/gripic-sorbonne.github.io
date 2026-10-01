@@ -1,5 +1,5 @@
 ---
-uuid: 90b5c584-b7ea-4a9e-af7a-0228794ebb35
+uuid: 0a27a031-0c64-4644-a79d-d1bdc916f7bc
 title: "L’art en jeu des Correspondances : technique ou communication ?"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

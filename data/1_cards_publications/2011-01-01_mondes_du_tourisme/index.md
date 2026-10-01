@@ -1,5 +1,5 @@
 ---
-uuid: f08af5d6-68bf-4d35-b031-da046ab058c2
+uuid: 7f21b581-5b82-4417-8feb-9403be2979a7
 title: "Mondes du tourisme"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

@@ -1,5 +1,5 @@
 ---
-uuid: 0942b5b7-b2e6-4924-9802-aff2238d061d
+uuid: d3d2b190-24df-4d4d-9dbe-c8f1b261861e
 title: "Ateliers de CERES"
 author: "Thibault Grison"
 authors: "Thibault Grison"

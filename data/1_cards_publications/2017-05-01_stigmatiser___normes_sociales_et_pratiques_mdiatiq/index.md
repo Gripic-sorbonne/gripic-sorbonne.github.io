@@ -1,5 +1,5 @@
 ---
-uuid: 078e3b51-be06-4cd2-a9fe-f975a973cacc
+uuid: 4b1d784a-d681-430e-a23f-3a0c51b60959
 title: "Stigmatiser : normes sociales et pratiques médiatiques"
 author: "Caroline Marti"
 authors: "Caroline Marti"

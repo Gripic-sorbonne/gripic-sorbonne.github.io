@@ -1,5 +1,5 @@
 ---
-uuid: 9e32e0c0-ba94-4e72-aee5-ec9a46cd5797
+uuid: ae0db9d3-9e89-4654-b25c-7f3a73a283ef
 title: "Communication, Technologies et Développement"
 author: "Laurent Petit"
 authors: "Laurent Petit"

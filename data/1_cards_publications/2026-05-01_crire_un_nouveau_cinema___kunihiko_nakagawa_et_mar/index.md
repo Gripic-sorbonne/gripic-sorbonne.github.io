@@ -1,5 +1,5 @@
 ---
-uuid: d34a6c77-7b26-46cd-a902-9bcae65f9d6a
+uuid: 37ee5f9b-ee7f-4c8a-88f0-eef2ccc7abbc
 title: "Écrire un nouveau cinema : Kunihiko Nakagawa et Marguerite Duras"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

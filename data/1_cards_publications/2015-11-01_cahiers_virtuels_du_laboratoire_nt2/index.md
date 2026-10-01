@@ -1,5 +1,5 @@
 ---
-uuid: e87afb18-4474-40bb-9b2c-d821d60a2f92
+uuid: 9ded61a7-bfc4-44a5-9975-891c344f1a09
 title: "Cahiers virtuels du Laboratoire NT2"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

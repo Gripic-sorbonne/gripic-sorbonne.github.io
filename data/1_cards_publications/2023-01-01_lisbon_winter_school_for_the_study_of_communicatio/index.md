@@ -1,5 +1,5 @@
 ---
-uuid: 3fda96fb-e3d9-4b78-b0af-63aac05c1a4f
+uuid: 566d92d4-1835-46c4-8f89-1f8380bbf390
 title: "Lisbon Winter School for the Study of Communication"
 author: "Marie-lise Buisson, Thibault Grison"
 authors: "Marie-lise Buisson, Thibault Grison"

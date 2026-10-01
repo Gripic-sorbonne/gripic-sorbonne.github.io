@@ -1,5 +1,5 @@
 ---
-uuid: d8e4d1d9-6afe-431c-b0e2-5cc2ad2ef549
+uuid: 43d7014d-15b6-441a-83aa-7d2801f5ce1a
 title: "La fabrique médiatique des récits de vie. Circulation des biographèmes de Vapereau à Wikipédia"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"
