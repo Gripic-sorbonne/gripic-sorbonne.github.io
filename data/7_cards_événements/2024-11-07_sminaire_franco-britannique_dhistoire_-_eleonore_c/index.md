@@ -5,7 +5,9 @@ author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Rol
 (Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)"
 event: true
 abstract: ""
-tags: "histoire"
+tags:
+    - histoire
+
 ---
 
 ## ﻿Séquentiel
