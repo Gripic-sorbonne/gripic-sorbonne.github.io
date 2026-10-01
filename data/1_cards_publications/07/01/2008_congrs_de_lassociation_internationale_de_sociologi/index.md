@@ -1,5 +1,5 @@
 ---
-uuid: b5d1577a-cd5f-4964-82f8-5a7fb7c9e1be
+uuid: 08b3237f-8e37-47fd-84f2-6ae13b59f9a1
 title: "Congrès de l’Association Internationale de Sociologie de Langues Françaises"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

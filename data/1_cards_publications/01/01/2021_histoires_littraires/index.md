@@ -1,5 +1,5 @@
 ---
-uuid: c5f4ac52-b06b-4e78-9ea5-454092b4a6cd
+uuid: 266d7f02-fe73-4fec-98dd-ecf3262b4bec
 title: "Histoires Littéraires"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

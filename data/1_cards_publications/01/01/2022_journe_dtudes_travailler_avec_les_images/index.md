@@ -1,5 +1,5 @@
 ---
-uuid: bc828d11-9824-4ab5-b0a9-867861007e3b
+uuid: 753a6bc3-3dc8-4e7f-8be1-d35bedb4c278
 title: "Journée d’études Travailler avec les images"
 author: "Virginie Julliard, Kenza Benabdelouhab, Félix Alié, Vanille Ecrement"
 authors: "Virginie Julliard, Kenza Benabdelouhab, Félix Alié, Vanille Ecrement"

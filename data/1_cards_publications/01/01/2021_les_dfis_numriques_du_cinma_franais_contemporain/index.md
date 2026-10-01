@@ -1,5 +1,5 @@
 ---
-uuid: 267731ae-a296-4d77-88e9-06ccd31d09d6
+uuid: 5ef3ea16-8f4b-44ff-b720-b922b7c3368e
 title: "Les défis numériques du cinéma français contemporain"
 author: "Pauline Escande"
 authors: "Pauline Escande"

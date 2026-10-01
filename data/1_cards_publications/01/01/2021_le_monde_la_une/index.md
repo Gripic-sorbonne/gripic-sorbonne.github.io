@@ -1,5 +1,5 @@
 ---
-uuid: ddb818bd-8d23-4114-8df2-3f8d602f255a
+uuid: ccec355b-22a4-4c1d-8520-70849b373cb8
 title: "Le monde à la une"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

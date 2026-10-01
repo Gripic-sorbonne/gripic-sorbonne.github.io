@@ -1,5 +1,5 @@
 ---
-uuid: 1717e602-d21d-4d46-8dcf-94620eb0d284
+uuid: 65a9e768-bad5-4a61-abe1-186643c5f0dc
 title: "L’intervention des médias informatisés dans le continuum de la médiation patrimoniale. D’une écriture des pratiques de visite à une pratique des écritures de médiation"
 author: "Ronan German"
 authors: "Ronan German"

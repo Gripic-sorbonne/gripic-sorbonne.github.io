@@ -1,5 +1,5 @@
 ---
-uuid: 0881a434-2d99-49d7-a859-85088ceb6f0d
+uuid: b8dd43d0-d19f-4170-bbd5-66f3fcc05ca1
 title: "Sous les images, la politique... : presse, cinéma, télévision, nouveaux médias : (XXe-XXIe siècle)"
 author: "Thierry Devars"
 authors: "Thierry Devars"

@@ -1,5 +1,5 @@
 ---
-uuid: 34d4f531-1185-4560-a35e-219fee4f9742
+uuid: 0c32b61b-34bf-4a53-981e-455336bc9b2a
 title: "cumple gabo"
 author: "gabito"
 event: true
@@ -16,7 +16,7 @@ abstract: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Date
 
- 10/01/2026
+ 01/10/2026
 
 ## Lieu
 
@@ -44,7 +44,7 @@ abstract: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Date d'archivage
 
- 10/07/2026
+ 10/10/2026
 
 ## Url associé.e
 

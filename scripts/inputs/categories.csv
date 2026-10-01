@@ -1,5 +1,5 @@
-"nom";"groupe";"type";"description"
-"Qui sommes-nous";"0";"cards";"# Qui sommes-nous ?
+nom;groupe;type;description
+Qui sommes-nous;0;cards;"# Qui sommes-nous ?
 
 Le Groupe de recherches interdisciplinaires sur les processus d'information et de communication (GRIPIC, UR nº 1498) est une unité de recherche autonome spécialisée dans les sciences de l’information et de la communication. Il entretient des liens étroits avec le CELSA, l'École des hautes études en science de l’information et de la communication de Sorbonne Université, dont il accueille les enseignants-chercheurs et enseignantes-chercheuses.
 
@@ -28,7 +28,7 @@ Important centre de recherches en communication, le GRIPIC accueille également 
 * **2021.** — Sophie Corbillé et Julien Tassel (co-directrice et co-directeur)
 * **2022.** — Pascal Froissart et Sophie Corbillé (directeur et directrice adjointe)
 * **2024.** — Nelly Quemener et Valérie Jeanne-Perrier (directrice et directrice adjointe)"
-"Projet scientifique";"0";"cards";"# Projet scientifique
+Projet scientifique;0;cards;"# Projet scientifique
 
 Le projet scientifique du GRIPIC est centré à la fois sur l’analyse des mutations contemporaines liées aux processus d’information et de communication et aux médiations, et sur une approche interdisciplinaire qui favorise le pluralisme méthodologique et l’attention aux questions épistémologiques.
 
@@ -47,7 +47,7 @@ Les thématiques de l’équipe évoluent afin d’accompagner les enjeux contem
 Le GRIPIC promeut les approches interdisciplinaires pour analyser les objets sociaux, leurs circulations, leur historicité, leurs médiations concrètes, et leurs dimensions à la fois technique, culturelle et politique. L’unité cherche à valoriser les différentes sensibilités scientifiques de ses membres, et leurs liens à d’autres disciplines telles que la sociologie, les lettres, l'histoire, l’anthropologie ou encore les sciences politiques, à travers notamment l'organisation et la participation à des projets de recherche interdisciplinaires.
 
 De même, le GRIPIC valorise le choix de méthodologies variées pour analyser les dispositifs, la vie des signes, les pratiques des acteurs et les représentations qui structurent les processus de communication : analyse sémiotique de corpus, enquête de terrain ou encore analyse de contenus. Une attention particulière est donnée depuis plusieurs années aux méthodologies liées à l’analyse de corpus numériques, avec notamment la création du Centre d'expérimentation en méthodes numériques pour les recherches en Sciences humaines et sociales (CERES, unité de service de Sorbonne Université). La démarche d'analyse est toujours accompagnée par une approche réflexive qui met en perspective la pratique de recherche elle-même. Il s'agit ainsi de contribuer à la réflexion sur les enjeux épistémologiques en sciences de l'information et de la communication et sur les liens avec les disciplines voisines. Les travaux de recherche des étudiants et des étudiantes du CELSA contribuent enfin aux réflexions menées par l’équipe."
-"Axes de recherche";"0";"cards";"# Thématiques de recherche
+Axes de recherche;0;cards;"# Thématiques de recherche
 
 ## Les axes de recherches du GRIPIC
 
@@ -72,7 +72,7 @@ Cet axe de recherche porte sur les controverses médiatiques, la communication p
 ### Enjeux de communication et relations de travail
 
 Cette ancienne thématique de recherche n'est plus développée au sein du GRIPIC mais les publications liées à cette thématique restent disponibles."
-"Collectifs et programmes de recherche";"3";"cards";"# Collectifs et programmes de recherche
+Collectifs et programmes de recherche;3;cards;"# Collectifs et programmes de recherche
 
 Les membres du GRIPIC développent de nombreux partenariats et relations avec d’autres laboratoires de recherche et institutions, au sein des sciences de l’information et de la communication et plus largement des sciences humaines et sociales. Ces coopérations prennent différentes formes: programmes de recherche, collectifs et réseaux de recherche, groupement d’intérêt scientifique, séminaires co-organisés, etc. Elles sont essentielles pour enrichir l’analyse des phénomènes de communication, et participent également à l'animation du champ des SIC en favorisant les échanges entre pairs.
 
@@ -139,6 +139,6 @@ Les chercheurs y chercheuses du GRIPIC co-organisent régulièrement des sémina
 - **Séminaire Correspondance et reportage de guerre (2018-2021)** (D. Ruellan / ANR Numapresse).
 
 </details>"
-"Formation à la recherche et au doctorat";"4";"longcards";"# Formation à la recherche et au doctorat"
-"International";"5";"longcards";""
-"nochesita";"5";"longcards";""
+Formation à la recherche et au doctorat;4;longcards;# Formation à la recherche et au doctorat
+International;5;longcards;
+nochesita;5;longcards;

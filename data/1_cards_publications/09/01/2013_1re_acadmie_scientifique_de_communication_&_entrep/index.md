@@ -1,5 +1,5 @@
 ---
-uuid: fa90f60f-f488-4def-b8ea-d0de070cb2a9
+uuid: 43ee3044-067f-41e3-90ea-3ecbe1816fc6
 title: "1ère Académie Scientifique de Communication & Entreprise"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

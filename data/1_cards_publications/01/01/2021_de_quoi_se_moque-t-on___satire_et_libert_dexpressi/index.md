@@ -1,5 +1,5 @@
 ---
-uuid: 88eb7533-18da-4d36-9b1d-42564418bd27
+uuid: 2d1b96a9-3dbd-417f-9794-9f11b739b800
 title: "De quoi se moque-t-on ? Satire et liberté d’expression"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

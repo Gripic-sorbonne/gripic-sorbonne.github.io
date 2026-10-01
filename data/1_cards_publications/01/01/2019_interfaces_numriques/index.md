@@ -1,5 +1,5 @@
 ---
-uuid: a4595979-3661-4c19-aac7-66fba0bfa78a
+uuid: 7d329846-5be4-4c76-8f06-9d605d07dbd1
 title: "Interfaces numériques"
 author: "Mathilde Vassor"
 authors: "Mathilde Vassor"

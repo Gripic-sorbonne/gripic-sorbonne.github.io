@@ -1,5 +1,5 @@
 ---
-uuid: e92c0011-6ad9-4452-b380-7da3551d5223
+uuid: 50585bce-03ac-41b9-a6e7-925242ce48fe
 title: "Géographie et cultures"
 author: "Nelly Quemener, Simone Weaver"
 authors: "Nelly Quemener, Simone Weaver"

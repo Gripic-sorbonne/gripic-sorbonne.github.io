@@ -1,5 +1,5 @@
 ---
-uuid: ee1bb297-beee-4859-8015-4aaac18d7364
+uuid: e85770cf-8763-4c5d-a664-ebf3cc562192
 title: "Colloque “ Éthique et communication ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

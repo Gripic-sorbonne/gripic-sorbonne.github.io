@@ -1,5 +1,5 @@
 ---
-uuid: 4f0d3c7f-30d0-4c6f-a213-a674ecd8f553
+uuid: 882bd7c1-ffff-41a9-8569-a9cf62d3885d
 title: "MObyGaze: a film dataset of multimodal objectification densely annotated by experts"
 author: "Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
 authors: "Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
