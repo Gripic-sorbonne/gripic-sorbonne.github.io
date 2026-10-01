@@ -1,5 +1,5 @@
 ---
-uuid: d81c57cb-8e13-41c6-aade-9fdb232ad2c5
+uuid: ef0fb6ab-d793-4694-9ebe-e56cce490b96
 prettyName: EmmanuelleFantin
 
 title: "Emmanuelle Fantin"
@@ -45,7 +45,7 @@ Projets de recherche
 ## Articles
 
  2025 (à paraître),
-« Perdre la neige. Collecter, archiver et exposer les pratiques et émotions nivales à lheure du changement climatique. », avec Sophie Corbillé.
+« Perdre la neige. Collecter, archiver et exposer les pratiques et émotions nivales à l'heure du changement climatique. », avec Sophie Corbillé.
 2023, « Nostalgies et remédiations du passé en politique, ou le danger des abus de la mémoire »,
 Questions de communications
 , n°44, p. 263-282. Avec Katharina Niemeyer et Corine Dufresne-Delières.
@@ -119,14 +119,14 @@ siècle
 Paris, capitale médiatique. Ville et presse au XIXe siècle
 , Vincennes, Presses universitaires de Vincennes, coll. Médias, p.109-123. Avec Sophie Corbillé.
 2021, « La marchandisation de la nostalgie. Quelques réflexions théoriques autour de l’absence, du capitalisme et de l’utopie du passé » dans Gasparini, Patrizia et Zunino, Estelle (dir.),
-Nostalgie. Conceptualisation dune émotion.
+Nostalgie. Conceptualisation d'une émotion.
 PUN - Editions Universitaires de Lorraine, p.221-235
 2021, « Dire, ne pas dire, ou présupposer la nostalgie de l’immigré ? Le cas des portraits en ligne du Musée National de l’Histoire de l’Immigration » dans Fantin, Emmanuelle, Fevry, Sébastien et Niemeyer, Katharina (dir.),
 Nostalgies contemporaines. Média, culture et technologie
-, Presses Universitaires du Septentrion, collection Information-communication. Villeneuve dAscq, p.181-196
+, Presses Universitaires du Septentrion, collection Information-communication. Villeneuve d'Ascq, p.181-196
 2020, « Les publics et leurs ambivalences. Salons animaliers, soins portés et affects en mouvement » avec E. Fantin, dans Le Marec J. et Maczek E. (dir.),
 Musées et Recherche - Le souci du public
-, OCIM Université de Bourgogne, coll. "Les dossiers de lOCIM", p.179-193. Avec Sophie Corbillé.
+, OCIM Université de Bourgogne, coll. "Les dossiers de l'OCIM", p.179-193. Avec Sophie Corbillé.
 2019, « La nostalgie de la publicité : de la pratique mémorielle à la tentation historiographique » dans Blandin Claire, Robinet, François et Schafer, Valérie (dir.), Fantin, Emmanuelle (collaboration),
 Penser l’histoire des médias
 , CNRS Editions : Paris, p. 139-141.
@@ -160,11 +160,11 @@ sur invitation
 sur invitation
 ,
 « ‘Le monde est bien décevant’. L’image, les webcams animalières et la tentation de voir le monde en notre absence », conférence dans le cadre du symposium « Ecran total/ Total Screen », UQAM, 29 mars.
-2019, « Les salons d’animaux de compagnie : brouillages et paradoxes dans l’éthique animale », Colloque « Les animaux en ethnographie. Quelles méthodes denquêtes, quelles postures éthiques ? », Muséum National d’Histoire Naturelle de Paris, 21-22 novembre. Avec Sophie Corbillé.
+2019, « Les salons d’animaux de compagnie : brouillages et paradoxes dans l’éthique animale », Colloque « Les animaux en ethnographie. Quelles méthodes d'enquêtes, quelles postures éthiques ? », Muséum National d’Histoire Naturelle de Paris, 21-22 novembre. Avec Sophie Corbillé.
 2019,
 sur invitation
 ,
-« Faudrait-il prendre le hasard au sérieux ? Les ventouses du destin », Colloque de Cerisy  « Jean Baudrillard, lintelligence du temps qui vient », Centre culturel de Cerisy-la-Salle, 9-16 août.
+« Faudrait-il prendre le hasard au sérieux ? Les ventouses du destin », Colloque de Cerisy  « Jean Baudrillard, l'intelligence du temps qui vient », Centre culturel de Cerisy-la-Salle, 9-16 août.
 2018, « Des mugs et des hommes. De la propagande historique à sa marchandisation contemporaine », Journée d’étude « Le kitsch menace-t-il la propagande ? », Centre Allemand d’Histoire de l’Art, 7 décembre.
 2017, « Ambivalence of remembering and nostalgia in the Gallery “portraits of immigrants” of French national museum of history of immigration », Second Annual Conference of the Memory Studies Association, Copenhague, 14-16 décembre.
 2017, « Esthétique et rhétorique ordinaires de la nostalgie : la commercialisation du passé », Colloque international « La nostalgie dans tous ses états », Nancy, Université de Lorraine, 30 novembre, 1er et 2 décembre.
@@ -202,7 +202,7 @@ Mes activités sont ancrées empiriquement dans une démarche sémio-culturelle.
 Jean Baudrillard
 , London, Reaktion Books, Collection Critical Lives (à paraître en 2025)
 Fantin Emmanuelle et Tassel Julien (dir.),
-Quand lenfance rencontre lhistoire. Imaginaires, représentations et savoirs,
+Quand l'enfance rencontre l'histoire. Imaginaires, représentations et savoirs,
 Presses Universitaires de Rouen-Le Havre, collection Littérature de jeunesse et histoire, (à paraître en 2025)
 Fantin Emmanuelle et Zéhenne Camille,
 Le Livre dont Jean Baudrillard est le héros
@@ -232,7 +232,7 @@ Fantin Emmanuelle et Nicol Bran,
 Jean Baudrillard
 , London, Reaktion Books, Collection Critical Lives (à paraître en 2025)
 Fantin Emmanuelle et Tassel Julien (dir.),
-Quand lenfance rencontre lhistoire. Imaginaires, représentations et savoirs,
+Quand l'enfance rencontre l'histoire. Imaginaires, représentations et savoirs,
 Presses Universitaires de Rouen-Le Havre, collection Littérature de jeunesse et histoire, (à paraître en 2025)
 Fantin Emmanuelle et Zéhenne Camille,
 Le Livre dont Jean Baudrillard est le héros
@@ -290,20 +290,20 @@ siècle
 Paris, capitale médiatique. Ville et presse au XIXe siècle
 , Vincennes, Presses universitaires de Vincennes, coll. Médias, p.109-123. Avec Sophie Corbillé.
 2021, « La marchandisation de la nostalgie. Quelques réflexions théoriques autour de l’absence, du capitalisme et de l’utopie du passé » dans Gasparini, Patrizia et Zunino, Estelle (dir.),
-Nostalgie. Conceptualisation dune émotion.
+Nostalgie. Conceptualisation d'une émotion.
 PUN - Editions Universitaires de Lorraine, p.221-235
 2021, « Dire, ne pas dire, ou présupposer la nostalgie de l’immigré ? Le cas des portraits en ligne du Musée National de l’Histoire de l’Immigration » dans Fantin, Emmanuelle, Fevry, Sébastien et Niemeyer, Katharina (dir.),
 Nostalgies contemporaines. Média, culture et technologie
-, Presses Universitaires du Septentrion, collection Information-communication. Villeneuve dAscq, p.181-196
+, Presses Universitaires du Septentrion, collection Information-communication. Villeneuve d'Ascq, p.181-196
 2020, « Les publics et leurs ambivalences. Salons animaliers, soins portés et affects en mouvement » avec E. Fantin, dans Le Marec J. et Maczek E. (dir.),
 Musées et Recherche - Le souci du public
-, OCIM Université de Bourgogne, coll. "Les dossiers de lOCIM", p.179-193. Avec Sophie Corbillé.
+, OCIM Université de Bourgogne, coll. "Les dossiers de l'OCIM", p.179-193. Avec Sophie Corbillé.
 2019, « La nostalgie de la publicité : de la pratique mémorielle à la tentation historiographique » dans Blandin Claire, Robinet, François et Schafer, Valérie (dir.), Fantin, Emmanuelle (collaboration),
 Penser l’histoire des médias
 , CNRS Editions : Paris, p. 139-141.
 Articles
 2025 (à paraître),
-« Perdre la neige. Collecter, archiver et exposer les pratiques et émotions nivales à lheure du changement climatique. », avec Sophie Corbillé.
+« Perdre la neige. Collecter, archiver et exposer les pratiques et émotions nivales à l'heure du changement climatique. », avec Sophie Corbillé.
 2023, « Nostalgies et remédiations du passé en politique, ou le danger des abus de la mémoire »,
 Questions de communications
 , n°44, p. 263-282. Avec Katharina Niemeyer et Corine Dufresne-Delières.
@@ -372,11 +372,11 @@ sur invitation
 sur invitation
 ,
 « ‘Le monde est bien décevant’. L’image, les webcams animalières et la tentation de voir le monde en notre absence », conférence dans le cadre du symposium « Ecran total/ Total Screen », UQAM, 29 mars.
-2019, « Les salons d’animaux de compagnie : brouillages et paradoxes dans l’éthique animale », Colloque « Les animaux en ethnographie. Quelles méthodes denquêtes, quelles postures éthiques ? », Muséum National d’Histoire Naturelle de Paris, 21-22 novembre. Avec Sophie Corbillé.
+2019, « Les salons d’animaux de compagnie : brouillages et paradoxes dans l’éthique animale », Colloque « Les animaux en ethnographie. Quelles méthodes d'enquêtes, quelles postures éthiques ? », Muséum National d’Histoire Naturelle de Paris, 21-22 novembre. Avec Sophie Corbillé.
 2019,
 sur invitation
 ,
-« Faudrait-il prendre le hasard au sérieux ? Les ventouses du destin », Colloque de Cerisy  « Jean Baudrillard, lintelligence du temps qui vient », Centre culturel de Cerisy-la-Salle, 9-16 août.
+« Faudrait-il prendre le hasard au sérieux ? Les ventouses du destin », Colloque de Cerisy  « Jean Baudrillard, l'intelligence du temps qui vient », Centre culturel de Cerisy-la-Salle, 9-16 août.
 2018, « Des mugs et des hommes. De la propagande historique à sa marchandisation contemporaine », Journée d’étude « Le kitsch menace-t-il la propagande ? », Centre Allemand d’Histoire de l’Art, 7 décembre.
 2017, « Ambivalence of remembering and nostalgia in the Gallery “portraits of immigrants” of French national museum of history of immigration », Second Annual Conference of the Memory Studies Association, Copenhague, 14-16 décembre.
 2017, « Esthétique et rhétorique ordinaires de la nostalgie : la commercialisation du passé », Colloque international « La nostalgie dans tous ses états », Nancy, Université de Lorraine, 30 novembre, 1er et 2 décembre.

@@ -1,5 +1,5 @@
 ---
-uuid: 8ff81217-eb43-481b-84db-a1d561af0ed5
+uuid: f92df797-ebef-449c-adde-778880ae7c7e
 prettyName: AdelineWrona
 
 title: "Adeline Wrona"
@@ -47,7 +47,7 @@ Wrona, Adeline, « Des Panthéons à vendre : le portrait d’homme de lettres
 http://www.revues.armand-colin.com/lettres-langue/romantisme/romantisme-ndeg-155-12012-reclame/pantheons-vendre-portrait-dhomme-lettres-entre-reclame-biographie
 Wrona, Adeline, « La vie des morts : jesuismort.com, entre biographie et nécrologie », Questions de communication, n° 19(1), 2011, 73-90, URL :
 https://journals.openedition.org/questionsdecommunication/2605?lang=fr
-Wrona, Adeline, « Vies minuscules, vies exemplaires : récit dindividu et actualité Le cas des Portraits of Grief parus dans le New York Times après le 11 septembre 2001 » Réseaux, n°132(4), 2005, 93-110, URL :
+Wrona, Adeline, « Vies minuscules, vies exemplaires : récit d'individu et actualité Le cas des Portraits of Grief parus dans le New York Times après le 11 septembre 2001 » Réseaux, n°132(4), 2005, 93-110, URL :
 https://shs.cairn.info/revue-reseaux1-2005-4-page-93?lang=fr
 
 ## Chapitres d’ouvrage
@@ -58,7 +58,7 @@ Wrona, Adeline, « Je déballe ma bibliothèque… et peut-être un peu ma mém
 Wrona, Adeline, « Le défi de l’actualisation : du Sang noir à Cripure », in Jean-Baptiste Legavre (dir.), Louis Guilloux dans les médias. Les réceptions de l’œuvre, Presses universitaires de Rennes, 2019, p. 189-198
 Wrona, Adeline, « Quand les statues d’écrivains fondent devant l’histoire : autour d’un épisode de l’Occupation », in THÉRENTY, Marie-Ève et WRONA Adeline (dir.), Objets insignes, objets infâmes de la littérature, Paris : éditions Archives contemporaines, 2019.
 Wrona, Adeline, « Journalisme », « Personnages de journalistes », « La Gazette des tribunaux », in Colette Becker et Pierre Dufief (dir.), Dictionnaire des naturalismes, Garnier, 2017.
-Wrona, Adeline et Emmanuël SOUCHIER, « Limpensé du texte : pour une approche sémiotique du texte, entre "image du texte", rhétorique et médiation », Sémiotique, mode d’emploi, Karine Berthelot-Guiet et Jean-Jacques Boutaud (dir.), Le Bord de l’eau, 2016, p. 173-190.
+Wrona, Adeline et Emmanuël SOUCHIER, « L'impensé du texte : pour une approche sémiotique du texte, entre "image du texte", rhétorique et médiation », Sémiotique, mode d’emploi, Karine Berthelot-Guiet et Jean-Jacques Boutaud (dir.), Le Bord de l’eau, 2016, p. 173-190.
 Wrona, Adeline, « Écrire par métier : entre politique et fiction, Louis Guilloux journaliste dans la presse de l’entre-deux guerres », Louis Guilloux, un écrivain dans la presse Jean-Baptiste Legavre et Michèle Touret (dir.), Rennes, Presses universitaires de Rennes, 2014, p. 151-166.
 Wrona, Adeline, « Écrire pour informer », La Civilisation du journal, Marie-Ève Thérenty, Philippe Régnier, Dominique Kalifa et Alain Vaillant (dir.), Paris, Nouveau Monde éditions, 2011, p. 1587-1601.
 Wrona, Adeline, « Dénonciations », La Civilisation du journal, Marie-Ève Thérenty, Philippe Régnier, Dominique Kalifa et Alain Vaillant (dir.), Paris, Nouveau Monde éditions, 2011, p. 717-744.
@@ -70,11 +70,11 @@ Wrona, Adeline et Frédéric Lambert, « Entretien avec Umberto Eco », L’Ex
 Wrona, Adeline, « Houellebecq performeur ? », Colloque « Ceci est mon corps. La performance d’écrivain : spectacle, stratégie publicitaire, invention poétique », Université Paul Valéry-Montpellier 3, 31 janvier-2 février 2018.
 Wrona, Adeline, « Sartre, Aron et les boat-people : médiatisation d’une réconciliation », Séminaire « Intellectuels et médias », Carism-Gripic, Celsa, 19 janvier 2018
 Wrona, Adeline, « Presse, littérature et crédit à la fin du XIXe siècle » : séminaire « Littérature et paradigme fiduciaire » (Phi-IUF), organisé par Emmanuel Bouju et Emilie Piton-Foucault, Rennes, 5 décembre 2017.
-Wrona, Adeline, « La loi d’imprégnation : Zola écrivain-journaliste, ou comment lEmpire survit à la République", Colloque « Sans blague aucune, c’était splendide. Regards sur le Second Empire », Auditorium du Musée d’Orsay, jeudi 24 et vendredi 25 novembre 2016.
+Wrona, Adeline, « La loi d’imprégnation : Zola écrivain-journaliste, ou comment l'Empire survit à la République", Colloque « Sans blague aucune, c’était splendide. Regards sur le Second Empire », Auditorium du Musée d’Orsay, jeudi 24 et vendredi 25 novembre 2016.
 Wrona, Adeline,  « Du portrait comme amitié : autour de Flaubert et de la portraitomanie », Journée « Flaubert et le portrait », Amis de Flaubert et Maupassant, Hôtel des sociétés savantes, Rouen, 21 mai 2016.
 Wrona, Adeline, « Les portraits numériques, ou les usages sociaux d’une pratique esthétique », Séminaire de recherche « Cultures numériques », Université Paris Sorbonne, 19 mars 2016.
 Wrona, Adeline, « Petites anthologies numériques : Facebook, ou la littérature en fragments partagés », Journée d’études, « Les formes brèves dans la littérature web», Université Montpellier 3, 26 novembre 2015.Wrona, Adeline, « L’école des journalistes : poétique informationnelle et formation au journalisme à la fin du 19e siècle en France », Congrès Médias 19, Paris, Centre culturel Canadien, 8 juin 2015.
-Wrona, Adeline, « "Zolus ou Dreyfula". Hybridations transmédiatiques des figures de lécrivain », LÉcrivain transmédial, Université Bar-Ilan, Tel Aviv, Lundi 24 novembre 2014.
+Wrona, Adeline, « "Zolus ou Dreyfula". Hybridations transmédiatiques des figures de l'écrivain », L'Écrivain transmédial, Université Bar-Ilan, Tel Aviv, Lundi 24 novembre 2014.
 
 ## Direction de collections
 
@@ -144,7 +144,7 @@ Wrona, Adeline, « Je déballe ma bibliothèque… et peut-être un peu ma mém
 Wrona, Adeline, « Le défi de l’actualisation : du Sang noir à Cripure », in Jean-Baptiste Legavre (dir.), Louis Guilloux dans les médias. Les réceptions de l’œuvre, Presses universitaires de Rennes, 2019, p. 189-198
 Wrona, Adeline, « Quand les statues d’écrivains fondent devant l’histoire : autour d’un épisode de l’Occupation », in THÉRENTY, Marie-Ève et WRONA Adeline (dir.), Objets insignes, objets infâmes de la littérature, Paris : éditions Archives contemporaines, 2019.
 Wrona, Adeline, « Journalisme », « Personnages de journalistes », « La Gazette des tribunaux », in Colette Becker et Pierre Dufief (dir.), Dictionnaire des naturalismes, Garnier, 2017.
-Wrona, Adeline et Emmanuël SOUCHIER, « Limpensé du texte : pour une approche sémiotique du texte, entre "image du texte", rhétorique et médiation », Sémiotique, mode d’emploi, Karine Berthelot-Guiet et Jean-Jacques Boutaud (dir.), Le Bord de l’eau, 2016, p. 173-190.
+Wrona, Adeline et Emmanuël SOUCHIER, « L'impensé du texte : pour une approche sémiotique du texte, entre "image du texte", rhétorique et médiation », Sémiotique, mode d’emploi, Karine Berthelot-Guiet et Jean-Jacques Boutaud (dir.), Le Bord de l’eau, 2016, p. 173-190.
 Wrona, Adeline, « Écrire par métier : entre politique et fiction, Louis Guilloux journaliste dans la presse de l’entre-deux guerres », Louis Guilloux, un écrivain dans la presse Jean-Baptiste Legavre et Michèle Touret (dir.), Rennes, Presses universitaires de Rennes, 2014, p. 151-166.
 Wrona, Adeline, « Écrire pour informer », La Civilisation du journal, Marie-Ève Thérenty, Philippe Régnier, Dominique Kalifa et Alain Vaillant (dir.), Paris, Nouveau Monde éditions, 2011, p. 1587-1601.
 Wrona, Adeline, « Dénonciations », La Civilisation du journal, Marie-Ève Thérenty, Philippe Régnier, Dominique Kalifa et Alain Vaillant (dir.), Paris, Nouveau Monde éditions, 2011, p. 717-744.
@@ -168,18 +168,18 @@ Wrona, Adeline, « Des Panthéons à vendre : le portrait d’homme de lettres
 http://www.revues.armand-colin.com/lettres-langue/romantisme/romantisme-ndeg-155-12012-reclame/pantheons-vendre-portrait-dhomme-lettres-entre-reclame-biographie
 Wrona, Adeline, « La vie des morts : jesuismort.com, entre biographie et nécrologie », Questions de communication, n° 19(1), 2011, 73-90, URL :
 https://journals.openedition.org/questionsdecommunication/2605?lang=fr
-Wrona, Adeline, « Vies minuscules, vies exemplaires : récit dindividu et actualité Le cas des Portraits of Grief parus dans le New York Times après le 11 septembre 2001 » Réseaux, n°132(4), 2005, 93-110, URL :
+Wrona, Adeline, « Vies minuscules, vies exemplaires : récit d'individu et actualité Le cas des Portraits of Grief parus dans le New York Times après le 11 septembre 2001 » Réseaux, n°132(4), 2005, 93-110, URL :
 https://shs.cairn.info/revue-reseaux1-2005-4-page-93?lang=fr
 Communications et interventions
 Wrona, Adeline, « Prendre la Une : figures féminines dans les premiers numéros de Paris Match », Journée d’études « Les newsmagazine des années 1950-1960 », Université Paul Valéry-Montpellier 3, 12 avril 2019.
 Wrona, Adeline, « Houellebecq performeur ? », Colloque « Ceci est mon corps. La performance d’écrivain : spectacle, stratégie publicitaire, invention poétique », Université Paul Valéry-Montpellier 3, 31 janvier-2 février 2018.
 Wrona, Adeline, « Sartre, Aron et les boat-people : médiatisation d’une réconciliation », Séminaire « Intellectuels et médias », Carism-Gripic, Celsa, 19 janvier 2018
 Wrona, Adeline, « Presse, littérature et crédit à la fin du XIXe siècle » : séminaire « Littérature et paradigme fiduciaire » (Phi-IUF), organisé par Emmanuel Bouju et Emilie Piton-Foucault, Rennes, 5 décembre 2017.
-Wrona, Adeline, « La loi d’imprégnation : Zola écrivain-journaliste, ou comment lEmpire survit à la République", Colloque « Sans blague aucune, c’était splendide. Regards sur le Second Empire », Auditorium du Musée d’Orsay, jeudi 24 et vendredi 25 novembre 2016.
+Wrona, Adeline, « La loi d’imprégnation : Zola écrivain-journaliste, ou comment l'Empire survit à la République", Colloque « Sans blague aucune, c’était splendide. Regards sur le Second Empire », Auditorium du Musée d’Orsay, jeudi 24 et vendredi 25 novembre 2016.
 Wrona, Adeline,  « Du portrait comme amitié : autour de Flaubert et de la portraitomanie », Journée « Flaubert et le portrait », Amis de Flaubert et Maupassant, Hôtel des sociétés savantes, Rouen, 21 mai 2016.
 Wrona, Adeline, « Les portraits numériques, ou les usages sociaux d’une pratique esthétique », Séminaire de recherche « Cultures numériques », Université Paris Sorbonne, 19 mars 2016.
 Wrona, Adeline, « Petites anthologies numériques : Facebook, ou la littérature en fragments partagés », Journée d’études, « Les formes brèves dans la littérature web», Université Montpellier 3, 26 novembre 2015.Wrona, Adeline, « L’école des journalistes : poétique informationnelle et formation au journalisme à la fin du 19e siècle en France », Congrès Médias 19, Paris, Centre culturel Canadien, 8 juin 2015.
-Wrona, Adeline, « "Zolus ou Dreyfula". Hybridations transmédiatiques des figures de lécrivain », LÉcrivain transmédial, Université Bar-Ilan, Tel Aviv, Lundi 24 novembre 2014.
+Wrona, Adeline, « "Zolus ou Dreyfula". Hybridations transmédiatiques des figures de l'écrivain », L'Écrivain transmédial, Université Bar-Ilan, Tel Aviv, Lundi 24 novembre 2014.
 
 ## Thématiques de recherche
 

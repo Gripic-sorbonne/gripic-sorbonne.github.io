@@ -1,5 +1,5 @@
 ---
-uuid: 9d410032-84bc-499a-8215-263d9aac3b62
+uuid: f30e844b-c503-4cfc-a9ae-03b427d201c2
 prettyName: MarineSiguier
 
 title: "Marine Siguier"
@@ -20,12 +20,12 @@ Siguier Marine, « Représenter le vivant non-humain dans l’espace public : pe
 Siguier Marine, « Réception(s) de la littérature et vidéos : quand les lecteurs “font œuvre” sur YouTube », Congrès Représentations et usages des réseaux sociaux numériques dans des œuvres littéraires, artistiques et médiatiques, APFUCC, Université de Régina, Régina, Canada, 26 mai 2018.
 Siguier Marine, « Partage de la littérature en régime audiovisuel : mises en scène des expériences de lecture sur YouTube », Journée d’études La littérature en partage, UQAM, Montréal, Canada, 11 mai 2018.
 Communications nationales sans actes (C-COM)
-Siguier Marine, « Usages pédagogiques de l’image sur les réseaux socionumériques », journée professionnelle de l’APDEN (Association des Professeurs Documentalistes de lÉducation Nationale) Nantes, 7 octobre 2021.
+Siguier Marine, « Usages pédagogiques de l’image sur les réseaux socionumériques », journée professionnelle de l’APDEN (Association des Professeurs Documentalistes de l'Éducation Nationale) Nantes, 7 octobre 2021.
 Buffard Marine, Siguier Marine « Synthèse du séminaire doctoral interdisciplinaire “Faire avec le numérique dans la recherche” », Colloque interdisciplinaire TRANSNUM, UTC Paris, 4 février 2020.
 Siguier Marine « #Bookaddict : figurations du lecteur entre consommation compulsive et prescription marchande sur les plateformes de partage d’image », Séminaire Approches critiques des médiations marchandes, CELSA, 16 octobre 2019.
 Siguier Marine, « Des chiffres et des lettres : délimiter, quantifier et cartographier des espaces littéraires sur les réseaux sociaux numériques. Le cas d’Instagram, Tumblr et YouTube », colloque Travail des données, MSH, Université de Caen, Normandie ,13-14 juin 2019.
 Siguier Marine, « YouTube comme terrain de recherche : enjeux, corpus, et démarche exploratoire », Séminaire doctoral Approcher les discours et les communautés en ligne, TRANSNUM, 8 janvier 2018.
-Siguier Marine, « Entre cadrage institutionnel et contre-cadrage contestataire : le street art autochtone à Montréal », Colloque transdisciplinaire Framing Street Art, Université Côte dAzur, Laboratoire Interdisciplinaire Récits, Cultures et Sociétés (LIRCES), 8 juin 2017.
+Siguier Marine, « Entre cadrage institutionnel et contre-cadrage contestataire : le street art autochtone à Montréal », Colloque transdisciplinaire Framing Street Art, Université Côte d'Azur, Laboratoire Interdisciplinaire Récits, Cultures et Sociétés (LIRCES), 8 juin 2017.
 Siguier Marine, « Youtube et littérature : le plaisir "hors texte" de la lecture », Journée d’étude interdisciplinaire Plaisir de lire, ENS Lyon, 5 mai 2017.
 Communications nationales avec actes (C-ACTN)
 Siguier Marine, « Les chaines de vulgarisation écologique sur YouTube, entre influence et résistance », Journée d’étude Influenceur-ses et publicitarisation des contenus sur les réseaux sociaux-numériques, co-organisée par le CARISM (Université Paris 2 Panthéon-Assas), le CEMTI (Université Paris 8) et le GRIPIC (CELSA), 21 octobre 2022.
@@ -48,12 +48,12 @@ Siguier Marine, « Représenter le vivant non-humain dans l’espace public : pe
 Siguier Marine, « Réception(s) de la littérature et vidéos : quand les lecteurs “font œuvre” sur YouTube », Congrès Représentations et usages des réseaux sociaux numériques dans des œuvres littéraires, artistiques et médiatiques, APFUCC, Université de Régina, Régina, Canada, 26 mai 2018.
 Siguier Marine, « Partage de la littérature en régime audiovisuel : mises en scène des expériences de lecture sur YouTube », Journée d’études La littérature en partage, UQAM, Montréal, Canada, 11 mai 2018.
 Communications nationales sans actes (C-COM)
-Siguier Marine, « Usages pédagogiques de l’image sur les réseaux socionumériques », journée professionnelle de l’APDEN (Association des Professeurs Documentalistes de lÉducation Nationale) Nantes, 7 octobre 2021.
+Siguier Marine, « Usages pédagogiques de l’image sur les réseaux socionumériques », journée professionnelle de l’APDEN (Association des Professeurs Documentalistes de l'Éducation Nationale) Nantes, 7 octobre 2021.
 Buffard Marine, Siguier Marine « Synthèse du séminaire doctoral interdisciplinaire “Faire avec le numérique dans la recherche” », Colloque interdisciplinaire TRANSNUM, UTC Paris, 4 février 2020.
 Siguier Marine « #Bookaddict : figurations du lecteur entre consommation compulsive et prescription marchande sur les plateformes de partage d’image », Séminaire Approches critiques des médiations marchandes, CELSA, 16 octobre 2019.
 Siguier Marine, « Des chiffres et des lettres : délimiter, quantifier et cartographier des espaces littéraires sur les réseaux sociaux numériques. Le cas d’Instagram, Tumblr et YouTube », colloque Travail des données, MSH, Université de Caen, Normandie ,13-14 juin 2019.
 Siguier Marine, « YouTube comme terrain de recherche : enjeux, corpus, et démarche exploratoire », Séminaire doctoral Approcher les discours et les communautés en ligne, TRANSNUM, 8 janvier 2018.
-Siguier Marine, « Entre cadrage institutionnel et contre-cadrage contestataire : le street art autochtone à Montréal », Colloque transdisciplinaire Framing Street Art, Université Côte dAzur, Laboratoire Interdisciplinaire Récits, Cultures et Sociétés (LIRCES), 8 juin 2017.
+Siguier Marine, « Entre cadrage institutionnel et contre-cadrage contestataire : le street art autochtone à Montréal », Colloque transdisciplinaire Framing Street Art, Université Côte d'Azur, Laboratoire Interdisciplinaire Récits, Cultures et Sociétés (LIRCES), 8 juin 2017.
 Siguier Marine, « Youtube et littérature : le plaisir "hors texte" de la lecture », Journée d’étude interdisciplinaire Plaisir de lire, ENS Lyon, 5 mai 2017.
 Communications nationales avec actes (C-ACTN)
 Siguier Marine, « Les chaines de vulgarisation écologique sur YouTube, entre influence et résistance », Journée d’étude Influenceur-ses et publicitarisation des contenus sur les réseaux sociaux-numériques, co-organisée par le CARISM (Université Paris 2 Panthéon-Assas), le CEMTI (Université Paris 8) et le GRIPIC (CELSA), 21 octobre 2022.

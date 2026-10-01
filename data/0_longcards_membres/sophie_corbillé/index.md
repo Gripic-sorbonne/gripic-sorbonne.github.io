@@ -1,5 +1,5 @@
 ---
-uuid: 13fa7580-e789-45e7-bf8c-372948b70dbb
+uuid: 7ee0e539-0e89-4d44-8480-58430c43fac1
 prettyName: SophieCorbillé
 
 title: "Sophie Corbillé"
@@ -23,7 +23,7 @@ S. Corbillé, 2019, « Le goût des échanges. Donner, vendre et garder pour fai
 S. Corbillé et E. Fantin, 2019, « Découvertes et explorations animales : représentations, mises en scène et discours sur les animaux dans les Expositions Universelles (1851-1867) », Colloque « Découvertes et explorations », XVIIème colloque annuel de la Society of Dix-Neuviémistes, Southampton, Grande-Bretagne, 9 avril.
 S. Corbillé et E. Fantin, 2018, « Apparitions parisiennes. Récits médiatiques de l’Exposition universelle de 1855 dans La Presse », Colloque « Paris, capital(e) médiatique XIXe-XXIe siècles. Lieux, modèles et figures des médias, de Girardin aux start-ups », Sorbonne Université, Paris, 28 juin.
 S. Corbillé, 2017, « La passion des échanges. Donner, vendre et garder pour faire quartier, ensemble et séparés, dans les quartiers gentrifiés parisiens », Colloque « Le lien social au regard de la circulation des biens, des personnes et des capitaux », Chaire Singleton, Université Catholique de Louvain, 3-4-5 mai.
-S. Corbillé, 2016, « Lest de Paris cest boboland. Ce que la mode fait aux identités citadines et au territoire ou la fabrique du Paris branché », colloque « Mode & frontières. Identités, cultures et territoires », Université de la Mode, Université Lumière Lyon 2, 9 février.
+S. Corbillé, 2016, « 'L'est de Paris c'est boboland.' Ce que la mode fait aux identités citadines et au territoire ou la fabrique du 'Paris branché' », colloque « Mode & frontières. Identités, cultures et territoires », Université de la Mode, Université Lumière Lyon 2, 9 février.
 S. Corbillé et J. Tassel, 2015, « Patrons, au travail ! La téléréalité comme dispositif de médiatisation et de communication du patron-entrepreneur », Colloque « Figures des décideurs en régime médiatique. Représenter la décision politique et économique : un défi communicationnel » (programme de recherche DEFI), CELSA/GRIPIC, Université Paris-Sorbonne, 25 septembre.
 S. Corbillé, 2011, « Vivre à Paris et être un Parisien », colloque de l’Association française d’ethnologie et d’anthropologie (AFEA), Atelier « Une anthropologie de Paris est-elle possible ? », Paris, 21 septembre.
 S. Chevalier, S. Corbillé et E. Lallement, 2011, « Expérience de la globalisation en milieu urbain : le phénomène de la résidence secondaire à Paris et de la citadinité par intermittence », colloque de l’association française d’ethnologie et d’anthropologie (AFEA), Atelier « Villes et citadins dans la globalisation », Paris, 22 septembre.
@@ -38,7 +38,7 @@ Journées d’études
 J. Charbonneau, S. Corbillé et P. Froissart, 2022, « How "populism" made its way into media discourses. A French and British comparison – 2000/2022 », journée d’études « Authoritarian populism and Media » (or. S. Celenk), GRIPIC/Sorbonne Université, Paris, 30 juin.
 S. Corbillé et E. Fantin, 2020, « Enquête sur les salons animaliers. Figures des chiens et ambivalences des relations hommes-canidés », Journées de chiens, Université de Limoges, Angoulême, 2 juillet.
 S. Corbillé, 2017, « Enquêter en contexte saturé : stéréotypes, styles de vie et styles », journée d’études « Cultures de l’enquête » (org. par J. Le Marec), GRIPIC, Paris, 24 avril.
-S. Corbillé et J. Tassel, 2015, « Lassiette et le champ. La gastronomie parisienne, le terroir dîle-de-France et le Grand Paris », journée détudes « Le Grand Paris qui mange » (org. par D. Pagès et G. Fumey), GRIPIC/ISCC, Université Paris-Sorbonne, 26 novembre.
+S. Corbillé et J. Tassel, 2015, « L'assiette et le champ. La gastronomie parisienne, le terroir d'île-de-France et le Grand Paris », journée d'études « Le Grand Paris qui mange » (org. par D. Pagès et G. Fumey), GRIPIC/ISCC, Université Paris-Sorbonne, 26 novembre.
 S. Corbillé, 2012, « La marque Abou Dhabi comme opérateur de patrimoine », journée d’études « Mise en jeu du patrimoine dans la configuration de la ville aujourd’hui » (org. par C. de Saint-Pierre), Iris, EHESS, Paris, 15 juin.
 S. Corbillé, 2010, « Qu’échange-t-on dans un vide-grenier de quartier ? De la place marchande à la communauté des locaux », journée d’études « Places marchandes » (org. par M.-F. Garcia), EHESS, Paris, 16 septembre.
 S. Corbillé et E. Bajolet, 2004, « Mondes urbains ? Essai d’application du concept de monde aux espaces urbains », journée d’études « Questions à Howard Becker » (org. par M. de La Pradelle et C. Choron-Baix), GTMS, EHESS et LAU, CNRS, Paris, 14 mai.
@@ -80,8 +80,8 @@ S. Corbillé et E. Fantin, 2018, « George Sand, La Presse et la faïence : hist
 S. Corbillé, 2017, « Le Paris de Girardin », conférence, Mairie de Bourganeuf, 12 juillet.
 S. Corbillé, 2016, « La gentrification à Paris: regards croisés », conférence-débat, Médiathèque Hélène Berr Paris 12e, avec Anne Clerval et Anaïs Collet, 27 octobre.
 S. Corbillé, 2016, « Fenêtre sur Rue : quartiers parisiens et représentations médiatiques », table ronde organisée par Celsa Hors les Murs avec Le Point Ephémère, Paris 10e, avec deux élus du 11e arrondissement de Paris, 25 octobre.
-S. Corbillé et Y. Contreras, 2016, « La mode, les lieux branchés et la gentrification. Regards croisés sur Paris et Santiago / Moda, lugares de moda y gentrificacion. Miradas cruzadas entre Paris y Santiago », conférence, Institut Français, Santiago du Chili, Chili, 5 juillet.
-S. Chevalier et S. Corbillé, 2016, « Le Paris des résidents secondaires étrangers. La capitale face aux paradoxes de lattractivité », conférence, Le Labidf « Inspirer léconomie francilienne » groupe compétitivité, Institut dUrbanisme dIle-de-France, Paris, 1er février.
+S. Corbillé et Y. Contreras, 2016, « La mode, les lieux 'branchés' et la gentrification. Regards croisés sur Paris et Santiago / Moda, lugares de moda y gentrificacion. Miradas cruzadas entre Paris y Santiago », conférence, Institut Français, Santiago du Chili, Chili, 5 juillet.
+S. Chevalier et S. Corbillé, 2016, « Le Paris des résidents secondaires étrangers. La capitale face aux paradoxes de l'attractivité », conférence, Le Labidf « Inspirer l'économie francilienne » groupe compétitivité, Institut d'Urbanisme d'Ile-de-France, Paris, 1er février.
 S. Corbillé, 2014, « Anthropologie du Paris cosmopolite », entretien, Radio Campus Paris, émission « Les voix du crépuscule - Quai Branly », 3 juin.
 S. Corbillé, 2011, « La métropole parisienne : identité vs altérité, quelques pistes à propos des échanges et de l’urbain », présentation du numéro Quaderni « La métropole parisienne. Entre récits, paroles et échanges », Ville de Paris, 27 janvier.
 

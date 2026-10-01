@@ -1,5 +1,5 @@
 ---
-uuid: 7f787bd1-7348-4f1a-b4fc-641107b2984b
+uuid: f47211ac-37a1-4924-97aa-4ad553426bde
 prettyName: SamuelGoyet
 
 title: "Samuel Goyet"
@@ -30,9 +30,9 @@ Samuel Goyet, « Disparition sur les réseaux : quels enjeux pour l’identité 
 ## Expertises
 
  Présentation / parcours
-: Diplômé du master Recherche du CELSA, puis docteur de lUniversité Paris Sorbonne, je travaille sur les nouvelles formes décriture numérique, le rôle des programmes informatiques dans la composition du texte numérique. Jai soutenue une thèse en 2017 sur la "fonction éditoriale des interfaces de programmation", jai également été ATER à lUniversité de Technologie de Compiègne et au Centre de Recherche sur les Médiations (CREM, Université de Lorraine).
-Activité denseignement
-: Jai enseigné dans trois institutions publiques en tant quATER (COSTECH, Université de Technologie de Compiègne ; CREM, Université de Lorraine) et dans deux institutions privées (Sup de Pub et lISCG) en tant que vacataire. Mes enseignements portent principalement sur les fondamentaux théoriques et méthodologiques des SIC (analyse du discours, techniques denquête, sémiologie) ainsi que sur la culture numérique., Jai également donné cours sur les industries culturelles et sur la communication institutionnelle.
+: Diplômé du master Recherche du CELSA, puis docteur de l'Université Paris Sorbonne, je travaille sur les nouvelles formes d'écriture numérique, le rôle des programmes informatiques dans la composition du texte numérique. J'ai soutenue une thèse en 2017 sur la "fonction éditoriale des interfaces de programmation", j'ai également été ATER à l'Université de Technologie de Compiègne et au Centre de Recherche sur les Médiations (CREM, Université de Lorraine).
+Activité d'enseignement
+: J'ai enseigné dans trois institutions publiques en tant qu'ATER (COSTECH, Université de Technologie de Compiègne ; CREM, Université de Lorraine) et dans deux institutions privées (Sup de Pub et l'ISCG) en tant que vacataire. Mes enseignements portent principalement sur les fondamentaux théoriques et méthodologiques des SIC (analyse du discours, techniques d'enquête, sémiologie) ainsi que sur la culture numérique., J'ai également donné cours sur les industries culturelles et sur la communication institutionnelle.
 
 ## Publications et communications
 
@@ -55,7 +55,7 @@ https://webtv.univ-rouen.fr/videos/20-03-2018-142036-partie-7_70734/
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Institution de rattachement
 : COSTECH, Université technologique de Compiègne
 Thématiques de recherche

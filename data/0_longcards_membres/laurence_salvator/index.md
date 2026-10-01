@@ -1,5 +1,5 @@
 ---
-uuid: f8c116b3-36a7-4146-9f43-3e37e627fed6
+uuid: addd5576-8b77-4ad3-ab09-f73a128adeac
 prettyName: LaurenceSalvator
 
 title: "Laurence Salvator"
@@ -16,7 +16,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Médiations marchandes
 Sujet de recherche

@@ -1,5 +1,5 @@
 ---
-uuid: 5e984863-2f0d-48bb-9e03-eef1785984a5
+uuid: d7462aa5-98a2-4ded-be88-d3b407ed094a
 prettyName: JulienGaillard
 
 title: "Julien Gaillard"
@@ -17,9 +17,9 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Expertises
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Sujet de recherche
-: Le problème public de Notre-Dame-des-Landes (projet de transfert de laéroport de Nantes-Atlantique sur la commune de Notre-Dame-des-Landes, initié dans les années 60 et abandonné le 17 janvier 2018, et les luttes paysanne et citoyenne quil a fait naître)
+: Le problème public de Notre-Dame-des-Landes (projet de transfert de l'aéroport de Nantes-Atlantique sur la commune de Notre-Dame-des-Landes, initié dans les années 60 et abandonné le 17 janvier 2018, et les luttes paysanne et citoyenne qu'il a fait naître)
 Titre de thèse
 : La patrimonialisation mémorielle de Notre-Dame-des-Landes
 Mots-clés
@@ -30,7 +30,7 @@ Directeur de thèse
 ## Thématiques de recherche
 
  Cultures, savoirs et communication
-Dynamiques de communication dans lespace public
+Dynamiques de communication dans l'espace public
 Formes et écritures médiatiques
 Télécharger le CV
 

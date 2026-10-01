@@ -1,5 +1,5 @@
 ---
-uuid: 56695264-1a4b-443e-a27f-d07dcfe20d75
+uuid: 2b2b770a-d805-4876-87d1-5046e67cd87c
 prettyName: ThibaultGrison
 
 title: "Thibault Grison"
@@ -17,9 +17,9 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Expertises
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Titre de thèse
-: Discriminations algorithmiques ? LIA entre aide à la modération et censure sur les réseaux sociaux numériques
+: Discriminations algorithmiques ? L'IA entre aide à la modération et censure sur les réseaux sociaux numériques
 Mots-clés
 : algorithmes, intelligence artificielle, censure, LGBT studies
 Directeur de thèse

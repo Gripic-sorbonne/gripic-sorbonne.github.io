@@ -1,9 +1,12 @@
 ---
-uuid: 2b6fcc4e-bb55-4979-b8cc-fb74fc212cea
+uuid: 5defa8c5-7d9d-4045-9234-2ce146fe6c16
 prettyName: AnoukDelfino
 
 title: "Anouk Delfino"
 abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
+tags:
+    - memebre
+    - Anouk
 ---
 
 <img src="./avatar.webp" width="200px" />

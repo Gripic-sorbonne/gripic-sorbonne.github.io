@@ -1,5 +1,5 @@
 ---
-uuid: c075ad9f-1397-4390-8661-7921d82a2bc6
+uuid: 67e37cb9-a675-4812-815a-41f48758169d
 prettyName: CharlesSarraute
 
 title: "Charles Sarraute"
@@ -15,7 +15,7 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Formes et écritures médiatiques
 Sujet de recherche
