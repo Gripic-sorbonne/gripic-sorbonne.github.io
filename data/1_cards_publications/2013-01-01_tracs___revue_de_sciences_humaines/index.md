@@ -1,5 +1,5 @@
 ---
-uuid: 6682b972-675e-4c44-b782-eb65985f2470
+uuid: 2e615a09-79de-41d8-b80e-c3975a0f93c8
 title: "Tracés : Revue de Sciences Humaines"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

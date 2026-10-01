@@ -1,5 +1,5 @@
 ---
-uuid: 3cf16c7a-87cf-4f55-96b3-aa8440fbe39f
+uuid: 4db6e8f0-0956-48aa-a1ee-8c11af66d2f6
 title: "Lire, écrire, récrire"
 author: "Valerie Jeanne Perrier, Emmanuël Souchier, Yves Jeanneret, Annette Béguin-Verbrugge, Dominique Cotte, Sarah Labelle, Philippe Quinton"
 authors: "Valerie Jeanne Perrier, Emmanuël Souchier, Yves Jeanneret, Annette Béguin-Verbrugge, Dominique Cotte, Sarah Labelle, Philippe Quinton"

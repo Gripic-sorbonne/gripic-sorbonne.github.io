@@ -1,5 +1,5 @@
 ---
-uuid: 1a3381b3-facc-487a-9a3c-218beb49f4c6
+uuid: 728bc046-027b-46a2-a315-6d6d1dcf93fb
 title: "Communiquer : Revue de communication sociale et publique"
 author: "Inès Garmon"
 authors: "Inès Garmon"

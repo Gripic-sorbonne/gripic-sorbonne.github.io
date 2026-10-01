@@ -1,5 +1,5 @@
 ---
-uuid: 02434107-3563-4727-8d05-3f5b93f82fe0
+uuid: 972f07ea-0096-44d0-90ff-218da4824978
 title: "Congrès de la SFSIC"
 author: "Etienne Candel, Pauline Chasseray-Peraldi"
 authors: "Etienne Candel, Pauline Chasseray-Peraldi"

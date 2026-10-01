@@ -1,5 +1,5 @@
 ---
-uuid: 50cbaf7a-76e8-41af-b272-d1c2f1655e07
+uuid: 584733b7-d7d9-425c-9abb-d377e7144e51
 title: "Autoriser une pratique, légitimer une écriture, composer une culture : les conditions de possibilité d’une critique littéraire participative sur Internet. Etude éditoriale de six sites amateurs."
 author: "Etienne Candel"
 authors: "Etienne Candel"

@@ -1,5 +1,5 @@
 ---
-uuid: b69c5468-a644-4d43-b8f7-52039445b9b6
+uuid: 386e60cf-0c2d-464c-9ffc-e2d72029d2b7
 title: "Colloque “ La vache, le cheval et la lionne. Être artiste, femme et vivre avec les animaux au XIXème siècle ”"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

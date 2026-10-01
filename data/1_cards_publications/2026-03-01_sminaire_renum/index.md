@@ -1,5 +1,5 @@
 ---
-uuid: 0b0e8938-4538-4863-876b-a6aad37312f1
+uuid: 2bf09043-49ac-4690-9248-b6db531eb67c
 title: "Séminaire RENUM"
 author: "Thibault Grison"
 authors: "Thibault Grison"

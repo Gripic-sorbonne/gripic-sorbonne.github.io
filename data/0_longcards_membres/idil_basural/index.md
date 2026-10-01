@@ -1,5 +1,5 @@
 ---
-uuid: 2cfd833a-5b07-4378-8255-2e01935f84b7
+uuid: c825514e-6333-453d-b380-b7a54b315c88
 prettyName: IdilBasural
 
 title: "Idil Basural"

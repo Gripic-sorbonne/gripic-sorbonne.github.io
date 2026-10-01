@@ -1,5 +1,5 @@
 ---
-uuid: 82fcd1f1-a2c5-475a-ac66-2a4aa2a0df9b
+uuid: 9310dc70-2721-4876-a7b2-a6f770012592
 title: "Paris, capital(e) médiatique, XIXe-XXIe s. Lieux, modèles et figures des médias, de Girardin aux start-ups"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

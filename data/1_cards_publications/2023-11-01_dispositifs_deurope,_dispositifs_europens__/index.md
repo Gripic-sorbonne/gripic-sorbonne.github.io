@@ -1,5 +1,5 @@
 ---
-uuid: 5ed1b959-fe6f-4777-926a-c0ca393494ac
+uuid: 99a42b26-e760-4ca1-b947-3a3a897a06a2
 title: "Dispositifs d’Europe, dispositifs européens ?"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"

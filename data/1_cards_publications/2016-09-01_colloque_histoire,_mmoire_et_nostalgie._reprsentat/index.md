@@ -1,5 +1,5 @@
 ---
-uuid: 2237e209-2277-41bd-b8de-cb6ac0aef8a0
+uuid: 88398af3-b7e9-401f-90e1-e6aaea488384
 title: "Colloque “ Histoire, mémoire et nostalgie. Représentations littéraires et culturelles ,”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

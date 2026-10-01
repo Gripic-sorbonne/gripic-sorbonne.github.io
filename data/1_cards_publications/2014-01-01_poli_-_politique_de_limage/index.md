@@ -1,5 +1,5 @@
 ---
-uuid: 86474334-9114-476c-b00c-7f2b47365cea
+uuid: c1550102-3a10-419e-9d89-0dab4bd8f26b
 title: "Poli - Politique de l’Image"
 author: "Nelly Quemener, Florian Vörös"
 authors: "Nelly Quemener, Florian Vörös"

@@ -1,5 +1,5 @@
 ---
-uuid: 7353dffa-86bf-4349-b38c-8a424e75db8a
+uuid: 7b39d174-e5b5-42bd-844e-f54749578620
 title: "Matérialismes, culture et communication. Volume 2 – Cultural Studies, théories féministes et postcoloniales"
 author: "Nelly Quemener, Maxime Cervulle, Florian Vörös"
 authors: "Nelly Quemener, Maxime Cervulle, Florian Vörös"
