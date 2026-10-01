@@ -1,5 +1,5 @@
 ---
-uuid: 70c4869c-1714-4efa-9c01-684ea2cbe53e
+uuid: ff22f523-c3f0-4c1d-aeb7-233fb931c088
 prettyName: MarineAllein
 
 title: "Marine Allein"
@@ -15,7 +15,7 @@ abstract: "Chercheuse | Membre associé"
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Enjeux de communication et relations de travail
 Sujet de recherche

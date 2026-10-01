@@ -1,5 +1,5 @@
 ---
-uuid: 5fdc3d5a-bae0-4f4e-8924-e2826b233a1b
+uuid: 847b377b-aa3a-4d0a-8306-452dde2d46a1
 prettyName: EmmanuëlSouchier
 
 title: "Emmanuël Souchier"
@@ -68,7 +68,7 @@ de l’énonciation éditoriale »,
 Communication & langages
 , n° 154, 2007, p. 23-38. URL :
 https://doi.org/10.3406/colan.2007.4688
-- Souchier Emmanuël, Jeanneret Yves, « L'énonciation éditoriale dans les écrits d'écran »,
+- Souchier Emmanuël, Jeanneret Yves, « Lénonciation éditoriale dans les écrits décran »,
 Communication & langages
 , n° 145, 2007, p. 3-15. URL :
 https://doi.org/10.3406/colan.2005.3351
@@ -218,8 +218,8 @@ Université de Limoges, CeReS, 19 septembre 2014.
 - Souchier Emmanuël, « Outils, langages et mémoires… vers une “société du texte” ? », Colloque
 Les objets d’écriture. Interfaces et interactivité
 , Centro Internazionale di Semiotica e Linguistica, Università degli Studi di Urbino, Italie, 14-16 juillet 2003.
-- Souchier Emmanuël, « Les nouvelles technologies peuvent-elles tuer l'écriture ? », Colloque international
-Ceci tuera cela : Autour de Victor Hugo. L'avènement des nouveaux supports de la pensée,
+- Souchier Emmanuël, « Les nouvelles technologies peuvent-elles tuer lécriture ? », Colloque international
+Ceci tuera cela : Autour de Victor Hugo. Lavènement des nouveaux supports de la pensée,
 Ens Ulm - Centre culturel Canadien, 23-25 mai 2002.
 - Souchier Emmanuël, « L’étiquette de vin : intersémiotique d’un objet naturel-culturel »,
 La
@@ -668,7 +668,7 @@ de l’énonciation éditoriale »,
 Communication & langages
 , n° 154, 2007, p. 23-38. URL :
 https://doi.org/10.3406/colan.2007.4688
-- Souchier Emmanuël, Jeanneret Yves, « L'énonciation éditoriale dans les écrits d'écran »,
+- Souchier Emmanuël, Jeanneret Yves, « Lénonciation éditoriale dans les écrits décran »,
 Communication & langages
 , n° 145, 2007, p. 3-15. URL :
 https://doi.org/10.3406/colan.2005.3351
@@ -728,8 +728,8 @@ Université de Limoges, CeReS, 19 septembre 2014.
 - Souchier Emmanuël, « Outils, langages et mémoires… vers une “société du texte” ? », Colloque
 Les objets d’écriture. Interfaces et interactivité
 , Centro Internazionale di Semiotica e Linguistica, Università degli Studi di Urbino, Italie, 14-16 juillet 2003.
-- Souchier Emmanuël, « Les nouvelles technologies peuvent-elles tuer l'écriture ? », Colloque international
-Ceci tuera cela : Autour de Victor Hugo. L'avènement des nouveaux supports de la pensée,
+- Souchier Emmanuël, « Les nouvelles technologies peuvent-elles tuer lécriture ? », Colloque international
+Ceci tuera cela : Autour de Victor Hugo. Lavènement des nouveaux supports de la pensée,
 Ens Ulm - Centre culturel Canadien, 23-25 mai 2002.
 - Souchier Emmanuël, « L’étiquette de vin : intersémiotique d’un objet naturel-culturel »,
 La

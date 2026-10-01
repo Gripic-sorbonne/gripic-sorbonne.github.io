@@ -1,5 +1,5 @@
 ---
-uuid: 625990f9-3ef1-436c-ba81-25ee90606132
+uuid: c1859b32-ba1f-4b68-93c9-18718c6274be
 prettyName: SophieBonnaudLeRoux
 
 title: "Sophie Bonnaud-Le Roux"
@@ -15,7 +15,7 @@ abstract: "Docteure | Membre associé"
 
 ## Activités scientifiques
 
- Membre du Comité scientifique de l'exposition "Nous et les autres" (Musée de l'Homme, 2017)
+ Membre du Comité scientifique de lexposition "Nous et les autres" (Musée de lHomme, 2017)
 : rédaction de contenus vulgarisés sur les notions de stéréotype et de préjugé.
 
 ## Communications et interventions

@@ -1,10 +1,10 @@
 ---
-uuid: e6a32265-892e-4b25-98f4-6e11cdaec66f
+uuid: 363f4019-bd4b-4b23-bf3d-8a8cfd0e8bd3
 title: "Collectifs et programmes de recherche"
 ---
 # Collectifs et programmes de recherche
 
-Les membres du GRIPIC développent de nombreux partenariats et relations avec d’autres laboratoires de recherche et institutions, au sein des sciences de l’information et de la communication et plus largement des sciences humaines et sociales. Ces coopérations prennent différentes formes: programmes de recherche, collectifs et réseaux de recherche, groupement d’intérêt scientifique, séminaires co-organisés, etc. Elles sont essentielles pour enrichir l’analyse des phénomènes de communication, et participent également à l'animation du champ des SIC en favorisant les échanges entre pairs.
+Les membres du GRIPIC développent de nombreux partenariats et relations avec d’autres laboratoires de recherche et institutions, au sein des sciences de l’information et de la communication et plus largement des sciences humaines et sociales. Ces coopérations prennent différentes formes: programmes de recherche, collectifs et réseaux de recherche, groupement d’intérêt scientifique, séminaires co-organisés, etc. Elles sont essentielles pour enrichir l’analyse des phénomènes de communication, et participent également à lanimation du champ des SIC en favorisant les échanges entre pairs.
 
 Ces relations de recherche se déploient dans différents cadres institutionnels, à trois niveaux: au sein de Sorbonne Université, à une échelle régionale et nationale, ou internationale.
 
@@ -37,10 +37,10 @@ Ils participent enfin à des réseaux qui réunissent les trois facultés de Sor
 
 Les membres du GRIPIC sont particulièrement actifs dans des programmes de recherche nationaux :
 
-- **ANR Tractive (2022-2026):** *Towards a computational multimodal analysis of film discursive aesthetics* (Vers une analyse multimodale automatique de l'esthétique discursive filmique). Coordonné par Lucile Sassatelli (Université Côte d’Azur), avec Virginie Julliard du GRIPIC.
+- **ANR Tractive (2022-2026):** *Towards a computational multimodal analysis of film discursive aesthetics* (Vers une analyse multimodale automatique de lesthétique discursive filmique). Coordonné par Lucile Sassatelli (Université Côte d’Azur), avec Virginie Julliard du GRIPIC.
   - TRACTIVE est un projet interdisciplinaire (informatique, sciences de l’information et de la communication et linguistique) qui vise à caractériser et quantifier la représentation du genre et l’objectivation des femmes dans les films et les médias visuels en concevant une analyse du discours multimodal basada en inteligencia artificial.
 - **ANR Armaguedon (2021-2023) :** *Approche interdisciplinaire en génomique, écologie urbaine et éco-épidémiologie pour une meilleure gestion des rats à Paris*. Porté par Aude Lalis (ISYEB), avec Hécate Vergopoulos du GRIPIC.
-  - Ce programme vise à développer une nouvelle approche combinant écologie urbaine, génomique, parasitologie, microbiologie et perception sociale afin d'étudier les populations de rats bruns dans la ville de Paris.
+  - Ce programme vise à développer une nouvelle approche combinant écologie urbaine, génomique, parasitologie, microbiologie et perception sociale afin détudier les populations de rats bruns dans la ville de Paris.
 - **ANR Numapresse (2017-2023):** *Pour une histoire littéraire et culturelle de la presse française, du papier à l’écran*. Coordonné par Marie-Ève Thérenty (Université Paul-Valéry Montpellier III – RIRRA21), avec Lisa Bolz, Juliette Charbonneaux, Valérie Jeanne-Perrier, Pierre-Carl Langlais, Denis Ruellan, Adeline Wrona du GRIPIC.
   - Numapresse vise à proposer une nouvelle histoire culturelle et littéraire afin de mettre en évidence des lignes de force structurelles de la presse française du XIXe siècle à aujourd’hui.
 
@@ -62,7 +62,7 @@ Les membres du GRIPIC sont particulièrement actifs dans plusieurs réseaux de r
 
 - **Le réseau Numératie publicitaire :** Lancé en 2017 (*Advertising Digital Literacy*), il réunit des chercheurs internationaux en communication spécialistes de la publicité, des marques et de la consommation.
 - **L’International Media Nostalgia Network :** Réseau de recherche international anglophone et transdisciplinaire sur les formes contemporaines ou historiques de la nostalgie et des médias ([https://medianostalgia.org](https://medianostalgia.org/)).
-- **Le réseau L’Observatoire des discours d'Europe :** Réseau européen réunissant des chercheuses et chercheurs autour des discours suscités par l’Europe et l’Union européenne dans l’espace public contemporain.
+- **Le réseau L’Observatoire des discours dEurope :** Réseau européen réunissant des chercheuses et chercheurs autour des discours suscités par l’Europe et l’Union européenne dans l’espace public contemporain.
 
 Les chercheurs y chercheuses du GRIPIC co-organisent régulièrement des séminaires avec des universités étrangères :
 - **Séminaire Médiamorphoses** (Valérie Jeanne-Perrier, Pauline Escande-Gauquié et Camille Alloing - UQAM).

@@ -1,5 +1,5 @@
 ---
-uuid: 606268af-60da-4c3f-b62f-927b98506bab
+uuid: d9add204-a29e-4115-bd07-8ab65d040aeb
 title: "Master 2 Communication en transformation"
 abstract: ""
 url: "https://www.celsa.fr"
@@ -17,7 +17,7 @@ Le master « Recherche » permet de faire état sur le marché du travail d’un
 
 Le master permet également d’entrer en formation doctorale.
 
-## L'équipe enseignante
+## Léquipe enseignante
 
 Dans le master « Recherche » interviennent tous les membres habilités à diriger des recherches (maîtres de conférences, maîtresses de conférences, professeurs, professeures) de l’équipe, ainsi qu’un certain nombre d’enseignants-chercheurs et d’enseignantes-chercheuses et d’intervenants professionnels.
 
@@ -26,7 +26,7 @@ Dans le master « Recherche » interviennent tous les membres habilités à diri
 Le master « Recherche » comprend environ 300 heures d’enseignement. Les cours sont répartis en 4 unités d’enseignement (UE) :
 
 <details>
-<summary><b>UE « Enseignements fondamentaux en sciences de l'information–communication »</b></summary>
+<summary><b>UE « Enseignements fondamentaux en sciences de linformation–communication »</b></summary>
 
 - Anthropologie et communication (10 h)
 - Corps, corpus : le chercheur au travail (10 h)
@@ -43,7 +43,7 @@ Le master « Recherche » comprend environ 300 heures d’enseignement. Les cour
 </details>
 
 <details>
-<summary><b>UE « Méthodes et stratégies de recherche en sciences de l'information et de la communication »</b></summary>
+<summary><b>UE « Méthodes et stratégies de recherche en sciences de linformation et de la communication »</b></summary>
 
 - Fonctionnement de la recherche : structures, réseaux, pratiques (5 h)
 - Trajectoires de recherche doctorale (16 h)
@@ -71,11 +71,11 @@ Le master « Recherche » comprend environ 300 heures d’enseignement. Les cour
 </details>
 
 <details>
-<summary><b>UE « Travail d'étude et de recherche »</b></summary>
+<summary><b>UE « Travail détude et de recherche »</b></summary>
 
 - Mémoire
 - Accompagnement : entretien individuel, présentations, tutorat international, parrainage. Orientation: conseil, projet professionnel, conférences, forum (optionnel)
-- Stage ou contrat d'apprentissage ou de professionnalisation (optionnel, 6 mois maximum)
+- Stage ou contrat dapprentissage ou de professionnalisation (optionnel, 6 mois maximum)
 - Insertion professionnelle : dispositif CELSA insertion - coaching individuel (optionnel)
 - Présentation de la formation : Programmes, financement, scolarité (optionnel)
 - Formation à la recherche documentaire et aux outils multimédias (optionnel)
@@ -86,7 +86,7 @@ Le master « Recherche » comprend environ 300 heures d’enseignement. Les cour
 
 </details>
 
-## L'originalité du master “Recherche”
+## Loriginalité du master “Recherche”
 
 L’originalité du master « Recherche » est le suivi très fin du mémoire des étudiants et étudiantes, tant sur le plan :
 - **de la problématisation:** partir d’un sujet d’étonnement, trouver la tension problématique, nourrir la pensée théorique, projeter des hypothèses ou des pistes de recherche, construire un design de recherche
@@ -95,17 +95,17 @@ L’originalité du master « Recherche » est le suivi très fin du mémoire de
 
 Un séminaire « Suivi de mémoire », égrené en 8 séances tout au long de l’année, rassemble tous les membres du laboratoire habilités à diriger des recherches et tous les étudiants et étudiantes.
 
-Chaque étudiant·e bénéficie par ailleurs d'un suivi personnel assuré par l'un des membres du laboratoire, avec lequel il définit un calendrier de rencontres régulières.
+Chaque étudiant·e bénéficie par ailleurs dun suivi personnel assuré par lun des membres du laboratoire, avec lequel il définit un calendrier de rencontres régulières.
 
-À mi-parcours, chaque étudiant·e rédige un EAT (« État d'avancement des travaux » de 15-20 pages), faisant état de l'avancement de sa recherche : premières lectures, première problématique, premières hypothèses ou pistes de recherche, recueil et traitement des corpus, avancement de la rédaction, difficultés rencontrées… L'EAT est évalué par les directeurs et directrices de recherche du master « Recherche » dans le cadre du séminaire de recherche.
+À mi-parcours, chaque étudiant·e rédige un EAT (« État davancement des travaux » de 15-20 pages), faisant état de lavancement de sa recherche : premières lectures, première problématique, premières hypothèses ou pistes de recherche, recueil et traitement des corpus, avancement de la rédaction, difficultés rencontrées… LEAT est évalué par les directeurs et directrices de recherche du master « Recherche » dans le cadre du séminaire de recherche.
 
-Le mémoire du master « Recherche » est long de 80 et 100 pages. Après accord du directeur ou de la directrice de recherche, il est présenté lors d'une soutenance publique.
+Le mémoire du master « Recherche » est long de 80 et 100 pages. Après accord du directeur ou de la directrice de recherche, il est présenté lors dune soutenance publique.
 
-## L'admission
+## Ladmission
 
 L’admission dans le master « Recherche » est réservée aux titulaires d’un diplôme de 240 crédits ECTS, d’une première année de master ou d’un diplôme de niveau Bac + 4 admis en équivalence. La commission pédagogique du master « Recherche » statue sur les équivalences.
 
-L’admission au master « Recherche » se fait par concours : d’abord un dossier (contenant projet de mémoire, dossier académique, questionnaire de motivation), puis un entretien avec une commission d’admission. L'appréciation porte non seulement sur l'intérêt et l'originalité du projet mais également sur les qualités rédactionnelles et de presentation de soi.
+L’admission au master « Recherche » se fait par concours : d’abord un dossier (contenant projet de mémoire, dossier académique, questionnaire de motivation), puis un entretien avec une commission d’admission. Lappréciation porte non seulement sur lintérêt et loriginalité du projet mais également sur les qualités rédactionnelles et de presentation de soi.
 
 Plus d’informations sur le processus d’admission sur le site du CELSA.
 

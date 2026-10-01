@@ -1,5 +1,5 @@
 ---
-uuid: cc3dc99d-8ce8-4d1b-9901-4d0bb70566f0
+uuid: ed1b4087-8a37-4f20-b69a-a933c58410a1
 prettyName: CarolineMarti
 
 title: "Caroline Marti"
@@ -54,7 +54,7 @@ Contrats de recherche privés :
 « Diagnostic de la signalétique au regard de l’identité de l’INHA » Direction scientifique pour l’agence Matter of facts L’INHA, lieu et institution culturelle : médiations et expressions, : analyse sémiotique des parcours et des espaces des sites de la Galerie Colbert et de la bibliothèque Labrouste. 2020
 « La confiance et les relations aux marques », pour KR Media 2018
 « La responsabilité des achats dans les ménages français », pour KR Media sur la thématique de, 2017
-« La relation aux outils de la beauté. Représentations de l'intimité ». Direction scientifique (3 doctorants et jeunes chercheurs) pour l’agence de communication W40, 2016.
+« La relation aux outils de la beauté. Représentations de lintimité ». Direction scientifique (3 doctorants et jeunes chercheurs) pour l’agence de communication W40, 2016.
 « La valeur et le « transfert de valeur » dans les médias », pour KR Medias, 2015
 « Les mutations de la proximité dans l’imaginaire de la consommation féminine ». Coordination du projet pour le groupe Casino », 2012.
 « L’écriture de la crise. Explorations de la crise et de la « post-crise » à partir d’un corpus médiatique » pour l’Agence Enjoy. Coord. du projet, Encadrement de 4 jeunes chercheurs, 2009.
@@ -66,10 +66,10 @@ Contrats de recherche privés :
  Marti Caroline, « Exposer en ligne les collaborations. Re-énonciations et médiatisations numériques des collections in Dossier « Les substituts numériques des expositions"coordonné par S. Appiotti et L Renaud, Les Enjeux de l’information et de la Communication, 2024
 Marti Caroline, « #foodporn : nourrir le dispositif par les images. Captations culinaires et variations infra-publicitaires sur Instagram » Dossier #Foodporn coordonné par L. Allard et G. David, Communication & Langages, 2022.
 Marti Caroline, « L’avis au prisme de la participation. Du témoignage infra-publicitaire à la contribution méta-servicielle » in « La participation dans un monde de communication », Vol. 52, sous la dir. de S. Roginsky, D. Renard et M. Dufrasne, Recherches en Communication, Louvain, 2021, pp. 127-153.
-Marti Caroline avec Seurrat Aude, « Kits de marques et médiation des savoirs : prétentions communicationnelles et reconfigurations médiatiques », in « L'école en contexte numérique. Logiques d'acteurs, action publique et enjeux industriels », 2018B, Les enjeux de l’information et de la communication, pp.33-46, 2018
+Marti Caroline avec Seurrat Aude, « Kits de marques et médiation des savoirs : prétentions communicationnelles et reconfigurations médiatiques », in « Lécole en contexte numérique. Logiques dacteurs, action publique et enjeux industriels », 2018B, Les enjeux de l’information et de la communication, pp.33-46, 2018
 Marti Caroline, « Consommateur ». Publictionnaire. Dictionnaire encyclopédique et critique des publics. Mis en ligne le 07 novembre 2016. Accès:
 http://publictionnaire.huma- num.fr/notice/consommateur/
-Marti de Montety Caroline, « Les marques, embrayeurs culturels : quand les livres « brandés » font recette ». Un exemple de culturalisation de la marchandise. Les Enjeux de l'Information et de la Communication, n°15/2a, 2014, revue en ligne, mis en ligne en octobre 2014, pp. 1- 4
+Marti de Montety Caroline, « Les marques, embrayeurs culturels : quand les livres « brandés » font recette ». Un exemple de culturalisation de la marchandise. Les Enjeux de lInformation et de la Communication, n°15/2a, 2014, revue en ligne, mis en ligne en octobre 2014, pp. 1- 4
 Marti de Montety Caroline, « Les marques, acteurs culturels. Dépublicitarisation et valeur sociale ajoutée ». Revue Marketing & Communication, Vol. 10, N° 2. « La marque, objet communicationnel », 2013 pp. 22-32
 Montety (de) Caroline, « A vos Caddies, Citoyens ! La révolution, motif politique saisi par la publicité ». Mots. N° 98.Les langages du politique. Dossier « Publicité et Politique : emprunts croisés », coordonné par D. Barbet et D. Desmarchelier, 2012, pp. 63-78
 Montety (de) Caroline, « La « société de consommation » dans le pétrin. La machine à pain emblématique de la consommation contemporaine ». Sociologies pratiques, N° 20, déc. 2009. Coord. par I. Moussaoui et F. Granier, 2009 , pp. 97-106
@@ -85,12 +85,12 @@ Marti Caroline avec K Berthelot-Guiet, « « Advertising or not Advertising: Re
 Marti Caroline, « La valeur littéraire, enjeu médiatique et publicitaire. Collusion et collision autour de la Coupole » in Objets insignes, objets infâmes de la littérature, dir. A. Wrona et M.E Therenty, Editions des archives contemporaines, 2019, 202 p., pp. 125-133
 Marti Caroline, « Marques muséales : une gestion sémiotique au service de la médiation symbolique », Marques Muséales. Un espace public revisité, dir. par M. Regourd, Institut universitaire Varenne, coll. Colloques & Essais, 2018, 307 p. pp. 193-203
 Marti Caroline, « Le blog "De quoi je me M.E.L.": valeur médiatique et pouvoir social », La fabrique de l’autorité. Figures des décideurs en régime médiatique, dir. A. Wrona Les Petits Matins, 2017, 239 p., pp. 35-46
-Marti de Montety Caroline, « Stratégies d’extension des marques-médias et embrayages culturels : le cas M6 », in La stratégie de marque dans l'audiovisuel, dir. H. Laurichesse, A. Colin, 2012, 248 p., pp. 119-133
+Marti de Montety Caroline, « Stratégies d’extension des marques-médias et embrayages culturels : le cas M6 », in La stratégie de marque dans laudiovisuel, dir. H. Laurichesse, A. Colin, 2012, 248 p., pp. 119-133
 Montety (de) Caroline, « Haribo chez les Muses : la tentation patrimoniale. Quand les marques deviennent des musées », in Musées en mutation. Un espace public à revisiter, dir. M. Regourd, L’ Harmattan, 2012 , 398 p., pp.199-210
 
 ## Communications et interventions
 
- Marti Caroline, « Quand la publicité invite à la déconsommation : adaptations, contraintes et paradoxes d’une rhétorique », Journée d’étude Tensions, détournements et renouvellements dans le discours publicitaire : entre absence et (hyper-) présence, disparitions et résurgences, Journée d'étude organisée par le Centre d’Études Linguistiques – Corpus, Discours et Sociétés (CEL, Université Jean Moulin Lyon 3) en collaboration avec ELICO, Lyon, 21 novembre 2024.
+ Marti Caroline, « Quand la publicité invite à la déconsommation : adaptations, contraintes et paradoxes d’une rhétorique », Journée d’étude Tensions, détournements et renouvellements dans le discours publicitaire : entre absence et (hyper-) présence, disparitions et résurgences, Journée détude organisée par le Centre d’Études Linguistiques – Corpus, Discours et Sociétés (CEL, Université Jean Moulin Lyon 3) en collaboration avec ELICO, Lyon, 21 novembre 2024.
 Marti Caroline, « Les cultures alimentaires et gastronomiques transformées par les processus de numérisation », intervention et coordination du panel, « La numérisation des sociétés, XXIIIe Congrès de la SFSIC, Bordeaux, 16 juin 2023.
 Marti Caroline, « Trivialité et appropriations sémiotiques », conférencière invitée pour le séminaire sur l’épistémologie de CIMEOS, Université de Bourgogne, 10 janvier 2022.
 Marti Caroline, « Raisonner et civiliser Bacchus : les nouveaux espaces de la médiation vinicole » intervention au sein du panel “Les nouveaux espaces des médiations marchandes. Éthique, responsabilité et identité dans la production artisanale et industrielle » coordonné par E. Mouratidou, XXIIe Congrès de la SFSIC : « Société et espaces en mouvement », Institut de la communication et des médias, Échirolles en ligne, 10-11 juin 2021.
@@ -126,7 +126,7 @@ Montety (de) Caroline avec Souchier Emmanuel, « Écrire la crise. Poétique d�
  Marti Caroline et Rondot Camille (dir), De la patrimonialisation à la muséification des marques. Paris, MKF, ouvrage collectif en cours de publication, 2025.
 Marti Caroline, Cultural Mediations of Brands: Unadvertization and Quest for Authority. Wiley, 2020
 Marti Caroline, Les médiations culturelles des marques. Une quête d’autorité, ISTE Editions, 2019
-Marti de Montety Caroline avec V. Patrin-Leclère et K. Berthelot-Guiet, La fin de la pub ? Tours et contours de la dépublicitarisation, Le Bord de l'Eau, Espaces marchands, 2014
+Marti de Montety Caroline avec V. Patrin-Leclère et K. Berthelot-Guiet, La fin de la pub ? Tours et contours de la dépublicitarisation, Le Bord de lEau, Espaces marchands, 2014
 
 ## Projets de recherche
 
@@ -135,7 +135,7 @@ Contrats de recherche privés :
 « Diagnostic de la signalétique au regard de l’identité de l’INHA » Direction scientifique pour l’agence Matter of facts L’INHA, lieu et institution culturelle : médiations et expressions, : analyse sémiotique des parcours et des espaces des sites de la Galerie Colbert et de la bibliothèque Labrouste. 2020
 « La confiance et les relations aux marques », pour KR Media 2018
 « La responsabilité des achats dans les ménages français », pour KR Media sur la thématique de, 2017
-« La relation aux outils de la beauté. Représentations de l'intimité ». Direction scientifique (3 doctorants et jeunes chercheurs) pour l’agence de communication W40, 2016.
+« La relation aux outils de la beauté. Représentations de lintimité ». Direction scientifique (3 doctorants et jeunes chercheurs) pour l’agence de communication W40, 2016.
 « La valeur et le « transfert de valeur » dans les médias », pour KR Medias, 2015
 « Les mutations de la proximité dans l’imaginaire de la consommation féminine ». Coordination du projet pour le groupe Casino », 2012.
 « L’écriture de la crise. Explorations de la crise et de la « post-crise » à partir d’un corpus médiatique » pour l’Agence Enjoy. Coord. du projet, Encadrement de 4 jeunes chercheurs, 2009.
@@ -149,7 +149,7 @@ Ouvrages
 Marti Caroline et Rondot Camille (dir), De la patrimonialisation à la muséification des marques. Paris, MKF, ouvrage collectif en cours de publication, 2025.
 Marti Caroline, Cultural Mediations of Brands: Unadvertization and Quest for Authority. Wiley, 2020
 Marti Caroline, Les médiations culturelles des marques. Une quête d’autorité, ISTE Editions, 2019
-Marti de Montety Caroline avec V. Patrin-Leclère et K. Berthelot-Guiet, La fin de la pub ? Tours et contours de la dépublicitarisation, Le Bord de l'Eau, Espaces marchands, 2014
+Marti de Montety Caroline avec V. Patrin-Leclère et K. Berthelot-Guiet, La fin de la pub ? Tours et contours de la dépublicitarisation, Le Bord de lEau, Espaces marchands, 2014
 Directions de dossiers
 Marti Caroline avec Aubrun Frédéric, Patrin-Leclere Valérie, Dossier « Usages et pratiques de la publicitarisation : enjeux économiques et symboliques des relations actuelles entre marques et médias », Communication & management 2021/2 (Vol. 18), Eska, 2021
 Marti Caroline, Dossier « Les médiations de la surconsommation », revue Effeuillage, 2021
@@ -163,22 +163,22 @@ Marti Caroline avec K Berthelot-Guiet, « « Advertising or not Advertising: Re
 Marti Caroline, « La valeur littéraire, enjeu médiatique et publicitaire. Collusion et collision autour de la Coupole » in Objets insignes, objets infâmes de la littérature, dir. A. Wrona et M.E Therenty, Editions des archives contemporaines, 2019, 202 p., pp. 125-133
 Marti Caroline, « Marques muséales : une gestion sémiotique au service de la médiation symbolique », Marques Muséales. Un espace public revisité, dir. par M. Regourd, Institut universitaire Varenne, coll. Colloques & Essais, 2018, 307 p. pp. 193-203
 Marti Caroline, « Le blog "De quoi je me M.E.L.": valeur médiatique et pouvoir social », La fabrique de l’autorité. Figures des décideurs en régime médiatique, dir. A. Wrona Les Petits Matins, 2017, 239 p., pp. 35-46
-Marti de Montety Caroline, « Stratégies d’extension des marques-médias et embrayages culturels : le cas M6 », in La stratégie de marque dans l'audiovisuel, dir. H. Laurichesse, A. Colin, 2012, 248 p., pp. 119-133
+Marti de Montety Caroline, « Stratégies d’extension des marques-médias et embrayages culturels : le cas M6 », in La stratégie de marque dans laudiovisuel, dir. H. Laurichesse, A. Colin, 2012, 248 p., pp. 119-133
 Montety (de) Caroline, « Haribo chez les Muses : la tentation patrimoniale. Quand les marques deviennent des musées », in Musées en mutation. Un espace public à revisiter, dir. M. Regourd, L’ Harmattan, 2012 , 398 p., pp.199-210
 Articles
 Marti Caroline, « Exposer en ligne les collaborations. Re-énonciations et médiatisations numériques des collections in Dossier « Les substituts numériques des expositions"coordonné par S. Appiotti et L Renaud, Les Enjeux de l’information et de la Communication, 2024
 Marti Caroline, « #foodporn : nourrir le dispositif par les images. Captations culinaires et variations infra-publicitaires sur Instagram » Dossier #Foodporn coordonné par L. Allard et G. David, Communication & Langages, 2022.
 Marti Caroline, « L’avis au prisme de la participation. Du témoignage infra-publicitaire à la contribution méta-servicielle » in « La participation dans un monde de communication », Vol. 52, sous la dir. de S. Roginsky, D. Renard et M. Dufrasne, Recherches en Communication, Louvain, 2021, pp. 127-153.
-Marti Caroline avec Seurrat Aude, « Kits de marques et médiation des savoirs : prétentions communicationnelles et reconfigurations médiatiques », in « L'école en contexte numérique. Logiques d'acteurs, action publique et enjeux industriels », 2018B, Les enjeux de l’information et de la communication, pp.33-46, 2018
+Marti Caroline avec Seurrat Aude, « Kits de marques et médiation des savoirs : prétentions communicationnelles et reconfigurations médiatiques », in « Lécole en contexte numérique. Logiques dacteurs, action publique et enjeux industriels », 2018B, Les enjeux de l’information et de la communication, pp.33-46, 2018
 Marti Caroline, « Consommateur ». Publictionnaire. Dictionnaire encyclopédique et critique des publics. Mis en ligne le 07 novembre 2016. Accès:
 http://publictionnaire.huma- num.fr/notice/consommateur/
-Marti de Montety Caroline, « Les marques, embrayeurs culturels : quand les livres « brandés » font recette ». Un exemple de culturalisation de la marchandise. Les Enjeux de l'Information et de la Communication, n°15/2a, 2014, revue en ligne, mis en ligne en octobre 2014, pp. 1- 4
+Marti de Montety Caroline, « Les marques, embrayeurs culturels : quand les livres « brandés » font recette ». Un exemple de culturalisation de la marchandise. Les Enjeux de lInformation et de la Communication, n°15/2a, 2014, revue en ligne, mis en ligne en octobre 2014, pp. 1- 4
 Marti de Montety Caroline, « Les marques, acteurs culturels. Dépublicitarisation et valeur sociale ajoutée ». Revue Marketing & Communication, Vol. 10, N° 2. « La marque, objet communicationnel », 2013 pp. 22-32
 Montety (de) Caroline, « A vos Caddies, Citoyens ! La révolution, motif politique saisi par la publicité ». Mots. N° 98.Les langages du politique. Dossier « Publicité et Politique : emprunts croisés », coordonné par D. Barbet et D. Desmarchelier, 2012, pp. 63-78
 Montety (de) Caroline, « La « société de consommation » dans le pétrin. La machine à pain emblématique de la consommation contemporaine ». Sociologies pratiques, N° 20, déc. 2009. Coord. par I. Moussaoui et F. Granier, 2009 , pp. 97-106
 Montety (de) Caroline, « Les magazines de marque : entre "gestion sémiotique" et cuisine du sens » Communication & Langages. N° 143. 2005, pp. 35-48
 Communications et interventions
-Marti Caroline, « Quand la publicité invite à la déconsommation : adaptations, contraintes et paradoxes d’une rhétorique », Journée d’étude Tensions, détournements et renouvellements dans le discours publicitaire : entre absence et (hyper-) présence, disparitions et résurgences, Journée d'étude organisée par le Centre d’Études Linguistiques – Corpus, Discours et Sociétés (CEL, Université Jean Moulin Lyon 3) en collaboration avec ELICO, Lyon, 21 novembre 2024.
+Marti Caroline, « Quand la publicité invite à la déconsommation : adaptations, contraintes et paradoxes d’une rhétorique », Journée d’étude Tensions, détournements et renouvellements dans le discours publicitaire : entre absence et (hyper-) présence, disparitions et résurgences, Journée détude organisée par le Centre d’Études Linguistiques – Corpus, Discours et Sociétés (CEL, Université Jean Moulin Lyon 3) en collaboration avec ELICO, Lyon, 21 novembre 2024.
 Marti Caroline, « Les cultures alimentaires et gastronomiques transformées par les processus de numérisation », intervention et coordination du panel, « La numérisation des sociétés, XXIIIe Congrès de la SFSIC, Bordeaux, 16 juin 2023.
 Marti Caroline, « Trivialité et appropriations sémiotiques », conférencière invitée pour le séminaire sur l’épistémologie de CIMEOS, Université de Bourgogne, 10 janvier 2022.
 Marti Caroline, « Raisonner et civiliser Bacchus : les nouveaux espaces de la médiation vinicole » intervention au sein du panel “Les nouveaux espaces des médiations marchandes. Éthique, responsabilité et identité dans la production artisanale et industrielle » coordonné par E. Mouratidou, XXIIe Congrès de la SFSIC : « Société et espaces en mouvement », Institut de la communication et des médias, Échirolles en ligne, 10-11 juin 2021.

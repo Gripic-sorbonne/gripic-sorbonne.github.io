@@ -1,5 +1,5 @@
 ---
-uuid: 574f8b08-f1a6-421b-8c74-67e02219b78b
+uuid: 5bc30114-4792-42fc-bccf-acb3502c7ab9
 prettyName: JulienTassel
 
 title: "Julien Tassel"
@@ -86,15 +86,15 @@ L’information dans les organisations : dynamique et complexité
 Foli, Olivia, et Julien Tassel. « Dépendances vis-à-vis des professionnels : contraintes et opportunités créatrices ». Journée d’études « cultures de l’enquête », GRIPIC, Sorbonne Université, 5 juin 2018.
 Brachet, Camille et Julien Tassel. « Stratégies des médias spécialisés dans la gastronomie : mises en visibilité et mutations d’une ligne éditoriale en contexte numérique ». Journée d’études « Marques et gastronomie en contexte numérique », GRIPIC, CELSA Sorbonne Université, juin 2018
 Foli, Olivia, et Julien Tassel « Plateformes numériques de recrutement : usages et paradoxes ». Journée d’études du programme TRANSNUM Pour une approche épistémologique du numérique à Sorbonne- Universités : autour de la visualisation et de la simulation. GRIPIC et Costech, Sorbonne Université, 21 et 22 juin 2018.
-Tassel, Julien. « L'enquête ethnographique en entreprise comme objet-frontière », Journée d’études du séminaire de recherche « cultures de l’enquête », dirigé par Joëlle le Marec, 24 avril 2017.
+Tassel, Julien. « Lenquête ethnographique en entreprise comme objet-frontière », Journée d’études du séminaire de recherche « cultures de l’enquête », dirigé par Joëlle le Marec, 24 avril 2017.
 Tassel, Julien et Vergopoulos Hécate. « Produire l’épaisseur du temps de et dans la ville. Le cas des visites guidées du Paris historique », XXe congrès de la SFSIC, juin 2016, Metz.
 Tassel, Julien et Vergopoulos Hécate.
 « Portrait of the Tourist as an Historian: How the Contemporary Tourist Mediation of Paris Turns the Practice of Space into a Search for Historical Clues ». International Committee of Historical Sciences Meeting (ICHS) - International Commission for the History of Travel and Tourism (ICHTT) - Jinan Congress, august 2015, ICHS.
-Tassel, Julien et Vergopoulos Hécate. « Le commerce touristique de l'histoire. Ce que les visites guidées font de et avec l'histoire ». L’histoire dans l'espace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerranée, organisée par l'UMR 7303 TELEMME (MMSH), l'IHTP, l'IRMC, le CÉLAT, MuCEM, Marseille, octobre 2015.
-Corbillé, Sophie et Tassel, Julien. « L'assiette et le champ. La gastronomie parisienne, le terroir d'île-de-France et le Grand Paris. », avec Sophie Corbillé, Journée d'études le Grand Paris qui Mange, novembre 2015, Institut des Sciences de la Communication (ISCC), CNRS Paris-Sorbonne
+Tassel, Julien et Vergopoulos Hécate. « Le commerce touristique de lhistoire. Ce que les visites guidées font de et avec lhistoire ». L’histoire dans lespace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerranée, organisée par lUMR 7303 TELEMME (MMSH), lIHTP, lIRMC, le CÉLAT, MuCEM, Marseille, octobre 2015.
+Corbillé, Sophie et Tassel, Julien. « Lassiette et le champ. La gastronomie parisienne, le terroir dîle-de-France et le Grand Paris. », avec Sophie Corbillé, Journée détudes le Grand Paris qui Mange, novembre 2015, Institut des Sciences de la Communication (ISCC), CNRS Paris-Sorbonne
 Corbillé, Sophie et Tassel, Julien. « Patrons, au travail ! La téléréalité comme dispositif de médiatisation et de communication du patron-entrepreneur », avec Sophie Corbillé. Figures des décideurs en régime médiatique. Représenter la décision politique et économique : un défi communicationnel, 25 septembre 2015, CELSA - GRIPIC - Université Paris Sorbonne.
 Tassel, Julien. « L’exigence de négociation en ethnographie organisationnelle. Entre nécessité méthodologique et clef de compréhension des organisations. » 81e colloque de l’ACFAS, colloque 435 : l’ethnographie organisationnelle, pratiques émergentes et contributions, Université Laval, Canada, 2013.
-Tassel, Julien. « Vers une approche critique de l'identité d'entreprise », Repenser le capital Humain, Rouen Business School, mai 2012.
+Tassel, Julien. « Vers une approche critique de lidentité dentreprise », Repenser le capital Humain, Rouen Business School, mai 2012.
 
 ## Directions de dossiers
 
@@ -118,7 +118,7 @@ Sociologies Pratiques,
 ## Ouvrages
 
  Fantin Emmanuelle et Julien Tassel (dir.),
-Quand l'enfance rencontre l'histoire. Imaginaires, représentations et savoirs
+Quand lenfance rencontre lhistoire. Imaginaires, représentations et savoirs
 ,
 Rouen, Presses Universitaire Rouen Le Havre, à paraître en 2025.
 
@@ -133,7 +133,7 @@ Depuis 2024, participation à l’initiative alimentation de Sorbonne Universit�
 
  Ouvrages
 Fantin Emmanuelle et Julien Tassel (dir.),
-Quand l'enfance rencontre l'histoire. Imaginaires, représentations et savoirs
+Quand lenfance rencontre lhistoire. Imaginaires, représentations et savoirs
 ,
 Rouen, Presses Universitaire Rouen Le Havre, à paraître en 2025.
 Directions de dossiers
@@ -200,15 +200,15 @@ Brachet, Camille et Julien Tassel. « Des manifestes en trompe-l’œil. Une for
 Foli, Olivia, et Julien Tassel. « Dépendances vis-à-vis des professionnels : contraintes et opportunités créatrices ». Journée d’études « cultures de l’enquête », GRIPIC, Sorbonne Université, 5 juin 2018.
 Brachet, Camille et Julien Tassel. « Stratégies des médias spécialisés dans la gastronomie : mises en visibilité et mutations d’une ligne éditoriale en contexte numérique ». Journée d’études « Marques et gastronomie en contexte numérique », GRIPIC, CELSA Sorbonne Université, juin 2018
 Foli, Olivia, et Julien Tassel « Plateformes numériques de recrutement : usages et paradoxes ». Journée d’études du programme TRANSNUM Pour une approche épistémologique du numérique à Sorbonne- Universités : autour de la visualisation et de la simulation. GRIPIC et Costech, Sorbonne Université, 21 et 22 juin 2018.
-Tassel, Julien. « L'enquête ethnographique en entreprise comme objet-frontière », Journée d’études du séminaire de recherche « cultures de l’enquête », dirigé par Joëlle le Marec, 24 avril 2017.
+Tassel, Julien. « Lenquête ethnographique en entreprise comme objet-frontière », Journée d’études du séminaire de recherche « cultures de l’enquête », dirigé par Joëlle le Marec, 24 avril 2017.
 Tassel, Julien et Vergopoulos Hécate. « Produire l’épaisseur du temps de et dans la ville. Le cas des visites guidées du Paris historique », XXe congrès de la SFSIC, juin 2016, Metz.
 Tassel, Julien et Vergopoulos Hécate.
 « Portrait of the Tourist as an Historian: How the Contemporary Tourist Mediation of Paris Turns the Practice of Space into a Search for Historical Clues ». International Committee of Historical Sciences Meeting (ICHS) - International Commission for the History of Travel and Tourism (ICHTT) - Jinan Congress, august 2015, ICHS.
-Tassel, Julien et Vergopoulos Hécate. « Le commerce touristique de l'histoire. Ce que les visites guidées font de et avec l'histoire ». L’histoire dans l'espace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerranée, organisée par l'UMR 7303 TELEMME (MMSH), l'IHTP, l'IRMC, le CÉLAT, MuCEM, Marseille, octobre 2015.
-Corbillé, Sophie et Tassel, Julien. « L'assiette et le champ. La gastronomie parisienne, le terroir d'île-de-France et le Grand Paris. », avec Sophie Corbillé, Journée d'études le Grand Paris qui Mange, novembre 2015, Institut des Sciences de la Communication (ISCC), CNRS Paris-Sorbonne
+Tassel, Julien et Vergopoulos Hécate. « Le commerce touristique de lhistoire. Ce que les visites guidées font de et avec lhistoire ». L’histoire dans lespace public. Producteurs, pratiques, transmissions entre Atlantique et Méditerranée, organisée par lUMR 7303 TELEMME (MMSH), lIHTP, lIRMC, le CÉLAT, MuCEM, Marseille, octobre 2015.
+Corbillé, Sophie et Tassel, Julien. « Lassiette et le champ. La gastronomie parisienne, le terroir dîle-de-France et le Grand Paris. », avec Sophie Corbillé, Journée détudes le Grand Paris qui Mange, novembre 2015, Institut des Sciences de la Communication (ISCC), CNRS Paris-Sorbonne
 Corbillé, Sophie et Tassel, Julien. « Patrons, au travail ! La téléréalité comme dispositif de médiatisation et de communication du patron-entrepreneur », avec Sophie Corbillé. Figures des décideurs en régime médiatique. Représenter la décision politique et économique : un défi communicationnel, 25 septembre 2015, CELSA - GRIPIC - Université Paris Sorbonne.
 Tassel, Julien. « L’exigence de négociation en ethnographie organisationnelle. Entre nécessité méthodologique et clef de compréhension des organisations. » 81e colloque de l’ACFAS, colloque 435 : l’ethnographie organisationnelle, pratiques émergentes et contributions, Université Laval, Canada, 2013.
-Tassel, Julien. « Vers une approche critique de l'identité d'entreprise », Repenser le capital Humain, Rouen Business School, mai 2012.
+Tassel, Julien. « Vers une approche critique de lidentité dentreprise », Repenser le capital Humain, Rouen Business School, mai 2012.
 
 ## Thématiques de recherche
 

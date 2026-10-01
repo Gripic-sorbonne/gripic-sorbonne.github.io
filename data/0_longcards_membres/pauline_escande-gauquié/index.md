@@ -1,5 +1,5 @@
 ---
-uuid: 39ce6fac-8ae8-4615-8eed-33adf50a9fe6
+uuid: 0143ca9f-5dc7-4d69-ae80-21592f605256
 prettyName: PaulineEscandeGauquié
 
 title: "Pauline Escande-Gauquié"
@@ -71,7 +71,7 @@ Escande-Gauquié, P. & Aim, O. (2014). Éléments pour une écranalyse : pratiq
 Escande-Gauquié, P. (2011). La neutralisation de rhétorique chez Barthes, Congrès de l’AISV-IASV - l’Association Internationale de sémiotique visuelle : Rhétorique du visible. Stratégies de l’image entre signification et communication, Université de Venise.
 Escande-Gauquié, P. & Aim, O. (2011). Du fragment aux figures, Congrès de l’AFS - l’Association Française de Sémiotique, Université de Lyon.
 Escande-Gauquié, P. & Mouratidou, E. (2010). Sin city, de la bande dessinée au film, IV e Colloque International du groupe Ci-dit (Circulations des discours), Université de Nice.
-Escande-Gauquié, P. (2008). Le storybord comme l’histoire dessinée et destinée d’un film, 8e Colloque IAWIS/AIERTI - l'Association Internationale pour l'Étude des Rapports entre Texte et Image :"Éfficacité/Efficacy", EHESS.
+Escande-Gauquié, P. (2008). Le storybord comme l’histoire dessinée et destinée d’un film, 8e Colloque IAWIS/AIERTI - lAssociation Internationale pour lÉtude des Rapports entre Texte et Image :"Éfficacité/Efficacy", EHESS.
 Escande-Gauquié, P. (2008). Comment les SIC interagissent méthodologiquement avec les sciences du langage : illustration à travers la notion de trivialité, 16éme Congrès SFSIC, IUT de Compiègne.
 
 ## Communications sans actes dans un congrès international ou national (28)
@@ -84,7 +84,7 @@ Escande-Gauquié, P. (2023). « Introduction de la journée », Journée d’�
 Escande-Gauquié, P. (2023), « Apoline et la chronique numérique », Journée d’étude : Transmédia et industries culturelles et créatives, Université Paris Cité.
 Escande-Gauquié, P. (2023). « Enjeux de médiation et de médiatisation autour de la mer », Journée d’étude : Communiquer autour de la mer, Université de Aix-Marseille.
 Escande-Gauquié, P. (2023). « Projet FRAMER : Les français et la mer, le cas des scolaires », Journée International de l’Institut de l’océan de Paris, Sorbonne Université.
-Escande-Gauquié, P. (2023). « Enjeux de l’EMI », Journée d’étude international : L’éducation aux médias et à l'information sur tous les fronts, Université de la Sorbonne.
+Escande-Gauquié, P. (2023). « Enjeux de l’EMI », Journée d’étude international : L’éducation aux médias et à linformation sur tous les fronts, Université de la Sorbonne.
 Escande-Gauquié, P. (2022). « Le selfie et l’insoutenable légèreté de l’être », Journée étude Circulation des émotions et des affects dans les réseaux sociaux et les espaces numériques, Université de Dijon.
 Escande-Gauquié, P. (2021). « Introduction de la journée : la mode dans tous ses états ». Mode : Éthique, étiquette, étiquetage, Sorbonne Université.
 Escande-Gauquié, P. (2021). « Le nom comme l’affirmation d’une auctorialité chez deux écrivaines françaises : George Sand et Colette », Au carrefour des sens – 5éme édition, Université de Lviv.
@@ -99,7 +99,7 @@ Escande-Gauquié, P. (2014), « La photographie mobile, un art « vernaculaire
 Escande-Gauquié, P. & Mouratidou E. (2013). « De la BD au film, histoires médiagéniques de deux adaptations » La bande dessinée et les adaptations de la page à l’écran, Centre Interlangues Texte, Image, Langage de l’Université de Bourgogne.
 2.4. Communications orales sans actes dans des séminaires de recherche
 Escande-Gauquié, P. (2023). « Médiations muséales autour de la mer », Séminaire Médiamorphoses, GRIPIC, Celsa, IMSIC, Université de Aix-Marseille.
-Escande-Gauquié, P. (2021). « Les maisons d'écrivaines comme dispositif d'écriture de l’intime », Séminaire du GRIPIC, Sorbonne Université, Celsa.
+Escande-Gauquié, P. (2021). « Les maisons décrivaines comme dispositif décriture de l’intime », Séminaire du GRIPIC, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2021). « De l’intertexte à la médiamorphose, retour sur des concepts ». Séminaire Médiamorphoses, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2020), « Enquêter en proximité : de l’observation participante à la participation observante », Séminaire doctoral du GRIPIC, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2020). « Le geste performatif sur les réseaux sociaux : de la pratique sémio-technique à la stratégie de communication », Séminaire Humanités Numériques, Université Paris 1, École des Arts de la Sorbonne. `
@@ -202,7 +202,7 @@ Escande-Gauquié, P. & Aim, O. (2014). Éléments pour une écranalyse : pratiq
 Escande-Gauquié, P. (2011). La neutralisation de rhétorique chez Barthes, Congrès de l’AISV-IASV - l’Association Internationale de sémiotique visuelle : Rhétorique du visible. Stratégies de l’image entre signification et communication, Université de Venise.
 Escande-Gauquié, P. & Aim, O. (2011). Du fragment aux figures, Congrès de l’AFS - l’Association Française de Sémiotique, Université de Lyon.
 Escande-Gauquié, P. & Mouratidou, E. (2010). Sin city, de la bande dessinée au film, IV e Colloque International du groupe Ci-dit (Circulations des discours), Université de Nice.
-Escande-Gauquié, P. (2008). Le storybord comme l’histoire dessinée et destinée d’un film, 8e Colloque IAWIS/AIERTI - l'Association Internationale pour l'Étude des Rapports entre Texte et Image :"Éfficacité/Efficacy", EHESS.
+Escande-Gauquié, P. (2008). Le storybord comme l’histoire dessinée et destinée d’un film, 8e Colloque IAWIS/AIERTI - lAssociation Internationale pour lÉtude des Rapports entre Texte et Image :"Éfficacité/Efficacy", EHESS.
 Escande-Gauquié, P. (2008). Comment les SIC interagissent méthodologiquement avec les sciences du langage : illustration à travers la notion de trivialité, 16éme Congrès SFSIC, IUT de Compiègne.
 Communications sans actes dans un congrès international ou national (28)
 Escande-Gauquié, P. (2024). « Le Clemi Sup : partenariats, enjeux et perspectives », Symposium : Theory Practice Education , Université Aix/Marseille.
@@ -213,7 +213,7 @@ Escande-Gauquié, P. (2023). « Introduction de la journée », Journée d’�
 Escande-Gauquié, P. (2023), « Apoline et la chronique numérique », Journée d’étude : Transmédia et industries culturelles et créatives, Université Paris Cité.
 Escande-Gauquié, P. (2023). « Enjeux de médiation et de médiatisation autour de la mer », Journée d’étude : Communiquer autour de la mer, Université de Aix-Marseille.
 Escande-Gauquié, P. (2023). « Projet FRAMER : Les français et la mer, le cas des scolaires », Journée International de l’Institut de l’océan de Paris, Sorbonne Université.
-Escande-Gauquié, P. (2023). « Enjeux de l’EMI », Journée d’étude international : L’éducation aux médias et à l'information sur tous les fronts, Université de la Sorbonne.
+Escande-Gauquié, P. (2023). « Enjeux de l’EMI », Journée d’étude international : L’éducation aux médias et à linformation sur tous les fronts, Université de la Sorbonne.
 Escande-Gauquié, P. (2022). « Le selfie et l’insoutenable légèreté de l’être », Journée étude Circulation des émotions et des affects dans les réseaux sociaux et les espaces numériques, Université de Dijon.
 Escande-Gauquié, P. (2021). « Introduction de la journée : la mode dans tous ses états ». Mode : Éthique, étiquette, étiquetage, Sorbonne Université.
 Escande-Gauquié, P. (2021). « Le nom comme l’affirmation d’une auctorialité chez deux écrivaines françaises : George Sand et Colette », Au carrefour des sens – 5éme édition, Université de Lviv.
@@ -228,7 +228,7 @@ Escande-Gauquié, P. (2014), « La photographie mobile, un art « vernaculaire
 Escande-Gauquié, P. & Mouratidou E. (2013). « De la BD au film, histoires médiagéniques de deux adaptations » La bande dessinée et les adaptations de la page à l’écran, Centre Interlangues Texte, Image, Langage de l’Université de Bourgogne.
 2.4. Communications orales sans actes dans des séminaires de recherche
 Escande-Gauquié, P. (2023). « Médiations muséales autour de la mer », Séminaire Médiamorphoses, GRIPIC, Celsa, IMSIC, Université de Aix-Marseille.
-Escande-Gauquié, P. (2021). « Les maisons d'écrivaines comme dispositif d'écriture de l’intime », Séminaire du GRIPIC, Sorbonne Université, Celsa.
+Escande-Gauquié, P. (2021). « Les maisons décrivaines comme dispositif décriture de l’intime », Séminaire du GRIPIC, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2021). « De l’intertexte à la médiamorphose, retour sur des concepts ». Séminaire Médiamorphoses, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2020), « Enquêter en proximité : de l’observation participante à la participation observante », Séminaire doctoral du GRIPIC, Sorbonne Université, Celsa.
 Escande-Gauquié, P. (2020). « Le geste performatif sur les réseaux sociaux : de la pratique sémio-technique à la stratégie de communication », Séminaire Humanités Numériques, Université Paris 1, École des Arts de la Sorbonne. `

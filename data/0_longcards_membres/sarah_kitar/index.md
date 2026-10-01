@@ -1,5 +1,5 @@
 ---
-uuid: fe7cced4-3d4c-4a39-92d9-39b7632402f8
+uuid: 84fdfee9-d792-4a52-80ee-68ebd5a8b368
 prettyName: SarahKitar
 
 title: "Sarah Kitar"
@@ -16,7 +16,7 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Enjeux de communication et relations de travail
 Sujet de recherche

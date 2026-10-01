@@ -1,5 +1,5 @@
 ---
-uuid: 12d449f9-a5cd-4f13-95c6-978eeef3787a
+uuid: b57748cc-a349-40a7-a506-9c20b1b4361a
 prettyName: OlivierAïm
 
 title: "Olivier Aïm"
@@ -17,21 +17,21 @@ abstract: "Maitre de conférences | Membre permanent en enseignement et recherch
 
  Depuis Janvier 2025,
 directeur adjoint
-de l'institut OPUS - Observatoire des Patrimoines de Sorbonne Université.
-Depuis septembre 2020, membre du comité de pilotage de l'institut OPUS
+de linstitut OPUS - Observatoire des Patrimoines de Sorbonne Université.
+Depuis septembre 2020, membre du comité de pilotage de linstitut OPUS
 
 ## Articles
 
  « Roland Barthes contre Roland Barthes. La sémiologie au regard de ses démons »,
 Recherches Semiotiques Semiotic Inquiry
 , 2022.
-« Naissance de l'infodémiologie. Le cas de l'OMS : vers une nouvelle organisation mondiale de l'information sanitaire »,
+« Naissance de linfodémiologie. Le cas de lOMS : vers une nouvelle organisation mondiale de linformation sanitaire »,
 Questions de communication
 , 2022.
 « Les pratiques culturelles et médiatiques au regard des « revendications » expressives »,
-L'Observatoire, la revue des politiques culturelles
+LObservatoire, la revue des politiques culturelles
 , 2020, pp.7-10.
-« Des MOOC aux OC : Rhétoriques de l'ouverture »,
+« Des MOOC aux OC : Rhétoriques de louverture »,
 Questions de communication
 , 2019.
 « À propos des vidéos dans les Mooc : le dispositif de magistralité aux prises avec l’industrialisation des formats de la parole didactique »,
@@ -46,10 +46,10 @@ Les Labels dans le domaine du patrimoine culturel et naturel
 Aïm Olivier, « Sur les ateliers d’écriture au Celsa » dans
 Les Ateliers d’écriture et l’Oulipo
 , Hermann, pp.99-105, 2020, coll. « Cahier textuel »
-Aïm Olivier, Depoux Anneliese, « L'écrivain à l'enseigne de la ville : logiques sigillaires et valorisation des territoires » dans
-L'écrivain comme marque
+Aïm Olivier, Depoux Anneliese, « Lécrivain à lenseigne de la ville : logiques sigillaires et valorisation des territoires » dans
+Lécrivain comme marque
 , Sorbonne Université Presses, 2020.
-Aïm Olivier, « L'optique des fragments. Le texte entre transparence et opacité : à propos de Mallarmé, Benjamin et Barthes » dans
+Aïm Olivier, « Loptique des fragments. Le texte entre transparence et opacité : à propos de Mallarmé, Benjamin et Barthes » dans
 Textes, Fragmentation, Créativité II.
 , Peter Lang, pp.221-231, 2018.
 
@@ -77,30 +77,30 @@ Communication
 Aïm Olivier, Jacqueline Chervin, Perrine Boutin, Gustavo Gomez-Mejia, Jean-François Guennoc,
 Persistances benjaminiennes
 , Presses Universitaires de la Sorbonne Nouvelle, coll. « Théorème n°21 », 2014, 205 p.
-Chapitres d'ouvrage
+Chapitres douvrage
 Aïm Olivier, Lallement Emmanuelle, « Labels du patrimoine : une nouvelle dialectique entre art et économie ?» dans
 Les Labels dans le domaine du patrimoine culturel et naturel
 , Presses Universitaires de Rennes, pp.107-115, 2020.
 Aïm Olivier, « Sur les ateliers d’écriture au Celsa » dans
 Les Ateliers d’écriture et l’Oulipo
 , Hermann, pp.99-105, 2020, coll. « Cahier textuel »
-Aïm Olivier, Depoux Anneliese, « L'écrivain à l'enseigne de la ville : logiques sigillaires et valorisation des territoires » dans
-L'écrivain comme marque
+Aïm Olivier, Depoux Anneliese, « Lécrivain à lenseigne de la ville : logiques sigillaires et valorisation des territoires » dans
+Lécrivain comme marque
 , Sorbonne Université Presses, 2020.
-Aïm Olivier, « L'optique des fragments. Le texte entre transparence et opacité : à propos de Mallarmé, Benjamin et Barthes » dans
+Aïm Olivier, « Loptique des fragments. Le texte entre transparence et opacité : à propos de Mallarmé, Benjamin et Barthes » dans
 Textes, Fragmentation, Créativité II.
 , Peter Lang, pp.221-231, 2018.
 Articles
 « Roland Barthes contre Roland Barthes. La sémiologie au regard de ses démons »,
 Recherches Semiotiques Semiotic Inquiry
 , 2022.
-« Naissance de l'infodémiologie. Le cas de l'OMS : vers une nouvelle organisation mondiale de l'information sanitaire »,
+« Naissance de linfodémiologie. Le cas de lOMS : vers une nouvelle organisation mondiale de linformation sanitaire »,
 Questions de communication
 , 2022.
 « Les pratiques culturelles et médiatiques au regard des « revendications » expressives »,
-L'Observatoire, la revue des politiques culturelles
+LObservatoire, la revue des politiques culturelles
 , 2020, pp.7-10.
-« Des MOOC aux OC : Rhétoriques de l'ouverture »,
+« Des MOOC aux OC : Rhétoriques de louverture »,
 Questions de communication
 , 2019.
 « À propos des vidéos dans les Mooc : le dispositif de magistralité aux prises avec l’industrialisation des formats de la parole didactique »,
