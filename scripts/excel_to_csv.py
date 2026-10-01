@@ -2,19 +2,8 @@ import csv
 import os
 import pandas as pd
 
-EXCEL_FILE = './gripic_data.xlsx'  # Cambia por el nombre exacto de tu archivo Excel si es otro
+EXCEL_FILE = './gripic_data.xlsx'
 OUTPUT_DIR = './inputs/'
-
-
-def format_dates_in_df(df: pd.DataFrame) -> pd.DataFrame:
-    """Convierte todas las columnas con fechas al formato DD/MM/YYYY sin hora."""
-    for col in df.columns:
-        if 'date' in col.lower():
-            # Convertir a datetime forzando día primero (DD/MM/YYYY)
-            parsed = pd.to_datetime(df[col], dayfirst=True, errors='coerce')
-            # Formatear estrictamente a DD/MM/YYYY
-            df[col] = parsed.dt.strftime('%d/%m/%Y').fillna(df[col])
-    return df
 
 
 def convert_excel_to_csvs():
@@ -29,24 +18,28 @@ def convert_excel_to_csvs():
     print(f"Sheets found: {xls.sheet_names}")
 
     for sheet_name in xls.sheet_names:
-        df = pd.read_excel(xls, sheet_name=sheet_name)
-
-        df = format_dates_in_df(df)
+        # dtype=str lee el texto exacto sin alterar las fechas
+        df = pd.read_excel(xls, sheet_name=sheet_name, dtype=str)
+        df = df.fillna('')
 
         csv_filename = f"{sheet_name}.csv"
         csv_path = os.path.join(OUTPUT_DIR, csv_filename)
+
+        # SOLO calendar.csv requiere utf-8-sig para incluir el BOM '\ufeff'
+        # Las demás pestañas (como categories) requieren 'utf-8' estándar
+        encoding_type = 'utf-8-sig' if sheet_name == 'calendar' else 'utf-8'
 
         df.to_csv(
             csv_path,
             sep=';',
             index=False,
-            encoding='utf-8',
-            quoting=csv.QUOTE_MINIMAL  # O QUOTE_ALL si tu sistema lo requiere
+            encoding=encoding_type,
+            quoting=csv.QUOTE_MINIMAL
         )
 
-        print(f"Generated: '{csv_filename}' ({len(df)} rows)")
+        print(f"Generated: '{csv_filename}' using {encoding_type} ({len(df)} rows)")
 
-    print("\n¡Listo! El CSV se generó sin horas extra en las fechas.")
+    print("\n¡Completado con éxito!")
 
 
 if __name__ == '__main__':
