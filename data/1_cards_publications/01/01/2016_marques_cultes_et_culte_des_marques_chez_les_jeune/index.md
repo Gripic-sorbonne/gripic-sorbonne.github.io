@@ -1,5 +1,5 @@
 ---
-uuid: 5944563d-6e33-46fb-8157-6758f5ca6540
+uuid: 6036004f-d04c-449f-ae05-b35f1626b7ab
 title: "Marques cultes et culte des marques chez les jeunes : Penser l’adolescence avec la consommation"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

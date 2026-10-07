@@ -1,5 +1,5 @@
 ---
-uuid: 0f7af13e-99ae-42ad-9883-b56e27e87297
+uuid: d45dd57f-8096-4bf7-b6aa-0242930f10fc
 title: "Specimen"
 author: "Olivier AÏM, Pauline Escande"
 authors: "Olivier AÏM, Pauline Escande"

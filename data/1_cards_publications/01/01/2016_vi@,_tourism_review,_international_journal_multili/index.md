@@ -1,5 +1,5 @@
 ---
-uuid: 65a9bd37-1368-4f60-967c-d7239d16b340
+uuid: 6f01164d-da0a-4395-97c7-95b88798b21a
 title: "Vi@, Tourism Review, International journal Multilingual and interdisciplinary"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

@@ -1,5 +1,5 @@
 ---
-uuid: b4cfb45e-13fb-42c6-be19-5870a10bfc22
+uuid: 84aae50d-f0d0-4282-ad85-da96d02cd593
 title: "La revue des médias"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

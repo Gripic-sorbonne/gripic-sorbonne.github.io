@@ -1,5 +1,5 @@
 ---
-uuid: 6f49c176-5165-4f19-9f7d-c7828b6baa99
+uuid: 9d27b415-9f4b-4d7f-bc6d-2060b85dbfc3
 title: "L’éducation aux médias et à l’information au prisme de formes et écritures médiatiques renouvelées"
 author: "Thierry Devars"
 authors: "Thierry Devars"

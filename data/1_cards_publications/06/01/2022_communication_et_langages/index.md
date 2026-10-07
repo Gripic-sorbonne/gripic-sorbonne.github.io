@@ -1,5 +1,5 @@
 ---
-uuid: 2e3735db-72a5-4621-8337-ebb0c3228488
+uuid: 1d87b840-d89d-4dc0-9e40-25f3bd8a7b62
 title: "Communication et langages"
 author: "Alexandra Saemmer, Virginie Julliard"
 authors: "Alexandra Saemmer, Virginie Julliard"

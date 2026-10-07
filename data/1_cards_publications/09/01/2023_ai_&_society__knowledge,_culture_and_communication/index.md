@@ -1,5 +1,5 @@
 ---
-uuid: 88d94f70-d226-4677-9c2a-86fb1f1dc8c6
+uuid: 13353e3e-fb1e-4124-a8ab-626b29b01917
 title: "AI & Society: Knowledge, Culture and Communication"
 author: "Laurent Petit"
 authors: "Laurent Petit"

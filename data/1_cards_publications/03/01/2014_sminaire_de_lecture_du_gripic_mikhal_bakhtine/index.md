@@ -1,5 +1,5 @@
 ---
-uuid: a5c0c3f9-4090-4df1-9c33-975b4ac23f5a
+uuid: 3ed442ac-d628-4d48-a734-013fd382163f
 title: "Séminaire de lecture du GRIPIC ”Mikhaïl Bakhtine”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

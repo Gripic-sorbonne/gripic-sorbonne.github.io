@@ -1,5 +1,5 @@
 ---
-uuid: 776ae98a-9e1a-443d-aefa-c67ffc42be7d
+uuid: 06a43872-0ab9-40cf-820e-83d54caa465a
 title: "Mythologies de la transition"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

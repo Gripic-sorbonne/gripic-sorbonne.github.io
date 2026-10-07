@@ -1,5 +1,5 @@
 ---
-uuid: 6f7c068b-dab3-41b1-a1e3-767a02bd94da
+uuid: cae206ea-337a-4d93-ad84-83ddcbe2a7e5
 title: "Nuit debout, et maintenant ? Médias et (im)médiations"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

@@ -1,5 +1,5 @@
 ---
-uuid: 3cd5ecbb-80bd-4ffb-8dbf-dbb253f09d74
+uuid: 8fcd0cfa-2d56-4e35-a81d-0733ba88778f
 title: "50 ans de l’OULIPO. De la contrainte à l’œuvre, La Licorne"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

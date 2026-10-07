@@ -1,5 +1,5 @@
 ---
-uuid: 04100f68-57fe-454a-8947-7d380e3b934e
+uuid: e203e5f6-3f62-4527-81fe-7dc542922377
 title: "IIème Congrès International Bandes Dessinées et Humour Graphique"
 author: "Pauline Escande"
 authors: "Pauline Escande"

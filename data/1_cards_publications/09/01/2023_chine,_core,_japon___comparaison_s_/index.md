@@ -1,5 +1,5 @@
 ---
-uuid: 38da96bb-f286-4219-87f3-7f194777c28a
+uuid: c7ee5509-c43b-4007-9ae8-e6058bebdfb5
 title: "Chine, Corée, Japon : comparaison(s)"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

@@ -1,5 +1,5 @@
 ---
-uuid: fe856a31-fda7-4b63-9a5d-7898110363f3
+uuid: 3642da53-1c71-45a0-ac68-3fae08cc7ebf
 title: "Le numerique à l’ère des designs, de l’hypertexte à l’hyper-experience : actes de H2PTM’17, 18, 19 et 20 octobre 2017 à Aremberg Creative Mine [Valenciennes]"
 author: "Pauline Brouard, Marion Rollandin"
 authors: "Pauline Brouard, Marion Rollandin"

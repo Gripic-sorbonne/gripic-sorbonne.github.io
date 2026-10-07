@@ -1,5 +1,5 @@
 ---
-uuid: ace0f6ce-2abd-4298-bbc2-8faa0cf0a0bd
+uuid: b2102a7b-a0ec-434e-a7c8-52ae9aa5547f
 title: "Projections. Essais sur la photographie"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"

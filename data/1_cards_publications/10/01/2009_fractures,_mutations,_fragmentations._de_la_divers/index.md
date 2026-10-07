@@ -1,5 +1,5 @@
 ---
-uuid: b833f7ba-18f6-49e2-83c8-a758231fe639
+uuid: c156896c-1f22-456f-a43f-758d84cf3993
 title: "Fractures, mutations, fragmentations. De la diversité des cultures numériques"
 author: "Yanita Andonova"
 authors: "Yanita Andonova"

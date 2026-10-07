@@ -1,5 +1,5 @@
 ---
-uuid: 63d61fce-c875-47d5-a312-c642575f15f1
+uuid: c9829ab3-606f-4763-adee-eb1e91507459
 title: "La couverture de l’événement sur les chaînes d’information encontinu"
 author: "Thierry Devars"
 authors: "Thierry Devars"
