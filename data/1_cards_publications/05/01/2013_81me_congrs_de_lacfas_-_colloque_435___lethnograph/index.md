@@ -1,5 +1,5 @@
 ---
-uuid: 361ffa1b-24b2-4bbd-bdda-8a6523b5a1d7
+uuid: b305c545-f03c-4173-9903-7ef333a00276
 title: "81ème Congrès de l’ACFAS - Colloque 435 : l’ethnographie organisationnelle pratiques émergentes et contributions"
 author: "Julien Tassel"
 authors: "Julien Tassel"

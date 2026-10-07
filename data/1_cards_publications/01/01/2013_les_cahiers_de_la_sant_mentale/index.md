@@ -1,5 +1,5 @@
 ---
-uuid: eae7dbaa-b4b3-4766-a6a1-c2c69ed2a54f
+uuid: daef18ef-1706-4c11-b756-e92f457f5a55
 title: "les Cahiers de la Santé mentale"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

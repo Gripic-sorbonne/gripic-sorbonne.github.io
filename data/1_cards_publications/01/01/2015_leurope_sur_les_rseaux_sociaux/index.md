@@ -1,5 +1,5 @@
 ---
-uuid: c2a93704-e59d-4619-84eb-69a4dda2d32a
+uuid: 2bd77404-1231-4842-845f-c38520c0837f
 title: "L’Europe sur les réseaux sociaux"
 author: "Valerie Jeanne Perrier, Sandrine Roginsky"
 authors: "Valerie Jeanne Perrier, Sandrine Roginsky"

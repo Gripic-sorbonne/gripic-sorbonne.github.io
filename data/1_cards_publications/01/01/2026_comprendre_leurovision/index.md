@@ -1,5 +1,5 @@
 ---
-uuid: 06244273-fbdd-48b3-8673-619cf1de10ba
+uuid: ed5e0a97-5366-4cfa-a8b6-3c8e8d16cc9c
 title: "Comprendre l’Eurovision"
 author: "Thibault Grison"
 authors: "Thibault Grison"

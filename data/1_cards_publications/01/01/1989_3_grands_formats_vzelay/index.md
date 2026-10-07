@@ -1,5 +1,5 @@
 ---
-uuid: 648fa53b-530d-48ed-91bc-f36fb5f8d274
+uuid: 74fc7976-55cb-42fe-bc41-9045001afacc
 title: "3 Grands Formats à Vézelay"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

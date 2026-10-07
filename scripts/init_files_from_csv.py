@@ -4,6 +4,7 @@ import os
 import re
 import shutil
 import uuid
+import unicodedata
 
 DATA_DIR: Path = Path("../") / "data" 
 MEMBER_DIR: Path = DATA_DIR / '0_longcards_membres'
@@ -18,7 +19,7 @@ PUB_DEFAULT_IMAGE_PATH = "./no_img.webp"
 IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
 PRIORITY_MEMBERS = [
     "Nelly Quemener",
-    "Valérie Jeanne-Perier"
+    "Valérie Jeanne-Perrier"
 ]
 
 def get_last_name(full_name: str) -> str:
@@ -236,6 +237,63 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
 
 
 
+# def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", position_header: str = "Fonction", photo_header: str = "Photo"):
+#     global MEMBER_DIR
+    
+#     with open(csv_file, mode="r", encoding="utf-8") as f:
+#         reader = list(csv.DictReader(f, delimiter=";"))
+
+#     priority_rows = []
+#     general_rows = []
+
+#     norm_priority = [clean_folder_name(p) for p in PRIORITY_MEMBERS]
+
+#     for row in reader:
+#         name = row[main_header].strip()
+#         norm_name = clean_folder_name(name)
+
+#         if norm_name in norm_priority:
+#             idx = norm_priority.index(norm_name)
+#             priority_rows.append((idx, row))
+#         else:
+#             general_rows.append(row)
+
+#     priority_rows.sort(key=lambda x: x[0])
+#     ordered_priority = [r[1] for r in priority_rows]
+
+#     general_rows.sort(key=lambda r: get_last_name(r[main_header]).lower())
+
+#     all_ordered_members = ordered_priority + general_rows
+
+#     for idx, row in enumerate(all_ordered_members, start=1):
+#         member_name: str = row[main_header].strip()
+        
+#         prefix = f"{idx:02d}"
+#         clean_name_slug = "_".join(member_name.split()).lower()
+#         folder_name = f"{prefix}_{clean_name_slug}"
+
+#         member_subdir: Path = MEMBER_DIR / folder_name
+#         member_subdir.mkdir(parents=True, exist_ok=True)
+
+#         if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
+#             shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
+#         else:
+#             shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
+
+#         with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
+#             md_file.write(generate_markdown_page_member(member_dict=row,
+#                                                         main_header=main_header, 
+#                                                         position_header=position_header, 
+#                                                         photo_header=photo_header))
+
+
+
+def normalize_for_match(s: str) -> set:
+    s = unicodedata.normalize('NFD', s)
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    return set(re.findall(r'[a-z0-9]+', s.lower()))
+
+
 def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", position_header: str = "Fonction", photo_header: str = "Photo"):
     global MEMBER_DIR
     
@@ -245,15 +303,20 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
     priority_rows = []
     general_rows = []
 
-    norm_priority = [clean_folder_name(p) for p in PRIORITY_MEMBERS]
+    norm_priority = [normalize_for_match(p) for p in PRIORITY_MEMBERS]
 
     for row in reader:
         name = row[main_header].strip()
-        norm_name = clean_folder_name(name)
+        name_tokens = normalize_for_match(name)
 
-        if norm_name in norm_priority:
-            idx = norm_priority.index(norm_name)
-            priority_rows.append((idx, row))
+        matched_idx = -1
+        for idx, p_tokens in enumerate(norm_priority):
+            if p_tokens and (p_tokens.issubset(name_tokens) or name_tokens.issubset(p_tokens)):
+                matched_idx = idx
+                break
+
+        if matched_idx != -1:
+            priority_rows.append((matched_idx, row))
         else:
             general_rows.append(row)
 
@@ -284,6 +347,10 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
                                                         main_header=main_header, 
                                                         position_header=position_header, 
                                                         photo_header=photo_header))
+
+
+
+
 
 
 

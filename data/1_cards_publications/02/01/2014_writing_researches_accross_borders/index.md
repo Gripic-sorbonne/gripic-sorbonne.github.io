@@ -1,5 +1,5 @@
 ---
-uuid: 8b19d34a-b7d2-4b2b-8839-9d1b79c3059d
+uuid: dce6af90-000e-448e-ade9-35d21337308f
 title: "Writing Researches Accross Borders"
 author: "François Allard-Huver, Nicholas Gilewicz"
 authors: "François Allard-Huver, Nicholas Gilewicz"

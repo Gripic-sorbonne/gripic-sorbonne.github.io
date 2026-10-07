@@ -1,5 +1,5 @@
 ---
-uuid: 2766eb16-eb6c-452c-8094-29a863ac8c69
+uuid: 8d3ca953-c212-43a2-8604-9ad98f7d741a
 title: "Second Annual Conference of the Memory Studies Association"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

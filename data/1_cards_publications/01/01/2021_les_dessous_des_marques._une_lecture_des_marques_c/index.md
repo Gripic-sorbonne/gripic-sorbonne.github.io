@@ -1,5 +1,5 @@
 ---
-uuid: d4d439e8-cf8b-4d2a-a0d2-2e095b3fc3b9
+uuid: aae70bc3-2a6d-4122-93b6-97dc8c4e80bc
 title: "Les dessous des marques. Une lecture des marques comme signes des mythes contemporains"
 author: "Caroline Marti"
 authors: "Caroline Marti"

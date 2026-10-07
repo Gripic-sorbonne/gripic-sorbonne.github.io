@@ -1,5 +1,5 @@
 ---
-uuid: 68bf0edf-af63-4457-bb38-fe7eca5a53f3
+uuid: 564dd8f6-024c-4773-9388-b7cfb41a40d5
 title: "Contredire l’entreprise"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

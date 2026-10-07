@@ -1,5 +1,5 @@
 ---
-uuid: 55168758-4601-4b16-9484-a7caed6984dc
+uuid: 005662cd-1fcc-45ae-9fba-413d51014094
 title: "III coloquio franco-latinoamericano de comunicacion empresarial"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

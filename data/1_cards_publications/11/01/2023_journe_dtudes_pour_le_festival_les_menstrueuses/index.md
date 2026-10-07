@@ -1,5 +1,5 @@
 ---
-uuid: ed9e7e33-0c2c-4ea1-a70d-91e79578a62f
+uuid: b2db9c36-5b67-43fa-a222-54e482dfc408
 title: "Journée d’études pour le Festival Les Menstrueuses"
 author: "Thibault Grison"
 authors: "Thibault Grison"

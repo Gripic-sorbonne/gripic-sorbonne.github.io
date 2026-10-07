@@ -1,5 +1,5 @@
 ---
-uuid: dcd8f379-8809-4ffa-84e2-a6ac775f88bc
+uuid: f84d0465-5ffd-406c-b448-e636c3f60dc0
 title: "Hermès, La Revue - Cognition, communication, politique"
 author: "Oriane Deseilligny, Franck Beau"
 authors: "Oriane Deseilligny, Franck Beau"

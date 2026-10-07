@@ -1,5 +1,5 @@
 ---
-uuid: 38d37cc2-cd1f-4094-b6b8-685473a966b0
+uuid: 132c44dc-98ed-4de5-87c1-b3e0e49b6bea
 title: "De l’institutionnalisation à la fictionnalisation du discours d’expertise :une forme d’engagement social de l’expert au sein d’une controverse socio-environnementale ?"
 author: "Barbara Losen, Cécile Do Huu"
 authors: "Barbara Losen, Cécile Do Huu"

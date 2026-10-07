@@ -1,5 +1,5 @@
 ---
-uuid: e034f754-c0d1-469c-a0b4-c21d03281c53
+uuid: 0ebb1b08-07cd-4ed7-b5bf-1f59be36e201
 title: "Entrelacs"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

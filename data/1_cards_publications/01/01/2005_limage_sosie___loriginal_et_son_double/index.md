@@ -1,5 +1,5 @@
 ---
-uuid: 3706e038-14e8-419d-b2a9-ec878b4b5d52
+uuid: 17a34907-c9ef-4b48-bc17-82c51e32e1ea
 title: "L’image sosie : l’original et son double"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 7d9483b7-cd8b-4df3-9bda-bb6368493a81
+uuid: 061567d6-cd34-4ffd-8d68-b41405de2ac8
 title: "Questionner l’internationalisation : cultures, acteurs, organisations, machines : actes du XIVe congrès national des sciences de l’information et de la communication"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"

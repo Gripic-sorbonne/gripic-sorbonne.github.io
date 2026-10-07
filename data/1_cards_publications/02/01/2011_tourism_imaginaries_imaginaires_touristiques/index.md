@@ -1,5 +1,5 @@
 ---
-uuid: de2112cc-52ce-4c73-b826-212296accb9e
+uuid: b7033f73-605e-4b0d-81b9-1705460b5b86
 title: "Tourism Imaginaries – Imaginaires touristiques"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

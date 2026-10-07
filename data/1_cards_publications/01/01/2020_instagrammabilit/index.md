@@ -1,5 +1,5 @@
 ---
-uuid: 4b84e152-b395-4302-8a2e-4c862679b618
+uuid: 173be6bd-31db-4b46-86a9-149207ac02f8
 title: "Instagrammabilité"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

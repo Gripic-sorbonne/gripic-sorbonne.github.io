@@ -1,0 +1,19 @@
+---
+uuid: 36503e7e-5ebd-4ffe-884f-ce7c8c364bdd
+prettyName: KenzaBenabdelouhab
+
+title: "Kenza Benabdelouhab"
+abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
+---
+
+<img src="./avatar.webp" width="200px" />
+
+## Informations et Contact
+
+ * **Profils:** [LinkedIn](https://www.linkedin.com/in/kenza-benabdelouhab-a25bb21a1/)
+
+## Thématiques de recherche
+
+ Direction de thèse :
+Virginie Julliard
+

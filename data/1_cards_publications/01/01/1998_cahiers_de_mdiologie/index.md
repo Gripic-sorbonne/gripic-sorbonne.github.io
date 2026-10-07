@@ -1,5 +1,5 @@
 ---
-uuid: c55b8fc2-e652-48e0-8428-63cef1841b74
+uuid: 4d741347-09cd-4ffb-b0e5-3070ff9b7bef
 title: "Cahiers de médiologie"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: c043323e-b8f1-46e7-9e30-f14f97af66e9
+uuid: 18689327-008b-4297-9dd3-da56e97a0cdc
 title: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme littéraire"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

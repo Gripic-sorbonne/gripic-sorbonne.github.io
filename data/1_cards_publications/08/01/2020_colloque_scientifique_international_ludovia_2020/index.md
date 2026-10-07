@@ -1,5 +1,5 @@
 ---
-uuid: 842f3aa2-052e-4984-8352-d0476616c4df
+uuid: cc2b4529-8e6d-49dd-88c3-5688e46f44e4
 title: "Colloque Scientifique International Ludovia 2020"
 author: "Susan Kovacs, Asmaa Azizi"
 authors: "Susan Kovacs, Asmaa Azizi"

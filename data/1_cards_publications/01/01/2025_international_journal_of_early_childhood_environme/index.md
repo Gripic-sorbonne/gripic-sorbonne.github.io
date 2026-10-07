@@ -1,5 +1,5 @@
 ---
-uuid: 02a6ccfd-b952-4e06-98bc-5b3bdf0a7e83
+uuid: d78a38e0-7717-41a0-898a-110e3c842dc6
 title: "International Journal of Early Childhood Environmental Education"
 author: "Louise Bouché, Jérémy Lucas-Boursier, Anne-Caroline Prévot"
 authors: "Louise Bouché, Jérémy Lucas-Boursier, Anne-Caroline Prévot"
