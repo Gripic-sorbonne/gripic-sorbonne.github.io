@@ -1,5 +1,5 @@
 ---
-uuid: 7d587653-b868-4555-9068-6496c0a94934
+uuid: 6b199314-83aa-4d4f-b733-fb03e62389ac
 prettyName: ThierryDevars
 
 title: "Thierry Devars"
@@ -50,7 +50,7 @@ Projets de recherche
 Membre du projet ANR TRACTIVE
 – 2022-2026
 TRACTIVE - TowaRds A Computational mulTImodal analysis of film discursiVe aEsthetics
-« Vers une analyse multimodale automatique de l'esthétique discursive filmique »
+« Vers une analyse multimodale automatique de lesthétique discursive filmique »
 Membre du projet TRANSNUM, SATS
 , Sorbonne-Université – 2017-2018
 Membre du projet DÉFI, programme Convergences
@@ -67,8 +67,8 @@ Devars Thierry, « La fabrique symbolique de l’objet Europe : enjeux communic
 Devars Thierry, « Élections présidentielles et information en continu : les mutations télévisées du récit de campagne », Télévision, 2017, n° 8, p.77-96.
 Devars Thierry, « Quand les Youtubeurs investissent le champ politique », Ina global.fr, 2017.
 Devars Thierry « Les vidéos politiques au prisme de la trivialité », Communications & langages, n° 185, 2015, n°185, p.89-106.
-Devars Thierry, « “Ces mots qui résonnent” : médiagénie du clash politique », Théorème : travaux de l'IRCAV, n°21, « Persistances benjaminiennes », Université de Paris, 2014, p.41-42.
-Devars Thierry, « Pour une poétique de l'“audiovitie” : l'impensé de la culture audiovisuelle. Le cas des vidéos politiques », Communication & langages, n°167, 2011, p.123-139.
+Devars Thierry, « “Ces mots qui résonnent” : médiagénie du clash politique », Théorème : travaux de lIRCAV, n°21, « Persistances benjaminiennes », Université de Paris, 2014, p.41-42.
+Devars Thierry, « Pour une poétique de l“audiovitie” : limpensé de la culture audiovisuelle. Le cas des vidéos politiques », Communication & langages, n°167, 2011, p.123-139.
 
 ## Chapitres d’ouvrage
 
@@ -85,11 +85,11 @@ Devars Thierry, « La vie triviale d’une image politique. La vidéo de Nicolas
 
  Devars Thierry, Kirèche-Gerwig Rym, « Colères politiques & élections », Colloque Communautés politiques, émotions & réactions, Maison de la Recherche, Faculté des Lettres, Sorbonne-Université, 13-14 juin 2024.
 Andolfi Léa, Devars Thierry, Julliard Virginie & Lécossais Sarah, « L’érotisation des rapports de genre dans la production audiovisuelle : annoter, contextualiser, interpréter avec des outils informatiques (ANR Tractive) », Séminaire Genre, Médias, Pouvoir, LIRCES, Université Côte d’Azur, MSH, Nice, le 12 avril 2024.
-Devars Thierry, « L'affaire Pierre Palmade : archéologie et enjeux sociopolitiques d'un emballement médiatique », Conférence invitée dans le cadre du cycle 2023-2024 Informer… sans déformer !, Université Populaire des Olonnes, Les Sables d’Olonne, le 10 avril 2024.
+Devars Thierry, « Laffaire Pierre Palmade : archéologie et enjeux sociopolitiques dun emballement médiatique », Conférence invitée dans le cadre du cycle 2023-2024 Informer… sans déformer !, Université Populaire des Olonnes, Les Sables d’Olonne, le 10 avril 2024.
 Devars Thierry, « Les ressources médiaculturelles des vidéos en ligne : un enjeu rhétorique pour la communication politique », Journée d’études L’État à l’ère numérique. Transformations, clivages, défis, Maison de la Recherche, Sorbonne Nouvelle, 20 septembre 2023.
 Devars Thierry, « Pour une approche sémio-communicationnelle de l’information politique », Journée d’études transdisciplinaire Autour de l’information, Collectif Sorbonne Actuelle, Maison de la recherche, Sorbonne Université, le 3 juin 2023.
 Devars Thierry, Regards sur l’unité « Cultures de la communication », PNF BTS Communication, Journée organisée par la DGESCO, Lycée Jean Zay, Paris, le 30 mars 2023.
-Devars Thierry, « Le traitement de l’actualité politique sur les chaînes d’information en continu : rhétorique de l’événement et passions politiques », Journée d’études La circulation des idées d'extrême-droite, Université Sorbonne-Nouvelle, Paris, Juillet 2022.
+Devars Thierry, « Le traitement de l’actualité politique sur les chaînes d’information en continu : rhétorique de l’événement et passions politiques », Journée d’études La circulation des idées dextrême-droite, Université Sorbonne-Nouvelle, Paris, Juillet 2022.
 Devars Thierry, Kirèche-Gerwig Rym, « Des ronds-points au Capitole : narratogénie des colères politiques », colloque international Violences et médias, ICP, Paris, 2 juin 2022.
 Devars Thierry, « Le parti-pris du rire : éthique et esthétique des mèmes politiques », colloque international Le pouvoir du rire – Rire du pouvoir : humour, discours et politique, Craiova, Roumanie, Mai 2022.
 Chervin Jacqueline, Devars Thierry, « Formes et écritures médiatiques actuelles : les médias audiovisuels », Journée d’études L’éducation aux médias et à l’information au prisme de formes et écritures médiatiques renouvelées, INSPE/CELSA Sorbonne Université, Paris, le 25 février 2019.
@@ -116,7 +116,7 @@ Devars Thierry, « Ce que l’information en continu fait à la communication p
  Membre du projet ANR TRACTIVE
 – 2022-2026
 TRACTIVE - TowaRds A Computational mulTImodal analysis of film discursiVe aEsthetics
-« Vers une analyse multimodale automatique de l'esthétique discursive filmique »
+« Vers une analyse multimodale automatique de lesthétique discursive filmique »
 Membre du projet TRANSNUM, SATS
 , Sorbonne-Université – 2017-2018
 Membre du projet DÉFI, programme Convergences
@@ -147,16 +147,16 @@ Devars Thierry, « La fabrique symbolique de l’objet Europe : enjeux communic
 Devars Thierry, « Élections présidentielles et information en continu : les mutations télévisées du récit de campagne », Télévision, 2017, n° 8, p.77-96.
 Devars Thierry, « Quand les Youtubeurs investissent le champ politique », Ina global.fr, 2017.
 Devars Thierry « Les vidéos politiques au prisme de la trivialité », Communications & langages, n° 185, 2015, n°185, p.89-106.
-Devars Thierry, « “Ces mots qui résonnent” : médiagénie du clash politique », Théorème : travaux de l'IRCAV, n°21, « Persistances benjaminiennes », Université de Paris, 2014, p.41-42.
-Devars Thierry, « Pour une poétique de l'“audiovitie” : l'impensé de la culture audiovisuelle. Le cas des vidéos politiques », Communication & langages, n°167, 2011, p.123-139.
+Devars Thierry, « “Ces mots qui résonnent” : médiagénie du clash politique », Théorème : travaux de lIRCAV, n°21, « Persistances benjaminiennes », Université de Paris, 2014, p.41-42.
+Devars Thierry, « Pour une poétique de l“audiovitie” : limpensé de la culture audiovisuelle. Le cas des vidéos politiques », Communication & langages, n°167, 2011, p.123-139.
 Communications et interventions
 Devars Thierry, Kirèche-Gerwig Rym, « Colères politiques & élections », Colloque Communautés politiques, émotions & réactions, Maison de la Recherche, Faculté des Lettres, Sorbonne-Université, 13-14 juin 2024.
 Andolfi Léa, Devars Thierry, Julliard Virginie & Lécossais Sarah, « L’érotisation des rapports de genre dans la production audiovisuelle : annoter, contextualiser, interpréter avec des outils informatiques (ANR Tractive) », Séminaire Genre, Médias, Pouvoir, LIRCES, Université Côte d’Azur, MSH, Nice, le 12 avril 2024.
-Devars Thierry, « L'affaire Pierre Palmade : archéologie et enjeux sociopolitiques d'un emballement médiatique », Conférence invitée dans le cadre du cycle 2023-2024 Informer… sans déformer !, Université Populaire des Olonnes, Les Sables d’Olonne, le 10 avril 2024.
+Devars Thierry, « Laffaire Pierre Palmade : archéologie et enjeux sociopolitiques dun emballement médiatique », Conférence invitée dans le cadre du cycle 2023-2024 Informer… sans déformer !, Université Populaire des Olonnes, Les Sables d’Olonne, le 10 avril 2024.
 Devars Thierry, « Les ressources médiaculturelles des vidéos en ligne : un enjeu rhétorique pour la communication politique », Journée d’études L’État à l’ère numérique. Transformations, clivages, défis, Maison de la Recherche, Sorbonne Nouvelle, 20 septembre 2023.
 Devars Thierry, « Pour une approche sémio-communicationnelle de l’information politique », Journée d’études transdisciplinaire Autour de l’information, Collectif Sorbonne Actuelle, Maison de la recherche, Sorbonne Université, le 3 juin 2023.
 Devars Thierry, Regards sur l’unité « Cultures de la communication », PNF BTS Communication, Journée organisée par la DGESCO, Lycée Jean Zay, Paris, le 30 mars 2023.
-Devars Thierry, « Le traitement de l’actualité politique sur les chaînes d’information en continu : rhétorique de l’événement et passions politiques », Journée d’études La circulation des idées d'extrême-droite, Université Sorbonne-Nouvelle, Paris, Juillet 2022.
+Devars Thierry, « Le traitement de l’actualité politique sur les chaînes d’information en continu : rhétorique de l’événement et passions politiques », Journée d’études La circulation des idées dextrême-droite, Université Sorbonne-Nouvelle, Paris, Juillet 2022.
 Devars Thierry, Kirèche-Gerwig Rym, « Des ronds-points au Capitole : narratogénie des colères politiques », colloque international Violences et médias, ICP, Paris, 2 juin 2022.
 Devars Thierry, « Le parti-pris du rire : éthique et esthétique des mèmes politiques », colloque international Le pouvoir du rire – Rire du pouvoir : humour, discours et politique, Craiova, Roumanie, Mai 2022.
 Chervin Jacqueline, Devars Thierry, « Formes et écritures médiatiques actuelles : les médias audiovisuels », Journée d’études L’éducation aux médias et à l’information au prisme de formes et écritures médiatiques renouvelées, INSPE/CELSA Sorbonne Université, Paris, le 25 février 2019.

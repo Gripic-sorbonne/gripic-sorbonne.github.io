@@ -1,12 +1,12 @@
 ---
-uuid: 6de76613-b1b2-42c0-b64f-ad8ac7302f01
+uuid: 3ac1e379-cd1b-4470-a3ad-fcd225af3e70
 title: "Axes de recherche"
 ---
 # Thématiques de recherche
 
 ## Les axes de recherches du GRIPIC
 
-Les chercheurs et chercheuses du GRIPIC s'intéressent aux rôles que jouent les processus d'information et de communication dans la vie sociale, dans le monde marchand et culturel, dans les médias et l'espace politique. Ils étudient les lignes de force et les métamorphoses des pratiques d'information et de communication en s'appuyant sur le savoir-faire du CELSA dans ces domaines. Ils ont choisi de fédérer leurs travaux autour de quatre axes de recherche.
+Les chercheurs et chercheuses du GRIPIC sintéressent aux rôles que jouent les processus dinformation et de communication dans la vie sociale, dans le monde marchand et culturel, dans les médias et lespace politique. Ils étudient les lignes de force et les métamorphoses des pratiques dinformation et de communication en sappuyant sur le savoir-faire du CELSA dans ces domaines. Ils ont choisi de fédérer leurs travaux autour de quatre axes de recherche.
 
 ### Savoirs, culture, patrimoines
 
@@ -18,7 +18,7 @@ Au sein de cet axe, les recherches portent sur la marque, la publicité, la dép
 
 ### Journalisme, écritures médiatiques et numériques
 
-L’axe de recherche « Journalisme, écritures médiatiques et numériques » réunit des travaux consacrés aux métiers, pratiques et enjeux du journalisme , à l'analyse des médias (TV, radio, presse) et du numérique (médias numériques, réseaux sociaux numérique, intelligence artificielle), à la communication et la transition environnementale, l'emballement, la controverse, les fake news, les rumeurs, le conspirationnisme, les théories de la surveillance, l'IA et journalisme, les réseaux sociaux numériques.
+L’axe de recherche « Journalisme, écritures médiatiques et numériques » réunit des travaux consacrés aux métiers, pratiques et enjeux du journalisme , à lanalyse des médias (TV, radio, presse) et du numérique (médias numériques, réseaux sociaux numérique, intelligence artificielle), à la communication et la transition environnementale, lemballement, la controverse, les fake news, les rumeurs, le conspirationnisme, les théories de la surveillance, lIA et journalisme, les réseaux sociaux numériques.
 
 ### Espace public, politique, genre
 
@@ -26,4 +26,4 @@ Cet axe de recherche porte sur les controverses médiatiques, la communication p
 
 ### Enjeux de communication et relations de travail
 
-Cette ancienne thématique de recherche n'est plus développée au sein du GRIPIC mais les publications liées à cette thématique restent disponibles.
+Cette ancienne thématique de recherche nest plus développée au sein du GRIPIC mais les publications liées à cette thématique restent disponibles.

@@ -1,5 +1,5 @@
 ---
-uuid: d849576a-da4b-4436-b28a-968f599ae171
+uuid: 2ca0e0b8-29d5-4b49-a9de-9431d173de72
 prettyName: ÉmelineSeignobos
 
 title: "Émeline Seignobos"
@@ -17,10 +17,10 @@ abstract: "Chercheuse | Membre associé"
 
  Discipline
 : Rhétorique
-Activité d'enseignement
+Activité denseignement
 : Cours de FLE,fondation Sorbon
 
 ## Thématiques de recherche
 
- Dynamiques de communication dans l'espace public
+ Dynamiques de communication dans lespace public
 

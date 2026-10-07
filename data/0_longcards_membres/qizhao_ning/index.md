@@ -1,5 +1,5 @@
 ---
-uuid: e618abd4-0b65-4d97-90b8-19e0898f6702
+uuid: efd4bd4a-2259-4fcd-ae9c-72aec82200f1
 prettyName: QizhaoNING
 
 title: "Qizhao NING"
@@ -15,5 +15,5 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Sujet de thèse
-Transformation numérique : symboles culturels et construction de l'identité des jeunes dans le cas des programmes de divertissement de la télévision de service public
+Transformation numérique : symboles culturels et construction de lidentité des jeunes dans le cas des programmes de divertissement de la télévision de service public
 

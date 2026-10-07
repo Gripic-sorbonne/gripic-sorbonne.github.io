@@ -1,5 +1,5 @@
 ---
-uuid: 590cd906-abbd-4ab2-93e3-8c17d38ca92d
+uuid: 469972e9-69d7-47f3-a311-957480dc29fa
 prettyName: AnitaSalehBolourdi
 
 title: "Anita Saleh Bolourdi"
@@ -16,7 +16,7 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication
 Sujet de recherche

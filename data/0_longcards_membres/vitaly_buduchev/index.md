@@ -1,5 +1,5 @@
 ---
-uuid: c1b3eeb4-d13d-4a16-aa5b-091111a6ed29
+uuid: 96e90e75-2793-4065-bd0a-6f7c2225bd04
 prettyName: VitalyBuduchev
 
 title: "Vitaly Buduchev"
@@ -20,7 +20,7 @@ abstract: "Chercheur | Membre associé"
 Formes et écritures médiatiques
 Enjeux de communication et relations de travail
 Titre de thèse
-: La fabrique médiatique des élections biélorusses: la lecture nationale de l'événement et les représentations transnationales à l'épreuve des dynamiques coopératives
+: La fabrique médiatique des élections biélorusses: la lecture nationale de lévénement et les représentations transnationales à lépreuve des dynamiques coopératives
 Mots-clés
 : Histoire des journalismes russe et français ; Cultures nationale, professionnelle et transnationale ; Identité des journalistes ; Coopération avec les sources ; Chaînes de coopération ; Discours de la presse écrite ; Enonciation éditoriale ; Presse de réf
 Directeur de thèse

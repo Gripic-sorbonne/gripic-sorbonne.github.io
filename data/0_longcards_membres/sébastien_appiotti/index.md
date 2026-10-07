@@ -1,5 +1,5 @@
 ---
-uuid: b3f1351c-263b-4d30-a0a6-fc683fa860cc
+uuid: f12dc67d-f85e-41d4-8e99-6db82b8b00f6
 prettyName: SébastienAppiotti
 
 title: "Sébastien Appiotti"
@@ -110,7 +110,7 @@ s, données et économie numérique dans l’espace francophone
 
 ## Communications et interventions
 
- Appiotti Sébastien, Bolz Lisa, Boittiaux Johan, Neuvillers Marie-Caroline. Mutations dans la couverture médiatique du Concours Eurovision de la Chanson en France (presse écrite, radio, télévision - 2000-2024). Séminaire de recherche « Penser l'Eurovision », avril 2025, Paris, Maison de la recherche Lettres Sorbonne Université.
+ Appiotti Sébastien, Bolz Lisa, Boittiaux Johan, Neuvillers Marie-Caroline. Mutations dans la couverture médiatique du Concours Eurovision de la Chanson en France (presse écrite, radio, télévision - 2000-2024). Séminaire de recherche « Penser lEurovision », avril 2025, Paris, Maison de la recherche Lettres Sorbonne Université.
 Appiotti Sébastien, « Pratiquer les images en SIC : approches situées, bricolages et terrains »,
 Journée d’étude « Les Images dans la recherche en sciences humaines e
 t sociales. Pratiques de chercheurs, techniques, méthodologies »
@@ -285,7 +285,7 @@ Communication.
 Dossier thématique coordonné par Yanita Andonova et Anne-France Kogan, « De quoi la créativité est-elle le nom ? », n°36, 2019, URL :
 https://doi.org/10.4000/communication.10057
 Communications et interventions
-Appiotti Sébastien, Bolz Lisa, Boittiaux Johan, Neuvillers Marie-Caroline. Mutations dans la couverture médiatique du Concours Eurovision de la Chanson en France (presse écrite, radio, télévision - 2000-2024). Séminaire de recherche « Penser l'Eurovision », avril 2025, Paris, Maison de la recherche Lettres Sorbonne Université.
+Appiotti Sébastien, Bolz Lisa, Boittiaux Johan, Neuvillers Marie-Caroline. Mutations dans la couverture médiatique du Concours Eurovision de la Chanson en France (presse écrite, radio, télévision - 2000-2024). Séminaire de recherche « Penser lEurovision », avril 2025, Paris, Maison de la recherche Lettres Sorbonne Université.
 Appiotti Sébastien, « Pratiquer les images en SIC : approches situées, bricolages et terrains »,
 Journée d’étude « Les Images dans la recherche en sciences humaines e
 t sociales. Pratiques de chercheurs, techniques, méthodologies »

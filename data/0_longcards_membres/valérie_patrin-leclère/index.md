@@ -1,5 +1,5 @@
 ---
-uuid: c839b291-8ae4-4998-ae79-a0637b57f990
+uuid: d7a516c3-1d08-4348-96bb-200022cbbfd1
 prettyName: ValériePatrinLeclère
 
 title: "Valérie Patrin-Leclère"
@@ -15,7 +15,7 @@ abstract: "Maitresse de conférences | Membre permanent en enseignement et reche
 
 ## Expertises
 
- L'entrepreneuriat dans le domaine des médias.
+ Lentrepreneuriat dans le domaine des médias.
 
 ## Thématiques de recherche
 

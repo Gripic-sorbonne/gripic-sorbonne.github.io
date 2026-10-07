@@ -1,5 +1,5 @@
 ---
-uuid: b4325b33-b5a1-442c-957c-d1baa2559640
+uuid: e0b26939-6f92-4cf9-bf80-35747f9bd590
 prettyName: JohannaCappi
 
 title: "Johanna Cappi"
@@ -27,18 +27,18 @@ Cahiers Armand Gatti, 2013, 4. ⟨hal-05605811⟩
 
  Rayonnement et attractivité académique (Organisation de colloques…) (Activité de recherche)
 "L’Orient d’Alexandra David-Néel (1911-1946) : des dispositifs aux discours viatiques (mystiques et politiques)"
-Atelier doctoral de recherche dirigé par Catalina GIRBEA Professeure de l'Université de Bucarest, CEREFREA Villa Noel [accueil en résidence]
+Atelier doctoral de recherche dirigé par Catalina GIRBEA Professeure de lUniversité de Bucarest, CEREFREA Villa Noel [accueil en résidence]
 Johanna Cappi, 2017
-Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
+Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
 Cérémonie des Prix Albert Londres 2020 & Live Magazine
-Conseillère historique & Consultante sur l'écriture du Live Magazine de la Cérémonie des Prix Albert Londres 2020
+Conseillère historique & Consultante sur lécriture du Live Magazine de la Cérémonie des Prix Albert Londres 2020
 Johanna Cappi, 2020
-Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
+Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
 La pratique du reportage. Entretien avec Anne Nivat. "Médias et informations", Editions Nathan international, coll. "Futur simple"
 Français 2nde-collection "Futur simple", mars 2016, p.16, 17
 Johanna Cappi, 2021
-Interactions avec l'environnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée d'études…) (Activité de recherche)
-De la Mer Rouge au Golfe Persique, le long des pêcheries de perles. L'enquête d'Albert Londres sur la traite des esclaves au Royaume d'Ibn Séoud, à partir de sa production photographique en 193O (ou le récit des archives)
+Interactions avec lenvironnement social, économique et culturel (Notamment contrats de recherche, rencontre, journée détudes…) (Activité de recherche)
+De la Mer Rouge au Golfe Persique, le long des pêcheries de perles. Lenquête dAlbert Londres sur la traite des esclaves au Royaume dIbn Séoud, à partir de sa production photographique en 193O (ou le récit des archives)
 Rencontres Albert Londres 2021 "En Arabie : Exodes et trafics" - Maison Albert Londres, Vichy
 Johanna Cappi, 2021
 Autre (Activité de recherche)
@@ -59,21 +59,21 @@ Presses Universitaires du Septentrion. Cinémas libertaires : au service des for
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de l'information et de la communication
+: Sciences de linformation et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Formes et écritures médiatiques
 Titre de thèse
-: Le grand reportage : formes historiques, littéraires et médiatiques de l'enquête. Les exemples d'Albert Londres et de ses successeurs
+: Le grand reportage : formes historiques, littéraires et médiatiques de lenquête. Les exemples dAlbert Londres et de ses successeurs
 Mots-clés
 : grand reportage, enquête, factographie, voyage, long format, Albert Londres, Prix Albert Londres, récit, documentaire, témoignage, subjectivité, engagement, cinéma
 Directeur de thèse
 : Denis Ruellan et Dominique Kalifa
 Présentation / parcours
-: Directrice de la rédaction des Cahiers Albert Londres. Membre du CA de l'Atelier Albert Londres en collaboration avec Association du Prix Albert Londres (Paris) & Maison Albert Londres (Vichy)
+: Directrice de la rédaction des Cahiers Albert Londres. Membre du CA de lAtelier Albert Londres en collaboration avec Association du Prix Albert Londres (Paris) & Maison Albert Londres (Vichy)
 
 ## Transmission médiatique et expression visuelle. Enjeux de représentation, (se) documenter, rapporter/informer sur le conflit israélo-palestinien
 
  Johanna Cappi
 Deux exemples de processus en immersion la caméra au poing : Rafah, chronique d’une ville dans la bande de Gaza (prix Albert Londres 2008) et Rue Abou Jamil (2009)
-Mutations de l’image documentaire, Institut national d'histoire de l'art - LabEx CAP Création Art Patrimoine, Jun 2014, Paris, France. ⟨hal-03773311⟩
+Mutations de l’image documentaire, Institut national dhistoire de lart - LabEx CAP Création Art Patrimoine, Jun 2014, Paris, France. ⟨hal-03773311⟩
 

@@ -1,5 +1,5 @@
 ---
-uuid: c7f0a0bd-788b-491a-966a-cadf3d4894fd
+uuid: 27b97add-e2d7-4f48-ad82-416645dbdf23
 prettyName: AlenaBalouzat
 
 title: "Alena Balouzat"
@@ -20,7 +20,7 @@ Communication de crise et organisation
 Conflit, négociation et organisation
 Culture organisationnelle et communication
 Discours et pratiques discursives dans les organisations
-Nouvelles formes d'organisation
+Nouvelles formes dorganisation
 Gestion du changement organisationnel
 Direction de thèse :
 Sophie Corbillé et Julien Tassel

@@ -1,5 +1,5 @@
 ---
-uuid: 5bd7646a-93c0-44b8-badf-fb340b83257d
+uuid: eabc836d-f903-4d01-a7a2-b2b01281b5e2
 prettyName: PergiaGkouskou
 
 title: "Pergia Gkouskou"
@@ -21,9 +21,9 @@ abstract: "Maitresse de conférences | Membre associé"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de l'Information et de la Communication
+: Sciences de lInformation et de la Communication
 Institution de rattachement
 : UCA
 Thématiques de recherche
-: Cultures, savoirs et communication, Formes et écritures médiatiques, Dynamiques de communication dans l'espace public
+: Cultures, savoirs et communication, Formes et écritures médiatiques, Dynamiques de communication dans lespace public
 

@@ -1,5 +1,5 @@
 ---
-uuid: c3cc8e02-7818-4255-9c23-b37920e4017d
+uuid: 19dc05e5-d198-4455-9a4d-ef6d39dff5df
 title: "Activités internationales du GRIPIC"
 abstract: ""
 url: ""
@@ -12,9 +12,9 @@ url: ""
 Le GRIPIC inscrit ses activités dans le cadre d’échanges internationaux permanents, en accueillant des chercheurs et chercheuses étrangers, et en favorisant des séjours de ses membres dans des universités étrangères :
 
 - **Accueil de chercheurs invités et chercheuses invitées**
-- **Accueil de chercheurs et chercheuses du programme PAUSE**, notamment de Turquie (Programme national d'aide à l'Accueil en Urgence des Scientifiques et des artistes en Exil, créé en 2017)
+- **Accueil de chercheurs et chercheuses du programme PAUSE**, notamment de Turquie (Programme national daide à lAccueil en Urgence des Scientifiques et des artistes en Exil, créé en 2017)
 - **Accueil de doctorants et doctorantes en résidence**
-- **Inscription d’étudiants et d'étudiantes étrangers en thèse**
+- **Inscription d’étudiants et détudiantes étrangers en thèse**
 
 ## Séjours courts à l’étranger
 

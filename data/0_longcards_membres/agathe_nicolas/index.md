@@ -1,5 +1,5 @@
 ---
-uuid: 8f462369-d5b8-450e-a562-b83be64e7161
+uuid: 6931f4ac-efc2-4cc7-a522-ea6b98dca592
 prettyName: AgatheNicolas
 
 title: "Agathe Nicolas"
@@ -22,10 +22,10 @@ NICOLAS Agathe, entrée « Transmédia, création et re-création », répertoir
 
 ## Communications et interventions
 
- NICOLAS Agathe « Le débat sur le fait historique comme prétexte à la production d'un savoir sur la fiction : le cas du forum d'échanges "la gazette du sorcier" (Harry Potter) », Colloque « Enfance et histoire : cultures et pratiques enfantines du passé », Maison de la Recherche de la Faculté des Lettres de Sorbonne-Université, initialement prévu les 23 et 24 avril 2020, reporté aux 8 et 9 avril 2021
+ NICOLAS Agathe « Le débat sur le fait historique comme prétexte à la production dun savoir sur la fiction : le cas du forum déchanges "la gazette du sorcier" (Harry Potter) », Colloque « Enfance et histoire : cultures et pratiques enfantines du passé », Maison de la Recherche de la Faculté des Lettres de Sorbonne-Université, initialement prévu les 23 et 24 avril 2020, reporté aux 8 et 9 avril 2021
 NICOLAS Agathe, « Pottermore à la loupe », Podcast l’Académie des Sorciers, 26 septembre 2021, disponible sur Spotify
 NICOLAS Agathe, « Pottermore: A New Way of Spreading the Fiction or a Part of a Lockout Strategy ? » , Groupe de recherche « Harry Potter Studies », Colloque SWPACA (South West Popular/American Culture Association), février 2018, Albuquerque, Etats-Unis
-NICOLAS Agathe, « "From the 'book to read' to the 'book to collect" : Harry Potter and the french editor's digital platforms », Groupe de recherche Publishing Studies Conference, Conférence « By the Book3 : Building Audiences for the Book in an Age of Media Proliferation », juin 2016, Villa Finaly, Florence, Italie
+NICOLAS Agathe, « "From the book to read to the book to collect" : Harry Potter and the french editors digital platforms », Groupe de recherche Publishing Studies Conference, Conférence « By the Book3 : Building Audiences for the Book in an Age of Media Proliferation », juin 2016, Villa Finaly, Florence, Italie
 MORET Ugo, NICOLAS Agathe, « Liens entre auctorialité et processus de légitimation, Foucault et Barthes », Séminaire « Légitimité, légitimation », GRIPIC, CELSA Sorbonne Université, février 2016
 
 ## Expertises
@@ -39,10 +39,10 @@ MORET Ugo, NICOLAS Agathe, « Liens entre auctorialité et processus de légitim
 ## Publications et communications
 
  Communications et interventions
-NICOLAS Agathe « Le débat sur le fait historique comme prétexte à la production d'un savoir sur la fiction : le cas du forum d'échanges "la gazette du sorcier" (Harry Potter) », Colloque « Enfance et histoire : cultures et pratiques enfantines du passé », Maison de la Recherche de la Faculté des Lettres de Sorbonne-Université, initialement prévu les 23 et 24 avril 2020, reporté aux 8 et 9 avril 2021
+NICOLAS Agathe « Le débat sur le fait historique comme prétexte à la production dun savoir sur la fiction : le cas du forum déchanges "la gazette du sorcier" (Harry Potter) », Colloque « Enfance et histoire : cultures et pratiques enfantines du passé », Maison de la Recherche de la Faculté des Lettres de Sorbonne-Université, initialement prévu les 23 et 24 avril 2020, reporté aux 8 et 9 avril 2021
 NICOLAS Agathe, « Pottermore à la loupe », Podcast l’Académie des Sorciers, 26 septembre 2021, disponible sur Spotify
 NICOLAS Agathe, « Pottermore: A New Way of Spreading the Fiction or a Part of a Lockout Strategy ? » , Groupe de recherche « Harry Potter Studies », Colloque SWPACA (South West Popular/American Culture Association), février 2018, Albuquerque, Etats-Unis
-NICOLAS Agathe, « "From the 'book to read' to the 'book to collect" : Harry Potter and the french editor's digital platforms », Groupe de recherche Publishing Studies Conference, Conférence « By the Book3 : Building Audiences for the Book in an Age of Media Proliferation », juin 2016, Villa Finaly, Florence, Italie
+NICOLAS Agathe, « "From the book to read to the book to collect" : Harry Potter and the french editors digital platforms », Groupe de recherche Publishing Studies Conference, Conférence « By the Book3 : Building Audiences for the Book in an Age of Media Proliferation », juin 2016, Villa Finaly, Florence, Italie
 MORET Ugo, NICOLAS Agathe, « Liens entre auctorialité et processus de légitimation, Foucault et Barthes », Séminaire « Légitimité, légitimation », GRIPIC, CELSA Sorbonne Université, février 2016
 
 ## Thématiques de recherche

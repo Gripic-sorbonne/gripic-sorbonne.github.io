@@ -1,5 +1,5 @@
 ---
-uuid: f369147d-cc28-43bc-9037-885121ddcacd
+uuid: cc354483-d841-4b9f-9d36-39e3930c96bb
 prettyName: TitoLignon
 
 title: "Tito Lignon"
@@ -14,5 +14,5 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 
 ## Thématiques de recherche
 
- Ma recherche se veut une exploration approfondie et nuancée des enjeux de la transformation numérique dans le domaine patrimonial, avec une perspective critique et réflexive sur ses implications pour la société. Nous nous pencherons notamment sur les enjeux de la numérisation et de l'interopérabilité des collections patrimoniales, les stratégies de conception des dispositifs numériques et leur adéquation avec les publics, ainsi que sur les implications éthiques et politiques de l'utilisation de l'IA et du machine learning dans le domaine patrimonial. En outre, nous nous pencherons sur l'aspect cognitif de ces outils, en étudiant les émotions et les attitudes des visiteurs face aux nouvelles expériences technologiques patrimoniales.
+ Ma recherche se veut une exploration approfondie et nuancée des enjeux de la transformation numérique dans le domaine patrimonial, avec une perspective critique et réflexive sur ses implications pour la société. Nous nous pencherons notamment sur les enjeux de la numérisation et de linteropérabilité des collections patrimoniales, les stratégies de conception des dispositifs numériques et leur adéquation avec les publics, ainsi que sur les implications éthiques et politiques de lutilisation de lIA et du machine learning dans le domaine patrimonial. En outre, nous nous pencherons sur laspect cognitif de ces outils, en étudiant les émotions et les attitudes des visiteurs face aux nouvelles expériences technologiques patrimoniales.
 

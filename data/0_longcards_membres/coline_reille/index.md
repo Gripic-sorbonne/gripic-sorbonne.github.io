@@ -1,5 +1,5 @@
 ---
-uuid: d7877daa-0e65-4bca-b2b0-da88ef626e89
+uuid: 519a22a6-27d6-4392-a412-b579b149ce38
 prettyName: ColineReille
 
 title: "Coline Reille"
@@ -14,6 +14,6 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 
 ## Thématiques de recherche
 
- Thèse au sujet de l'animal médiateur, l'animal dit de compagnie dans les relations, interactions et communications au sein de la sphère familiale.
+ Thèse au sujet de lanimal médiateur, lanimal dit de compagnie dans les relations, interactions et communications au sein de la sphère familiale.
 Sous la direction de Joëlle Le Marec et Pauline Escande Gauquie.
 

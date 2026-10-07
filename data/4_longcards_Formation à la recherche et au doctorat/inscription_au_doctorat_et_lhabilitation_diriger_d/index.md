@@ -1,5 +1,5 @@
 ---
-uuid: 800faf21-6a5a-4e69-a8ff-ff9809ae9513
+uuid: 8c5b1f49-2cd3-40b8-bc4b-e8bf12ae4c2c
 title: "Inscription au doctorat et à l’habilitation à diriger des recherches"
 abstract: ""
 url: "https://lettres.sorbonne-universite.fr/recherche/doctorat/candidater-au-doctorat"
@@ -38,7 +38,7 @@ L’admission se fait sur seule recommandation d’un membre du GRIPIC habilité
 
 L’habilitation à diriger les recherches ne comprend pas de scolarité. Néanmoins certains jalons sont posés : 
 
-- **Démarches auprès d'un garant ou d’une garante :** accord d’un membre du GRIPIC habilité à diriger des recherches de suivre les travaux du candidat ou de la candidate à l’HDR au titre de garant ou de garante.
+- **Démarches auprès dun garant ou d’une garante :** accord d’un membre du GRIPIC habilité à diriger des recherches de suivre les travaux du candidat ou de la candidate à l’HDR au titre de garant ou de garante.
 - **Dépôt du manuscrit :** le manuscrit est soumis au garant ou à la garante qui juge de l’opportunité de soutenir devant jury. L’autorisation de présenter un dossier d’HDR en soutenance est accordée par le chef d’établissement ou la cheffe d’établissement, après avis du Conseil scientifique siégeant en formation restreinte aux personnes habilitées à diriger des recherches, sur proposition du directeur ou de la directrice de recherche.
 - **Constitution d’un jury :** le garant ou la garante siège dans le jury et le constitue : ce dernier comprend au moins cinq membres, à parité de genre, habilités à diriger des recherches, et pour un tiers au moins extérieurs à l’École doctorale et à l’établissement.
 - **Soutenance :** la soutenance est organisée dans les locaux du CELSA ou de l’École doctorale. Elle comprend un exposé liminaire du candidat ou de la candidate, suivi par les interventions successives des membres du jury.
