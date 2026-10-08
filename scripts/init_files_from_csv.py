@@ -74,6 +74,7 @@ def make_yaml_header_publication(pub_dict: dict) -> str:
     authors = get_field(pub_dict, "authors", "author", "Auteurs", default="")
     pub_date = get_field(pub_dict, "date", "Date", default="")
     pub_type = get_field(pub_dict, "type", "Type", default="")
+    year = pub_date.split("-")[0] if pub_date else "Unknown"
     url = get_field(pub_dict, "url", "URL", default="")
     publisher = get_field(pub_dict, "publisher", "Editeur", default="")
     container_title = get_field(pub_dict, "container_title", "container-title", default="")
@@ -88,6 +89,7 @@ def make_yaml_header_publication(pub_dict: dict) -> str:
             f"authors: \"{clean_authors}\"\n" +
             f"abstract: \"{clean_authors}\"\n" +
             f"date: \"{pub_date}\"\n" +
+            f"year: \"{year}\"\n" +
             f"type: \"{pub_type}\"\n" +
             f"url: \"{url}\"\n" +
             f"publisher: \"{publisher}\"\n" +
@@ -214,77 +216,6 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
         if val != "":
             md_page += f"## {key}\n\n {val}\n\n"
     return md_page
-
-
-# def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", position_header: str = "Fonction", photo_header: str = "Photo"):
-#     global MEMBER_DIR
-#     with open(csv_file, mode="r", encoding="utf-8") as f:
-#         reader = csv.DictReader(f, delimiter=";")
-#         for row in reader:
-#             member_name: str = row[main_header]
-#             member_subdir: Path = MEMBER_DIR / ("_".join(member_name.split())).lower()
-
-#             member_subdir.mkdir(parents=True, exist_ok=True)
-#             if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
-#                 shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
-#             else:
-#                 shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
-#             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-#                 md_file.write(generate_markdown_page_member(member_dict=row,
-#                                                             main_header=main_header, position_header=position_header, photo_header=photo_header))
-
-
-
-
-
-# def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", position_header: str = "Fonction", photo_header: str = "Photo"):
-#     global MEMBER_DIR
-    
-#     with open(csv_file, mode="r", encoding="utf-8") as f:
-#         reader = list(csv.DictReader(f, delimiter=";"))
-
-#     priority_rows = []
-#     general_rows = []
-
-#     norm_priority = [clean_folder_name(p) for p in PRIORITY_MEMBERS]
-
-#     for row in reader:
-#         name = row[main_header].strip()
-#         norm_name = clean_folder_name(name)
-
-#         if norm_name in norm_priority:
-#             idx = norm_priority.index(norm_name)
-#             priority_rows.append((idx, row))
-#         else:
-#             general_rows.append(row)
-
-#     priority_rows.sort(key=lambda x: x[0])
-#     ordered_priority = [r[1] for r in priority_rows]
-
-#     general_rows.sort(key=lambda r: get_last_name(r[main_header]).lower())
-
-#     all_ordered_members = ordered_priority + general_rows
-
-#     for idx, row in enumerate(all_ordered_members, start=1):
-#         member_name: str = row[main_header].strip()
-        
-#         prefix = f"{idx:02d}"
-#         clean_name_slug = "_".join(member_name.split()).lower()
-#         folder_name = f"{prefix}_{clean_name_slug}"
-
-#         member_subdir: Path = MEMBER_DIR / folder_name
-#         member_subdir.mkdir(parents=True, exist_ok=True)
-
-#         if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
-#             shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
-#         else:
-#             shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
-
-#         with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-#             md_file.write(generate_markdown_page_member(member_dict=row,
-#                                                         main_header=main_header, 
-#                                                         position_header=position_header, 
-#                                                         photo_header=photo_header))
 
 
 

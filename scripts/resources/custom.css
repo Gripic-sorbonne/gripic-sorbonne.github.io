@@ -1,15 +1,12 @@
 :root {
-    /* Couleur de mise en exergue */
-    /* --test: rgb(132, 177, 255); */
-    --main: 255, 167, 0;
-
-    /* --light-main-color: rgb(0, 93, 255); */
+    /* Couleur de mise en exergue : Azul marino GRIPIC en RGB */
+    --main: 10, 25, 75;
 
     /* Niveaux de gris des couleurs neutres */
     --text-num: 30;
     --bg-num: 255;
 }
 
-#article-header h1{
-    color: white
+#article-header h1 {
+    color: white;
 }
