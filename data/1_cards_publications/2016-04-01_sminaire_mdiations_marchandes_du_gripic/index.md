@@ -1,5 +1,5 @@
 ---
-uuid: 3d758786-6fec-497b-8b4f-de507e5dfcff
+uuid: bb29ea1a-0941-41fd-849a-dd3cdc8cc005
 title: "Séminaire Médiations marchandes du GRIPIC"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

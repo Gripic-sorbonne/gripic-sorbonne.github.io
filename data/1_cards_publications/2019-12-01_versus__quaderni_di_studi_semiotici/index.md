@@ -1,5 +1,5 @@
 ---
-uuid: be3b27eb-1dad-49ce-898c-a50152fe3f83
+uuid: 1f506964-3f93-480e-a593-f28eadb4d5eb
 title: "Versus: Quaderni di Studi Semiotici"
 author: "Inès Garmon"
 authors: "Inès Garmon"

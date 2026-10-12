@@ -1,5 +1,5 @@
 ---
-uuid: e0c807e6-62c7-45c3-b368-73b0eb9f8420
+uuid: 789c0729-c9e2-4e45-a495-285f32ae9f96
 title: "Cycle de conférences"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

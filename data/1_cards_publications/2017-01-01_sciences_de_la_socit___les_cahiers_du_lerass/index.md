@@ -1,5 +1,5 @@
 ---
-uuid: 049e800b-96f0-4c54-9431-f68c103346c4
+uuid: 9dfbca1a-6abc-40f7-96d3-d1f4cfd1d853
 title: "Sciences de la société : Les cahiers du LERASS"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

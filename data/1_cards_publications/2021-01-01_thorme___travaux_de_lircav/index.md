@@ -1,5 +1,5 @@
 ---
-uuid: ab02468f-5e6f-479a-9d9d-c1211fccb9c7
+uuid: 00ebd17f-b382-4825-a70e-312cff3f2bf8
 title: "Théorème : travaux de l’IRCAV"
 author: "Pauline Escande"
 authors: "Pauline Escande"

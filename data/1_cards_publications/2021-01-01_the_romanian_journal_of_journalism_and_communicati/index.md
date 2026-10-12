@@ -1,5 +1,5 @@
 ---
-uuid: 072fc2b7-a5f1-483a-969d-a63b99c5932e
+uuid: 76e58736-b58c-4d56-b4d2-77b168fb8acc
 title: "The romanian journal of journalism and communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"

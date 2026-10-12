@@ -1,5 +1,5 @@
 ---
-uuid: 4252d57a-4514-4bc8-9110-a1a4d1d5b17b
+uuid: 341ffe4f-912d-4e52-9c03-ae9f7bd0fb6d
 title: "Cocteau journaliste"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

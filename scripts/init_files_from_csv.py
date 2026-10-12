@@ -22,6 +22,9 @@ PRIORITY_MEMBERS = [
     "Valérie Jeanne-Perrier"
 ]
 
+IGNORE_EVENT_COLUMNS = ["Séquentiel"]
+# IGNORE_EVENT_COLUMNS = ["Séquentiel", "Photo"]
+
 def get_last_name(full_name: str) -> str:
     parts = full_name.strip().split()
     return parts[-1] if parts else full_name
@@ -222,16 +225,101 @@ def generate_markdown_page_member(member_dict: dict, main_header: str, position_
     return md_page
 
 
-def generate_markdown_page_event(event_dict: dict, main_header: str, author_header: str, abstract_header: str, photo_header: str):
-    md_page: str = make_yaml_header_event(
-        title=event_dict[main_header], author=event_dict[author_header], abstract=event_dict[abstract_header])
-    if event_dict[photo_header] != "":
-        md_page += f"![Picture for {event_dict[main_header]}]()\n\n"
-    event_dict.pop(photo_header)
+# def generate_markdown_page_event(event_dict: dict, main_header: str, author_header: str, abstract_header: str, photo_header: str):
+#     md_page: str = make_yaml_header_event(
+#         title=event_dict[main_header], author=event_dict[author_header], abstract=event_dict[abstract_header])
+#     if event_dict[photo_header] != "":
+#         md_page += f"![Picture for {event_dict[main_header]}]()\n\n"
+#     event_dict.pop(photo_header)
+#     for key, val in event_dict.items():
+#         if val != "":
+#             md_page += f"## {key}\n\n {val}\n\n"
+#     return md_page
+
+# def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
+#     global EVENT_DIR
+#     with open(csv_file, mode="r", encoding="utf-8") as f:
+#         reader = csv.DictReader(f, delimiter=";")
+#         for row in reader:
+#             d, m, y = row['Date'].split('/')
+#             date_str = f'{y}-{m}-{d}'
+#             title: str = clean_folder_name(row[main_header])
+#             folder_name = date_str + "_" + title
+#             event_subdir: Path = EVENT_DIR / folder_name
+#             event_subdir.mkdir(parents=True, exist_ok=True)
+            
+#             with (event_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
+#                 md_file.write(generate_markdown_page_event(event_dict=row, main_header=main_header,
+#                               author_header=author_header, abstract_header=abstract_header, photo_header=photo_header))
+
+
+
+def generate_markdown_page_event(event_dict: dict, main_header: str, author_header: str, abstract_header: str, image_filename: str):
+    title = get_field(event_dict, main_header)
+    author = get_field(event_dict, author_header)
+    abstract = get_field(event_dict, abstract_header)
+
+    clean_title = title.replace('"', '\\"').replace('\n', ' ')
+    clean_author = author.replace('"', '\\"').replace('\n', ' ')
+    clean_abstract = abstract.replace('"', '\\"').replace('\n', ' ')
+
+    md_page = (f"---\n" +
+               f"uuid: {uuid.uuid4()}\n" +
+               f"title: \"{clean_title}\"\n" +
+               f"author: \"{clean_author}\"\n" +
+               f"event: true\n" +
+               f"abstract: \"{clean_abstract}\"\n" +
+               f"---\n\n")
+
+    # Insertar la imagen del evento (con la imagen por defecto si no hay otra)
+    if image_filename:
+        md_page += f'<img src="./{image_filename}" width="300px" />\n\n'
+
+    # Renderizar el resto de los campos útiles ignorando Séquentiel y Photo
     for key, val in event_dict.items():
-        if val != "":
+        if val != "" and key not in IGNORE_EVENT_COLUMNS and key not in [main_header, author_header, abstract_header]:
             md_page += f"## {key}\n\n {val}\n\n"
+
     return md_page
+
+
+def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
+    global EVENT_DIR
+    with open(csv_file, mode="r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter=";")
+        for row in reader:
+            d, m, y = row['Date'].split('/')
+            date_str = f'{y}-{m}-{d}'
+            title_raw = get_field(row, main_header)
+            if not title_raw:
+                continue
+
+            title: str = clean_folder_name(title_raw)
+            folder_name = date_str + "_" + title
+            event_subdir: Path = EVENT_DIR / folder_name
+            event_subdir.mkdir(parents=True, exist_ok=True)
+
+            # Manejo de la imagen por defecto o personalizada para eventos
+            img_filename = get_field(row, photo_header, "image", "photo", default="")
+            target_image = "no_event.webp"
+
+            if img_filename and os.path.exists(f'./inputs/evenements_img/{img_filename}'):
+                shutil.copy(f'./inputs/evenements_img/{img_filename}', str(event_subdir / img_filename))
+                target_image = img_filename
+            elif os.path.exists('./inputs/evenements_img/no_event.webp'):
+                shutil.copy('./inputs/evenements_img/no_event.webp', str(event_subdir / 'no_event.webp'))
+
+            with (event_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
+                md_file.write(generate_markdown_page_event(
+                    event_dict=row, 
+                    main_header=main_header,
+                    author_header=author_header, 
+                    abstract_header=abstract_header, 
+                    image_filename=target_image
+                ))
+
+
+
 
 
 
@@ -302,21 +390,7 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
 
 
 
-def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
-    global EVENT_DIR
-    with open(csv_file, mode="r", encoding="utf-8") as f:
-        reader = csv.DictReader(f, delimiter=";")
-        for row in reader:
-            d, m, y = row['Date'].split('/')
-            date_str = f'{y}-{m}-{d}'
-            title: str = clean_folder_name(row[main_header])
-            folder_name = date_str + "_" + title
-            event_subdir: Path = EVENT_DIR / folder_name
-            event_subdir.mkdir(parents=True, exist_ok=True)
-            
-            with (event_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-                md_file.write(generate_markdown_page_event(event_dict=row, main_header=main_header,
-                              author_header=author_header, abstract_header=abstract_header, photo_header=photo_header))
+
 
 
 def csv_to_markdown_publications(csv_file: str, photo_header: str = "Photo"):

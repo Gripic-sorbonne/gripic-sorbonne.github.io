@@ -1,5 +1,5 @@
 ---
-uuid: bd246b6f-d777-48bd-85ec-b2e0f0287287
+uuid: 799ab9c4-21a0-4a33-9594-5d7769a6778e
 title: "Retrospective et perspective : 1989 - 2009 H2PTM’38"
 author: "Sophie Pène, Cathy Dubois"
 authors: "Sophie Pène, Cathy Dubois"

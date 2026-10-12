@@ -1,5 +1,5 @@
 ---
-uuid: d928b0d6-ea58-487f-ac5f-e95058a288cb
+uuid: 8a929570-9100-465a-9b91-9230f19003da
 title: "Réseaux : communication, technologie, société"
 author: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"
 authors: "Laurène Renaut, Clotilde Chevet, Lucie Raymond"

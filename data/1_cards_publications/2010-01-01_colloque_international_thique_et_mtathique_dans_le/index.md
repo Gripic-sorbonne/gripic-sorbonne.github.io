@@ -1,5 +1,5 @@
 ---
-uuid: ad7042f1-1f0f-48e4-8148-c3befa5edfdd
+uuid: b91f14f5-51fa-42ee-a6ac-b33cde3067fe
 title: "Colloque international éthique et métaéthique dans les professions de l’information et de la communication"
 author: "Véronique Richard"
 authors: "Véronique Richard"

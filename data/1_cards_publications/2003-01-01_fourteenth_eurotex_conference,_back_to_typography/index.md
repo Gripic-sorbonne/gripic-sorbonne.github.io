@@ -1,5 +1,5 @@
 ---
-uuid: 1b6ad0ad-20a2-4499-9349-a4e7d15dd3b5
+uuid: 376b700f-db36-44e5-abf3-f0d9197f74c0
 title: "Fourteenth EuroTex Conference, Back to typography"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

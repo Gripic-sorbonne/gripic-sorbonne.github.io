@@ -1,5 +1,5 @@
 ---
-uuid: bc8a8b86-5b6c-4256-bbed-6c53aabf7d45
+uuid: 940a7659-3ccd-497d-b243-ef3860932368
 title: "L’éthique dans les pratiques professionnelles de l’information et de la communication"
 author: "Florian Malaterre"
 authors: "Florian Malaterre"

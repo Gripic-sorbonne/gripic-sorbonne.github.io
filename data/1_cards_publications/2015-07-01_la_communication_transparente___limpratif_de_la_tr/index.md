@@ -1,5 +1,5 @@
 ---
-uuid: d71936db-4adf-4513-a51d-756253810419
+uuid: ec44b44e-609f-47b3-b5df-c22909434993
 title: "La communication transparente : L’impératif de la transparence dans le discours des organisations"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

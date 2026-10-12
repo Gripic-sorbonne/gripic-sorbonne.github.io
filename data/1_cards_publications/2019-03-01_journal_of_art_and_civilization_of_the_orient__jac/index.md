@@ -1,5 +1,5 @@
 ---
-uuid: 7431e0ff-08f5-4d8a-9719-e6313f57deee
+uuid: 452a8fc7-5d2e-4558-b046-74168d49b346
 title: "Journal of Art and Civilization of the Orient (JACO)"
 author: "Anita SALEH BOLOURDI"
 authors: "Anita SALEH BOLOURDI"

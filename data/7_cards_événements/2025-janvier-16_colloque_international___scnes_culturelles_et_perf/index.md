@@ -1,18 +1,12 @@
 ---
-uuid: 7445ccf4-d764-42e5-b4c3-aea78b6f2fce
+uuid: 9d711970-308e-4d74-8d06-84443f4cd4cb
 title: "Colloque international \" Scènes culturelles et performances corporelles\""
 author: "Rym Gerwig- Nelly Quemener"
 event: true
 abstract: "Jeudi 16 janvier 2025 - 09:30 au vendredi 17 janvier 2025 - 17:00 Colloque Colloque international \" Scènes culturelles et performances corporelles\" Lieu :  Maison de la recherche, 26, rue Serpente 75006 Paris France Organisé par : Rym Gerwig- Nelly Quemener ... Lire la suite"
 ---
 
-## Séquentiel
-
- 10
-
-## Titre
-
- Colloque international " Scènes culturelles et performances corporelles"
+<img src="./no_event.webp" width="300px" />
 
 ## Date
 
@@ -21,12 +15,4 @@ abstract: "Jeudi 16 janvier 2025 - 09:30 au vendredi 17 janvier 2025 - 17:00 Col
 ## Catégorie
 
  Événement
-
-## Descriptif
-
- Jeudi 16 janvier 2025 - 09:30 au vendredi 17 janvier 2025 - 17:00 Colloque Colloque international " Scènes culturelles et performances corporelles" Lieu :  Maison de la recherche, 26, rue Serpente 75006 Paris France Organisé par : Rym Gerwig- Nelly Quemener ... Lire la suite
-
-## Organisateur(s)
-
- Rym Gerwig- Nelly Quemener
 

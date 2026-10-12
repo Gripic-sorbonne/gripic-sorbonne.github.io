@@ -1,5 +1,5 @@
 ---
-uuid: 5cc0ae02-d274-435d-ba46-233fc2f3861f
+uuid: 7bb83f3b-512a-4c3e-ac5c-ecf03fae8834
 title: "Architecture et réalité augmentée. Une manière d’écrire l’espace : la pensée visuelle instrumentée"
 author: "Pascal Bué"
 authors: "Pascal Bué"

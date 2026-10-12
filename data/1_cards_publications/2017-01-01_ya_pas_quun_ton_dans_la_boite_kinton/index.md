@@ -1,5 +1,5 @@
 ---
-uuid: b2bdbcde-1cf9-41ec-bc43-dc7c37ac38bf
+uuid: bc7aa4b0-01b7-480f-8c35-673b39d97a6e
 title: "Y’a pas qu’un ton dans la boite à Kinton…"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

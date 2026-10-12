@@ -1,5 +1,5 @@
 ---
-uuid: 75238f97-f0bc-4f19-bb42-4da4c8ecfe69
+uuid: a95d8f4e-0b27-4282-94be-56e3b40b3229
 title: "Cadres"
 author: "Philippe Robert-Tanguy"
 authors: "Philippe Robert-Tanguy"

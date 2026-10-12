@@ -1,18 +1,12 @@
 ---
-uuid: 4faabb5b-f186-4238-9b4c-7a7ae0962be3
+uuid: 92bd3911-b384-441a-a95a-ac81bd4d8c11
 title: "Colloque international \" Concours eurovision de la chanson et sciences humaines et sociales"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
 event: true
 abstract: "Mercredi 1 avril 2026 - 08:45 Colloque Colloque international \" Concours eurovision de la chanson et sciences humaines et sociales Enjeux, questionnnements et perpectives Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon ... Lire la suite"
 ---
 
-## Séquentiel
-
- 3
-
-## Titre
-
- Colloque international " Concours eurovision de la chanson et sciences humaines et sociales
+<img src="./no_event.webp" width="300px" />
 
 ## Date
 
@@ -21,12 +15,4 @@ abstract: "Mercredi 1 avril 2026 - 08:45 Colloque Colloque international \" Conc
 ## Catégorie
 
  Événement
-
-## Descriptif
-
- Mercredi 1 avril 2026 - 08:45 Colloque Colloque international " Concours eurovision de la chanson et sciences humaines et sociales Enjeux, questionnnements et perpectives Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon ... Lire la suite
-
-## Organisateur(s)
-
- Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon
 

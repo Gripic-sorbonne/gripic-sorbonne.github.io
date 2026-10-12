@@ -1,18 +1,12 @@
 ---
-uuid: 3d8f6087-3ae9-458c-8037-9fe8f2759ce9
+uuid: fc5dca9f-a07f-4e06-80f0-2fd46c0410de
 title: "Séminaire \"Intelligence artificielle\""
 author: "Laurent Petit"
 event: true
 abstract: "Jeudi 28 mars 2024 - 14:00 Séminaire Séminaire \"Intelligence artificielle\" Lieu :  France Organisé par : Laurent Petit ... Lire la suite"
 ---
 
-## Séquentiel
-
- 18
-
-## Titre
-
- Séminaire "Intelligence artificielle"
+<img src="./no_event.webp" width="300px" />
 
 ## Date
 
@@ -21,12 +15,4 @@ abstract: "Jeudi 28 mars 2024 - 14:00 Séminaire Séminaire \"Intelligence artif
 ## Catégorie
 
  Événement
-
-## Descriptif
-
- Jeudi 28 mars 2024 - 14:00 Séminaire Séminaire "Intelligence artificielle" Lieu :  France Organisé par : Laurent Petit ... Lire la suite
-
-## Organisateur(s)
-
- Laurent Petit
 

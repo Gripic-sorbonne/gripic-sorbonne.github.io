@@ -1,5 +1,5 @@
 ---
-uuid: 6479db15-e1ba-44f0-a4d7-8eae336995b9
+uuid: 8466f5af-01fc-4b89-9ae2-e41d903fb224
 title: "Sens, Sensible, Insensé"
 author: "Philippe Robert-Tanguy, Vincent Brulois"
 authors: "Philippe Robert-Tanguy, Vincent Brulois"

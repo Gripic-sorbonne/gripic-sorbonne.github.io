@@ -1,5 +1,5 @@
 ---
-uuid: 1376ff22-9510-4ef2-8b45-d9fd6318c623
+uuid: 2971616b-97a8-485a-a3dd-9aa0c896cf82
 title: "Un monde de crises au prisme des communications organisationnelles"
 author: "Olivia Foli, Sidonie Gallot, Elizabeth Gardère, Aurélia Lamy, Elise Maas"
 authors: "Olivia Foli, Sidonie Gallot, Elizabeth Gardère, Aurélia Lamy, Elise Maas"
