@@ -1,5 +1,5 @@
 ---
-uuid: 122522f7-c372-411c-a0cf-a95fbf82e2d3
+uuid: 4bcab6ba-742c-4960-bb3b-934c186f1c7c
 title: "French Journal for Media Research"
 author: "Thierry Devars"
 authors: "Thierry Devars"

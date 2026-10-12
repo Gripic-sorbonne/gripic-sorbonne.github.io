@@ -1,5 +1,5 @@
 ---
-uuid: 0e0dd442-9fae-4dd6-b150-19c253564f41
+uuid: 24ad9203-cb9b-445f-b1a0-8b7b35fcb7e7
 title: "La contribution des sciences de l’information – communication aux débats publics"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

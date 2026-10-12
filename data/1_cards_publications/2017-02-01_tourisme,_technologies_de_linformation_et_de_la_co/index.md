@@ -1,5 +1,5 @@
 ---
-uuid: 3a111591-76be-4950-8c93-457489925e09
+uuid: ca2b25ad-6578-4772-b772-9b79aa53798a
 title: "Tourisme, technologies de l’information et de la communication (TIC) et politique territoriale"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

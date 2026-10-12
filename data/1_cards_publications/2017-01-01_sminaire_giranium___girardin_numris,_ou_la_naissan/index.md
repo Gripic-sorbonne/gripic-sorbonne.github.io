@@ -1,5 +1,5 @@
 ---
-uuid: 86e1963a-31de-43de-8ce1-7d0d680b8d41
+uuid: c905e3e6-3a63-4b8e-944d-bdc066abbf17
 title: "Séminaire GIRANIUM : “ Girardin numérisé, ou la naissance des industries culturelles ”"
 author: "Emmanuelle Fantin, Karine Berthelot-Guiet"
 authors: "Emmanuelle Fantin, Karine Berthelot-Guiet"

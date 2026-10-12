@@ -1,5 +1,5 @@
 ---
-uuid: 6e90adb9-e92b-4bd4-aafc-9f2bd104e082
+uuid: a40aa263-2ad9-429f-a040-bcbd977ef36a
 title: "Genèse et métamorphoses de la presse professionnelle en communication. De la configuration d’un territoire spécialisé à la médiation reconfigurante de la “ revue-livre ” vendue en librairie"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

@@ -1,5 +1,5 @@
 ---
-uuid: 57833eb8-760c-4dfc-91d4-c0309478ca37
+uuid: 8624a3ee-2efa-42ee-89da-403b6ddf477a
 title: "Réseaux socionumériques et médiations humaines : Le social est-il soluble dans le web ?"
 author: "Etienne Candel"
 authors: "Etienne Candel"

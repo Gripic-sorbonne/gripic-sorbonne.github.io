@@ -1,5 +1,5 @@
 ---
-uuid: 7e483591-5671-498d-b2b2-da629b206553
+uuid: 9ab51a4a-e2f5-4ea4-a7fe-63da844dbad6
 title: "Légumineuses (1): approche communicationnelle de l’année internationale 2016"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

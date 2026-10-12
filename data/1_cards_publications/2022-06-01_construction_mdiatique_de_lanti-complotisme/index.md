@@ -1,5 +1,5 @@
 ---
-uuid: 28432d02-354a-492d-9715-5d3f4879eb52
+uuid: a06c894c-ddd4-44a8-be0a-a12159acaaa7
 title: "Construction médiatique de l’anti-complotisme"
 author: "Clara Bordier"
 authors: "Clara Bordier"

@@ -1,5 +1,5 @@
 ---
-uuid: 6966567d-a890-41ec-bec0-a6bd825d7779
+uuid: 22f6ae1d-db0e-4ebd-9b25-6a6a66ea444e
 title: "Plaisirs de femmes. Women, pleasure and Transgression in French Literature and Culture"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

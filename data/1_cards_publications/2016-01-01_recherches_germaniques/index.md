@@ -1,5 +1,5 @@
 ---
-uuid: c7caa5d5-9c7a-4bb1-966d-165bfc45b45c
+uuid: 8834a05a-e643-4a4d-a907-7b2bdc17ba7a
 title: "Recherches Germaniques"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

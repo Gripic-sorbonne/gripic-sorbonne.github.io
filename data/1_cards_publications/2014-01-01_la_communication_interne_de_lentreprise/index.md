@@ -1,5 +1,5 @@
 ---
-uuid: 9c65a8fb-e90d-4ee7-9f87-09c097cd8e9f
+uuid: 48913a58-8440-4aad-8149-160e6d5d6d3b
 title: "La communication interne de l’entreprise"
 author: "nicole D’Almeida, Thierry Libaert"
 authors: "nicole D’Almeida, Thierry Libaert"

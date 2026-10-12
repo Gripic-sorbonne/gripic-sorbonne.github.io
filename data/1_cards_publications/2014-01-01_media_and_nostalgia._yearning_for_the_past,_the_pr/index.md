@@ -1,5 +1,5 @@
 ---
-uuid: 3a559a18-b74c-4256-bb0c-86ece35d912e
+uuid: 1f748284-b4c1-472b-a029-4fa720e2ac65
 title: "Media and nostalgia. Yearning for the past, the present and the future"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

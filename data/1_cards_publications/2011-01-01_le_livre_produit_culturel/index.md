@@ -1,5 +1,5 @@
 ---
-uuid: 9bc1d072-9286-48e7-b960-e71a4181042b
+uuid: e9b571de-abb3-45ed-9e8a-3100a20c2ff4
 title: "Le livre produit culturel"
 author: "Pauline Escande"
 authors: "Pauline Escande"

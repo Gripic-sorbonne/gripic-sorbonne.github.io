@@ -1,5 +1,5 @@
 ---
-uuid: 59588c9b-d06e-4596-878c-86057d486ec8
+uuid: 54e5b439-0bfa-4ccd-9b9c-4084b95a1259
 title: "Activités internationales du GRIPIC"
 abstract: ""
 url: ""

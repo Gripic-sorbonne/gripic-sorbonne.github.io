@@ -1,5 +1,5 @@
 ---
-uuid: f4a947e3-9e5e-4f70-9360-efb9bd1ff8e0
+uuid: a755f9ed-be7f-4267-94c0-d96024efa7c8
 title: "Actes des doctorales de la SFSIC – Dijon 2022"
 author: "Marie-lise Buisson"
 authors: "Marie-lise Buisson"

@@ -1,5 +1,5 @@
 ---
-uuid: 2554febe-7666-439c-ba71-b13fb569912c
+uuid: c5e6011a-2620-4ba2-a819-7f6d78ef5016
 title: "Colloque de l’Association française d’ethnologie et d’anthropologie (AFEA)"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

@@ -1,5 +1,5 @@
 ---
-uuid: 9278abd1-af48-43c3-b148-64ac2c98022e
+uuid: cb7dcdc4-c807-43fd-a104-b1e008c6772e
 title: "World Social Science Forum"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

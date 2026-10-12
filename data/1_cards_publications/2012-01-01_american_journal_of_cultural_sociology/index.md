@@ -1,5 +1,5 @@
 ---
-uuid: 3559d09b-c0d3-4147-99f7-01751245b6f9
+uuid: deb4db9e-5e52-4b26-8d78-664219bb6680
 title: "American Journal of Cultural Sociology"
 author: "Nelly Quemener, Denis-Constant Martin"
 authors: "Nelly Quemener, Denis-Constant Martin"

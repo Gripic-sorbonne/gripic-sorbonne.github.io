@@ -1,5 +1,5 @@
 ---
-uuid: c660908b-a1de-4d2f-8852-8fac43a8b5a4
+uuid: d02f8f65-0164-4ce3-9183-28de480ba39e
 title: "Sources ouvertes numériques. Usages éducatifs, enjeux communicationnels."
 author: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
 authors: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"

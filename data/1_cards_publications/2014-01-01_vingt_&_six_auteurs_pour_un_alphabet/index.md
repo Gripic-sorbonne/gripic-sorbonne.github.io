@@ -1,5 +1,5 @@
 ---
-uuid: b2c97bbd-96ff-4a82-87d3-2817e0edd3cd
+uuid: eed242a2-a3bc-491a-80d9-0cf03b3006e0
 title: "Vingt & six auteurs pour un alphabet"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

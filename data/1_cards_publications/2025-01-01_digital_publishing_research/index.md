@@ -1,5 +1,5 @@
 ---
-uuid: c652fd65-a3a8-42f1-9b6f-4be1998ac69d
+uuid: 4be0c33b-2906-4eb9-b888-dba63fb2519a
 title: "Digital Publishing Research"
 author: "Yuwen Zhang, Pei Lin"
 authors: "Yuwen Zhang, Pei Lin"

@@ -1,5 +1,5 @@
 ---
-uuid: 09c39d9b-041f-419d-835b-fd9e32bbb99f
+uuid: e3c8d5b2-67e2-4f10-ab3b-9939ad757095
 title: "Récit médiatique et journalisme narratif"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

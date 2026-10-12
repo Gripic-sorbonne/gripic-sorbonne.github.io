@@ -1,5 +1,5 @@
 ---
-uuid: ecab0ab4-fa63-4591-8ca4-82ac3759e879
+uuid: 0b764a12-f7ce-488f-b4ea-29ed1710256a
 title: "Rétrospective et perspective, 1989-2009"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

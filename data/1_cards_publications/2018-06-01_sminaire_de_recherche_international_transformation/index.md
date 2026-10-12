@@ -1,5 +1,5 @@
 ---
-uuid: 7ccb9fe0-f4c6-4556-93a9-5b4d3a85b160
+uuid: b307a675-43d9-4dcd-a9e8-270a810c9ca0
 title: "Séminaire de recherche international “ Transformations des prises de parole de marques ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"
