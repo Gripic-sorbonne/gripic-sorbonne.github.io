@@ -1,5 +1,5 @@
 ---
-uuid: b71b74b4-ab13-4674-9232-59529af6ac0b
+uuid: 5c14e5d5-c1a5-43ba-a3d6-d9fe39952e36
 title: "Texte-e. Le texte à l’heure d’Internet. Actes du colloque virtuel"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: 6fb88c4c-e56d-4475-a770-ce928df11642
+uuid: fd8e7b9c-4f16-4a89-ab96-7bc0e0ba867d
 title: "Changements et permanence du journalisme"
 author: "Emmanuël Souchier, Adeline Wrona"
 authors: "Emmanuël Souchier, Adeline Wrona"

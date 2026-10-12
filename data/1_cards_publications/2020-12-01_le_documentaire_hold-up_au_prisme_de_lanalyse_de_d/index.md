@@ -1,5 +1,5 @@
 ---
-uuid: 5e462167-887a-4479-9c12-dc6ce125aff5
+uuid: 78280a81-3abb-4fd8-9a04-27ab42eeb2e3
 title: "Le documentaire Hold-up au prisme de l’analyse de données. Une étude lexicométrique et acoustique d’un objet médiatique alternatif."
 author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"

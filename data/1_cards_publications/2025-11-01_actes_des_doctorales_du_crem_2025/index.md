@@ -1,5 +1,5 @@
 ---
-uuid: 0d92c4c0-b8cf-4fa4-b0c6-d21a61ac9fbc
+uuid: e3007cc3-0b2f-4b15-96d2-f904d7e4348e
 title: "Actes des doctorales du Crem 2025"
 author: "Sabrina Mazigh, Joachim Fischer"
 authors: "Sabrina Mazigh, Joachim Fischer"

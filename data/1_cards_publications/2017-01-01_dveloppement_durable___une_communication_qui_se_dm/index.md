@@ -1,5 +1,5 @@
 ---
-uuid: 948e9778-32ed-4ff6-8d1d-99adfa4d26e7
+uuid: f9fa83ff-8c59-47df-b160-55e5a41d90f6
 title: "Développement durable : Une communication qui se démarque"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"

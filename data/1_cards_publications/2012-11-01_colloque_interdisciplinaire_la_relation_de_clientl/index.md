@@ -1,5 +1,5 @@
 ---
-uuid: de236fff-d8f7-4328-976e-7ef8cd9bba23
+uuid: 5e6be9f4-6fd2-4e56-9b53-2fdc0aa0bcfd
 title: "COLLOQUE INTERDISCIPLINAIRE “ LA RELATION DE CLIENTÈLE ”"
 author: "nicole D’Almeida, Bonnet Fabien"
 authors: "nicole D’Almeida, Bonnet Fabien"

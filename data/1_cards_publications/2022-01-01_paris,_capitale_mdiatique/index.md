@@ -1,5 +1,5 @@
 ---
-uuid: c1a0cd3d-0874-4671-9be7-7707a8775965
+uuid: ab2d770b-2c4e-429e-af42-c98d91572178
 title: "Paris, capitale médiatique"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

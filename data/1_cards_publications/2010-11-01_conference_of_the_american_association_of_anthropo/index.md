@@ -1,5 +1,5 @@
 ---
-uuid: 69f22207-e6c0-4c56-9d33-19eb34a6a0cd
+uuid: 38740cbc-59b7-4f46-807a-a9ac1d93e291
 title: "Conference of the American Association of Anthropology (AAA)"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

@@ -1,5 +1,5 @@
 ---
-uuid: e89abc51-1218-49d8-a645-79a2bc2872e2
+uuid: 81351ce0-4aed-45e9-b97f-033b4a90e44a
 title: "Actes / Proceedings TICEMED 13Hybridation des formations : de la continuité à l’innovation pédagogique ?Hybridization of training: from continuity to pedagogical innovation ?"
 author: "Julien Chamboredon"
 authors: "Julien Chamboredon"

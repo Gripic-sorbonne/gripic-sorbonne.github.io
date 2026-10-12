@@ -1,5 +1,5 @@
 ---
-uuid: 85d58f55-6596-4c7a-a01c-7597aa327d57
+uuid: 676c1790-4ceb-4bc5-ab51-9eac5da12198
 title: "Séminaire de lecture du GRIPIC"
 author: "Ambre Abid-Dalençon, Emmanuelle Fantin"
 authors: "Ambre Abid-Dalençon, Emmanuelle Fantin"

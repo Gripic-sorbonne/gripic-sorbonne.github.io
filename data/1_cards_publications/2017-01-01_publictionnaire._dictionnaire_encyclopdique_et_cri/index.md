@@ -1,5 +1,5 @@
 ---
-uuid: c2f2d5af-8c53-415f-a2c8-a953e1e1afd2
+uuid: 42656653-7633-4483-8dc8-69b52155a1f5
 title: "Publictionnaire. Dictionnaire encyclopédique et critique des publics"
 author: "Caroline Marti"
 authors: "Caroline Marti"
