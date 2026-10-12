@@ -1,5 +1,5 @@
 ---
-uuid: 81e0de4a-c2d8-49ac-a1ee-1bbe75b606ba
+uuid: bdd06ff2-db30-445a-b3ab-96343b91d3bd
 title: "Environnement et inégalités. 11ème congrès de l’Association Française de Sociologie"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

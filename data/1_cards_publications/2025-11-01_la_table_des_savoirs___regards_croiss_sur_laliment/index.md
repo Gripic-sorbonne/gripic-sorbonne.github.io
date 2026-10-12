@@ -1,5 +1,5 @@
 ---
-uuid: 502bd4ec-47c3-45e2-aa87-0f40877a0830
+uuid: f53990b4-f6f6-49b9-9a35-74f9480c347a
 title: "”À la table des savoirs : Regards croisés sur l’alimentation”. Colloque international de lancement de l’Initiative Alimentation."
 author: "Celia Banos, Caroline Marti, Marie-lise Buisson"
 authors: "Celia Banos, Caroline Marti, Marie-lise Buisson"

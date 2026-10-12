@@ -1,5 +1,5 @@
 ---
-uuid: 4dc5a221-71be-4801-851f-5c38fe8b4a7b
+uuid: 5e1e8371-1ad1-43c7-90ce-a53d75bb6ab7
 title: "Journée d'étude : Nourrir le foyer : penser \" la ménagère\" et ses métamorphoses"
 author: "Caroline Marti/Julien Tassel"
 date: "2026-juin-3"

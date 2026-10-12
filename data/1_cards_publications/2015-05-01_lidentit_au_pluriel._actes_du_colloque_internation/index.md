@@ -1,5 +1,5 @@
 ---
-uuid: c8ed8f05-1148-40be-8a12-0c9f9ba3301d
+uuid: 557dba6d-36f6-48b0-8c55-2585dc1a1e8d
 title: "L’identité au pluriel. Actes du colloque international"
 author: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
 authors: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"

@@ -1,5 +1,5 @@
 ---
-uuid: d80f635e-592b-4f5f-b2b9-0d92647dff51
+uuid: 3431edb5-b9ac-4df1-8436-12580c408785
 title: "Lampe-tempête"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

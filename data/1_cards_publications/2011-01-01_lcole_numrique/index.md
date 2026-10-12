@@ -1,5 +1,5 @@
 ---
-uuid: 26f1c888-e223-4457-a4dc-b5216fb861dd
+uuid: 3dcb45f4-c2ea-40cb-a88a-6a903da056b1
 title: "L’école numérique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

@@ -18,6 +18,9 @@ echo "3. Generating Markdown files from CSV..."
 cd "$REPO_ROOT/scripts"
 python init_files_from_csv.py
 
+# Pequeña pausa de 2 segundos para asegurar que el sistema de archivos escriba todo correctamente
+sleep 2
+
 echo "4. Returning to the repository root and staging Git changes..."
 cd "$REPO_ROOT"
 git add .

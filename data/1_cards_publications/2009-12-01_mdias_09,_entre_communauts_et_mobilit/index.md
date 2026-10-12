@@ -1,5 +1,5 @@
 ---
-uuid: e01ef7e4-208d-45fc-97e8-9925102e7c28
+uuid: e1c598f7-6128-4edb-a2f5-39f1f3cb3f10
 title: "Médias 09, entre communautés et mobilité"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

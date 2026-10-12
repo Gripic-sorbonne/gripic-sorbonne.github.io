@@ -1,5 +1,5 @@
 ---
-uuid: 8380afa3-1c89-44a9-93f4-22d6305bd073
+uuid: 86774e9b-ec02-4772-a054-22cac6629d9e
 title: "Penser les politiques de numérisation - Colloque Interdisciplinaire Transnum"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

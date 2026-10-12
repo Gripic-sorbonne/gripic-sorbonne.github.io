@@ -1,5 +1,5 @@
 ---
-uuid: de8fde0e-6162-4d63-9897-8f40734ddcda
+uuid: 8adc913a-e7cf-4a4d-8772-5b1860f531df
 title: "Doctorales de la SFSIC"
 author: "Thibault Grison"
 authors: "Thibault Grison"

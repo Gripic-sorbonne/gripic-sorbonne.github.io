@@ -1,5 +1,5 @@
 ---
-uuid: ddc1754a-5dec-40a8-b307-077ce726c5d8
+uuid: 9bc270f2-bfea-49e8-a4a0-ea194eca3d6f
 title: "Violences et médias"
 author: "Thierry Devars, Rym Gerwig-Kirèche"
 authors: "Thierry Devars, Rym Gerwig-Kirèche"

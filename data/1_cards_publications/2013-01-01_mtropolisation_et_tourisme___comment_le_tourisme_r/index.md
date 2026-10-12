@@ -1,5 +1,5 @@
 ---
-uuid: 66dbf842-7244-4f44-8d6b-ef26b189d67e
+uuid: 75e8a250-989a-490e-945a-ef2a3a6241ae
 title: "Métropolisation et tourisme : Comment le tourisme redessine"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

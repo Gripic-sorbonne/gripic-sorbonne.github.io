@@ -1,5 +1,5 @@
 ---
-uuid: d490b33d-c37d-4069-a2a8-24b5d47b83ed
+uuid: fe5d4d93-e4bc-454a-a4a0-0e77d76f3d43
 title: "Sciences de l’information et de la communication. Objets, savoirs, discipline"
 author: "nicole D’Almeida, Yanita Andonova"
 authors: "nicole D’Almeida, Yanita Andonova"

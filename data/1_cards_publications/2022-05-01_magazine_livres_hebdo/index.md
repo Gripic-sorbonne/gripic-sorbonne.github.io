@@ -1,5 +1,5 @@
 ---
-uuid: 1d570286-f3e1-4513-a780-faa0515f3e83
+uuid: 10c411c2-7d53-4a5d-94e7-98835daff7d2
 title: "Magazine Livres Hebdo"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

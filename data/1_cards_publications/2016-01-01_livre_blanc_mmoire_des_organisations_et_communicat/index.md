@@ -1,5 +1,5 @@
 ---
-uuid: db5f60b2-f67b-43c9-a7a3-87b73176dfc7
+uuid: ff631d49-e854-4c56-8d9d-35f312cf4ce5
 title: "Livre Blanc Mémoire des organisations et communication interne"
 author: "Julien Tassel"
 authors: "Julien Tassel"

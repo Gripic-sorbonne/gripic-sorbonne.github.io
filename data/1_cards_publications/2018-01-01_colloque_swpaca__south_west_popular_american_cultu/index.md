@@ -1,5 +1,5 @@
 ---
-uuid: 182a3c3d-c298-45f2-84b4-82f034e250ca
+uuid: 45c93c4e-8dda-452f-8931-4cbeb56592d3
 title: "Colloque SWPACA (South West Popular/American Culture Association)"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"

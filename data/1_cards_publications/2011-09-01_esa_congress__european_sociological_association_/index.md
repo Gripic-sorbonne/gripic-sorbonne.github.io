@@ -1,5 +1,5 @@
 ---
-uuid: 163d0d3e-b135-4631-a2d7-5724d0b05b55
+uuid: cdebb200-13ad-4c2c-afb8-009a69e9987b
 title: "ESA Congress (European Sociological Association)"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"

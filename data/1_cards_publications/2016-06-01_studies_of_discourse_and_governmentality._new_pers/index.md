@@ -1,5 +1,5 @@
 ---
-uuid: fad6b952-8868-4552-9a79-4a48e9fa784b
+uuid: 67160c99-8e38-4cab-a429-34abea652999
 title: "Studies of Discourse and Governmentality. New perspectives and methods."
 author: "Sun-Ha Hong, François Allard-Huver"
 authors: "Sun-Ha Hong, François Allard-Huver"

@@ -1,5 +1,5 @@
 ---
-uuid: 05a96f59-d41e-44e2-b617-17a00ea6b084
+uuid: 182bcf3c-9945-4349-ba45-f43675cc5a09
 title: "Matière & son de Frédéric Couraillon"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
