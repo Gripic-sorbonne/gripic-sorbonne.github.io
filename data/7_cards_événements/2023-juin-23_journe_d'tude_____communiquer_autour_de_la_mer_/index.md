@@ -1,7 +1,8 @@
 ---
-uuid: 3b81bf00-8d7a-468a-91b4-f0f11e17d516
+uuid: adfc70f8-c0da-404f-947d-49f9b0d47ed4
 title: "Journée d'étude : \" Communiquer autour de la mer\""
 author: "Valérie Jeanne Perrier- Pauline Escandé Gauquié - IMSIC - Institut des Océans- AMU- SU"
+date: "2023-juin-23"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 23 juin 2023 - 09:00 Journée(s) d'étude Journée d'étude : \" Communiquer autour de la mer\" Lieu :  Universite Aix-Marseille, 21, rue Virgile Marron 13005 Aix-Marseille France Organisé par : Valérie Jeanne Perrier- Pauline Escandé Gauquié - IMSIC - Institut des Océans- AMU- SU ... Lire la suite"

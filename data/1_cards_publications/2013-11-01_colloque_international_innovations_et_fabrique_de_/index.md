@@ -1,5 +1,5 @@
 ---
-uuid: 75b0ace3-11e0-4862-a6f8-7028fc1535dc
+uuid: cedd634a-f212-485b-be18-ec1228b413f0
 title: "colloque international Innovations et fabrique de l’identité métropolitaine (sciences politiques)"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

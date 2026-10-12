@@ -1,5 +1,5 @@
 ---
-uuid: e0197ca8-78db-4de7-b8c6-56fcacff5eef
+uuid: eba9505e-1598-43aa-8e5e-d1e8533a35eb
 title: "Les Cahiers de la LCD"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"

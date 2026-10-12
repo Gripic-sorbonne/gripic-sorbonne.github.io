@@ -1,5 +1,5 @@
 ---
-uuid: 701f0bc6-27bb-4ded-aac3-1939530c08b5
+uuid: bbab35af-1bab-4f43-a865-7e13613e837d
 title: "Recettes médiatiques"
 author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"

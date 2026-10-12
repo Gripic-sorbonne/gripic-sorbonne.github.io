@@ -1,5 +1,5 @@
 ---
-uuid: f0c65667-b61d-4c50-839f-2abebaa19b59
+uuid: 7c5b5649-ea6c-4df5-a83b-d704d7818e75
 title: "S’habiller pour travailler"
 author: "Julien Tassel, Anthony Mathé"
 authors: "Julien Tassel, Anthony Mathé"

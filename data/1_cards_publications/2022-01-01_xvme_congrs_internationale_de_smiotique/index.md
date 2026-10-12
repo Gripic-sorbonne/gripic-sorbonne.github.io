@@ -1,5 +1,5 @@
 ---
-uuid: 9a648295-ea74-4364-8397-f21c2e518711
+uuid: b760c369-9ce0-4802-a0a3-b28441dfecb7
 title: "XVème Congrès internationale de sémiotique"
 author: "Pauline Escande"
 authors: "Pauline Escande"

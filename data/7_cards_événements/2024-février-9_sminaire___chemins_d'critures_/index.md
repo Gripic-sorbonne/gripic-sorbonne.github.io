@@ -1,7 +1,8 @@
 ---
-uuid: c6cb0ed1-e12a-4333-8ea9-d96129eaf6ae
+uuid: 27ddfb42-8154-4b29-bbb9-d1c9d0d33aff
 title: "Séminaire \" Chemins d'écritures\""
 author: "Emmanuel Souchier - Elsa Tadier- Anne Zali"
+date: "2024-février-9"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 9 février 2024 - 10:00 Séminaire Séminaire \" Chemins d'écritures\" L'écriture, le corps et l'autre Lieu :  Maison de la recherche, 28 rue Serpente 75006 Paris France Organisé par : Emmanuel Souchier - Elsa Tadier- Anne Zali ... Lire la suite"

@@ -1,7 +1,8 @@
 ---
-uuid: 71f464a3-46dc-409a-9f0c-c95894f34a4e
+uuid: 0747cf5f-ec88-47e4-a48d-911fc0fe68f6
 title: "Soutenance de thèse Inès GARMON"
 author: "Etienne Candel - Gripic"
+date: "2023-mars-27"
 event: true
 image: "no_event.webp"
 abstract: "Lundi 27 mars 2023 - 14:00 Soutenance Soutenance de thèse Inès GARMON Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Etienne Candel - Gripic ... Lire la suite"

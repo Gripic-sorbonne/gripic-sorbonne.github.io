@@ -1,5 +1,5 @@
 ---
-uuid: 2822d45d-3c6e-4d2f-8044-bba13264692e
+uuid: de29ce36-fbed-4699-9504-109757f403b2
 title: "L’alimentation demain"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

@@ -1,5 +1,5 @@
 ---
-uuid: 4616fb97-f07e-48b3-a24e-02ab5b8dd4fd
+uuid: 19fc0ac7-3acf-47d9-bda6-03edc9c91603
 title: "Les vins de France. Guide encyclopédique"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"

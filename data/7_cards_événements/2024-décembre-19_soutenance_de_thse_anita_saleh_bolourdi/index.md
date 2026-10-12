@@ -1,7 +1,8 @@
 ---
-uuid: 4e42c6a9-c910-42eb-9930-8c88c03b7774
+uuid: 9da6eb3b-b7d5-4a60-ab90-7d98bc7c92e5
 title: "Soutenance de Thèse Anita SALEH BOLOURDI"
 author: "Karine Berthelot-Guiet"
+date: "2024-décembre-19"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 19 décembre 2024 - 14:00 Soutenance Soutenance de Thèse Anita SALEH BOLOURDI La culture universitaire iranienne, une sphère multi-informationnelle et hybride Lieu :  77, rue de Villiers 92220 Neuilly sur Seine France Organisé par : Karine Berthelot-Guiet ... Lire la suite"

@@ -1,5 +1,5 @@
 ---
-uuid: 29bd0013-0d58-49eb-b7f7-86ba8fefba0c
+uuid: 33b4524f-29e2-4fdf-bf6d-543508bbf91f
 title: "Le noyau théorique propre à l’Anthropologie philosophique (Scheler, Plessner, Gehlen)"
 author: "Joachim Fischer, Matthieu Amat, Alexis Dirakis"
 authors: "Joachim Fischer, Matthieu Amat, Alexis Dirakis"

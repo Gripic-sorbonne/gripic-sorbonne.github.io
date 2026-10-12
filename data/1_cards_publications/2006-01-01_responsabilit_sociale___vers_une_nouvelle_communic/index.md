@@ -1,5 +1,5 @@
 ---
-uuid: 83d300e0-5464-4f3e-a712-237e8cc6e808
+uuid: 022921bf-a150-4fea-bac6-9d2536e20d05
 title: "Responsabilité sociale : vers une nouvelle communication des entreprises"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

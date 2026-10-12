@@ -1,5 +1,5 @@
 ---
-uuid: 0a378828-51dc-4145-9bfa-6d781dfa2484
+uuid: 94cab671-6ec6-46f1-b7a4-8439bc9dad86
 title: "séminaire de Daniel Ferrer Groupe Critique génétique des arts visuels"
 author: "Pauline Escande"
 authors: "Pauline Escande"

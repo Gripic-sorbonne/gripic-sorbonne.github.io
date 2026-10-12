@@ -1,7 +1,8 @@
 ---
-uuid: 43617c02-87b0-4a07-ba9c-f6d441f2485b
+uuid: 0d60121e-7d27-43b2-9f9a-9235c66dd948
 title: "Ecole d'été - 2ème édition"
 author: "L'école doctorale 433"
+date: "2025-septembre-8"
 event: true
 image: "no_event.webp"
 abstract: "Lundi 8 septembre 2025 - 10:00 au mardi 9 septembre 2025 - 16:00 Autre événement Ecole d'été - 2ème édition Penser la/les culture (s) Lieu :  Château de Versailles Versailles France Organisé par : L'école doctorale 433 ... Lire la suite"

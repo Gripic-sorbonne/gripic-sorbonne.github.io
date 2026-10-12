@@ -1,5 +1,5 @@
 ---
-uuid: 172679ba-96a4-48ae-8e93-cfb23e9d283e
+uuid: 805c736e-ecb4-4bf6-8756-03f4e6b40934
 title: "Séminaire GRIPIC axe “ Espace public, politique, genre ”"
 author: "Coline Reille"
 authors: "Coline Reille"

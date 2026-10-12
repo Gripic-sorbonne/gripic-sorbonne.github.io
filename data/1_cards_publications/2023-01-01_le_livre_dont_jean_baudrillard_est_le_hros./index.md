@@ -1,5 +1,5 @@
 ---
-uuid: cc59cb14-76b3-4497-ab43-7502e8040a80
+uuid: 139692b3-d32b-47e1-9519-dfc8a153dd44
 title: "Le Livre dont Jean Baudrillard est le héros."
 author: "Emmanuelle Fantin, Camille Zéhenne"
 authors: "Emmanuelle Fantin, Camille Zéhenne"

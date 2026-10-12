@@ -1,5 +1,5 @@
 ---
-uuid: 37217fa6-8781-468c-adb4-7422c7e8b6e7
+uuid: 55b74ee9-8be9-4e3f-b38a-15233a4f10a2
 title: "Etude critique des nouveaux modes “ d’éditorialisation ” de revues scientifiques en accès-ouvert"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"

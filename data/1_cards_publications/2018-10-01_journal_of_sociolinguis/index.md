@@ -1,5 +1,5 @@
 ---
-uuid: a0860d56-ccb2-4626-8556-8137411b1d08
+uuid: 088b067a-19de-4bd9-ba34-41945f4f7094
 title: "Journal of Sociolinguis"
 author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"

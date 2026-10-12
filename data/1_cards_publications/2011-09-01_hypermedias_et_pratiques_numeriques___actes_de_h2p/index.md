@@ -1,5 +1,5 @@
 ---
-uuid: 61637d4e-78a1-4b3d-a896-c6fed13963cb
+uuid: ac7c5aa3-967e-48b0-a549-dfc31c7a2a9b
 title: "Hypermedias et pratiques numeriques : actes de H2PTM’11, 12-13 et 14 octobre 2011, Universite Paul Verlaine, Metz"
 author: "Imad Saleh, Luc Massou, Sylvie Leleu-Merviel, Yves Jeanneret, Nasreddine Bouhai, Pierre Morelli"
 authors: "Imad Saleh, Luc Massou, Sylvie Leleu-Merviel, Yves Jeanneret, Nasreddine Bouhai, Pierre Morelli"

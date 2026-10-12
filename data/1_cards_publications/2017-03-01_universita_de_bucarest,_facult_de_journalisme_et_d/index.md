@@ -1,5 +1,5 @@
 ---
-uuid: eb2d33b9-eb47-4778-86fa-21ba581c621e
+uuid: 8f12747b-4b0b-4a7c-a902-8c0bc2cd4de9
 title: "Universitéa de Bucarest, Faculté de Journalisme et d’études de Communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"

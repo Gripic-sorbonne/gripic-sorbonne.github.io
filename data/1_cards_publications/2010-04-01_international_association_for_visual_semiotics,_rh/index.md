@@ -1,5 +1,5 @@
 ---
-uuid: 402c3c20-bddb-4498-87fc-ce1233075cd0
+uuid: 2b5e0d5b-e8b0-4790-99f6-d1937c0ca052
 title: "International Association for Visual Semiotics, Rhétorique du visible. Stratégies de l’image entre signification et communication"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

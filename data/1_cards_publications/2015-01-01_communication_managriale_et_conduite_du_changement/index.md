@@ -1,5 +1,5 @@
 ---
-uuid: a08a96ac-ccaa-4a66-8f0a-19ea1ca87c1c
+uuid: 6753bf6a-70cf-47ca-964f-6d78a9b3afce
 title: "Communication managériale et conduite du changement : une politique de mobilité en question chez Orange France"
 author: "Laurence Perrin Eloy-Perrin"
 authors: "Laurence Perrin Eloy-Perrin"

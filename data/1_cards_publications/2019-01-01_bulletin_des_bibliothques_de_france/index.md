@@ -1,5 +1,5 @@
 ---
-uuid: a1d94373-e41d-43de-b20d-1b66b125d61c
+uuid: ab559b1c-c9f2-401a-9e85-4761f5d24394
 title: "Bulletin des Bibliothèques de France"
 author: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
 authors: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"

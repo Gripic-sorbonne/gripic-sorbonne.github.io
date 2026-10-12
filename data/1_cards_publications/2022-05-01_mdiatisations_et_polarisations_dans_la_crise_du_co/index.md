@@ -1,5 +1,5 @@
 ---
-uuid: 8d53cb3a-9eac-4240-9607-dec271910747
+uuid: 55ed4ff3-1824-474d-a376-f4ee0a732f1d
 title: "Médiatisations et polarisations dans la crise du Covid-19. Entretien avec François Allard-Huver"
 author: "Thierry Devars, François Allard-Huver"
 authors: "Thierry Devars, François Allard-Huver"

@@ -1,7 +1,8 @@
 ---
-uuid: 7d6e61d3-028d-4c08-b364-39050db4b45a
+uuid: 788c24a3-ccab-4748-ae3d-3197150e986c
 title: "Séminaire \" Médiamorphoses\""
 author: "Pauline Escande Gauquié - Valérie Jeanne Perrier- Laboratoire ISMIC ( Marseille)"
+date: "2023-février-1"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 1 février 2023 - 15:00 Séminaire Séminaire \" Médiamorphoses\" Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Pauline Escande Gauquié - Valérie Jeanne Perrier- Laboratoire ISMIC ( Marseille) ... Lire la suite"

@@ -1,5 +1,5 @@
 ---
-uuid: 9ad26672-10c8-4369-b650-a95a7b0a597a
+uuid: 54f0be72-1ea6-45b5-9e88-2fa8306bf111
 title: "Images fixes, du support à l’émotion. Photographie, cinéma, vidéo"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"

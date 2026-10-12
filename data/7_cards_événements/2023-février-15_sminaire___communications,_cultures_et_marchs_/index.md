@@ -1,7 +1,8 @@
 ---
-uuid: 3386be3b-c591-425b-a624-e1418439e75f
+uuid: 618778f0-048a-4984-84e7-bff1efb7d657
 title: "Séminaire \" Communications, cultures et marchés\""
 author: "Caroline Marti- LabSic"
+date: "2023-février-15"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 15 février 2023 - 17:00 Séminaire Séminaire \" Communications, cultures et marchés\" Captations numériques et corps embarqués Lieu :  28, rue Serpente 75006 Paris France Organisé par : Caroline Marti- LabSic ... Lire la suite"
