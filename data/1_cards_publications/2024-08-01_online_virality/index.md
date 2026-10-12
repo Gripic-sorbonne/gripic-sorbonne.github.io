@@ -1,5 +1,5 @@
 ---
-uuid: 10ce2faf-c191-4ea1-bca1-489104f4138e
+uuid: 8d9ec411-5202-4253-be09-eddd7ed8143d
 title: "Online Virality"
 author: "Thibault Grison"
 authors: "Thibault Grison"

@@ -1,5 +1,5 @@
 ---
-uuid: f3b9db75-55bd-4070-a0a8-3d3414f73fd1
+uuid: fedce049-4f3f-4c2c-ba2b-13c27aeec5dc
 title: "Le lien social au regard de la circulation des biens, des personnes et des capitaux"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

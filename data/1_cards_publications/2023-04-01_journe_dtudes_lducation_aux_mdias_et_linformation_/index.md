@@ -1,5 +1,5 @@
 ---
-uuid: fcf757c7-a4dd-4d71-88b7-6871e73bc231
+uuid: 82826a49-3711-4aa3-a30a-ef10497f99dc
 title: "Journée d’études “ L’éducation aux médias et à l’information sur tous les fronts ”"
 author: "Thibault Grison"
 authors: "Thibault Grison"

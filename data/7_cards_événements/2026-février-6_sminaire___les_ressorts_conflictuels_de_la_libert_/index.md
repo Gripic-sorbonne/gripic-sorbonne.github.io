@@ -1,5 +1,5 @@
 ---
-uuid: ebb6d64e-ea54-4e89-8c10-25f0ed6d76f0
+uuid: 0725da00-3857-46bf-a590-976f58bbb5f4
 title: "Séminaire \" Les ressorts conflictuels de la liberté d'expression\""
 author: "Adélie Laruncet - Thibault Grison"
 date: "2026-février-6"

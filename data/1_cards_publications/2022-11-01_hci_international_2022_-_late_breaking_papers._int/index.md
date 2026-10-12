@@ -1,5 +1,5 @@
 ---
-uuid: 24f37b8c-7b98-4e92-80e8-370797d1f6eb
+uuid: cd8e3db1-c60e-4d15-8071-b4b469c5fd8e
 title: "HCI International 2022 - Late Breaking Papers. Interaction in New Media, Learning and Games"
 author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"

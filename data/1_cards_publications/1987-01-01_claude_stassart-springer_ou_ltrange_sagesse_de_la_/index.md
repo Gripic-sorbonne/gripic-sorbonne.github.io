@@ -1,5 +1,5 @@
 ---
-uuid: 8992af6f-bb94-44f7-aa56-ea2db6a1a7f5
+uuid: 81e82314-0512-474f-b43b-c44e7dff7296
 title: "Claude Stassart-Springer ou l’étrange sagesse de la mort amoureuse"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

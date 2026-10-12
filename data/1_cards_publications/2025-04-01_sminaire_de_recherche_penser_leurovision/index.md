@@ -1,5 +1,5 @@
 ---
-uuid: bfc986b8-c618-4db9-a32b-17824c4a1d33
+uuid: cce02536-5a83-45f9-bea9-e866ba0c4db5
 title: "Séminaire de recherche ”Penser l’Eurovision”"
 author: "Sébastien Appiotti, Lisa Bolz, Johan Boittiaux, Marie-Caroline Neuvillers"
 authors: "Sébastien Appiotti, Lisa Bolz, Johan Boittiaux, Marie-Caroline Neuvillers"

@@ -77,16 +77,37 @@ def make_yaml_header_member(name: str, position: str) -> str:
 #                f"---\n\n")
 #     return header
 
+# def make_yaml_header_event(title: str, author: str, abstract: str, image_filename: str, event_date: str) -> str:
+#     clean_title = title.replace('"', '\\"').replace('\n', ' ')
+#     clean_author = author.replace('"', '\\"').replace('\n', ' ')
+#     clean_abstract = abstract.replace('"', '\\"').replace('\n', ' ')
+
+#     header = (f"---\n" +
+#               f"uuid: {uuid.uuid4()}\n" +
+#               f"title: \"{clean_title}\"\n" +
+#               f"author: \"{clean_author}\"\n" +
+#               f"date: \"{event_date}\"\n" +  # <--- AQUÍ: Gatsby usará esto para el sort DESC
+#               f"event: true\n")
+#     if image_filename:
+#         header += f"image: \"{image_filename}\"\n"
+#     header += (f"abstract: \"{clean_abstract}\"\n" +
+#                f"---\n\n")
+#     return header
+
 def make_yaml_header_event(title: str, author: str, abstract: str, image_filename: str, event_date: str) -> str:
     clean_title = title.replace('"', '\\"').replace('\n', ' ')
     clean_author = author.replace('"', '\\"').replace('\n', ' ')
     clean_abstract = abstract.replace('"', '\\"').replace('\n', ' ')
+    
+    # Extraer el año de la fecha (YYYY-MM-DD -> YYYY)
+    year = event_date.split("-")[0] if event_date else "Unknown"
 
     header = (f"---\n" +
               f"uuid: {uuid.uuid4()}\n" +
               f"title: \"{clean_title}\"\n" +
               f"author: \"{clean_author}\"\n" +
-              f"date: \"{event_date}\"\n" +  # <--- AQUÍ: Gatsby usará esto para el sort DESC
+              f"date: \"{event_date}\"\n" +
+              f"year: \"{year}\"\n" +      # <--- ¡AQUÍ ESTÁ EL SECRETO! Agregamos el year igual que las publicaciones
               f"event: true\n")
     if image_filename:
         header += f"image: \"{image_filename}\"\n"

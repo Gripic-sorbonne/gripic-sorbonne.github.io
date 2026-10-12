@@ -1,5 +1,5 @@
 ---
-uuid: 0ac09c3c-58d0-4f52-887c-2b4275983cac
+uuid: fdfb683c-650f-4b25-aa77-f73f582774ab
 title: "Annales des mines - Série Responsabilité et environnement"
 author: "Nicole Almeida, Béatrice Jalenques-Vigouroux"
 authors: "Nicole Almeida, Béatrice Jalenques-Vigouroux"

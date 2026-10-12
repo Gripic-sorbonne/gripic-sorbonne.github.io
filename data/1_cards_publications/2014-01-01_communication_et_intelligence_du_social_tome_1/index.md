@@ -1,5 +1,5 @@
 ---
-uuid: 71e77509-a2c0-4995-b3f1-a82a953d6104
+uuid: 0dd661f1-0227-4470-b041-10a27e0c0443
 title: "Communication et intelligence du social tome 1"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

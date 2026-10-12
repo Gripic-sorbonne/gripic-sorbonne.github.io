@@ -1,5 +1,5 @@
 ---
-uuid: 5fe88c55-bf34-4cce-b083-cc0051b3253f
+uuid: d360943e-70bd-467d-9f12-f84a2baf18da
 title: "La guerre de Crimée, la première guerre moderne européenne ?"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

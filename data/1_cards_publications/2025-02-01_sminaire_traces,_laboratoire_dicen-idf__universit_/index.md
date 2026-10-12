@@ -1,5 +1,5 @@
 ---
-uuid: 3a2627a2-5ac0-41d0-846f-7dac5f584b50
+uuid: 3d72c936-c7e1-4842-8560-37f094cddcba
 title: "Séminaire ”Traces”, laboratoire Dicen-IDF (Université Paris Nanterre)"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"

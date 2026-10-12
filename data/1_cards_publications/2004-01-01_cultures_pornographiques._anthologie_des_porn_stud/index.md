@@ -1,5 +1,5 @@
 ---
-uuid: 1c141c9c-0099-4d2f-953a-fd64a12fccd4
+uuid: 5766a294-f1a1-4db1-a413-26394602d3ef
 title: "Cultures pornographiques. Anthologie des Porn Studies"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: c7f7b427-263a-48ef-aeaa-4a1b56345e2e
+uuid: 143fd32c-e266-47b7-a432-67ad5fffe4cd
 title: "LiFraLu : une belle inconnue. La littérature francophone luxembourgeoise : Bilan et perspectives"
 author: "Séverine Barthes"
 authors: "Séverine Barthes"

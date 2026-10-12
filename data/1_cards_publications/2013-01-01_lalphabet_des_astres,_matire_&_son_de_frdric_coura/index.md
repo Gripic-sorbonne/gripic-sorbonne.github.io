@@ -1,5 +1,5 @@
 ---
-uuid: 35dd8342-11c3-45aa-abd5-98bf8931802a
+uuid: c4189ff0-22d2-4cba-8be5-99e51a769634
 title: "L’alphabet des astres”, “Matière & son de Frédéric Couraillon,” “L’éveil des lucioles”"
 author: "Emmanuël Souchier, Christian Noorbergen, Cécile Kermet"
 authors: "Emmanuël Souchier, Christian Noorbergen, Cécile Kermet"

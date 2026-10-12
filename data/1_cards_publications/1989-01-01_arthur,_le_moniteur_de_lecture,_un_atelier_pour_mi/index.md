@@ -1,5 +1,5 @@
 ---
-uuid: 81a57067-48ad-4297-8982-a1a05c8729ee
+uuid: 0f0814fb-e367-4bba-bd1d-65ab3cc96fd3
 title: "Arthur, le moniteur de lecture, Un atelier pour mieux maîtriser la lecture"
 author: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 authors: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"

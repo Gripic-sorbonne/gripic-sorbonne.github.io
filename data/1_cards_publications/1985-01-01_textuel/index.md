@@ -1,5 +1,5 @@
 ---
-uuid: e9c8137e-74b5-4294-a254-4066bd8483c6
+uuid: 574665c2-58f2-466a-b576-10b707aa664c
 title: "Textuel"
 author: "Emmanuël Souchier, Joanna Pomian"
 authors: "Emmanuël Souchier, Joanna Pomian"

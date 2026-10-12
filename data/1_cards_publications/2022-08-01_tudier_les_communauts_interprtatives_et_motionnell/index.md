@@ -1,5 +1,5 @@
 ---
-uuid: 20a7e669-ac2a-4ca2-b2b3-dc80e101751a
+uuid: 30476d0e-5b59-4614-be21-1295124b4452
 title: "Étudier les communautés interprétatives et émotionnelles"
 author: "Virginie Julliard, Alexandra Saemmer"
 authors: "Virginie Julliard, Alexandra Saemmer"

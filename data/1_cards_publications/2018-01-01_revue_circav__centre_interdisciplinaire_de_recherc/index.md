@@ -1,5 +1,5 @@
 ---
-uuid: 28b5455d-ba30-43ba-b379-029d34ffce23
+uuid: 45405204-d6a7-4d1f-8693-6ba97b531947
 title: "Revue CIRCAV (Centre interdisciplinaire de recherche sur la communication audio-visuelle)"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"
