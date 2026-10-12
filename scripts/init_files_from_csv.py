@@ -59,14 +59,30 @@ def make_yaml_header_member(name: str, position: str) -> str:
             f"---\n\n")
 
 
+# def make_yaml_header_event(title: str, author: str, abstract: str) -> str:
+#     return (f"---\n" +
+#             f"uuid: {uuid.uuid4()}\n" +
+#             f"title: \"{title}\"\n" +
+#             f"author: \"{author}\"\n" +
+#             f"event: true\n" +
+#             f"abstract: \"{abstract}\"\n" +
+#             f"---\n\n")
+
+
+
 def make_yaml_header_event(title: str, author: str, abstract: str) -> str:
+    clean_title = title.replace('"', '\\"').replace('\n', ' ')
+    clean_author = author.replace('"', '\\"').replace('\n', ' ')
+    clean_abstract = abstract.replace('"', '\\"').replace('\n', ' ')
+
     return (f"---\n" +
             f"uuid: {uuid.uuid4()}\n" +
-            f"title: \"{title}\"\n" +
-            f"author: \"{author}\"\n" +
+            f"title: \"{clean_title}\"\n" +
+            f"author: \"{clean_author}\"\n" +
             f"event: true\n" +
-            f"abstract: \"{abstract}\"\n" +
+            f"abstract: \"{clean_abstract}\"\n" +
             f"---\n\n")
+
 
 
 def make_yaml_header_publication(pub_dict: dict) -> str:

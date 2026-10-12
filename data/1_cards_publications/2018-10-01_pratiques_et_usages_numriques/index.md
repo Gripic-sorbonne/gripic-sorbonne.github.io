@@ -1,5 +1,5 @@
 ---
-uuid: edaa362b-6abc-4e6e-9c78-4f92ff1359cb
+uuid: e1c6111c-154c-4fa8-a276-b2ffb7f28069
 title: "Pratiques et usages numériques"
 author: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
 authors: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"

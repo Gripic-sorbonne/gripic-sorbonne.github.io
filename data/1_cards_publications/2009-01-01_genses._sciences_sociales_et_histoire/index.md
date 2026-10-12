@@ -1,5 +1,5 @@
 ---
-uuid: b55d569c-49b7-49f7-8b22-351f3b86b013
+uuid: 2c375ba5-bdae-47a0-978f-008618ec5fe2
 title: "Genèses. Sciences sociales et histoire"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

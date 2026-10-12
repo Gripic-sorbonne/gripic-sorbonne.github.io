@@ -1,5 +1,5 @@
 ---
-uuid: d2664521-b364-4649-9af1-5e6ac606bb17
+uuid: f110ab60-42be-4713-b54a-0e349db76a5d
 title: "Espaces physiques, espaces mentaux. Identités et échanges"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

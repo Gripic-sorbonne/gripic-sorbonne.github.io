@@ -1,5 +1,5 @@
 ---
-uuid: a559d5d4-3d81-4e26-be0a-4706ce8f03e3
+uuid: 9fbf11a3-e0f1-45dc-8f20-5c07d33b21c4
 title: "Communication & langages"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"

@@ -1,5 +1,5 @@
 ---
-uuid: a7d9103d-b532-4c1e-b6db-f2547b51f7c0
+uuid: c3c02ce2-debd-4e09-9c39-85c46730d40f
 title: "Gastronomie et Communication"
 author: "Camille Brachet, Julien Tassel"
 authors: "Camille Brachet, Julien Tassel"

@@ -1,5 +1,5 @@
 ---
-uuid: cca511b5-d2b6-4f1f-86f4-3a3f52ebba02
+uuid: 80f5f729-e6a3-487b-b476-ea53ab81c4bc
 title: "Créations multimédias"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

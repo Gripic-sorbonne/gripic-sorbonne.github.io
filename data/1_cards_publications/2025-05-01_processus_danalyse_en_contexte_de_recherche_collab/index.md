@@ -1,5 +1,5 @@
 ---
-uuid: ff90f382-6d59-409f-96fa-52c209ec449e
+uuid: b2b3c1bd-a286-4b83-bb02-844c0d60df32
 title: "Processus d’analyse en contexte de recherche collaborative : partage des rôles, maillage des savoirs et retombées"
 author: "Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Ines Garmon"
 authors: "Fabienne Martin-Juchat, Iana Antonova, Grégoire Besson, Ines Garmon"

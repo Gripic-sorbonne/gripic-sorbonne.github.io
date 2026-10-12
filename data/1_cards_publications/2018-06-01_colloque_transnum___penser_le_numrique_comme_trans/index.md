@@ -1,5 +1,5 @@
 ---
-uuid: 7f404ba2-6f1a-46cd-b53b-bbf3a2c3f5ba
+uuid: 2c60156f-0388-4eb2-8848-e14e642ebf4b
 title: "Colloque TRANSNUM : Penser le numérique comme transformation"
 author: "Pauline Escande"
 authors: "Pauline Escande"

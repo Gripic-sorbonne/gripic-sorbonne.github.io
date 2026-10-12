@@ -1,5 +1,5 @@
 ---
-uuid: e3068279-2329-4c70-a145-4d42585223d6
+uuid: a474d51e-3612-40ad-938b-e101dff02daa
 title: "Recherches Semiotiques Semiotic Inquiry"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

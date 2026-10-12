@@ -1,5 +1,5 @@
 ---
-uuid: a9e2caa8-20d3-4849-ad50-0fb5e038117d
+uuid: 15041c66-e863-4c16-99d3-c21c6028d41d
 title: "Recherche et Applications en Marketing (French Edition)"
 author: "Caroline Montety"
 authors: "Caroline Montety"

@@ -1,5 +1,5 @@
 ---
-uuid: b5ea2e68-dd6f-457d-8170-52cfded38a89
+uuid: c5c236e9-efc0-4d37-9df6-1055d3690335
 title: "La publicité au passé"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

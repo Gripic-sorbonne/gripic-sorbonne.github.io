@@ -1,9 +1,9 @@
 ---
-uuid: 3968a3fb-79c5-485b-bd2f-059aaf3a4523
-title: "Workshop " Media, Democracy, Europe""
+uuid: fe5d6385-414a-4914-a2b0-029721b37876
+title: "Workshop \" Media, Democracy, Europe\""
 author: "Université de Prague"
 event: true
-abstract: "Mercredi 29 avril 2026 - 09:15 Autre événement Workshop " Media, Democracy, Europe" Lieu :  Prague République tchèque Organisé par : Université de Prague ... Lire la suite"
+abstract: "Mercredi 29 avril 2026 - 09:15 Autre événement Workshop \" Media, Democracy, Europe\" Lieu :  Prague République tchèque Organisé par : Université de Prague ... Lire la suite"
 ---
 
 ## Date
