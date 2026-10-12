@@ -1,5 +1,5 @@
 ---
-uuid: 0a6f31a3-d3e4-446e-9407-6162d6c9362d
+uuid: 638a8cf4-f0df-4017-a4ba-178f260ce122
 title: "Représentations de la sémiotique dans le discours marketing : approche d’un corpus de manuels"
 author: "Caroline Marti"
 authors: "Caroline Marti"

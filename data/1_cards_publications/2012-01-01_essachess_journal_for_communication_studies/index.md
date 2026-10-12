@@ -1,5 +1,5 @@
 ---
-uuid: 5ad2ddb6-ac24-4e87-836d-7f30b88a079e
+uuid: 4c583a0d-776c-488b-84c5-8d53a34f5930
 title: "ESSACHESS – Journal for Communication Studies"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

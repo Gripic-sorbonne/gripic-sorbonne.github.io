@@ -1,5 +1,5 @@
 ---
-uuid: 01620de9-59cd-457e-87ea-9f2111b84cdc
+uuid: bfb7c357-bf47-4a49-87b6-a955f8549ba5
 title: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
 author: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
 authors: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"

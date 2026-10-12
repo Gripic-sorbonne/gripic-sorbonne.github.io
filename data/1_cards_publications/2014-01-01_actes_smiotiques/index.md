@@ -1,5 +1,5 @@
 ---
-uuid: 9cb82f3d-757d-40c8-b684-87f9e4906241
+uuid: 2f52bcf9-65c8-4249-a074-af0cc2339ec8
 title: "Actes Sémiotiques"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

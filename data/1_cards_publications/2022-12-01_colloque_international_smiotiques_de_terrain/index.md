@@ -1,5 +1,5 @@
 ---
-uuid: 6afc19ff-6293-4dd4-bba9-db563b71f694
+uuid: 57ec33dc-947d-40e0-b5d8-768863d2cf47
 title: "Colloque international Sémiotiques de terrain"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

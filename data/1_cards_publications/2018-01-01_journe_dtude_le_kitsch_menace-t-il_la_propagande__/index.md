@@ -1,5 +1,5 @@
 ---
-uuid: 13bd2f03-ffc6-4aa7-93a5-7cd456dd41ac
+uuid: 367fc720-7141-45f7-a4fd-34896a49e1ef
 title: "Journée d’étude “ Le kitsch menace-t-il la propagande ? ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

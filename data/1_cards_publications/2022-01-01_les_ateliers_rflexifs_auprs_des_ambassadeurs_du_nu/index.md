@@ -1,5 +1,5 @@
 ---
-uuid: 0a4edf5b-2bef-4292-8821-2b220a4f9401
+uuid: d961cf91-57cb-43e3-bdf2-986e11129c65
 title: "Les ateliers réflexifs auprès des Ambassadeurs du numérique"
 author: "Laurent Petit, Aude Seurrat"
 authors: "Laurent Petit, Aude Seurrat"

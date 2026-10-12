@@ -1,5 +1,5 @@
 ---
-uuid: 7db34fbc-8f19-42fd-852d-449fa0812d6e
+uuid: 80fca7b6-8b50-4a17-82a1-c1ff076897c1
 title: "Un texte sans rivage"
 author: "Emmanuël Souchier, Anne Zali"
 authors: "Emmanuël Souchier, Anne Zali"

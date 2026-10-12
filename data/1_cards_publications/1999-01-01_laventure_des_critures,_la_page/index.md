@@ -1,5 +1,5 @@
 ---
-uuid: 179e9496-2ca8-4128-8e6e-e4acbe03948c
+uuid: 527b9eb2-db70-491b-8bda-24c8874f0826
 title: "L’aventure des écritures, La page"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

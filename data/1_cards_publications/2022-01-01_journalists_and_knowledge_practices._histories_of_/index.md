@@ -1,5 +1,5 @@
 ---
-uuid: fa8bcacc-a01e-4a5d-8ced-36d1782a035d
+uuid: 907bc462-67cd-4459-a466-ecc1037da567
 title: "Journalists and Knowledge Practices. Histories of Observing the Everyday in the Newspaper Age"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

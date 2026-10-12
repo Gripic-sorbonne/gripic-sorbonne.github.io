@@ -1,5 +1,5 @@
 ---
-uuid: 680f3fd4-06d0-404f-8ee0-0cbf2761a733
+uuid: f985eec4-550b-49fb-9065-f3c3115eaf62
 title: "No fake news"
 author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"

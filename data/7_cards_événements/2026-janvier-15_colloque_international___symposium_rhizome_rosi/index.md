@@ -1,5 +1,5 @@
 ---
-uuid: 9650f7e0-552b-4070-9701-4f814a3db212
+uuid: 2cc97e50-bfff-49c9-9ff6-1e53cb5c4726
 title: "Colloque international : Symposium Rhizome Rosi"
 author: "Nelly Quemener, Marco dell Omodarme, Krista Faurie"
 event: true

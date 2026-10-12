@@ -1,5 +1,5 @@
 ---
-uuid: 6ebfbb2c-bbd9-4078-bdcd-02b430fa2505
+uuid: 422cd346-fab3-4e44-8472-2e2593cbdef7
 title: "Colloque “ Mémoire et oubli ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

@@ -1,5 +1,5 @@
 ---
-uuid: 3a55037c-32a4-4c99-b5e5-dafaa9f2cd86
+uuid: 021f3eca-1312-406a-9e77-18c8350b3678
 title: "séminaire international “ Mutations et transformations des marques ”"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

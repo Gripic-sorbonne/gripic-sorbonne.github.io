@@ -1,5 +1,5 @@
 ---
-uuid: 75b1014a-4b85-45c0-a5fb-f1a5fbef8845
+uuid: 861ecf62-1197-4d3e-b74b-75a369a46bd0
 title: "Ecrire un mémoire en Sciences de l’information et de la communication"
 author: "Pauline Escande, Aude Seurrat"
 authors: "Pauline Escande, Aude Seurrat"

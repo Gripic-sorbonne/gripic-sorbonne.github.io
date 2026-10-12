@@ -1,5 +1,5 @@
 ---
-uuid: 09d893df-bb4b-443f-bcef-3a1a0bb11155
+uuid: d0367e50-7e57-4a9a-a696-1b7cc82c6dba
 title: "Revue Critique de Fixxion Française Contemporaine"
 author: "Marine Siguier"
 authors: "Marine Siguier"

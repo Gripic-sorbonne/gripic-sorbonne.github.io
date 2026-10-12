@@ -1,5 +1,5 @@
 ---
-uuid: aa7189e4-cc93-41a2-a672-dd41c0a5d67b
+uuid: a1aa9055-e74a-4e8b-8d58-912f689de732
 title: "Adjectif : analyses et recherches sur les TICE"
 author: "Julien Chamboredon"
 authors: "Julien Chamboredon"

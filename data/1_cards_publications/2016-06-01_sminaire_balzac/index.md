@@ -1,5 +1,5 @@
 ---
-uuid: 7d5639f1-1e43-4a67-bde4-50e20b276a77
+uuid: abaee8b7-7b29-4fc3-99b5-2567e9cbb8ca
 title: "Séminaire Balzac"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

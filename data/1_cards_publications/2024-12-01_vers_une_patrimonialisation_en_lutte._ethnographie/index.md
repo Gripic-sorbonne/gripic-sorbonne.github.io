@@ -1,5 +1,5 @@
 ---
-uuid: 0a1116f4-9121-4eef-bb54-72ae58b85059
+uuid: 41139961-b1f6-4e31-9816-ce54e3cc904f
 title: "Vers une patrimonialisation en lutte. Ethnographie des savoirs, des objets et des pratiques de Notre-Dame-des-Landes"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"

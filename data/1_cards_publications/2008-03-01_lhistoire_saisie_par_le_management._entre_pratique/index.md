@@ -1,5 +1,5 @@
 ---
-uuid: 25bf7c7b-2b90-4849-a139-32034db47c95
+uuid: bc4438a3-cb2b-467d-b4a7-f4bcfd14ac7e
 title: "L’histoire saisie par le management. Entre pratiques du passé et exercice du pouvoir managérial. L’exemple du Groupe Caisse d’Épargne."
 author: "Julien Tassel"
 authors: "Julien Tassel"

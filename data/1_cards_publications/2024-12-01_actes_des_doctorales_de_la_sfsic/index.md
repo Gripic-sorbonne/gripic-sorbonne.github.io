@@ -1,5 +1,5 @@
 ---
-uuid: afb2ad3c-e83a-4c17-9aed-624768ebb6e2
+uuid: 655ae0eb-439a-498e-9e74-c6ce96fb781e
 title: "Actes des doctorales de la SFSIC"
 author: "Coline Reille"
 authors: "Coline Reille"
