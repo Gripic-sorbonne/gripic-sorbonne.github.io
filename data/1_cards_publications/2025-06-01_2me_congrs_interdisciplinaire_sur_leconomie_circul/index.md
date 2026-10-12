@@ -1,5 +1,5 @@
 ---
-uuid: 8c067525-9978-47d2-a743-dd57df81fa3f
+uuid: f8b0f7dc-932b-4133-aefb-7ad3edc76092
 title: "2ème Congrès Interdisciplinaire sur l’Economie Circulaire (CIEC 2025)"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"

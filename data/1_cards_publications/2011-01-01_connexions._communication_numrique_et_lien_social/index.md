@@ -1,5 +1,5 @@
 ---
-uuid: c1dad95e-a3ee-475f-a0ec-10d45af20e01
+uuid: 24e34855-e479-4466-b72c-34cb8bad96a2
 title: "Connexions. Communication numérique et lien social"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

@@ -1,5 +1,5 @@
 ---
-uuid: 85a77a24-0aeb-4e88-aeb8-476144f946ba
+uuid: 2e4c7083-0283-41b7-b9e6-0709dae9b6d0
 title: "Séminaire international d’Arcanes"
 author: "Emmanuelle Fantin, Katharina Niemeyer"
 authors: "Emmanuelle Fantin, Katharina Niemeyer"

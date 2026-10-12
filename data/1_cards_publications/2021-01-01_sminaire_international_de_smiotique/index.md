@@ -1,5 +1,5 @@
 ---
-uuid: 344024a1-333c-4785-a353-d51b01bafa9d
+uuid: bc477b00-9260-42c7-9d27-6a961621515f
 title: "Séminaire international de Sémiotique"
 author: "Emmanuelle Fantin, Sophie Corbillé"
 authors: "Emmanuelle Fantin, Sophie Corbillé"

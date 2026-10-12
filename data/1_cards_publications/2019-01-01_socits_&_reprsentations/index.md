@@ -1,5 +1,5 @@
 ---
-uuid: 0cd00b0d-dff9-4682-b61b-1fedbd9aff0c
+uuid: 2fa4f35c-58c4-463b-842e-755484a91e96
 title: "Sociétés & Représentations"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"

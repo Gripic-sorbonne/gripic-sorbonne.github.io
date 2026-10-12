@@ -1,5 +1,5 @@
 ---
-uuid: 63c1fc07-15f1-4068-b5ed-db3ef2488170
+uuid: 2ef0a639-d27e-4768-ac9e-2a9e6d528be0
 title: "André Belleguie : Livres d’harmonie. Hommages & mouvements"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

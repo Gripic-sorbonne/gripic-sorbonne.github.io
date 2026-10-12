@@ -1,5 +1,5 @@
 ---
-uuid: 3009ddc2-fb79-4e7e-9e49-ce9bbe923622
+uuid: ce7695db-0044-4028-a67a-caa70b0b4759
 title: "L’identité plurielle. Images de soi, regards sur les autres"
 author: "Oriane Deseilligny, Caroline Angé"
 authors: "Oriane Deseilligny, Caroline Angé"

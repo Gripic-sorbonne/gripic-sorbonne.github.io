@@ -1,5 +1,5 @@
 ---
-uuid: 670615bb-a050-4224-bd05-0447b45d5605
+uuid: 96639a20-dad2-4ef1-9a3e-badca3129894
 title: "Communication des organisations : recherches récentes"
 author: "Julien Tassel"
 authors: "Julien Tassel"

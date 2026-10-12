@@ -1,5 +1,5 @@
 ---
-uuid: b66083db-69fe-49c5-a25c-a83374f08947
+uuid: 29298cf7-e412-4ef6-82e2-4bd6d2c92a2c
 title: "Mauriac journaliste"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

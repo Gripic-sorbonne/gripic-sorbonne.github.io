@@ -1,5 +1,5 @@
 ---
-uuid: a09054f7-cfa7-455a-85a6-c652a6f0e026
+uuid: a977af97-e99f-4430-9940-ad84c66ed058
 title: "Journée doctorale “ Littérature et communication ”"
 author: "Berenice Mariau"
 authors: "Berenice Mariau"

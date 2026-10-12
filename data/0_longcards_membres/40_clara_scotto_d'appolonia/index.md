@@ -1,5 +1,5 @@
 ---
-uuid: 241d0265-aa1a-4e25-a1bf-6a0282d06f0e
+uuid: f78cfef7-7a67-4788-a1de-724aab8c29d6
 prettyName: ClaraScottodAppolonia
 
 title: "Clara Scotto d'Appolonia"

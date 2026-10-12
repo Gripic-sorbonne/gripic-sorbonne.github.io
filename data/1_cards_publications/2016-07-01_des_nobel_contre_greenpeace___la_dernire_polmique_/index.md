@@ -1,5 +1,5 @@
 ---
-uuid: 1219569e-84bb-4439-9e86-02968ae1a26d
+uuid: 4fd12008-21fe-487d-be3b-897e48e979aa
 title: "Des Nobel contre Greenpeace : la dernière polémique OGM décryptée"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

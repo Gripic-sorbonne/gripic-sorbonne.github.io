@@ -1,5 +1,5 @@
 ---
-uuid: 091783ed-5dec-40aa-9dd4-5508744fc0d7
+uuid: 90a3bf69-8eb6-4e5c-931f-5229fe31cb8d
 title: "Actes des Doctorales du CREM"
 author: "Joachim Fischer"
 authors: "Joachim Fischer"

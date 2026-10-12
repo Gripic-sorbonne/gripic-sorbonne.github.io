@@ -1,5 +1,5 @@
 ---
-uuid: c3b56da3-49d8-4e16-bb28-6992ccdb55ce
+uuid: 0762c523-12d1-4233-aa9b-ec11c61a775c
 title: "Plateforme / Plateformisation"
 author: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
 authors: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"

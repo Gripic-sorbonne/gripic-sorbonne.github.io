@@ -1,5 +1,5 @@
 ---
-uuid: aaf58f8e-b56b-4f8d-b409-9beb81b6aafa
+uuid: a9fc7c28-86a4-433a-999f-4edc117ada64
 title: "Citer, indexer ou cartographier ?<br />De la circulation et de la lecture des textes relatifs à une œuvre littéraire sur internet"
 author: "Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier"
 authors: "Isabelle Garron, Jean-Luc Minel, Emmanuël Souchier"

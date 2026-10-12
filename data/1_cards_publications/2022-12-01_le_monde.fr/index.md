@@ -1,5 +1,5 @@
 ---
-uuid: 12232add-6d7e-411e-b8aa-293c8d9a9510
+uuid: 5efc7dfc-bb06-4575-9d2f-6ff1f1f502c0
 title: "Le Monde.fr"
 author: "Alexis Lévrier"
 authors: "Alexis Lévrier"

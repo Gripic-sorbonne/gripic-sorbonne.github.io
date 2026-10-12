@@ -1,5 +1,5 @@
 ---
-uuid: 91df3ea4-f473-4d27-92d4-2cebf8a85634
+uuid: 9de40ff6-edfa-4826-8ecc-970351457e22
 title: "Glissée au tranchant de la vie, l’âme marouflée obéit..."
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
