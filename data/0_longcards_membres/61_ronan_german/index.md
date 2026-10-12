@@ -1,5 +1,5 @@
 ---
-uuid: c51fef5a-6049-4b2f-92b0-fcac36b52213
+uuid: bf10a2e4-dc26-47cb-925b-157223f26b2e
 prettyName: RonanGerman
 
 title: "Ronan German"
@@ -80,7 +80,7 @@ les publics 15-25 ans », Cap Sciences, Bordeaux.
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Cultures, savoirs et communication, Médiations marchandes, Formes et écritures médiatiques
 

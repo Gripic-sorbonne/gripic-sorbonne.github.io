@@ -1,5 +1,5 @@
 ---
-uuid: 7c6a8737-28a2-4da3-a902-0fcffa898d8a
+uuid: 7c0575e1-f6a1-4c11-b322-73b9bcd5ff67
 prettyName: CamilleBrachet
 
 title: "Camille Brachet"
@@ -14,7 +14,7 @@ abstract: "Chercheuse | Membre associé"
 
 ## Expertises
 
- Enseignante-chercheuse en Sciences de lInformation et de la communication, je travaille depuis des années sur la médiatisation de la culture et de la gastronomie dans le cadre de mes activités de recherche. Jai par ailleurs toujours souhaité porter ces réflexions dans les médias et sur la base de mes quelques expériences radiophoniques, je produis un podcast,
+ Enseignante-chercheuse en Sciences de l'Information et de la communication, je travaille depuis des années sur la médiatisation de la culture et de la gastronomie dans le cadre de mes activités de recherche. J'ai par ailleurs toujours souhaité porter ces réflexions dans les médias et sur la base de mes quelques expériences radiophoniques, je produis un podcast,
 CEUX QUI NOUS LIENT
 , afin de donner la parole à des personnalités très différentes sur un sujet aussi transversal que la gastronomie envisagée comme une production culturelle.
 

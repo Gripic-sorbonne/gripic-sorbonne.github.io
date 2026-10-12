@@ -1,5 +1,5 @@
 ---
-uuid: 29b9e288-6264-44c2-85e0-4dd0bc03572d
+uuid: 75edff8f-8638-4beb-9801-5b80abe3609a
 prettyName: GretaTravagliati
 
 title: "Greta Travagliati"
@@ -16,7 +16,7 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 ## Thématiques de recherche
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 : Médiations marchandes
 Sujet de recherche

@@ -1,5 +1,5 @@
 ---
-uuid: d1aebb70-9008-4f44-b827-d2a7bc522d9d
+uuid: 528a7ba3-f545-407c-8085-7563ced6a00c
 prettyName: QiWang
 
 title: "Qi Wang"
@@ -19,7 +19,7 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 
 ## Expertises
 
- Je mintéresse aux différentes expressions sur des réseaux sociaux dans les cultures orientales et occidentales, surtout à l’expression et ses évolutions sur des réseaux sociaux en Chine. Je m’interroge sur les raisons pour lesquelles le changement s’est produit. Ma thèse en cours de préparation s’intitule :
+ Je m'intéresse aux différentes expressions sur des réseaux sociaux dans les cultures orientales et occidentales, surtout à l’expression et ses évolutions sur des réseaux sociaux en Chine. Je m’interroge sur les raisons pour lesquelles le changement s’est produit. Ma thèse en cours de préparation s’intitule :
 L’énonciation de l’ironie sur les réseaux sociaux en Chine : WeChat comme exemple central d’une prudence dans la communication
 .
 

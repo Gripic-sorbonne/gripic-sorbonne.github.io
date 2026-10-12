@@ -1,5 +1,5 @@
 ---
-uuid: 8ddcdd64-c136-4367-ba6d-9189a9d34a6e
+uuid: d40439c2-88bb-4146-ab00-b722265c5e4f
 prettyName: HécateVergopoulos
 
 title: "Hécate Vergopoulos"
@@ -23,7 +23,7 @@ Argumentation et Analyse du Discours
 , 27, 2021, URL :
 https://journals.openedition.org/aad/5705
 Vergopoulos, Hécate, «
-Le travail touristique et loubli. Limpensé de la fatigue dans la pratique du tourisme
+Le travail touristique et l'oubli. L'impensé de la fatigue dans la pratique du tourisme
 »,
 Communication et langages
 , n°191, 2017, p. 115-128.
@@ -128,7 +128,7 @@ Neuviémistes
 Vergopoulos, Hécate, «
 Les inconforts touristiques.
 Quand les touristes se questionnent sur leurs propres pratiques »,
-Journée détude Musée et recherche : le souci du public
+Journée d'étude Musée et recherche : le souci du public
 , Paris, 13 novembre 2018.
 Vergopoulos, Hécate, « Anecdotes and tourism imaginaries »,
 Tourism
@@ -207,7 +207,7 @@ Argumentation et Analyse du Discours
 , 27, 2021, URL :
 https://journals.openedition.org/aad/5705
 Vergopoulos, Hécate, «
-Le travail touristique et loubli. Limpensé de la fatigue dans la pratique du tourisme
+Le travail touristique et l'oubli. L'impensé de la fatigue dans la pratique du tourisme
 »,
 Communication et langages
 , n°191, 2017, p. 115-128.
@@ -281,7 +281,7 @@ Neuviémistes
 Vergopoulos, Hécate, «
 Les inconforts touristiques.
 Quand les touristes se questionnent sur leurs propres pratiques »,
-Journée détude Musée et recherche : le souci du public
+Journée d'étude Musée et recherche : le souci du public
 , Paris, 13 novembre 2018.
 Vergopoulos, Hécate, « Anecdotes and tourism imaginaries »,
 Tourism

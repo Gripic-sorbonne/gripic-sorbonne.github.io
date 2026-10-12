@@ -1,5 +1,5 @@
 ---
-uuid: 62a8575e-0c75-47d2-b86f-f58a22793f50
+uuid: 884626c8-f1ee-4d20-b57c-2b2a44780c5d
 prettyName: PierreYvesHalin
 
 title: "Pierre-Yves Halin"
@@ -17,7 +17,7 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
 
  « Pour une théorie de la présence. Signes, interactions et médiations de la poupée de compagnie », SFSIC 2022, 23 juin 2022, Dijon (parution des actes en 2022)
 « Aux frontières de l’humain.e et de l’objet ? Explorations du concept de présence à l’aune de la poupée de compagnie », colloque Ambivalence des frontières, 15 octobre 2021, Epinal (publication des actes en 2022).
-« La relation de couple au prisme de lexcentricité. Etude de la relation homme-poupée de compagnie », colloque Excentricités, 13 avril 2017, Bordeaux.
+« La relation de couple au prisme de l'excentricité. Etude de la relation homme-poupée de compagnie », colloque Excentricités, 13 avril 2017, Bordeaux.
 
 ## Expertises et enseignements
 
@@ -28,7 +28,7 @@ abstract: "Doctorant-chercheur | Membre permanent en formation doctorale"
  Communications et interventions
 « Pour une théorie de la présence. Signes, interactions et médiations de la poupée de compagnie », SFSIC 2022, 23 juin 2022, Dijon (parution des actes en 2022)
 « Aux frontières de l’humain.e et de l’objet ? Explorations du concept de présence à l’aune de la poupée de compagnie », colloque Ambivalence des frontières, 15 octobre 2021, Epinal (publication des actes en 2022).
-« La relation de couple au prisme de lexcentricité. Etude de la relation homme-poupée de compagnie », colloque Excentricités, 13 avril 2017, Bordeaux.
+« La relation de couple au prisme de l'excentricité. Etude de la relation homme-poupée de compagnie », colloque Excentricités, 13 avril 2017, Bordeaux.
 
 ## Thématiques de recherche
 

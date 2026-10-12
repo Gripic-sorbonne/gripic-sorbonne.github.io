@@ -1,5 +1,5 @@
 ---
-uuid: c338212c-c3c6-42ee-9db5-f077f3732800
+uuid: 9abffa1d-d57a-4213-9646-8dc7161c73b6
 prettyName: IdilBasural
 
 title: "Idil Basural"
@@ -16,16 +16,16 @@ abstract: "Doctorante-chercheuse | Membre permanent en formation doctorale"
 
  Cultures, savoirs et communication
 Formes et écritures médiatiques
-Dynamiques de communication dans lespace public
+Dynamiques de communication dans l'espace public
 Sujet de recherche
-: Médiation "carnavalesque" : la circulation de l’énonciation collective lors des évènements d#Occupy
+: Médiation "carnavalesque" : la circulation de l’énonciation collective lors des évènements d'#Occupy
 Directeur de thèse
 : Emmanuël Souchier
 
 ## Thématiques de recherche, expertises et enseignements
 
  Discipline
-: Sciences de linformation et de la communication
+: Sciences de l'information et de la communication
 Thématiques de recherche
 :
 
