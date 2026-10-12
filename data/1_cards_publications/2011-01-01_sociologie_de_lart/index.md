@@ -1,5 +1,5 @@
 ---
-uuid: 0d133d16-199c-48fd-a049-7c2b3557ea79
+uuid: 994a5c7b-ad2f-4c44-9204-b7ac0c4ac045
 title: "Sociologie de l’art"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

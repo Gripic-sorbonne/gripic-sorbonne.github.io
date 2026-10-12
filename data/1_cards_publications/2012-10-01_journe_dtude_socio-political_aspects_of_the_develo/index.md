@@ -1,5 +1,5 @@
 ---
-uuid: 8f2ce711-8b4f-491d-bf5e-d157557a957b
+uuid: 47ec440c-e5fd-44e6-9398-7e0d5c25ae94
 title: "Journée d’étude Socio-political aspects of the development and use of NBIC technologies, ISCC-CNRS"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

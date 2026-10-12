@@ -1,5 +1,5 @@
 ---
-uuid: 340780b7-9acb-4ec0-b943-5ebdbeeb3e1c
+uuid: e11395d3-7fd2-4591-90d2-c9b1f6e3532b
 title: "Argent numérique : pratiques et enjeux"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

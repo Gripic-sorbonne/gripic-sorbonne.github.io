@@ -1,5 +1,5 @@
 ---
-uuid: 0dfdec32-2422-40f0-8635-bf44f866d968
+uuid: c58e6591-b90b-413b-ab8b-643a7712178e
 title: "medien & zeit"
 author: "Lisa Bolz"
 authors: "Lisa Bolz"

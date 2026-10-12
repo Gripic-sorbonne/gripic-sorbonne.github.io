@@ -1,5 +1,5 @@
 ---
-uuid: 9dd143af-a98e-427c-aa15-0dceacc97be2
+uuid: 74aece63-c3c9-4727-ab67-7bd48c405ccd
 title: "Journée d’études Ecrire le territoire: visibilité, valorisation, marchandisation"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

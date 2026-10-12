@@ -1,5 +1,5 @@
 ---
-uuid: 0c245c71-b58f-499c-993c-e1fcc22d9241
+uuid: 0730f181-dbc8-4bdc-bd77-e564e3e19dc7
 title: "Le Texte étranger"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

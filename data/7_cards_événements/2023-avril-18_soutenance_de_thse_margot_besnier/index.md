@@ -1,5 +1,5 @@
 ---
-uuid: 44afe0d2-7e45-4c3a-8b0a-bd30481b59ce
+uuid: 20ad8239-74b2-4ac5-bd3b-6bb3aac8f3d8
 title: "Soutenance de thèse Margot BESNIER"
 author: "Karine Berthelot-Guiet"
 event: true

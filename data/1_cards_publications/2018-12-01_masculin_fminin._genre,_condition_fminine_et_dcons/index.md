@@ -1,5 +1,5 @@
 ---
-uuid: 142dd3ec-1508-4358-be4d-d2c63eac5a9f
+uuid: 91746036-7289-446c-895d-39767e6837f2
 title: "Masculin/Féminin. Genre, condition féminine et déconstruction de la virilité dans les littératures du monde arabe"
 author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"

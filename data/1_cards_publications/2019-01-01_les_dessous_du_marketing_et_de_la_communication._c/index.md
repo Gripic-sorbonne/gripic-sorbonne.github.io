@@ -1,5 +1,5 @@
 ---
-uuid: b605d535-448a-4ecd-9f35-048ba762804a
+uuid: 21a83e56-dbec-4239-add2-eaceda2dedd3
 title: "Les dessous du marketing et de la communication. Cartographie des imaginaires"
 author: "Caroline Marti"
 authors: "Caroline Marti"

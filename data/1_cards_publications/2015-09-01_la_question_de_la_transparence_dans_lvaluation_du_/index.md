@@ -1,5 +1,5 @@
 ---
-uuid: f4c64552-421a-4a17-a0d7-506c86236e50
+uuid: 7667afa9-5fb8-4583-8e3a-8000fac3fcb7
 title: "La question de la ”transparence” dans l’évaluation du risque : l”’Affaire Séralini”"
 author: "François Allard Allard-Huver"
 authors: "François Allard Allard-Huver"

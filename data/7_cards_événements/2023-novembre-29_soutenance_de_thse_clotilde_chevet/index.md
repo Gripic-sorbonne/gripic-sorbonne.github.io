@@ -1,5 +1,5 @@
 ---
-uuid: e89a71bf-6493-401f-a7e5-2f561f09c605
+uuid: 64540810-4e80-4c87-9337-32e590581e96
 title: "Soutenance de thèse Clotilde Chevet"
 author: "Emmanuël Souchier"
 event: true

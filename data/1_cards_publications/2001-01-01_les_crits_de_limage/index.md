@@ -1,5 +1,5 @@
 ---
-uuid: e689db1f-49cf-473c-80dd-91af722b93c8
+uuid: b1b74522-ce74-4036-b229-c25073efef3a
 title: "Les écrits de l’image"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

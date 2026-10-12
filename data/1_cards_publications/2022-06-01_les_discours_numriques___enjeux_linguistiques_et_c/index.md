@@ -1,5 +1,5 @@
 ---
-uuid: 2dc4a0ac-719a-4cd3-81f4-b4bb89e58c38
+uuid: 2e9be6a1-f09b-4c9b-bdb9-dc324be92a19
 title: "Les discours numériques : enjeux linguistiques et communicationnels, perspectives didactiques. Le Carnet des jeunes chercheurs du Crem"
 author: "Coline Reille"
 authors: "Coline Reille"

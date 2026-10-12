@@ -1,5 +1,5 @@
 ---
-uuid: 1af43414-2ab4-4737-ab24-7ca4fc62bc0d
+uuid: 1a9d9b6a-51c3-48e1-b19d-35dcbe2b4f25
 title: "Les dessous des tendances - Quand l’éphémère fait avancer le monde"
 author: "Caroline Marti"
 authors: "Caroline Marti"

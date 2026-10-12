@@ -1,5 +1,5 @@
 ---
-uuid: de7c58f3-ad5e-4e5e-8756-0dc9647d6271
+uuid: 7744bc16-e29e-4af8-8053-3677460205f4
 title: "Penser avec Stuart Hall"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

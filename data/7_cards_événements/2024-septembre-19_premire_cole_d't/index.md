@@ -1,5 +1,5 @@
 ---
-uuid: 401e3062-ddc9-4689-88fc-c12186d36881
+uuid: cbce12d7-9842-4e68-9c0e-0722f121249b
 title: "Première école d'été"
 author: "Ecole doctorale"
 event: true

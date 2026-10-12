@@ -1,5 +1,5 @@
 ---
-uuid: 15c7c861-8cd3-4c15-8f8d-a9cd7c209c75
+uuid: c92d20e9-1f92-449d-a022-465f5c6ccf1a
 title: "Revue de l’Enssib"
 author: "Laurent Petit"
 authors: "Laurent Petit"

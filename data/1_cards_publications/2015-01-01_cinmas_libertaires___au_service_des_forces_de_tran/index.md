@@ -1,5 +1,5 @@
 ---
-uuid: 64c21351-6bff-4dff-af2c-913b621d7130
+uuid: dffa5b72-d80f-4a18-914c-d42dd2bf79cb
 title: "Cinémas libertaires : au service des forces de transgression et de révolte"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

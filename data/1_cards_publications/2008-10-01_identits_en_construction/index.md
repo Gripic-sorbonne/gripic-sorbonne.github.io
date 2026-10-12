@@ -1,5 +1,5 @@
 ---
-uuid: 617d30b6-76d5-4e95-8f4e-c84a3f636cc4
+uuid: 8f8c62d6-1cf9-427a-98cd-2f63a088de88
 title: "Identités en Construction"
 author: "Adeline Wrona, Aude Seurrat"
 authors: "Adeline Wrona, Aude Seurrat"

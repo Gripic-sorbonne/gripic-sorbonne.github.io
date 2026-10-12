@@ -1,5 +1,5 @@
 ---
-uuid: 3deeefac-5166-4e81-89d0-b999aed6559d
+uuid: 9c2558ed-87e4-420b-a62a-95b946c3070a
 title: "Soutenance de thèse Johanna Cappi"
 author: "Johanna Cappi"
 event: true

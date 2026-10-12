@@ -1,5 +1,5 @@
 ---
-uuid: f7896fd7-fd04-4734-8bdf-aa8b86546446
+uuid: 5a204494-a6ee-47d9-9266-3cb365cf1d13
 title: "Les pratiques politiques médiatisées des migrants marocains : entre écriture de soi et écriture du pays d’origine"
 author: "Asmaa Azizi"
 authors: "Asmaa Azizi"

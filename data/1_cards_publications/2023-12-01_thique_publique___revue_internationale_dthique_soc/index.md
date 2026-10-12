@@ -1,5 +1,5 @@
 ---
-uuid: 18ca5d71-c0a9-49e7-b738-ce5cfaa4bc8b
+uuid: 85bd0f0a-676a-4b43-934b-baa8610fd230
 title: "Éthique publique : Revue internationale d’éthique sociétale et gouvernementale"
 author: "Laurent Petit"
 authors: "Laurent Petit"

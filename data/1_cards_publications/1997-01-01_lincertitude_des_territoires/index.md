@@ -1,5 +1,5 @@
 ---
-uuid: 684d95e9-2c19-41d5-8dae-6d6354a117fc
+uuid: 5da384da-98a7-4446-b824-4f5941cea439
 title: "L’incertitude des territoires"
 author: "Dominique Pagès, Nicolas Pélissier"
 authors: "Dominique Pagès, Nicolas Pélissier"

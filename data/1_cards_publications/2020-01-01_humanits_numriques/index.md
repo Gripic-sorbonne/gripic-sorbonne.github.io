@@ -1,5 +1,5 @@
 ---
-uuid: 7d7b4acd-8970-4c5e-97d7-2883cff6fe48
+uuid: 86fe55c6-df35-488f-bb8e-617ecaac3d65
 title: "Humanités Numériques"
 author: "Pauline Escande"
 authors: "Pauline Escande"

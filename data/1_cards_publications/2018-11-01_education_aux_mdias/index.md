@@ -1,5 +1,5 @@
 ---
-uuid: 0af59528-7e38-4709-bcec-041b17ff2e4c
+uuid: 5550c14b-f1f5-4b61-ba3b-00b91f53fc9b
 title: "Education aux médias"
 author: "Pauline Escande"
 authors: "Pauline Escande"

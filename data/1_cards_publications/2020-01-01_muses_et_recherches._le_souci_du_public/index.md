@@ -1,5 +1,5 @@
 ---
-uuid: a1caaca9-de88-451d-9ced-b32da333acbd
+uuid: fa1c89cc-dfdc-4d6b-bd17-b62df53e9b12
 title: "Musées et Recherches. Le souci du public"
 author: "Sophie Corbillé, Emmanuelle Fantin"
 authors: "Sophie Corbillé, Emmanuelle Fantin"
