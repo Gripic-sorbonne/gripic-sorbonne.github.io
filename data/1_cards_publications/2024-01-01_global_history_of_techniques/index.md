@@ -1,5 +1,5 @@
 ---
-uuid: d3f2c3e6-4da0-48b0-b1a8-fa8b59cecd5f
+uuid: dfe565a8-87fb-4825-be81-03c3c174e626
 title: "Global History of Techniques"
 author: "Virginie Julliard"
 authors: "Virginie Julliard"

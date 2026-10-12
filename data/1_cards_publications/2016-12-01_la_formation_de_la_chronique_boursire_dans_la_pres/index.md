@@ -1,5 +1,5 @@
 ---
-uuid: eaf32e4b-d827-4c96-817e-b3d2c3b07974
+uuid: 128d39c1-2fde-474d-be13-57d00ae9b388
 title: "La formation de la chronique boursière dans la presse quotidienne française (1801-1870)"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"

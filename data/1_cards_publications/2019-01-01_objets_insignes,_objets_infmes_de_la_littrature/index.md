@@ -1,5 +1,5 @@
 ---
-uuid: 6bc7bbba-4708-46c0-a2af-6bc660863a67
+uuid: 7fcf41f4-913c-4079-ae1e-a6b1d192567f
 title: "Objets insignes, objets infâmes de la littérature"
 author: "Caroline Marti"
 authors: "Caroline Marti"

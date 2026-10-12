@@ -1,5 +1,5 @@
 ---
-uuid: a0c2f3cc-8dd8-4559-bdfa-97c84454e015
+uuid: 83e010db-20dd-45dd-a9e8-d6979b805d84
 title: "Séminaire de recherche “ Girardin ” (programme de recherche Giranium)"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

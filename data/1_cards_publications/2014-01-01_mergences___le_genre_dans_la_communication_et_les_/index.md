@@ -1,5 +1,5 @@
 ---
-uuid: 3d60afe1-7533-4a3e-843b-d0baec173cd9
+uuid: 87cc875f-f809-496d-8266-da6763901575
 title: "Émergences : le genre dans la communication et les médias"
 author: "Nelly Quemener, Virginie Julliard"
 authors: "Nelly Quemener, Virginie Julliard"

@@ -1,5 +1,5 @@
 ---
-uuid: f02cbe4d-b0dd-4deb-b630-c4dfbf180561
+uuid: 12f7de48-515b-43c4-9ff4-44fda2affba1
 title: "Écrire l’histoire - Histoire, Littérature, Esthétique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

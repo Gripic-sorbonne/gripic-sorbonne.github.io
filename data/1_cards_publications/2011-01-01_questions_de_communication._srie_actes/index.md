@@ -1,5 +1,5 @@
 ---
-uuid: 65fa0f07-0bac-45ab-b568-beb5b01994dd
+uuid: b677a03d-d27b-406b-b902-439d6b8e8d37
 title: "Questions de communication. Série actes"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

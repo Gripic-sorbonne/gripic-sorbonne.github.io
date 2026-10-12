@@ -1,5 +1,5 @@
 ---
-uuid: d42b3f35-2239-48f1-b026-6b705795dbb8
+uuid: 75723e4e-7752-489b-8678-b769e62b3ad9
 title: "Raymond Queneau et le corps"
 author: "Julia Bonaccorsi, Sarah Labelle"
 authors: "Julia Bonaccorsi, Sarah Labelle"

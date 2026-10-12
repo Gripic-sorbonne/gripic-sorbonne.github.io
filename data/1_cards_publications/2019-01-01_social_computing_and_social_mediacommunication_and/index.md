@@ -1,5 +1,5 @@
 ---
-uuid: eaa1c491-e821-47a9-bd9a-52f446220f7f
+uuid: 812292e0-b198-4c50-af71-abedc6676843
 title: "Social Computing and Social Media
 Communication and Social Communities"
 author: "Caroline Marti"

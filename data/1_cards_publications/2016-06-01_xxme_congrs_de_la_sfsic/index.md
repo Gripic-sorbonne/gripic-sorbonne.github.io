@@ -1,5 +1,5 @@
 ---
-uuid: d998d8d6-dc36-4c3e-859b-a3ba7c18a064
+uuid: 9d8743eb-ae23-4dbd-ba47-e6d411105ac4
 title: "XXème congrès de la SFSIC"
 author: "hecate vergopoulos, Julien Tassel"
 authors: "hecate vergopoulos, Julien Tassel"

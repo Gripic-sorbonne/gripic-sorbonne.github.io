@@ -1,5 +1,5 @@
 ---
-uuid: 8a21f1ef-51c1-4b10-b1eb-819124163619
+uuid: 0bcb80d6-ca23-4584-a3d2-d7bd1e83e120
 title: "Social responsibility and the role of corporations"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

@@ -1,5 +1,5 @@
 ---
-uuid: b97862ad-ee0d-4e9f-80e0-744557b1815b
+uuid: b964581c-d848-47df-8c8c-e026f7ff86c2
 prettyName: PascalFroissart
 
 title: "Pascal Froissart"

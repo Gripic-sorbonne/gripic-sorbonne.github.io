@@ -1,5 +1,5 @@
 ---
-uuid: e2082946-ad9c-4628-b18e-014018f66b0e
+uuid: 9bd674bb-9096-4cd7-8ea0-eea962e74d4a
 title: "La publicité au passé. Approche communicationnelle d’une médiation ordinaire du passé"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

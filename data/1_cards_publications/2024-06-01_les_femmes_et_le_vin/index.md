@@ -1,5 +1,5 @@
 ---
-uuid: 907a4226-02c2-4e27-9880-48892bcebbea
+uuid: d2440403-43fb-4ad6-9f64-7ab2e7ef0f97
 title: "Les femmes et le vin"
 author: "Celia Banos"
 authors: "Celia Banos"

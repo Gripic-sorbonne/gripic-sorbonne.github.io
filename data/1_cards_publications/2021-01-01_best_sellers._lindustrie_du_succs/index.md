@@ -1,5 +1,5 @@
 ---
-uuid: 794bea1f-049e-4127-988d-bc272ff0cd36
+uuid: 4475fce4-0f8d-41d3-bbe7-1a4966cfa4fd
 title: "Best sellers. L’industrie du succès"
 author: "Pierre-Carl Langlais, Marie-Ève Thérenty"
 authors: "Pierre-Carl Langlais, Marie-Ève Thérenty"

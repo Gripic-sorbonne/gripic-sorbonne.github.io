@@ -1,5 +1,5 @@
 ---
-uuid: b70a06a7-c9da-48e1-b46e-4e2c0e73b201
+uuid: 33fb5153-1898-4d0b-9968-53ab2a66d745
 title: "Names: A Journal of Onomastics"
 author: "Pascaline Faure"
 authors: "Pascaline Faure"

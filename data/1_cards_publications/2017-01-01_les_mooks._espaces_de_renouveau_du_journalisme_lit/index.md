@@ -1,5 +1,5 @@
 ---
-uuid: 88160169-f5d9-44f5-8f09-a283bbb0dce3
+uuid: 6bc57a19-7326-435f-b002-1a0af534b388
 title: "Les mooks. Espaces de renouveau du journalisme littéraire"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

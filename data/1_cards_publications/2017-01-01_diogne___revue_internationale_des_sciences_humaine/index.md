@@ -1,5 +1,5 @@
 ---
-uuid: e155d7ff-4dde-405f-a99f-aed10c6b26af
+uuid: 9d310fc7-e93e-419e-8c12-7d801a9bce34
 title: "Diogène : Revue internationale des sciences humaines"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

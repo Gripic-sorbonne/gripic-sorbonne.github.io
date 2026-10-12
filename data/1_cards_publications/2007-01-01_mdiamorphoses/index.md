@@ -1,5 +1,5 @@
 ---
-uuid: 2fcb5314-c38e-4aa4-8a77-7c6b72d651f1
+uuid: e04f41d4-7249-4a4b-8660-bf01b1aa3ddb
 title: "MédiaMorphoses"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: cb24dff2-62f4-4f85-b931-d230dd4ac196
+uuid: 36796419-980d-45af-9839-8e0af10b8c5b
 title: "Journée d’études internationale Récits de société : quelles approches critiques ?"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

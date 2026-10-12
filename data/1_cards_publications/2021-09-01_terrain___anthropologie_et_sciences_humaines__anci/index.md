@@ -1,5 +1,5 @@
 ---
-uuid: 611071c9-7b3a-4d5a-96c5-d44fffa82901
+uuid: 1932eb7c-8b8a-4e1b-ac7c-da140694e34e
 title: "Terrain : anthropologie et sciences humaines [Anciennement : Carnets du patrimoine ethnologique ; Revue d’ethnologie de l’Europe]"
 author: "Clotilde Chevet"
 authors: "Clotilde Chevet"

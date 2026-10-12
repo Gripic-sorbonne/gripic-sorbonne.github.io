@@ -1,5 +1,5 @@
 ---
-uuid: 7abefef0-1be7-42a3-bf8e-c87fb989742b
+uuid: 3bf41899-fa41-498c-810a-4beb198c9bd9
 title: "La Publicité d’aujourd’hui. Discours, formes et pratiques"
 author: "Karine Berthelot-Guiet, Caroline Montety"
 authors: "Karine Berthelot-Guiet, Caroline Montety"

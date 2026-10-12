@@ -1,5 +1,5 @@
 ---
-uuid: 9e0a49bb-7652-4e2b-a254-a9acfc6f18e6
+uuid: c8db9871-b125-476e-8556-8974d7a17bfe
 title: "Argumentation et Analyse du Discours"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

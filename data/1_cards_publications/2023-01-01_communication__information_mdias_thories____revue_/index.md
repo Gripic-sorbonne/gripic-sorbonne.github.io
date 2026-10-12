@@ -1,5 +1,5 @@
 ---
-uuid: 71bc7e7b-b241-4240-bf19-a6233c7a24c2
+uuid: 9b324f32-6d2e-4931-a287-6d6f114a38a7
 title: "Communication [Information Médias Théories] : revue québécoise des recherches et des pratiques en communication et information"
 author: "Nelly Quemener, Virginie Julliard"
 authors: "Nelly Quemener, Virginie Julliard"

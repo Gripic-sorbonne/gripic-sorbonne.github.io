@@ -1,5 +1,5 @@
 ---
-uuid: 77d21fea-0f9d-484e-871b-07a51f7da858
+uuid: 8347a37c-8742-4c96-be28-d183f0fe2a55
 title: "Le best-seller"
 author: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
 authors: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"

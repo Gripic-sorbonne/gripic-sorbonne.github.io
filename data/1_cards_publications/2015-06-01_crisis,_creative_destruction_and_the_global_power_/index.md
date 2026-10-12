@@ -1,5 +1,5 @@
 ---
-uuid: 26cfb24d-9be2-42db-808f-cc90d93d1910
+uuid: 42e6dd9c-6df0-4d03-8613-a1912b134b7f
 title: "Crisis, creative destruction and the Global Power dans Communications orders"
 author: "nicole D’Almeida, Céline Hervé Bazin"
 authors: "nicole D’Almeida, Céline Hervé Bazin"
