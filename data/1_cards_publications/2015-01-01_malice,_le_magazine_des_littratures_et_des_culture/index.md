@@ -1,5 +1,5 @@
 ---
-uuid: 18047b9c-6d0a-4050-aaa4-f1529bf8f915
+uuid: 296ad03f-175d-4624-bd49-94a34536548d
 title: "Malice, le Magazine des Littératures et des Cultures à l'ère numérique"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

@@ -1,5 +1,5 @@
 ---
-uuid: 9402f240-1cd7-4f3c-90a1-03979ac5dc30
+uuid: 5051dca5-db40-4d03-af48-d15b50a5bca2
 title: "Colloque `` Enfance et histoire : cultures et pratiques enfantines du passé ''"
 author: "Nicolas, Agathe"
 authors: "Nicolas, Agathe"

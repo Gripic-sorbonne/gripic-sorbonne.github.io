@@ -1,5 +1,5 @@
 ---
-uuid: a2527810-163b-4ab5-8765-5bc0e8515e18
+uuid: 749a77c8-f678-4f81-bfb4-7dd176b1ffa3
 title: "Les scènes de l'humour"
 author: "Quemener, Nelly, Duret Pujol, Marie"
 authors: "Quemener, Nelly, Duret Pujol, Marie"

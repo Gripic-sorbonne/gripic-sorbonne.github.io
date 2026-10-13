@@ -1,5 +1,5 @@
 ---
-uuid: 4eef4982-f7ed-4c9d-b16f-6f53bc31a1a6
+uuid: 8cb24216-ad07-4860-b368-2bc58400a78c
 title: "Le commentaire, du manuscrit à la toile"
 author: "Deseilligny, Oriane"
 authors: "Deseilligny, Oriane"

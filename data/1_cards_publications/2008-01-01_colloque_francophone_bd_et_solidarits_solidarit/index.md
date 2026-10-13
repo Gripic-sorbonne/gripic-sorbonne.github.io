@@ -1,5 +1,5 @@
 ---
-uuid: b2002281-91ce-443d-ae89-940a96fc348e
+uuid: f7acf677-db1c-4b47-885e-3a597aa2daf4
 title: "Colloque francophone BD et solidarités Solidarité"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

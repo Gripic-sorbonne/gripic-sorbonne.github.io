@@ -1,5 +1,5 @@
 ---
-uuid: 5ef29024-5eaa-40c6-8b11-c1a7c43d65b0
+uuid: 7d99fe0a-eb62-4e59-b675-0d58fbd6e56f
 title: "séminaire Tourisme: recherches, institutions, pratiques saison 6"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

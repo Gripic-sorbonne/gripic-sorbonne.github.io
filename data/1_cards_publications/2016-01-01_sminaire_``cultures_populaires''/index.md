@@ -1,5 +1,5 @@
 ---
-uuid: bf4f3ee6-5e89-4656-9960-323896342513
+uuid: 8c813433-40de-4681-ac45-cc28e98d73a7
 title: "Séminaire ``Cultures populaires''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

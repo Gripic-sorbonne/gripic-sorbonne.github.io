@@ -1,5 +1,5 @@
 ---
-uuid: 8c3269b8-53ae-4acc-88c6-8be276bafdad
+uuid: c9b9c48e-5683-4cfa-9327-590744ef6506
 title: "Enjeux et Usages des Technologies de l'Information et de la Communication. Médias et diffusion de l'information : vers une société ouverte, vol. 1"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"

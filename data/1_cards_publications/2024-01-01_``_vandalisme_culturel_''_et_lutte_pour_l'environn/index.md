@@ -1,5 +1,5 @@
 ---
-uuid: 72f283dc-7250-431d-837d-8f95573fe549
+uuid: 09731e79-64a3-4604-b606-208c87082f32
 title: "`` Vandalisme culturel '' et lutte pour l'environnement"
 author: "Lamache, Lucille"
 authors: "Lamache, Lucille"

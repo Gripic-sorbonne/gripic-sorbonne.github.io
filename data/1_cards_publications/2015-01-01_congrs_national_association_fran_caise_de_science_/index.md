@@ -1,5 +1,5 @@
 ---
-uuid: 2027afd6-49e3-4fc4-816a-c9dd738513fd
+uuid: 0c335ac7-ca61-4ad8-ae54-3590384cca1f
 title: "Congrès national Association Fran caise de Science Politique"
 author: "Rondot, Camille"
 authors: "Rondot, Camille"

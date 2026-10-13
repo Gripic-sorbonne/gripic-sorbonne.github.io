@@ -1,5 +1,5 @@
 ---
-uuid: 72d7f26a-b423-4cd3-87de-247dda74d539
+uuid: 0ea4fff3-91d5-4db5-9183-6285017b96a2
 title: "Édition et publication scientifiques en sciences humaines et sociales : formes et enjeux"
 author: "AIM, Olivier, Jeanne-Perrier, Valérie"
 authors: "AIM, Olivier, Jeanne-Perrier, Valérie"

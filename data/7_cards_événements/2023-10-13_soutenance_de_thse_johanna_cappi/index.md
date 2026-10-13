@@ -1,5 +1,5 @@
 ---
-uuid: f2a28171-310d-4d7d-a58b-58a75724e706
+uuid: c5b2b95b-7f71-4009-b941-475d6b587ae9
 title: "Soutenance de thèse Johanna Cappi"
 author: "Johanna Cappi"
 date: "2023-10-13"

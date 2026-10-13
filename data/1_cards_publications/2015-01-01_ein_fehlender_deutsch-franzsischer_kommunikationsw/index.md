@@ -1,5 +1,5 @@
 ---
-uuid: 6dc53365-7f21-4122-a830-9fcd994dffe2
+uuid: 163139a4-831b-482b-86f3-bff9ebf089fe
 title: "Ein fehlender deutsch-französischer kommunikationswissenschaftlicher Diskurs?"
 author: "Bolz, Lisa"
 authors: "Bolz, Lisa"

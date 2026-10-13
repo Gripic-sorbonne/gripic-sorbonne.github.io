@@ -1,5 +1,5 @@
 ---
-uuid: 9f66404a-e5e4-4777-a523-30b48aaa003c
+uuid: 24382664-e5ff-4117-b239-f8e9f38956fe
 title: "Journée d'études ''Persistance de l'éphémère : regards sur les objets évanescents''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

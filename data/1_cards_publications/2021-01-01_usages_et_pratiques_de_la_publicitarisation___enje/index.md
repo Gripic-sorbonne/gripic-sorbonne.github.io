@@ -1,5 +1,5 @@
 ---
-uuid: 4d972d33-b17a-4fe6-bae8-6887e7107e35
+uuid: 7cf61436-8d2d-43c7-87b6-a4fb8804ed4a
 title: "Usages et pratiques de la publicitarisation : enjeux économiques et symboliques des relations actuelles entre marques et média"
 author: "Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie"
 authors: "Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie"

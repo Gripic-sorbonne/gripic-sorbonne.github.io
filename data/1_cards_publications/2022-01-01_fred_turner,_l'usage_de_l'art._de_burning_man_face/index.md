@@ -1,5 +1,5 @@
 ---
-uuid: 53b05bf5-2924-47a5-aa0a-ea6db5d370a9
+uuid: c7c8804b-e2a2-4795-94f8-9425589d5fb6
 title: "Fred TURNER, L'usage de l'art. De Burning Man à Facebook, art, technologie et management dans la Silicon Valley"
 author: "Froissart, Pascal"
 authors: "Froissart, Pascal"

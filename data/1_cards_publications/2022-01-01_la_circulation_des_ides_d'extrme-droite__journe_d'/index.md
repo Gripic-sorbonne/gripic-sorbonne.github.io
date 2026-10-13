@@ -1,5 +1,5 @@
 ---
-uuid: 0a20e69d-97d7-447c-a309-8917f3bed35e
+uuid: cd73700e-141c-4e9d-871b-4f39738d64c7
 title: "La circulation des idées d'extrême-droite [Journée d'études]"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

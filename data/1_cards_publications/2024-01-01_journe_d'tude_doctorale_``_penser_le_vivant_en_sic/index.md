@@ -1,5 +1,5 @@
 ---
-uuid: a6b7e8f5-f63c-432a-9b54-38e90cec8837
+uuid: d200802c-efad-48cd-851e-59a7211c640c
 title: "journée d'étude doctorale `` Penser le vivant en SIC ''"
 author: "Atteleyn, Priscille-Laëta, Buisson, Marie-lise, Fischer, Joachim, Gaillard, Julien, Gruyer, Léa, Journot, Julie, Peresson, Amélie, Reille, Coline, Vaccari, Noé"
 authors: "Atteleyn, Priscille-Laëta, Buisson, Marie-lise, Fischer, Joachim, Gaillard, Julien, Gruyer, Léa, Journot, Julie, Peresson, Amélie, Reille, Coline, Vaccari, Noé"

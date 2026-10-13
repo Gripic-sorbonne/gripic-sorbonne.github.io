@@ -1,5 +1,5 @@
 ---
-uuid: 96cb68a7-2f43-413e-84bc-c964e0c3a945
+uuid: e725ba59-618a-458b-bfa5-f2f2e2de595f
 title: "Colloque ''Presses anciennes et modernes à l'ère du numérique''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

@@ -1,5 +1,5 @@
 ---
-uuid: e8cc2c9e-8cd8-4e64-863c-fe6b55f4a9ce
+uuid: 69a0c3d5-e7b1-4681-bf5e-1ea1fa031dd1
 title: "séminaire de Laurent Creton Cinéma, audiovisuel et innovation"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

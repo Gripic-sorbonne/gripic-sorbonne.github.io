@@ -1,5 +1,5 @@
 ---
-uuid: 4d6f89ee-e97d-4c07-bb6c-dfc087469494
+uuid: da5cad45-0c83-4d3b-b3eb-30803d439c45
 title: "Coloquio Internacional Mudan cas estructurais no jornalismo"
 author: "Wrona, Adeline, Souchier, Emmanuël"
 authors: "Wrona, Adeline, Souchier, Emmanuël"

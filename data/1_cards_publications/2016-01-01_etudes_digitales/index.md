@@ -1,5 +1,5 @@
 ---
-uuid: e2584192-a5c3-457c-b0fc-30732e597e8d
+uuid: 2e7370e7-587f-45d7-8725-fa9e97528966
 title: "Etudes digitales"
 author: "Souchier, Emmanuël, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent"
 authors: "Souchier, Emmanuël, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent"

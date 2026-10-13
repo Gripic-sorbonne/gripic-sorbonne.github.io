@@ -1,5 +1,5 @@
 ---
-uuid: f22ce0cc-807c-450b-b331-cab68b3ffc5d
+uuid: 4cf2000c-5f97-42b2-8a64-f8b2c6c74aad
 title: "Réseaux : communication, technologie, société"
 author: "Candel, Etienne"
 authors: "Candel, Etienne"

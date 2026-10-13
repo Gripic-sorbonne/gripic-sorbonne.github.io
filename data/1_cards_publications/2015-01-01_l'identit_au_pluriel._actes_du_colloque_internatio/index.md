@@ -1,5 +1,5 @@
 ---
-uuid: 6db24ad6-a716-40c0-b063-e0d4105c2ad7
+uuid: 34981735-5cd5-45b5-9683-804241372e50
 title: "L'identité au pluriel. Actes du colloque international"
 author: "Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien"
 authors: "Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien"

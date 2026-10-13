@@ -1,5 +1,5 @@
 ---
-uuid: 5994e6b7-1cc7-426c-86e8-c690cbd863b1
+uuid: 04c72a4e-e807-45a7-9549-a1a25cb947c0
 title: "MEI - Médiation et information"
 author: "Chevet, Clotilde, Garmon, Inès"
 authors: "Chevet, Clotilde, Garmon, Inès"

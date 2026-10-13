@@ -1,5 +1,5 @@
 ---
-uuid: 0c0b8cf0-4e2e-4f62-8ead-d0221a9fdadb
+uuid: 90f3e9b7-f284-4ecb-81d4-5c49899fbf4c
 title: "Comprendre la culture numérique"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

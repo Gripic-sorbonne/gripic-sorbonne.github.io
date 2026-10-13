@@ -1,5 +1,5 @@
 ---
-uuid: f664c9c3-e0fe-4441-aa4d-f99239f32f1d
+uuid: 1d845c88-8a56-4a4a-87b8-3e1d12c08e93
 title: "De quoi se moque-t-on ? Satire et liberté d'expression"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

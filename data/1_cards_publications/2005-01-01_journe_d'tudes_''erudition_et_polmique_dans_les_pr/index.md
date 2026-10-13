@@ -1,5 +1,5 @@
 ---
-uuid: c4cc948f-a446-408e-a145-7ae9a171f355
+uuid: 0277669b-4404-4d7d-9daa-f6ad3fb516f5
 title: "Journée d'études ''Erudition et polémique dans les périodiques anciens''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

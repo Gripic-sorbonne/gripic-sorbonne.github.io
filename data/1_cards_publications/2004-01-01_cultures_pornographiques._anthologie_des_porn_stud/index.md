@@ -1,5 +1,5 @@
 ---
-uuid: f18b28b9-c4a9-4350-90f0-829674ca5974
+uuid: 6040776d-f9f6-4135-a5e5-7b71d9e5aa3d
 title: "Cultures pornographiques. Anthologie des Porn Studies"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"
