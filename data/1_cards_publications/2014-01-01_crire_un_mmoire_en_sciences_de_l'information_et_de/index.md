@@ -1,5 +1,5 @@
 ---
-uuid: b8d547af-8152-4dd4-97c0-b55f71abb8aa
+uuid: e5f975d3-9cff-46b8-b6ba-68c9df31d012
 title: "Écrire un mémoire en sciences de l'information et de la communication"
 author: "Boutin, Perrine, Candel, Étienne, Escande-Gauquié, Pauline, Froissart, Pascal, Bonaccorsi, Julia, Labelle, Sarah, Oger, Claire, Seurrat, Aude"
 authors: "Boutin, Perrine, Candel, Étienne, Escande-Gauquié, Pauline, Froissart, Pascal, Bonaccorsi, Julia, Labelle, Sarah, Oger, Claire, Seurrat, Aude"

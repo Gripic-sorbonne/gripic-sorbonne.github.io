@@ -1,5 +1,5 @@
 ---
-uuid: 94adc01a-56d7-4cf2-8daf-fd6d847d5339
+uuid: 0cf23dfc-2d1c-44cc-83c5-bf2c70936694
 title: "Le Dessous des Marques"
 author: "Faure, Pascaline"
 authors: "Faure, Pascaline"

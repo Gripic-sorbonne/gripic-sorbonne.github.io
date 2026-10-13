@@ -1,5 +1,5 @@
 ---
-uuid: ed8c92c2-625e-4d08-bb48-b67cf66f2774
+uuid: cc0b1c8a-c614-4378-818d-8679e4bf916a
 title: "Marques et patrimoine"
 author: "Garmon, Inès, Marti, Caroline, Rondot, Camille"
 authors: "Garmon, Inès, Marti, Caroline, Rondot, Camille"

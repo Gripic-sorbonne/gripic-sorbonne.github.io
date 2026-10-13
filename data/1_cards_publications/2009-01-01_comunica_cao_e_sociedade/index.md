@@ -1,5 +1,5 @@
 ---
-uuid: 76d3ac60-446c-4d62-a83b-d2e743e545a4
+uuid: 02ca767b-f070-4582-ad17-7e30e2f4e074
 title: "Comunica cao e Sociedade"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

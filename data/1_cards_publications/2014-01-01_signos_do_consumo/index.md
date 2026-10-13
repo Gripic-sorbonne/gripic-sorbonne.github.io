@@ -1,5 +1,5 @@
 ---
-uuid: 3351cdef-2624-4e2a-96eb-ba83a1325f81
+uuid: 039242a4-afbb-4945-9016-034399d69d15
 title: "Signos do consumo"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

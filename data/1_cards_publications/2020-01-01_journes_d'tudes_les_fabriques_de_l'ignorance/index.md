@@ -1,5 +1,5 @@
 ---
-uuid: fd0048f8-8154-464e-84ca-0b3df21d43c4
+uuid: e689d1ed-f44f-457b-84bb-b407c4167a02
 title: "Journées d'études Les fabriques de l'ignorance"
 author: "Froissart, Pascal"
 authors: "Froissart, Pascal"

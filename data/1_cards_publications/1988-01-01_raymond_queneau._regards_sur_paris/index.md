@@ -1,5 +1,5 @@
 ---
-uuid: 07f22853-ed2a-4106-9fe0-fafba65bb544
+uuid: ae5ee5ef-bf72-4f4f-a7e2-6f70c21e81b9
 title: "Raymond Queneau. Regards sur Paris"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

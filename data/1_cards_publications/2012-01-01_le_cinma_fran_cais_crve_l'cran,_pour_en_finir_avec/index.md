@@ -1,5 +1,5 @@
 ---
-uuid: 46c8d324-5ad5-4e8d-82b5-7d74054e459c
+uuid: 266ed541-f7f0-4788-807a-0cb7bc70becf
 title: "Le cinéma fran cais crève l'écran, pour en finir avec la crise du cinéma fran cais"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

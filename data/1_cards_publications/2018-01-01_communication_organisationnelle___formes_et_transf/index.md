@@ -1,5 +1,5 @@
 ---
-uuid: 7931921f-e691-4e61-9783-61817d9f8602
+uuid: d8d20f50-22e6-497e-8a5d-6983a9c139d7
 title: "Communication organisationnelle : Formes et transformations contemporaines"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

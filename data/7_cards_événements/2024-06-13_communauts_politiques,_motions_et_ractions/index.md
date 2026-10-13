@@ -1,5 +1,5 @@
 ---
-uuid: f4be1a6f-e68c-46c0-8f81-7e798685525a
+uuid: 0f6a304a-9ba4-4830-a733-0c07786b80bc
 title: "Communautés politiques, émotions et réactions"
 author: "Virginie JULLIARD, Nelly Quemener"
 date: "2024-06-13"

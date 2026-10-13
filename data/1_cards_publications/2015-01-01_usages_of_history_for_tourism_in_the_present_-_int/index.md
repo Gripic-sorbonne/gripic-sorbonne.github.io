@@ -1,5 +1,5 @@
 ---
-uuid: 6ab63937-ddae-4a3c-b853-38266f73cf03
+uuid: e5c59c67-98a9-445a-81f0-37f02d178e6c
 title: "Usages of History for Tourism in the Present - International Committee of Historical Sciences Meeting (ICHS)"
 author: "Tassel, Julien, vergopoulos, hecate"
 authors: "Tassel, Julien, vergopoulos, hecate"

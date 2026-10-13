@@ -1,5 +1,5 @@
 ---
-uuid: ac074bc0-92a7-4052-af31-d1fe7446e0f4
+uuid: a171cde1-db03-4b8d-b554-7873a2d2dea7
 title: "Hermès, La Revue - Cognition, communication, politique"
 author: "Appiotti, Sébastien"
 authors: "Appiotti, Sébastien"

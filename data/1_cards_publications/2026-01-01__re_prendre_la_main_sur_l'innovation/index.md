@@ -1,5 +1,5 @@
 ---
-uuid: 014e32b1-c58e-478b-b9b5-d9dd13018a46
+uuid: c7752b12-e7ad-4904-a845-e366f8f1337e
 title: "(Re)prendre la main sur l'innovation"
 author: "Garmon, Ines, Martin-Juchat, Fabienne"
 authors: "Garmon, Ines, Martin-Juchat, Fabienne"
@@ -13,7 +13,7 @@ container_title: ""
 publication: true
 ---
 
-<img src="./no_img.webp" width="300px" />
+<img src="./test1.webp" width="300px" />
 
 ## Informations sur la publication
 
@@ -21,4 +21,8 @@ publication: true
 - **Type de publication:** inproceedings
 - **Éditeur:** (Re)prendre la main sur l'innovation
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05768625](https://hal.science/hal-05768625)
+
+## Résumé
+
+test abstract
 

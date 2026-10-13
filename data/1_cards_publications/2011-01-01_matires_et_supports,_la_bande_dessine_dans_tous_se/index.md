@@ -1,5 +1,5 @@
 ---
-uuid: 0e7f4ad5-c537-4ce6-bd9d-204a1d06fd05
+uuid: dbe56b0e-8f7d-4b74-810f-e69cd763a7dd
 title: "Matières et supports, la bande dessinée dans tous ses états"
 author: "Escande, Pauline, Souchier, Emmanuël"
 authors: "Escande, Pauline, Souchier, Emmanuël"

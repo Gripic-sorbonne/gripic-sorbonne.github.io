@@ -1,5 +1,5 @@
 ---
-uuid: 03007dfa-5ea8-49c9-a86c-d2a353fa9988
+uuid: 2f8b10d5-1348-415d-a4b0-be406e6428a4
 title: "Colloque international Sémiotiques de terrain"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

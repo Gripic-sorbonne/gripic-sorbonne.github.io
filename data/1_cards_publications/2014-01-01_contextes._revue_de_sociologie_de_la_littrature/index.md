@@ -1,5 +1,5 @@
 ---
-uuid: 49e5adff-57b2-439f-85ac-6a223af26361
+uuid: 6120431d-08de-4060-958d-cdfc3e14beda
 title: "COnTEXTES. Revue de sociologie de la littérature"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"

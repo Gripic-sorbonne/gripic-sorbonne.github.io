@@ -1,5 +1,5 @@
 ---
-uuid: d83981f5-16e3-43bd-ace9-ada142ffca83
+uuid: 2f92d746-759b-4bed-bb07-1442f95f3bb1
 title: "Stéréotypie des images"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"
