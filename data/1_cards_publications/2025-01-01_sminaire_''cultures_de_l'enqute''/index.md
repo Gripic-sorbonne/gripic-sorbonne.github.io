@@ -1,5 +1,5 @@
 ---
-uuid: 73f5975e-a3bb-4511-8f17-545afc8ad85d
+uuid: 07013f20-ac40-4c77-b011-07fbd8472271
 title: "Séminaire ''Cultures de l'enquête''"
 author: "Gaillard, Julien"
 authors: "Gaillard, Julien"

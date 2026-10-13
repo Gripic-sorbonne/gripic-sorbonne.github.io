@@ -1,5 +1,5 @@
 ---
-uuid: 987604c5-5a38-4fa8-a101-ef8ef6be937f
+uuid: f8cf231a-9ffc-4208-8b52-dfb3006b166d
 title: "Parole Publique. La revue de la communication publique"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

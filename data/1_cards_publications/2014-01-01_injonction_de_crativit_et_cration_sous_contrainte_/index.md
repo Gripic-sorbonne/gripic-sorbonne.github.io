@@ -1,5 +1,5 @@
 ---
-uuid: 7874b2ce-73ef-4d68-aca1-18af32e9189a
+uuid: e33149bf-2b97-49e5-a1ce-724f4a1c9089
 title: "Injonction de créativité et création sous contrainte : parallèles entre secteur culturel et monde du travail à l'épreuve du numérique Actes du colloque"
 author: "Andonova, Yanita, Kogan, Anne-France, Wilhelm, Carsten, Andonova, Yanita, Kogan, Anne-France, Wilhelm, Carsten, Vacher, Béatrice, Poirier, Christian, Bouquillion, Philippe, Miege, Bernard, Moeglin, Pierre, Lecoutre, Marc, Blasi, Frédéric, Bonnet, Fabien, Jouan, Marine, Levoin, Xavier, Bourgatte, Michaël, Petit, Laurent, Combes, Yolande, Bullich, Vincent, Choquet, Isabelle, Jeannin, Hélène, Sarre-Charrier, Mathilde, Fourmentraux, Jean-Paul, Vidal, Geneviève, Zahar, Hela, Vachet, Jeremy Joseph, Bedard, Pascale"
 authors: "Andonova, Yanita, Kogan, Anne-France, Wilhelm, Carsten, Andonova, Yanita, Kogan, Anne-France, Wilhelm, Carsten, Vacher, Béatrice, Poirier, Christian, Bouquillion, Philippe, Miege, Bernard, Moeglin, Pierre, Lecoutre, Marc, Blasi, Frédéric, Bonnet, Fabien, Jouan, Marine, Levoin, Xavier, Bourgatte, Michaël, Petit, Laurent, Combes, Yolande, Bullich, Vincent, Choquet, Isabelle, Jeannin, Hélène, Sarre-Charrier, Mathilde, Fourmentraux, Jean-Paul, Vidal, Geneviève, Zahar, Hela, Vachet, Jeremy Joseph, Bedard, Pascale"

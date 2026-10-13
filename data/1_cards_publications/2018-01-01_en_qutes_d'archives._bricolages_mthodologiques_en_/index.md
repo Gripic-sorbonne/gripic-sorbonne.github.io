@@ -1,5 +1,5 @@
 ---
-uuid: c4ae3b0a-66f3-42f7-a684-8dd1a9b3941a
+uuid: d1dbbde1-7e50-442b-a0fd-13d4178021c8
 title: "En quêtes d'archives. Bricolages méthodologiques en terrains médiatiques"
 author: "Quemener, Nelly, Dakhlia, Jamil"
 authors: "Quemener, Nelly, Dakhlia, Jamil"

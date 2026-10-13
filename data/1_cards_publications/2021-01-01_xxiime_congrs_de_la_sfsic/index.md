@@ -1,5 +1,5 @@
 ---
-uuid: 85f24005-6e28-4b43-91ad-2cd18eb3da11
+uuid: 84c08032-6653-4303-8203-87f6a09a089b
 title: "XXIIème Congrès de la SFSIC"
 author: "Zhang, Yuwen"
 authors: "Zhang, Yuwen"

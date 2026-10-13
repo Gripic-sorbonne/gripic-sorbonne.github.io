@@ -1,5 +1,5 @@
 ---
-uuid: a9cc89f5-d511-4cdb-88ed-ca6b0fad3bb5
+uuid: 04d4bc0a-6f0d-4fa0-8ca9-9a5683a447ae
 title: "Les Enjeux de l'information et de la communication"
 author: "Jeanneret, Yves, Rondot, Camille"
 authors: "Jeanneret, Yves, Rondot, Camille"

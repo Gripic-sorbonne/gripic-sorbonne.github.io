@@ -1,5 +1,5 @@
 ---
-uuid: 5dcfebce-dbe6-45c1-a3b3-c98e88c3cf69
+uuid: a2a01b75-9d78-4ba8-b577-baaf19701c07
 title: "IIème Congrès International Bandes Dessinées et Humour Graphique"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

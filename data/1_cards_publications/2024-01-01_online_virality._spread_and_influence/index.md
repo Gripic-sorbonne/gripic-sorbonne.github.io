@@ -1,5 +1,5 @@
 ---
-uuid: 94c640e6-a966-4f49-943b-0581c587fcad
+uuid: 121bdf2c-724e-4e38-8c7b-ec5554c5e750
 title: "Online Virality. Spread and Influence"
 author: "Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor"
 authors: "Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor"

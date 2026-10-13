@@ -1,5 +1,5 @@
 ---
-uuid: 4afc2d9e-7eb6-4b26-89d9-6400ccfc869c
+uuid: bf866962-8d14-45bc-a6bf-0eeda6845ab0
 title: "Accompagnement recherche de la première année du projet `` Ambassadeurs du numérique de l'Académie de Paris"
 author: "Le Marec, Joëlle, Petit, Laurent, Rondot, Camille"
 authors: "Le Marec, Joëlle, Petit, Laurent, Rondot, Camille"

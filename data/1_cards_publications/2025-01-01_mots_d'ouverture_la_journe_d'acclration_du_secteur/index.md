@@ -1,5 +1,5 @@
 ---
-uuid: 12c7c6a3-511a-4320-a553-30b18716907d
+uuid: a19a7803-e425-4217-ab88-583005464f48
 title: "Mots d'ouverture à la journée d'accélération du secteur Arts de vivre : Les arts de vivre : des industries culturelles et créatives comme les autres ?"
 author: "Detavernier, Pauline, Serre, Solveig, AIM, Olivier, Delacour, Hélène, Schneider, Pierre"
 authors: "Detavernier, Pauline, Serre, Solveig, AIM, Olivier, Delacour, Hélène, Schneider, Pierre"

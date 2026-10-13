@@ -1,5 +1,5 @@
 ---
-uuid: 1e861d36-1c68-458f-bbb8-278bc66ab02e
+uuid: e65fa4cf-d403-4c3f-b6de-70825d65e243
 title: "Origines, enjeux et inflexions des Learning Spaces dans un système d'Enseignement Supérieur : le cas du Japon"
 author: "Augeri, John"
 authors: "Augeri, John"

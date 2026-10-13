@@ -1,5 +1,5 @@
 ---
-uuid: fae56f21-be27-45aa-8bd8-8ee65630f5ab
+uuid: dbdea7f9-ff48-4310-8f38-2a8ec26a9caf
 title: "Radiant Futures"
 author: "Ecrement, Vanille, Stührenberg, Lou"
 authors: "Ecrement, Vanille, Stührenberg, Lou"

@@ -1,5 +1,5 @@
 ---
-uuid: ed05308f-091f-4b55-94c2-b449c750ff8f
+uuid: b1d8fd78-14fe-4008-bac1-7c4faad94263
 title: "Doctorales de la SFSIC, Organisées par le laboratoire CRESAT, Bâle-Mulhouse"
 author: "Garmon, Inès"
 authors: "Garmon, Inès"

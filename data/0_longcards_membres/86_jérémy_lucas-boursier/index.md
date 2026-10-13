@@ -1,5 +1,5 @@
 ---
-uuid: 1fcd7604-25fd-4c14-9f55-2327511b6e73
+uuid: 6b6e7142-4f77-4aa4-b303-985786586c8b
 prettyName: JérémyLucasBoursier
 
 title: "Jérémy Lucas-Boursier"

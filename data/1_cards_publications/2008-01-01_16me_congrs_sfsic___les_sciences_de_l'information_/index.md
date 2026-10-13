@@ -1,5 +1,5 @@
 ---
-uuid: 3d5fa0c4-282a-4251-855c-7d863e3ba810
+uuid: 23412d3b-6832-4897-a90f-60fb820045e3
 title: "16éme Congrés SFSIC : Les sciences de l'information et de la communication : affirmation et pluralité"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

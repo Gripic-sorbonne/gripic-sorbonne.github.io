@@ -1,5 +1,5 @@
 ---
-uuid: 6d5e2f41-faa6-4b53-ac51-72d32f8f6c6f
+uuid: 9591f63a-96e9-4869-bdda-5ddeb37409aa
 title: "Converging and Conflicting Trends in the Public Administration of the US, Europe, and Germany, German Research Institute for Public Administration Speyer (GRIP) & School of Public and Environmental Affairs (SPEA) of Indiana University"
 author: "Allard-Huver, Fran cois"
 authors: "Allard-Huver, Fran cois"

@@ -1,5 +1,5 @@
 ---
-uuid: 6f790d5b-6cb1-4893-b2c7-130ce4fa739f
+uuid: 515f370a-8d89-4681-afac-d5559e46e1ef
 title: "Séminaire du GRIPIC"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

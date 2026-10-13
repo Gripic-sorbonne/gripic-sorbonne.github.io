@@ -1,5 +1,5 @@
 ---
-uuid: a4b42ed7-1f89-4032-b586-ff4840954d31
+uuid: 3ae7f741-7cea-4f5f-a2f6-7ec809f19510
 title: "Séminaire GIRANIUM : Girardin numérisé, ou la naissance des industries culturelles"
 author: "Corbillé, Sophie, Fantin, Emmanuelle"
 authors: "Corbillé, Sophie, Fantin, Emmanuelle"

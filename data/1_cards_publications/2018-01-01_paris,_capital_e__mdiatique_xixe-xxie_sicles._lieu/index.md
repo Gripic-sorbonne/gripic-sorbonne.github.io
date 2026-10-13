@@ -1,5 +1,5 @@
 ---
-uuid: 83316350-d755-4d85-b2a0-88395a93efc9
+uuid: 266e1956-5f1c-45fa-975b-e84b94887baf
 title: "Paris, capital(e) médiatique XIXe-XXIe siècles. Lieux, modèles et figures des médias, de Girardin aux start-ups"
 author: "Corbillé, Sophie, Fantin, Emmanuelle"
 authors: "Corbillé, Sophie, Fantin, Emmanuelle"

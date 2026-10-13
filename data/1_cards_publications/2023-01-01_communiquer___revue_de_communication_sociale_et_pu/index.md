@@ -1,5 +1,5 @@
 ---
-uuid: 98106951-04e4-45da-8a88-17aaf2c77230
+uuid: c9d49faf-5358-4067-a7e6-2ea9e21a5db9
 title: "Communiquer : Revue de communication sociale et publique"
 author: "Buisson, Marie-Lise"
 authors: "Buisson, Marie-Lise"

@@ -1,5 +1,5 @@
 ---
-uuid: 4ebd9fc5-05ef-4881-8b53-466a4872a1a4
+uuid: 9a5b03ae-804e-426a-ac71-00794f98e52a
 title: "Brazilian Journalism Research"
 author: "Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette"
 authors: "Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette"

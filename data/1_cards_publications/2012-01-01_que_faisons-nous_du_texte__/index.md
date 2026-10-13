@@ -1,5 +1,5 @@
 ---
-uuid: d07c3ebe-15d6-4a9f-95e9-ecc1a27c5cbb
+uuid: f456b04b-bc04-4d8f-983e-e9fdc9a5604e
 title: "Que faisons-nous du texte ?"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

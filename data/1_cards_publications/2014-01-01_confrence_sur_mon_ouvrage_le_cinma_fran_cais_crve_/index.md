@@ -1,5 +1,5 @@
 ---
-uuid: 57f0a8bf-3396-4294-bbee-9a660dcc61e8
+uuid: 9aab9755-7e54-4b1d-bb8a-0a14ccc70f7b
 title: "Conférence sur mon ouvrage Le cinéma fran cais crève l'écran (Atlande, 2012)"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

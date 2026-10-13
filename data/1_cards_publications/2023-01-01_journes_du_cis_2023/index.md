@@ -1,5 +1,5 @@
 ---
-uuid: c26e651f-215f-4771-88ba-dc2c92aabe30
+uuid: a07546b6-afeb-4d74-8c7c-6ff56b011dbf
 title: "Journées du CIS 2023"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

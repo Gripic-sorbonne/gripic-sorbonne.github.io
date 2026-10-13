@@ -1,5 +1,5 @@
 ---
-uuid: 67d27adc-a2e5-4fe4-8c9a-f550db43996e
+uuid: 55e382ea-3388-4f85-b98f-254a5c3b4e0d
 title: "Interfaces numériques"
 author: "Garmon, Inès"
 authors: "Garmon, Inès"

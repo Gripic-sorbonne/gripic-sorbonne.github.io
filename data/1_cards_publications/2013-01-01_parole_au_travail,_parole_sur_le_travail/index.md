@@ -1,5 +1,5 @@
 ---
-uuid: b19531dd-120d-4613-8f6a-b52e3e248339
+uuid: c38208b5-9fc8-477e-a9eb-dc0650c7ed5f
 title: "Parole au travail, parole sur le travail"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

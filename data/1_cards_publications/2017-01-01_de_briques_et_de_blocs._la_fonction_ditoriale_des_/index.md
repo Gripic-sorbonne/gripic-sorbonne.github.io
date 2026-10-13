@@ -1,5 +1,5 @@
 ---
-uuid: 1d64f232-c5e2-4459-ab34-38a69de443b5
+uuid: c1e1bf82-1d65-45e3-83bc-df8c0ef9fca8
 title: "De briques et de blocs. La fonction éditoriale des interfaces de programmation (API) web : entre science combinatoire et industrie du texte."
 author: "Goyet, Samuel"
 authors: "Goyet, Samuel"
