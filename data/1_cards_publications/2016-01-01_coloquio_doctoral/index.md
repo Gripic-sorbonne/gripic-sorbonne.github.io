@@ -1,9 +1,9 @@
 ---
-uuid: 6eee9e7d-6a14-4824-abf4-2b3586647fd2
+uuid: edb45e5b-bc07-4892-bc80-7871ec0a0c50
 title: "Coloquio doctoral"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2016-01-01"
 year: "2016"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Coloquio doctoral
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749946](https://hal.science/hal-03749946)

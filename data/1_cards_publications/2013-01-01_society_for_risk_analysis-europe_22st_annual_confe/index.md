@@ -1,9 +1,9 @@
 ---
-uuid: 33f6599e-5f07-419e-9997-2710a1432a38
+uuid: b5c0dde9-357d-48f9-87aa-60ab335f52a0
 title: "Society for Risk Analysis-Europe 22st Annual Conference 2013"
-author: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran\c cois"
-authors: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran\c cois"
-abstract: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran\c cois"
+author: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran cois"
+authors: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran cois"
+abstract: "Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran cois"
 date: "2013-01-01"
 year: "2013"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran\c cois
+- **Auteurs:** Gloaguen, Silke, Lee, Roh-Pin Pin, Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** Society for Risk Analysis-Europe 22st Annual Conference 2013
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03126496](https://shs.hal.science/halshs-03126496)

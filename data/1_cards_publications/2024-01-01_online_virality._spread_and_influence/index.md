@@ -1,9 +1,9 @@
 ---
-uuid: d474df6d-f80a-4edf-824b-98b28ac25f43
+uuid: 06295276-39dc-4043-bb44-9e22a1151454
 title: "Online Virality. Spread and Influence"
-author: "Julliard, Virginie, Pailler, Fred, Ali\'e, F\'elix, Ecrement, Victor"
-authors: "Julliard, Virginie, Pailler, Fred, Ali\'e, F\'elix, Ecrement, Victor"
-abstract: "Julliard, Virginie, Pailler, Fred, Ali\'e, F\'elix, Ecrement, Victor"
+author: "Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor"
+authors: "Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor"
+abstract: "Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor"
 date: "2024-01-01"
 year: "2024"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Julliard, Virginie, Pailler, Fred, Ali\'e, F\'elix, Ecrement, Victor
+- **Auteurs:** Julliard, Virginie, Pailler, Fred, Alié, Félix, Ecrement, Victor
 - **Type de publication:** incollection
 - **Éditeur:** De Gruyter Oldenbourg
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04969378](https://hal.science/hal-04969378)

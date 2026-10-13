@@ -1,9 +1,9 @@
 ---
-uuid: 35c2674f-9af8-4d8b-8313-c45413aa23e6
-title: "L'atelier de lecture, Cm 1 - cycle 3, Cahier d'entra\^inement"
-author: "Souchier, Emmanu\\"el, Descouens, M., Mesnager, J., M\'edard, P.-L., R\'emond, G."
-authors: "Souchier, Emmanu\\"el, Descouens, M., Mesnager, J., M\'edard, P.-L., R\'emond, G."
-abstract: "Souchier, Emmanu\\"el, Descouens, M., Mesnager, J., M\'edard, P.-L., R\'emond, G."
+uuid: 6f26db79-23d2-4e1f-9259-a98aa1ab551c
+title: "L'atelier de lecture, Cm 1 - cycle 3, Cahier d'entraînement"
+author: "Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G."
+authors: "Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G."
+abstract: "Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G."
 date: "2011-01-01"
 year: "2011"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Descouens, M., Mesnager, J., M\'edard, P.-L., R\'emond, G.
+- **Auteurs:** Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G.
 - **Type de publication:** book
 - **Éditeur:** Nathan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760385](https://hal.science/hal-03760385)

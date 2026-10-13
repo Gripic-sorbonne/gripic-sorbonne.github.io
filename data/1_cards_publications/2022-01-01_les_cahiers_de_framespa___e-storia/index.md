@@ -1,14 +1,14 @@
 ---
-uuid: bcedbca5-edeb-426e-8315-9fb603174b25
+uuid: 2f414b5c-5a9c-4951-a73b-fe01ce190ea7
 title: "Les Cahiers de Framespa : e-Storia"
-author: "Lalande, Antoine, Le Marec, Jo\\"elle"
-authors: "Lalande, Antoine, Le Marec, Jo\\"elle"
-abstract: "Lalande, Antoine, Le Marec, Jo\\"elle"
+author: "Lalande, Antoine, Le Marec, Joëlle"
+authors: "Lalande, Antoine, Le Marec, Joëlle"
+abstract: "Lalande, Antoine, Le Marec, Joëlle"
 date: "2022-01-01"
 year: "2022"
 type: "article"
 url: "https://hal.science/hal-03968256"
-publisher: "laboratoire FRAMESPA (UMR 5136, Universit\'e Toulouse - Jean Jaur\`es / CNRS)"
+publisher: "laboratoire FRAMESPA (UMR 5136, Université Toulouse - Jean Jaurès / CNRS)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Lalande, Antoine, Le Marec, Jo\"elle
+- **Auteurs:** Lalande, Antoine, Le Marec, Joëlle
 - **Type de publication:** article
-- **Éditeur:** laboratoire FRAMESPA (UMR 5136, Universit\'e Toulouse - Jean Jaur\`es / CNRS)
+- **Éditeur:** laboratoire FRAMESPA (UMR 5136, Université Toulouse - Jean Jaurès / CNRS)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03968256](https://hal.science/hal-03968256)
 

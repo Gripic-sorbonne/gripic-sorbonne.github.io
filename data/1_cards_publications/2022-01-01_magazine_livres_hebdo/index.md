@@ -1,9 +1,9 @@
 ---
-uuid: 65686341-589f-4bfa-a6b8-e0692d4d5c4b
+uuid: 3e1ed534-87ac-4b2c-ad72-41f1cea6aa7b
 title: "Magazine Livres Hebdo"
-author: "L\'evrier, Alexis"
-authors: "L\'evrier, Alexis"
-abstract: "L\'evrier, Alexis"
+author: "Lévrier, Alexis"
+authors: "Lévrier, Alexis"
+abstract: "Lévrier, Alexis"
 date: "2022-01-01"
 year: "2022"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** L\'evrier, Alexis
+- **Auteurs:** Lévrier, Alexis
 - **Type de publication:** article
 - **Éditeur:** Electre SA - Cercle de la Librairie
 - 🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04280537](https://univ-reims.hal.science/hal-04280537)

@@ -1,5 +1,5 @@
 ---
-uuid: 7be97659-3a15-43f2-a35f-cb4af7646915
+uuid: 7da1fdc5-9ee1-4be7-acca-1339b2ed3071
 title: "Les Cahiers d'Artes"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"
@@ -8,7 +8,7 @@ date: "2020-01-01"
 year: "2020"
 type: "article"
 url: "https://hal.science/hal-03758554"
-publisher: "Presses Universitaires de Bordeaux - PUB (1983 \`a \ldots) / Atelier de recherche transdisciplinaire Esth\'etique et soci\'et\'es - ARTES"
+publisher: "Presses Universitaires de Bordeaux - PUB (1983 à ldots) / Atelier de recherche transdisciplinaire Esthétique et sociétés - ARTES"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Quemener, Nelly
 - **Type de publication:** article
-- **Éditeur:** Presses Universitaires de Bordeaux - PUB (1983 \`a \ldots) / Atelier de recherche transdisciplinaire Esth\'etique et soci\'et\'es - ARTES
+- **Éditeur:** Presses Universitaires de Bordeaux - PUB (1983 à ldots) / Atelier de recherche transdisciplinaire Esthétique et sociétés - ARTES
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758554](https://hal.science/hal-03758554)
 

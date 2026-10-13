@@ -1,9 +1,9 @@
 ---
-uuid: 3c550487-8f44-4338-82d7-05ac0c14da8b
+uuid: af887ded-6987-4f6c-9459-6a1a96303082
 title: "Les Labels dans le domaine du patrimoine culturel et naturel"
-author: "A\\"IM, Olivier, Lallement, Emmanuelle"
-authors: "A\\"IM, Olivier, Lallement, Emmanuelle"
-abstract: "A\\"IM, Olivier, Lallement, Emmanuelle"
+author: "AIM, Olivier, Lallement, Emmanuelle"
+authors: "AIM, Olivier, Lallement, Emmanuelle"
+abstract: "AIM, Olivier, Lallement, Emmanuelle"
 date: "2020-01-01"
 year: "2020"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** A\"IM, Olivier, Lallement, Emmanuelle
+- **Auteurs:** AIM, Olivier, Lallement, Emmanuelle
 - **Type de publication:** incollection
 - **Éditeur:** Presses Universitaires de Rennes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749232](https://hal.science/hal-03749232)

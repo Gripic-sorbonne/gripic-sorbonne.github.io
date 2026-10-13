@@ -1,5 +1,5 @@
 ---
-uuid: b8bf1c2a-e608-4d18-9c50-e553e3404153
+uuid: 4a7bad60-15c3-462c-9358-f813bf829307
 title: "Communiquer : Revue de communication sociale et publique"
 author: "Buisson, Marie-Lise"
 authors: "Buisson, Marie-Lise"
@@ -8,7 +8,7 @@ date: "2023-01-01"
 year: "2023"
 type: "article"
 url: "https://hal.science/hal-04278711"
-publisher: "Universit\'e du Qu\'ebec, D\'epartement de communication sociale et publique"
+publisher: "Université du Québec, Département de communication sociale et publique"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Buisson, Marie-Lise
 - **Type de publication:** article
-- **Éditeur:** Universit\'e du Qu\'ebec, D\'epartement de communication sociale et publique
+- **Éditeur:** Université du Québec, Département de communication sociale et publique
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04278711](https://hal.science/hal-04278711)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 97a6caad-2a82-4340-a2cf-2b6b72e2dd86
+uuid: 0fe536df-7ec9-4588-b2ec-708d38c4c5e0
 title: "Le songe de J.-M. Queneau"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1989-01-01"
 year: "1989"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** misc
 - **Éditeur:** Galerie Peyrole
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761107](https://hal.science/hal-03761107)

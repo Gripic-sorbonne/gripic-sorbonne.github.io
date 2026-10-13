@@ -1,5 +1,5 @@
 ---
-uuid: 99c8bc91-1ea1-48ec-9b0b-e41123a89b84
+uuid: 8b1a450b-7361-4a24-9e94-134e78ce21c8
 title: "La Civilisation du journal"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"
@@ -8,7 +8,7 @@ date: "2012-01-01"
 year: "2012"
 type: "incollection"
 url: "https://hal.science/hal-03767179"
-publisher: "Nouveau Monde \'edition"
+publisher: "Nouveau Monde édition"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Wrona, Adeline
 - **Type de publication:** incollection
-- **Éditeur:** Nouveau Monde \'edition
+- **Éditeur:** Nouveau Monde édition
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767179](https://hal.science/hal-03767179)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 8dbd7ce7-fe24-4862-8cdb-f49e78ba29bb
+uuid: 11c712b8-8854-40d8-b6e9-88da90701a9c
 title: "Crises environnementales et organisations. Regards en communication environnementale"
-author: "Allard-Huver, Fran\c cois, Bernard, Fran\c coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, C\'eline"
-authors: "Allard-Huver, Fran\c cois, Bernard, Fran\c coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, C\'eline"
-abstract: "Allard-Huver, Fran\c cois, Bernard, Fran\c coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, C\'eline"
+author: "Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline"
+authors: "Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline"
+abstract: "Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline"
 date: "2024-01-01"
 year: "2024"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois, Bernard, Fran\c coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, C\'eline
+- **Auteurs:** Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline
 - **Type de publication:** inproceedings
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03655308](https://hal.science/hal-03655308)
 

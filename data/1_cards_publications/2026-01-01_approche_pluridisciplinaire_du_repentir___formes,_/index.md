@@ -1,14 +1,14 @@
 ---
-uuid: 11679d53-5da4-4437-91ab-9f1a7458fc39
-title: "Approche pluridisciplinaire du repentir : formes, m\'ediums, enjeux"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+uuid: ecb40d74-3bea-4318-a458-cd9f1ab5c454
+title: "Approche pluridisciplinaire du repentir : formes, médiums, enjeux"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2026-01-01"
 year: "2026"
 type: "incollection"
 url: "https://hal.science/hal-05609684"
-publisher: "\'Editions de l'Universit\'e Savoie Mont Blanc"
+publisher: "Éditions de l'Université Savoie Mont Blanc"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** incollection
-- **Éditeur:** \'Editions de l'Universit\'e Savoie Mont Blanc
+- **Éditeur:** Éditions de l'Université Savoie Mont Blanc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609684](https://hal.science/hal-05609684)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 31f0b930-9655-4699-a93e-dc143adeddfc
+uuid: 9a606d8f-28c3-4038-b5d6-21da86ab1466
 title: "Traverses"
-author: "Souchier, Emmanu\\"el, Pomian, Joanna"
-authors: "Souchier, Emmanu\\"el, Pomian, Joanna"
-abstract: "Souchier, Emmanu\\"el, Pomian, Joanna"
+author: "Souchier, Emmanuël, Pomian, Joanna"
+authors: "Souchier, Emmanuël, Pomian, Joanna"
+abstract: "Souchier, Emmanuël, Pomian, Joanna"
 date: "1988-01-01"
 year: "1988"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Pomian, Joanna
+- **Auteurs:** Souchier, Emmanuël, Pomian, Joanna
 - **Type de publication:** incollection
 - **Éditeur:** Bpi
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761053](https://hal.science/hal-03761053)

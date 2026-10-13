@@ -1,9 +1,9 @@
 ---
-uuid: 751098d4-1775-4393-9594-531e695e85df
+uuid: 8925f494-3627-4798-a262-b29e35cb24c5
 title: "La fabrication de Abu Dhabi"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2016-01-01"
 year: "2016"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** La fabrication de Abu Dhabi
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749942](https://hal.science/hal-03749942)

@@ -1,9 +1,9 @@
 ---
-uuid: 3a4f7c4a-9451-4d92-aeaa-7daeb760ffcf
+uuid: 9ea2417b-fb42-4701-8152-672bd51866fa
 title: "La Communication Transparente"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2013-01-01"
 year: "2013"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** La Communication Transparente
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02094695](https://hal.science/hal-02094695)

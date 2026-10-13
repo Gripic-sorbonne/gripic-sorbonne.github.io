@@ -1,9 +1,9 @@
 ---
-uuid: 16f47972-b234-4213-be87-67647809d474
+uuid: de70c32c-6661-48d1-a8dc-e54a3ad130a0
 title: "`` La normalisation et la valeur sociale du swipe et autres ‘petits gestes' de manipulation des interfaces tactiles ''."
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2022-01-01"
 year: "2022"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03772749](https://hal.science/hal-03772749)
 

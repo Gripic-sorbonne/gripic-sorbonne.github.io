@@ -1,9 +1,9 @@
 ---
-uuid: 1929e777-cc05-4a79-aeec-af07ef2b575c
+uuid: e7572986-4d3d-47d8-8e6a-3bdad904b372
 title: "ILLA Focus Conference : ''Corpus linguistics applied to extremist narratives: what are the implications for cybercrime analysis?''"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2025-01-01"
 year: "2025"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** inproceedings
 - **Éditeur:** ILLA Focus Conference : ''Corpus linguistics applied to extremist narratives: what are the implications for cybercrime analysis?''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05609773](https://hal.science/hal-05609773)

@@ -1,9 +1,9 @@
 ---
-uuid: a836f820-0f38-4695-b8ef-9dd3f02b27f1
+uuid: 3826f396-cf04-4a6c-bf08-49353e13c61f
 title: "Territoires sous Influence Tome 2"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2001-01-01"
 year: "2001"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** incollection
 - **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754408](https://hal.science/hal-03754408)

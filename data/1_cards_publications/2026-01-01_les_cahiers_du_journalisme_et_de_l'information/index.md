@@ -1,14 +1,14 @@
 ---
-uuid: 2b79c3d0-a471-4a54-873d-11c3bc66560c
+uuid: 85fed323-80e7-4c60-9f41-d60da47f8669
 title: "Les Cahiers du journalisme et de l'information"
-author: "Ballarini, Lo\\"ic, Alexis, Lucie, Alv\`es, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, S\'egur, C\'eline"
-authors: "Ballarini, Lo\\"ic, Alexis, Lucie, Alv\`es, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, S\'egur, C\'eline"
-abstract: "Ballarini, Lo\\"ic, Alexis, Lucie, Alv\`es, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, S\'egur, C\'eline"
+author: "Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline"
+authors: "Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline"
+abstract: "Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline"
 date: "2026-01-01"
 year: "2026"
 type: "article"
 url: "https://hal.science/hal-05782232"
-publisher: "Presses de l'Universit\'e d'Ottawa"
+publisher: "Presses de l'Université d'Ottawa"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Ballarini, Lo\"ic, Alexis, Lucie, Alv\`es, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, S\'egur, C\'eline
+- **Auteurs:** Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline
 - **Type de publication:** article
-- **Éditeur:** Presses de l'Universit\'e d'Ottawa
+- **Éditeur:** Presses de l'Université d'Ottawa
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05782232](https://hal.science/hal-05782232)
 

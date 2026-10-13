@@ -1,9 +1,9 @@
 ---
-uuid: eda9fffc-d101-4ad9-be62-2e001c699482
+uuid: bb6de85a-b44f-4859-9c57-c6e666ca089a
 title: "AISR2017"
-author: "P\`ene, Sophie"
-authors: "P\`ene, Sophie"
-abstract: "P\`ene, Sophie"
+author: "Pène, Sophie"
+authors: "Pène, Sophie"
+abstract: "Pène, Sophie"
 date: "2017-01-01"
 year: "2017"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** P\`ene, Sophie
+- **Auteurs:** Pène, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** AISR2017
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01640304](https://hal.science/hal-01640304)

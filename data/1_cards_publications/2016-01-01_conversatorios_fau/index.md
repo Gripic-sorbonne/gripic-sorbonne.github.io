@@ -1,9 +1,9 @@
 ---
-uuid: cb7f7eb8-2064-4968-8f08-ce3d2fffd106
+uuid: fedfe01a-be89-4d6d-aa59-3644b55d0520
 title: "Conversatorios FAU"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2016-01-01"
 year: "2016"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Conversatorios FAU
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749944](https://hal.science/hal-03749944)

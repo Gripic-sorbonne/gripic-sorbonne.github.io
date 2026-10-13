@@ -1,14 +1,14 @@
 ---
-uuid: d99164d5-bdf8-4ac5-918c-388e8fddaafc
+uuid: 4f25a487-70eb-4b01-b0d3-66065cb5fb6f
 title: "L'incertitude des territoires"
-author: "Pag\`es, Dominique, P\'elissier, Nicolas"
-authors: "Pag\`es, Dominique, P\'elissier, Nicolas"
-abstract: "Pag\`es, Dominique, P\'elissier, Nicolas"
+author: "Pagès, Dominique, Pélissier, Nicolas"
+authors: "Pagès, Dominique, Pélissier, Nicolas"
+abstract: "Pagès, Dominique, Pélissier, Nicolas"
 date: "1997-01-01"
 year: "1997"
 type: "misc"
 url: "https://hal.science/hal-03754388"
-publisher: "\'Editions de la Maison des sciences de l'homme"
+publisher: "Éditions de la Maison des sciences de l'homme"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique, P\'elissier, Nicolas
+- **Auteurs:** Pagès, Dominique, Pélissier, Nicolas
 - **Type de publication:** misc
-- **Éditeur:** \'Editions de la Maison des sciences de l'homme
+- **Éditeur:** Éditions de la Maison des sciences de l'homme
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754388](https://hal.science/hal-03754388)
 

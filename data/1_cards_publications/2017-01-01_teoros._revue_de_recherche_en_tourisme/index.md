@@ -1,14 +1,14 @@
 ---
-uuid: 63e3fbaf-2c51-494c-b9d6-032ca14e8123
+uuid: bd373bdc-d3ee-41c4-b6ae-4ed3ebdd94c4
 title: "Teoros. Revue de recherche en tourisme"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2017-01-01"
 year: "2017"
 type: "article"
 url: "https://hal.science/hal-03749885"
-publisher: "Universit\'e de Montr\'eal"
+publisher: "Université de Montréal"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** article
-- **Éditeur:** Universit\'e de Montr\'eal
+- **Éditeur:** Université de Montréal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749885](https://hal.science/hal-03749885)
 

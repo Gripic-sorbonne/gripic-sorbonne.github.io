@@ -1,9 +1,9 @@
 ---
-uuid: afd67d08-296b-4c39-a009-5648d9fc16a9
+uuid: 4342cff6-482a-4e5a-b7e0-c6b982139fd6
 title: "Publictionnaire"
-author: "A\\"IM, Olivier"
-authors: "A\\"IM, Olivier"
-abstract: "A\\"IM, Olivier"
+author: "AIM, Olivier"
+authors: "AIM, Olivier"
+abstract: "AIM, Olivier"
 date: "2021-01-01"
 year: "2021"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** A\"IM, Olivier
+- **Auteurs:** AIM, Olivier
 - **Type de publication:** incollection
 - **Éditeur:** Publictionnaire
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03958006](https://hal.science/hal-03958006)

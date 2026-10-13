@@ -1,9 +1,9 @@
 ---
-uuid: 28388e5f-893c-4742-b4e2-1b40b73a1352
+uuid: d0fd26cc-af2b-4d6d-87e1-092404c4af3b
 title: "Doctorales SFSIC"
-author: "Abid-Dalen\c con, Ambre"
-authors: "Abid-Dalen\c con, Ambre"
-abstract: "Abid-Dalen\c con, Ambre"
+author: "Abid-Dalen con, Ambre"
+authors: "Abid-Dalen con, Ambre"
+abstract: "Abid-Dalen con, Ambre"
 date: "2015-01-01"
 year: "2015"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen\c con, Ambre
+- **Auteurs:** Abid-Dalen con, Ambre
 - **Type de publication:** inproceedings
 - **Éditeur:** Doctorales SFSIC
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725102](https://hal.science/hal-03725102)

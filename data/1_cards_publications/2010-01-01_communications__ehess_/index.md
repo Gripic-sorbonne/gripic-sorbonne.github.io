@@ -1,5 +1,5 @@
 ---
-uuid: 4f256d5b-14b6-483d-a48a-7a42740d8ff4
+uuid: 158dc0e9-98d7-44b4-8561-ba288dfc1fe2
 title: "Communications [EHESS]"
 author: "Quemener, Nelly, Char, Antoine"
 authors: "Quemener, Nelly, Char, Antoine"
@@ -8,7 +8,7 @@ date: "2010-01-01"
 year: "2010"
 type: "article"
 url: "https://hal.science/hal-03758741"
-publisher: "\'Editions du Seuil [1961-....]"
+publisher: "Éditions du Seuil [1961-....]"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Quemener, Nelly, Char, Antoine
 - **Type de publication:** article
-- **Éditeur:** \'Editions du Seuil [1961-....]
+- **Éditeur:** Éditions du Seuil [1961-....]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758741](https://hal.science/hal-03758741)
 

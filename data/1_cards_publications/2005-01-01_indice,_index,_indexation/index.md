@@ -1,14 +1,14 @@
 ---
-uuid: fb1078e7-8df3-45d9-9cd0-23db7ac66cc9
+uuid: 9030119c-f059-480c-9a07-2d43ed49c7e7
 title: "Indice, Index, Indexation"
-author: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanu\\"el"
-authors: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanu\\"el"
-abstract: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanu\\"el"
+author: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël"
+authors: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël"
+abstract: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël"
 date: "2005-01-01"
 year: "2005"
 type: "proceedings"
 url: "https://shs.hal.science/halshs-00082852"
-publisher: "Universit\'e Charles-de-Gaulle - Lille 3"
+publisher: "Université Charles-de-Gaulle - Lille 3"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanu\"el
+- **Auteurs:** Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël
 - **Type de publication:** proceedings
-- **Éditeur:** Universit\'e Charles-de-Gaulle - Lille 3
+- **Éditeur:** Université Charles-de-Gaulle - Lille 3
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00082852](https://shs.hal.science/halshs-00082852)
 

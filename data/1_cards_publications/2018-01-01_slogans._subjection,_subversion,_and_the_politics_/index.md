@@ -1,9 +1,9 @@
 ---
-uuid: 0a9717bf-bd0d-4e22-aa8b-b080c31f1d02
+uuid: 9f85cb54-9cc3-4963-91a9-3162c816a553
 title: "Slogans. Subjection, Subversion, and the Politics of Neoliberalism"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2018-01-01"
 year: "2018"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** incollection
 - **Éditeur:** Routledge
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749841](https://hal.science/hal-03749841)

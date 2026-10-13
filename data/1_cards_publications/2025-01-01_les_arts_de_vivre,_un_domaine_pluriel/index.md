@@ -1,9 +1,9 @@
 ---
-uuid: 779c890a-f577-4a3c-9df7-7814e5df4421
+uuid: 2c2ff776-988a-492a-a2e9-495699f68522
 title: "Les Arts de vivre, un domaine pluriel"
-author: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Beno\^it, A\\"IM, Olivier"
-authors: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Beno\^it, A\\"IM, Olivier"
-abstract: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Beno\^it, A\\"IM, Olivier"
+author: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier"
+authors: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier"
+abstract: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier"
 date: "2025-01-01"
 year: "2025"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Beno\^it, A\"IM, Olivier
+- **Auteurs:** Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier
 - **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05769695](https://hal.science/hal-05769695)
 

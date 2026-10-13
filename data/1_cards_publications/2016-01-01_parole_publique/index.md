@@ -1,9 +1,9 @@
 ---
-uuid: 7a5da1d5-5b43-450e-b543-f16930ae501a
+uuid: 1be84498-1de7-425a-8372-d3b77f99b186
 title: "Parole publique"
-author: "Richard, V\'eronique"
-authors: "Richard, V\'eronique"
-abstract: "Richard, V\'eronique"
+author: "Richard, Véronique"
+authors: "Richard, Véronique"
+abstract: "Richard, Véronique"
 date: "2016-01-01"
 year: "2016"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Richard, V\'eronique
+- **Auteurs:** Richard, Véronique
 - **Type de publication:** article
 - **Éditeur:** Association communication publique
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03779418](https://hal.science/hal-03779418)

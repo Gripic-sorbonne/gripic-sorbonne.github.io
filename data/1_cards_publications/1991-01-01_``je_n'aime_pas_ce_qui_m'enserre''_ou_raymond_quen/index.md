@@ -1,14 +1,14 @@
 ---
-uuid: 9ea40e0e-9729-44ae-8dbc-34e8f4f17baf
-title: "``Je n'aime pas ce qui m'enserre'' ou Raymond Queneau face au surr\'ealisme"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+uuid: 65b4fd7e-ddb4-4a3e-9a3b-d8f20933187e
+title: "``Je n'aime pas ce qui m'enserre'' ou Raymond Queneau face au surréalisme"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1991-01-01"
 year: "1991"
 type: "book"
 url: "https://hal.science/hal-03760437"
-publisher: "\'Ed. Sixtus"
+publisher: "Éd. Sixtus"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** book
-- **Éditeur:** \'Ed. Sixtus
+- **Éditeur:** Éd. Sixtus
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760437](https://hal.science/hal-03760437)
 

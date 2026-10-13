@@ -1,9 +1,9 @@
 ---
-uuid: a17ff74a-0552-4027-8290-05839d0a70c6
+uuid: 621b9204-25a8-445c-91e3-295bd46a3f88
 title: "Fourteenth EuroTex Conference, Back to typography"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2003-01-01"
 year: "2003"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** inproceedings
 - **Éditeur:** Fourteenth EuroTex Conference, Back to typography
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760927](https://hal.science/hal-03760927)

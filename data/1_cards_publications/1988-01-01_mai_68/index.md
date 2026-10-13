@@ -1,14 +1,14 @@
 ---
-uuid: 848f7eed-a4b6-43ed-be7a-ca7aa9e8d3d4
+uuid: 6cd860a8-3efb-4276-a03f-54608084a9aa
 title: "Mai 68"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1988-01-01"
 year: "1988"
 type: "book"
 url: "https://hal.science/hal-03760456"
-publisher: "La Documentation Fran\c caise"
+publisher: "La Documentation Fran caise"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** book
-- **Éditeur:** La Documentation Fran\c caise
+- **Éditeur:** La Documentation Fran caise
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760456](https://hal.science/hal-03760456)
 

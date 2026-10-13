@@ -1,9 +1,9 @@
 ---
-uuid: 79e338bb-9671-4516-8830-3bbb198e5fec
+uuid: 56f04007-fd0a-46a7-a17c-278ab3524a29
 title: "Conseil scientifique du COSPRAD"
-author: "Renaut, Laur\`ene, Thomas, Dominique"
-authors: "Renaut, Laur\`ene, Thomas, Dominique"
-abstract: "Renaut, Laur\`ene, Thomas, Dominique"
+author: "Renaut, Laurène, Thomas, Dominique"
+authors: "Renaut, Laurène, Thomas, Dominique"
+abstract: "Renaut, Laurène, Thomas, Dominique"
 date: "2024-01-01"
 year: "2024"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene, Thomas, Dominique
+- **Auteurs:** Renaut, Laurène, Thomas, Dominique
 - **Type de publication:** inproceedings
 - **Éditeur:** Conseil scientifique du COSPRAD
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05682245](https://hal.science/hal-05682245)

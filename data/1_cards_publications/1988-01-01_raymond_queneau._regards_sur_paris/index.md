@@ -1,14 +1,14 @@
 ---
-uuid: cb9f286b-5fbb-48ee-a4b5-e3fb1421bdc6
+uuid: 07f22853-ed2a-4106-9fe0-fafba65bb544
 title: "Raymond Queneau. Regards sur Paris"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1988-01-01"
 year: "1988"
 type: "misc"
 url: "https://hal.science/hal-03761109"
-publisher: "Les Amis de Valentin Br\^u"
+publisher: "Les Amis de Valentin Brû"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** misc
-- **Éditeur:** Les Amis de Valentin Br\^u
+- **Éditeur:** Les Amis de Valentin Brû
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761109](https://hal.science/hal-03761109)
 

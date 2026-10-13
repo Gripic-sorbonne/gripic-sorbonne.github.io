@@ -1,9 +1,9 @@
 ---
-uuid: b01e2df6-ae0b-4bcd-92ce-9636e5bfc497
+uuid: a4813bda-719a-4dc0-b44c-b051cc895057
 title: "Actes du 3e Colloque international Raymond Queneau"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1987-01-01"
 year: "1987"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** Verviers
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761058](https://hal.science/hal-03761058)

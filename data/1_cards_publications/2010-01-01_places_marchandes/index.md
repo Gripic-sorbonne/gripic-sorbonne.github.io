@@ -1,9 +1,9 @@
 ---
-uuid: 3ce51c6d-0ec5-4757-813d-d78dab69d4c1
+uuid: ce496ee8-aa9a-47ca-b5a9-6d2f115334d6
 title: "Places marchandes"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2010-01-01"
 year: "2010"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Places marchandes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749968](https://hal.science/hal-03749968)

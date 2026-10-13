@@ -1,9 +1,9 @@
 ---
-uuid: 21ae33df-3e1d-4133-b155-f01644216e7e
+uuid: 0fa9676f-6b0e-4329-baf3-c4ee3cc6558a
 title: "Colloque international de Wroclaw : ``Traits, fragments, figures chez Roland Barthes ''"
-author: "Escande, Pauline, A\\"IM, Olivier"
-authors: "Escande, Pauline, A\\"IM, Olivier"
-abstract: "Escande, Pauline, A\\"IM, Olivier"
+author: "Escande, Pauline, AIM, Olivier"
+authors: "Escande, Pauline, AIM, Olivier"
+abstract: "Escande, Pauline, AIM, Olivier"
 date: "2015-01-01"
 year: "2015"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline, A\"IM, Olivier
+- **Auteurs:** Escande, Pauline, AIM, Olivier
 - **Type de publication:** inproceedings
 - **Éditeur:** Colloque international de Wroclaw : ``Traits, fragments, figures chez Roland Barthes ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750704](https://hal.science/hal-03750704)

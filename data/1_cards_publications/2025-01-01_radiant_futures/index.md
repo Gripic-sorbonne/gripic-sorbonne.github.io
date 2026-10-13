@@ -1,9 +1,9 @@
 ---
-uuid: 41e76b86-4b91-42d3-8ea1-bc23fa11b656
+uuid: 443cc4a6-cdda-46f6-905c-3b1b39b83d84
 title: "Radiant Futures"
-author: "Ecrement, Vanille, St\\"uhrenberg, Lou"
-authors: "Ecrement, Vanille, St\\"uhrenberg, Lou"
-abstract: "Ecrement, Vanille, St\\"uhrenberg, Lou"
+author: "Ecrement, Vanille, Stührenberg, Lou"
+authors: "Ecrement, Vanille, Stührenberg, Lou"
+abstract: "Ecrement, Vanille, Stührenberg, Lou"
 date: "2025-01-01"
 year: "2025"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Ecrement, Vanille, St\"uhrenberg, Lou
+- **Auteurs:** Ecrement, Vanille, Stührenberg, Lou
 - **Type de publication:** inproceedings
 - **Éditeur:** Radiant Futures
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05448190](https://hal.science/hal-05448190)

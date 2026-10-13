@@ -1,9 +1,9 @@
 ---
-uuid: 5713b6f6-3409-4dbb-acb1-6457eeb90be7
+uuid: 8190b6a0-0ea5-467a-9a4a-0a9212d50b82
 title: "Writing Researches Accross Borders"
-author: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-authors: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-abstract: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
+author: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+authors: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+abstract: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
 date: "2014-01-01"
 year: "2014"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois, Gilewicz, Nicholas
+- **Auteurs:** Allard-Huver, Fran cois, Gilewicz, Nicholas
 - **Type de publication:** inproceedings
 - **Éditeur:** Writing Researches Accross Borders
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03126477](https://shs.hal.science/halshs-03126477)

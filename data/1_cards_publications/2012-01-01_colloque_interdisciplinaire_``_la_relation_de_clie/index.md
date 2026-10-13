@@ -1,6 +1,6 @@
 ---
-uuid: 974af577-8a45-4ea3-896d-aa1c40f8ec90
-title: "COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENT\`ELE ''"
+uuid: 7a47536d-04b9-4f72-847a-e358405afc6a
+title: "COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENTÈLE ''"
 author: "D'Almeida, nicole, Fabien, Bonnet"
 authors: "D'Almeida, nicole, Fabien, Bonnet"
 abstract: "D'Almeida, nicole, Fabien, Bonnet"
@@ -8,7 +8,7 @@ date: "2012-01-01"
 year: "2012"
 type: "inproceedings"
 url: "https://hal.science/hal-03750120"
-publisher: "COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENT\`ELE ''"
+publisher: "COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENTÈLE ''"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** D'Almeida, nicole, Fabien, Bonnet
 - **Type de publication:** inproceedings
-- **Éditeur:** COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENT\`ELE ''
+- **Éditeur:** COLLOQUE INTERDISCIPLINAIRE `` LA RELATION DE CLIENTÈLE ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750120](https://hal.science/hal-03750120)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 3d713b61-97f6-4f93-adce-c5cf8ae25974
-title: "La ville et les sciences sociales. Ce que la ville fait \`a l'anthropologie, ce que l'anthropologie fait \`a la ville. 1er congr\'es d'AnthropoVilles"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+uuid: b7a906be-4fba-452a-8fe6-0a9aae3118de
+title: "La ville et les sciences sociales. Ce que la ville fait à l'anthropologie, ce que l'anthropologie fait à la ville. 1er congrés d'AnthropoVilles"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2019-01-01"
 year: "2019"
 type: "inproceedings"
 url: "https://hal.science/hal-03749925"
-publisher: "La ville et les sciences sociales. Ce que la ville fait \`a l'anthropologie, ce que l'anthropologie fait \`a la ville. 1er congr\'es d'AnthropoVilles"
+publisher: "La ville et les sciences sociales. Ce que la ville fait à l'anthropologie, ce que l'anthropologie fait à la ville. 1er congrés d'AnthropoVilles"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
-- **Éditeur:** La ville et les sciences sociales. Ce que la ville fait \`a l'anthropologie, ce que l'anthropologie fait \`a la ville. 1er congr\'es d'AnthropoVilles
+- **Éditeur:** La ville et les sciences sociales. Ce que la ville fait à l'anthropologie, ce que l'anthropologie fait à la ville. 1er congrés d'AnthropoVilles
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749925](https://hal.science/hal-03749925)
 

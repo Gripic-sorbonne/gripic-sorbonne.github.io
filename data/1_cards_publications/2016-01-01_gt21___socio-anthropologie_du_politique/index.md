@@ -1,5 +1,5 @@
 ---
-uuid: 7b9c1457-0b6b-4812-944d-25ee64e7231f
+uuid: 156c9a85-02e3-469a-9ca7-3d38a76164fe
 title: "GT21 : Socio-anthropologie du politique"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

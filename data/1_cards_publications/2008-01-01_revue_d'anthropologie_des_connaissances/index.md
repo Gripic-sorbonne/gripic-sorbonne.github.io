@@ -1,14 +1,14 @@
 ---
-uuid: 5084dc65-0df4-47ae-8aaa-94327f106f31
+uuid: 96864a26-6127-4413-99ce-125618b425a8
 title: "Revue d'Anthropologie des Connaissances"
-author: "Babou, Igor, Le Marec, Jo\\"elle"
-authors: "Babou, Igor, Le Marec, Jo\\"elle"
-abstract: "Babou, Igor, Le Marec, Jo\\"elle"
+author: "Babou, Igor, Le Marec, Joëlle"
+authors: "Babou, Igor, Le Marec, Joëlle"
+abstract: "Babou, Igor, Le Marec, Joëlle"
 date: "2008-01-01"
 year: "2008"
 type: "article"
 url: "https://u-paris.hal.science/hal-01593797"
-publisher: "Soci\'et\'e d'Anthropologie des Connaissances (SAC)"
+publisher: "Société d'Anthropologie des Connaissances (SAC)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Babou, Igor, Le Marec, Jo\"elle
+- **Auteurs:** Babou, Igor, Le Marec, Joëlle
 - **Type de publication:** article
-- **Éditeur:** Soci\'et\'e d'Anthropologie des Connaissances (SAC)
+- **Éditeur:** Société d'Anthropologie des Connaissances (SAC)
 - 🔗 **Lien HAL / Publication:** [https://u-paris.hal.science/hal-01593797](https://u-paris.hal.science/hal-01593797)
 

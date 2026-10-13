@@ -1,5 +1,5 @@
 ---
-uuid: d748feac-f528-45c6-9d4d-593dbcf271b7
+uuid: f73a53f9-d989-4e02-a4e4-b869e5be2ba2
 title: "Sur le journalisme"
 author: "Charbonneaux, Juliette"
 authors: "Charbonneaux, Juliette"
@@ -8,7 +8,7 @@ date: "2020-01-01"
 year: "2020"
 type: "article"
 url: "https://hal.science/hal-03799836"
-publisher: "Universit\'e libre de Bruxelles"
+publisher: "Université libre de Bruxelles"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Charbonneaux, Juliette
 - **Type de publication:** article
-- **Éditeur:** Universit\'e libre de Bruxelles
+- **Éditeur:** Université libre de Bruxelles
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799836](https://hal.science/hal-03799836)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 0df7d1ea-f5af-4791-9768-455cbaed019c
+uuid: fabfce37-3a1b-4d4f-aa4e-2c8f2307dd5b
 title: "Actes du XXII SFSIC"
-author: "Escande-Gauqui\'e, Pauline"
-authors: "Escande-Gauqui\'e, Pauline"
-abstract: "Escande-Gauqui\'e, Pauline"
+author: "Escande-Gauquié, Pauline"
+authors: "Escande-Gauquié, Pauline"
+abstract: "Escande-Gauquié, Pauline"
 date: "2022-01-01"
 year: "2022"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande-Gauqui\'e, Pauline
+- **Auteurs:** Escande-Gauquié, Pauline
 - **Type de publication:** article
 - **Éditeur:** https://www.sfsic.org/publication/actes-du-xxiieme-congres-de-la-sfsic/
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04127444](https://hal.science/hal-04127444)

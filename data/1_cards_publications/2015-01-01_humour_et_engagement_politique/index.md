@@ -1,5 +1,5 @@
 ---
-uuid: b891e656-dc25-47c1-b311-4fccea3be555
+uuid: 200e822c-348a-497e-9485-2f659e623294
 title: "Humour et engagement politique"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"
@@ -8,7 +8,7 @@ date: "2015-01-01"
 year: "2015"
 type: "incollection"
 url: "https://hal.science/hal-03758772"
-publisher: "\'Editions Lambert-Lucas"
+publisher: "Éditions Lambert-Lucas"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Quemener, Nelly
 - **Type de publication:** incollection
-- **Éditeur:** \'Editions Lambert-Lucas
+- **Éditeur:** Éditions Lambert-Lucas
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758772](https://hal.science/hal-03758772)
 

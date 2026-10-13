@@ -1,5 +1,5 @@
 ---
-uuid: 342720c3-5a2d-4ed6-934c-01d465d89262
+uuid: e95a7c82-9f65-4b50-803c-b1ed578db45d
 title: "Publics et TIC. Confrontations conceptuelles et recherches empiriques"
 author: "Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier"
 authors: "Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier"

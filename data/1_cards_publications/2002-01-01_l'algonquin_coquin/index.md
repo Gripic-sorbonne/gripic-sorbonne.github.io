@@ -1,14 +1,14 @@
 ---
-uuid: 52090069-0ed4-4226-804f-a83ba8cd3469
+uuid: 3c9c2ab2-53ec-440d-9b6d-9b34cd330ba6
 title: "L'algonquin coquin"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2002-01-01"
 year: "2002"
 type: "misc"
 url: "https://hal.science/hal-03761094"
-publisher: "Mus\'ees de Sens"
+publisher: "Musées de Sens"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** misc
-- **Éditeur:** Mus\'ees de Sens
+- **Éditeur:** Musées de Sens
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761094](https://hal.science/hal-03761094)
 

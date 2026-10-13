@@ -1,9 +1,9 @@
 ---
-uuid: d197dcfc-8258-494e-94e5-cbaf943721ac
+uuid: 131c5a11-a5d2-4955-830b-04825dbe8cdc
 title: "Mise en jeu du patrimoine dans la configuration de la ville aujourd'hui"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2012-01-01"
 year: "2012"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Mise en jeu du patrimoine dans la configuration de la ville aujourd'hui
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749962](https://hal.science/hal-03749962)

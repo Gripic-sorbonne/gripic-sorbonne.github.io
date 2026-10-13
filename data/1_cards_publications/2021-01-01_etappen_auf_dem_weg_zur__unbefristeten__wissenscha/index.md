@@ -1,6 +1,6 @@
 ---
-uuid: ea2dfa08-82cf-474a-ab57-6fb4084ae835
-title: "Etappen auf dem Weg zur (unbefristeten) wissenschaftlichen Stelle an einer franz\\"osischen Universit\\"at"
+uuid: ce4e471f-e629-4bdf-9f57-d863c046f4b0
+title: "Etappen auf dem Weg zur (unbefristeten) wissenschaftlichen Stelle an einer französischen Universität"
 author: "Bolz, Lisa"
 authors: "Bolz, Lisa"
 abstract: "Bolz, Lisa"

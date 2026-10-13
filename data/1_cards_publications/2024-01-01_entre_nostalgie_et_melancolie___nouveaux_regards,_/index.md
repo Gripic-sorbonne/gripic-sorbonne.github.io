@@ -1,9 +1,9 @@
 ---
-uuid: d4646af7-97ac-4d35-aadf-6d7963b3a902
+uuid: 1d9a9988-b05c-45f9-9d76-ed5674325375
 title: "Entre nostalgie et melancolie : nouveaux regards, nouvelles questions"
-author: "Fantin, Emmanuelle, Corbill\'e, Sophie"
-authors: "Fantin, Emmanuelle, Corbill\'e, Sophie"
-abstract: "Fantin, Emmanuelle, Corbill\'e, Sophie"
+author: "Fantin, Emmanuelle, Corbillé, Sophie"
+authors: "Fantin, Emmanuelle, Corbillé, Sophie"
+abstract: "Fantin, Emmanuelle, Corbillé, Sophie"
 date: "2024-01-01"
 year: "2024"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Corbill\'e, Sophie
+- **Auteurs:** Fantin, Emmanuelle, Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Entre nostalgie et melancolie : nouveaux regards, nouvelles questions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04865551](https://hal.science/hal-04865551)

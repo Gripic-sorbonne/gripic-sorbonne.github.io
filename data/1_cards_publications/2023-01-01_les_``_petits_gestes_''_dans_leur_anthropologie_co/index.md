@@ -1,9 +1,9 @@
 ---
-uuid: 1279a417-6aa3-4be0-b6cc-f8a7fd0d6731
-title: "Les `` petits gestes '' dans leur anthropologie communicationnelle. \'Etudier la `` digipulation '' des applications mobiles"
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+uuid: 18d526bf-64fb-4a84-9395-ad9c46b30683
+title: "Les `` petits gestes '' dans leur anthropologie communicationnelle. Étudier la `` digipulation '' des applications mobiles"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2023-01-01"
 year: "2023"
 type: "phdthesis"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** phdthesis
 - 🔗 **Lien HAL / Publication:** [https://theses.hal.science/tel-04101090](https://theses.hal.science/tel-04101090)
 

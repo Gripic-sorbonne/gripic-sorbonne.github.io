@@ -1,9 +1,9 @@
 ---
-uuid: 91a57a3e-86bf-4df3-a4ae-957c5b6ac966
+uuid: e7060771-a0fd-4ef0-b1fb-c9eeba435636
 title: "La Croix"
-author: "L\'evrier, Alexis"
-authors: "L\'evrier, Alexis"
-abstract: "L\'evrier, Alexis"
+author: "Lévrier, Alexis"
+authors: "Lévrier, Alexis"
+abstract: "Lévrier, Alexis"
 date: "2022-01-01"
 year: "2022"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** L\'evrier, Alexis
+- **Auteurs:** Lévrier, Alexis
 - **Type de publication:** article
 - **Éditeur:** Bayard Presse
 - 🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04280567](https://univ-reims.hal.science/hal-04280567)

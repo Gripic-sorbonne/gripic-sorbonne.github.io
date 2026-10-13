@@ -1,9 +1,9 @@
 ---
-uuid: b1b2ccd3-d547-40ba-a706-71fa8b9bfa15
+uuid: 0456b172-027d-4b06-954d-98e787fdab6d
 title: "Primates"
-author: "Sueur, C\'edric, Nicolas, Agathe, Pel\'e, Marie, Hirata, Satoshi"
-authors: "Sueur, C\'edric, Nicolas, Agathe, Pel\'e, Marie, Hirata, Satoshi"
-abstract: "Sueur, C\'edric, Nicolas, Agathe, Pel\'e, Marie, Hirata, Satoshi"
+author: "Sueur, Cédric, Nicolas, Agathe, Pelé, Marie, Hirata, Satoshi"
+authors: "Sueur, Cédric, Nicolas, Agathe, Pelé, Marie, Hirata, Satoshi"
+abstract: "Sueur, Cédric, Nicolas, Agathe, Pelé, Marie, Hirata, Satoshi"
 date: "2026-01-01"
 year: "2026"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Sueur, C\'edric, Nicolas, Agathe, Pel\'e, Marie, Hirata, Satoshi
+- **Auteurs:** Sueur, Cédric, Nicolas, Agathe, Pelé, Marie, Hirata, Satoshi
 - **Type de publication:** article
 - **Éditeur:** Springer Verlag
 - 🔗 **Lien HAL / Publication:** [https://univ-catholille.hal.science/hal-05620095](https://univ-catholille.hal.science/hal-05620095)

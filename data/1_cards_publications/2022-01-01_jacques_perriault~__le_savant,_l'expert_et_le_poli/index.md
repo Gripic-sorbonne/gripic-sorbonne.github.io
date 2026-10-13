@@ -1,5 +1,5 @@
 ---
-uuid: e00ea417-ca88-451f-b782-16cd973169ad
+uuid: c27dd7d0-471d-4899-9a44-637cc7a01d1e
 title: "Jacques Perriault~: le savant, l'expert et le politique"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"
@@ -8,7 +8,7 @@ date: "2022-01-01"
 year: "2022"
 type: "misc"
 url: "https://hal.science/hal-03968171"
-publisher: "CNED-Centre national d'enseignement \`a distance"
+publisher: "CNED-Centre national d'enseignement à distance"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Petit, Laurent
 - **Type de publication:** misc
-- **Éditeur:** CNED-Centre national d'enseignement \`a distance
+- **Éditeur:** CNED-Centre national d'enseignement à distance
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03968171](https://hal.science/hal-03968171)
 

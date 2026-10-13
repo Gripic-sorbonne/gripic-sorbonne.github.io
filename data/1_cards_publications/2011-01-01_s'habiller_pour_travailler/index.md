@@ -1,9 +1,9 @@
 ---
-uuid: 767cd85b-e073-4511-99ef-63f26787759a
+uuid: 65795a82-417c-46fa-9c17-8908a7192559
 title: "S'habiller pour travailler"
-author: "Tassel, Julien, Math\'e, Anthony"
-authors: "Tassel, Julien, Math\'e, Anthony"
-abstract: "Tassel, Julien, Math\'e, Anthony"
+author: "Tassel, Julien, Mathé, Anthony"
+authors: "Tassel, Julien, Mathé, Anthony"
+abstract: "Tassel, Julien, Mathé, Anthony"
 date: "2011-01-01"
 year: "2011"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Tassel, Julien, Math\'e, Anthony
+- **Auteurs:** Tassel, Julien, Mathé, Anthony
 - **Type de publication:** incollection
 - **Éditeur:** Presses universitaires de Lyon
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766834](https://hal.science/hal-03766834)

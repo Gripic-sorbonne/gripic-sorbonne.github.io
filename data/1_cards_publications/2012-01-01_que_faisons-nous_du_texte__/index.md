@@ -1,9 +1,9 @@
 ---
-uuid: 7118b424-e305-464a-b222-dc55711d386b
+uuid: ec503624-ea43-43dd-863a-17a2fbba4b1b
 title: "Que faisons-nous du texte ?"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2012-01-01"
 year: "2012"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** Presses universitaires de Paris-Sorbonne
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761005](https://hal.science/hal-03761005)

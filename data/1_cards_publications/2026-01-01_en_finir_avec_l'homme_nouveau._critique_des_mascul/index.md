@@ -1,9 +1,9 @@
 ---
-uuid: 06388028-fb92-4477-b216-67d3032dc400
-title: "En finir avec l'homme nouveau. Critique des masculinit\'es modernes"
-author: "Gourarier, M\'elanie, Verquere, Laura"
-authors: "Gourarier, M\'elanie, Verquere, Laura"
-abstract: "Gourarier, M\'elanie, Verquere, Laura"
+uuid: 889b3fc2-6dbe-4cb3-925c-453295f5c233
+title: "En finir avec l'homme nouveau. Critique des masculinités modernes"
+author: "Gourarier, Mélanie, Verquere, Laura"
+authors: "Gourarier, Mélanie, Verquere, Laura"
+abstract: "Gourarier, Mélanie, Verquere, Laura"
 date: "2026-01-01"
 year: "2026"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gourarier, M\'elanie, Verquere, Laura
+- **Auteurs:** Gourarier, Mélanie, Verquere, Laura
 - **Type de publication:** book
 - **Éditeur:** La Deferlante
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05509262](https://hal.science/hal-05509262)

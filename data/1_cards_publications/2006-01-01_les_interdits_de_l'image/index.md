@@ -1,9 +1,9 @@
 ---
-uuid: c7cfa9d5-b649-43a1-91f5-05ae8455c3ce
+uuid: 3197639a-753a-45e4-beaa-f01577e5296b
 title: "Les interdits de l'image"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2006-01-01"
 year: "2006"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** book
 - **Éditeur:** Obsidiane - Les Belles Lettres
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760413](https://hal.science/hal-03760413)

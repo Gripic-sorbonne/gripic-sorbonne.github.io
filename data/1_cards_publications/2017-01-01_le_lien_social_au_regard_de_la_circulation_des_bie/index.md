@@ -1,9 +1,9 @@
 ---
-uuid: 11a4773c-dbe2-4f46-a2e7-e2297b500faa
+uuid: 390edde1-21be-4e31-a767-cd248cffd6e2
 title: "Le lien social au regard de la circulation des biens, des personnes et des capitaux"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2017-01-01"
 year: "2017"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Le lien social au regard de la circulation des biens, des personnes et des capitaux
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749938](https://hal.science/hal-03749938)

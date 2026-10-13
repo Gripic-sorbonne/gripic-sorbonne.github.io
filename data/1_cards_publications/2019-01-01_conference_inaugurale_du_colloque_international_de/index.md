@@ -1,6 +1,6 @@
 ---
-uuid: 7823f1e6-ae63-4e96-b404-992be81794a5
-title: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Br\'esil. `` Consumo, Existência, Resistência ''"
+uuid: 6c3cdcb8-f3a5-4c24-ba83-439b502663af
+title: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Brésil. `` Consumo, Existência, Resistência ''"
 author: "Marti, Caroline"
 authors: "Marti, Caroline"
 abstract: "Marti, Caroline"
@@ -8,7 +8,7 @@ date: "2019-01-01"
 year: "2019"
 type: "inproceedings"
 url: "https://hal.science/hal-03768242"
-publisher: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Br\'esil. `` Consumo, Existência, Resistência ''"
+publisher: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Brésil. `` Consumo, Existência, Resistência ''"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Marti, Caroline
 - **Type de publication:** inproceedings
-- **Éditeur:** Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Br\'esil. `` Consumo, Existência, Resistência ''
+- **Éditeur:** Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Brésil. `` Consumo, Existência, Resistência ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768242](https://hal.science/hal-03768242)
 

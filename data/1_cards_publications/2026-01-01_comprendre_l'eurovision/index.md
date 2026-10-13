@@ -1,14 +1,14 @@
 ---
-uuid: fff23e8c-a648-4d5f-998c-0d31f8210b86
+uuid: 27e907a8-e91c-4e7f-964d-c0730b9fd813
 title: "Comprendre l'Eurovision"
-author: "Appiotti, S\'ebastien"
-authors: "Appiotti, S\'ebastien"
-abstract: "Appiotti, S\'ebastien"
+author: "Appiotti, Sébastien"
+authors: "Appiotti, Sébastien"
+abstract: "Appiotti, Sébastien"
 date: "2026-01-01"
 year: "2026"
 type: "incollection"
 url: "https://hal.science/hal-05789643"
-publisher: "MkF \'editions"
+publisher: "MkF éditions"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Appiotti, S\'ebastien
+- **Auteurs:** Appiotti, Sébastien
 - **Type de publication:** incollection
-- **Éditeur:** MkF \'editions
+- **Éditeur:** MkF éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05789643](https://hal.science/hal-05789643)
 

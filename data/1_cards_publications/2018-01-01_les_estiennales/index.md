@@ -1,9 +1,9 @@
 ---
-uuid: 8ac9dc31-847d-4700-8dd3-4e5b1eaeee08
+uuid: ec8f9254-e4be-4cdc-89ed-10af5e82a0bb
 title: "Les Estiennales"
-author: "Fantin, Emmanuelle, Z\'ehenne, Camille"
-authors: "Fantin, Emmanuelle, Z\'ehenne, Camille"
-abstract: "Fantin, Emmanuelle, Z\'ehenne, Camille"
+author: "Fantin, Emmanuelle, Zéhenne, Camille"
+authors: "Fantin, Emmanuelle, Zéhenne, Camille"
+abstract: "Fantin, Emmanuelle, Zéhenne, Camille"
 date: "2018-01-01"
 year: "2018"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Z\'ehenne, Camille
+- **Auteurs:** Fantin, Emmanuelle, Zéhenne, Camille
 - **Type de publication:** inproceedings
 - **Éditeur:** Les Estiennales
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964092](https://hal.science/hal-03964092)

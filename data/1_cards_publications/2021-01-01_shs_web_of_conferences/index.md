@@ -1,9 +1,9 @@
 ---
-uuid: a828f263-17f0-4c02-916d-e4689c03aa1d
+uuid: f0b2edd4-b4b0-4803-a8a7-da71be4bce9b
 title: "SHS Web of Conferences"
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2021-01-01"
 year: "2021"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** article
 - **Éditeur:** EDP Sciences
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725288](https://hal.science/hal-03725288)

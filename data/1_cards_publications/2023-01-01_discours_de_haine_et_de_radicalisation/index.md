@@ -1,14 +1,14 @@
 ---
-uuid: a40f7a0e-2828-4af6-890c-b442c54c8a31
+uuid: 7bfb5080-3bd5-4010-9274-58654f63f47a
 title: "Discours de haine et de radicalisation"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2023-01-01"
 year: "2023"
 type: "incollection"
 url: "https://hal.science/hal-02330320"
-publisher: "ENS \'Editions"
+publisher: "ENS Éditions"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** incollection
-- **Éditeur:** ENS \'Editions
+- **Éditeur:** ENS Éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02330320](https://hal.science/hal-02330320)
 

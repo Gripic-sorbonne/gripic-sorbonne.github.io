@@ -1,9 +1,9 @@
 ---
-uuid: caf2628e-46e8-4831-b0c1-4afad8c15e54
-title: "De la Danse du fragment pour ce qu'elle est philosophie primordiale ou l'Ars d'escrire \& portraicturer \`es mani\`eres del Sieur Chariot - Henri de nom - en profession d'Ymagier \& r\'esidant aux \'Etats d'Am\'eriques"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+uuid: 8755bfeb-96c1-489f-9569-3c0e830ee594
+title: "De la Danse du fragment pour ce qu'elle est philosophie primordiale ou l'Ars d'escrire & portraicturer ès manières del Sieur Chariot - Henri de nom - en profession d'Ymagier & résidant aux États d'Amériques"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2011-01-01"
 year: "2011"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** misc
 - **Éditeur:** Galerie Talos
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761088](https://hal.science/hal-03761088)

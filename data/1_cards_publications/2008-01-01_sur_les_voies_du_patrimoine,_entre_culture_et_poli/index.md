@@ -1,9 +1,9 @@
 ---
-uuid: 242641f3-4318-46b2-90aa-63a96647a59d
-title: "Sur les voies du Patrimoine, entre culture et politique, D\'elits de curiosit\'e II"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+uuid: 18c06992-a45b-46e3-b169-0cbdcb440012
+title: "Sur les voies du Patrimoine, entre culture et politique, Délits de curiosité II"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2008-01-01"
 year: "2008"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761008](https://hal.science/hal-03761008)

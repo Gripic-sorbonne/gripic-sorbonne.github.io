@@ -1,9 +1,9 @@
 ---
-uuid: 336aed68-3102-400a-91a5-693123c74e0b
+uuid: 7a7a89bc-612a-48d7-a696-47d1de0ccfbb
 title: "Humanistica 2024"
-author: "Bout\'e, \'Edouard, Julliard, Virginie, Ali\'e, F\'elix, G\\"odicke, David, Pailler, Fred, Ecrement, Victor"
-authors: "Bout\'e, \'Edouard, Julliard, Virginie, Ali\'e, F\'elix, G\\"odicke, David, Pailler, Fred, Ecrement, Victor"
-abstract: "Bout\'e, \'Edouard, Julliard, Virginie, Ali\'e, F\'elix, G\\"odicke, David, Pailler, Fred, Ecrement, Victor"
+author: "Bouté, Édouard, Julliard, Virginie, Alié, Félix, Gödicke, David, Pailler, Fred, Ecrement, Victor"
+authors: "Bouté, Édouard, Julliard, Virginie, Alié, Félix, Gödicke, David, Pailler, Fred, Ecrement, Victor"
+abstract: "Bouté, Édouard, Julliard, Virginie, Alié, Félix, Gödicke, David, Pailler, Fred, Ecrement, Victor"
 date: "2024-01-01"
 year: "2024"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bout\'e, \'Edouard, Julliard, Virginie, Ali\'e, F\'elix, G\"odicke, David, Pailler, Fred, Ecrement, Victor
+- **Auteurs:** Bouté, Édouard, Julliard, Virginie, Alié, Félix, Gödicke, David, Pailler, Fred, Ecrement, Victor
 - **Type de publication:** inproceedings
 - **Éditeur:** Humanistica 2024
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04687627](https://hal.science/hal-04687627)

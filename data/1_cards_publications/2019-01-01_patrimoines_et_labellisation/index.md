@@ -1,9 +1,9 @@
 ---
-uuid: dc528918-81a6-4b04-a7e5-f81c6a913313
+uuid: f039fb9a-f9a7-411a-befd-2e0e2f845390
 title: "PATRIMOINES ET LABELLISATION"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2019-01-01"
 year: "2019"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** inproceedings
 - **Éditeur:** PATRIMOINES ET LABELLISATION
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754566](https://hal.science/hal-03754566)

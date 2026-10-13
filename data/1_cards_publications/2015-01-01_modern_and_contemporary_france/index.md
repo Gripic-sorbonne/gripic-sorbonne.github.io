@@ -1,5 +1,5 @@
 ---
-uuid: d671582c-b5ce-4f7d-a5e5-9f708f08df1a
+uuid: 06b1e5f4-4103-439d-b466-ddeeece2446e
 title: "Modern and Contemporary France"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"
@@ -8,7 +8,7 @@ date: "2015-01-01"
 year: "2015"
 type: "article"
 url: "https://hal.science/hal-03721256"
-publisher: "Taylor \& Francis (Routledge)"
+publisher: "Taylor & Francis (Routledge)"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Fantin, Emmanuelle
 - **Type de publication:** article
-- **Éditeur:** Taylor \& Francis (Routledge)
+- **Éditeur:** Taylor & Francis (Routledge)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721256](https://hal.science/hal-03721256)
 

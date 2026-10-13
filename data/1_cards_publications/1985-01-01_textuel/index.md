@@ -1,9 +1,9 @@
 ---
-uuid: deb19284-406a-4d35-aacf-b75350d638ac
+uuid: bb69d6b4-19f7-47bc-840d-3a7a83011375
 title: "Textuel"
-author: "Souchier, Emmanu\\"el, Pomian, Joanna"
-authors: "Souchier, Emmanu\\"el, Pomian, Joanna"
-abstract: "Souchier, Emmanu\\"el, Pomian, Joanna"
+author: "Souchier, Emmanuël, Pomian, Joanna"
+authors: "Souchier, Emmanuël, Pomian, Joanna"
+abstract: "Souchier, Emmanuël, Pomian, Joanna"
 date: "1985-01-01"
 year: "1985"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Pomian, Joanna
+- **Auteurs:** Souchier, Emmanuël, Pomian, Joanna
 - **Type de publication:** incollection
 - **Éditeur:** Textuel
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761065](https://hal.science/hal-03761065)

@@ -1,14 +1,14 @@
 ---
-uuid: 0964da81-b3cb-4eca-9bb3-8f0d0c1eab9f
+uuid: ff220272-c858-4aaf-9340-9897b64eca55
 title: "Sciences du jeu"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2019-01-01"
 year: "2019"
 type: "article"
 url: "https://hal.science/hal-03749873"
-publisher: "Experice - Universit\'e Paris-Nord"
+publisher: "Experice - Université Paris-Nord"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** article
-- **Éditeur:** Experice - Universit\'e Paris-Nord
+- **Éditeur:** Experice - Université Paris-Nord
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749873](https://hal.science/hal-03749873)
 

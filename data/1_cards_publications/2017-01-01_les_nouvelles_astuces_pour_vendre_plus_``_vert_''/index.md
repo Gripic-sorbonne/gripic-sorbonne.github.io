@@ -1,9 +1,9 @@
 ---
-uuid: e9a6965b-39de-4f24-9420-6cf63492494d
+uuid: 25562f73-e728-47ca-b560-f6511cfe4b85
 title: "Les nouvelles astuces pour vendre plus `` vert ''"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2017-01-01"
 year: "2017"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** misc
 - **Éditeur:** The Conversation France
 - 🔗 **Lien HAL / Publication:** [https://hal.univ-lorraine.fr/hal-01738140](https://hal.univ-lorraine.fr/hal-01738140)

@@ -1,9 +1,9 @@
 ---
-uuid: 27f56a7d-01fe-4650-ba84-b148761071c5
+uuid: 25d09474-a2a7-4bcf-b5bf-8af5d05a5a60
 title: "Politiques et Management public"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "1997-01-01"
 year: "1997"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** article
 - **Éditeur:** Institut de management public
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754523](https://hal.science/hal-03754523)

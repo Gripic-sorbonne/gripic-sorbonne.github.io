@@ -1,9 +1,9 @@
 ---
-uuid: 1432ae05-e56a-44d7-8a47-b165c2bc26c3
+uuid: 399ae8a2-c5a7-4fd8-906b-31a5237b4157
 title: "Multitudes"
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2026-01-01"
 year: "2026"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** article
 - **Éditeur:** Association Multitudes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05768571](https://hal.science/hal-05768571)

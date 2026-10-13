@@ -1,9 +1,9 @@
 ---
-uuid: b516e2ac-d49f-4072-b221-9b3dc557d602
+uuid: 63be5dcd-ec81-4225-9103-256f7004060f
 title: "Pour la Science. Dossier"
-author: "Souchier, Emmanu\\"el, Jeanneret, Yves"
-authors: "Souchier, Emmanu\\"el, Jeanneret, Yves"
-abstract: "Souchier, Emmanu\\"el, Jeanneret, Yves"
+author: "Souchier, Emmanuël, Jeanneret, Yves"
+authors: "Souchier, Emmanuël, Jeanneret, Yves"
+abstract: "Souchier, Emmanuël, Jeanneret, Yves"
 date: "2001-01-01"
 year: "2001"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Jeanneret, Yves
+- **Auteurs:** Souchier, Emmanuël, Jeanneret, Yves
 - **Type de publication:** article
 - **Éditeur:** Belin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760938](https://hal.science/hal-03760938)

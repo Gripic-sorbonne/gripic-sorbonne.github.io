@@ -1,9 +1,9 @@
 ---
-uuid: 7a7eb294-b1b2-4bd1-afc6-46b265ed39d5
-title: "Les Mooks, espace de renouveau du journalisme litt\'eraire"
-author: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
-authors: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
-abstract: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
+uuid: 97d473be-8641-49ba-b963-2366fc204cef
+title: "Les Mooks, espace de renouveau du journalisme littéraire"
+author: "Escande, Pauline, Jeanne-Perrier, Valérie"
+authors: "Escande, Pauline, Jeanne-Perrier, Valérie"
+abstract: "Escande, Pauline, Jeanne-Perrier, Valérie"
 date: "2018-01-01"
 year: "2018"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline, Jeanne-Perrier, Val\'erie
+- **Auteurs:** Escande, Pauline, Jeanne-Perrier, Valérie
 - **Type de publication:** incollection
 - **Éditeur:** Editions l'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750804](https://hal.science/hal-03750804)

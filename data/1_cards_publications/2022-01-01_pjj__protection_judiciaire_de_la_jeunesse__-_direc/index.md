@@ -1,9 +1,9 @@
 ---
-uuid: d0918487-5365-49d4-8abb-dcfd3f0092a9
+uuid: 8c908a5a-166e-4d1d-a7a2-032d1fac7c71
 title: "PJJ (Protection Judiciaire de la Jeunesse) - Direction Territoriale du Tarn"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2022-01-01"
 year: "2022"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** inproceedings
 - **Éditeur:** PJJ (Protection Judiciaire de la Jeunesse) - Direction Territoriale du Tarn
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05691320](https://hal.science/hal-05691320)

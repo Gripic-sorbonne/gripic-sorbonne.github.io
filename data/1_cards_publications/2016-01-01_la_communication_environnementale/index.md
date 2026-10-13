@@ -1,14 +1,14 @@
 ---
-uuid: d148ad78-7f4d-4565-b6fc-549b061cf856
+uuid: 55a1e00a-5cb7-413d-9c20-c9d53e1780f2
 title: "La communication environnementale"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2016-01-01"
 year: "2016"
 type: "incollection"
 url: "https://hal.science/hal-03065409"
-publisher: "CNRS \'Editions"
+publisher: "CNRS Éditions"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** incollection
-- **Éditeur:** CNRS \'Editions
+- **Éditeur:** CNRS Éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03065409](https://hal.science/hal-03065409)
 

@@ -1,5 +1,5 @@
 ---
-uuid: 6eeac472-ccf7-414b-b08d-77e61d9d744c
+uuid: bc5b2785-2dc6-411d-a2be-97198ff20857
 title: "50 ans de communication"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"
@@ -8,7 +8,7 @@ date: "2008-01-01"
 year: "2008"
 type: "incollection"
 url: "https://hal.science/hal-04003619"
-publisher: "Celsa, Universit\'e Paris Sorbonne"
+publisher: "Celsa, Université Paris Sorbonne"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Tassel, Julien
 - **Type de publication:** incollection
-- **Éditeur:** Celsa, Universit\'e Paris Sorbonne
+- **Éditeur:** Celsa, Université Paris Sorbonne
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04003619](https://hal.science/hal-04003619)
 

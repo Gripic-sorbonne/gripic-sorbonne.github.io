@@ -1,5 +1,5 @@
 ---
-uuid: 8b5a2cbc-8116-461f-8917-2acedcfd0a18
+uuid: a5d90961-26ec-4222-9e78-5c2ed996750d
 title: "N.O.I.I.R."
 author: "Cappi, Johanna"
 authors: "Cappi, Johanna"
@@ -8,7 +8,7 @@ date: "2011-01-01"
 year: "2011"
 type: "incollection"
 url: "https://hal.science/hal-03773292"
-publisher: "Une Nuit sans Lune/\'Ecole pratique des Hautes \'Etudes"
+publisher: "Une Nuit sans Lune/École pratique des Hautes Études"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Cappi, Johanna
 - **Type de publication:** incollection
-- **Éditeur:** Une Nuit sans Lune/\'Ecole pratique des Hautes \'Etudes
+- **Éditeur:** Une Nuit sans Lune/École pratique des Hautes Études
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773292](https://hal.science/hal-03773292)
 

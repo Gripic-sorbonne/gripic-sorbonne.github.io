@@ -1,5 +1,5 @@
 ---
-uuid: 28ce8d15-e8a9-4859-8205-c3c003cd9d01
+uuid: dcf833cb-6ce6-4843-b991-2fb3da6e7079
 title: "Ecole d'été - 2ème édition"
 author: "L'école doctorale 433"
 date: "2025-09-08"

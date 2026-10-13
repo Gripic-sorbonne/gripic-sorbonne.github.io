@@ -1,9 +1,9 @@
 ---
-uuid: 93cc7a50-0151-44ae-806e-eafda3aa9f54
+uuid: a444dafe-a6b1-4336-9602-935f09115a46
 title: "Quaderni"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2020-01-01"
 year: "2020"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** article
 - **Éditeur:** Maison des sciences de l'homme
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754414](https://hal.science/hal-03754414)

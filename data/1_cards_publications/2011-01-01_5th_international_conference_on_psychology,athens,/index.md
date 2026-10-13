@@ -1,14 +1,14 @@
 ---
-uuid: d0e0254f-97a9-4201-ab2c-86fd3079bbbb
-title: "5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 \& 1-2 June 2011"
-author: "Gaglio, G\'erald, Foli, Olivia"
-authors: "Gaglio, G\'erald, Foli, Olivia"
-abstract: "Gaglio, G\'erald, Foli, Olivia"
+uuid: e82aa990-385e-471a-a304-ad2cf4a58927
+title: "5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 & 1-2 June 2011"
+author: "Gaglio, Gérald, Foli, Olivia"
+authors: "Gaglio, Gérald, Foli, Olivia"
+abstract: "Gaglio, Gérald, Foli, Olivia"
 date: "2011-01-01"
 year: "2011"
 type: "inproceedings"
 url: "https://utt.hal.science/hal-02967972"
-publisher: "5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 \& 1-2 June 2011"
+publisher: "5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 & 1-2 June 2011"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gaglio, G\'erald, Foli, Olivia
+- **Auteurs:** Gaglio, Gérald, Foli, Olivia
 - **Type de publication:** inproceedings
-- **Éditeur:** 5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 \& 1-2 June 2011
+- **Éditeur:** 5th International Conference on Psychology,Athens, Greece, 30-31 May 2011 & 1-2 June 2011
 - 🔗 **Lien HAL / Publication:** [https://utt.hal.science/hal-02967972](https://utt.hal.science/hal-02967972)
 

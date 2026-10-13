@@ -1,6 +1,6 @@
 ---
-uuid: 0f81f5b7-02bd-499c-89ed-8f3bacaf463e
-title: "Les Cultural Studies dans les mondes francophones. Pr\'ecisions et impr\'ecisions, conceptualisations"
+uuid: 5779a1a0-6b9e-4492-9b7a-6c71ab435641
+title: "Les Cultural Studies dans les mondes francophones. Précisions et imprécisions, conceptualisations"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"
 abstract: "Escande, Pauline"

@@ -1,5 +1,5 @@
 ---
-uuid: e9af315a-b6c3-40e1-9ec5-99ccd89b50cc
+uuid: e1876945-d2ae-4ebd-93cd-8a226d9a1e3d
 title: "Cadres"
 author: "Robert-Tanguy, Philippe"
 authors: "Robert-Tanguy, Philippe"
@@ -8,7 +8,7 @@ date: "2024-01-01"
 year: "2024"
 type: "article"
 url: "https://hal.science/hal-04568762"
-publisher: "Union des ing\'enieurs et cadres CFDT"
+publisher: "Union des ingénieurs et cadres CFDT"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Robert-Tanguy, Philippe
 - **Type de publication:** article
-- **Éditeur:** Union des ing\'enieurs et cadres CFDT
+- **Éditeur:** Union des ingénieurs et cadres CFDT
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04568762](https://hal.science/hal-04568762)
 

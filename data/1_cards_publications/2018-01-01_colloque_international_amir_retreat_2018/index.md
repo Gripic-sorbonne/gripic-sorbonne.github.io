@@ -1,9 +1,9 @@
 ---
-uuid: 8d2d4581-9dea-48b4-a048-89a0014d04a6
+uuid: 48ec81af-de20-488d-903a-f6a7b0424c2f
 title: "Colloque international AMIR retreat 2018"
-author: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
-authors: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
-abstract: "Escande, Pauline, Jeanne-Perrier, Val\'erie"
+author: "Escande, Pauline, Jeanne-Perrier, Valérie"
+authors: "Escande, Pauline, Jeanne-Perrier, Valérie"
+abstract: "Escande, Pauline, Jeanne-Perrier, Valérie"
 date: "2018-01-01"
 year: "2018"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline, Jeanne-Perrier, Val\'erie
+- **Auteurs:** Escande, Pauline, Jeanne-Perrier, Valérie
 - **Type de publication:** inproceedings
 - **Éditeur:** Colloque international AMIR retreat 2018
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750724](https://hal.science/hal-03750724)

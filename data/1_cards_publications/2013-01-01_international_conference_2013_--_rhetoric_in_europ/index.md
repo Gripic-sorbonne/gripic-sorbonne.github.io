@@ -1,9 +1,9 @@
 ---
-uuid: d3548774-22e1-429d-96a0-87c699482f9f
+uuid: 0cdbcc18-4991-4e18-961b-52d174187123
 title: "International Conference 2013 -- Rhetoric in Europe"
-author: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-authors: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-abstract: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
+author: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+authors: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+abstract: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
 date: "2013-01-01"
 year: "2013"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois, Gilewicz, Nicholas
+- **Auteurs:** Allard-Huver, Fran cois, Gilewicz, Nicholas
 - **Type de publication:** inproceedings
 - **Éditeur:** International Conference 2013 -- Rhetoric in Europe
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03126480](https://shs.hal.science/halshs-03126480)

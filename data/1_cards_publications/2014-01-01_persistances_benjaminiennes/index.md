@@ -1,9 +1,9 @@
 ---
-uuid: ed5c6653-6e87-4887-af57-4d6328974e9b
+uuid: b992ecab-23c5-48ea-879a-86f4476ce3ba
 title: "Persistances benjaminiennes"
-author: "A\\"IM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran\c cois"
-authors: "A\\"IM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran\c cois"
-abstract: "A\\"IM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran\c cois"
+author: "AIM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran cois"
+authors: "AIM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran cois"
+abstract: "AIM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran cois"
 date: "2014-01-01"
 year: "2014"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** A\"IM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran\c cois
+- **Auteurs:** AIM, Olivier, Chervin, Jacqueline, Boutin, Perrine, Gomez-Mejia, Gustavo, Guennoc, Jean-Fran cois
 - **Type de publication:** book
 - **Éditeur:** Presses Universitaires de la Sorbonne Nouvelle
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749226](https://hal.science/hal-03749226)

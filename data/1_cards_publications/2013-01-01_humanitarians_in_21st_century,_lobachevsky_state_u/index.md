@@ -1,9 +1,9 @@
 ---
-uuid: 7bce5bb3-d9c4-43a0-8878-96ca204c9d44
+uuid: 1a9a1e04-44d5-4519-b669-651bfeff42f1
 title: "Humanitarians in 21st Century, Lobachevsky State University of Nizhni Novgorod"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2013-01-01"
 year: "2013"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** Humanitarians in 21st Century, Lobachevsky State University of Nizhni Novgorod
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03127857](https://shs.hal.science/halshs-03127857)

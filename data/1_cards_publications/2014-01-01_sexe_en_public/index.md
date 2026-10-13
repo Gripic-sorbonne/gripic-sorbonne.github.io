@@ -1,14 +1,14 @@
 ---
-uuid: 2cf4e65f-f9d7-421b-824c-603758285e74
+uuid: 8ee47d87-1b65-4056-ae82-695d8ffcfeb8
 title: "Sexe en public"
-author: "Quemener, Nelly, V\\"or\\"os, Florian"
-authors: "Quemener, Nelly, V\\"or\\"os, Florian"
-abstract: "Quemener, Nelly, V\\"or\\"os, Florian"
+author: "Quemener, Nelly, Vörös, Florian"
+authors: "Quemener, Nelly, Vörös, Florian"
+abstract: "Quemener, Nelly, Vörös, Florian"
 date: "2014-01-01"
 year: "2014"
 type: "misc"
 url: "https://hal.science/hal-03758416"
-publisher: "Poli \'editions"
+publisher: "Poli éditions"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, V\"or\"os, Florian
+- **Auteurs:** Quemener, Nelly, Vörös, Florian
 - **Type de publication:** misc
-- **Éditeur:** Poli \'editions
+- **Éditeur:** Poli éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758416](https://hal.science/hal-03758416)
 

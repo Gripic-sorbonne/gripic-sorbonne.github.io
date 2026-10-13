@@ -1,9 +1,9 @@
 ---
-uuid: a69804f2-aef6-420b-8fd3-22e1a3175b2f
+uuid: 1b943e3e-df35-4488-b4fb-e54e286125d5
 title: "Assises internationales du journalisme"
-author: "Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
-authors: "Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
-abstract: "Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
+author: "Marti, Caroline, Patrin-Leclère, Valérie"
+authors: "Marti, Caroline, Patrin-Leclère, Valérie"
+abstract: "Marti, Caroline, Patrin-Leclère, Valérie"
 date: "2016-01-01"
 year: "2016"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline, Patrin-Lecl\`ere, Val\'erie
+- **Auteurs:** Marti, Caroline, Patrin-Leclère, Valérie
 - **Type de publication:** inproceedings
 - **Éditeur:** Assises internationales du journalisme
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754351](https://hal.science/hal-03754351)

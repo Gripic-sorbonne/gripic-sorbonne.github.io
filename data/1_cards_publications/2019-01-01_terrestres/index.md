@@ -1,9 +1,9 @@
 ---
-uuid: d1282be3-d5b4-4869-92b3-61336fa4f250
+uuid: 4fc91308-af7c-4f46-ba11-2b0b2f5f0ba5
 title: "Terrestres"
-author: "Babou, Igor, Le Marec, Jo\\"elle"
-authors: "Babou, Igor, Le Marec, Jo\\"elle"
-abstract: "Babou, Igor, Le Marec, Jo\\"elle"
+author: "Babou, Igor, Le Marec, Joëlle"
+authors: "Babou, Igor, Le Marec, Joëlle"
+abstract: "Babou, Igor, Le Marec, Joëlle"
 date: "2019-01-01"
 year: "2019"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Babou, Igor, Le Marec, Jo\"elle
+- **Auteurs:** Babou, Igor, Le Marec, Joëlle
 - **Type de publication:** article
 - **Éditeur:** Terrestres
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-02286045](https://shs.hal.science/halshs-02286045)

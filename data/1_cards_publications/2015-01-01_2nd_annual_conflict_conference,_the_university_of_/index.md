@@ -1,9 +1,9 @@
 ---
-uuid: 8135a93c-29ec-42f6-b46d-08e57c86e009
+uuid: b0d2c134-2992-49f4-8349-5414e8f61723
 title: "2nd Annual Conflict Conference, The University of Texas at Austin,"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2015-01-01"
 year: "2015"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** 2nd Annual Conflict Conference, The University of Texas at Austin,
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03127893](https://shs.hal.science/halshs-03127893)

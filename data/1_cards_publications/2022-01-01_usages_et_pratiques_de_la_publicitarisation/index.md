@@ -1,14 +1,14 @@
 ---
-uuid: fb532ef1-e729-4bd3-8462-fcea21807b73
+uuid: d6055fd0-20de-402d-b739-9f4cc85d6325
 title: "Usages et pratiques de la publicitarisation"
-author: "Aubrun, Fr\'ed\'eric, Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
-authors: "Aubrun, Fr\'ed\'eric, Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
-abstract: "Aubrun, Fr\'ed\'eric, Marti, Caroline, Patrin-Lecl\`ere, Val\'erie"
+author: "Aubrun, Frédéric, Marti, Caroline, Patrin-Leclère, Valérie"
+authors: "Aubrun, Frédéric, Marti, Caroline, Patrin-Leclère, Valérie"
+abstract: "Aubrun, Frédéric, Marti, Caroline, Patrin-Leclère, Valérie"
 date: "2022-01-01"
 year: "2022"
 type: "misc"
 url: "https://hal.science/hal-04100859"
-publisher: "Eska (Paris, France) [2013, vol. 10, n\textdegree 1 - ....]"
+publisher: "Eska (Paris, France) [2013, vol. 10, ntextdegree 1 - ....]"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Aubrun, Fr\'ed\'eric, Marti, Caroline, Patrin-Lecl\`ere, Val\'erie
+- **Auteurs:** Aubrun, Frédéric, Marti, Caroline, Patrin-Leclère, Valérie
 - **Type de publication:** misc
-- **Éditeur:** Eska (Paris, France) [2013, vol. 10, n\textdegree 1 - ....]
+- **Éditeur:** Eska (Paris, France) [2013, vol. 10, ntextdegree 1 - ....]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04100859](https://hal.science/hal-04100859)
 

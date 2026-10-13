@@ -1,9 +1,9 @@
 ---
-uuid: 7d7f487a-4087-4294-91eb-d434f984fdcb
+uuid: 0457b42b-9a10-4256-b817-4bc8c93439d8
 title: "Dynamiques des recherches en sciences de l'information et de la communication"
-author: "Damian-Gaillard, B\'eatrice, Isabelle, Garcin-Marrou, Rieffel, R\'emy, Wrona, Adeline"
-authors: "Damian-Gaillard, B\'eatrice, Isabelle, Garcin-Marrou, Rieffel, R\'emy, Wrona, Adeline"
-abstract: "Damian-Gaillard, B\'eatrice, Isabelle, Garcin-Marrou, Rieffel, R\'emy, Wrona, Adeline"
+author: "Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline"
+authors: "Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline"
+abstract: "Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline"
 date: "2019-01-01"
 year: "2019"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Damian-Gaillard, B\'eatrice, Isabelle, Garcin-Marrou, Rieffel, R\'emy, Wrona, Adeline
+- **Auteurs:** Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline
 - **Type de publication:** incollection
 - **Éditeur:** CPDirSIC
 - 🔗 **Lien HAL / Publication:** [https://univ-pantheon-assas.hal.science/hal-03982924](https://univ-pantheon-assas.hal.science/hal-03982924)

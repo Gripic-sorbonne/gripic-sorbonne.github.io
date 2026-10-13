@@ -1,14 +1,14 @@
 ---
-uuid: e369cf52-595a-40cb-99b0-7885f27c39c3
+uuid: 8a09454a-86bc-429a-a768-079edeb2aa0c
 title: "Travaux et Recherches de l'UMLV"
-author: "A\\"IM, Olivier"
-authors: "A\\"IM, Olivier"
-abstract: "A\\"IM, Olivier"
+author: "AIM, Olivier"
+authors: "AIM, Olivier"
+abstract: "AIM, Olivier"
 date: "2000-01-01"
 year: "2000"
 type: "article"
 url: "https://univ-eiffel.hal.science/hal-04037210"
-publisher: "Universit\'e de Marne-la-Vall\'ee"
+publisher: "Université de Marne-la-Vallée"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** A\"IM, Olivier
+- **Auteurs:** AIM, Olivier
 - **Type de publication:** article
-- **Éditeur:** Universit\'e de Marne-la-Vall\'ee
+- **Éditeur:** Université de Marne-la-Vallée
 - 🔗 **Lien HAL / Publication:** [https://univ-eiffel.hal.science/hal-04037210](https://univ-eiffel.hal.science/hal-04037210)
 

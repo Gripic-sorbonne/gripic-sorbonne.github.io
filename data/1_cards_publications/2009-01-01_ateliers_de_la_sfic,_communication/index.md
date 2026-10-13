@@ -1,9 +1,9 @@
 ---
-uuid: 837b04f0-9bf0-4b7d-8477-ad7b5ee67082
+uuid: a6a0d24e-13ec-4318-b1fb-e7cec60bdeac
 title: "Ateliers de la SFIC, Communication"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2009-01-01"
 year: "2009"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** inproceedings
 - **Éditeur:** Ateliers de la SFIC, Communication
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754578](https://hal.science/hal-03754578)

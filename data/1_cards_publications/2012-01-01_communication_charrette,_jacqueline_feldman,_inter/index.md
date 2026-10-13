@@ -1,9 +1,9 @@
 ---
-uuid: 0b49b8c7-4387-472b-bf9f-51ca3d479076
+uuid: af3c49e0-f949-4bd5-a27d-7db962368efe
 title: "Communication Charrette, Jacqueline Feldman, International scholars and researchers workshop, CELSA"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2012-01-01"
 year: "2012"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** Communication Charrette, Jacqueline Feldman, International scholars and researchers workshop, CELSA
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03127850](https://shs.hal.science/halshs-03127850)

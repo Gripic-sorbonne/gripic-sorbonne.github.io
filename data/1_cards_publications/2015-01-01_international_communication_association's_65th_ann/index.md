@@ -1,9 +1,9 @@
 ---
-uuid: 0a8b41c3-4e7b-4568-82ad-ad7996891575
+uuid: 4148c05a-4ef2-4366-b371-dd59650bb3f2
 title: "International Communication Association's 65th Annual Conference -- Puerto Rico 2015,"
-author: "Allard-Huver, Fran\c cois"
-authors: "Allard-Huver, Fran\c cois"
-abstract: "Allard-Huver, Fran\c cois"
+author: "Allard-Huver, Fran cois"
+authors: "Allard-Huver, Fran cois"
+abstract: "Allard-Huver, Fran cois"
 date: "2015-01-01"
 year: "2015"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois
+- **Auteurs:** Allard-Huver, Fran cois
 - **Type de publication:** inproceedings
 - **Éditeur:** International Communication Association's 65th Annual Conference -- Puerto Rico 2015,
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02094691](https://hal.science/hal-02094691)

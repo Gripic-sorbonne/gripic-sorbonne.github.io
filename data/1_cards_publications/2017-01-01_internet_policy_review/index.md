@@ -1,9 +1,9 @@
 ---
-uuid: a7e6202b-0ebf-45aa-93d7-3104230a5d9b
+uuid: 6987c7b5-cbca-4650-86a7-2d281c1f3157
 title: "Internet Policy Review"
-author: "Dulong de Rosnay, M\'elanie, Langlais, Pierre-Carl"
-authors: "Dulong de Rosnay, M\'elanie, Langlais, Pierre-Carl"
-abstract: "Dulong de Rosnay, M\'elanie, Langlais, Pierre-Carl"
+author: "Dulong de Rosnay, Mélanie, Langlais, Pierre-Carl"
+authors: "Dulong de Rosnay, Mélanie, Langlais, Pierre-Carl"
+abstract: "Dulong de Rosnay, Mélanie, Langlais, Pierre-Carl"
 date: "2017-01-01"
 year: "2017"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Dulong de Rosnay, M\'elanie, Langlais, Pierre-Carl
+- **Auteurs:** Dulong de Rosnay, Mélanie, Langlais, Pierre-Carl
 - **Type de publication:** article
 - **Éditeur:** Alexander von Humboldt Institute for Internet and Society
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-01472414](https://shs.hal.science/halshs-01472414)

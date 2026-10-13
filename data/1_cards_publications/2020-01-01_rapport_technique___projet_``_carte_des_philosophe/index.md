@@ -1,9 +1,9 @@
 ---
-uuid: e2f6e5f5-a983-4aa3-8769-ef6253a9b666
+uuid: cb2dfd97-18d9-47a7-8e42-c359f0ad259e
 title: "Rapport technique : projet `` Carte des philosophes antiques ''"
-author: "Giovacchini, Julie, Berra, Aur\'elien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
-authors: "Giovacchini, Julie, Berra, Aur\'elien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
-abstract: "Giovacchini, Julie, Berra, Aur\'elien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
+author: "Giovacchini, Julie, Berra, Aurélien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
+authors: "Giovacchini, Julie, Berra, Aurélien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
+abstract: "Giovacchini, Julie, Berra, Aurélien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette"
 date: "2020-01-01"
 year: "2020"
 type: "techreport"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Giovacchini, Julie, Berra, Aur\'elien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette
+- **Auteurs:** Giovacchini, Julie, Berra, Aurélien, Capron, Laurent, Psilakis, Catherine, Weiss, Bernard, Langlais, Pierre-Carl, Lemaire, Juliette
 - **Type de publication:** techreport
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03065915](https://hal.science/hal-03065915)
 

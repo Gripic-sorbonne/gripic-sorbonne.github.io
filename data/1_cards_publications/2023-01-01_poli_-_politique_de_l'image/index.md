@@ -1,5 +1,5 @@
 ---
-uuid: 92af0d13-ce42-4b4d-bf0e-060b5145ef0c
+uuid: 41ffd01d-e409-4da2-a25a-00833d3a27ca
 title: "Poli - Politique de l'Image"
 author: "Verquere, Laura"
 authors: "Verquere, Laura"
@@ -8,7 +8,7 @@ date: "2023-01-01"
 year: "2023"
 type: "article"
 url: "https://univ-pantheon-assas.hal.science/hal-04071141"
-publisher: "Poli \'editions"
+publisher: "Poli éditions"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Verquere, Laura
 - **Type de publication:** article
-- **Éditeur:** Poli \'editions
+- **Éditeur:** Poli éditions
 - 🔗 **Lien HAL / Publication:** [https://univ-pantheon-assas.hal.science/hal-04071141](https://univ-pantheon-assas.hal.science/hal-04071141)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 7f84a67d-bd15-41f4-b20f-e338eda8b2cd
-title: "Table-ronde `` IA et processus journalistique : enjeux et d\'efis p\'edagogiques ''"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+uuid: 6d1dfd60-3071-4725-a334-d68e3d08e6c0
+title: "Table-ronde `` IA et processus journalistique : enjeux et défis pédagogiques ''"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2026-01-01"
 year: "2026"
 type: "inproceedings"
 url: "https://hal.science/hal-05682186"
-publisher: "Table-ronde `` IA et processus journalistique : enjeux et d\'efis p\'edagogiques ''"
+publisher: "Table-ronde `` IA et processus journalistique : enjeux et défis pédagogiques ''"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** inproceedings
-- **Éditeur:** Table-ronde `` IA et processus journalistique : enjeux et d\'efis p\'edagogiques ''
+- **Éditeur:** Table-ronde `` IA et processus journalistique : enjeux et défis pédagogiques ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05682186](https://hal.science/hal-05682186)
 

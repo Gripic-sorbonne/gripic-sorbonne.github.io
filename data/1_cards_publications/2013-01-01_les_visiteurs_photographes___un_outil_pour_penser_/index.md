@@ -1,14 +1,14 @@
 ---
-uuid: 802d5f38-b529-45b8-8f4f-49a87836f6cb
-title: "Les Visiteurs photographes : un outil pour penser le mus\'ee"
-author: "vergopoulos, hecate, Bourgatte, Micha\\"el"
-authors: "vergopoulos, hecate, Bourgatte, Micha\\"el"
-abstract: "vergopoulos, hecate, Bourgatte, Micha\\"el"
+uuid: 1ad34a75-4c97-4187-b52c-21151bd7c55c
+title: "Les Visiteurs photographes : un outil pour penser le musée"
+author: "vergopoulos, hecate, Bourgatte, Michaël"
+authors: "vergopoulos, hecate, Bourgatte, Michaël"
+abstract: "vergopoulos, hecate, Bourgatte, Michaël"
 date: "2013-01-01"
 year: "2013"
 type: "incollection"
 url: "https://hal.science/hal-03766974"
-publisher: "La Documentation fran\c caise"
+publisher: "La Documentation fran caise"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** vergopoulos, hecate, Bourgatte, Micha\"el
+- **Auteurs:** vergopoulos, hecate, Bourgatte, Michaël
 - **Type de publication:** incollection
-- **Éditeur:** La Documentation fran\c caise
+- **Éditeur:** La Documentation fran caise
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766974](https://hal.science/hal-03766974)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 25ff14c6-bad2-432a-9ced-7fba4728ae91
-title: "Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes"
-author: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
-authors: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
-abstract: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+uuid: 55aaf874-39f1-44f0-a623-4d03ffdb21d7
+title: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
+author: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+authors: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+abstract: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
 date: "2012-01-01"
 year: "2012"
 type: "inproceedings"
 url: "https://hal.science/hal-03749710"
-publisher: "Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes"
+publisher: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** A\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien
+- **Auteurs:** AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien
 - **Type de publication:** inproceedings
-- **Éditeur:** Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes
+- **Éditeur:** Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749710](https://hal.science/hal-03749710)
 

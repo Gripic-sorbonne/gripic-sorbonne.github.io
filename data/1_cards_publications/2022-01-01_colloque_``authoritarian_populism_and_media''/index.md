@@ -1,9 +1,9 @@
 ---
-uuid: 8f68b250-48cc-4b3d-acae-e6281e0de020
+uuid: 795a18b8-742d-403a-8e34-abe0b600d8ec
 title: "colloque ``AUTHORITARIAN POPULISM AND MEDIA''"
-author: "Charbonneaux, Juliette, Corbill\'e, Sophie, Froissart, Pascal"
-authors: "Charbonneaux, Juliette, Corbill\'e, Sophie, Froissart, Pascal"
-abstract: "Charbonneaux, Juliette, Corbill\'e, Sophie, Froissart, Pascal"
+author: "Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal"
+authors: "Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal"
+abstract: "Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal"
 date: "2022-01-01"
 year: "2022"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Charbonneaux, Juliette, Corbill\'e, Sophie, Froissart, Pascal
+- **Auteurs:** Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal
 - **Type de publication:** inproceedings
 - **Éditeur:** colloque ``AUTHORITARIAN POPULISM AND MEDIA''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03956751](https://hal.science/hal-03956751)

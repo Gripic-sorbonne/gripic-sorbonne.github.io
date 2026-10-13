@@ -1,9 +1,9 @@
 ---
-uuid: 6c37e9de-e109-498c-8377-0782c4219847
+uuid: 292ed4e8-efd0-419f-b964-8a12e4e87a63
 title: "ARENAS General Meeting"
-author: "Vernet, Samuel, Renaut, Laur\`ene"
-authors: "Vernet, Samuel, Renaut, Laur\`ene"
-abstract: "Vernet, Samuel, Renaut, Laur\`ene"
+author: "Vernet, Samuel, Renaut, Laurène"
+authors: "Vernet, Samuel, Renaut, Laurène"
+abstract: "Vernet, Samuel, Renaut, Laurène"
 date: "2024-01-01"
 year: "2024"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Vernet, Samuel, Renaut, Laur\`ene
+- **Auteurs:** Vernet, Samuel, Renaut, Laurène
 - **Type de publication:** inproceedings
 - **Éditeur:** ARENAS General Meeting
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05682422](https://hal.science/hal-05682422)

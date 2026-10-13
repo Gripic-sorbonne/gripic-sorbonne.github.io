@@ -1,9 +1,9 @@
 ---
-uuid: a4e642b2-4b43-44b7-8021-0f41080630eb
+uuid: ace26440-237f-49ef-8e3a-a84c8201865b
 title: "Communication et professionnalisation"
-author: "Abid-Dalen\c con, Ambre"
-authors: "Abid-Dalen\c con, Ambre"
-abstract: "Abid-Dalen\c con, Ambre"
+author: "Abid-Dalen con, Ambre"
+authors: "Abid-Dalen con, Ambre"
+abstract: "Abid-Dalen con, Ambre"
 date: "2024-01-01"
 year: "2024"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen\c con, Ambre
+- **Auteurs:** Abid-Dalen con, Ambre
 - **Type de publication:** article
 - **Éditeur:** RESIPROC
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963890](https://hal.science/hal-03963890)

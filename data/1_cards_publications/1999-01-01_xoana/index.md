@@ -1,9 +1,9 @@
 ---
-uuid: c6a5392c-cf46-4a96-bf95-9c34ca9c3bae
+uuid: 3ae5b362-6828-4edd-bb94-e0eaf945ec52
 title: "Xoana"
-author: "Souchier, Emmanu\\"el, Jeanneret, Yves"
-authors: "Souchier, Emmanu\\"el, Jeanneret, Yves"
-abstract: "Souchier, Emmanu\\"el, Jeanneret, Yves"
+author: "Souchier, Emmanuël, Jeanneret, Yves"
+authors: "Souchier, Emmanuël, Jeanneret, Yves"
+abstract: "Souchier, Emmanuël, Jeanneret, Yves"
 date: "1999-01-01"
 year: "1999"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Jeanneret, Yves
+- **Auteurs:** Souchier, Emmanuël, Jeanneret, Yves
 - **Type de publication:** incollection
 - **Éditeur:** Xoana
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761035](https://hal.science/hal-03761035)

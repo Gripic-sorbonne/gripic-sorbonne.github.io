@@ -1,14 +1,14 @@
 ---
-uuid: 3b0e29ca-b07d-4c3b-8a87-e8e6cef4c026
-title: "Colloque `` Jeunesses sous algorithmes : quels risques d'adh\'esion aux discours polarisants et extr\'emistes ? '' -  2\`eme table ronde -- REP\'ERER : Des bulles algorithmiques aux trajectoires d'adh\'esion polarisante"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+uuid: e7f61f99-a582-41f3-98fa-35ca344349fb
+title: "Colloque `` Jeunesses sous algorithmes : quels risques d'adhésion aux discours polarisants et extrémistes ? '' -  2ème table ronde -- REPÉRER : Des bulles algorithmiques aux trajectoires d'adhésion polarisante"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2026-01-01"
 year: "2026"
 type: "inproceedings"
 url: "https://hal.science/hal-05682528"
-publisher: "Colloque `` Jeunesses sous algorithmes : quels risques d'adh\'esion aux discours polarisants et extr\'emistes ? '' -  2\`eme table ronde -- REP\'ERER : Des bulles algorithmiques aux trajectoires d'adh\'esion polarisante"
+publisher: "Colloque `` Jeunesses sous algorithmes : quels risques d'adhésion aux discours polarisants et extrémistes ? '' -  2ème table ronde -- REPÉRER : Des bulles algorithmiques aux trajectoires d'adhésion polarisante"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** inproceedings
-- **Éditeur:** Colloque `` Jeunesses sous algorithmes : quels risques d'adh\'esion aux discours polarisants et extr\'emistes ? '' -  2\`eme table ronde -- REP\'ERER : Des bulles algorithmiques aux trajectoires d'adh\'esion polarisante
+- **Éditeur:** Colloque `` Jeunesses sous algorithmes : quels risques d'adhésion aux discours polarisants et extrémistes ? '' -  2ème table ronde -- REPÉRER : Des bulles algorithmiques aux trajectoires d'adhésion polarisante
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05682528](https://hal.science/hal-05682528)
 

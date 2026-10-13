@@ -1,6 +1,6 @@
 ---
-uuid: 56d87820-33bb-4121-8b6e-47720dbf7da8
-title: "Photo de famille. Penser des vies intellectuelles d'un point de vue f\'eministe"
+uuid: bd674ca8-c4c9-4bec-aa7f-e04f957a32c1
+title: "Photo de famille. Penser des vies intellectuelles d'un point de vue féministe"
 author: "Cervulle, Maxime, Quemener, Nelly"
 authors: "Cervulle, Maxime, Quemener, Nelly"
 abstract: "Cervulle, Maxime, Quemener, Nelly"
@@ -8,7 +8,7 @@ date: "2022-01-01"
 year: "2022"
 type: "incollection"
 url: "https://hal.science/hal-03991610"
-publisher: "\'Editions de l'EHESS"
+publisher: "Éditions de l'EHESS"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Cervulle, Maxime, Quemener, Nelly
 - **Type de publication:** incollection
-- **Éditeur:** \'Editions de l'EHESS
+- **Éditeur:** Éditions de l'EHESS
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03991610](https://hal.science/hal-03991610)
 

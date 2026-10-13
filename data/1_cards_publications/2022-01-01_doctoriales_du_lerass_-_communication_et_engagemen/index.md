@@ -1,9 +1,9 @@
 ---
-uuid: 89854c13-ef17-4530-8aeb-fc1593196309
+uuid: b1dbf392-443d-41e9-8fa2-6f2f98205a0d
 title: "Doctoriales du LERASS - Communication et engagement"
-author: "Peresson, Am\'elie"
-authors: "Peresson, Am\'elie"
-abstract: "Peresson, Am\'elie"
+author: "Peresson, Amélie"
+authors: "Peresson, Amélie"
+abstract: "Peresson, Amélie"
 date: "2022-01-01"
 year: "2022"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Peresson, Am\'elie
+- **Auteurs:** Peresson, Amélie
 - **Type de publication:** inproceedings
 - **Éditeur:** Doctoriales du LERASS - Communication et engagement
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03959599](https://hal.science/hal-03959599)

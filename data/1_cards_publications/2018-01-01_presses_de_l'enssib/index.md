@@ -1,9 +1,9 @@
 ---
-uuid: f128525f-938b-4df9-b53b-00f15f5f85da
+uuid: f24a64b0-0940-47de-b393-85ae4009c208
 title: "Presses de l'ENSSIB"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2018-01-01"
 year: "2018"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** article
 - **Éditeur:** ENSSIB
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760599](https://hal.science/hal-03760599)

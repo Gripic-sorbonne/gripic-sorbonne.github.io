@@ -1,5 +1,5 @@
 ---
-uuid: 800728e6-2683-4445-a628-a6548f05602a
+uuid: 04bec67a-c227-4978-ba16-77fd88c25d61
 title: "Avant-propos~: Le politique ``~hors-cadre~''"
 author: "Rondot, Camille, Sebbah, Brigitte"
 authors: "Rondot, Camille, Sebbah, Brigitte"
@@ -8,7 +8,7 @@ date: "2024-01-01"
 year: "2024"
 type: "misc"
 url: "https://hal.science/hal-05247817"
-publisher: "\'Editions de la Maison des Sciences de l'Homme"
+publisher: "Éditions de la Maison des Sciences de l'Homme"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Rondot, Camille, Sebbah, Brigitte
 - **Type de publication:** misc
-- **Éditeur:** \'Editions de la Maison des Sciences de l'Homme
+- **Éditeur:** Éditions de la Maison des Sciences de l'Homme
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05247817](https://hal.science/hal-05247817)
 

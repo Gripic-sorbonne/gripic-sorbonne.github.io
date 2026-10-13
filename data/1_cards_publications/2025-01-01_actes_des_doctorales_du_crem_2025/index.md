@@ -1,5 +1,5 @@
 ---
-uuid: 6202cc51-3148-4224-a90c-b7797d34916e
+uuid: 2bb69a26-2267-49ca-8062-a3a0092f2ed5
 title: "Actes des doctorales du Crem 2025"
 author: "Mazigh, Sabrina, Fischer, Joachim"
 authors: "Mazigh, Sabrina, Fischer, Joachim"
@@ -8,7 +8,7 @@ date: "2025-01-01"
 year: "2025"
 type: "incollection"
 url: "https://hal.science/hal-05565230"
-publisher: "Association des jeunes chercheurs du Centre de recherche sur les m\'ediations (AJC Crem, Universit\'e de Lorraine)"
+publisher: "Association des jeunes chercheurs du Centre de recherche sur les médiations (AJC Crem, Université de Lorraine)"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Mazigh, Sabrina, Fischer, Joachim
 - **Type de publication:** incollection
-- **Éditeur:** Association des jeunes chercheurs du Centre de recherche sur les m\'ediations (AJC Crem, Universit\'e de Lorraine)
+- **Éditeur:** Association des jeunes chercheurs du Centre de recherche sur les médiations (AJC Crem, Université de Lorraine)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05565230](https://hal.science/hal-05565230)
 

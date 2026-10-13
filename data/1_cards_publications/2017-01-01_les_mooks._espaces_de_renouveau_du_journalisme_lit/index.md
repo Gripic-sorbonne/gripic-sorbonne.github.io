@@ -1,14 +1,14 @@
 ---
-uuid: 4ec58f83-7e28-4776-be8e-321bc8eda3b7
-title: "Les mooks. Espaces de renouveau du journalisme litt\'eraire"
-author: "Abid-Dalen\c con, Ambre"
-authors: "Abid-Dalen\c con, Ambre"
-abstract: "Abid-Dalen\c con, Ambre"
+uuid: 1a2bb2b3-0102-4ac6-bc90-be5455a485a5
+title: "Les mooks. Espaces de renouveau du journalisme littéraire"
+author: "Abid-Dalen con, Ambre"
+authors: "Abid-Dalen con, Ambre"
+abstract: "Abid-Dalen con, Ambre"
 date: "2017-01-01"
 year: "2017"
 type: "incollection"
 url: "https://hal.science/hal-03725141"
-publisher: "Les mooks. Espaces de renouveau du journalisme litt\'eraire"
+publisher: "Les mooks. Espaces de renouveau du journalisme littéraire"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen\c con, Ambre
+- **Auteurs:** Abid-Dalen con, Ambre
 - **Type de publication:** incollection
-- **Éditeur:** Les mooks. Espaces de renouveau du journalisme litt\'eraire
+- **Éditeur:** Les mooks. Espaces de renouveau du journalisme littéraire
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725141](https://hal.science/hal-03725141)
 

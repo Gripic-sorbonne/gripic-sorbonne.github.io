@@ -1,9 +1,9 @@
 ---
-uuid: c5a14665-fe72-4f2a-9daa-c08d96c7249f
+uuid: eb49f897-b127-47be-a725-f2e42a5a8955
 title: "Risques mineurs, changements majeurs"
-author: "Gard\`ere, Elizabeth, d'Almeida, Nicole"
-authors: "Gard\`ere, Elizabeth, d'Almeida, Nicole"
-abstract: "Gard\`ere, Elizabeth, d'Almeida, Nicole"
+author: "Gardère, Elizabeth, d'Almeida, Nicole"
+authors: "Gardère, Elizabeth, d'Almeida, Nicole"
+abstract: "Gardère, Elizabeth, d'Almeida, Nicole"
 date: "2014-01-01"
 year: "2014"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gard\`ere, Elizabeth, d'Almeida, Nicole
+- **Auteurs:** Gardère, Elizabeth, d'Almeida, Nicole
 - **Type de publication:** misc
 - **Éditeur:** Presses Universitaires de Bordeaux
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02400872](https://hal.science/hal-02400872)

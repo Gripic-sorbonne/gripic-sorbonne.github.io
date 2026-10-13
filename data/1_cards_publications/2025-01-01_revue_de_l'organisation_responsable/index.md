@@ -1,9 +1,9 @@
 ---
-uuid: fa7bc705-6078-4dda-9b6b-19e2a6d1adf6
+uuid: 3db2928f-484c-4940-9d38-320098d6e825
 title: "Revue de l'Organisation Responsable"
-author: "Catoir-Brisson, Marie-Julie, Vall\'ee, Odile, Broudoux, \'Evelyne, Billaudeau, Val\'erie"
-authors: "Catoir-Brisson, Marie-Julie, Vall\'ee, Odile, Broudoux, \'Evelyne, Billaudeau, Val\'erie"
-abstract: "Catoir-Brisson, Marie-Julie, Vall\'ee, Odile, Broudoux, \'Evelyne, Billaudeau, Val\'erie"
+author: "Catoir-Brisson, Marie-Julie, Vallée, Odile, Broudoux, Évelyne, Billaudeau, Valérie"
+authors: "Catoir-Brisson, Marie-Julie, Vallée, Odile, Broudoux, Évelyne, Billaudeau, Valérie"
+abstract: "Catoir-Brisson, Marie-Julie, Vallée, Odile, Broudoux, Évelyne, Billaudeau, Valérie"
 date: "2025-01-01"
 year: "2025"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Catoir-Brisson, Marie-Julie, Vall\'ee, Odile, Broudoux, \'Evelyne, Billaudeau, Val\'erie
+- **Auteurs:** Catoir-Brisson, Marie-Julie, Vallée, Odile, Broudoux, Évelyne, Billaudeau, Valérie
 - **Type de publication:** article
 - **Éditeur:** ESKA
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05236567](https://hal.science/hal-05236567)

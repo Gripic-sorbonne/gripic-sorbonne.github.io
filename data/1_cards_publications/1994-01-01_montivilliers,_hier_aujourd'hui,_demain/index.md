@@ -1,9 +1,9 @@
 ---
-uuid: 2226f9e9-d34d-402a-bcc7-c32234c33253
+uuid: 7b21d581-34fd-4e12-9a8b-f5915cdc5b32
 title: "Montivilliers, hier aujourd'hui, demain"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "1994-01-01"
 year: "1994"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** Montivilliers, hier aujourd'hui, demain
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761045](https://hal.science/hal-03761045)

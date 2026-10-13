@@ -1,14 +1,14 @@
 ---
-uuid: 6ddf0602-7b19-49d2-ad07-6ab3ac7b7f66
-title: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme litt\'eraire"
-author: "Abid-Dalen\c con, Ambre"
-authors: "Abid-Dalen\c con, Ambre"
-abstract: "Abid-Dalen\c con, Ambre"
+uuid: 6ff07f63-07cf-4f6c-98b8-2a0fe99189f6
+title: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme littéraire"
+author: "Abid-Dalen con, Ambre"
+authors: "Abid-Dalen con, Ambre"
+abstract: "Abid-Dalen con, Ambre"
 date: "2014-01-01"
 year: "2014"
 type: "inproceedings"
 url: "https://hal.science/hal-03725138"
-publisher: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme litt\'eraire"
+publisher: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme littéraire"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen\c con, Ambre
+- **Auteurs:** Abid-Dalen con, Ambre
 - **Type de publication:** inproceedings
-- **Éditeur:** Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme litt\'eraire
+- **Éditeur:** Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme littéraire
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725138](https://hal.science/hal-03725138)
 

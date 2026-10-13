@@ -1,9 +1,9 @@
 ---
-uuid: 9cf94860-73ad-4c15-b2ee-91cd58a20a26
+uuid: e32c14d5-27da-4f53-9fa9-9210e1507030
 title: "Un Quenal des Queneau"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2003-01-01"
 year: "2003"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** Initiales - Groupement de libraires
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761021](https://hal.science/hal-03761021)

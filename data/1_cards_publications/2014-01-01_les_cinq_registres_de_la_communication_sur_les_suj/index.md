@@ -1,9 +1,9 @@
 ---
-uuid: 2f0562a4-0b12-4ed5-9b6e-74649d2fb889
+uuid: e70dbeeb-e6e7-49bb-b7e9-835d69c515fb
 title: "Les cinq registres de la communication sur les sujets sensibles"
-author: "Libaert, Thierry, Allard-Huver, Fran\c cois"
-authors: "Libaert, Thierry, Allard-Huver, Fran\c cois"
-abstract: "Libaert, Thierry, Allard-Huver, Fran\c cois"
+author: "Libaert, Thierry, Allard-Huver, Fran cois"
+authors: "Libaert, Thierry, Allard-Huver, Fran cois"
+abstract: "Libaert, Thierry, Allard-Huver, Fran cois"
 date: "2014-01-01"
 year: "2014"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Libaert, Thierry, Allard-Huver, Fran\c cois
+- **Auteurs:** Libaert, Thierry, Allard-Huver, Fran cois
 - **Type de publication:** misc
 - **Éditeur:** Association communication publique
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02092108](https://hal.science/hal-02092108)

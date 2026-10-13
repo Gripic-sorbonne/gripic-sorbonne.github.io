@@ -1,9 +1,9 @@
 ---
-uuid: 01650200-2902-457b-b6d6-978d078c2067
+uuid: 2d7cbdf3-a23e-41c4-bdca-985caf1c0072
 title: "H2PTM'15"
-author: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran\c cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
-authors: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran\c cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
-abstract: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran\c cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
+author: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
+authors: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
+abstract: "Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine"
 date: "2015-01-01"
 year: "2015"
 type: "proceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran\c cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine
+- **Auteurs:** Saleh, Imad, Carayol, Valerie, Leleu-Merviel, Sylvie, Massou, Luc, Roxin, Ioan, Soulages, Fran cois, Wrona, Adeline, Manuel, Zlackad, Bouhai, Nasreddine
 - **Type de publication:** proceedings
 - **Éditeur:** ISTE
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01314409](https://hal.science/hal-01314409)

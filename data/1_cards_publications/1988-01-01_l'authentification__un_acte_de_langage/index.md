@@ -1,9 +1,9 @@
 ---
-uuid: 0338d6c3-eac4-49e9-8727-a3257af373c5
+uuid: 6536ebad-f28f-44cc-8478-4cb2a97f5f5b
 title: "L'authentification: un acte de langage"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "1988-01-01"
 year: "1988"
 type: "misc"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754537](https://hal.science/hal-03754537)
 

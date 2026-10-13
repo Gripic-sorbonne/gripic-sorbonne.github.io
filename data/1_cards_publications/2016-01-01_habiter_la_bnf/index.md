@@ -1,9 +1,9 @@
 ---
-uuid: 03398783-e89f-48cf-84a2-87dd0fba84de
+uuid: 1e48476c-655a-447f-9414-b3b6fc28c59f
 title: "Habiter la BnF"
-author: "Le Marec, Jo\\"elle, Dehail, Judith"
-authors: "Le Marec, Jo\\"elle, Dehail, Judith"
-abstract: "Le Marec, Jo\\"elle, Dehail, Judith"
+author: "Le Marec, Joëlle, Dehail, Judith"
+authors: "Le Marec, Joëlle, Dehail, Judith"
+abstract: "Le Marec, Joëlle, Dehail, Judith"
 date: "2016-01-01"
 year: "2016"
 type: "techreport"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Le Marec, Jo\"elle, Dehail, Judith
+- **Auteurs:** Le Marec, Joëlle, Dehail, Judith
 - **Type de publication:** techreport
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01399233](https://hal.science/hal-01399233)
 

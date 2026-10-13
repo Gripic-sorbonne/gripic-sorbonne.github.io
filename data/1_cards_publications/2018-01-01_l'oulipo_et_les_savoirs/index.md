@@ -1,9 +1,9 @@
 ---
-uuid: f8d65f13-cb2f-47c2-b073-81713f9dd01e
+uuid: 43309a5e-308b-451b-a2c5-743bceebd237
 title: "L'Oulipo et les savoirs"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2018-01-01"
 year: "2018"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** incollection
 - **Éditeur:** Presses du Nouveau Monde,
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760998](https://hal.science/hal-03760998)

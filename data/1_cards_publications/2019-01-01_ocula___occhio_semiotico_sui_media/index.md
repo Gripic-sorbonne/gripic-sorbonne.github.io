@@ -1,9 +1,9 @@
 ---
-uuid: a4529a5f-b33c-479f-a70e-d2e82c3d2379
+uuid: b732df74-15ed-420f-a409-25b5d02e93ba
 title: "Ocula : occhio semiotico sui media"
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2019-01-01"
 year: "2019"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** article
 - **Éditeur:** Associazione Ocula
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03772691](https://hal.science/hal-03772691)

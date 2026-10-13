@@ -1,9 +1,9 @@
 ---
-uuid: a2772322-062b-46f8-971e-747e79170267
+uuid: ba8ef09f-fb2d-4d96-9f7d-c62ea1a089b5
 title: "L'image sosie : l'original et son double"
-author: "Souchier, Emmanu\\"el"
-authors: "Souchier, Emmanu\\"el"
-abstract: "Souchier, Emmanu\\"el"
+author: "Souchier, Emmanuël"
+authors: "Souchier, Emmanuël"
+abstract: "Souchier, Emmanuël"
 date: "2005-01-01"
 year: "2005"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el
+- **Auteurs:** Souchier, Emmanuël
 - **Type de publication:** book
 - **Éditeur:** Obsidiane - Les Belles Lettres
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760414](https://hal.science/hal-03760414)

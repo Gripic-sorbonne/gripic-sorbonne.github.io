@@ -1,9 +1,9 @@
 ---
-uuid: e94243fb-46f3-48d1-9e9a-9184196f00e2
+uuid: 8463de6d-7e66-44eb-8b2e-84ef93413cad
 title: "Un monde de crises au prisme des communications organisationnelles"
-author: "Foli, Olivia, Gallot, Sidonie, Gard\`ere, Elizabeth, Lamy, Aur\'elia, Maas, Elise"
-authors: "Foli, Olivia, Gallot, Sidonie, Gard\`ere, Elizabeth, Lamy, Aur\'elia, Maas, Elise"
-abstract: "Foli, Olivia, Gallot, Sidonie, Gard\`ere, Elizabeth, Lamy, Aur\'elia, Maas, Elise"
+author: "Foli, Olivia, Gallot, Sidonie, Gardère, Elizabeth, Lamy, Aurélia, Maas, Elise"
+authors: "Foli, Olivia, Gallot, Sidonie, Gardère, Elizabeth, Lamy, Aurélia, Maas, Elise"
+abstract: "Foli, Olivia, Gallot, Sidonie, Gardère, Elizabeth, Lamy, Aurélia, Maas, Elise"
 date: "2022-01-01"
 year: "2022"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Foli, Olivia, Gallot, Sidonie, Gard\`ere, Elizabeth, Lamy, Aur\'elia, Maas, Elise
+- **Auteurs:** Foli, Olivia, Gallot, Sidonie, Gardère, Elizabeth, Lamy, Aurélia, Maas, Elise
 - **Type de publication:** inproceedings
 - **Éditeur:** Un monde de crises au prisme des communications organisationnelles
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03655306](https://hal.science/hal-03655306)

@@ -1,5 +1,5 @@
 ---
-uuid: f628e08b-0426-4cd6-b2b5-c5b2ba65e736
+uuid: 06975914-695b-4ba7-9612-4d6bf6c894c4
 title: "Projections. Essais sur la photographie"
 author: "Fabre, Maxime"
 authors: "Fabre, Maxime"
@@ -8,7 +8,7 @@ date: "2020-01-01"
 year: "2020"
 type: "incollection"
 url: "https://hal.science/hal-03121598"
-publisher: "Anesthetize \'Editions"
+publisher: "Anesthetize Éditions"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Fabre, Maxime
 - **Type de publication:** incollection
-- **Éditeur:** Anesthetize \'Editions
+- **Éditeur:** Anesthetize Éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03121598](https://hal.science/hal-03121598)
 

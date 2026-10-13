@@ -1,9 +1,9 @@
 ---
-uuid: bbf8fb5c-9b2b-4e08-850a-e9dad0eeb62d
+uuid: c2273791-36df-4c0b-97f1-cc1ee83913d7
 title: "Globalization and Health"
-author: "Barteit, Sandra, Si\'e, Ali, Y\'e, Maurice, Depoux, Anneliese, Louis, Val\'erie, Sauerborn, Rainer"
-authors: "Barteit, Sandra, Si\'e, Ali, Y\'e, Maurice, Depoux, Anneliese, Louis, Val\'erie, Sauerborn, Rainer"
-abstract: "Barteit, Sandra, Si\'e, Ali, Y\'e, Maurice, Depoux, Anneliese, Louis, Val\'erie, Sauerborn, Rainer"
+author: "Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer"
+authors: "Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer"
+abstract: "Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer"
 date: "2019-01-01"
 year: "2019"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Barteit, Sandra, Si\'e, Ali, Y\'e, Maurice, Depoux, Anneliese, Louis, Val\'erie, Sauerborn, Rainer
+- **Auteurs:** Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer
 - **Type de publication:** article
 - **Éditeur:** BioMed Central
 - 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-02299510](https://hal.sorbonne-universite.fr/hal-02299510)

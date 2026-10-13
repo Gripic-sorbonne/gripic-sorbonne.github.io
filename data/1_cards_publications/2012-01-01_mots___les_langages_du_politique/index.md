@@ -1,5 +1,5 @@
 ---
-uuid: 79712bf6-7e95-48f6-bc15-3fd97bf29ef1
+uuid: 3838dd59-8e0e-48a1-b391-2618a23a31ef
 title: "Mots : les langages du politique"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"
@@ -8,7 +8,7 @@ date: "2012-01-01"
 year: "2012"
 type: "article"
 url: "https://hal.science/hal-03754322"
-publisher: "ENS \'Editions (Lyon)"
+publisher: "ENS Éditions (Lyon)"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** de Montety, Caroline
 - **Type de publication:** article
-- **Éditeur:** ENS \'Editions (Lyon)
+- **Éditeur:** ENS Éditions (Lyon)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754322](https://hal.science/hal-03754322)
 

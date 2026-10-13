@@ -1,14 +1,14 @@
 ---
-uuid: 292ba6f5-6289-4d4a-8816-04d0d27b0a3c
+uuid: 1aa04c84-ca8f-4ee7-b286-8d05ded9be7f
 title: "Management des technologies organisationnelles"
-author: "Richard, V\'eronique"
-authors: "Richard, V\'eronique"
-abstract: "Richard, V\'eronique"
+author: "Richard, Véronique"
+authors: "Richard, Véronique"
+abstract: "Richard, Véronique"
 date: "2009-01-01"
 year: "2009"
 type: "incollection"
 url: "https://hal.science/hal-03779436"
-publisher: "Presses de l'\'Ecole des Mines"
+publisher: "Presses de l'École des Mines"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Richard, V\'eronique
+- **Auteurs:** Richard, Véronique
 - **Type de publication:** incollection
-- **Éditeur:** Presses de l'\'Ecole des Mines
+- **Éditeur:** Presses de l'École des Mines
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03779436](https://hal.science/hal-03779436)
 

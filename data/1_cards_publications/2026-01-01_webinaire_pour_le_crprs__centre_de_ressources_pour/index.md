@@ -1,14 +1,14 @@
 ---
-uuid: 358a44be-cc6e-4b6c-b629-034ff44dd7de
-title: "Webinaire pour le CRPRS (Centre de Ressources pour la Pr\'evention des Radicalit\'es Sociales)"
-author: "Renaut, Laur\`ene"
-authors: "Renaut, Laur\`ene"
-abstract: "Renaut, Laur\`ene"
+uuid: a76c2b2c-1b42-423f-b45d-8952be516f0f
+title: "Webinaire pour le CRPRS (Centre de Ressources pour la Prévention des Radicalités Sociales)"
+author: "Renaut, Laurène"
+authors: "Renaut, Laurène"
+abstract: "Renaut, Laurène"
 date: "2026-01-01"
 year: "2026"
 type: "inproceedings"
 url: "https://hal.science/hal-05682463"
-publisher: "Webinaire pour le CRPRS (Centre de Ressources pour la Pr\'evention des Radicalit\'es Sociales)"
+publisher: "Webinaire pour le CRPRS (Centre de Ressources pour la Prévention des Radicalités Sociales)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Renaut, Laur\`ene
+- **Auteurs:** Renaut, Laurène
 - **Type de publication:** inproceedings
-- **Éditeur:** Webinaire pour le CRPRS (Centre de Ressources pour la Pr\'evention des Radicalit\'es Sociales)
+- **Éditeur:** Webinaire pour le CRPRS (Centre de Ressources pour la Prévention des Radicalités Sociales)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05682463](https://hal.science/hal-05682463)
 

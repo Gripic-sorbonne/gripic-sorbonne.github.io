@@ -1,9 +1,9 @@
 ---
-uuid: c939a2b2-0edf-4bbf-8acc-322807d35946
+uuid: 679fda29-c67b-412f-8bd8-7e71a410a736
 title: "L'atelier de lecture, Cm 2 - cycle 3"
-author: "Souchier, Emmanu\\"el, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
-authors: "Souchier, Emmanu\\"el, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
-abstract: "Souchier, Emmanu\\"el, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
+author: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
+authors: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
+abstract: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
 date: "1997-01-01"
 year: "1997"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanu\"el, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul
+- **Auteurs:** Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul
 - **Type de publication:** book
 - **Éditeur:** Nathan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760427](https://hal.science/hal-03760427)

@@ -1,6 +1,6 @@
 ---
-uuid: 28db7c06-bdf6-4046-a4c3-fd82f69b81e7
-title: "Colloque international `` La nostalgie dans tous ses \'etats ''"
+uuid: 201034ec-8abd-49ec-8c16-baa16d3555ab
+title: "Colloque international `` La nostalgie dans tous ses états ''"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"
 abstract: "Fantin, Emmanuelle"
@@ -8,7 +8,7 @@ date: "2017-01-01"
 year: "2017"
 type: "inproceedings"
 url: "https://hal.science/hal-03964069"
-publisher: "Colloque international `` La nostalgie dans tous ses \'etats ''"
+publisher: "Colloque international `` La nostalgie dans tous ses états ''"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Fantin, Emmanuelle
 - **Type de publication:** inproceedings
-- **Éditeur:** Colloque international `` La nostalgie dans tous ses \'etats ''
+- **Éditeur:** Colloque international `` La nostalgie dans tous ses états ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964069](https://hal.science/hal-03964069)
 

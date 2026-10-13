@@ -1,9 +1,9 @@
 ---
-uuid: 0d13160e-7fc8-48cd-96f2-96622a52ce6e
+uuid: 2e530ecf-bc55-4f0c-aff5-b65813846314
 title: "ESA Congress (European Sociological Association)"
-author: "Gaglio, G\'erald, Foli, Olivia"
-authors: "Gaglio, G\'erald, Foli, Olivia"
-abstract: "Gaglio, G\'erald, Foli, Olivia"
+author: "Gaglio, Gérald, Foli, Olivia"
+authors: "Gaglio, Gérald, Foli, Olivia"
+abstract: "Gaglio, Gérald, Foli, Olivia"
 date: "2011-01-01"
 year: "2011"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gaglio, G\'erald, Foli, Olivia
+- **Auteurs:** Gaglio, Gérald, Foli, Olivia
 - **Type de publication:** inproceedings
 - **Éditeur:** ESA Congress (European Sociological Association)
 - 🔗 **Lien HAL / Publication:** [https://utt.hal.science/hal-02968088](https://utt.hal.science/hal-02968088)

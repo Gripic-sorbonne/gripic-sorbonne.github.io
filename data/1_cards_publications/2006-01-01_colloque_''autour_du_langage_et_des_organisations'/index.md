@@ -1,14 +1,14 @@
 ---
-uuid: 79198bef-d018-42b6-a876-9c8cb8b6eb84
-title: "Colloque ''Autour du langage et des organisations'', en hommage \`a Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006"
-author: "P\`ene, Sophie"
-authors: "P\`ene, Sophie"
-abstract: "P\`ene, Sophie"
+uuid: 7ac72e76-b83d-4163-bb5a-38e4762eefaa
+title: "Colloque ''Autour du langage et des organisations'', en hommage à Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006"
+author: "Pène, Sophie"
+authors: "Pène, Sophie"
+abstract: "Pène, Sophie"
 date: "2006-01-01"
 year: "2006"
 type: "inproceedings"
 url: "https://shs.hal.science/halshs-00113644"
-publisher: "Colloque ''Autour du langage et des organisations'', en hommage \`a Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006"
+publisher: "Colloque ''Autour du langage et des organisations'', en hommage à Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** P\`ene, Sophie
+- **Auteurs:** Pène, Sophie
 - **Type de publication:** inproceedings
-- **Éditeur:** Colloque ''Autour du langage et des organisations'', en hommage \`a Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006
+- **Éditeur:** Colloque ''Autour du langage et des organisations'', en hommage à Jacques Girin, Centre de recherche en Gestion de l'Ecole Polytechnique (CRG). 13 novembre 2006
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-00113644](https://shs.hal.science/halshs-00113644)
 

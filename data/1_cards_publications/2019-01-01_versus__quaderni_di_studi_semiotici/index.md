@@ -1,9 +1,9 @@
 ---
-uuid: 6cd5b6f9-db97-4f4e-9c02-d437ad1014b4
+uuid: c3da164d-1d71-4f0e-b46c-a78ac7191034
 title: "Versus: Quaderni di Studi Semiotici"
-author: "Garmon, In\`es"
-authors: "Garmon, In\`es"
-abstract: "Garmon, In\`es"
+author: "Garmon, Inès"
+authors: "Garmon, Inès"
+abstract: "Garmon, Inès"
 date: "2019-01-01"
 year: "2019"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, In\`es
+- **Auteurs:** Garmon, Inès
 - **Type de publication:** article
 - **Éditeur:** Bompiani and Co.
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03772688](https://hal.science/hal-03772688)

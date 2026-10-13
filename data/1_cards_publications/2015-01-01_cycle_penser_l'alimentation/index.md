@@ -1,9 +1,9 @@
 ---
-uuid: 567ca33d-0b36-4812-8529-6800a88bc403
+uuid: e53c08f2-e88b-44da-aa65-5c5d04579d81
 title: "cycle Penser l'alimentation"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2015-01-01"
 year: "2015"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** inproceedings
 - **Éditeur:** cycle Penser l'alimentation
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754567](https://hal.science/hal-03754567)

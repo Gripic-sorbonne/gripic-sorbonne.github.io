@@ -1,9 +1,9 @@
 ---
-uuid: 6252880b-04a8-4ee5-bc72-51779d75865b
+uuid: 274ae44d-4163-43a9-971e-fb50fe4a1dd5
 title: "Volume ! recherches sur les musiques populaires"
-author: "Escande, Pauline, Vermoesen, No\'emie"
-authors: "Escande, Pauline, Vermoesen, No\'emie"
-abstract: "Escande, Pauline, Vermoesen, No\'emie"
+author: "Escande, Pauline, Vermoesen, Noémie"
+authors: "Escande, Pauline, Vermoesen, Noémie"
+abstract: "Escande, Pauline, Vermoesen, Noémie"
 date: "2014-01-01"
 year: "2014"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline, Vermoesen, No\'emie
+- **Auteurs:** Escande, Pauline, Vermoesen, Noémie
 - **Type de publication:** article
 - **Éditeur:** Presses universitaires de Rennes - PUR
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750833](https://hal.science/hal-03750833)

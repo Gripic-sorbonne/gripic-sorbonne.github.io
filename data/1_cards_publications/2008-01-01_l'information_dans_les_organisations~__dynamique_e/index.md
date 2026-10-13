@@ -1,6 +1,6 @@
 ---
-uuid: eb08a912-3e0f-49e3-b5e2-bf57686ffc0a
-title: "L'information dans les organisations~: dynamique et complexit\'e"
+uuid: 6a809187-13d5-49a1-91e2-21bfbe05c9c6
+title: "L'information dans les organisations~: dynamique et complexité"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"
 abstract: "Tassel, Julien"
@@ -8,7 +8,7 @@ date: "2008-01-01"
 year: "2008"
 type: "incollection"
 url: "https://hal.science/hal-03740485"
-publisher: "Presses universitaires Fran\c cois-Rabelais"
+publisher: "Presses universitaires Fran cois-Rabelais"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Tassel, Julien
 - **Type de publication:** incollection
-- **Éditeur:** Presses universitaires Fran\c cois-Rabelais
+- **Éditeur:** Presses universitaires Fran cois-Rabelais
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03740485](https://hal.science/hal-03740485)
 

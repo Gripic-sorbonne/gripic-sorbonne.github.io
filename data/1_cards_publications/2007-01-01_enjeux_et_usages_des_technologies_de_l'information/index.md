@@ -1,6 +1,6 @@
 ---
-uuid: 862d95e5-1f30-4649-bc2f-985ff43ce3cc
-title: "Enjeux et Usages des Technologies de l'Information et de la Communication. M\'edias et diffusion de l'information : vers une soci\'et\'e ouverte, vol. 1"
+uuid: ffdfd7e2-79b0-4594-ba4b-d8064c78ccc0
+title: "Enjeux et Usages des Technologies de l'Information et de la Communication. Médias et diffusion de l'information : vers une société ouverte, vol. 1"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"
 abstract: "de Montety, Caroline"
@@ -8,7 +8,7 @@ date: "2007-01-01"
 year: "2007"
 type: "inproceedings"
 url: "https://hal.science/hal-03754338"
-publisher: "\'Editions Gutenberg"
+publisher: "Éditions Gutenberg"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** de Montety, Caroline
 - **Type de publication:** inproceedings
-- **Éditeur:** \'Editions Gutenberg
+- **Éditeur:** Éditions Gutenberg
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754338](https://hal.science/hal-03754338)
 

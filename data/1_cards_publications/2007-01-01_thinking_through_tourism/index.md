@@ -1,9 +1,9 @@
 ---
-uuid: 00cbed92-64cb-40b4-9afb-503a20066fdd
+uuid: 71e7c3a7-65dc-4b18-81d0-bac488f17e24
 title: "Thinking Through Tourism"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2007-01-01"
 year: "2007"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** inproceedings
 - **Éditeur:** Thinking Through Tourism
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749980](https://hal.science/hal-03749980)

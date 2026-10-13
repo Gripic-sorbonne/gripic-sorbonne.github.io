@@ -1,9 +1,9 @@
 ---
-uuid: faa81d12-5735-47c0-85a3-36a8829b0f09
+uuid: 5bae1422-996e-40f8-8a47-3fe5ffb2a06e
 title: "IMPEC `` Interactions Multimodales par Par Ecran ''"
-author: "Devars, Thierry, Gerwig-Kir\`eche, Rym, Philippe, Marion"
-authors: "Devars, Thierry, Gerwig-Kir\`eche, Rym, Philippe, Marion"
-abstract: "Devars, Thierry, Gerwig-Kir\`eche, Rym, Philippe, Marion"
+author: "Devars, Thierry, Gerwig-Kirèche, Rym, Philippe, Marion"
+authors: "Devars, Thierry, Gerwig-Kirèche, Rym, Philippe, Marion"
+abstract: "Devars, Thierry, Gerwig-Kirèche, Rym, Philippe, Marion"
 date: "2018-01-01"
 year: "2018"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Devars, Thierry, Gerwig-Kir\`eche, Rym, Philippe, Marion
+- **Auteurs:** Devars, Thierry, Gerwig-Kirèche, Rym, Philippe, Marion
 - **Type de publication:** inproceedings
 - **Éditeur:** IMPEC `` Interactions Multimodales par Par Ecran ''
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750677](https://hal.science/hal-03750677)

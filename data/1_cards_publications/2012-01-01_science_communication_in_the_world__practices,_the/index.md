@@ -1,9 +1,9 @@
 ---
-uuid: 6067b959-7ecc-4b9d-9a9c-d5cf4a6e7541
+uuid: 393a07e4-2eaa-4582-9ad4-13a8c8b84b9b
 title: "Science communication in the world: Practices, theories and trends"
-author: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
-authors: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
-abstract: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
+author: "Gellereau, Michèle, Jeanneret, Yves, Le Marec, Joëlle"
+authors: "Gellereau, Michèle, Jeanneret, Yves, Le Marec, Joëlle"
+abstract: "Gellereau, Michèle, Jeanneret, Yves, Le Marec, Joëlle"
 date: "2012-01-01"
 year: "2012"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\"elle
+- **Auteurs:** Gellereau, Michèle, Jeanneret, Yves, Le Marec, Joëlle
 - **Type de publication:** incollection
 - **Éditeur:** Springer
 - 🔗 **Lien HAL / Publication:** [https://lilloa.hal.science/hal-01310000](https://lilloa.hal.science/hal-01310000)

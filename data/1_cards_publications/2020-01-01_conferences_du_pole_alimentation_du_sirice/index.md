@@ -1,9 +1,9 @@
 ---
-uuid: ef0b3cae-2bf8-41fa-bdab-02393e98b9d4
+uuid: cabdfcc6-a5e2-4b89-a099-52130cbd20d8
 title: "CONFERENCES DU POLE ALIMENTATION DU SIRICE"
-author: "Pag\`es, Dominique"
-authors: "Pag\`es, Dominique"
-abstract: "Pag\`es, Dominique"
+author: "Pagès, Dominique"
+authors: "Pagès, Dominique"
+abstract: "Pagès, Dominique"
 date: "2020-01-01"
 year: "2020"
 type: "inproceedings"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pag\`es, Dominique
+- **Auteurs:** Pagès, Dominique
 - **Type de publication:** inproceedings
 - **Éditeur:** CONFERENCES DU POLE ALIMENTATION DU SIRICE
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754564](https://hal.science/hal-03754564)

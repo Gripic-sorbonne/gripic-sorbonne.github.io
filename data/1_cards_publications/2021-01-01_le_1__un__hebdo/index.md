@@ -1,9 +1,9 @@
 ---
-uuid: 42cec952-edf1-44d4-85a7-975161fdf38d
+uuid: 2a5cc544-5aac-4a62-9f70-2d5c46cbacbe
 title: "Le 1 [Un] hebdo"
-author: "L\'evrier, Alexis"
-authors: "L\'evrier, Alexis"
-abstract: "L\'evrier, Alexis"
+author: "Lévrier, Alexis"
+authors: "Lévrier, Alexis"
+abstract: "Lévrier, Alexis"
 date: "2021-01-01"
 year: "2021"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** L\'evrier, Alexis
+- **Auteurs:** Lévrier, Alexis
 - **Type de publication:** article
 - **Éditeur:** FGH invest
 - 🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04280577](https://univ-reims.hal.science/hal-04280577)

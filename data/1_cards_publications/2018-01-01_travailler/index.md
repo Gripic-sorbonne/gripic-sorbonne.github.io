@@ -1,14 +1,14 @@
 ---
-uuid: dda7f066-52c2-4c80-80cd-2c6777012b29
+uuid: 0243e299-0914-4f4a-86a1-421e729386dd
 title: "Travailler"
-author: "Corbill\'e, Sophie"
-authors: "Corbill\'e, Sophie"
-abstract: "Corbill\'e, Sophie"
+author: "Corbillé, Sophie"
+authors: "Corbillé, Sophie"
+abstract: "Corbillé, Sophie"
 date: "2018-01-01"
 year: "2018"
 type: "article"
 url: "https://hal.science/hal-03749877"
-publisher: "Martin M\'edia"
+publisher: "Martin Média"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbill\'e, Sophie
+- **Auteurs:** Corbillé, Sophie
 - **Type de publication:** article
-- **Éditeur:** Martin M\'edia
+- **Éditeur:** Martin Média
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749877](https://hal.science/hal-03749877)
 

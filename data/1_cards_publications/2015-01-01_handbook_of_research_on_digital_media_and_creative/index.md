@@ -1,9 +1,9 @@
 ---
-uuid: a691425f-7053-48b1-9281-357c16d0f184
+uuid: a9f9d135-8ca5-493e-81e7-110c4447a892
 title: "Handbook of Research on Digital Media and Creative Technologies"
-author: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-authors: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
-abstract: "Allard-Huver, Fran\c cois, Gilewicz, Nicholas"
+author: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+authors: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
+abstract: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
 date: "2015-01-01"
 year: "2015"
 type: "incollection"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Allard-Huver, Fran\c cois, Gilewicz, Nicholas
+- **Auteurs:** Allard-Huver, Fran cois, Gilewicz, Nicholas
 - **Type de publication:** incollection
 - **Éditeur:** Handbook of Research on Digital Media and Creative Technologies
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02092103](https://hal.science/hal-02092103)

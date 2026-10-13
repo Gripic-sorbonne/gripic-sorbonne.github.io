@@ -1,6 +1,6 @@
 ---
-uuid: d461d7e4-5661-4989-9f29-151c89261fd0
-title: "Le Discours et la Langue Revue de linguistique fran\c caise et d'analyse du discours"
+uuid: 3be350da-2f83-4925-af24-59103d440985
+title: "Le Discours et la Langue Revue de linguistique fran caise et d'analyse du discours"
 author: "Chevet, Clotilde"
 authors: "Chevet, Clotilde"
 abstract: "Chevet, Clotilde"
@@ -8,7 +8,7 @@ date: "2020-01-01"
 year: "2020"
 type: "article"
 url: "https://hal.science/hal-03723021"
-publisher: "Editions modulaires europ\'eennes"
+publisher: "Editions modulaires européennes"
 container_title: ""
 publication: true
 ---
@@ -19,6 +19,6 @@ publication: true
 
 - **Auteurs:** Chevet, Clotilde
 - **Type de publication:** article
-- **Éditeur:** Editions modulaires europ\'eennes
+- **Éditeur:** Editions modulaires européennes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723021](https://hal.science/hal-03723021)
 

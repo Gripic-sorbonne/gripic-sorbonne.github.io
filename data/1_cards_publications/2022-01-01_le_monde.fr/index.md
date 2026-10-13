@@ -1,9 +1,9 @@
 ---
-uuid: bee1d2a1-6d52-4d8b-828c-94130417c094
+uuid: 29f5d458-6f37-418d-ac29-0cb6f1cb3cce
 title: "Le Monde.fr"
-author: "L\'evrier, Alexis"
-authors: "L\'evrier, Alexis"
-abstract: "L\'evrier, Alexis"
+author: "Lévrier, Alexis"
+authors: "Lévrier, Alexis"
+abstract: "Lévrier, Alexis"
 date: "2022-01-01"
 year: "2022"
 type: "article"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** L\'evrier, Alexis
+- **Auteurs:** Lévrier, Alexis
 - **Type de publication:** article
 - **Éditeur:** Le Monde
 - 🔗 **Lien HAL / Publication:** [https://univ-reims.hal.science/hal-04280561](https://univ-reims.hal.science/hal-04280561)
