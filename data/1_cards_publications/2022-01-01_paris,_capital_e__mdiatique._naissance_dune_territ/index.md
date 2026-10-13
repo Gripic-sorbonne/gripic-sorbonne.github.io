@@ -1,5 +1,5 @@
 ---
-uuid: 09de7c7f-8d15-44bf-a3b7-7067fede3ec8
+uuid: 0dcfff83-cfec-4a83-b3a6-2e824bdd2f04
 title: "Paris, capital(e) médiatique. Naissance d’une territorialité médiatique au XIXe siècle"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

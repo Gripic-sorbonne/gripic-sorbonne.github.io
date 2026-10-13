@@ -1,5 +1,5 @@
 ---
-uuid: c698db62-8ac5-4376-9513-c13c75942c9a
+uuid: d3f4c39c-7721-445a-86f3-7d514e56d582
 title: "Médias pouvoirs Politiques, économies et stratégies des médias"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

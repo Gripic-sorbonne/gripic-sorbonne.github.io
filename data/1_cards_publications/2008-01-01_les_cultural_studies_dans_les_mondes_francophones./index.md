@@ -1,5 +1,5 @@
 ---
-uuid: a6e46346-e3d6-4b76-ae99-d7e25c87dbbb
+uuid: 2d68eadd-6c8c-4975-8437-6483333e1004
 title: "Les Cultural Studies dans les mondes francophones. Précisions et imprécisions, conceptualisations"
 author: "Pauline Escande"
 authors: "Pauline Escande"

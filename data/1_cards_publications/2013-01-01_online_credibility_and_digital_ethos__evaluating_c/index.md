@@ -1,5 +1,5 @@
 ---
-uuid: a78bb03d-65d5-4b77-b33d-1656be4a1e63
+uuid: c66670b8-ed77-4472-911d-fa2dd9281699
 title: "Online Credibility and Digital Ethos: Evaluating Computer-Mediated Communication"
 author: "François Allard-Huver, Nicholas Gilewicz"
 authors: "François Allard-Huver, Nicholas Gilewicz"

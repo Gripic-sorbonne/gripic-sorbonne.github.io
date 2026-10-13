@@ -1,5 +1,5 @@
 ---
-uuid: 3325ce4d-eff5-433e-9da1-3759eaa35bd3
+uuid: 88207ed7-dee2-421c-a9ee-10b3ca7aa57c
 title: "Colloque Anthropocène et organisation “ pratique de travail et outils de gestion dans l’anthropocène."
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"

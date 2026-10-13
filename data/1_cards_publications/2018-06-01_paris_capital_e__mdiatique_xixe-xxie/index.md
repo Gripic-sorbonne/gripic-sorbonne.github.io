@@ -1,5 +1,5 @@
 ---
-uuid: b0b3c00e-7152-4655-804e-23ae3a303a95
+uuid: a3b32ab6-c062-41c6-a19e-5cdc13d68c2d
 title: "Paris capital(e) médiatique XIXe-XXIe"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

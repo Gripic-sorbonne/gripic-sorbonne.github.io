@@ -1,5 +1,5 @@
 ---
-uuid: 21565c10-f0c4-400d-bb65-31a2d79228e0
+uuid: 65461d17-ed89-4236-a2a5-7c310fe0e659
 title: "Colloque scientifique LUDOVIA (19ème édition) : “ Éthique et sobriété numérique"
 author: "Laurène Renaut, Clotilde Chevet"
 authors: "Laurène Renaut, Clotilde Chevet"

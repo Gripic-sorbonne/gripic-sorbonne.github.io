@@ -1,5 +1,5 @@
 ---
-uuid: 573b3071-275b-4899-80a0-d2c6a8d8efd1
+uuid: 4c59c52f-2f3a-4bdf-860a-066da14afd17
 title: "Séminaire de recherche “ Médiations marchandes ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

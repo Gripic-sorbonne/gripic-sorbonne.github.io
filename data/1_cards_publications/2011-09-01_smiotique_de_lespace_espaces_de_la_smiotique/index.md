@@ -1,5 +1,5 @@
 ---
-uuid: 738be41d-9147-4eec-886f-c4b59f585b92
+uuid: e2d58648-4892-4250-8717-180e984e4a88
 title: "Sémiotique de l’Espace/Espaces de la Sémiotique"
 author: "Caroline Marti"
 authors: "Caroline Marti"

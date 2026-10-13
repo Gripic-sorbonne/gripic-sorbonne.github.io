@@ -1,5 +1,5 @@
 ---
-uuid: ec79be7a-4f18-4547-b083-0ee61cad7bc6
+uuid: 6043538f-07e4-40e4-9d19-0c6c30bcdeb9
 title: "Seminaire “ Communication, Cultures et Marches ,” LabSIC & GRIPIC, 2022"
 author: "Priscille-Laëta Atteleyn"
 authors: "Priscille-Laëta Atteleyn"

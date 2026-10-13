@@ -1,5 +1,5 @@
 ---
-uuid: e1801878-ab4d-4352-abc7-9980d9a1c722
+uuid: 6b112eda-7783-4b28-b5bc-a8744d9508f9
 title: "Journée d’études “ Sous le masque du Vrai : Infox et verites alternatives ”"
 author: "Pascal Froissart"
 authors: "Pascal Froissart"

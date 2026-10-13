@@ -1,5 +1,5 @@
 ---
-uuid: 88dae796-c023-4ec2-8003-3fa3a909f879
+uuid: 9b8c0bef-0bd0-4b64-a2f6-d801205f2f02
 title: "Sémio 2007"
 author: "Pauline Escande"
 authors: "Pauline Escande"

@@ -1,5 +1,5 @@
 ---
-uuid: ec67bccf-6faf-4a21-850b-fbd74bb2b804
+uuid: 43993a39-32d1-427c-8aac-353f4e7ea938
 title: "Contemporanéité et hybridations des pratiques de la recherche"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"
