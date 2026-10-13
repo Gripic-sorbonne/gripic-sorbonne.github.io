@@ -1,5 +1,5 @@
 ---
-uuid: b3cbad1c-0329-461d-9d3c-432a8fcdee86
+uuid: b658417b-d4ef-466c-9907-acfe2c35d3a1
 title: "Genre et médias"
 author: "Bruneel, Emmanuelle, Gerwig-Kirèche, Rym, Basile-Commaille, Evi, Camille-Delahaye, Pierre, Verquere, Laura, da Silva, Jaércio, Despontin-Lefèvre, Irène, Coulomb-Gully, Marlène, Montanola, Sandy, Huillet, Marie-Pierre"
 authors: "Bruneel, Emmanuelle, Gerwig-Kirèche, Rym, Basile-Commaille, Evi, Camille-Delahaye, Pierre, Verquere, Laura, da Silva, Jaércio, Despontin-Lefèvre, Irène, Coulomb-Gully, Marlène, Montanola, Sandy, Huillet, Marie-Pierre"

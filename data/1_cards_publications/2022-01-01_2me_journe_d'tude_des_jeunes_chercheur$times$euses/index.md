@@ -1,5 +1,5 @@
 ---
-uuid: ce79a96d-ecb0-421b-a68d-0f38100752b7
+uuid: 1ceeef92-2b22-441a-bb7d-31531969d9b5
 title: "2ème Journée d'étude des Jeunes Chercheur$times$euses du laboratoire EDA : `` Éthique et numérique : des questionnements en sciences de l'éducation et en sciences du langage ''"
 author: "Renaut, Laurène, Chevet, Clotilde"
 authors: "Renaut, Laurène, Chevet, Clotilde"

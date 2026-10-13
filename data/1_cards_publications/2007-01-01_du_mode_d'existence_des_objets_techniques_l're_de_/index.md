@@ -1,5 +1,5 @@
 ---
-uuid: a823d6c4-1058-4a5c-95c8-537449090274
+uuid: 14077a52-8879-45dc-b1af-cb8a7e57e4e2
 title: "Du Mode d'Existence des Objets Techniques à l'Ère de l'Information et de la Communication"
 author: "Deseilligny, Oriane"
 authors: "Deseilligny, Oriane"

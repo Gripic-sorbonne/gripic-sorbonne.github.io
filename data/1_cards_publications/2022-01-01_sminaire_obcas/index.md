@@ -1,5 +1,5 @@
 ---
-uuid: 3379f858-d9ba-45df-b6de-02c2fa4d5a9c
+uuid: b696a84c-70ac-453a-9d0a-f716bdb06ddd
 title: "Séminaire Obcas"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

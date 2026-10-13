@@ -1,5 +1,5 @@
 ---
-uuid: fbe65f2b-4583-432c-b611-5ea33d2c325f
+uuid: c887d3ee-3968-4bda-9a36-2904f1084244
 title: "Enquêter sur le genre en communication"
 author: "Olivesi, Aurélie, Bruneel, Emmanuelle, Verquere, Laura"
 authors: "Olivesi, Aurélie, Bruneel, Emmanuelle, Verquere, Laura"

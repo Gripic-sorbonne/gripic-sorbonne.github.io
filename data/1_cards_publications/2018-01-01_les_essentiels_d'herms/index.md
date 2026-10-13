@@ -1,5 +1,5 @@
 ---
-uuid: 669523d1-0aa0-4e05-8227-76590424d218
+uuid: 94c5a8cd-91b9-4b53-9697-c851d9d53e5d
 title: "Les Essentiels d'Hermès"
 author: "Boittiaux, Johan"
 authors: "Boittiaux, Johan"

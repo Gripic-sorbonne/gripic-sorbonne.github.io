@@ -1,5 +1,5 @@
 ---
-uuid: d05de614-19d1-42a9-9c45-8ffcd9cc44d8
+uuid: 374d8379-356a-42fa-813e-9c4e79655784
 title: "Journée doctorale `` Regards croisés sur la relation corps-médias ''"
 author: "Mariau, Berenice"
 authors: "Mariau, Berenice"

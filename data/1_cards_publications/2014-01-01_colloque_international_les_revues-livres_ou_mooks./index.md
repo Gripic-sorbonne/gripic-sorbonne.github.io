@@ -1,5 +1,5 @@
 ---
-uuid: 321fa142-9a58-45aa-8713-7d929ce265ad
+uuid: f55c9ca4-97cd-4d12-97b8-f224583c37e9
 title: "Colloque international Les revues-livres ou mooks. Espaces de renouveau du journalisme littéraire"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

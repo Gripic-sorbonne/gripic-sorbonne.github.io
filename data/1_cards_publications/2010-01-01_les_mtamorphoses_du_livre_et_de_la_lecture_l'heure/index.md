@@ -1,5 +1,5 @@
 ---
-uuid: 600ba681-e0a0-4b19-8c15-f1ad589f7731
+uuid: d8a523bb-662d-4106-9f82-6c09c3f44e6a
 title: "Les métamorphoses du livre et de la lecture à l'heure du numérique"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"

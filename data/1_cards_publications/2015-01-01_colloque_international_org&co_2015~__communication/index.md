@@ -1,5 +1,5 @@
 ---
-uuid: 51219d58-c86e-469a-aa8d-a3e7a1287664
+uuid: 3a58b08a-7986-46ca-b0b1-46ae5ec11c39
 title: "Colloque international Org&Co 2015~: Communication Organisationnelle : Processus communicants - Processus organisants et leurs médiations"
 author: "Bouillon, Jean-Luc, Kogan, Anne-France, Andonova, Yanita"
 authors: "Bouillon, Jean-Luc, Kogan, Anne-France, Andonova, Yanita"

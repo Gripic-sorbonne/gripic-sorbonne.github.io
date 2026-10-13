@@ -1,5 +1,5 @@
 ---
-uuid: 39d39a56-9b73-4e7e-89f3-93df1e87b5fd
+uuid: a911f5f3-a1fb-4e4a-a1bf-c48fa277adc9
 title: "Jean Baudrillard"
 author: "Fantin, Emmanuelle, Nicol, Bran"
 authors: "Fantin, Emmanuelle, Nicol, Bran"

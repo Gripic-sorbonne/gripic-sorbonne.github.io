@@ -1,5 +1,5 @@
 ---
-uuid: 024fd2fc-d20d-4af1-bcc9-dae903f1e51a
+uuid: cc4f578c-6bfd-4ddd-85c0-f5d42ecd256f
 title: "Names: A Journal of Onomastics"
 author: "Faure, Pascaline"
 authors: "Faure, Pascaline"

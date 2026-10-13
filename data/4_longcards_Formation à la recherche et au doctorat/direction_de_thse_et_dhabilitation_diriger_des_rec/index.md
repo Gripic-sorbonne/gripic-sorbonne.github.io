@@ -1,5 +1,5 @@
 ---
-uuid: 9028b5c9-d29e-4bae-b8b2-3e4d3b9c9b6d
+uuid: 26c993ed-e793-41f5-983b-3c5672f17af3
 title: "Direction de thèse et d’habilitation à diriger des recherches"
 abstract: ""
 url: "https://lettres.sorbonne-universite.fr/directeurs-et-directrices-de-recherche-ed433"

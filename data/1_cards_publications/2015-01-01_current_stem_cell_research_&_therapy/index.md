@@ -1,5 +1,5 @@
 ---
-uuid: 72190e4e-aa8c-43f5-8b4e-7dae6fd7919d
+uuid: 47de27c3-6258-4938-ae72-a529ae89c818
 title: "Current Stem Cell Research & Therapy"
 author: "Dromard, Cécile, Chabot, Valérie, Rico, Angélique, Langonné, Alain, Gaillard, Julien, Guilloton, Fabien, Casteilla, Louis, Sensebé, Luc"
 authors: "Dromard, Cécile, Chabot, Valérie, Rico, Angélique, Langonné, Alain, Gaillard, Julien, Guilloton, Fabien, Casteilla, Louis, Sensebé, Luc"

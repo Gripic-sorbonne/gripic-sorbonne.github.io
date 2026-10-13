@@ -1,5 +1,5 @@
 ---
-uuid: 1a07006d-91dd-4f33-80c0-e50a1bc198e7
+uuid: 2d8576a2-eb5c-4caf-90cc-81ca49fab9da
 title: "L'entreprise à responsabilité illimitée"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

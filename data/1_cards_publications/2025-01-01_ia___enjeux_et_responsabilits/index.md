@@ -1,5 +1,5 @@
 ---
-uuid: cbe88d0c-f59d-45f6-a8ab-9d6e870084d6
+uuid: 9fe8db6a-47b7-4371-8dc4-317146812636
 title: "IA : enjeux et responsabilités"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

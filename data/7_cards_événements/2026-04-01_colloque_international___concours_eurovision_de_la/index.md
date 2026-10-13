@@ -1,5 +1,5 @@
 ---
-uuid: 9c4fbcde-c44c-44b5-bd9f-7fbadf81d818
+uuid: f24d1614-e2eb-40cf-bae5-7cae9c1ca855
 title: "Colloque international \" Concours eurovision de la chanson et sciences humaines et sociales"
 author: "Lisa Bolz/Sébastien Appiotti/Johan Boittiaux/Philippe Le Guern/Marie-Caroline Neuvillers-Prudhon"
 date: "2026-04-01"

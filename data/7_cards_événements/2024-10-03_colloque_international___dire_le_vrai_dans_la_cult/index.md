@@ -1,5 +1,5 @@
 ---
-uuid: 18013101-d848-46ee-8296-75617a72dc69
+uuid: 54f250c2-9636-41fd-8762-6c17f1a67057
 title: "Colloque international \" Dire le vrai dans la culture médiatique\""
 author: "Sophie Corbille - Guillaume Pinson"
 date: "2024-10-03"

@@ -1,5 +1,5 @@
 ---
-uuid: bb85da00-42a3-4e50-8d90-bb10eef19b08
+uuid: bb71e388-ca6f-4e4d-99f8-4abd7865e2a6
 title: "Ecole d'hiver de l'Institut des Humanités Numériques (IDHN)"
 author: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"
 authors: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"

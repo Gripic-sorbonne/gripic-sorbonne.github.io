@@ -1,5 +1,5 @@
 ---
-uuid: 8c199924-6582-47b2-938c-01327a6f274d
+uuid: 698e25b5-39e3-47eb-b2c7-be8881ad1777
 title: "MédiaMorphoses"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

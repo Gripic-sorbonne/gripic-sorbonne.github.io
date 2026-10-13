@@ -1,5 +1,5 @@
 ---
-uuid: 5b7e4692-c40a-499b-854a-7fba56567003
+uuid: 0d3fd451-8c99-4d72-9cdd-f928423b35ac
 title: "Séminaire \" Communications, cultures et marchés\""
 author: "Caroline Marti- LabSic"
 date: "2023-02-15"
