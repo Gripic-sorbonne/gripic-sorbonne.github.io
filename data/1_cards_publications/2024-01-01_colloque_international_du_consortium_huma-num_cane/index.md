@@ -1,5 +1,5 @@
 ---
-uuid: 04a17bc5-5653-4187-89f0-77faff932e5b
+uuid: ecf5908d-ff88-49f6-9493-beb60f3aa065
 title: "Colloque international du consortium Huma-Num Canevas : Des corpus audiovisuels en Humanités. Méthodes, expériences"
 author: "Andolfi, Léa, Bouté, Édouard, Julliard, Virginie"
 authors: "Andolfi, Léa, Bouté, Édouard, Julliard, Virginie"

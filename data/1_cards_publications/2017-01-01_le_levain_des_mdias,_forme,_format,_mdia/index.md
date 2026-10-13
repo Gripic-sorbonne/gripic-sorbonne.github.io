@@ -1,5 +1,5 @@
 ---
-uuid: 6c40f3dc-c948-4c0d-919c-3936d0726193
+uuid: a2bba339-3ad7-49bd-95b7-666396fe69a8
 title: "Le levain des médias, forme, format, média"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

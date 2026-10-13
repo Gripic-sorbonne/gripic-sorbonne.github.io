@@ -1,5 +1,5 @@
 ---
-uuid: 905af761-4452-4b37-aa01-5f96f8484c40
+uuid: c0717e10-dca6-4a6f-9e04-3934093c953a
 title: "L'expérience des images"
 author: "Eco, Umberto, Wrona, Adeline, Lambert, Frédéric"
 authors: "Eco, Umberto, Wrona, Adeline, Lambert, Frédéric"

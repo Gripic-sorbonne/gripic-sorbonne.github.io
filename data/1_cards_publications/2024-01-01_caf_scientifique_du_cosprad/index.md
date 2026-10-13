@@ -1,5 +1,5 @@
 ---
-uuid: 762be17a-8cc2-4a5f-b56e-5259341e8bcf
+uuid: 3778770d-4b0e-485b-bf2a-1b5c65d8b376
 title: "Café scientifique du COSPRAD"
 author: "Ascone, Laura, Longhi, Julien, Renaut, Laurène"
 authors: "Ascone, Laura, Longhi, Julien, Renaut, Laurène"

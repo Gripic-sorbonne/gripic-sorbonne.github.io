@@ -1,5 +1,5 @@
 ---
-uuid: 4fa14786-f621-4134-ab58-4a5591a0b4da
+uuid: 341d6cb5-1ee1-4f61-9b77-a58d1a156abd
 title: "''Stigmatisation''. Recherches définitionnelles pour l'exposition `` Nous et les autres. Des préjugés au racisme '' (Musée de l'Homme) et un livret à destination du centre de ressources du musée"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

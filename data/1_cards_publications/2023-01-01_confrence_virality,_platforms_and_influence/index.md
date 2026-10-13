@@ -1,5 +1,5 @@
 ---
-uuid: 5ca426f2-8c6e-4a89-8166-7ee93c81964f
+uuid: 475e11ab-a3f7-46df-b45b-e8b64dc9f028
 title: "Conférence Virality, platforms and influence"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

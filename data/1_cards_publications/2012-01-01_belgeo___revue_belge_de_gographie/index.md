@@ -1,5 +1,5 @@
 ---
-uuid: 8c4ebd74-307e-4845-b1c8-7499c7503b96
+uuid: 7284ce18-49d7-4b8c-84c6-6da9a28189f9
 title: "Belgeo : Revue Belge de Géographie"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

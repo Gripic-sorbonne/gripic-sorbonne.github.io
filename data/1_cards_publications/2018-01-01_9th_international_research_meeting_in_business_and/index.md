@@ -1,5 +1,5 @@
 ---
-uuid: 35b4da8c-11ae-4ea4-b769-6dbe456f44c3
+uuid: a197e98b-3c9e-4a80-a13a-c8634bcb5255
 title: "9th International Research Meeting in Business and Management"
 author: "Malaterre, Florian"
 authors: "Malaterre, Florian"

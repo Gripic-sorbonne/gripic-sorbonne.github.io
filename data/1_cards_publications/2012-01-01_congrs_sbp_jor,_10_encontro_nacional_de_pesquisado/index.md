@@ -1,5 +1,5 @@
 ---
-uuid: 7760819a-a19d-4eff-aca7-36259bde5b3f
+uuid: ebef4ab4-1d73-49c1-8b96-1807b5342fad
 title: "Congrés SBP Jor, 10º Encontro Nacional de Pesquisadores em Jornalismo"
 author: "D'Almeida, nicole, Concei cao dos Santos, Larissa, Peliz, Ana Carolina"
 authors: "D'Almeida, nicole, Concei cao dos Santos, Larissa, Peliz, Ana Carolina"

@@ -1,5 +1,5 @@
 ---
-uuid: 2cd6ba38-8ff9-4e3c-941a-147799e5bbfd
+uuid: c121fc53-5ba3-48e6-87fe-105d3efaa954
 title: "Colloque international `` Les spectacles de curiosités en Europe de la Révolution fran caise à la fin du XIXe siècle"
 author: "Fantin, Emmanuelle, Corbillé, Sophie"
 authors: "Fantin, Emmanuelle, Corbillé, Sophie"

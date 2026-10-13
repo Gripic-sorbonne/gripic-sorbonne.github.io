@@ -1,5 +1,5 @@
 ---
-uuid: a9177260-7d4c-474b-b481-6020305588d3
+uuid: d0c3245a-9a8d-4b6c-9d4c-0c268d93c87d
 title: "New Queer Images. Representations of Homosexualities in Contemporary Francophone Visual Cultures"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

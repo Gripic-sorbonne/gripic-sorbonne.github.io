@@ -1,5 +1,5 @@
 ---
-uuid: 67cf7a9b-77c9-4edd-b61e-e6b6fcbb9ef0
+uuid: 46e724ea-43a7-40fe-b8c6-26e944998237
 title: "Convergence des médias et Communication numérique"
 author: "Zhang, Yuwen"
 authors: "Zhang, Yuwen"

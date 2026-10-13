@@ -1,5 +1,5 @@
 ---
-uuid: 53ef0bd3-1182-4bc0-af2f-99ebe0f958d5
+uuid: 8cb58283-b5fe-4639-be0d-a11b58b17be2
 title: "Journée d'études `` les animaux colonisés ''"
 author: "Fantin, Emmanuelle, Corbillé, Sophie"
 authors: "Fantin, Emmanuelle, Corbillé, Sophie"

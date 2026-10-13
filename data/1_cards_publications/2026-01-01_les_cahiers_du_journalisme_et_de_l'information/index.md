@@ -1,5 +1,5 @@
 ---
-uuid: b96a045d-9bf0-493e-b8c1-b27d59736359
+uuid: 91cfef52-4dd5-4693-9c1a-14801e9ed0bf
 title: "Les Cahiers du journalisme et de l'information"
 author: "Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline"
 authors: "Ballarini, Loïc, Alexis, Lucie, Alvès, Audrey, Bolz, Lisa, Gadras, Simon, Marty, Emmanuel, Sebbah, Brigitte, Ségur, Céline"

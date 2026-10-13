@@ -1,5 +1,5 @@
 ---
-uuid: 864d6f3e-7100-4b71-abe4-f1abd0192dc7
+uuid: a27a0a2e-1886-4da3-9c30-740c35b225c6
 title: "IItextdegree Colloque franco-chilien de communication d'entreprise"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

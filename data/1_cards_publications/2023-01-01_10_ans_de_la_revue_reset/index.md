@@ -1,5 +1,5 @@
 ---
-uuid: cd47f7b6-b6e8-46d2-bed5-cd18a4495e53
+uuid: fe5ef953-43f7-4c71-af84-572b68de7eff
 title: "10 ans de la revue RESET"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

@@ -1,5 +1,5 @@
 ---
-uuid: 3a5d77b3-2044-41b8-98f9-a1bbdc1807c8
+uuid: ef553490-00fe-4050-871a-77e5a0debbbb
 title: "Transnum  : penser le numérique comme transformation"
 author: "Brouard, Pauline"
 authors: "Brouard, Pauline"

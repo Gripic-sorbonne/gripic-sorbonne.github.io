@@ -1,5 +1,5 @@
 ---
-uuid: e6794e3c-f8f6-4aef-8e1c-9edc3b24ddc7
+uuid: 694b5b22-751a-4b1a-a281-9f17813b9b77
 title: "Congrès international SPHM Rêver d'un autre monde. Médias, utopies et expérimentations de l'époque moderne à nos jours"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

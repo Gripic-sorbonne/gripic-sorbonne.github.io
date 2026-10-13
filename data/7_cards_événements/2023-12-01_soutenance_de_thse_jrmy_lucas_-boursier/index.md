@@ -1,5 +1,5 @@
 ---
-uuid: e3dd674a-9075-4e92-a3d0-15219e2e84ce
+uuid: 5442793a-eabe-4e9f-b77e-6895456d099f
 title: "Soutenance de thèse Jérémy Lucas -Boursier"
 author: "Etienne Candel"
 date: "2023-12-01"
