@@ -1,5 +1,5 @@
 ---
-uuid: f97ca79e-2f0b-4b78-87e0-d770d66f7e1d
+uuid: da4f5e69-7dec-4592-949a-7bfb553aae58
 title: "Marketing et Communication / Market management"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"

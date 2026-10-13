@@ -1,5 +1,5 @@
 ---
-uuid: 12f89674-37a6-435c-ac42-e27349dc206e
+uuid: 87e2af9a-7111-4089-96d6-c6153e82a15b
 title: "Visual Culture"
 author: "SALEH BOLOURDI, Anita, Abbassi, Ali"
 authors: "SALEH BOLOURDI, Anita, Abbassi, Ali"

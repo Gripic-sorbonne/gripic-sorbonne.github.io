@@ -1,5 +1,5 @@
 ---
-uuid: 9fb5b413-3bc1-4e12-849d-90d0bbdb9b3d
+uuid: b8f5ffdf-845e-4532-ba2f-c7b67f3989cb
 title: "Le Discours et la Langue Revue de linguistique fran caise et d'analyse du discours"
 author: "Chevet, Clotilde"
 authors: "Chevet, Clotilde"

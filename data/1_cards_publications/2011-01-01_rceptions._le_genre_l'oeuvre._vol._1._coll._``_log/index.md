@@ -1,5 +1,5 @@
 ---
-uuid: bc80615f-2c45-4395-9e3a-3b204326020c
+uuid: 5ab72571-436b-47db-9ff0-489d85da2cae
 title: "Réceptions. Le genre à l'oeuvre. Vol. 1. coll. `` Logiques sociales ''"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

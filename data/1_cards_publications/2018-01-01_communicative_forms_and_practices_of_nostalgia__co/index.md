@@ -1,5 +1,5 @@
 ---
-uuid: 607f90e4-1a1b-48b3-9e70-e48038263c8f
+uuid: ebf14eee-80b7-4273-9d80-427b512ee21f
 title: "‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives'"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

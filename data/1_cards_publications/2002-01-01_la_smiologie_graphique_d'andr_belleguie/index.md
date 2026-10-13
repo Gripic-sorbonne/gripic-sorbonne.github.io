@@ -1,5 +1,5 @@
 ---
-uuid: 72823caf-de2e-45cd-964b-3c6915a83826
+uuid: 4adf0e54-3913-4628-9650-2a618b869d99
 title: "La sémiologie graphique d'André Belleguie"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

@@ -1,5 +1,5 @@
 ---
-uuid: 18c61c87-8236-4ef6-b2b9-2d77f3e2fa0b
+uuid: b47c3ee2-887c-4b16-968f-fb2deaff0ae7
 title: "Indice, Index, Indexation"
 author: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël"
 authors: "Garron, Isabelle, Minel, Jean-Luc, Souchier, Emmanuël"

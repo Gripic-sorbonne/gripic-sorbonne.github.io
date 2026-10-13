@@ -1,5 +1,5 @@
 ---
-uuid: 6dde30e3-c93d-40d6-bd1c-641ab35e2dbc
+uuid: 6d2b3780-0fdc-41fe-819e-7e76c259a3a9
 title: "Conférence EHESS, Le métier de doctorant.e en SHS"
 author: "Allard-Huver, Fran cois, Rollandin, Marion"
 authors: "Allard-Huver, Fran cois, Rollandin, Marion"

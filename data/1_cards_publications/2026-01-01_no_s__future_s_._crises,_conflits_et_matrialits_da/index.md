@@ -1,5 +1,5 @@
 ---
-uuid: 48736341-8838-4b1e-990d-638105b0cd4e
+uuid: 1f273aa9-394a-40c5-a341-9e873066bc83
 title: "No(s) Future(s). Crises, conflits et matérialités dans les économies du XXIème siècle"
 author: "Ecrement, Vanille"
 authors: "Ecrement, Vanille"

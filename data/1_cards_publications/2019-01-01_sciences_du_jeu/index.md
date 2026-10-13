@@ -1,5 +1,5 @@
 ---
-uuid: ee836188-ac3a-489c-87c0-5350f44984d7
+uuid: 4961f67f-91b9-4878-8965-b2e9e54cfa60
 title: "Sciences du jeu"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

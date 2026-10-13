@@ -1,5 +1,5 @@
 ---
-uuid: a6f6ea9b-1959-44a7-9a1b-301b3c90903c
+uuid: ce8593af-483a-4030-ad3e-bbecf09a6c70
 title: "Les héritiers contemporains du pastiche"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

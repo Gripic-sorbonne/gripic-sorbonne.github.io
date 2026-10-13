@@ -1,5 +1,5 @@
 ---
-uuid: f11c4fc2-4f7c-4e86-8a8d-afa3b4ccc9e3
+uuid: 5f120c60-4a6c-483e-9adf-11d48c1cbb1f
 title: "Le métier à penser. Tisser des textes avec Baudouin Jurdant"
 author: "Lalande, Antoine"
 authors: "Lalande, Antoine"

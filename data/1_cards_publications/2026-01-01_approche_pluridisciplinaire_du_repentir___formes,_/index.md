@@ -1,5 +1,5 @@
 ---
-uuid: e640bc5a-ce43-44d8-843a-a56b40859c1f
+uuid: a61b62c1-b782-46fd-a327-dd23002b70b4
 title: "Approche pluridisciplinaire du repentir : formes, médiums, enjeux"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

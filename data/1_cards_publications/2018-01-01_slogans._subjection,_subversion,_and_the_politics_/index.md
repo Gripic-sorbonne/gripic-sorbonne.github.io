@@ -1,5 +1,5 @@
 ---
-uuid: 686ad36a-cfa9-48ba-a845-14ee08fff40a
+uuid: e8f6efbc-ed9b-4b07-90a6-3d9cd77e8fbd
 title: "Slogans. Subjection, Subversion, and the Politics of Neoliberalism"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

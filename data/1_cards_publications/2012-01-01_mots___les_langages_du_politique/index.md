@@ -1,5 +1,5 @@
 ---
-uuid: ecc85599-6963-4713-ac89-093452d577c6
+uuid: 2ede58ab-6586-4456-8697-99e04713126b
 title: "Mots : les langages du politique"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"

@@ -1,5 +1,5 @@
 ---
-uuid: 6435986f-129d-47e1-83c6-ccdeff53d017
+uuid: 7e07a9c2-1cd5-469b-a446-30cbd3a5c1e0
 title: "Revue des Deux Mondes"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

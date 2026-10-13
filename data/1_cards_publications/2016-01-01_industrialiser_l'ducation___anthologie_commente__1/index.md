@@ -1,5 +1,5 @@
 ---
-uuid: a79d5ecf-1f5a-44b7-8c8e-66449eedbae5
+uuid: ae670484-9f14-4bfe-8ae7-a0a71dd5278c
 title: "Industrialiser l'éducation : Anthologie commentée (1913-2012)"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

@@ -1,5 +1,5 @@
 ---
-uuid: ad96c751-b191-41ee-abf4-94004f5adf45
+uuid: babf65d1-877a-4db9-b6a1-62886cf23e8d
 title: "Le développement de l'Intelligence artificielle (IA) dans l'éducation : en cerner les enjeux par une approche interdisciplinaire"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

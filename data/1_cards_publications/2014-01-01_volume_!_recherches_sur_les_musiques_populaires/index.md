@@ -1,5 +1,5 @@
 ---
-uuid: 0964353e-2ce0-4058-a000-dbe0f1b021a7
+uuid: 4f5bd805-d384-409a-872d-664f0a5a698f
 title: "Volume ! recherches sur les musiques populaires"
 author: "Escande, Pauline, Vermoesen, Noémie"
 authors: "Escande, Pauline, Vermoesen, Noémie"

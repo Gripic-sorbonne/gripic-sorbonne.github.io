@@ -1,5 +1,5 @@
 ---
-uuid: d278ba39-bf6a-4322-82d5-e8f7ff986edf
+uuid: b58eb4f5-38ed-4bc0-bb93-6db85d9b9faa
 title: "En quête d'archives. Bricolages méthodologiques en terrains médiatiques"
 author: "Quemener, Nelly, Lécossais, Sarah"
 authors: "Quemener, Nelly, Lécossais, Sarah"

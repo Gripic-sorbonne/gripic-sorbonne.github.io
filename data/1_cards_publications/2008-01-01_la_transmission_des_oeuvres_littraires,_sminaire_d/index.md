@@ -1,5 +1,5 @@
 ---
-uuid: 2c6393d5-1000-4acf-830b-49271f60462b
+uuid: 614525f0-1d1c-4eb1-a155-fd1dc3268664
 title: "La transmission des oeuvres littéraires, Séminaire de l'équipe EA2577 ``Littératures fran caises du XXe siècle''"
 author: "Wrona, Adeline, Souchier, Emmanuël"
 authors: "Wrona, Adeline, Souchier, Emmanuël"

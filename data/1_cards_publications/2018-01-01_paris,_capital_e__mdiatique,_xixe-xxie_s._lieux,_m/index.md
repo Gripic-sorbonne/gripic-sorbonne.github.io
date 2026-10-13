@@ -1,5 +1,5 @@
 ---
-uuid: fa9f9de5-41e9-4849-8d01-3d7f161b5b05
+uuid: adbc4a53-3905-4031-a17c-ddff1d8c44fc
 title: "Paris, capital(e) médiatique, XIXe-XXIe s. Lieux, modèles et figures des médias, de Girardin aux start-ups"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"
