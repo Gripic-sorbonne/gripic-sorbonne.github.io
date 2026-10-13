@@ -1,5 +1,5 @@
 ---
-uuid: 1d47efe9-3c29-423a-8e1d-de3ccc67bb23
+uuid: 80673223-f556-4ed9-9e18-64640b96ead1
 title: "Ethnologie fran caise"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

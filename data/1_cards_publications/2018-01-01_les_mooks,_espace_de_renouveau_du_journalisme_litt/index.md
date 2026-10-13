@@ -1,5 +1,5 @@
 ---
-uuid: 4eaea86d-f153-4103-8d72-52336e716820
+uuid: 4ce7970d-3837-469e-bee8-1ffa9348a0af
 title: "Les Mooks, espace de renouveau du journalisme littéraire"
 author: "Escande, Pauline, Jeanne-Perrier, Valérie"
 authors: "Escande, Pauline, Jeanne-Perrier, Valérie"

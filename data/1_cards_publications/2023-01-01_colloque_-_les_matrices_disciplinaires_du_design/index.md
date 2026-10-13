@@ -1,5 +1,5 @@
 ---
-uuid: f86d100a-19a1-436c-aa91-65de3be595d3
+uuid: ece051e4-26f6-48fe-a905-2b87401a0522
 title: "Colloque - Les matrices disciplinaires du design"
 author: "Marson, Claudia"
 authors: "Marson, Claudia"

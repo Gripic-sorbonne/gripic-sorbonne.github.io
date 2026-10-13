@@ -1,5 +1,5 @@
 ---
-uuid: 7273ff26-4e9e-4c5d-8488-ec17932ecec7
+uuid: 1187af55-ca3d-495c-a8b4-8c3264d21737
 title: "Cinémas libertaires : au service des forces de transgression et de révolte"
 author: "Cappi, Johanna"
 authors: "Cappi, Johanna"

@@ -1,5 +1,5 @@
 ---
-uuid: 2a3291cd-5ce6-41aa-bbe5-5cb6e75c8323
+uuid: 12b6313b-3760-4b0f-a58c-da33d88a58ab
 title: "Actes du Colloque Post-diplôme design Comment commémorer autrement dans l'espace public ?"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

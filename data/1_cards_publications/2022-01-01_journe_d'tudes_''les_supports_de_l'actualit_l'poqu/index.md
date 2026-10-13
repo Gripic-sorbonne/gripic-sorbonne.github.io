@@ -1,5 +1,5 @@
 ---
-uuid: d30e9269-53e0-4dfc-b802-bf2572160637
+uuid: 7187723f-67f7-4e2f-93fb-4784cf7654ed
 title: "Journée d'études ''Les supports de l'actualité à l'époque moderne''"
 author: "Lévrier, Alexis, Brétéché, Marion"
 authors: "Lévrier, Alexis, Brétéché, Marion"

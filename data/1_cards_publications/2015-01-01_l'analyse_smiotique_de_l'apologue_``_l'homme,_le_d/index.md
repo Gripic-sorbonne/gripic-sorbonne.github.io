@@ -1,5 +1,5 @@
 ---
-uuid: d93c212a-98da-4bb2-a659-26340c7c646b
+uuid: ab734ad9-cb67-4c58-bdc2-a246874b399a
 title: "L'analyse sémiotique de l'apologue `` L'homme, le dragon, les serpents et les deux rats'', l'exemple de la miniature persane"
 author: "SALEH BOLOURDI, Anita, Abbassi, Ali"
 authors: "SALEH BOLOURDI, Anita, Abbassi, Ali"

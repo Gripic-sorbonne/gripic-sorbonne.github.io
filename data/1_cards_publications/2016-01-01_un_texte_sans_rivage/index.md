@@ -1,5 +1,5 @@
 ---
-uuid: c8ebcfff-d7ee-4846-a97e-a9b5f0886604
+uuid: 675fa983-2261-4312-89a5-34d9e0ebb59e
 title: "Un texte sans rivage"
 author: "Souchier, Emmanuël, Zali, Anne"
 authors: "Souchier, Emmanuël, Zali, Anne"

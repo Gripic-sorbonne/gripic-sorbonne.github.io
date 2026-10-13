@@ -1,5 +1,5 @@
 ---
-uuid: 3ee63573-3e6a-4987-b5dd-fcc4a11398f9
+uuid: 486f3e61-7061-47ff-9aef-57e7eee8c5ed
 title: "Comunica cao Organizacional, Dimensoes epistemologicas e discursivas"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

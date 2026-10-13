@@ -1,5 +1,5 @@
 ---
-uuid: 0c1c0b44-3c6b-4169-bc1f-265b7626dd97
+uuid: 1360f11c-2e64-40c0-95b9-69fdf47b0ddd
 title: "Colloque international La contagion créative. Médias, industries, récits, communautés"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

@@ -1,5 +1,5 @@
 ---
-uuid: c2e825b2-749b-418c-813a-775b6022892a
+uuid: b9e0eba9-0a15-43d0-a86b-84e7ab16eef8
 title: "Les Cahiers de Framespa : e-Storia"
 author: "Lalande, Antoine, Le Marec, Joëlle"
 authors: "Lalande, Antoine, Le Marec, Joëlle"

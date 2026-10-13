@@ -1,5 +1,5 @@
 ---
-uuid: 9d4a7bbc-0b4b-43a0-a69a-76f7a19aeb8d
+uuid: bf1ad26c-de2f-4cc3-ac30-d4fe68de7a74
 title: "Réparer le futur ? Réflexions et expériences depuis l'écologie politique"
 author: "Ecrement, Vanille"
 authors: "Ecrement, Vanille"

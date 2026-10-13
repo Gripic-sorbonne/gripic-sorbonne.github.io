@@ -1,5 +1,5 @@
 ---
-uuid: 0e2ec0de-1617-4f57-9cc8-14464b68d0b9
+uuid: 1717b4c2-a7b9-4b8a-8881-def5571f66c5
 title: "Mauriac au monde comme n'y étant pas. Le journaliste, l'histoire et les médias"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"

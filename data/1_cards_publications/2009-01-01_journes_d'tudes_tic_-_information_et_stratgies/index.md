@@ -1,5 +1,5 @@
 ---
-uuid: 055e37b5-dde1-469d-86a8-874928b8fc42
+uuid: 34e61ff7-5cef-4f56-9465-378f4e1fcc5a
 title: "Journées d'études TIC - Information et stratégies"
 author: "Candel, Etienne"
 authors: "Candel, Etienne"

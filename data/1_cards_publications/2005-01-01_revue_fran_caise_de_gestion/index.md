@@ -1,5 +1,5 @@
 ---
-uuid: 89d02aec-ebd9-4ec3-a9bb-9cb586f2e66e
+uuid: b4713c64-1be5-4683-b202-ab81e0c60882
 title: "Revue Fran caise de Gestion"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

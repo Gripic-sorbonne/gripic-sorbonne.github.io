@@ -1,5 +1,5 @@
 ---
-uuid: 6b0afa51-0e2f-4951-afeb-9ceeda4edbe2
+uuid: 254e1006-3277-488d-9258-66b561d1a4b6
 title: "Support et conseil éditorial pour la 7e édition du Communicator, en collaboration avec les éditions Dunod et l'institut d'études Occurrence"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

@@ -1,5 +1,5 @@
 ---
-uuid: 47583d6c-c97d-4fc1-a3c7-dd6d4653d618
+uuid: ab6cdfbd-f9f5-4a75-8e39-fa4a4b3c34b0
 title: "Workshop \" Media, Democracy, Europe\""
 author: "Université de Prague"
 date: "2026-04-29"

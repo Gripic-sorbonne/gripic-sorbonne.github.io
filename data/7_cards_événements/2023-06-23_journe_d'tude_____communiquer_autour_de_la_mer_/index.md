@@ -1,5 +1,5 @@
 ---
-uuid: f29cb2ee-1e67-49d9-abbb-e99933b9bb47
+uuid: 91b24f6f-3e00-4eb0-9384-ce5677b4ef48
 title: "Journée d'étude : \" Communiquer autour de la mer\""
 author: "Valérie Jeanne Perrier- Pauline Escandé Gauquié - IMSIC - Institut des Océans- AMU- SU"
 date: "2023-06-23"

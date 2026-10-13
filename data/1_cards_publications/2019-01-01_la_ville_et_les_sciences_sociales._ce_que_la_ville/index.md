@@ -1,5 +1,5 @@
 ---
-uuid: 705ac190-f589-4e1b-bc5f-d6d9aea96581
+uuid: cb153d87-de52-4171-ae8c-d4215af2ee7c
 title: "La ville et les sciences sociales. Ce que la ville fait à l'anthropologie, ce que l'anthropologie fait à la ville. 1er congrés d'AnthropoVilles"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

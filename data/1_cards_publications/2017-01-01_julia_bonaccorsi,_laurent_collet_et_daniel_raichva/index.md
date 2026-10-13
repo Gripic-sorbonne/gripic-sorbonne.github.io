@@ -1,5 +1,5 @@
 ---
-uuid: 104de16d-3981-45f5-bc85-6ebf1807ac12
+uuid: 3a930334-99b3-4934-b6cc-aeaa1a9da433
 title: "Julia Bonaccorsi, Laurent Collet et Daniel Raichvag (dir.). Les Temps des arts et des cultures."
 author: "Tassel, Julien, Vergopoulos, Hécate"
 authors: "Tassel, Julien, Vergopoulos, Hécate"

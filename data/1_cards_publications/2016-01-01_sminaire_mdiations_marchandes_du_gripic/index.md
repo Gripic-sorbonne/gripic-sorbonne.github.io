@@ -1,5 +1,5 @@
 ---
-uuid: 2a161fab-1253-44de-bc1d-a32c5063193b
+uuid: d573595a-3965-4af9-9d97-b37c4fbf8698
 title: "Séminaire Médiations marchandes du GRIPIC"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

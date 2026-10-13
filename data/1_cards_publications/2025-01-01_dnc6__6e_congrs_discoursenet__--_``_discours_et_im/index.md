@@ -1,5 +1,5 @@
 ---
-uuid: c39fa206-5284-4427-807c-56596c471c58
+uuid: 1d5c3e48-cb66-464e-8084-7bc8401b28a8
 title: "DNC6 (6e congrès DiscourseNet) -- `` Discours et imaginaires des sociétés passées, présentes et futures : médias et représentations des (dés)ordres (inter)nationaux ''"
 author: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"
 authors: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"

@@ -1,5 +1,5 @@
 ---
-uuid: e0da8e41-5b6b-4927-902c-d23aa47a7d04
+uuid: 055243e4-e12b-4cec-b4f6-154b38503ed3
 title: "Colloque Observatoire des discours de/sur l'Europe"
 author: "Juliette Charbonneaux"
 date: "2023-11-16"

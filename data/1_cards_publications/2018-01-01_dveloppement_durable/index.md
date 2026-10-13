@@ -1,5 +1,5 @@
 ---
-uuid: 5c25e094-a0b0-4ef7-9db9-c8d50d20ec1c
+uuid: cb2f45e2-5bef-47a0-a44e-fd49ebeaa4fa
 title: "Développement durable"
 author: "D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry"
 authors: "D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry"

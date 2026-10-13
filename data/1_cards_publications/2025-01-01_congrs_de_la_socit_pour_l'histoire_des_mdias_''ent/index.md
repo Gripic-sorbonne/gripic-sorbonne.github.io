@@ -1,5 +1,5 @@
 ---
-uuid: 3461a72f-8b70-4d19-a5c7-127656ff2a75
+uuid: e8ef1a1b-1006-4d88-b6f3-0fd9202b670d
 title: "Congrès de la Société pour l'histoire des médias ''Entre réel et fiction''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

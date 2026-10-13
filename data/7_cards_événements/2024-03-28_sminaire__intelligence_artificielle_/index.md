@@ -1,5 +1,5 @@
 ---
-uuid: 3b9c7e53-dfae-4b60-a2b3-c8644e1d300d
+uuid: 0b405094-f904-4138-8c3d-fe9a324f51e4
 title: "Séminaire \"Intelligence artificielle\""
 author: "Laurent Petit"
 date: "2024-03-28"

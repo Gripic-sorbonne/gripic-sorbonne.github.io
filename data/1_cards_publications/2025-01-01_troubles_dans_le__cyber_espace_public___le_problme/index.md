@@ -1,5 +1,5 @@
 ---
-uuid: f6fff843-232f-4b20-b43b-8fd963ed8c26
+uuid: 6fffc589-d8d4-4061-8543-a3ece6dbe1fd
 title: "Troubles dans le (cyber)espace public : le problème public des fake news comme symptôme de crises systémiques dans la France contemporaine (XVIIIe-XXIe siècles)"
 author: "Liccia, Damien"
 authors: "Liccia, Damien"
