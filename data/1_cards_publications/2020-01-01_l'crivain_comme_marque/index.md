@@ -1,5 +1,5 @@
 ---
-uuid: ae721bf1-0e8f-4ec2-b842-a0fb36a6d2e2
+uuid: 2d083125-00e6-4540-aedf-72bcfc8ff45a
 title: "L'écrivain comme marque"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

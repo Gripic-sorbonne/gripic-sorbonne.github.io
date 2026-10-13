@@ -1,5 +1,5 @@
 ---
-uuid: c7bef4ce-0a1a-47ce-bcc5-762f82f3a2cf
+uuid: da7e61b1-bbc6-4b89-ad50-82cdedd01168
 title: "Les journalismes : réalités plurielles, éthique commune ?"
 author: "Jeanne Perrier, Valerie"
 authors: "Jeanne Perrier, Valerie"

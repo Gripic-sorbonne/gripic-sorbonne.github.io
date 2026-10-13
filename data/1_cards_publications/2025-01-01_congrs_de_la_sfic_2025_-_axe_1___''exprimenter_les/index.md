@@ -1,5 +1,5 @@
 ---
-uuid: 740a6fce-138a-4f2e-8bab-af768c32b106
+uuid: ba6fd0d0-241e-48b0-b160-8bb1666e0a9f
 title: "Congrès de la SFIC 2025 - Axe 1 : ''Expérimenter les transitions et éprouver le sensible''"
 author: "Reille, Coline, Atteleyn, Priscille-Laëta"
 authors: "Reille, Coline, Atteleyn, Priscille-Laëta"

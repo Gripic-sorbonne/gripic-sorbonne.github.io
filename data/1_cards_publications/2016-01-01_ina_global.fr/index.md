@@ -1,5 +1,5 @@
 ---
-uuid: c961af33-b396-4b73-8469-de50933e1226
+uuid: 08ee3d0b-20e7-456a-96f0-ab2aa693e405
 title: "Ina global.fr"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

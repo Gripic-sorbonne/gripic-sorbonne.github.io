@@ -1,5 +1,5 @@
 ---
-uuid: 2638c439-710c-4749-9599-876c73dbc8da
+uuid: e9d5ad78-0a99-4882-acdb-023af5b5ec36
 title: "L'art et la ville OEuvres contemporaines"
 author: "Souchier, Emmanuël, Beurard-Valdoye, Patrick"
 authors: "Souchier, Emmanuël, Beurard-Valdoye, Patrick"

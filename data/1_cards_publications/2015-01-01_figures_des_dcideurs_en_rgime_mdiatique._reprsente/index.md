@@ -1,5 +1,5 @@
 ---
-uuid: 663adc15-3ae7-46b6-8e1b-9e5d20a049d9
+uuid: 44421163-7aed-4425-9b56-e04677d60694
 title: "Figures des décideurs en régime médiatique. Représenter la décision politique et économique : un défi communicationnel."
 author: "Corbillé, Sophie, Tassel, Julien"
 authors: "Corbillé, Sophie, Tassel, Julien"

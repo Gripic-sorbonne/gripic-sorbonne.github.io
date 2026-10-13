@@ -1,5 +1,5 @@
 ---
-uuid: f45725f1-2a6f-4e4a-b93a-eb760a0c9af2
+uuid: dac583e1-1fa2-4624-a9a7-761ddcfc7ac9
 title: "Colloque DE FACTO `` Former, informer, désinformer par l'image ''"
 author: "Chevet, Clotilde, Raymond, Lucie, Renaut, Laurène"
 authors: "Chevet, Clotilde, Raymond, Lucie, Renaut, Laurène"

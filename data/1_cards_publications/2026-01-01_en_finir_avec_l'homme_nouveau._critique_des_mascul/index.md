@@ -1,5 +1,5 @@
 ---
-uuid: a03c7750-6207-43eb-af4f-b6d13ef6e06e
+uuid: 5cd7e024-a384-4319-9e22-ca26b86df004
 title: "En finir avec l'homme nouveau. Critique des masculinités modernes"
 author: "Gourarier, Mélanie, Verquere, Laura"
 authors: "Gourarier, Mélanie, Verquere, Laura"

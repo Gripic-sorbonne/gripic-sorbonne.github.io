@@ -1,5 +1,5 @@
 ---
-uuid: e6dcb4fd-fc69-45bb-a7e2-5de52cb944dc
+uuid: 841953f8-f4bb-4951-a4d3-e6cc8c421086
 title: "Histoire, mémoire et passé au coeur des organisations"
 author: "Tassel, Julien, Granier, Fran cois"
 authors: "Tassel, Julien, Granier, Fran cois"

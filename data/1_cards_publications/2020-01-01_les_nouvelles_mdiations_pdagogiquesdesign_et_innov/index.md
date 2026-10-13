@@ -1,5 +1,5 @@
 ---
-uuid: ca90c7dd-6db8-4ba2-a18a-80376ad23fd2
+uuid: 36815335-e495-4815-8f7f-8e89c14c7e1c
 title: "LES NOUVELLES MÉDIATIONS PÉDAGOGIQUESDesign et innovation pédagogiques, expériences d'enseignement technologique"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

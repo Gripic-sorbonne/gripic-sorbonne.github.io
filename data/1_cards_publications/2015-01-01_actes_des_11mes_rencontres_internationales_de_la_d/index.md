@@ -1,5 +1,5 @@
 ---
-uuid: 439c32a1-6323-45e8-b49c-b7aeb8daf723
+uuid: a50acd92-bbd7-432a-9957-e76e0fd05044
 title: "Actes des 11èmes Rencontres Internationales de la Diversité"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

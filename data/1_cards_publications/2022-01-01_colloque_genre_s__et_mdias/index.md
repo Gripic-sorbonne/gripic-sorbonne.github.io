@@ -1,5 +1,5 @@
 ---
-uuid: 83264de1-7244-46ea-be5e-352ecc1d2b3e
+uuid: b3326467-6335-4ae6-9ccb-236e4464581c
 title: "Colloque Genre(s) et médias"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

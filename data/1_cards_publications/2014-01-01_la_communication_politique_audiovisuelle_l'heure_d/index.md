@@ -1,5 +1,5 @@
 ---
-uuid: 4de0db42-05a6-47da-b3d6-f9c89d9d204e
+uuid: 2109253d-367e-4516-a92f-3d59b50bae3e
 title: "La communication politique audiovisuelle à l'heure du numérique : le cas des vidéos politiques 2007-2012"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

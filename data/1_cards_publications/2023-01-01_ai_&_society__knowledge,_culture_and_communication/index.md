@@ -1,5 +1,5 @@
 ---
-uuid: faaafffd-f5f5-4b02-9541-b954519cfc57
+uuid: 7d92a701-bc2b-4008-8275-e0241cf8f445
 title: "AI & Society: Knowledge, Culture and Communication"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

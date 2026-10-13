@@ -1,5 +1,5 @@
 ---
-uuid: dd84246d-83a6-40d4-89d6-a6163b5f359e
+uuid: 0b0a455b-1714-48dc-9af5-0d3640bdb6e4
 title: "ISEA 2025"
 author: "Allard, Laurence, Brouard, Pauline, Halloy, José, Sungseok, Ahn"
 authors: "Allard, Laurence, Brouard, Pauline, Halloy, José, Sungseok, Ahn"

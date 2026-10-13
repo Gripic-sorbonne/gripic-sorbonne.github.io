@@ -1,5 +1,5 @@
 ---
-uuid: c006992f-a227-46b8-a8df-4c1237dccce2
+uuid: d74b9876-425e-4cec-9dd6-aeb435b84fba
 title: "Influenceur.se &amp; communication"
 author: "Appiotti, Sébastien, Coquelin, Lucile, Malet, Marine"
 authors: "Appiotti, Sébastien, Coquelin, Lucile, Malet, Marine"

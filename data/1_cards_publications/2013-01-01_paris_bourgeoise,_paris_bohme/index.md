@@ -1,5 +1,5 @@
 ---
-uuid: 24f90eee-c50b-4ad1-8ea5-d1a0fd463980
+uuid: e9b57ad2-05cf-4efe-9cd5-9ff8137ba1d5
 title: "Paris bourgeoise, Paris bohème"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

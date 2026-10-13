@@ -1,5 +1,5 @@
 ---
-uuid: 9d181dc9-9f9d-4aae-a885-3a01f78a1632
+uuid: 0483b825-fd5b-4c89-9995-fe2cd89a15c0
 title: "Atelier CERES (Centre d'expérimentation en méthodes numériques pour les recherches en Sciences Humaines et Sociales)"
 author: "Renaut, Laurène, Demange, Jérémy"
 authors: "Renaut, Laurène, Demange, Jérémy"

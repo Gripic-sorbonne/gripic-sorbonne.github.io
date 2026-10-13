@@ -1,5 +1,5 @@
 ---
-uuid: 2a4fc7e2-886f-4f0b-a486-4514185b255f
+uuid: 3f3b5df6-d156-4c8e-a9bc-0be8edfaf7e1
 title: "Paris, capital(e) médiatique. Naissance d'une territorialité médiatique au XIXe siècle"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

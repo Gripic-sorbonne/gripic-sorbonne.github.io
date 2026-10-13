@@ -1,5 +1,5 @@
 ---
-uuid: 45ab27af-dfe6-40ce-8580-1bc617d825af
+uuid: b6317379-83ab-4750-ba3c-e672a37c9f9c
 title: "Les animaux en ethnographie. Quelles méthodes d'enquêtes, quelles postures éthiques ?"
 author: "Corbillé, Sophie, Fantin, Emmanuelle"
 authors: "Corbillé, Sophie, Fantin, Emmanuelle"

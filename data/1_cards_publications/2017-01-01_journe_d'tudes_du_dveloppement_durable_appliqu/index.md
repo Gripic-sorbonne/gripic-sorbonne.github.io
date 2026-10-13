@@ -1,5 +1,5 @@
 ---
-uuid: 8fae05db-f4bc-4606-ab3d-42764181ff10
+uuid: 0e5990d2-99eb-4949-a918-cba1edf3753d
 title: "Journée d'études DU Développement Durable Appliqué"
 author: "Allard-Huver, Fran cois"
 authors: "Allard-Huver, Fran cois"

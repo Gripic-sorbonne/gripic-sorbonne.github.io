@@ -1,5 +1,5 @@
 ---
-uuid: f1847e95-337d-447c-942b-cbf6f2eb90b9
+uuid: ff32f0d4-0239-492d-ba21-a7ce18ae4adc
 title: "3e colloque spécialisé en sciences de l'information (COSSI),"
 author: "Papy, Fabrice, Leblond, Corinne"
 authors: "Papy, Fabrice, Leblond, Corinne"

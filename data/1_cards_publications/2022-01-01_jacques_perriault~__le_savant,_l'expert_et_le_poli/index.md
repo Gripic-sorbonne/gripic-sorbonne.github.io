@@ -1,5 +1,5 @@
 ---
-uuid: 5df9837b-5cd2-4f0d-aae8-d49864d1b25a
+uuid: ef0dfe2e-3e59-4d02-b31b-5d827429f4c5
 title: "Jacques Perriault~: le savant, l'expert et le politique"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

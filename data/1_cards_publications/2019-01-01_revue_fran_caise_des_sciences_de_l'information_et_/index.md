@@ -1,5 +1,5 @@
 ---
-uuid: 94246887-a69c-4e59-9178-49ae1012a100
+uuid: 2995ecbf-b138-4cec-b4bd-44233e828c52
 title: "Revue fran caise des sciences de l'information et de la communication"
 author: "Bolz, Lisa"
 authors: "Bolz, Lisa"

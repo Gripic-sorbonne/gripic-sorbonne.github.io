@@ -1,5 +1,5 @@
 ---
-uuid: 3f16f077-3d8d-41ef-8cbd-b8265e415a04
+uuid: 26474b60-f6a7-40dd-8662-a2a0717b6222
 title: "Doctorales 2024 de la Société fran caise des sciences de l'information  et de la communication"
 author: "Atteleyn, Priscille-Laëta"
 authors: "Atteleyn, Priscille-Laëta"

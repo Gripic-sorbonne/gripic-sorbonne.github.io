@@ -1,5 +1,5 @@
 ---
-uuid: f9f01acb-61c0-4283-98e7-5bfa9e51a5af
+uuid: c6bce44d-c5d3-494d-9fcf-951776c25d4c
 title: "Actes du 17e Congrès de la SFSIC"
 author: "Marti, Caroline, Berthelot-Guiet, Karine"
 authors: "Marti, Caroline, Berthelot-Guiet, Karine"

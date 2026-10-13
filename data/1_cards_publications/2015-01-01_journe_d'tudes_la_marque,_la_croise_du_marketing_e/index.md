@@ -1,5 +1,5 @@
 ---
-uuid: b81919f4-a9fd-40df-97fb-011c750f1a44
+uuid: 5b47e157-390a-420d-92c8-fd003aa652ad
 title: "Journée d'études La marque, à la croisée du marketing et de la communication"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

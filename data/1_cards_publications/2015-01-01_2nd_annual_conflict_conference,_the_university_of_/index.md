@@ -1,5 +1,5 @@
 ---
-uuid: 69310095-eec1-46f5-bb41-d13142883390
+uuid: 1a341dd5-4e41-4855-9c2d-a55ed17e9532
 title: "2nd Annual Conflict Conference, The University of Texas at Austin,"
 author: "Allard-Huver, Fran cois"
 authors: "Allard-Huver, Fran cois"

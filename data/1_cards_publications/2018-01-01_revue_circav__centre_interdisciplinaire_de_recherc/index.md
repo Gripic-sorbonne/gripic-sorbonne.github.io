@@ -1,5 +1,5 @@
 ---
-uuid: 391f6b01-1be8-4fc6-af6a-0ced5a9e4e49
+uuid: a33af5fa-6c96-4888-9d13-6a046ecd6260
 title: "Revue CIRCAV (Centre interdisciplinaire de recherche sur la communication audio-visuelle)"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

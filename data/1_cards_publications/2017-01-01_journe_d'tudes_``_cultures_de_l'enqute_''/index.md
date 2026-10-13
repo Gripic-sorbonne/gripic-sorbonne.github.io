@@ -1,5 +1,5 @@
 ---
-uuid: b0ecaebd-f4f1-4876-ab5b-ef70fa5f3398
+uuid: 78f29177-6989-4cac-9248-2aad20d50576
 title: "journée d'études `` Cultures de l'enquête ''"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

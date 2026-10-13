@@ -1,5 +1,5 @@
 ---
-uuid: 8ca74479-c2c1-43a2-a551-778ffb7696e9
+uuid: b3daaad6-c47e-43ad-99bb-d7f8cd9eb2db
 title: "La mise en scène ou l'art du dévoilement chez Barbey d'Aurevilly"
 author: "AIM, Olivier"
 authors: "AIM, Olivier"
