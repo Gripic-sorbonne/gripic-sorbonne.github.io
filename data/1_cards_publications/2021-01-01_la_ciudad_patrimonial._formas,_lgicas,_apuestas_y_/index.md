@@ -1,5 +1,5 @@
 ---
-uuid: 769d614a-99ef-4263-b3f8-a89db7aff4b2
+uuid: 47415e03-ab41-4bc4-94a8-ccf659952ff1
 title: "La ciudad patrimonial. Formas, lógicas, apuestas y estrategias, sous la dir. de C. de Saint-Pierre"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

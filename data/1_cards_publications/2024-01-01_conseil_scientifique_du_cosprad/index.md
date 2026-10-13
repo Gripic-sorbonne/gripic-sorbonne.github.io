@@ -1,5 +1,5 @@
 ---
-uuid: adbaafe6-a9ca-4473-84ee-0f5e3c7d67ee
+uuid: ae99c8de-c29c-48a7-a9df-f87fd2ead6b0
 title: "Conseil scientifique du COSPRAD"
 author: "Renaut, Laurène, Thomas, Dominique"
 authors: "Renaut, Laurène, Thomas, Dominique"

@@ -1,5 +1,5 @@
 ---
-uuid: 183851ea-01a6-45b6-8786-8b33f5aff6e9
+uuid: f606a51f-3644-4852-81f1-1ee0287e7e54
 title: "séminaire de Fran cois Jost Médias et société"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

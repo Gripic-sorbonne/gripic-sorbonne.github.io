@@ -1,5 +1,5 @@
 ---
-uuid: fd161091-437a-4bf1-874b-63ad2c91994c
+uuid: 39c8971f-69ad-4dd7-9109-343098cc3347
 title: "All models are wrong and most are harmful. Part 1. Unsustainable economic institutions"
 author: "Ecrement, Vanille"
 authors: "Ecrement, Vanille"

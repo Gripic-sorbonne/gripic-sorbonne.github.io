@@ -1,5 +1,5 @@
 ---
-uuid: 8d0709cf-de92-4f6a-8341-0e064f7384d9
+uuid: 14a86f77-877f-4e28-89d4-ce969bfa11f7
 title: "Nuit debout, et maintenant ? Médias et (im)médiations"
 author: "Tassel, Julien, Charbonneaux, Juliette"
 authors: "Tassel, Julien, Charbonneaux, Juliette"

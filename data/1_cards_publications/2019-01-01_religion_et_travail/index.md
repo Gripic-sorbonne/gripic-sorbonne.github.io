@@ -1,5 +1,5 @@
 ---
-uuid: d1f48137-cd86-4685-95f4-c124483e4076
+uuid: 7ec560c0-0f6e-4517-87d5-46ee3f733c1e
 title: "Religion et travail"
 author: "de Galembert, Claire, Tassel, Julien"
 authors: "de Galembert, Claire, Tassel, Julien"

@@ -1,5 +1,5 @@
 ---
-uuid: 3957390f-337e-4191-b7c4-a5ba5fdbee3d
+uuid: b2e2ee5a-7c7a-48a6-8a13-0763617823d4
 title: "Captation, circulation et effets des images de guerres, conflits et émeutes"
 author: "Mariau, Berenice, Raymond, Lucie"
 authors: "Mariau, Berenice, Raymond, Lucie"

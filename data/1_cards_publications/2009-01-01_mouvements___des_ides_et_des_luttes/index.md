@@ -1,5 +1,5 @@
 ---
-uuid: e5352455-8811-41fa-9661-11a44599bff6
+uuid: 20793395-1083-4b95-85f4-ce6c93a92f5e
 title: "Mouvements : des idées et des luttes"
 author: "AIM, Olivier"
 authors: "AIM, Olivier"

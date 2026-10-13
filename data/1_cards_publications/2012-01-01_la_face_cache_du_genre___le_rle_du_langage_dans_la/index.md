@@ -1,5 +1,5 @@
 ---
-uuid: 39504315-8e97-446d-b3d7-b5aa086221df
+uuid: 36d44e72-b629-4840-9b61-5083c7ec59b5
 title: "La face cachée du genre : le rôle du langage dans la transmission et la contestation des normes"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

@@ -1,5 +1,5 @@
 ---
-uuid: 846dc307-ca6e-4124-ba47-24e120a79630
+uuid: 485a2a05-4f66-4087-84ff-9b923696e5b7
 title: "`` Sensorialités '', Colloque Interactions Multimodales par ECrans organisé par le laboratoire ICAR-CNRS, Université de Lyon."
 author: "Garmon, Inès"
 authors: "Garmon, Inès"

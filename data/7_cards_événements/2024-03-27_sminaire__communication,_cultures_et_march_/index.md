@@ -1,5 +1,5 @@
 ---
-uuid: 5bbbd458-b79f-4547-93e3-0603b647bc79
+uuid: 8d80b246-c542-41d7-8df6-119991b40d07
 title: "Séminaire \"Communication, cultures et marché\""
 author: "Caroline Marti"
 date: "2024-03-27"

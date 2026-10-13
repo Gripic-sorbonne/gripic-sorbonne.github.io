@@ -1,5 +1,5 @@
 ---
-uuid: 6675596b-f4a5-4e2f-8fcd-76c0fa51f6d3
+uuid: 083fe56c-27f7-42e8-9d49-9eebd222c814
 title: "Communication, Technologies et Développement"
 author: "Petit, Laurent"
 authors: "Petit, Laurent"

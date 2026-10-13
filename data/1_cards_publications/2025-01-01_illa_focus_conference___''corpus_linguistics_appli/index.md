@@ -1,5 +1,5 @@
 ---
-uuid: e30441a7-2f2a-4990-9f82-4712016e2f33
+uuid: 3b7a8d0b-f554-4143-a81d-038ba918a6e2
 title: "ILLA Focus Conference : ''Corpus linguistics applied to extremist narratives: what are the implications for cybercrime analysis?''"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

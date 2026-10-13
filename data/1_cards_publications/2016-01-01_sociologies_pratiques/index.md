@@ -1,5 +1,5 @@
 ---
-uuid: 81317143-b97d-47df-8823-ef33b13f54e5
+uuid: 6c9b7218-e672-4d5c-8792-b1b9d8d92181
 title: "Sociologies pratiques"
 author: "Robert-Tanguy, Philippe"
 authors: "Robert-Tanguy, Philippe"

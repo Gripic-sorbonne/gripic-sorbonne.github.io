@@ -1,5 +1,5 @@
 ---
-uuid: f413aa7f-d675-40a0-a7ae-b764d61b412c
+uuid: 0c2dbdc0-3cee-48b7-9573-75d2cbd57803
 title: "Soutenance de thèse Mathilde Vassor"
 author: "Etienne Candel - Gripic"
 date: "2023-10-11"

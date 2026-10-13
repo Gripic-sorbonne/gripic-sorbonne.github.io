@@ -1,5 +1,5 @@
 ---
-uuid: c289d668-1bd8-4b35-97a4-bdd2a2c25750
+uuid: 59535e22-0c5a-4bcf-97c0-247cbf88b7fd
 title: "Mutations contemporaines des musées : un espace public à revisiter ?"
 author: "Marti, Caroline"
 authors: "Marti, Caroline"

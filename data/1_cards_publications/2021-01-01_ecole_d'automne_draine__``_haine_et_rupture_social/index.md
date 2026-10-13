@@ -1,5 +1,5 @@
 ---
-uuid: e653f769-5e3d-4e4c-8fd9-7058bf1a8610
+uuid: 682f18e3-5781-4a12-8016-433b568d2595
 title: "Ecole d'automne DRAINE (`` Haine et rupture sociale : discours et performativité '') : `` Discours de haine, discriminations et inégalités ''"
 author: "Baider, Fabienne, Renaut, Laurène, Sini, Lorella"
 authors: "Baider, Fabienne, Renaut, Laurène, Sini, Lorella"

@@ -1,5 +1,5 @@
 ---
-uuid: 1fad2c93-a36e-4c66-9124-611e2ceac68a
+uuid: f026c9c4-79aa-4bdf-a4e8-f426aaad989f
 title: "Biennales d'Ethnographie de l'EHESS 2024"
 author: "Gaillard, Julien"
 authors: "Gaillard, Julien"

@@ -1,5 +1,5 @@
 ---
-uuid: 141f4e0a-fb97-4d17-b5c5-16708d0cb025
+uuid: 53de312a-2d5f-440e-ae24-4c16c0fb10a3
 title: "Colloque international Raymond Queneau, Centenaire de la naissance de Raymond Queneau, Le mystère des origines"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

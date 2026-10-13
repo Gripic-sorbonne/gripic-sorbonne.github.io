@@ -1,5 +1,5 @@
 ---
-uuid: 8b875f5a-1e12-4589-bffa-68808863df33
+uuid: 70281c76-b613-47ba-9f21-e05ecac5c42f
 title: "Espaces, Tourismes et Loisirs"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

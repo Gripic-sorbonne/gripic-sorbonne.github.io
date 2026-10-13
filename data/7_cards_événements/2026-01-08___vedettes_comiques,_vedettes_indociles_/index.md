@@ -1,5 +1,5 @@
 ---
-uuid: f313675a-5894-4ced-96da-c1dec1d3eca2
+uuid: bc9b7b2d-2ee9-4c14-80cb-d36562ff861d
 title: "\" Vedettes comiques, vedettes indociles\""
 author: "Nelly Quemener"
 date: "2026-01-08"
