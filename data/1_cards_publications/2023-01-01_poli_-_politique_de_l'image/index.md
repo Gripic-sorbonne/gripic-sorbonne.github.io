@@ -1,5 +1,5 @@
 ---
-uuid: 6af7d3f8-5e73-4e3e-b098-d127150931ff
+uuid: df0aa1d2-2554-4ecd-bcc6-824831ee2e8b
 title: "Poli - Politique de l'Image"
 author: "Verquere, Laura"
 authors: "Verquere, Laura"

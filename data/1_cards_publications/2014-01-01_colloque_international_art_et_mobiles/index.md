@@ -1,5 +1,5 @@
 ---
-uuid: 314c820d-52b5-490c-9306-8e6e49dcbda1
+uuid: 56efbbb0-47d0-4b8c-a483-973e87751dc5
 title: "Colloque international Art et Mobiles"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

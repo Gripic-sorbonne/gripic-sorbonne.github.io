@@ -1,5 +1,5 @@
 ---
-uuid: b2861a0c-b3fe-44c1-8ee8-6565e944f5fc
+uuid: e29356b8-c1a7-4617-8051-730c6f9c91a2
 title: "L'éducation aux médias et à l'information au prisme de formes et écritures médiatiques renouvelées"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

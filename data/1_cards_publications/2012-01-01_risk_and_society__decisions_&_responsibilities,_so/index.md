@@ -1,5 +1,5 @@
 ---
-uuid: e3f28893-f803-4dfc-b17c-4087bb09bcd1
+uuid: 90df19c7-c9d8-41fa-8ff6-ccd1099bfb8f
 title: "Risk and Society: Decisions & Responsibilities, Society for Risk Analysis-Europe 21st Annual Conference, ETH, Zurich"
 author: "Allard-Huver, Fran cois"
 authors: "Allard-Huver, Fran cois"

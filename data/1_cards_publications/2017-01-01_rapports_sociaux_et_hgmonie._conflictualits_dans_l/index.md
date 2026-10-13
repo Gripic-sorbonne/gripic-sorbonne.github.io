@@ -1,5 +1,5 @@
 ---
-uuid: b6863578-3428-49a4-b00a-78a72ca40d39
+uuid: 5c98a61f-0949-4941-81a3-05b6da4c7b47
 title: "Rapports sociaux et hégémonie. Conflictualités dans les espaces publics (2)"
 author: "Dalibert, Marion, Lamy, Aurélia, Quemener, Nelly"
 authors: "Dalibert, Marion, Lamy, Aurélia, Quemener, Nelly"

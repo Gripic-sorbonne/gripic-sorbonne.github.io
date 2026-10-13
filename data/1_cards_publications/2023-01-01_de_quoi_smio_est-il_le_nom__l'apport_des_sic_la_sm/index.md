@@ -1,5 +1,5 @@
 ---
-uuid: 6c0f62c4-a383-4baa-9a68-97dacb02bab5
+uuid: 3e7ce007-9dee-45fd-aad6-aa990e633252
 title: "De quoi sémio est-il le nom? L'apport des SIC à la sémiotique"
 author: "Marti, Caroline, Patrin-Leclère, Valérie"
 authors: "Marti, Caroline, Patrin-Leclère, Valérie"

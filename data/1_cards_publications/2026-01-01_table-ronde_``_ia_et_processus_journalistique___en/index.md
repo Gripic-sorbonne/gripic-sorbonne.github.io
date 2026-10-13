@@ -1,5 +1,5 @@
 ---
-uuid: e9eced7a-9a8d-4c6e-9d70-4e0bb24ec822
+uuid: 4ede8e06-a51e-4d36-ac7b-827ddfcee8df
 title: "Table-ronde `` IA et processus journalistique : enjeux et défis pédagogiques ''"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

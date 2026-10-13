@@ -1,5 +1,5 @@
 ---
-uuid: c667caa5-b9af-4bd9-99f2-0d53561ca000
+uuid: b360eabf-1dec-494a-a449-43b3b144d19e
 title: "Journée d'étude doctorale"
 author: "Comité d'organisation JE doctorale"
 date: "2025-06-03"

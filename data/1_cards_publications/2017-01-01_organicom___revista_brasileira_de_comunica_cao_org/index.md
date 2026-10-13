@@ -1,5 +1,5 @@
 ---
-uuid: 1e87fc91-55b1-4224-8c70-d7b060a37aa8
+uuid: 62c11b79-3b97-4041-9ba6-69f30b6e5a8c
 title: "Organicom : revista brasileira de comunica cao organizacional e rela cões públicas"
 author: "D'Almeida, nicole, Santos, Larissa"
 authors: "D'Almeida, nicole, Santos, Larissa"

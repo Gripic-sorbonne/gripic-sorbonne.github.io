@@ -1,5 +1,5 @@
 ---
-uuid: d7537817-3b0a-4427-bc0f-01cc8e9678dd
+uuid: cf7ae50d-b7ff-497f-92c0-95435119c7bc
 title: "L'école numérique"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

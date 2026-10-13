@@ -1,5 +1,5 @@
 ---
-uuid: 55eb08ae-65a9-4f8a-99ec-d811514b601c
+uuid: d5c0cba1-85d9-4bb9-8ed7-1788a36cbdf7
 title: "Paris, capitale médiatique"
 author: "Charbonneaux, Juliette, Bolz, Lisa"
 authors: "Charbonneaux, Juliette, Bolz, Lisa"

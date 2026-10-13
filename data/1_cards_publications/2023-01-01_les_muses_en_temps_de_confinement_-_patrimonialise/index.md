@@ -1,5 +1,5 @@
 ---
-uuid: 0bcb6dfe-7380-4816-9664-3288492ce6c2
+uuid: f4f0f2de-4102-494f-9682-af82b9e54d8d
 title: "Les musées en temps de confinement - Patrimonialiser un savoir sur la crise ? OCIM, CELSA, OPUS (Sorbonne Université)"
 author: "AIM, Olivier, Le Marec, Joëlle"
 authors: "AIM, Olivier, Le Marec, Joëlle"

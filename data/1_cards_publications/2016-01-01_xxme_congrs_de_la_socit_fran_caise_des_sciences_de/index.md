@@ -1,5 +1,5 @@
 ---
-uuid: 8a0b4dbf-6caf-462f-9f8c-13275b059ce7
+uuid: dfe241ef-9322-497a-b2f1-d1a1d3721a73
 title: "XXème Congrès de la Société Fran caise des Sciences de l'Information et de la Communication (SFSIC)."
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

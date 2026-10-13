@@ -1,5 +1,5 @@
 ---
-uuid: 1f85d770-ce4b-4981-bff2-c90ffc0d2dcd
+uuid: ba2c4dc4-5f79-41c4-b834-48944f2dd1ff
 title: "Communication & professionalisation"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

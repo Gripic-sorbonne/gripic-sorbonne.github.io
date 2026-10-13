@@ -1,5 +1,5 @@
 ---
-uuid: 74a10f65-c5a0-4ed1-9425-be83277d2df5
+uuid: fa0ccf80-6552-4185-bf7c-b9f5406ec841
 title: "XXIIe Congrès international des sociologues de langue fran caise, Sciences, savoirs et société"
 author: "Reille, Coline"
 authors: "Reille, Coline"

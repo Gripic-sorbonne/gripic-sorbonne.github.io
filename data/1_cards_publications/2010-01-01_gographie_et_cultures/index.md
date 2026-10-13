@@ -1,5 +1,5 @@
 ---
-uuid: 09bd8eb3-84d0-464c-8393-36fadf0eb0cc
+uuid: fe5c657e-e9d0-4cd3-a423-d7d45c98ce4b
 title: "Géographie et cultures"
 author: "Quemener, Nelly, Weaver, Simone"
 authors: "Quemener, Nelly, Weaver, Simone"

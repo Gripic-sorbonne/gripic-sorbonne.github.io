@@ -1,5 +1,5 @@
 ---
-uuid: b2a31bef-9f78-44b3-a22c-2bfe4fa6c89e
+uuid: 66da0bfc-3c72-4652-89c0-0ddd10370cf9
 title: "Ces violences systémiques qui nous échappent : les identifier, les qualifier, les dénoncer"
 author: "Raymond, Lucie, Bourgatte, Michael, Mariau, Berenice, Rony, Gaëlle"
 authors: "Raymond, Lucie, Bourgatte, Michael, Mariau, Berenice, Rony, Gaëlle"

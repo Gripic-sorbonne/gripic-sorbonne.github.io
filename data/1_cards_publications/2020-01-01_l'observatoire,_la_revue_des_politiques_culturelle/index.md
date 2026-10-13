@@ -1,5 +1,5 @@
 ---
-uuid: c328fefe-c2bd-48c4-9ec1-da53be391567
+uuid: f2666d22-d167-48a1-b438-285155fa01b8
 title: "L'Observatoire, la revue des politiques culturelles"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

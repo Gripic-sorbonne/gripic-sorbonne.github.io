@@ -1,5 +1,5 @@
 ---
-uuid: 9cef967f-a5e7-44d0-b283-3b867784cf9a
+uuid: 0bf14531-c555-4e92-a5e5-b3a2a71e5603
 title: "Écrire la crise. Poétique d'un être médiatique"
 author: "de Montety, Caroline, Souchier, Emmanuël"
 authors: "de Montety, Caroline, Souchier, Emmanuël"

@@ -1,5 +1,5 @@
 ---
-uuid: 99f1c569-3311-4214-a51f-8ebc2de07ff7
+uuid: 4ee3bc2f-293f-4e5a-b036-c141c3b499bf
 title: "R. Queneau, Traité des vertus démocratiques"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

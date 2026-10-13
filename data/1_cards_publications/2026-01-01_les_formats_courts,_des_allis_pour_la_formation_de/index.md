@@ -1,5 +1,5 @@
 ---
-uuid: 02fa0161-6b2e-46cd-9374-a92847b9ecac
+uuid: dfd26637-ada7-4158-9ad5-38ef70015603
 title: "Les formats courts, des alliés pour la formation de l'esprit critique ?"
 author: "Escande, Pauline, Barbier, Charlotte, Kuster, Guillaume, Pourquier-Jacquin, Stéphanie, Teyssou, Denis"
 authors: "Escande, Pauline, Barbier, Charlotte, Kuster, Guillaume, Pourquier-Jacquin, Stéphanie, Teyssou, Denis"

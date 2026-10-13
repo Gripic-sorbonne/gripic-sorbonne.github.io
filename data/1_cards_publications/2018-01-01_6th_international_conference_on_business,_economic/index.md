@@ -1,5 +1,5 @@
 ---
-uuid: f26c11f0-f6b3-4737-9c89-8fe443c94e7c
+uuid: 6b8ad121-cba8-44b5-a5f3-210115949c9c
 title: "6th International Conference on business, economics, marketing and management research"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

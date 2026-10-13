@@ -1,5 +1,5 @@
 ---
-uuid: a7dbbbcc-4e60-4dce-a7fa-d84fb81b3158
+uuid: 6175b0c0-75bc-4b50-95ef-e636afb7df5a
 title: "Problèmes Politiques et Sociaux - Articles et Documents d'Actualité Mondiale"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"
