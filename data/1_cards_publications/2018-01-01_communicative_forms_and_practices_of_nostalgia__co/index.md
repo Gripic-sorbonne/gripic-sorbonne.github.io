@@ -1,14 +1,14 @@
 ---
-uuid: 6e4f34ea-b86d-466c-bd10-523d1ec35822
-title: "‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives’"
-author: "Emmanuelle Fantin"
-authors: "Emmanuelle Fantin"
-abstract: "Emmanuelle Fantin"
+uuid: 88c7a422-d4b3-4853-8338-789624577d1b
+title: "‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives'"
+author: "Fantin, Emmanuelle"
+authors: "Fantin, Emmanuelle"
+abstract: "Fantin, Emmanuelle"
 date: "2018-01-01"
 year: "2018"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03964059"
-publisher: "International Media and Nostalgia Network Conference"
+publisher: "‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives'"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuelle Fantin
-- **Type de publication:** paper-conference
-- **Éditeur:** International Media and Nostalgia Network Conference
+- **Auteurs:** Fantin, Emmanuelle
+- **Type de publication:** inproceedings
+- **Éditeur:** ‘Communicative forms and practices of nostalgia: conceptual, critical and historical perspectives'
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964059](https://hal.science/hal-03964059)
 

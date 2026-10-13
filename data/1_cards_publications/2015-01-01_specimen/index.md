@@ -1,12 +1,12 @@
 ---
-uuid: c4958250-4a2f-4a13-ab86-8dd703d01127
+uuid: ec61b062-d6b4-48a0-a127-1fd8dabbb52a
 title: "Specimen"
-author: "Olivier AÏM, Pauline Escande"
-authors: "Olivier AÏM, Pauline Escande"
-abstract: "Olivier AÏM, Pauline Escande"
+author: "A\\"IM, Olivier, Escande, Pauline"
+authors: "A\\"IM, Olivier, Escande, Pauline"
+abstract: "A\\"IM, Olivier, Escande, Pauline"
 date: "2015-01-01"
 year: "2015"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03750852"
 publisher: "Zone"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Olivier AÏM, Pauline Escande
-- **Type de publication:** article-journal
+- **Auteurs:** A\"IM, Olivier, Escande, Pauline
+- **Type de publication:** article
 - **Éditeur:** Zone
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750852](https://hal.science/hal-03750852)
 

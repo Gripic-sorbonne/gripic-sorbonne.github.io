@@ -1,14 +1,14 @@
 ---
-uuid: 0d81a3d3-f08f-4752-a856-cd9b57c099d3
+uuid: 71cc1850-cbe3-4e6f-92bf-7b98cf349dd6
 title: "Le best-seller"
-author: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
-authors: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
-abstract: "Marie-Ève Thérenty, Michel Murat, Adeline Wrona"
+author: "Th\'erenty, Marie-\`Eve, Murat, Michel, Wrona, Adeline"
+authors: "Th\'erenty, Marie-\`Eve, Murat, Michel, Wrona, Adeline"
+abstract: "Th\'erenty, Marie-\`Eve, Murat, Michel, Wrona, Adeline"
 date: "2017-01-01"
 year: "2017"
-type: ""
+type: "misc"
 url: "https://univ-montpellier3-paul-valery.hal.science/hal-04472131"
-publisher: "Ghent University &amp; Ecole Normale Supérieure"
+publisher: "Ghent University \&amp; Ecole Normale Sup\'erieure"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marie-Ève Thérenty, Michel Murat, Adeline Wrona
-- **Éditeur:** Ghent University &amp; Ecole Normale Supérieure
+- **Auteurs:** Th\'erenty, Marie-\`Eve, Murat, Michel, Wrona, Adeline
+- **Type de publication:** misc
+- **Éditeur:** Ghent University \&amp; Ecole Normale Sup\'erieure
 - 🔗 **Lien HAL / Publication:** [https://univ-montpellier3-paul-valery.hal.science/hal-04472131](https://univ-montpellier3-paul-valery.hal.science/hal-04472131)
 

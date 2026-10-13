@@ -1,12 +1,12 @@
 ---
-uuid: 90e4d312-bcc6-4b01-9819-4d5c3925d6eb
+uuid: 24f2e996-69a5-4da7-abfd-c07b7ed2cb8e
 title: "Etudes digitales"
-author: "Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty"
-authors: "Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty"
-abstract: "Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty"
+author: "Souchier, Emmanu\\"el, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent"
+authors: "Souchier, Emmanu\\"el, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent"
+abstract: "Souchier, Emmanu\\"el, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent"
 date: "2016-01-01"
 year: "2016"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03760620"
 publisher: "Classiques Garnier"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier, Franck Cormerais, Jacques Athanase Gilbert, Laurent Loty
-- **Type de publication:** article-journal
+- **Auteurs:** Souchier, Emmanu\"el, Cormerais, Franck, Gilbert, Jacques Athanase, Loty, Laurent
+- **Type de publication:** article
 - **Éditeur:** Classiques Garnier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760620](https://hal.science/hal-03760620)
 

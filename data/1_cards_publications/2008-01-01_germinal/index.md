@@ -1,9 +1,9 @@
 ---
-uuid: 7c5fafab-8a17-4ee4-af40-42ea940a8b46
+uuid: f70c98df-72c4-4915-9e56-efa2af916250
 title: "Germinal"
-author: "Adeline Wrona"
-authors: "Adeline Wrona"
-abstract: "Adeline Wrona"
+author: "Wrona, Adeline"
+authors: "Wrona, Adeline"
+abstract: "Wrona, Adeline"
 date: "2008-01-01"
 year: "2008"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Adeline Wrona
+- **Auteurs:** Wrona, Adeline
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767154](https://hal.science/hal-03767154)
 

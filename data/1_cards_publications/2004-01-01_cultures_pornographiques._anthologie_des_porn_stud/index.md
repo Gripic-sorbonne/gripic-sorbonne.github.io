@@ -1,14 +1,14 @@
 ---
-uuid: 66c06cad-4d54-4e9b-b999-576dd487550d
+uuid: 52fd8f2b-68bd-41c2-bee2-622f9b69423e
 title: "Cultures pornographiques. Anthologie des Porn Studies"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2004-01-01"
 year: "2004"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03758667"
-publisher: ""
+publisher: "Cultures pornographiques. Anthologie des Porn Studies"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** article-journal
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** article
+- **Éditeur:** Cultures pornographiques. Anthologie des Porn Studies
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758667](https://hal.science/hal-03758667)
 

@@ -1,9 +1,9 @@
 ---
-uuid: 807f8a95-3860-4207-84b9-be8e304d03a8
+uuid: 717b3241-bfa3-4d7e-b16f-1b5614516b95
 title: "Bel-Ami"
-author: "Adeline Wrona, Guy Maupassant"
-authors: "Adeline Wrona, Guy Maupassant"
-abstract: "Adeline Wrona, Guy Maupassant"
+author: "Wrona, Adeline, de Maupassant, Guy"
+authors: "Wrona, Adeline, de Maupassant, Guy"
+abstract: "Wrona, Adeline, de Maupassant, Guy"
 date: "2008-01-01"
 year: "2008"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Adeline Wrona, Guy Maupassant
+- **Auteurs:** Wrona, Adeline, de Maupassant, Guy
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767160](https://hal.science/hal-03767160)
 

@@ -1,12 +1,12 @@
 ---
-uuid: ffbf344a-435d-46eb-8ce9-b04df7c2c8be
+uuid: 9f13c11d-8b4b-47ae-8d8c-3863210aa01c
 title: "Le Dessous des Marques"
-author: "Pascaline Faure"
-authors: "Pascaline Faure"
-abstract: "Pascaline Faure"
+author: "Faure, Pascaline"
+authors: "Faure, Pascaline"
+abstract: "Faure, Pascaline"
 date: "2025-01-01"
 year: "2025"
-type: "chapter"
+type: "incollection"
 url: "https://hal.sorbonne-universite.fr/hal-04949639"
 publisher: "ELLIPSES"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pascaline Faure
-- **Type de publication:** chapter
+- **Auteurs:** Faure, Pascaline
+- **Type de publication:** incollection
 - **Éditeur:** ELLIPSES
 - 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-04949639](https://hal.sorbonne-universite.fr/hal-04949639)
 

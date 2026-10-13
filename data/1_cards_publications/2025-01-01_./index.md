@@ -1,9 +1,9 @@
 ---
-uuid: 1a0daed7-7313-4ada-afe4-f9206cd335a9
+uuid: 7508ecbe-8db8-4ce7-a459-036d25235c09
 title: "."
-author: "Caroline Marti, Camille Rondot"
-authors: "Caroline Marti, Camille Rondot"
-abstract: "Caroline Marti, Camille Rondot"
+author: "Marti, Caroline, Rondot, Camille"
+authors: "Marti, Caroline, Rondot, Camille"
+abstract: "Marti, Caroline, Rondot, Camille"
 date: "2025-01-01"
 year: "2025"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Caroline Marti, Camille Rondot
+- **Auteurs:** Marti, Caroline, Rondot, Camille
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05523087](https://hal.science/hal-05523087)
 

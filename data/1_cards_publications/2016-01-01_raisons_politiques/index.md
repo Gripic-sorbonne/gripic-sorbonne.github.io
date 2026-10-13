@@ -1,12 +1,12 @@
 ---
-uuid: 3ec43e69-d4a3-4964-816c-29a629bd04c1
+uuid: 602826c4-8c03-4c6c-ab48-2de330c44ecb
 title: "Raisons politiques"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2016-01-01"
 year: "2016"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03758589"
 publisher: "Presses de Sciences Po"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** article-journal
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** article
 - **Éditeur:** Presses de Sciences Po
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758589](https://hal.science/hal-03758589)
 

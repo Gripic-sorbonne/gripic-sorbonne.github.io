@@ -1,12 +1,12 @@
 ---
-uuid: ff224232-32f1-4850-a627-c044f24d8417
+uuid: 369b73c4-51b8-47e4-b3dd-98373568bc81
 title: "Foodporn"
-author: "Lisa Bolz, Marine Siguier"
-authors: "Lisa Bolz, Marine Siguier"
-abstract: "Lisa Bolz, Marine Siguier"
+author: "Bolz, Lisa, Siguier, Marine"
+authors: "Bolz, Lisa, Siguier, Marine"
+abstract: "Bolz, Lisa, Siguier, Marine"
 date: "2019-01-01"
 year: "2019"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-04955367"
 publisher: ""
 container_title: ""
@@ -17,6 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Lisa Bolz, Marine Siguier
+- **Auteurs:** Bolz, Lisa, Siguier, Marine
+- **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04955367](https://hal.science/hal-04955367)
 

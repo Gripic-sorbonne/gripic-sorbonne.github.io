@@ -1,14 +1,14 @@
 ---
-uuid: e0f019ff-2a4d-4066-aa0a-05675f2ee084
+uuid: 1be56df0-64ba-46dc-9f1c-196bfa2b249c
 title: "American Journalism"
-author: "Clara Bordier"
-authors: "Clara Bordier"
-abstract: "Clara Bordier"
+author: "Bordier, Clara"
+authors: "Bordier, Clara"
+abstract: "Bordier, Clara"
 date: "2023-01-01"
 year: "2023"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-04101192"
-publisher: "Taylor & Francis (Routledge)"
+publisher: "Taylor \& Francis (Routledge)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Clara Bordier
-- **Type de publication:** article-journal
-- **Éditeur:** Taylor & Francis (Routledge)
+- **Auteurs:** Bordier, Clara
+- **Type de publication:** article
+- **Éditeur:** Taylor \& Francis (Routledge)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04101192](https://hal.science/hal-04101192)
 

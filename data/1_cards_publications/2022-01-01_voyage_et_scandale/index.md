@@ -1,12 +1,12 @@
 ---
-uuid: 5e61131f-efbd-4ef3-844b-eb2a548b49f7
+uuid: 3f234d99-56b5-4c35-9049-3857429836bf
 title: "Voyage et Scandale"
-author: "Johanna Cappi"
-authors: "Johanna Cappi"
-abstract: "Johanna Cappi"
+author: "Cappi, Johanna"
+authors: "Cappi, Johanna"
+abstract: "Cappi, Johanna"
 date: "2022-01-01"
 year: "2022"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03773280"
 publisher: "Classiques Garnier"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Johanna Cappi
-- **Type de publication:** chapter
+- **Auteurs:** Cappi, Johanna
+- **Type de publication:** incollection
 - **Éditeur:** Classiques Garnier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773280](https://hal.science/hal-03773280)
 

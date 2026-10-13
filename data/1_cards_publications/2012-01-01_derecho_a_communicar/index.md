@@ -1,14 +1,14 @@
 ---
-uuid: 63ef7828-36ba-447a-bcae-d64183002eed
+uuid: 69f857ef-651e-45eb-abd1-f67547b13adf
 title: "Derecho a Communicar"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2012-01-01"
 year: "2012"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03758625"
-publisher: ""
+publisher: "Derecho a Communicar"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** article-journal
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** article
+- **Éditeur:** Derecho a Communicar
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758625](https://hal.science/hal-03758625)
 

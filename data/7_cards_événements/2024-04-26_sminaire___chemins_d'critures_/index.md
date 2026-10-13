@@ -1,5 +1,5 @@
 ---
-uuid: 38f8f7a1-af67-4700-a2d0-a70e63a9d864
+uuid: 09764684-6055-4dfb-9672-9a503a9b22ea
 title: "Séminaire \" Chemins d'écritures\""
 author: "Emmanuel Souchier - Elsa Tadier- Anne Zali"
 date: "2024-04-26"

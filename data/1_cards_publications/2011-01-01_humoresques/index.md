@@ -1,12 +1,12 @@
 ---
-uuid: 058e359d-831d-4297-b8fb-e9daa362dc20
+uuid: 8d476b9e-838c-4822-98b1-ae0599465614
 title: "Humoresques"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2011-01-01"
 year: "2011"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03758656"
 publisher: "CORHUM-Humoresques"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** article-journal
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** article
 - **Éditeur:** CORHUM-Humoresques
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758656](https://hal.science/hal-03758656)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 61a6e355-488d-402a-9f29-93ad46182db8
+uuid: b07233ed-068c-4244-a609-56fb345c5e6b
 title: "All models are wrong and most are harmful. Part 1. Unsustainable economic institutions"
-author: "Vanille Ecrement"
-authors: "Vanille Ecrement"
-abstract: "Vanille Ecrement"
+author: "Ecrement, Vanille"
+authors: "Ecrement, Vanille"
+abstract: "Ecrement, Vanille"
 date: "2025-01-01"
 year: "2025"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-05037021"
 publisher: ""
 container_title: ""
@@ -17,6 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Vanille Ecrement
+- **Auteurs:** Ecrement, Vanille
+- **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05037021](https://hal.science/hal-05037021)
 

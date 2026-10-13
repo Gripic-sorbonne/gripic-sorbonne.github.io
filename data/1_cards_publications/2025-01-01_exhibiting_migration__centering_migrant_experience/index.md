@@ -1,14 +1,14 @@
 ---
-uuid: d2d88d9b-b4b0-4f71-b629-fae58776626c
+uuid: 69f2c6e5-1be4-4200-865d-470148013f1a
 title: "Exhibiting Migration: Centering Migrant Experiences, Voices, and Perspectives within the Museum"
-author: "Emmanuelle Fantin"
-authors: "Emmanuelle Fantin"
-abstract: "Emmanuelle Fantin"
+author: "Fantin, Emmanuelle"
+authors: "Fantin, Emmanuelle"
+abstract: "Fantin, Emmanuelle"
 date: "2025-01-01"
 year: "2025"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-04865479"
-publisher: ""
+publisher: "Exhibiting Migration: Centering Migrant Experiences, Voices, and Perspectives within the Museum"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuelle Fantin
-- **Type de publication:** chapter
+- **Auteurs:** Fantin, Emmanuelle
+- **Type de publication:** incollection
+- **Éditeur:** Exhibiting Migration: Centering Migrant Experiences, Voices, and Perspectives within the Museum
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04865479](https://hal.science/hal-04865479)
 

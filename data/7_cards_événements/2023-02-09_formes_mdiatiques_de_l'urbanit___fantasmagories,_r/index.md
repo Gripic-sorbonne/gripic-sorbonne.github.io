@@ -1,5 +1,5 @@
 ---
-uuid: 71a98dca-edb9-47b9-81d4-492154c08422
+uuid: 1df34072-d17b-4d24-96cd-6eac653d6020
 title: "Formes médiatiques de l'urbanité : fantasmagories, résistances, réenchantement"
 author: "Sophie Corbillé- François Provenzano"
 date: "2023-02-09"

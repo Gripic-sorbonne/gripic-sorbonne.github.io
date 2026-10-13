@@ -1,14 +1,14 @@
 ---
-uuid: 9956bf65-2361-4276-a12c-3191dd8d25be
+uuid: 998bfd69-e99d-415f-abd1-7b680767a8fb
 title: "Communication et changement"
-author: "nicole D’Almeida"
-authors: "nicole D’Almeida"
-abstract: "nicole D’Almeida"
+author: "D'Almeida, nicole"
+authors: "D'Almeida, nicole"
+abstract: "D'Almeida, nicole"
 date: "2011-01-01"
 year: "2011"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03750039"
-publisher: "L’Harmattan"
+publisher: "L'Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** nicole D’Almeida
-- **Type de publication:** chapter
-- **Éditeur:** L’Harmattan
+- **Auteurs:** D'Almeida, nicole
+- **Type de publication:** incollection
+- **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750039](https://hal.science/hal-03750039)
 

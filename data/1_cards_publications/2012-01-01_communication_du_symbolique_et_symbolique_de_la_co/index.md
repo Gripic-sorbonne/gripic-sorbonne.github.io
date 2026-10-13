@@ -1,14 +1,14 @@
 ---
-uuid: 087bd71a-a996-4e85-a79c-4b51d4431f98
-title: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
-author: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
-authors: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
-abstract: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
+uuid: 25ff14c6-bad2-432a-9ced-7fba4728ae91
+title: "Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes"
+author: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+authors: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+abstract: "A\\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
 date: "2012-01-01"
 year: "2012"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03749710"
-publisher: "ORC IARSIC ESSACHESS"
+publisher: "Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel
-- **Type de publication:** paper-conference
-- **Éditeur:** ORC IARSIC ESSACHESS
+- **Auteurs:** A\"IM, Olivier, Corbill\'e, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien
+- **Type de publication:** inproceedings
+- **Éditeur:** Communication du symbolique et symbolique de la communication dans les soci\'et\'es modernes et postmodernes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749710](https://hal.science/hal-03749710)
 

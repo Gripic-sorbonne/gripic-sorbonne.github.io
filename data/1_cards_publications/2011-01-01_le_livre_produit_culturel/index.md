@@ -1,14 +1,14 @@
 ---
-uuid: b048d1e6-1a54-4318-817e-de3265cbe771
+uuid: 3308e389-cac3-415c-8b68-5bc038188695
 title: "Le livre produit culturel"
-author: "Pauline Escande"
-authors: "Pauline Escande"
-abstract: "Pauline Escande"
+author: "Escande, Pauline"
+authors: "Escande, Pauline"
+abstract: "Escande, Pauline"
 date: "2011-01-01"
 year: "2011"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03750816"
-publisher: ""
+publisher: "Le livre produit culturel"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pauline Escande
-- **Type de publication:** chapter
+- **Auteurs:** Escande, Pauline
+- **Type de publication:** incollection
+- **Éditeur:** Le livre produit culturel
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750816](https://hal.science/hal-03750816)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 0c52cd1a-a24a-4ab3-b371-b0e689efcb71
-title: "3e Colloque International sur les Usages et Services des Télécommunications"
-author: "Emmanuël Souchier, Yves Jeanneret"
-authors: "Emmanuël Souchier, Yves Jeanneret"
-abstract: "Emmanuël Souchier, Yves Jeanneret"
+uuid: 29fed92f-247c-4833-95e4-7d21b177e0b0
+title: "3e Colloque International sur les Usages et Services des T\'el\'ecommunications"
+author: "Souchier, Emmanu\\"el, Jeanneret, Yves"
+authors: "Souchier, Emmanu\\"el, Jeanneret, Yves"
+abstract: "Souchier, Emmanu\\"el, Jeanneret, Yves"
 date: "2001-01-01"
 year: "2001"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03761028"
 publisher: "Icust, Eusages, Paris, Enst - Get"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier, Yves Jeanneret
-- **Type de publication:** chapter
+- **Auteurs:** Souchier, Emmanu\"el, Jeanneret, Yves
+- **Type de publication:** incollection
 - **Éditeur:** Icust, Eusages, Paris, Enst - Get
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761028](https://hal.science/hal-03761028)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 69c48721-e9c2-42e2-bd2d-9e9ef562327e
+uuid: 75c46909-2f88-4e46-9481-40d8cd608acf
 title: "Selfie(s)"
-author: "Pauline Escande"
-authors: "Pauline Escande"
-abstract: "Pauline Escande"
+author: "Escande, Pauline"
+authors: "Escande, Pauline"
+abstract: "Escande, Pauline"
 date: "2018-01-01"
 year: "2018"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03750801"
 publisher: "Editions Hermann"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pauline Escande
-- **Type de publication:** chapter
+- **Auteurs:** Escande, Pauline
+- **Type de publication:** incollection
 - **Éditeur:** Editions Hermann
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750801](https://hal.science/hal-03750801)
 

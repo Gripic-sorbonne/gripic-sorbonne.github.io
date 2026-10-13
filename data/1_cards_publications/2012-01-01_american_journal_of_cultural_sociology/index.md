@@ -1,13 +1,13 @@
 ---
-uuid: cbe8be01-9035-4c71-8325-9e5ddbad24cf
+uuid: c8369816-2799-4895-a637-e07ac530129d
 title: "American Journal of Cultural Sociology"
-author: "Nelly Quemener, Denis-Constant Martin"
-authors: "Nelly Quemener, Denis-Constant Martin"
-abstract: "Nelly Quemener, Denis-Constant Martin"
+author: "Quemener, Nelly, Weaver, Simone"
+authors: "Quemener, Nelly, Weaver, Simone"
+abstract: "Quemener, Nelly, Weaver, Simone"
 date: "2012-01-01"
 year: "2012"
-type: "article-journal"
-url: "https://hal.science/hal-03758736"
+type: "article"
+url: "https://hal.science/hal-03758731"
 publisher: "Springer"
 container_title: ""
 publication: true
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener, Denis-Constant Martin
-- **Type de publication:** article-journal
+- **Auteurs:** Quemener, Nelly, Weaver, Simone
+- **Type de publication:** article
 - **Éditeur:** Springer
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758736](https://hal.science/hal-03758736)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758731](https://hal.science/hal-03758731)
 

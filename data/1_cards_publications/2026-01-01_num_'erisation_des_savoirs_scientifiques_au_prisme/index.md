@@ -1,0 +1,24 @@
+---
+uuid: 21bb6e26-26e4-4262-94d9-3c2c9cd3b06f
+title: "Num\'erisation des savoirs scientifiques au prisme des pratiques de recherche. M\'emoires, usages et enjeux critiques"
+author: "Papy, Fabrice"
+authors: "Papy, Fabrice"
+abstract: "Papy, Fabrice"
+date: "2026-01-01"
+year: "2026"
+type: "inproceedings"
+url: "https://hal.science/hal-05638525"
+publisher: "Num\'erisation des savoirs scientifiques au prisme des pratiques de recherche. M\'emoires, usages et enjeux critiques"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Papy, Fabrice
+- **Type de publication:** inproceedings
+- **Éditeur:** Num\'erisation des savoirs scientifiques au prisme des pratiques de recherche. M\'emoires, usages et enjeux critiques
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05638525](https://hal.science/hal-05638525)
+

@@ -1,0 +1,24 @@
+---
+uuid: ae1361da-44c4-4223-9572-16b2ad534386
+title: "La face cach\'ee du genre : le r\^ole du langage dans la transmission et la contestation des normes"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
+date: "2012-01-01"
+year: "2012"
+type: "incollection"
+url: "https://hal.science/hal-03758785"
+publisher: "Presses Universitaires de la Sorbonne Nouvelle"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** incollection
+- **Éditeur:** Presses Universitaires de la Sorbonne Nouvelle
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758785](https://hal.science/hal-03758785)
+

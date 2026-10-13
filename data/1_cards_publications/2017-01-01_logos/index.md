@@ -1,12 +1,12 @@
 ---
-uuid: 846224c1-cd63-4d8f-b8d7-15209f5b49d3
+uuid: c748d190-c6d8-4183-8ed1-e2ac394e56db
 title: "LOGOS"
-author: "Agathe Nicolas"
-authors: "Agathe Nicolas"
-abstract: "Agathe Nicolas"
+author: "Nicolas, Agathe"
+authors: "Nicolas, Agathe"
+abstract: "Nicolas, Agathe"
 date: "2017-01-01"
 year: "2017"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03773571"
 publisher: "Brill Academic Publishers"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Agathe Nicolas
-- **Type de publication:** article-journal
+- **Auteurs:** Nicolas, Agathe
+- **Type de publication:** article
 - **Éditeur:** Brill Academic Publishers
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773571](https://hal.science/hal-03773571)
 

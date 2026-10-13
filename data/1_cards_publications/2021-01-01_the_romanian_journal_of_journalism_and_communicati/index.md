@@ -1,14 +1,14 @@
 ---
-uuid: f4315330-8583-45b8-994b-0fd7b1dcd1f0
+uuid: 41aa6d15-56f4-4066-85d9-36b16d23444d
 title: "The romanian journal of journalism and communication"
-author: "Caroline Marti"
-authors: "Caroline Marti"
-abstract: "Caroline Marti"
+author: "Marti, Caroline"
+authors: "Marti, Caroline"
+abstract: "Marti, Caroline"
 date: "2021-01-01"
 year: "2021"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03768228"
-publisher: ""
+publisher: "The romanian journal of journalism and communication"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Caroline Marti
-- **Type de publication:** article-journal
+- **Auteurs:** Marti, Caroline
+- **Type de publication:** article
+- **Éditeur:** The romanian journal of journalism and communication
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768228](https://hal.science/hal-03768228)
 

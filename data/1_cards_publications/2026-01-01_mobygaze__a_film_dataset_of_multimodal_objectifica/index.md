@@ -1,12 +1,12 @@
 ---
-uuid: c35d1606-a66f-4711-83f3-964908bf8b2b
+uuid: 41b45090-524b-4371-acc6-69c9d3797ec7
 title: "MObyGaze: a film dataset of multimodal objectification densely annotated by experts"
-author: "Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
-authors: "Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
-abstract: "Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
+author: "Tores, Julie, Ancarani, Elisa, Sassatelli, Lucile, Wu, Hui-Yin, Bergman, Clement, Andolfi, Lea, Ecrement, Victor, Sun, R\'emy, Precioso, Frederic, Devars, Thierry, Guaresi, Magali, Julliard, Virginie, Lecossais, Sarah"
+authors: "Tores, Julie, Ancarani, Elisa, Sassatelli, Lucile, Wu, Hui-Yin, Bergman, Clement, Andolfi, Lea, Ecrement, Victor, Sun, R\'emy, Precioso, Frederic, Devars, Thierry, Guaresi, Magali, Julliard, Virginie, Lecossais, Sarah"
+abstract: "Tores, Julie, Ancarani, Elisa, Sassatelli, Lucile, Wu, Hui-Yin, Bergman, Clement, Andolfi, Lea, Ecrement, Victor, Sun, R\'emy, Precioso, Frederic, Devars, Thierry, Guaresi, Magali, Julliard, Virginie, Lecossais, Sarah"
 date: "2026-01-01"
 year: "2026"
-type: "manuscript"
+type: "unpublished"
 url: "https://hal.science/hal-05462496"
 publisher: ""
 container_title: ""
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Julie Tores, Elisa Ancarani, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Remy Sun, Frederic Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais
-- **Type de publication:** manuscript
+- **Auteurs:** Tores, Julie, Ancarani, Elisa, Sassatelli, Lucile, Wu, Hui-Yin, Bergman, Clement, Andolfi, Lea, Ecrement, Victor, Sun, R\'emy, Precioso, Frederic, Devars, Thierry, Guaresi, Magali, Julliard, Virginie, Lecossais, Sarah
+- **Type de publication:** unpublished
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05462496](https://hal.science/hal-05462496)
 

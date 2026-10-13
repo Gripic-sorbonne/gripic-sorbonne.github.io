@@ -1,14 +1,14 @@
 ---
-uuid: aa327b07-e6e2-4a1c-80c7-005c8b9e1de4
+uuid: 19e5a4c0-0288-47f1-93b7-b7a648b5d86a
 title: "Communication et intelligence du social tome 1"
-author: "nicole D’Almeida"
-authors: "nicole D’Almeida"
-abstract: "nicole D’Almeida"
+author: "D'Almeida, nicole"
+authors: "D'Almeida, nicole"
+abstract: "D'Almeida, nicole"
 date: "2014-01-01"
 year: "2014"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03750032"
-publisher: "L’Harmattan"
+publisher: "L'Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** nicole D’Almeida
-- **Type de publication:** chapter
-- **Éditeur:** L’Harmattan
+- **Auteurs:** D'Almeida, nicole
+- **Type de publication:** incollection
+- **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750032](https://hal.science/hal-03750032)
 

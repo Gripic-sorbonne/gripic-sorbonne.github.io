@@ -1,14 +1,14 @@
 ---
-uuid: e53f4a7c-c54f-4e6d-ae00-61c995855d0c
+uuid: 94ad8eba-3615-4166-8c32-56be19a80474
 title: "Trousse-Livres"
-author: "Emmanuël Souchier"
-authors: "Emmanuël Souchier"
-abstract: "Emmanuël Souchier"
+author: "Souchier, Emmanu\\"el"
+authors: "Souchier, Emmanu\\"el"
+abstract: "Souchier, Emmanu\\"el"
 date: "1984-01-01"
 year: "1984"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03761066"
-publisher: ""
+publisher: "Trousse-Livres"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier
-- **Type de publication:** chapter
+- **Auteurs:** Souchier, Emmanu\"el
+- **Type de publication:** incollection
+- **Éditeur:** Trousse-Livres
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761066](https://hal.science/hal-03761066)
 

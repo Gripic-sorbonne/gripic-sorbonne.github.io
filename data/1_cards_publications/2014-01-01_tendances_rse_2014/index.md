@@ -1,12 +1,12 @@
 ---
-uuid: 2c1adfb4-fb04-41bb-b016-8eba6cbcb2be
+uuid: 3aa930c0-d7fd-43f7-8d10-f92cd3cfc403
 title: "Tendances RSE 2014"
-author: "François Allard-Huver"
-authors: "François Allard-Huver"
-abstract: "François Allard-Huver"
+author: "Allard-Huver, Fran\c cois"
+authors: "Allard-Huver, Fran\c cois"
+abstract: "Allard-Huver, Fran\c cois"
 date: "2014-01-01"
 year: "2014"
-type: ""
+type: "misc"
 url: "https://shs.hal.science/halshs-03127875"
 publisher: ""
 container_title: ""
@@ -17,6 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** François Allard-Huver
+- **Auteurs:** Allard-Huver, Fran\c cois
+- **Type de publication:** misc
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03127875](https://shs.hal.science/halshs-03127875)
 

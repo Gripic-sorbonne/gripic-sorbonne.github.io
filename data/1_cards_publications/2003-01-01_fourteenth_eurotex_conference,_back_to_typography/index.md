@@ -1,14 +1,14 @@
 ---
-uuid: 8115ec90-b777-46ff-b088-f6dd52be5972
+uuid: a17ff74a-0552-4027-8290-05839d0a70c6
 title: "Fourteenth EuroTex Conference, Back to typography"
-author: "Emmanuël Souchier"
-authors: "Emmanuël Souchier"
-abstract: "Emmanuël Souchier"
+author: "Souchier, Emmanu\\"el"
+authors: "Souchier, Emmanu\\"el"
+abstract: "Souchier, Emmanu\\"el"
 date: "2003-01-01"
 year: "2003"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03760927"
-publisher: ""
+publisher: "Fourteenth EuroTex Conference, Back to typography"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier
-- **Type de publication:** paper-conference
+- **Auteurs:** Souchier, Emmanu\"el
+- **Type de publication:** inproceedings
+- **Éditeur:** Fourteenth EuroTex Conference, Back to typography
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760927](https://hal.science/hal-03760927)
 

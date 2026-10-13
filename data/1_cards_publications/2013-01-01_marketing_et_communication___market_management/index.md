@@ -1,12 +1,12 @@
 ---
-uuid: abd241e6-81e4-4f30-b70e-94f086e689d9
+uuid: 728f04f9-48c5-4fe7-881f-f9decb11d45a
 title: "Marketing et Communication / Market management"
-author: "Caroline Montety"
-authors: "Caroline Montety"
-abstract: "Caroline Montety"
+author: "de Montety, Caroline"
+authors: "de Montety, Caroline"
+abstract: "de Montety, Caroline"
 date: "2013-01-01"
 year: "2013"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03768233"
 publisher: "Eska (Paris, France) [2005-2009]"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Caroline Montety
-- **Type de publication:** article-journal
+- **Auteurs:** de Montety, Caroline
+- **Type de publication:** article
 - **Éditeur:** Eska (Paris, France) [2005-2009]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768233](https://hal.science/hal-03768233)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 0d0df3df-4260-4877-b7ee-a08314104ffd
+uuid: 56248cc7-d3a9-491c-8b1b-e65a8bdfd24b
 title: "Navigation sans instruments"
-author: "Emmanuël Souchier"
-authors: "Emmanuël Souchier"
-abstract: "Emmanuël Souchier"
+author: "Souchier, Emmanu\\"el"
+authors: "Souchier, Emmanu\\"el"
+abstract: "Souchier, Emmanu\\"el"
 date: "2008-01-01"
 year: "2008"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-03761089"
-publisher: "L’Atelier d’architecture Denys Garnier"
+publisher: "L'Atelier d'architecture Denys Garnier"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier
-- **Éditeur:** L’Atelier d’architecture Denys Garnier
+- **Auteurs:** Souchier, Emmanu\"el
+- **Type de publication:** misc
+- **Éditeur:** L'Atelier d'architecture Denys Garnier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761089](https://hal.science/hal-03761089)
 

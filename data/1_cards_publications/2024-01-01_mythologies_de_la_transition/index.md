@@ -1,14 +1,14 @@
 ---
-uuid: 1cfd41fc-eb3a-40cd-8fb5-640dcae03ce8
+uuid: 11d9370d-46ad-4c3d-ad2f-13c4a51d10ff
 title: "Mythologies de la transition"
-author: "Vanille Ecrement"
-authors: "Vanille Ecrement"
-abstract: "Vanille Ecrement"
+author: "Ecrement, Vanille"
+authors: "Ecrement, Vanille"
+abstract: "Ecrement, Vanille"
 date: "2024-01-01"
 year: "2024"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-05053059"
-publisher: ""
+publisher: "Mythologies de la transition"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Vanille Ecrement
-- **Type de publication:** paper-conference
+- **Auteurs:** Ecrement, Vanille
+- **Type de publication:** inproceedings
+- **Éditeur:** Mythologies de la transition
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05053059](https://hal.science/hal-05053059)
 

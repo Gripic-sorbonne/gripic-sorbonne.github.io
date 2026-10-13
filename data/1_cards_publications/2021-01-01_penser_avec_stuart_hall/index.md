@@ -1,12 +1,12 @@
 ---
-uuid: 92da0065-3869-41a5-ba08-1a183a6272e7
+uuid: 2175164e-8726-48f0-bfbd-483972b27261
 title: "Penser avec Stuart Hall"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2021-01-01"
 year: "2021"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03758748"
 publisher: "La Dispute"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** chapter
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** incollection
 - **Éditeur:** La Dispute
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758748](https://hal.science/hal-03758748)
 

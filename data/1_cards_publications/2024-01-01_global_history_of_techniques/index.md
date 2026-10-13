@@ -1,12 +1,12 @@
 ---
-uuid: ba709fc7-25b4-4a1c-86a4-4661ab19e4fe
+uuid: 2e2c2a2b-7426-4368-a079-a34bd535a68d
 title: "Global History of Techniques"
-author: "Virginie Julliard"
-authors: "Virginie Julliard"
-abstract: "Virginie Julliard"
+author: "Julliard, Virginie"
+authors: "Julliard, Virginie"
+abstract: "Julliard, Virginie"
 date: "2024-01-01"
 year: "2024"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-04969365"
 publisher: "Brepols Publishers"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Virginie Julliard
-- **Type de publication:** chapter
+- **Auteurs:** Julliard, Virginie
+- **Type de publication:** incollection
 - **Éditeur:** Brepols Publishers
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04969365](https://hal.science/hal-04969365)
 

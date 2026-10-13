@@ -1,14 +1,14 @@
 ---
-uuid: c769cd41-82f8-4acb-8860-426957c3081c
+uuid: fff64039-9eb9-41e3-89b2-8609693a8421
 title: "Brazilian Journalism Research"
-author: "Pergia Gkouskou-Giannakou, Juliette Charbonneaux"
-authors: "Pergia Gkouskou-Giannakou, Juliette Charbonneaux"
-abstract: "Pergia Gkouskou-Giannakou, Juliette Charbonneaux"
+author: "Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette"
+authors: "Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette"
+abstract: "Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette"
 date: "2016-01-01"
 year: "2016"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-02121594"
-publisher: "Associação Brasileira de Pesquisadores em Jornalismo"
+publisher: "Associa\c c\~ao Brasileira de Pesquisadores em Jornalismo"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pergia Gkouskou-Giannakou, Juliette Charbonneaux
-- **Type de publication:** article-journal
-- **Éditeur:** Associação Brasileira de Pesquisadores em Jornalismo
+- **Auteurs:** Gkouskou-Giannakou, Pergia, Charbonneaux, Juliette
+- **Type de publication:** article
+- **Éditeur:** Associa\c c\~ao Brasileira de Pesquisadores em Jornalismo
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02121594](https://hal.science/hal-02121594)
 

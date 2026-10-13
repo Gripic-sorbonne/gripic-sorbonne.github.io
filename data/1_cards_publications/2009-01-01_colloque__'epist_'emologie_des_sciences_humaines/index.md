@@ -1,0 +1,24 @@
+---
+uuid: 580b41f3-00b6-4d4a-b724-88c7945a9d9f
+title: "Colloque \'Epist\'emologie des sciences humaines"
+author: "Berthelot-Guiet, Karine"
+authors: "Berthelot-Guiet, Karine"
+abstract: "Berthelot-Guiet, Karine"
+date: "2009-01-01"
+year: "2009"
+type: "inproceedings"
+url: "https://hal.science/hal-03749810"
+publisher: "Colloque \'Epist\'emologie des sciences humaines"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Berthelot-Guiet, Karine
+- **Type de publication:** inproceedings
+- **Éditeur:** Colloque \'Epist\'emologie des sciences humaines
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749810](https://hal.science/hal-03749810)
+

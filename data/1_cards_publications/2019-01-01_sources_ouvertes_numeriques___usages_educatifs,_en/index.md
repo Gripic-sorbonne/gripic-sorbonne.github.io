@@ -1,12 +1,12 @@
 ---
-uuid: aa0ee11e-1e18-481d-ba10-e5095be93163
-title: "Sources ouvertes numeriques : usages educatifs, enjeux communicationnels : colloque international, École de journalisme et de communication d’Aix-Marseille, 13-14 octobre 2016"
-author: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
-authors: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
-abstract: "Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux"
+uuid: b8728fac-e155-46de-8fc0-3b9f30fdb343
+title: "Sources ouvertes numeriques : usages educatifs, enjeux communicationnels : colloque international, \'Ecole de journalisme et de communication d'Aix-Marseille, 13-14 octobre 2016"
+author: "Gruson-Daniel, C\'elya, A\\"im, Olivier, Sherlaw, Karl-William, Depoux, Anneliese"
+authors: "Gruson-Daniel, C\'elya, A\\"im, Olivier, Sherlaw, Karl-William, Depoux, Anneliese"
+abstract: "Gruson-Daniel, C\'elya, A\\"im, Olivier, Sherlaw, Karl-William, Depoux, Anneliese"
 date: "2019-01-01"
 year: "2019"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-05175055"
 publisher: "PUN - Editions universitaires de Lorraine, Nancy"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Célya Gruson-Daniel, Olivier Aïm, Karl-William Sherlaw, Anneliese Depoux
-- **Type de publication:** chapter
+- **Auteurs:** Gruson-Daniel, C\'elya, A\"im, Olivier, Sherlaw, Karl-William, Depoux, Anneliese
+- **Type de publication:** incollection
 - **Éditeur:** PUN - Editions universitaires de Lorraine, Nancy
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05175055](https://hal.science/hal-05175055)
 

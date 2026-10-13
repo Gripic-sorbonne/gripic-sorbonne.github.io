@@ -1,14 +1,14 @@
 ---
-uuid: 455fd59d-3a73-4f1f-a493-e3dc7c4ea63f
+uuid: 657fbff8-50a2-4d33-85bc-3294b953009d
 title: "Fan studies / Gender studies - la rencontre"
-author: "Nelly Quemener"
-authors: "Nelly Quemener"
-abstract: "Nelly Quemener"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
 date: "2017-01-01"
 year: "2017"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03758761"
-publisher: "Téraèdre"
+publisher: "T\'era\`edre"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener
-- **Type de publication:** chapter
-- **Éditeur:** Téraèdre
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** incollection
+- **Éditeur:** T\'era\`edre
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758761](https://hal.science/hal-03758761)
 

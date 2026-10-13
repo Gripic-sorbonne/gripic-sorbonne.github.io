@@ -1,14 +1,14 @@
 ---
-uuid: ed1ccc37-02ec-4744-9fe5-4dc111d1584d
+uuid: 79344b6a-b190-403e-9d6f-de88d39b6261
 title: "Ecran total/ Total Screen"
-author: "Emmanuelle Fantin"
-authors: "Emmanuelle Fantin"
-abstract: "Emmanuelle Fantin"
+author: "Fantin, Emmanuelle"
+authors: "Fantin, Emmanuelle"
+abstract: "Fantin, Emmanuelle"
 date: "2021-01-01"
 year: "2021"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03964086"
-publisher: ""
+publisher: "Ecran total/ Total Screen"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuelle Fantin
-- **Type de publication:** paper-conference
+- **Auteurs:** Fantin, Emmanuelle
+- **Type de publication:** inproceedings
+- **Éditeur:** Ecran total/ Total Screen
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964086](https://hal.science/hal-03964086)
 

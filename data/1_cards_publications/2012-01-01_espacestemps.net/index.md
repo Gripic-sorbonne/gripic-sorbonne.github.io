@@ -1,12 +1,12 @@
 ---
-uuid: 204198fc-e203-45b2-8080-22885b23ca68
+uuid: a02fb2a9-63cb-4254-81a8-80c673e2db54
 title: "EspacesTemps.net"
-author: "hecate vergopoulos"
-authors: "hecate vergopoulos"
-abstract: "hecate vergopoulos"
+author: "vergopoulos, hecate"
+authors: "vergopoulos, hecate"
+abstract: "vergopoulos, hecate"
 date: "2012-01-01"
 year: "2012"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03767016"
 publisher: "Association Espaces Temps.net"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** hecate vergopoulos
-- **Type de publication:** article-journal
+- **Auteurs:** vergopoulos, hecate
+- **Type de publication:** article
 - **Éditeur:** Association Espaces Temps.net
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767016](https://hal.science/hal-03767016)
 

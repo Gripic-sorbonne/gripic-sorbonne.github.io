@@ -1,14 +1,14 @@
 ---
-uuid: ae37eee2-241c-4072-9b9b-eb5a538f2050
-title: "Circulation et qualification des discours. Conflictualités dans les espaces publics (1)"
-author: "Nelly Quemener, Marion Dalibert, Aurélia Lamy"
-authors: "Nelly Quemener, Marion Dalibert, Aurélia Lamy"
-abstract: "Nelly Quemener, Marion Dalibert, Aurélia Lamy"
+uuid: e68df237-56b9-4dd3-bebc-e20ee290c648
+title: "Circulation et qualification des discours. Conflictualit\'es dans les espaces publics (1)"
+author: "Quemener, Nelly, Dalibert, Marion, Lamy, Aur\'elia"
+authors: "Quemener, Nelly, Dalibert, Marion, Lamy, Aur\'elia"
+abstract: "Quemener, Nelly, Dalibert, Marion, Lamy, Aur\'elia"
 date: "2016-01-01"
 year: "2016"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-03758411"
-publisher: "Université de Lille"
+publisher: "Universit\'e de Lille"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nelly Quemener, Marion Dalibert, Aurélia Lamy
-- **Éditeur:** Université de Lille
+- **Auteurs:** Quemener, Nelly, Dalibert, Marion, Lamy, Aur\'elia
+- **Type de publication:** misc
+- **Éditeur:** Universit\'e de Lille
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758411](https://hal.science/hal-03758411)
 

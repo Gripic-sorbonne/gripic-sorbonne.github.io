@@ -1,14 +1,14 @@
 ---
-uuid: 96edce14-426c-478a-bec5-5f5bdbaea733
+uuid: a4aece1e-42fe-4942-aa0f-92104a8710dc
 title: "Entretien avec Jean-Jacques Boutaud"
-author: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
-authors: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
-abstract: "Jean-Jacques Boutaud, Camille Brachet, Julien Tassel"
+author: "Boutaud, Jean-Jacques, Brachet, Camille, Tassel, Julien"
+authors: "Boutaud, Jean-Jacques, Brachet, Camille, Tassel, Julien"
+abstract: "Boutaud, Jean-Jacques, Brachet, Camille, Tassel, Julien"
 date: "2022-01-01"
 year: "2022"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-03766799"
-publisher: "L’Harmattan"
+publisher: "L'Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Jean-Jacques Boutaud, Camille Brachet, Julien Tassel
-- **Éditeur:** L’Harmattan
+- **Auteurs:** Boutaud, Jean-Jacques, Brachet, Camille, Tassel, Julien
+- **Type de publication:** misc
+- **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766799](https://hal.science/hal-03766799)
 

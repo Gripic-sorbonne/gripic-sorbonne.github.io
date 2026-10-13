@@ -1,0 +1,23 @@
+---
+uuid: dcccdd70-e4e9-4f29-9dc2-b49ee7b2422d
+title: "L'histoire saisie par le management. Entre pratiques du pass\'e et exercice du pouvoir manag\'erial. L'exemple du Groupe Caisse d'\'Epargne."
+author: "Tassel, Julien"
+authors: "Tassel, Julien"
+abstract: "Tassel, Julien"
+date: "2008-01-01"
+year: "2008"
+type: "phdthesis"
+url: "https://hal.science/tel-03740471"
+publisher: ""
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Tassel, Julien
+- **Type de publication:** phdthesis
+- 🔗 **Lien HAL / Publication:** [https://hal.science/tel-03740471](https://hal.science/tel-03740471)
+

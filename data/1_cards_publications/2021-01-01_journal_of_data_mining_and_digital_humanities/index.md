@@ -1,12 +1,12 @@
 ---
-uuid: 7fa37e52-c3ad-4fe5-acc0-5f7a431936d5
+uuid: d558f621-f8e4-466f-94dc-0f1959c7a3eb
 title: "Journal of Data Mining and Digital Humanities"
-author: "Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl"
-authors: "Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl"
-abstract: "Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl"
+author: "Pfanzelter, Eva, Oberbichler, Sarah, Marjanen, Jani, Langlais, Pierre-Carl, Hechl, Stefan"
+authors: "Pfanzelter, Eva, Oberbichler, Sarah, Marjanen, Jani, Langlais, Pierre-Carl, Hechl, Stefan"
+abstract: "Pfanzelter, Eva, Oberbichler, Sarah, Marjanen, Jani, Langlais, Pierre-Carl, Hechl, Stefan"
 date: "2021-01-01"
 year: "2021"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-02480654"
 publisher: "INRIA"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Eva Pfanzelter, Sarah Oberbichler, Jani Marjanen, Pierre-Carl Langlais, Stefan Hechl
-- **Type de publication:** article-journal
+- **Auteurs:** Pfanzelter, Eva, Oberbichler, Sarah, Marjanen, Jani, Langlais, Pierre-Carl, Hechl, Stefan
+- **Type de publication:** article
 - **Éditeur:** INRIA
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-02480654](https://hal.science/hal-02480654)
 

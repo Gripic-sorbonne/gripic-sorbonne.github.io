@@ -1,14 +1,14 @@
 ---
-uuid: 945634ec-3c5d-46fd-9acc-de2b7f2eb86e
+uuid: 07b9bff6-d859-4e0f-92de-2216682c41cb
 title: "Territoires sous Influence Tome 1"
-author: "Dominique Pagès, Nicolas Pélissier"
-authors: "Dominique Pagès, Nicolas Pélissier"
-abstract: "Dominique Pagès, Nicolas Pélissier"
+author: "Pag\`es, Dominique, P\'elissier, Nicolas"
+authors: "Pag\`es, Dominique, P\'elissier, Nicolas"
+abstract: "Pag\`es, Dominique, P\'elissier, Nicolas"
 date: "2000-01-01"
 year: "2000"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03754410"
-publisher: "L’Harmattan"
+publisher: "L'Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Dominique Pagès, Nicolas Pélissier
-- **Type de publication:** chapter
-- **Éditeur:** L’Harmattan
+- **Auteurs:** Pag\`es, Dominique, P\'elissier, Nicolas
+- **Type de publication:** incollection
+- **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754410](https://hal.science/hal-03754410)
 

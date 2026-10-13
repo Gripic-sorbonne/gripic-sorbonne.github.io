@@ -1,14 +1,14 @@
 ---
-uuid: 3cd0157f-fde7-45ca-9194-758312d07f56
+uuid: afb76966-8fc6-49a0-9de6-79fca25c4c61
 title: "Ina global.fr"
-author: "Thierry Devars"
-authors: "Thierry Devars"
-abstract: "Thierry Devars"
+author: "Devars, Thierry"
+authors: "Devars, Thierry"
+abstract: "Devars, Thierry"
 date: "2016-01-01"
 year: "2016"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03750663"
-publisher: "INA, Institut national de l’audiovisuel"
+publisher: "INA, Institut national de l'audiovisuel"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Thierry Devars
-- **Type de publication:** article-journal
-- **Éditeur:** INA, Institut national de l’audiovisuel
+- **Auteurs:** Devars, Thierry
+- **Type de publication:** article
+- **Éditeur:** INA, Institut national de l'audiovisuel
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750663](https://hal.science/hal-03750663)
 

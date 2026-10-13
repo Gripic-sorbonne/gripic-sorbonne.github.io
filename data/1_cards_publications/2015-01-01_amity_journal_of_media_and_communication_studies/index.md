@@ -1,14 +1,14 @@
 ---
-uuid: 84ba11ba-ca83-4444-9459-bd9f1451b109
+uuid: c712b499-2af5-424f-9461-e8b984979313
 title: "Amity Journal of Media and Communication Studies"
-author: "Berenice Mariau"
-authors: "Berenice Mariau"
-abstract: "Berenice Mariau"
+author: "Mariau, Berenice"
+authors: "Mariau, Berenice"
+abstract: "Mariau, Berenice"
 date: "2015-01-01"
 year: "2015"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03773501"
-publisher: ""
+publisher: "Amity Journal of Media and Communication Studies"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berenice Mariau
-- **Type de publication:** article-journal
+- **Auteurs:** Mariau, Berenice
+- **Type de publication:** article
+- **Éditeur:** Amity Journal of Media and Communication Studies
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773501](https://hal.science/hal-03773501)
 

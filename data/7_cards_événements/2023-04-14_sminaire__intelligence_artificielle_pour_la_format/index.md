@@ -1,5 +1,5 @@
 ---
-uuid: b107d55d-35bb-46ad-8179-9252ff56dbb9
+uuid: 3d305801-551e-4238-b0dd-860221b94d60
 title: "Séminaire \"Intelligence artificielle pour la formation GIS2IF\""
 author: "Laurent Petit"
 date: "2023-04-14"

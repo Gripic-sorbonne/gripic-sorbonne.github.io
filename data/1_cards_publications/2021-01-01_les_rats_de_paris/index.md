@@ -1,9 +1,9 @@
 ---
-uuid: 98ffd4ce-92cc-417a-bd8d-33d747925b22
+uuid: d3974000-7c49-42a2-a030-3cb8f0a48438
 title: "Les rats de Paris"
-author: "hecate vergopoulos"
-authors: "hecate vergopoulos"
-abstract: "hecate vergopoulos"
+author: "vergopoulos, hecate"
+authors: "vergopoulos, hecate"
+abstract: "vergopoulos, hecate"
 date: "2021-01-01"
 year: "2021"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** hecate vergopoulos
+- **Auteurs:** vergopoulos, hecate
 - **Type de publication:** book
 - **Éditeur:** Le Murmure
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766952](https://hal.science/hal-03766952)

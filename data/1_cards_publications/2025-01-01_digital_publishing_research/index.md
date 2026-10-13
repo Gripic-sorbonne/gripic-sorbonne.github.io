@@ -1,14 +1,14 @@
 ---
-uuid: 1f692e6b-09b3-4af2-aa8c-ddc41d024ea6
+uuid: f0c55325-111f-406a-89a6-7787059b5676
 title: "Digital Publishing Research"
-author: "Yuwen Zhang, Pei Lin"
-authors: "Yuwen Zhang, Pei Lin"
-abstract: "Yuwen Zhang, Pei Lin"
+author: "Zhang, Yuwen, Lin, Pei"
+authors: "Zhang, Yuwen, Lin, Pei"
+abstract: "Zhang, Yuwen, Lin, Pei"
 date: "2025-01-01"
 year: "2025"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-05091411"
-publisher: ""
+publisher: "Digital Publishing Research"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Yuwen Zhang, Pei Lin
-- **Type de publication:** article-journal
+- **Auteurs:** Zhang, Yuwen, Lin, Pei
+- **Type de publication:** article
+- **Éditeur:** Digital Publishing Research
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05091411](https://hal.science/hal-05091411)
 

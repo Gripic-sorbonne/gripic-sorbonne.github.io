@@ -1,12 +1,12 @@
 ---
-uuid: 6190651b-c380-4525-bac7-42149a054ab5
+uuid: d025248a-2f49-437c-b56b-4b88d9eed19a
 title: "French Journal for Media Research"
-author: "Thierry Devars"
-authors: "Thierry Devars"
-abstract: "Thierry Devars"
+author: "Devars, Thierry"
+authors: "Devars, Thierry"
+abstract: "Devars, Thierry"
 date: "2017-01-01"
 year: "2017"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03750658"
 publisher: "French Journal for Media Research"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Thierry Devars
-- **Type de publication:** article-journal
+- **Auteurs:** Devars, Thierry
+- **Type de publication:** article
 - **Éditeur:** French Journal for Media Research
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750658](https://hal.science/hal-03750658)
 

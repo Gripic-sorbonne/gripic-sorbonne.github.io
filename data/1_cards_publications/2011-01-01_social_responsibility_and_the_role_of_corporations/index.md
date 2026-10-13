@@ -1,14 +1,14 @@
 ---
-uuid: 269fbfbb-295b-4f14-baca-625ab8fb9fcf
+uuid: 2dd0e5e2-e7de-4600-a55d-e4b471f05553
 title: "Social responsibility and the role of corporations"
-author: "nicole D’Almeida"
-authors: "nicole D’Almeida"
-abstract: "nicole D’Almeida"
+author: "D'Almeida, nicole"
+authors: "D'Almeida, nicole"
+abstract: "D'Almeida, nicole"
 date: "2011-01-01"
 year: "2011"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03750124"
-publisher: "Université de Pretori"
+publisher: "Social responsibility and the role of corporations"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** nicole D’Almeida
-- **Type de publication:** paper-conference
-- **Éditeur:** Université de Pretori
+- **Auteurs:** D'Almeida, nicole
+- **Type de publication:** inproceedings
+- **Éditeur:** Social responsibility and the role of corporations
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750124](https://hal.science/hal-03750124)
 

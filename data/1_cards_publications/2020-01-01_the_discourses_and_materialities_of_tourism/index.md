@@ -1,0 +1,24 @@
+---
+uuid: 5f8c6e8b-9cc1-48ed-afb5-984b9e82cc0e
+title: "The Discourses and Materialities of Tourism"
+author: "vergopoulos, hecate"
+authors: "vergopoulos, hecate"
+abstract: "vergopoulos, hecate"
+date: "2020-01-01"
+year: "2020"
+type: "inproceedings"
+url: "https://hal.science/hal-03767054"
+publisher: "The Discourses and Materialities of Tourism"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** vergopoulos, hecate
+- **Type de publication:** inproceedings
+- **Éditeur:** The Discourses and Materialities of Tourism
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767054](https://hal.science/hal-03767054)
+

@@ -1,14 +1,14 @@
 ---
-uuid: e0b676fe-81af-444b-bdca-b061dedc3c95
+uuid: a403261e-b786-457f-b47c-b1e5a6044c14
 title: "Micro PBQ"
-author: "Emmanuël Souchier"
-authors: "Emmanuël Souchier"
-abstract: "Emmanuël Souchier"
+author: "Souchier, Emmanu\\"el"
+authors: "Souchier, Emmanu\\"el"
+abstract: "Souchier, Emmanu\\"el"
 date: "1994-01-01"
 year: "1994"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03761043"
-publisher: ""
+publisher: "Micro PBQ"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier
-- **Type de publication:** chapter
+- **Auteurs:** Souchier, Emmanu\"el
+- **Type de publication:** incollection
+- **Éditeur:** Micro PBQ
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761043](https://hal.science/hal-03761043)
 

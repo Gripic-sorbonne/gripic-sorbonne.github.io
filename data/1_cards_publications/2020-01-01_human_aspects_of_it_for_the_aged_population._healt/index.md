@@ -1,14 +1,14 @@
 ---
-uuid: b9ec7dbe-5d4a-430a-a4e3-5aa4ed27ae41
+uuid: ba63d0e1-c2f1-4d41-b7fa-c4f1bb24df9b
 title: "Human Aspects of IT for the Aged Population. Healthy and Active Aging."
-author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
-authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"
-abstract: "Juliette Charbonneaux, Karine Berthelot-Guiet"
+author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
+authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
+abstract: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
 date: "2020-01-01"
 year: "2020"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03799779"
-publisher: ""
+publisher: "Human Aspects of IT for the Aged Population. Healthy and Active Aging."
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Juliette Charbonneaux, Karine Berthelot-Guiet
-- **Type de publication:** chapter
+- **Auteurs:** Charbonneaux, Juliette, Berthelot-Guiet, Karine
+- **Type de publication:** incollection
+- **Éditeur:** Human Aspects of IT for the Aged Population. Healthy and Active Aging.
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799779](https://hal.science/hal-03799779)
 

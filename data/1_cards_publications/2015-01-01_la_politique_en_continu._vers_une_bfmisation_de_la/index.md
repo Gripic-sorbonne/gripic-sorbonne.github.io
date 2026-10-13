@@ -1,9 +1,9 @@
 ---
-uuid: f102010b-ba44-4825-9681-8513250258c7
+uuid: aab0313a-90d1-4359-92dd-c4172f324871
 title: "La politique en continu. Vers une BFMisation de la communication ?"
-author: "Thierry Devars"
-authors: "Thierry Devars"
-abstract: "Thierry Devars"
+author: "Devars, Thierry"
+authors: "Devars, Thierry"
+abstract: "Devars, Thierry"
 date: "2015-01-01"
 year: "2015"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Thierry Devars
+- **Auteurs:** Devars, Thierry
 - **Type de publication:** book
 - **Éditeur:** Les Petits Matins
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750649](https://hal.science/hal-03750649)

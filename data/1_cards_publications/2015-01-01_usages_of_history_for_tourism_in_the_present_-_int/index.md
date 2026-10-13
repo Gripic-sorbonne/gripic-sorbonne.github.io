@@ -1,14 +1,14 @@
 ---
-uuid: 1b118d05-7f1f-4687-9c2a-1560a8c7f450
+uuid: 81d7074a-68a3-4ea1-8cbb-ac117c20dd7d
 title: "Usages of History for Tourism in the Present - International Committee of Historical Sciences Meeting (ICHS)"
-author: "Julien Tassel, hecate vergopoulos"
-authors: "Julien Tassel, hecate vergopoulos"
-abstract: "Julien Tassel, hecate vergopoulos"
+author: "Tassel, Julien, vergopoulos, hecate"
+authors: "Tassel, Julien, vergopoulos, hecate"
+abstract: "Tassel, Julien, vergopoulos, hecate"
 date: "2015-01-01"
 year: "2015"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03766882"
-publisher: "International Committee of Historical Sciences Meeting (ICHS) and International Commission for the History of Travel and Tourism (ICHTT)"
+publisher: "Usages of History for Tourism in the Present - International Committee of Historical Sciences Meeting (ICHS)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Julien Tassel, hecate vergopoulos
-- **Type de publication:** paper-conference
-- **Éditeur:** International Committee of Historical Sciences Meeting (ICHS) and International Commission for the History of Travel and Tourism (ICHTT)
+- **Auteurs:** Tassel, Julien, vergopoulos, hecate
+- **Type de publication:** inproceedings
+- **Éditeur:** Usages of History for Tourism in the Present - International Committee of Historical Sciences Meeting (ICHS)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766882](https://hal.science/hal-03766882)
 

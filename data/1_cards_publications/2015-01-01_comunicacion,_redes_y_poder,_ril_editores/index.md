@@ -1,14 +1,14 @@
 ---
-uuid: cd549711-fff8-4fa5-80c1-713cad25e4d3
+uuid: 8c010ccf-9e0f-4980-a29e-595a878f250e
 title: "Comunicacion, Redes y Poder, Ril Editores"
-author: "nicole D’Almeida, Nicolas Baygert"
-authors: "nicole D’Almeida, Nicolas Baygert"
-abstract: "nicole D’Almeida, Nicolas Baygert"
+author: "D'Almeida, nicole, Baygert, Nicolas"
+authors: "D'Almeida, nicole, Baygert, Nicolas"
+abstract: "D'Almeida, nicole, Baygert, Nicolas"
 date: "2015-01-01"
 year: "2015"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03750025"
-publisher: ""
+publisher: "Comunicacion, Redes y Poder, Ril Editores"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** nicole D’Almeida, Nicolas Baygert
-- **Type de publication:** chapter
+- **Auteurs:** D'Almeida, nicole, Baygert, Nicolas
+- **Type de publication:** incollection
+- **Éditeur:** Comunicacion, Redes y Poder, Ril Editores
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750025](https://hal.science/hal-03750025)
 

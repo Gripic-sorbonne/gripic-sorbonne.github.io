@@ -1,14 +1,14 @@
 ---
-uuid: fd8e7b9c-4f16-4a89-ab96-7bc0e0ba867d
+uuid: b5f9dd35-75e8-4e5a-8903-890dbf6d2e23
 title: "Changements et permanence du journalisme"
-author: "Emmanuël Souchier, Adeline Wrona"
-authors: "Emmanuël Souchier, Adeline Wrona"
-abstract: "Emmanuël Souchier, Adeline Wrona"
+author: "Souchier, Emmanu\\"el, Wrona, Adeline"
+authors: "Souchier, Emmanu\\"el, Wrona, Adeline"
+abstract: "Souchier, Emmanu\\"el, Wrona, Adeline"
 date: "2014-01-01"
 year: "2014"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03760999"
-publisher: "L’Harmattan"
+publisher: "L'Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier, Adeline Wrona
-- **Type de publication:** chapter
-- **Éditeur:** L’Harmattan
+- **Auteurs:** Souchier, Emmanu\"el, Wrona, Adeline
+- **Type de publication:** incollection
+- **Éditeur:** L'Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760999](https://hal.science/hal-03760999)
 

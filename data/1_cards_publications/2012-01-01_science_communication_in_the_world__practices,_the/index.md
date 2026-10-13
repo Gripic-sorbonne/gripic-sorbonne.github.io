@@ -1,12 +1,12 @@
 ---
-uuid: 297346bc-39b0-4c01-854d-4774b538b1d1
+uuid: 6067b959-7ecc-4b9d-9a9c-d5cf4a6e7541
 title: "Science communication in the world: Practices, theories and trends"
-author: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
-authors: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
-abstract: "Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec"
+author: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
+authors: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
+abstract: "Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\\"elle"
 date: "2012-01-01"
 year: "2012"
-type: "chapter"
+type: "incollection"
 url: "https://lilloa.hal.science/hal-01310000"
 publisher: "Springer"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Michèle Gellereau, Yves Jeanneret, Joëlle Le Marec
-- **Type de publication:** chapter
+- **Auteurs:** Gellereau, Mich\`ele, Jeanneret, Yves, Le Marec, Jo\"elle
+- **Type de publication:** incollection
 - **Éditeur:** Springer
 - 🔗 **Lien HAL / Publication:** [https://lilloa.hal.science/hal-01310000](https://lilloa.hal.science/hal-01310000)
 

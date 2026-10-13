@@ -1,0 +1,24 @@
+---
+uuid: 7b62bc5e-e006-4799-bae5-caea813b664b
+title: "La contribution des sciences de l'information -- communication aux d\'ebats publics"
+author: "Quemener, Nelly"
+authors: "Quemener, Nelly"
+abstract: "Quemener, Nelly"
+date: "2012-01-01"
+year: "2012"
+type: "inproceedings"
+url: "https://hal.science/hal-03758914"
+publisher: "La contribution des sciences de l'information -- communication aux d\'ebats publics"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Quemener, Nelly
+- **Type de publication:** inproceedings
+- **Éditeur:** La contribution des sciences de l'information -- communication aux d\'ebats publics
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758914](https://hal.science/hal-03758914)
+

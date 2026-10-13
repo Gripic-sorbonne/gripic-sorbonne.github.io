@@ -1,9 +1,9 @@
 ---
-uuid: f9d6e002-7ffc-4e92-b11d-787d47d6bed9
+uuid: 207e001c-caab-4499-8c1a-5cd418b99ba7
 title: "R. Queneau, Connaissez-vous Paris ?"
-author: "Emmanuël Souchier, Odile Cortinovis"
-authors: "Emmanuël Souchier, Odile Cortinovis"
-abstract: "Emmanuël Souchier, Odile Cortinovis"
+author: "Souchier, Emmanu\\"el, Cortinovis, Odile"
+authors: "Souchier, Emmanu\\"el, Cortinovis, Odile"
+abstract: "Souchier, Emmanu\\"el, Cortinovis, Odile"
 date: "2011-01-01"
 year: "2011"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuël Souchier, Odile Cortinovis
+- **Auteurs:** Souchier, Emmanu\"el, Cortinovis, Odile
 - **Type de publication:** book
 - **Éditeur:** Gallimard
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760482](https://hal.science/hal-03760482)

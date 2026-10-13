@@ -1,14 +1,14 @@
 ---
-uuid: abd8b5ef-4701-4ffb-98c0-b17b2ded5a4c
+uuid: c0d1c1b0-37b9-49f4-9231-aab227fa2956
 title: "Garder les morts vivants"
-author: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
-authors: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
-abstract: "Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
+author: "Georges, Fanny, Quemener, Nelly, Julliard, Virginie, Bourdeloie, H\'el\`ene"
+authors: "Georges, Fanny, Quemener, Nelly, Julliard, Virginie, Bourdeloie, H\'el\`ene"
+abstract: "Georges, Fanny, Quemener, Nelly, Julliard, Virginie, Bourdeloie, H\'el\`ene"
 date: "2018-01-01"
 year: "2018"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-03758404"
-publisher: "Lavoisier, La Découverte"
+publisher: "Lavoisier, La D\'ecouverte"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fanny Georges, Nelly Quemener, Virginie Julliard, Hélène Bourdeloie
-- **Éditeur:** Lavoisier, La Découverte
+- **Auteurs:** Georges, Fanny, Quemener, Nelly, Julliard, Virginie, Bourdeloie, H\'el\`ene
+- **Type de publication:** misc
+- **Éditeur:** Lavoisier, La D\'ecouverte
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758404](https://hal.science/hal-03758404)
 

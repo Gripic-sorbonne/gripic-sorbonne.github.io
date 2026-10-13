@@ -1,12 +1,12 @@
 ---
-uuid: ad1dd703-fea5-44b7-bf87-88c73f7d089d
+uuid: 2982a604-e08c-494c-b0ee-b3260d292d78
 title: "Recherches Qualitatives"
-author: "Antoine Lalande"
-authors: "Antoine Lalande"
-abstract: "Antoine Lalande"
+author: "Lalande, Antoine"
+authors: "Lalande, Antoine"
+abstract: "Lalande, Antoine"
 date: "2022-01-01"
 year: "2022"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03730413"
 publisher: "ARQ Association pour la Recherche Qualitative"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Antoine Lalande
-- **Type de publication:** article-journal
+- **Auteurs:** Lalande, Antoine
+- **Type de publication:** article
 - **Éditeur:** ARQ Association pour la Recherche Qualitative
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03730413](https://hal.science/hal-03730413)
 

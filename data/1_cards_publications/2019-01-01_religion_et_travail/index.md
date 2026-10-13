@@ -1,12 +1,12 @@
 ---
-uuid: 97a07319-8ca7-474a-bf91-7cd915f4dff7
+uuid: 9156754f-afda-487c-9f01-2abe6e791a8a
 title: "Religion et travail"
-author: "Claire Galembert, Julien Tassel"
-authors: "Claire Galembert, Julien Tassel"
-abstract: "Claire Galembert, Julien Tassel"
+author: "de Galembert, Claire, Tassel, Julien"
+authors: "de Galembert, Claire, Tassel, Julien"
+abstract: "de Galembert, Claire, Tassel, Julien"
 date: "2019-01-01"
 year: "2019"
-type: ""
+type: "misc"
 url: "https://hal.science/hal-03745385"
 publisher: "Presses de Sciences Po [1999-....]"
 container_title: ""
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Claire Galembert, Julien Tassel
+- **Auteurs:** de Galembert, Claire, Tassel, Julien
+- **Type de publication:** misc
 - **Éditeur:** Presses de Sciences Po [1999-....]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03745385](https://hal.science/hal-03745385)
 

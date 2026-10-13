@@ -1,14 +1,14 @@
 ---
-uuid: 6ded8c5f-93b2-45c4-9aba-af8163347a63
-title: "Rapport Acadie-Ville de Paris, rapport final des consultations d’experts chargés de conseil stratégique sur les sujets métropolitain"
-author: "Dominique Pagès"
-authors: "Dominique Pagès"
-abstract: "Dominique Pagès"
+uuid: 5c710756-9f02-49e7-93ac-41388ce7f137
+title: "Rapport Acadie-Ville de Paris, rapport final des consultations d'experts charg\'es de conseil strat\'egique sur les sujets m\'etropolitain"
+author: "Pag\`es, Dominique"
+authors: "Pag\`es, Dominique"
+abstract: "Pag\`es, Dominique"
 date: "2010-01-01"
 year: "2010"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03754499"
-publisher: ""
+publisher: "Rapport Acadie-Ville de Paris, rapport final des consultations d'experts charg\'es de conseil strat\'egique sur les sujets m\'etropolitain"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Dominique Pagès
-- **Type de publication:** chapter
+- **Auteurs:** Pag\`es, Dominique
+- **Type de publication:** incollection
+- **Éditeur:** Rapport Acadie-Ville de Paris, rapport final des consultations d'experts charg\'es de conseil strat\'egique sur les sujets m\'etropolitain
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754499](https://hal.science/hal-03754499)
 

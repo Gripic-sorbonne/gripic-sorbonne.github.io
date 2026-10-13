@@ -1,14 +1,14 @@
 ---
-uuid: fe6afe21-45ef-4cb4-a533-86e40384c60a
+uuid: 06bc841e-f6ab-495b-8057-515efd06990a
 title: "Applied Baudrillard Conference"
-author: "Emmanuelle Fantin"
-authors: "Emmanuelle Fantin"
-abstract: "Emmanuelle Fantin"
+author: "Fantin, Emmanuelle"
+authors: "Fantin, Emmanuelle"
+abstract: "Fantin, Emmanuelle"
 date: "2018-01-01"
 year: "2018"
-type: "paper-conference"
+type: "inproceedings"
 url: "https://hal.science/hal-03964064"
-publisher: ""
+publisher: "Applied Baudrillard Conference"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Emmanuelle Fantin
-- **Type de publication:** paper-conference
+- **Auteurs:** Fantin, Emmanuelle
+- **Type de publication:** inproceedings
+- **Éditeur:** Applied Baudrillard Conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964064](https://hal.science/hal-03964064)
 

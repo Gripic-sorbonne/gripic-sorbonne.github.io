@@ -1,14 +1,14 @@
 ---
-uuid: a89cd731-5c44-4bfa-97f6-606a54833815
+uuid: 342720c3-5a2d-4ed6-934c-01d465d89262
 title: "Publics et TIC. Confrontations conceptuelles et recherches empiriques"
-author: "Karine Berthelot-Guiet, Nathalie Pignard-Cheynel, Didier Baltazart"
-authors: "Karine Berthelot-Guiet, Nathalie Pignard-Cheynel, Didier Baltazart"
-abstract: "Karine Berthelot-Guiet, Nathalie Pignard-Cheynel, Didier Baltazart"
+author: "Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier"
+authors: "Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier"
+abstract: "Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier"
 date: "2016-01-01"
 year: "2016"
-type: "chapter"
+type: "incollection"
 url: "https://hal.science/hal-03749748"
-publisher: ""
+publisher: "Publics et TIC. Confrontations conceptuelles et recherches empiriques"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Karine Berthelot-Guiet, Nathalie Pignard-Cheynel, Didier Baltazart
-- **Type de publication:** chapter
+- **Auteurs:** Berthelot-Guiet, Karine, Pignard-Cheynel, Nathalie, Baltazart, Didier
+- **Type de publication:** incollection
+- **Éditeur:** Publics et TIC. Confrontations conceptuelles et recherches empiriques
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749748](https://hal.science/hal-03749748)
 

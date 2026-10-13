@@ -1,9 +1,9 @@
 ---
-uuid: 4b15b562-b209-41a7-a39a-2a90a249fbe4
+uuid: ed84c541-ceb6-401b-a7a6-7889efa682ea
 title: "Zola journaliste"
-author: "Adeline Wrona"
-authors: "Adeline Wrona"
-abstract: "Adeline Wrona"
+author: "Wrona, Adeline"
+authors: "Wrona, Adeline"
+abstract: "Wrona, Adeline"
 date: "2012-01-01"
 year: "2012"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Adeline Wrona
+- **Auteurs:** Wrona, Adeline
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767149](https://hal.science/hal-03767149)
 

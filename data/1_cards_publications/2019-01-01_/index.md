@@ -1,9 +1,9 @@
 ---
-uuid: b639f225-32d0-4349-87eb-118a53890117
+uuid: 09cd3c96-af7e-4788-88f4-74f1e60a16cc
 title: "نگاهی به نشانه شناسی رسانه"
-author: "Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi"
-authors: "Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi"
-abstract: "Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi"
+author: "SALEH BOLOURDI, Anita, Mahdavi, Maryam, Ejtehadi, Leyla, Alipoor, Nafiseh, Jafari, Fatemeh, Nejabati, Mohammad, Chaychi, Somayeh, Karimi Alavi, Mahmood"
+authors: "SALEH BOLOURDI, Anita, Mahdavi, Maryam, Ejtehadi, Leyla, Alipoor, Nafiseh, Jafari, Fatemeh, Nejabati, Mohammad, Chaychi, Somayeh, Karimi Alavi, Mahmood"
+abstract: "SALEH BOLOURDI, Anita, Mahdavi, Maryam, Ejtehadi, Leyla, Alipoor, Nafiseh, Jafari, Fatemeh, Nejabati, Mohammad, Chaychi, Somayeh, Karimi Alavi, Mahmood"
 date: "2019-01-01"
 year: "2019"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi
+- **Auteurs:** SALEH BOLOURDI, Anita, Mahdavi, Maryam, Ejtehadi, Leyla, Alipoor, Nafiseh, Jafari, Fatemeh, Nejabati, Mohammad, Chaychi, Somayeh, Karimi Alavi, Mahmood
 - **Type de publication:** book
 - **Éditeur:** Andisheh Ehsan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04163658](https://hal.science/hal-04163658)

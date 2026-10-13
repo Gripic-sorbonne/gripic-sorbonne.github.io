@@ -1,14 +1,14 @@
 ---
-uuid: 7cfd6a31-ae2d-4ce4-8eee-28e68527ded0
+uuid: 6b9968ba-265b-421f-87e5-4bc2c6ec112e
 title: "Mondes du tourisme"
-author: "hecate vergopoulos"
-authors: "hecate vergopoulos"
-abstract: "hecate vergopoulos"
+author: "vergopoulos, hecate"
+authors: "vergopoulos, hecate"
+abstract: "vergopoulos, hecate"
 date: "2011-01-01"
 year: "2011"
-type: "article-journal"
+type: "article"
 url: "https://hal.science/hal-03767029"
-publisher: "Paris: Éd. touristiques européennes"
+publisher: "Paris: \'Ed. touristiques europ\'eennes"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** hecate vergopoulos
-- **Type de publication:** article-journal
-- **Éditeur:** Paris: Éd. touristiques européennes
+- **Auteurs:** vergopoulos, hecate
+- **Type de publication:** article
+- **Éditeur:** Paris: \'Ed. touristiques europ\'eennes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767029](https://hal.science/hal-03767029)
 
