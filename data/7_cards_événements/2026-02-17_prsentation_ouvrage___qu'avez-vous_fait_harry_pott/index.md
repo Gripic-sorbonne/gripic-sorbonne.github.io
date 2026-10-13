@@ -1,8 +1,9 @@
 ---
-uuid: 812a2c1e-3bbb-4631-9990-96c647e6861d
+uuid: ae9bb73e-b30a-4f72-89c6-1a63f589d7bb
 title: "Présentation ouvrage \" Qu'avez-vous fait à Harry Potter\""
 author: "Sorbonne Université Presses"
 date: "2026-02-17"
+year: "2026"
 event: true
 image: "no_event.webp"
 abstract: "Mardi 17 février 2026 - 18:00 Autre événement Présentation ouvrage \" Qu'avez-vous fait à Harry Potter\" Lieu :  Bibliothèque de la Maison de la recherche 28, rue Serpente 75006 Paris France Organisé par : Sorbonne Université Presses ... Lire la suite"

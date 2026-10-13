@@ -1,8 +1,9 @@
 ---
-uuid: e0dde596-4675-44cb-a9de-55201207c359
+uuid: eed8f385-a0c5-4237-819b-cc5b7d0de37b
 title: "Journée d'étude doctorale"
 author: "Comité d'organisation JE doctorale"
 date: "2025-06-03"
+year: "2025"
 event: true
 image: "no_event.webp"
 abstract: "Mardi 3 juin 2025 - 09:15 Journée(s) d'étude Journée d'étude doctorale Lieu :  Maison de la recherche, 26, rue Serpente 75006 Paris France Organisé par : Comité d'organisation JE doctorale ... Lire la suite"

@@ -1,5 +1,5 @@
 ---
-uuid: 42bdc031-deb0-468d-a733-8f7bb41caac7
+uuid: 7c194db2-1679-4fac-9be5-52193fda3877
 title: "Comunica cao publica, sociedade e cidadania"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

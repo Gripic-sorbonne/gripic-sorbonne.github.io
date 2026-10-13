@@ -1,5 +1,5 @@
 ---
-uuid: 2548700f-5055-4333-8bcf-477edf956d59
+uuid: 6dbfa06e-566e-4e1a-bb9b-e7a2ead40336
 title: "Jules Ferry 3.0. Bâtir une école créative et juste dans un monde numérique"
 author: "Pène, Sophie, Abiteboul, Serge, Balagué, Christine, Blecher, Ludovic, Bloch-Pujo, Nathalie, Briand, Michel, Garcia, Cyril, Jutand, Francis, Kaplan, Daniel, Luciani-Boyer, Pascale, Peugeot, Valérie, Stiegler, Bernard, Vallée, Brigitte"
 authors: "Pène, Sophie, Abiteboul, Serge, Balagué, Christine, Blecher, Ludovic, Bloch-Pujo, Nathalie, Briand, Michel, Garcia, Cyril, Jutand, Francis, Kaplan, Daniel, Luciani-Boyer, Pascale, Peugeot, Valérie, Stiegler, Bernard, Vallée, Brigitte"

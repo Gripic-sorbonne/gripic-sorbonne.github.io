@@ -1,8 +1,9 @@
 ---
-uuid: 264650e6-0ccb-4fb5-b8c5-94ed26d869a6
+uuid: 0b2a9e74-b39a-4029-9340-c90bd068f6c2
 title: "Séminaire \"Intelligence artificielle pour la formation GIS2IF\""
 author: "Laurent Petit"
 date: "2023-04-14"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 14 avril 2023 - 14:00 Séminaire Séminaire \"Intelligence artificielle pour la formation GIS2IF\" Lieu :  France Organisé par : Laurent Petit ... Lire la suite"

@@ -1,8 +1,9 @@
 ---
-uuid: 3d3551b0-bc6c-42ae-b95b-169616db6614
+uuid: 68324f2a-792c-4597-a155-520821085a66
 title: "Soutenance de thèse Laura Verquère"
 author: "GRIPIC"
 date: "2023-06-02"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 2 juin 2023 - 14:30 Soutenance Soutenance de thèse Laura Verquère Lieu :  1, rue Victor Cousin 75005 Paris France Organisé par : GRIPIC ... Lire la suite"

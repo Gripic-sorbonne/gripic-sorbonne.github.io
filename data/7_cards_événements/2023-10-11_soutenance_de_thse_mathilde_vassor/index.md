@@ -1,8 +1,9 @@
 ---
-uuid: e68d44fd-687b-4fb2-84f7-9dde63457fb0
+uuid: 07ed627e-0e4d-4c4e-96f5-da1ccc51135a
 title: "Soutenance de thèse Mathilde Vassor"
 author: "Etienne Candel - Gripic"
 date: "2023-10-11"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 11 octobre 2023 - 13:30 Soutenance Soutenance de thèse Mathilde Vassor L'écriture dans les relations de voisinage - Une enquête d'anthropologie communicationnelle Lieu :  France Organisé par : Etienne Candel - Gripic ... Lire la suite"

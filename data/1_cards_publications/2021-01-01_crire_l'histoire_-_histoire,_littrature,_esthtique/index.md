@@ -1,5 +1,5 @@
 ---
-uuid: c80ea9c8-fad9-4e4f-9454-8aad8d830258
+uuid: 0dc4fa32-3d3e-41f3-967c-8a32fa75e811
 title: "Écrire l'histoire - Histoire, Littérature, Esthétique"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

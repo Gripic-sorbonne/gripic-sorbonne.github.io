@@ -1,8 +1,9 @@
 ---
-uuid: 01fc4bed-e0fd-4048-972b-3c2775a52af7
+uuid: d0467cd3-5e4c-4d4d-b55a-1a094b0138b6
 title: "Formes médiatiques de l'urbanité : fantasmagories, résistances, réenchantement"
 author: "Sophie Corbillé- François Provenzano"
 date: "2023-02-09"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 9 février 2023 - 09:30 Séminaire Formes médiatiques de l'urbanité : fantasmagories, résistances, réenchantement Lieu :  France Organisé par : Sophie Corbillé- François Provenzano ... Lire la suite"

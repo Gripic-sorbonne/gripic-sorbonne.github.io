@@ -1,8 +1,9 @@
 ---
-uuid: 626fe2f5-f73a-472f-8502-6c8d4b7886d3
+uuid: 823465a9-a1ed-4356-9d8c-d8fcdb93dc5c
 title: "Séminaire \"Chemins d'écritures\""
 author: "Emmanuël Souchier"
 date: "2023-04-14"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 14 avril 2023 - 10:00 Séminaire Séminaire \"Chemins d'écritures\" Lieu :  28, rue Serpente 75006 Paris France Organisé par : Emmanuël Souchier ... Lire la suite"

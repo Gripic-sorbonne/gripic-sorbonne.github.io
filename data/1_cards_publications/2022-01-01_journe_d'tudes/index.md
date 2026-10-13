@@ -1,5 +1,5 @@
 ---
-uuid: ef95b527-1551-4b5e-95da-259d924036c4
+uuid: e5c1f144-e88a-427d-b917-106ccd5cd66c
 title: "Journée d'études"
 author: "Bazin, Maëlle, Bénoliel, Ariane, Buisson, Charlotte, DA SILVA, Jaércio, Despontin Lefèvre, Irène, Doukhan, David, Dubec, Sophie, Hédin, Salomé, Itoh, Yukiko, Leblanc, Audrey, Méadel, Cécile, Poels, Géraldine, Quemener, Nelly, Sapio, Giuseppina, Tible, Anna, Wetzels, Jeanne"
 authors: "Bazin, Maëlle, Bénoliel, Ariane, Buisson, Charlotte, DA SILVA, Jaércio, Despontin Lefèvre, Irène, Doukhan, David, Dubec, Sophie, Hédin, Salomé, Itoh, Yukiko, Leblanc, Audrey, Méadel, Cécile, Poels, Géraldine, Quemener, Nelly, Sapio, Giuseppina, Tible, Anna, Wetzels, Jeanne"

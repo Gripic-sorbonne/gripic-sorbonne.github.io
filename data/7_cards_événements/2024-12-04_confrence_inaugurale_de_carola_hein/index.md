@@ -1,8 +1,9 @@
 ---
-uuid: 068a8e42-aa2d-4e1d-8a7a-d0b60579a1ee
+uuid: b8874e0e-2b9c-483d-8af6-1536374ef332
 title: "Conférence inaugurale de Carola Hein"
 author: "Valerie Jeanne-Perrier/Olivier Aïm"
 date: "2024-12-04"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 4 décembre 2024 - 14:45 Conférence Conférence inaugurale de Carola Hein Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Valerie Jeanne-Perrier/Olivier Aïm ... Lire la suite"

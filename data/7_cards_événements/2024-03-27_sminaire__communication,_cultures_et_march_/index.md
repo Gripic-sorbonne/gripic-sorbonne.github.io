@@ -1,8 +1,9 @@
 ---
-uuid: 23f7f84b-e31f-4a04-838e-3d991eb33fcb
+uuid: f985e7fa-47b6-4ad3-a8bc-e856042734ca
 title: "Séminaire \"Communication, cultures et marché\""
 author: "Caroline Marti"
 date: "2024-03-27"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 27 mars 2024 - 17:00 Séminaire Séminaire \"Communication, cultures et marché\" Lieu :  28, rue Serpente 75006 Paris France Organisé par : Caroline Marti ... Lire la suite"

@@ -1,5 +1,5 @@
 ---
-uuid: f37e5bc0-8b7a-487a-80ba-aff079e874c8
+uuid: fe5e75d2-cf61-4c03-a67a-b394dfa8d088
 title: "Congrès de l'AFS (Association Fran caise de Sociologie)"
 author: "Gaglio, Gérald, Foli, Olivia"
 authors: "Gaglio, Gérald, Foli, Olivia"

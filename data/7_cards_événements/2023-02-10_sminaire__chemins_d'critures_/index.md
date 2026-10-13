@@ -1,8 +1,9 @@
 ---
-uuid: c660b7eb-95a3-45a6-91f8-8c02806e86d6
+uuid: 5ef3c040-fd20-427e-89f3-4f267fd348d4
 title: "Séminaire \"Chemins d'écritures\""
 author: "Emmanuël Souchier"
 date: "2023-02-10"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 10 février 2023 - 10:00 Séminaire Séminaire \"Chemins d'écritures\" Eric Méchoulan : De l'illisible Lieu :  28, rue Serpente 75006 Paris France Organisé par : Emmanuël Souchier ... Lire la suite"

@@ -1,8 +1,9 @@
 ---
-uuid: cc95b9da-759f-4688-9cc4-b18b669b5273
+uuid: 32500803-e297-45d2-acf1-7ac0c53ffc1a
 title: "Séminaire \" Les ressorts conflictuels de la liberté d'expression\""
 author: "Adélie Laruncet - Thibault Grison"
 date: "2026-02-06"
+year: "2026"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 6 février 2026 - 13:00 Séminaire Séminaire \" Les ressorts conflictuels de la liberté d'expression\" Lieu :  Maison de la recherche, 28 , rue Serpente - salle D421 75006 Paris France Organisé par : Adélie Laruncet - Thibault Grison ... Lire la suite"

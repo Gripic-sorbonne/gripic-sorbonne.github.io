@@ -1,5 +1,5 @@
 ---
-uuid: 784dbab0-e95d-402c-8657-198d4c2a605b
+uuid: 0c31e8a8-531e-4875-84db-c9420fc71558
 title: "La vie privée à l'époque de sa surveillabilité numérique"
 author: "AIM, Olivier"
 authors: "AIM, Olivier"

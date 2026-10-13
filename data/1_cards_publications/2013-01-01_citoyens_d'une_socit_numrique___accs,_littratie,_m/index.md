@@ -1,5 +1,5 @@
 ---
-uuid: e9d5027a-a6f7-4d48-ba12-2bd738fc3c3f
+uuid: 12a5997b-c6b2-469e-9407-91334fb19be4
 title: "Citoyens d'une société numérique : accès, littératie, médiations, pouvoir d'agir : pour une nouvelle politique d'inclusion"
 author: "Abiteboul, Serge, Andrieux, Nathalie, Briand, Michel, Garcia, Cyril, Harris, Audrey, Kaplan, Daniel, Le Ny, Florence, Pène, Sophie, Peugeot, Valérie, Thieulin, Benoît, Vallée, Brigitte, Balagué, Christine"
 authors: "Abiteboul, Serge, Andrieux, Nathalie, Briand, Michel, Garcia, Cyril, Harris, Audrey, Kaplan, Daniel, Le Ny, Florence, Pène, Sophie, Peugeot, Valérie, Thieulin, Benoît, Vallée, Brigitte, Balagué, Christine"

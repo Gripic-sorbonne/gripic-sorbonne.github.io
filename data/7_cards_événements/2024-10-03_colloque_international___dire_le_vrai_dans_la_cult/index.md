@@ -1,8 +1,9 @@
 ---
-uuid: 5ffefb66-5864-4d5e-a9fa-b068d6a57162
+uuid: 21945419-b221-41bc-8825-05709a7dc344
 title: "Colloque international \" Dire le vrai dans la culture médiatique\""
 author: "Sophie Corbille - Guillaume Pinson"
 date: "2024-10-03"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 3 octobre 2024 - 08:45 au vendredi 4 octobre 2024 - 17:00 Colloque Colloque international \" Dire le vrai dans la culture médiatique\" Lieu :  77, rue de Villiers 92220 Neuilly sur Seine France Organisé par : Sophie Corbille - Guillaume Pinson ... Lire la suite"

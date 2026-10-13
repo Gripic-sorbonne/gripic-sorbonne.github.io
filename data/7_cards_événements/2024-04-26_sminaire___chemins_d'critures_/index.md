@@ -1,8 +1,9 @@
 ---
-uuid: a7630fca-b850-423d-b3b8-50c7fe502022
+uuid: d0799e63-375d-411b-9c94-dbf5c8072911
 title: "Séminaire \" Chemins d'écritures\""
 author: "Emmanuel Souchier - Elsa Tadier- Anne Zali"
 date: "2024-04-26"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Vendredi 26 avril 2024 - 10:00 Séminaire Séminaire \" Chemins d'écritures\" L'écriture et la mort Lieu :  Maison de la recherche, 28 rue Serpente 75006 Paris France Organisé par : Emmanuel Souchier - Elsa Tadier- Anne Zali ... Lire la suite"

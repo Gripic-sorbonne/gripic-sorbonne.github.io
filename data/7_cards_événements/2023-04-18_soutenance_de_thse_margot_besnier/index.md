@@ -1,8 +1,9 @@
 ---
-uuid: bcb66647-8156-4c7e-9598-1f6ef71c4f26
+uuid: 0bbbfcea-1b6d-4609-98f8-838893bc5689
 title: "Soutenance de thèse Margot BESNIER"
 author: "Karine Berthelot-Guiet"
 date: "2023-04-18"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Mardi 18 avril 2023 - 09:00 Soutenance Soutenance de thèse Margot BESNIER Lieu :  France Organisé par : Karine Berthelot-Guiet ... Lire la suite"

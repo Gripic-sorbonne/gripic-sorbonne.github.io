@@ -1,5 +1,5 @@
 ---
-uuid: 4a0ff8b2-aba6-4e11-ac8e-b5d72fb2cd7f
+uuid: ea9bf0c4-38c3-4765-8ea0-e7a2aba1078a
 title: "50 ans de communication"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"

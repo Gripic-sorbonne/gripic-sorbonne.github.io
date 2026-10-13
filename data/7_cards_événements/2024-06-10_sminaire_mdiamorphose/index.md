@@ -1,8 +1,9 @@
 ---
-uuid: 3454871e-cda8-4359-976c-6ab27219c6c8
+uuid: c14d9d5b-8de1-4897-aa0e-48fe03c51d17
 title: "Séminaire Médiamorphose"
 author: "Valérie Jeanne-Perrier/Pauline Escandé Gauquié/IMSIC"
 date: "2024-06-10"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Lundi 10 juin 2024 - 09:00 Séminaire Séminaire Médiamorphose Expérimenter la mer Lieu :  21, rue Vigile Marron 13005 Marseille France Organisé par : Valérie Jeanne-Perrier/Pauline Escandé Gauquié/IMSIC ... Lire la suite"

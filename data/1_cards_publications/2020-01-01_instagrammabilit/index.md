@@ -1,5 +1,5 @@
 ---
-uuid: 42ac3b58-c2d7-4810-9dea-d8597f9050eb
+uuid: 0c34312c-0bc8-4b31-aab8-67c3791087fd
 title: "Instagrammabilité"
 author: "AIM, Olivier"
 authors: "AIM, Olivier"

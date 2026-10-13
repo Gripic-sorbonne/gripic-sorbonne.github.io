@@ -1,5 +1,5 @@
 ---
-uuid: c923175c-5665-44bd-914f-5a995a2da9fc
+uuid: 0d8314b9-214a-4529-a920-9c7b83a1695d
 title: "Photographie de presse. Régimes de croyance"
 author: "Fabre, Maxime"
 authors: "Fabre, Maxime"

@@ -1,5 +1,5 @@
 ---
-uuid: c63e6bf9-fbdc-4ea5-bd34-de198c67b8e6
+uuid: 52ee81eb-2721-4921-af33-086c859c6326
 title: "Design, Arts, Médias"
 author: "Lucas-Boursier, Jeremy"
 authors: "Lucas-Boursier, Jeremy"

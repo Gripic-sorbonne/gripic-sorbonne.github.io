@@ -1,5 +1,5 @@
 ---
-uuid: 5a66a582-ab2d-4d6e-9740-9dbc1a627cd9
+uuid: 04891fba-49a0-4054-99ef-ee16589a1287
 title: "Un manuel de journalisme au service des `` invisibles '' ? Le cas du Data Journalism Handbook"
 author: "Heuguet, Guillaume, Langlais, Pierre-Carl"
 authors: "Heuguet, Guillaume, Langlais, Pierre-Carl"

@@ -1,8 +1,9 @@
 ---
-uuid: b8bd3731-0004-4073-921d-4bee2e67ec89
+uuid: e0da8e41-5b6b-4927-902c-d23aa47a7d04
 title: "Colloque Observatoire des discours de/sur l'Europe"
 author: "Juliette Charbonneaux"
 date: "2023-11-16"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 16 novembre 2023 - 09:00 au vendredi 17 novembre 2023 - 18:00 Colloque Colloque Observatoire des discours de/sur l'Europe \" Dispositifs d'Europe, dispositifs européens\" Lieu :  77, rue de Villiers 92200 Neuilly Sur Seine France Organisé par : Juliette Charbonneaux ... Lire la suite"

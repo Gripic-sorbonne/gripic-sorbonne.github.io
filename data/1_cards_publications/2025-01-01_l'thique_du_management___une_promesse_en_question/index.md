@@ -1,5 +1,5 @@
 ---
-uuid: 519fead0-8a81-4db9-b44f-1793cef8adf8
+uuid: a2219197-1905-434f-bc65-5dc4aa9a6450
 title: "L'éthique du management : une promesse en question"
 author: "Malaterre, Florian"
 authors: "Malaterre, Florian"

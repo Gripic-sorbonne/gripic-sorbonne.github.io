@@ -1,5 +1,5 @@
 ---
-uuid: fa444c0b-2500-4e88-9187-7f33ba4ea4b0
+uuid: 5cf539ab-c4e7-4db1-b5a4-cf3f1eb76a3b
 title: "S'instituer par l'écriture en ligne,Communication & langages, 2017, 168 pages."
 author: "Gkouskou-Giannakou, Pergia, Candel, Etienne"
 authors: "Gkouskou-Giannakou, Pergia, Candel, Etienne"

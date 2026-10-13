@@ -1,5 +1,5 @@
 ---
-uuid: 65072b60-dad4-4ab1-a58c-9916d7b0e11d
+uuid: 88d8bd13-bc3f-41dd-b157-47e2a6b65741
 title: "Journée d'études ''La presse et la conquête de l'air. Histoire, imaginaires, poétiques''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

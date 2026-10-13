@@ -1,5 +1,5 @@
 ---
-uuid: 2adca228-8220-4d00-bc83-624542ed086a
+uuid: 8b247f8d-dfe6-44d0-aebf-ae24c8f7ffb2
 title: "``ldots parce qu'ici c'est de peinture qu'il s'agit !''"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

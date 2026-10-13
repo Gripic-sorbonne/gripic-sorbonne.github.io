@@ -1,8 +1,9 @@
 ---
-uuid: 7d699896-6bd7-4370-9c97-98454a4daba5
+uuid: 4253b223-7900-421d-944e-5e9613808dc6
 title: "Soutenance de thèse Clotilde Chevet"
 author: "Emmanuël Souchier"
 date: "2023-11-29"
+year: "2023"
 event: true
 image: "no_event.webp"
 abstract: "Mercredi 29 novembre 2023 - 14:00 Soutenance Soutenance de thèse Clotilde Chevet Lieu :  77, rue de Villiers Petit amphi 115 92200 Neuilly Sur Seine France Organisé par : Emmanuël Souchier ... Lire la suite"

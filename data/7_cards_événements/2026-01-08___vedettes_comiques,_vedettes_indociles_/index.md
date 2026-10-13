@@ -1,8 +1,9 @@
 ---
-uuid: 41d26a79-d205-4c30-a55e-7c42a012a590
+uuid: 12e8d253-6026-45f8-8be6-99c0377ddcc4
 title: "\" Vedettes comiques, vedettes indociles\""
 author: "Nelly Quemener"
 date: "2026-01-08"
+year: "2026"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 8 janvier 2026 - 14:00 au vendredi 9 janvier 2026 - 16:30 Journée(s) d'étude \" Vedettes comiques, vedettes indociles\" Lieu :  Maison de la recherche, 28 , rue Serpente - salle D323 75006 Paris France Organisé par : Nelly Quemener ... Lire la suite"

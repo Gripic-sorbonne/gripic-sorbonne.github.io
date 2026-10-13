@@ -1,5 +1,5 @@
 ---
-uuid: cd7feb41-07d4-4148-b90b-0bc83cc17bde
+uuid: 7074e653-95d6-442f-96fb-c665a3bfc486
 title: "Memory, Commemoration and Communication : Looking Back, Looking Forward"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

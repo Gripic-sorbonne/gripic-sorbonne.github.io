@@ -1,5 +1,5 @@
 ---
-uuid: c5cc3b64-f3fd-4215-b9c7-a738b9c4034d
+uuid: 7b4e6064-f6ff-43ca-ae90-0d778b6120eb
 title: "Communication politique"
 author: "Devars, Thierry"
 authors: "Devars, Thierry"

@@ -1,5 +1,5 @@
 ---
-uuid: e745d5a1-f9ce-4388-a69e-2d5e9020735e
+uuid: 387f1761-7e6a-47d5-bc37-94d54ef51781
 title: "Raymond Queneau"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

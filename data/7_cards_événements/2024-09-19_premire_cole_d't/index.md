@@ -1,8 +1,9 @@
 ---
-uuid: 0eb73fec-4d86-4b11-9773-e9d311323311
+uuid: aab24c06-8c31-4b15-9ab0-01a4165f2510
 title: "Première école d'été"
 author: "Ecole doctorale"
 date: "2024-09-19"
+year: "2024"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 19 septembre 2024 - 09:30 Autre événement Première école d'été La question du pouvoir Lieu :  Chateau de Versailles France Organisé par : Ecole doctorale ... Lire la suite"

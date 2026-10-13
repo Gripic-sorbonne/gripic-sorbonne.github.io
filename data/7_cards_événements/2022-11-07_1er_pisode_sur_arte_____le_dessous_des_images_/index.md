@@ -1,8 +1,9 @@
 ---
-uuid: 851b36a1-9ed2-4c29-83e0-45f7710d52eb
+uuid: a178a8d7-034f-44e2-8da6-a1b321a32a16
 title: "1er épisode sur ARTE : \" le dessous des images\""
 author: "Maxime Fabre ( associe à ARTE)"
 date: "2022-11-07"
+year: "2022"
 event: true
 image: "no_event.webp"
 abstract: "Lundi 7 novembre 2022 - 17:00 Autre événement 1er épisode sur ARTE : \" le dessous des images\" La catastrophe et les parasols Lieu :  France Organisé par : Maxime Fabre ( associe à ARTE) ... Lire la suite"

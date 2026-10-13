@@ -1,5 +1,5 @@
 ---
-uuid: 4f3d8d58-194b-4e80-a095-09b63de3db9a
+uuid: 61e55123-c45e-4393-89f7-3a46666f1838
 title: "Journée d'étude Pesticides et Santé des Travailleurs Agricoles, Journées d'étude SocioAgriPest, INRA"
 author: "Allard-Huver, Fran cois"
 authors: "Allard-Huver, Fran cois"

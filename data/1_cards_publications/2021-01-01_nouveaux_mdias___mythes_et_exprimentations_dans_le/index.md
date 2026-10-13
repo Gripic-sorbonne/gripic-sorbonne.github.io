@@ -1,5 +1,5 @@
 ---
-uuid: 7fbdcbc5-b1ce-4937-bc5a-7630679a6c7d
+uuid: 6367b97c-3f63-46d3-afef-38dda28974f5
 title: "Nouveaux médias : mythes et expérimentations dans les arts"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

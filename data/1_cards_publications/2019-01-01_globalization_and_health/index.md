@@ -1,5 +1,5 @@
 ---
-uuid: fd1ba657-fbc8-448b-9e82-439766f15fd1
+uuid: e0a59ebd-2688-4bb5-a2a2-f1998bb6a110
 title: "Globalization and Health"
 author: "Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer"
 authors: "Barteit, Sandra, Sié, Ali, Yé, Maurice, Depoux, Anneliese, Louis, Valérie, Sauerborn, Rainer"

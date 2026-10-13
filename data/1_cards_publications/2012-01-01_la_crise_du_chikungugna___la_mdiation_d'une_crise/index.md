@@ -1,5 +1,5 @@
 ---
-uuid: 981c32e5-b96d-403e-9bb9-955b141a4856
+uuid: f3928a3f-4e58-4a1d-8b63-d56f9a29f7a4
 title: "La crise du chikungugna : la médiation d'une crise"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

@@ -1,5 +1,5 @@
 ---
-uuid: f41bd31e-a2d3-4d6f-bdb0-cc9013100843
+uuid: 5c8b545f-bc7d-4aa5-9b9e-67d10fd69204
 title: "Hospitalité : enjeux sociaux, urbains et environnementaux -- Partie 1/2"
 author: "AIM, Olivier, Houbart, Madeleine, Lallement, Emmanuelle, Louche, Barnabé, Roussin, Célia"
 authors: "AIM, Olivier, Houbart, Madeleine, Lallement, Emmanuelle, Louche, Barnabé, Roussin, Célia"

@@ -1,8 +1,9 @@
 ---
-uuid: b4775d9d-f73b-417b-8303-033916a22461
+uuid: f020cfc3-daa9-42d8-8726-0a23e6b625db
 title: "Colloque international : Symposium Rhizome Rosi"
 author: "Nelly Quemener, Marco dell Omodarme, Krista Faurie"
 date: "2026-01-15"
+year: "2026"
 event: true
 image: "no_event.webp"
 abstract: "Jeudi 15 janvier 2026 - 09:30 au vendredi 16 janvier 2026 - 18:30 Colloque Colloque international : Symposium Rhizome Rosi Lieu :  Reid Hall, 4, rue Chevreuse 75006 Paris France Organisé par : Nelly Quemener, Marco dell Omodarme, Krista Faurie ... Lire la suite"

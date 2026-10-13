@@ -1,5 +1,5 @@
 ---
-uuid: 87f07d2f-e63c-4a40-ae13-a88772340ba6
+uuid: 0f883b60-f336-4cc2-a6f4-8935a636fae3
 title: "Impression Projection. Une histoire médiatique entre cinéma et journalisme"
 author: "Cappi, Johanna"
 authors: "Cappi, Johanna"

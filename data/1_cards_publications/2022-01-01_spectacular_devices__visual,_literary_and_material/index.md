@@ -1,5 +1,5 @@
 ---
-uuid: 7fe50ac8-803e-4a5b-87f5-b560f3d907a4
+uuid: bfbc9241-2389-4b8f-9794-46dc1ea016dc
 title: "Spectacular Devices: Visual, Literary and Material Cultures of Wonder in the Long 19th Century"
 author: "Fantin, Emmanuelle, Corbillé, Sophie"
 authors: "Fantin, Emmanuelle, Corbillé, Sophie"
