@@ -1,5 +1,5 @@
 ---
-uuid: dc80168d-3e71-41a8-a654-f66eb81b9af1
+uuid: 38af64bd-7d1d-4492-9dd3-8e322731dbbc
 title: "L'expérience des parcs à thème. Une approche sémio-pragmatique des rapports entre proximité et évasion"
 author: "Boittiaux, Johan"
 authors: "Boittiaux, Johan"

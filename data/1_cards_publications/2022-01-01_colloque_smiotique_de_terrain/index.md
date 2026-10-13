@@ -1,5 +1,5 @@
 ---
-uuid: c15b2d11-1e20-4aba-9090-bf147aa28a39
+uuid: e477b312-a5b0-41df-a0e5-34a3532d07ce
 title: "Colloque Sémiotique de terrain"
 author: "Pailler, Fred, Julliard, Virginie"
 authors: "Pailler, Fred, Julliard, Virginie"

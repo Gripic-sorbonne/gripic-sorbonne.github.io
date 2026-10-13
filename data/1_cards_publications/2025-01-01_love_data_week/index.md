@@ -1,5 +1,5 @@
 ---
-uuid: 0dbabf85-8a9f-40d0-9fd3-b6b06befa4cc
+uuid: b9aef5a1-bf80-4b74-982b-5b19f2d160e2
 title: "Love Data Week"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

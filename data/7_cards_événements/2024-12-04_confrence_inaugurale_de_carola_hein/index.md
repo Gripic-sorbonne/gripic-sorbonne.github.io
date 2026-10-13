@@ -1,5 +1,5 @@
 ---
-uuid: 872eb5b3-daaa-450e-92f8-e12f35eb830e
+uuid: ce9608ba-d82b-4609-a305-572de85fe3e0
 title: "Conférence inaugurale de Carola Hein"
 author: "Valerie Jeanne-Perrier/Olivier Aïm"
 date: "2024-12-04"

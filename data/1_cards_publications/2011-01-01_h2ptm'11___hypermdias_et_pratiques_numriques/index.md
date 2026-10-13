@@ -1,5 +1,5 @@
 ---
-uuid: 15484b7d-db2e-4c6e-8cd3-a6154cae235a
+uuid: 2ee248a6-8efd-49a3-a062-9bda68c0d912
 title: "H2PTM'11 : Hypermédias et pratiques numériques"
 author: "Saleh, Imad, Massou, Luc, Leleu-Merviel, Sylvie, Jeanneret, Yves, Bouhai, Nasreddine, Morelli, Pierre"
 authors: "Saleh, Imad, Massou, Luc, Leleu-Merviel, Sylvie, Jeanneret, Yves, Bouhai, Nasreddine, Morelli, Pierre"

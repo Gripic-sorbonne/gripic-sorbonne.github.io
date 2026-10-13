@@ -1,5 +1,5 @@
 ---
-uuid: bf852beb-0aed-4c9e-bbf9-13feeea6e670
+uuid: ffc2ace7-6818-405c-9373-e925192f2db9
 title: "Parole publique"
 author: "Richard, Véronique"
 authors: "Richard, Véronique"

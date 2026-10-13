@@ -1,5 +1,5 @@
 ---
-uuid: 41c11626-0aea-4316-9f0f-1595e4ec501f
+uuid: 1d6b811e-03de-4e6b-bbd9-ff127b275f66
 title: "Journée d'étude ''Valorisations et appropriations numériques des patrimoines et des mémoires. Communautés et pratiques d'écritures''"
 author: "Gaillard, Julien"
 authors: "Gaillard, Julien"

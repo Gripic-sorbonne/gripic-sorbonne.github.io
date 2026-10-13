@@ -1,5 +1,5 @@
 ---
-uuid: 30f27949-e132-4fcb-a021-b0257bbfe8cb
+uuid: 7accb067-647a-4fcb-9c1f-e45d42fd32d1
 title: "Colloque International ''Le Secret : un enjeu poétique, rhétorique et moral (XVIIe-XVIIIe siècle)''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

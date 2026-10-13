@@ -1,5 +1,5 @@
 ---
-uuid: 0212a558-4364-4871-b221-402f903d9ed2
+uuid: 916670b1-84ef-40c4-af74-6a02994a2dbb
 title: "Ministère de l'Education, DGESCO C2 - Direction Générale de l'Enseignement Scolaire"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

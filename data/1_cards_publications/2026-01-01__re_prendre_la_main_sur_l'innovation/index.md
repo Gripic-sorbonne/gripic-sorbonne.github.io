@@ -1,5 +1,5 @@
 ---
-uuid: 7af08db9-47d2-4c46-ac44-099daa3875ff
+uuid: f1bac520-a03d-4196-8484-fa1f94e6ab60
 title: "(Re)prendre la main sur l'innovation"
 author: "Garmon, Ines, Martin-Juchat, Fabienne"
 authors: "Garmon, Ines, Martin-Juchat, Fabienne"

@@ -1,5 +1,5 @@
 ---
-uuid: 38c2e7bf-9a9b-4b34-9cfd-32ac1d0492eb
+uuid: 9ee6bd97-401c-4e5d-a2ac-e0ac33c18948
 title: "Colloque Loisirs et Travail"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

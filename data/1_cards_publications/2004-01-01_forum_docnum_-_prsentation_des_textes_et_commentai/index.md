@@ -1,5 +1,5 @@
 ---
-uuid: d2f07cf0-364d-4c23-8ac7-7ae6a72f4927
+uuid: 98323dc4-0844-45f2-8efe-caa17f31fe93
 title: "Forum DocNum - présentation des textes et commentaires"
 author: "Augier, Marc, Broudoux, Evelyne, Cotte, Dominique, Ertzscheid, Olivier, Gallezot, Gabriel, Jeanneret, Yves, Leleu-Merviel, Sylvie, Lund, Niels Windfeld, Réty, Jean-Hugues, Salaün, Jean-Michel, Totschnig, Michael, Zeller, Jean-Daniel"
 authors: "Augier, Marc, Broudoux, Evelyne, Cotte, Dominique, Ertzscheid, Olivier, Gallezot, Gabriel, Jeanneret, Yves, Leleu-Merviel, Sylvie, Lund, Niels Windfeld, Réty, Jean-Hugues, Salaün, Jean-Michel, Totschnig, Michael, Zeller, Jean-Daniel"

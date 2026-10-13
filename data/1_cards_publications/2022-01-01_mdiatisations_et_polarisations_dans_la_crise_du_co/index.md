@@ -1,5 +1,5 @@
 ---
-uuid: 83ed10b8-2933-4186-b5fc-177c65bbfecd
+uuid: 3e51718d-f6af-4fdc-82f5-e778794e64b7
 title: "Médiatisations et polarisations dans la crise du Covid-19. Entretien avec Fran cois Allard-Huver"
 author: "Devars, Thierry, Allard-Huver, Fran cois"
 authors: "Devars, Thierry, Allard-Huver, Fran cois"

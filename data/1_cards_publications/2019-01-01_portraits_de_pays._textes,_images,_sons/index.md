@@ -1,5 +1,5 @@
 ---
-uuid: a68f07a0-55bb-4847-8d72-5bbba43b8939
+uuid: bbcfddc8-3c38-43f8-8a45-eefa0628d0b0
 title: "Portraits de pays. Textes, images, sons"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

@@ -1,5 +1,5 @@
 ---
-uuid: 6dae19d6-2ce4-4c90-8273-9ce8c6e95ab7
+uuid: 3ed308e2-31f0-42f4-94d5-760880e8e1e5
 title: "Internet a aussi changé la mode"
 author: "Jeanne Perrier, Valerie"
 authors: "Jeanne Perrier, Valerie"

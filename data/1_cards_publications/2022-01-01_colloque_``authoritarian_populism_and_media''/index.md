@@ -1,5 +1,5 @@
 ---
-uuid: efb43643-4a93-4410-b6e0-9b0cc3ae2e6e
+uuid: 59ca1fa3-fae5-4db1-85a4-5502c3994679
 title: "colloque ``AUTHORITARIAN POPULISM AND MEDIA''"
 author: "Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal"
 authors: "Charbonneaux, Juliette, Corbillé, Sophie, Froissart, Pascal"

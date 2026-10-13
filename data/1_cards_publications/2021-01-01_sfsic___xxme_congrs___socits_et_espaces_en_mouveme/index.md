@@ -1,5 +1,5 @@
 ---
-uuid: 49c28589-7d00-4f22-8c96-74444896354f
+uuid: bb464aac-e9c5-4011-b518-55ce29f4631b
 title: "SFSIC : XXème Congrès : Sociétés et espaces en mouvements"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

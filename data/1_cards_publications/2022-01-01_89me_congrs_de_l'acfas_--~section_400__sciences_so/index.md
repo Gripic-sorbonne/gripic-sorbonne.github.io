@@ -1,5 +1,5 @@
 ---
-uuid: 8b53cc1d-48ca-4dca-834b-9d116f4b96a8
+uuid: c667eafc-0755-491d-bb71-5f930fa0ccb3
 title: "89ème Congrès de l'Acfas --~Section 400 (Sciences sociales), Colloque 418 - La construction de la légitimité dans un contexte de méfiance généralisée"
 author: "Buisson, Marie-lise"
 authors: "Buisson, Marie-lise"

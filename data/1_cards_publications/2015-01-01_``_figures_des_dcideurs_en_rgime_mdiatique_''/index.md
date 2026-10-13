@@ -1,5 +1,5 @@
 ---
-uuid: fffbf445-ef30-4a84-a48c-8678da3411c4
+uuid: 53035bc2-82ad-4de8-b819-693016d1d5ce
 title: "`` Figures des décideurs en régime médiatique ''"
 author: "Jeanne Perrier, Valerie, Charbonneaux, Juliette, Bolz, Lisa"
 authors: "Jeanne Perrier, Valerie, Charbonneaux, Juliette, Bolz, Lisa"

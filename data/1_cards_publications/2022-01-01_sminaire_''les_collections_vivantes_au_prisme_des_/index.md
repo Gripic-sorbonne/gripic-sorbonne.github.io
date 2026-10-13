@@ -1,5 +1,5 @@
 ---
-uuid: c0e9e739-11a3-49f1-a007-ef180d267751
+uuid: fb67f47a-4bc8-478c-b689-2a5b8629a3af
 title: "séminaire ''Les collections vivantes au prisme des sciences humaines et sociales'',"
 author: "Fantin, Emmanuelle, Corbillé, Sophie"
 authors: "Fantin, Emmanuelle, Corbillé, Sophie"

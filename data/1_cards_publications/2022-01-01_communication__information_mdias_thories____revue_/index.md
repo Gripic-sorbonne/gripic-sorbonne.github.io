@@ -1,5 +1,5 @@
 ---
-uuid: 7f0b7e5f-c4a2-4d6f-92a7-4856c8b867a9
+uuid: 93755ad2-6d61-434c-b2a7-ee0620b44c25
 title: "Communication [Information Médias Théories] : revue québécoise des recherches et des pratiques en communication et information"
 author: "Vassor, Mathilde, Verquere, Laura"
 authors: "Vassor, Mathilde, Verquere, Laura"

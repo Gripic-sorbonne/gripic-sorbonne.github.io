@@ -1,5 +1,5 @@
 ---
-uuid: 6d9de084-0607-4db5-99b3-757f96b55148
+uuid: cc8d268c-05bc-49d5-accf-f1f1e2903dff
 title: "Histoire de l'écriture : de l'idéogramme au multimédia"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

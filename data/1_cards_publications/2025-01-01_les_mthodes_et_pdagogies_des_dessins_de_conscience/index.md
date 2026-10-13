@@ -1,5 +1,5 @@
 ---
-uuid: 7e217f50-491c-4ebd-8f7b-69fee177de70
+uuid: c4774e81-1b71-4264-aaca-90c69a661b41
 title: "Les Méthodes et Pédagogies des dessins de conscience"
 author: "Garmon, Ines, Martin-Juchat, Fabienne"
 authors: "Garmon, Ines, Martin-Juchat, Fabienne"

@@ -1,5 +1,5 @@
 ---
-uuid: 62dbbb1a-69d0-46fd-9448-fe8a9e81be2a
+uuid: 9b64ee60-fa5b-4ecb-9db8-354e34bfbbe0
 title: "Quelles formations pour quelles filières ?"
 author: "Salvador, Marielle, Carlu, Géraldine, AIM, Olivier"
 authors: "Salvador, Marielle, Carlu, Géraldine, AIM, Olivier"
