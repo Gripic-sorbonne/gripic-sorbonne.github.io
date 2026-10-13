@@ -1,5 +1,5 @@
 ---
-uuid: c8c6ed61-1385-4536-bcf7-84b914c88f3b
+uuid: 7447db05-525e-47a8-af2b-5f33814872e2
 title: "Journée d'études interdisciplinaire Sorbonne Actuelle"
 author: "Chevet, Clotilde, Renaut, Laurène"
 authors: "Chevet, Clotilde, Renaut, Laurène"

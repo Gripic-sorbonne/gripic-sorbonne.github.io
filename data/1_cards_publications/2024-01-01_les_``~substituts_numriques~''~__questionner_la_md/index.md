@@ -1,5 +1,5 @@
 ---
-uuid: d07bfa07-ab4f-4cca-8aed-d3cb580e8767
+uuid: 9b54e16c-1205-42e9-ba83-337a6c4dfe06
 title: "Les ``~substituts numériques~''~: questionner la médiatisation des expositions de musée à l'écran"
 author: "Appiotti, Sébastien, Renaud, Lise"
 authors: "Appiotti, Sébastien, Renaud, Lise"

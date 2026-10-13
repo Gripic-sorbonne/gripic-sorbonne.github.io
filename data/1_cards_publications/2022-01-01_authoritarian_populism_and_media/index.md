@@ -1,5 +1,5 @@
 ---
-uuid: 369fde5a-0c7d-4f67-8f2f-0d1877172b15
+uuid: 933a500c-bffd-488c-9dc4-c0b1a57eee5a
 title: "Authoritarian Populism and Media"
 author: "Barbosa de Almeida, Thais, Cabral Salles, Camila"
 authors: "Barbosa de Almeida, Thais, Cabral Salles, Camila"

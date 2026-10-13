@@ -1,5 +1,5 @@
 ---
-uuid: 19345348-a79c-430f-9c51-6c906c5a9007
+uuid: 879f6b19-de34-47ae-8d22-d2ce2c6b6518
 title: "La prescription culturelle~: avatars et médiamorphoses, Brigitte CHAPELAIN et Sylvie DUCAS, Villeurbanne, Presses de l'ENSSIB, 2018, 386 p."
 author: "Rondot, Camille"
 authors: "Rondot, Camille"

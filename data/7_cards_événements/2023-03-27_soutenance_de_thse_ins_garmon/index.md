@@ -1,5 +1,5 @@
 ---
-uuid: 0527e461-75bd-4542-9939-827202d91135
+uuid: 626a4247-7b26-46b2-9fae-9f920df82abe
 title: "Soutenance de thèse Inès GARMON"
 author: "Etienne Candel - Gripic"
 date: "2023-03-27"

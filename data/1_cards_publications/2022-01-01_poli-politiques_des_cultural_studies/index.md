@@ -1,5 +1,5 @@
 ---
-uuid: d5734ce6-ca89-463e-9d1d-e1e260ecd21b
+uuid: 4a2eb303-d8be-4309-9652-4ef218b077bb
 title: "Poli-Politiques des Cultural Studies"
 author: "Cervulle, Maxime, Quemener, Nelly"
 authors: "Cervulle, Maxime, Quemener, Nelly"

@@ -1,5 +1,5 @@
 ---
-uuid: 6effc9ee-68d3-401f-aba7-47ce09f147be
+uuid: 3eb997d7-8884-41c9-9fa0-5fa603404f9c
 title: "La marque objet communicationnel"
 author: "Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian"
 authors: "Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian"

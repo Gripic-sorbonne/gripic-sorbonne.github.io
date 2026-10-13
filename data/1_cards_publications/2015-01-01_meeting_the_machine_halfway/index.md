@@ -1,5 +1,5 @@
 ---
-uuid: d4a1549f-6a3b-44f4-bb9d-05f945ee4f91
+uuid: a713b906-adf6-49c2-907c-8ea8a9910ce1
 title: "Meeting the machine halfway"
 author: "Collomb, Cléo, Goyet, Samuel"
 authors: "Collomb, Cléo, Goyet, Samuel"

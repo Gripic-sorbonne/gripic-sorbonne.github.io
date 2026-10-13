@@ -1,5 +1,5 @@
 ---
-uuid: 66496437-402d-4407-8a1c-db1368417d15
+uuid: e50b749f-6797-4892-bfe2-38f6dab2b207
 title: "22nd day-conference of the French Media Research Group (FMRG)"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

@@ -1,5 +1,5 @@
 ---
-uuid: a793f5ed-50fa-43c3-aaa4-bb68e37561b2
+uuid: a5f7284f-6ffc-4713-b955-d52afecffec9
 title: "Analyser les discours publicitaires"
 author: "Berthelot-Guiet, Karine"
 authors: "Berthelot-Guiet, Karine"

@@ -1,5 +1,5 @@
 ---
-uuid: 091764f9-65d9-40d6-8a98-8ba7f215cb86
+uuid: 3c706770-1f04-4d05-bae4-a6399fd0ecae
 title: "Journées Voltaire 2025 -- `` Voltaire et la Presse ''"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

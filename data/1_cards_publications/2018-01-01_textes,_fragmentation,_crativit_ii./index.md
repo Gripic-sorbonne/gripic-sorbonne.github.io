@@ -1,5 +1,5 @@
 ---
-uuid: adfb1db3-ba03-441e-b9e1-9fcfe6b93cb8
+uuid: f30c70d8-6954-4602-8dae-36d3a33e83b6
 title: "Textes, Fragmentation, Créativité II."
 author: "AIM, Olivier"
 authors: "AIM, Olivier"

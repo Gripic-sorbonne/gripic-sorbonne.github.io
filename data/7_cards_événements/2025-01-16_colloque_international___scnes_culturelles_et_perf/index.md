@@ -1,5 +1,5 @@
 ---
-uuid: f7f5ad6f-577c-4a46-8e73-d491f88bd37a
+uuid: b299ecaa-f21b-4bb4-9bbe-043b1264e31e
 title: "Colloque international \" Scènes culturelles et performances corporelles\""
 author: "Rym Gerwig- Nelly Quemener"
 date: "2025-01-16"

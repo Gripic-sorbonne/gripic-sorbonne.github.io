@@ -1,5 +1,5 @@
 ---
-uuid: 2bd1cc05-27ba-41db-aad4-13c6588575d6
+uuid: 6cdde19f-3a7c-42e7-af59-7df981380a03
 title: "International Conference on Media and Communication Studies. Changing Paradigm of Media Landscape in the Digital Age 2.0"
 author: "Mariau, Berenice"
 authors: "Mariau, Berenice"

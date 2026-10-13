@@ -1,5 +1,5 @@
 ---
-uuid: 2c84812b-a2fb-4922-8ddb-c26eb2b32eae
+uuid: 48f8d6de-2d74-44db-9b5c-78a7730e586e
 title: "Quaderni"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

@@ -1,5 +1,5 @@
 ---
-uuid: a824a128-e60c-4b94-9d8a-a530f13a5e13
+uuid: 060a20bd-eb3a-405b-9527-c30e7461ce32
 title: "Séminaire du Sophiapol `` Penser les surveillances ''"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

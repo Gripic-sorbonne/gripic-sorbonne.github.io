@@ -1,5 +1,5 @@
 ---
-uuid: ef9cceba-5372-476e-9d19-7126c9da77c7
+uuid: 207d1840-b7d6-4e76-a81b-fa8b464f253e
 title: "ANNE NIVAT: REPORTER DE GUERRE ET PROCESSUS D'ECRITURE"
 author: "Cappi, Johanna"
 authors: "Cappi, Johanna"
