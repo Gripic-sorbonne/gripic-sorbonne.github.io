@@ -1,5 +1,5 @@
 ---
-uuid: 0b87e7f3-db06-4217-b9bc-271069eaadbb
+uuid: ebb2379f-c129-4a4f-aa8c-7be163d43002
 title: "Food20 lab"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

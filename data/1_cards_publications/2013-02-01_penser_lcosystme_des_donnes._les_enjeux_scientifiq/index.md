@@ -1,5 +1,5 @@
 ---
-uuid: 5679dbbd-2fa4-4358-9c9f-1b258f3af0f1
+uuid: 76186bf4-2dbe-4de8-83c0-933f76bb1bc6
 title: "Penser l’écosystème des données. Les enjeux scientifiques et politiques des données numériques. Projet SACRED-CNRS"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

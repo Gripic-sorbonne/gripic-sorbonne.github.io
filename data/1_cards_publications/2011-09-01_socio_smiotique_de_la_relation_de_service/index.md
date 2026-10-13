@@ -1,5 +1,5 @@
 ---
-uuid: fd1be86a-b04b-4ba9-bce6-e23bc5339317
+uuid: ea10f2b6-143a-40aa-a1bd-0c38f9a935a2
 title: "Socio sémiotique de la relation de service"
 author: "Caroline Marti"
 authors: "Caroline Marti"

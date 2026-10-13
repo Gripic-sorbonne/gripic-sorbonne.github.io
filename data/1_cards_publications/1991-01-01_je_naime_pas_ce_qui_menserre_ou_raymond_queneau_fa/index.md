@@ -1,5 +1,5 @@
 ---
-uuid: beed4b25-0d12-4b1b-9fec-fb0d79046b73
+uuid: 953b5655-3767-44d3-9ab9-bab9accb72cb
 title: "“Je n’aime pas ce qui m’enserre” ou Raymond Queneau face au surréalisme"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

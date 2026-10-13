@@ -1,5 +1,5 @@
 ---
-uuid: 70414758-7c59-4dc1-a8bc-c7025ee87646
+uuid: 92b9248b-8a47-4439-b7fe-9a5f43c945c2
 title: "R. Queneau, Exercices de style"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

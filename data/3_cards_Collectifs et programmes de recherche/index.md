@@ -1,5 +1,5 @@
 ---
-uuid: 8b9e5376-dd00-4ebb-8065-95c02874d644
+uuid: b2d6fb72-005b-4442-8b17-4b39b71be043
 title: "Collectifs et programmes de recherche"
 ---
 # Collectifs et programmes de recherche

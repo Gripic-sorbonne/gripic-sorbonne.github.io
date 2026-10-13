@@ -1,5 +1,5 @@
 ---
-uuid: 751f864d-5401-41ae-ad47-5f0e8d224c74
+uuid: 5b8d0852-6d1b-473b-a067-0ec26a1b981c
 title: "Communication et Management : Revue internationale des sciences commerciales"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"

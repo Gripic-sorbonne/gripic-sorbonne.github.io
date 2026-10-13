@@ -1,5 +1,5 @@
 ---
-uuid: af5f19f4-2a44-4c0e-b471-d7f58fcc9a2a
+uuid: 476a18ac-ff74-41bd-993b-ed52b3416852
 title: "Humanités numériques et pratiques pédagogiques"
 author: "Émilie Remond, Thibaud Hulin, Laurent Petit, Laurent Collet"
 authors: "Émilie Remond, Thibaud Hulin, Laurent Petit, Laurent Collet"

@@ -1,5 +1,5 @@
 ---
-uuid: 5697914b-d241-462e-a5df-6d40be945284
+uuid: 467b05cd-9ca7-4b3d-9951-105d69986ff4
 title: "Cahiers Raymond Queneau, spécial exposition"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

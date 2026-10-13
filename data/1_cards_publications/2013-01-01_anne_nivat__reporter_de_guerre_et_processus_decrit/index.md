@@ -1,5 +1,5 @@
 ---
-uuid: df044e05-53ca-41b5-aadb-74cd89eb15fb
+uuid: 83eb6cf5-3104-4edd-a624-22067a559294
 title: "ANNE NIVAT: REPORTER DE GUERRE ET PROCESSUS D’ECRITURE"
 author: "Johanna Cappi"
 authors: "Johanna Cappi"

@@ -1,5 +1,5 @@
 ---
-uuid: 9341ed02-aaac-45eb-8c52-239ca3fd5f8d
+uuid: b57d6ab9-759d-49f5-ac28-59a6a186c2cf
 title: "Communication & professionnalisation"
 author: "Thomas Grignon"
 authors: "Thomas Grignon"

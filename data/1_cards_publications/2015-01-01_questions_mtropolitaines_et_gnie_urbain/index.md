@@ -1,5 +1,5 @@
 ---
-uuid: 0d7d9c34-2ed9-48bf-a44a-6805f6d9287e
+uuid: a48be3cd-77b7-4df0-8d91-a4a9e95b73a7
 title: "Questions métropolitaines et génie urbain"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"
