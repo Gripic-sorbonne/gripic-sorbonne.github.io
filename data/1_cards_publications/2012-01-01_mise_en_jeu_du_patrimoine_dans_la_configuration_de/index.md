@@ -1,5 +1,5 @@
 ---
-uuid: a734f413-b68b-4613-a1ac-ba9e80a4e2f2
+uuid: 21f0bbb9-d111-4457-bcbb-35aeb41d28c7
 title: "Mise en jeu du patrimoine dans la configuration de la ville aujourd'hui"
 author: "Corbillé, Sophie"
 authors: "Corbillé, Sophie"

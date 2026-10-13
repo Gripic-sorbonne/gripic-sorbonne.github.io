@@ -1,5 +1,5 @@
 ---
-uuid: 0b966e39-41e5-41ef-b5ee-a1d68d3fbc8f
+uuid: 9eb0a540-735b-41ce-ae04-b86824600dea
 title: "¿ Interrogations ? Revue pluridisciplinaire de sciences humaines et sociales"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

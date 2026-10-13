@@ -1,5 +1,5 @@
 ---
-uuid: 234e6476-0975-4109-b172-8009bedb5382
+uuid: af322900-01d6-49ba-91a5-a80a4af5a6e2
 title: "Séminaire `` Enjeux sociaux, mutations et pouvoirs de la vidéo ''"
 author: "Raymond, Lucie, Chevet, Clotilde, Renaut, Laurène"
 authors: "Raymond, Lucie, Chevet, Clotilde, Renaut, Laurène"

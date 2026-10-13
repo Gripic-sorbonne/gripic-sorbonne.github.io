@@ -1,5 +1,5 @@
 ---
-uuid: 789553db-3123-4ab2-a13e-47b6069d14f4
+uuid: d171e47e-fb22-4624-aaa0-ea5a838ce12a
 title: "La Civilisation du journal"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"

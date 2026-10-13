@@ -1,5 +1,5 @@
 ---
-uuid: 0d516f89-bbd3-438a-b556-56c6102a0af1
+uuid: 2b7e6b19-0a85-42c6-afea-820b6de8fb11
 title: "Nostalgies contemporaines. Média, culture et technologie"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

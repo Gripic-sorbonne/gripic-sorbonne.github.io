@@ -1,5 +1,5 @@
 ---
-uuid: 5afd8277-ab57-44bb-8b3d-639913839e6d
+uuid: 0da1dcce-2bfc-434e-97a1-5edeac669352
 title: "Séminaire du GRIPIC, `` Enjeux méthodologiques : la collecte des données et du matériaux ''"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

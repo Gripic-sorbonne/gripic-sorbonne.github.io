@@ -1,5 +1,5 @@
 ---
-uuid: d95d8be4-5cf9-47f5-a3c5-c9fd92d5aa13
+uuid: 4dc4a8db-a32a-4048-8833-8d7d3b9f28c9
 title: "Conférence dans le cadre du partenariat entre le CELSA et l'Université Saint-Joseph de Beyrouth"
 author: "Froissart, Pascal"
 authors: "Froissart, Pascal"

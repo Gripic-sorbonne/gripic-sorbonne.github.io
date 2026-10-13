@@ -1,5 +1,5 @@
 ---
-uuid: 7232e506-ed89-47d6-b5fa-67069b02740b
+uuid: 4e5752e5-c5c0-430f-ba16-7e7ab6d22d70
 title: "La société du jugement"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

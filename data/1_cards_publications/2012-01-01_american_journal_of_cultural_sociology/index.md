@@ -1,5 +1,5 @@
 ---
-uuid: 6c4f7d1d-923a-41bd-bcce-122de14e3a20
+uuid: 7a977325-828d-4976-9b37-90c40cefeadf
 title: "American Journal of Cultural Sociology"
 author: "Quemener, Nelly, Weaver, Simone"
 authors: "Quemener, Nelly, Weaver, Simone"

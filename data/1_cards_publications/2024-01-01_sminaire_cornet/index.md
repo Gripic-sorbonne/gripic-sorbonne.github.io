@@ -1,5 +1,5 @@
 ---
-uuid: 87530ad5-9706-44b4-8c19-52443fee9014
+uuid: d153ccf9-4602-4c9d-a9d6-ec0c435b221f
 title: "Séminaire CORNET"
 author: "Renaut, Laurène, Vernet, Samuel"
 authors: "Renaut, Laurène, Vernet, Samuel"

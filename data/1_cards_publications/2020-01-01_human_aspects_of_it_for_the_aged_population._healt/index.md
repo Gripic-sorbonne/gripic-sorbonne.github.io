@@ -1,5 +1,5 @@
 ---
-uuid: b577bd0a-d9c8-4cee-99fc-32f5b5863df8
+uuid: 2c08a333-b052-4b96-8d3a-f70114624ec4
 title: "Human Aspects of IT for the Aged Population. Healthy and Active Aging."
 author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
 authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"

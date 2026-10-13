@@ -1,5 +1,5 @@
 ---
-uuid: 452b6a14-7248-410a-a90f-19adc99b6bf1
+uuid: 24e055dd-be5b-4e26-8ca1-0d9c55155895
 title: "Sur le journalisme"
 author: "Charbonneaux, Juliette"
 authors: "Charbonneaux, Juliette"

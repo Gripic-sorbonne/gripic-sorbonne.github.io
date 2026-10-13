@@ -1,5 +1,5 @@
 ---
-uuid: 9cdd5e34-ecce-4e28-b650-eecb4b3e6101
+uuid: 1f583317-942e-436f-af27-aa04cd70a98b
 title: "L'information dans les organisations~: dynamique et complexité"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"

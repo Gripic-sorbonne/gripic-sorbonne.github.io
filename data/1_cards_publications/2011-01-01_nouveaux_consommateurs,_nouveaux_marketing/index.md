@@ -1,5 +1,5 @@
 ---
-uuid: 34b000b5-ed5a-4678-8db7-b67a39121ae5
+uuid: f6234e47-1f77-4974-ab3c-2bad62ffe85a
 title: "À nouveaux consommateurs, nouveaux marketing"
 author: "de Montety, Caroline"
 authors: "de Montety, Caroline"

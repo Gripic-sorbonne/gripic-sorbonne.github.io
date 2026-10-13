@@ -1,5 +1,5 @@
 ---
-uuid: e21b2e2b-8123-40cc-b80e-5ba70279da62
+uuid: 7c53a386-75d1-4a7e-920d-5dea6ffe800d
 title: "Communication & Organisation"
 author: "D'Almeida, nicole, Loudes Oliveira, Ivone, Marques, Angela Salgueiro"
 authors: "D'Almeida, nicole, Loudes Oliveira, Ivone, Marques, Angela Salgueiro"

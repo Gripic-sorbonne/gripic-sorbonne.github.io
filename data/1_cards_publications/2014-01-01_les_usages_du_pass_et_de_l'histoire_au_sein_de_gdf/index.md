@@ -1,5 +1,5 @@
 ---
-uuid: 0d4e8454-0d2e-443b-8155-83210376d46d
+uuid: 20bbb0c2-f79a-4ea1-8351-4a86ff8b37f5
 title: "Les usages du passé et de l'histoire au sein de gdf suez"
 author: "Batard, Michel, Beltran, Alain, Williot, Jean-Pierre, Tassel, Julien"
 authors: "Batard, Michel, Beltran, Alain, Williot, Jean-Pierre, Tassel, Julien"

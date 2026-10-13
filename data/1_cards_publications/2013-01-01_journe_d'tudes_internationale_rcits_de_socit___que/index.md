@@ -1,5 +1,5 @@
 ---
-uuid: cd07ccde-a69e-4d8e-8277-13b882c3329b
+uuid: ce119916-3319-42e3-a7e6-2f25254e896b
 title: "Journée d'études internationale Récits de société : quelles approches critiques ?"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

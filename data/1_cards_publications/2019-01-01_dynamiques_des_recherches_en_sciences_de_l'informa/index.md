@@ -1,5 +1,5 @@
 ---
-uuid: f3a8ec55-655d-42de-8319-4f14113ee387
+uuid: 19d2705a-79bc-40f0-8901-5a73635ead9d
 title: "Dynamiques des recherches en sciences de l'information et de la communication"
 author: "Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline"
 authors: "Damian-Gaillard, Béatrice, Isabelle, Garcin-Marrou, Rieffel, Rémy, Wrona, Adeline"

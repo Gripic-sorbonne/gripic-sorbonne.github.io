@@ -1,5 +1,5 @@
 ---
-uuid: fa7fcb06-0e01-4184-8bdf-67f354a2dc03
+uuid: 650c3fe5-1f31-4bb2-ba9f-56d0cda938d1
 title: "Journées d'hommage à Anne-Marie Houdebine, Une vie dans les signes"
 author: "Berthelot-Guiet, Karine"
 authors: "Berthelot-Guiet, Karine"

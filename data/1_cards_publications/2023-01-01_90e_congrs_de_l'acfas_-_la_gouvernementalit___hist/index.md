@@ -1,5 +1,5 @@
 ---
-uuid: c6c6bdbc-dce6-4a55-a1e2-0b1e884dcc91
+uuid: a8dac77f-b1ed-41ef-b116-a6aa504b6ab7
 title: "90e Congrès de l'Acfas - La gouvernementalité : histoire et usages d'un concept fuyant"
 author: "Marson, Claudia"
 authors: "Marson, Claudia"

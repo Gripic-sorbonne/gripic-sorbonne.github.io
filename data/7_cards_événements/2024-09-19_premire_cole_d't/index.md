@@ -1,5 +1,5 @@
 ---
-uuid: 54d4ed41-4405-4fe9-828e-acabaafa10ad
+uuid: 3ee9295e-4169-4b95-a1c1-a4f18e0ccb53
 title: "Première école d'été"
 author: "Ecole doctorale"
 date: "2024-09-19"

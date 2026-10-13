@@ -1,5 +1,5 @@
 ---
-uuid: 12978d12-3c1f-4384-a264-05dc50f9aefa
+uuid: b52b2bf3-e528-4a82-ad83-17848f834558
 title: "Romantisme : la revue du dix-neuvième siècle"
 author: "Wrona, Adeline"
 authors: "Wrona, Adeline"

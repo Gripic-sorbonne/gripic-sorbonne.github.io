@@ -1,5 +1,5 @@
 ---
-uuid: 9a9f1560-994f-483b-8c91-830955db8a74
+uuid: 3b35eccf-5333-4711-b739-699976bc0556
 title: "Colloque `` Numérisation généralisée de la société. Acteurs, pratiques, discours, enjeux ''"
 author: "Marti, Caroline"
 authors: "Marti, Caroline"

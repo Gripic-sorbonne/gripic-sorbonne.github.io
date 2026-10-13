@@ -1,5 +1,5 @@
 ---
-uuid: a0dad71b-b706-43c2-a87f-6e223cbb7b58
+uuid: 6f878c75-d278-4a6f-b7b6-2d05add5efec
 title: "Séminaire \"Médiamorphoses\""
 author: "Pauline Escande-Gauquié- Valérie Jeanne-Perrier- IMSIC-AMU"
 date: "2022-11-07"
