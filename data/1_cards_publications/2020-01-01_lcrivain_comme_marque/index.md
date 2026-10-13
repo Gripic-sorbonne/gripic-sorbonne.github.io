@@ -1,5 +1,5 @@
 ---
-uuid: 5e57ca35-a189-4ea5-9811-27262bc8a204
+uuid: 3765be2e-c13b-42a9-9a60-fbbba0a292a5
 title: "L’écrivain comme marque"
 author: "Caroline Marti"
 authors: "Caroline Marti"

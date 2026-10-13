@@ -1,5 +1,5 @@
 ---
-uuid: f751a4de-e699-46a2-9ba1-060f8ca5d080
+uuid: 0608675f-6f94-440c-b576-b93b04953ab0
 title: "La fabrication de Abu Dhabi"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

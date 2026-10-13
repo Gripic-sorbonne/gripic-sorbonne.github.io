@@ -1,5 +1,5 @@
 ---
-uuid: 5e30b816-e39b-438a-844c-c4aed6f78c0b
+uuid: 2d7ae3b4-f27c-4452-889a-bfc4190a095b
 title: "Actes du 3e Colloque international Raymond Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

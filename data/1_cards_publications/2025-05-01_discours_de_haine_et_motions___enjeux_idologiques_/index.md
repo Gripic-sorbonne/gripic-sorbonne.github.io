@@ -1,5 +1,5 @@
 ---
-uuid: 4f9025f8-ee0e-487d-b6fd-dbdb3b189046
+uuid: ad865dc8-c91e-4fd4-af7f-0f41ae7b4457
 title: "Discours de haine et émotions : enjeux idéologiques et épistémologiques"
 author: "Adélie Laruncet"
 authors: "Adélie Laruncet"

@@ -1,5 +1,5 @@
 ---
-uuid: 75817df4-0af4-447f-b5b3-010647cb5427
+uuid: fdde363f-f453-417f-9d0a-1156586aab53
 title: "L’art de lucidité"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

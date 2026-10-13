@@ -1,5 +1,5 @@
 ---
-uuid: e5185447-a72d-4d28-acd7-77023fba6351
+uuid: 4964123c-6d9c-4546-bc0a-8e0a6ac0641e
 title: "L’hégémonie du QR code en Chine"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

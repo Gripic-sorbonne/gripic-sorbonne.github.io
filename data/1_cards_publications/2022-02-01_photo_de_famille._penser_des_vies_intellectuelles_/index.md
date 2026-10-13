@@ -1,5 +1,5 @@
 ---
-uuid: 80db5831-2eff-4116-ad2d-03038f730714
+uuid: 31e77064-eed4-4dc5-b79f-eefcd1dde6ba
 title: "Photo de famille. Penser des vies intellectuelles d’un point de vue féministe"
 author: "Maxime Cervulle, Nelly Quemener"
 authors: "Maxime Cervulle, Nelly Quemener"

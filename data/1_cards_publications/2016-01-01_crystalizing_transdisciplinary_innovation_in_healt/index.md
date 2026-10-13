@@ -1,5 +1,5 @@
 ---
-uuid: ab02fdb4-c8b9-4034-95e8-36406703c18c
+uuid: e0d68071-e1ce-42ca-8eec-c7ce31646849
 title: "Crystalizing Transdisciplinary Innovation in Health Engineering"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

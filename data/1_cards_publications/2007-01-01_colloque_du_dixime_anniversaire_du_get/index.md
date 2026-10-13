@@ -1,5 +1,5 @@
 ---
-uuid: a209e284-1947-48dd-88db-736144483dab
+uuid: af1220c6-2197-49a7-8fd0-3c5e5288edf3
 title: "Colloque du dixième anniversaire du GET"
 author: "Emmanuël Souchier, Olivier Fournout, Isabelle Garron"
 authors: "Emmanuël Souchier, Olivier Fournout, Isabelle Garron"

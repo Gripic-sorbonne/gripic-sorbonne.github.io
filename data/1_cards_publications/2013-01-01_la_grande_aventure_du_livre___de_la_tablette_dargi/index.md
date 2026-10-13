@@ -1,5 +1,5 @@
 ---
-uuid: 66491686-64cd-4a2f-ab96-170b5e47d9bb
+uuid: 844dcab3-a2c7-4214-9f5d-97da464de03f
 title: "La Grande Aventure du livre : de la tablette d’argile à la tablette numérique"
 author: "Anne Zali, Marie-Odile Germain, Marie-Thérèse Gousset, Thierry Grillet, Christian Jacob, Jean-Dominique Mellot, Virginie Meyer, Anne Moeglin-Delcroix, Eve Netchine, Emmanuël Souchier, Bérénice Stoll, Lucile Trunel, Annie Vernay-Nouri, Jean-Didier Wagneur"
 authors: "Anne Zali, Marie-Odile Germain, Marie-Thérèse Gousset, Thierry Grillet, Christian Jacob, Jean-Dominique Mellot, Virginie Meyer, Anne Moeglin-Delcroix, Eve Netchine, Emmanuël Souchier, Bérénice Stoll, Lucile Trunel, Annie Vernay-Nouri, Jean-Didier Wagneur"

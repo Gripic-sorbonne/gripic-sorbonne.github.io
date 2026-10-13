@@ -1,5 +1,5 @@
 ---
-uuid: f290eba8-3b7b-488a-b46e-ea9e2a643c29
+uuid: 7c66e282-d11d-483e-b997-94c317d8dcf9
 title: "Figures de décideurs en régime médiatique"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"

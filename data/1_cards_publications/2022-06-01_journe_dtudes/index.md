@@ -1,5 +1,5 @@
 ---
-uuid: e2f41887-6a17-4cb2-8689-b2a9a6296d1e
+uuid: 85f46bf2-8bb9-4b01-b538-20cdaeee00af
 title: "Journée d’études"
 author: "Maëlle Bazin, Ariane Bénoliel, Charlotte Buisson, Jaércio DA SILVA, Irène Despontin Lefèvre, David Doukhan, Sophie Dubec, Salomé Hédin, Yukiko Itoh, Audrey Leblanc, Cécile Méadel, Géraldine Poels, Nelly Quemener, Giuseppina Sapio, Anna Tible, Jeanne Wetzels"
 authors: "Maëlle Bazin, Ariane Bénoliel, Charlotte Buisson, Jaércio DA SILVA, Irène Despontin Lefèvre, David Doukhan, Sophie Dubec, Salomé Hédin, Yukiko Itoh, Audrey Leblanc, Cécile Méadel, Géraldine Poels, Nelly Quemener, Giuseppina Sapio, Anna Tible, Jeanne Wetzels"

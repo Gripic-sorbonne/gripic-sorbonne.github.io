@@ -1,5 +1,5 @@
 ---
-uuid: 92329f36-e6b4-4004-87a6-298f90f13368
+uuid: 3aa7431f-68d2-4d99-807a-2da9f448965d
 title: "18ème édition de la journée jeunes chercheur.e.s en sciences de l’information et de la communication, ”Le positionnement des jeunes chercheur.e.s en SIC”"
 author: "Julien Gaillard"
 authors: "Julien Gaillard"

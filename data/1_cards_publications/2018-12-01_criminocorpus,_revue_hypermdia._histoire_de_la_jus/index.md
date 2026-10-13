@@ -1,5 +1,5 @@
 ---
-uuid: 3c7ea367-baf2-442b-b288-536029a21966
+uuid: 48b68b85-6982-431d-b4ce-9e7ddd9386ab
 title: "Criminocorpus, revue hypermédia. Histoire de la justice, des crimes et des peines"
 author: "Maxime Fabre"
 authors: "Maxime Fabre"

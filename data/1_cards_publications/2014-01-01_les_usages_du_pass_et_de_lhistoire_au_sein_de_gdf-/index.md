@@ -1,5 +1,5 @@
 ---
-uuid: d91f3107-6c01-41d7-ac61-7070f168cecb
+uuid: a16e4143-ef25-4b47-b3a3-7354583df94d
 title: "”Les usages du passé et de l’histoire au sein de GDF-Suez”, entretien avec Michel Batard, Alain Beltran et Jean-Pierre Williot"
 author: "Julien Tassel, Michel Batard, Alain Beltran, Jean-pierre Williot"
 authors: "Julien Tassel, Michel Batard, Alain Beltran, Jean-pierre Williot"

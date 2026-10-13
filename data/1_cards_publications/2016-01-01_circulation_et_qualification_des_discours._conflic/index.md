@@ -1,5 +1,5 @@
 ---
-uuid: 09407f08-6c71-4d8b-bdcf-5a888c7e6b88
+uuid: 542ad9e7-fca1-475b-b443-172f27f54cf7
 title: "Circulation et qualification des discours. Conflictualités dans les espaces publics (1)"
 author: "Nelly Quemener, Marion Dalibert, Aurélia Lamy"
 authors: "Nelly Quemener, Marion Dalibert, Aurélia Lamy"
