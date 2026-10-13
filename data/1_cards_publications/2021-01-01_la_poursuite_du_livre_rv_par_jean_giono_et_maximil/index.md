@@ -1,5 +1,5 @@
 ---
-uuid: 92148375-fcbb-49b3-b222-c664e499f70a
+uuid: 9d4f7996-1437-4e00-a5ee-a16e9259ae17
 title: "À la poursuite du livre rêvé par Jean Giono et Maximilien Vox. Dialogues typographiques"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

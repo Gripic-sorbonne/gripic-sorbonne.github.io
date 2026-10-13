@@ -1,5 +1,5 @@
 ---
-uuid: 51300953-ffc5-4669-bead-09b3de25cf55
+uuid: b5db32f5-b3c9-4310-bc09-2edc9f2e60f4
 title: "Numérisation des savoirs scientifiques au prisme des pratiques de recherche. Mémoires, usages et enjeux critiques"
 author: "Fabrice Papy"
 authors: "Fabrice Papy"

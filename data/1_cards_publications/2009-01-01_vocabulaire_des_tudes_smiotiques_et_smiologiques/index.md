@@ -1,5 +1,5 @@
 ---
-uuid: 06960c61-c174-4d2e-9ca0-f86ad08ccf83
+uuid: 3ccbc5e4-dfe2-4b68-83eb-6c0bc482f7c4
 title: "Vocabulaire des études sémiotiques et sémiologiques"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"

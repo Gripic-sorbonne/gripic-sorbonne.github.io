@@ -1,5 +1,5 @@
 ---
-uuid: 3b53bdf8-c049-4afe-a73c-6b7a913b399d
+uuid: 3d3572e3-b5fb-4a78-b5f6-0b87e72cdba1
 title: "Dans la tête de Sputnik"
 author: "Damien Liccia, Jean-Baptiste Delhomme"
 authors: "Damien Liccia, Jean-Baptiste Delhomme"

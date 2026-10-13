@@ -1,5 +1,5 @@
 ---
-uuid: 1effb422-9dde-42a5-99ca-a1ce37fd30df
+uuid: 8f77dd9d-82dd-450e-a58a-867167a1e602
 prettyName: UgoMoret
 
 title: "Ugo Moret"
