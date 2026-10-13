@@ -1,9 +1,9 @@
 ---
-uuid: 6a5f35e2-9e12-4f5f-81a3-163b794a2017
+uuid: 34b97d68-4d84-47cf-a711-c2fbb77c6f65
 title: "Les promesses de la communication"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2012-01-01"
 year: "2012"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
+- **Auteurs:** nicole D’Almeida
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750008](https://hal.science/hal-03750008)
 

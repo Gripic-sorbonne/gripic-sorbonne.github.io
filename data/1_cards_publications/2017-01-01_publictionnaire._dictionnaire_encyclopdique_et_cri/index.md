@@ -1,12 +1,12 @@
 ---
-uuid: a62aa3dc-7551-4bf0-9578-e97c57ed28b3
+uuid: 95374238-5355-458a-9712-8574e2522d84
 title: "Publictionnaire. Dictionnaire encyclopédique et critique des publics"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2017-01-01"
 year: "2017"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03754304"
 publisher: "Centre de recherche sur les médiations."
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** article
+- **Auteurs:** Caroline Marti
+- **Type de publication:** article-journal
 - **Éditeur:** Centre de recherche sur les médiations.
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754304](https://hal.science/hal-03754304)
 

@@ -1,14 +1,14 @@
 ---
-uuid: c078338f-3295-4542-852e-8ff7f5ea56de
-title: "Actes du Colloque Post-diplôme design Comment commémorer autrement dans l'espace public ?"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+uuid: 8869aa62-ae7b-4b3c-bd20-268cdea0da5b
+title: "Actes du Colloque Post-diplôme design Comment commémorer autrement dans l’espace public ?"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2000-01-01"
 year: "2000"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761032"
-publisher: "Actes du Colloque Post-diplôme design Comment commémorer autrement dans l'espace public ?"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
-- **Éditeur:** Actes du Colloque Post-diplôme design Comment commémorer autrement dans l'espace public ?
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761032](https://hal.science/hal-03761032)
 

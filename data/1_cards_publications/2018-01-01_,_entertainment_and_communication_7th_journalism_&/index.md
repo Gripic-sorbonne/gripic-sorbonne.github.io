@@ -1,14 +1,14 @@
 ---
-uuid: 88b1f30a-85a8-4cda-ac66-740b56079bf1
+uuid: 650d8dcc-4f3e-45aa-bd35-bf552e8d4651
 title: ", Entertainment and Communication 7th Journalism & Mass Communications Conference, JMComm 2018"
-author: "Berthelot-Guiet, Karine"
-authors: "Berthelot-Guiet, Karine"
-abstract: "Berthelot-Guiet, Karine"
+author: "Karine Berthelot-Guiet"
+authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2018-01-01"
 year: "2018"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.sorbonne-universite.fr/hal-02150637"
-publisher: ", Entertainment and Communication 7th Journalism & Mass Communications Conference, JMComm 2018"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine
-- **Type de publication:** inproceedings
-- **Éditeur:** , Entertainment and Communication 7th Journalism & Mass Communications Conference, JMComm 2018
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-02150637](https://hal.sorbonne-universite.fr/hal-02150637)
 

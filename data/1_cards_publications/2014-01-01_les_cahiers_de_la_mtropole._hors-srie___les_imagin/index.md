@@ -1,14 +1,14 @@
 ---
-uuid: 1ac2cdb0-b67e-4686-94bd-6a027e8a5c84
+uuid: ca2128d1-45f5-4f63-a019-7f4bfca2c808
 title: "Les Cahiers de la métropole. Hors-Série : Les Imaginaires de la métropole créative"
-author: "vergopoulos, hecate, Bourgatte, Michaël"
-authors: "vergopoulos, hecate, Bourgatte, Michaël"
-abstract: "vergopoulos, hecate, Bourgatte, Michaël"
+author: "hecate vergopoulos, Michaël Bourgatte"
+authors: "hecate vergopoulos, Michaël Bourgatte"
+abstract: "hecate vergopoulos, Michaël Bourgatte"
 date: "2014-01-01"
 year: "2014"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03767039"
-publisher: "Les Cahiers de la métropole. Hors-Série : Les Imaginaires de la métropole créative"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** vergopoulos, hecate, Bourgatte, Michaël
-- **Type de publication:** inproceedings
-- **Éditeur:** Les Cahiers de la métropole. Hors-Série : Les Imaginaires de la métropole créative
+- **Auteurs:** hecate vergopoulos, Michaël Bourgatte
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767039](https://hal.science/hal-03767039)
 

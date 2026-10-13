@@ -1,12 +1,12 @@
 ---
-uuid: 11ff724e-56c1-4bd8-b98b-04ce5cfabc3f
+uuid: 2f82c0c8-be67-42b2-adfe-50ee1e96897d
 title: "La marque objet communicationnel"
-author: "Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian"
-authors: "Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian"
-abstract: "Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian"
+author: "Karine Berthelot-Guiet, Denis Benoit, Christian Marcon"
+authors: "Karine Berthelot-Guiet, Denis Benoit, Christian Marcon"
+abstract: "Karine Berthelot-Guiet, Denis Benoit, Christian Marcon"
 date: "2013-01-01"
 year: "2013"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03749736"
 publisher: "Eska"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine, Benoit, Denis, Marcon, Christian
-- **Type de publication:** misc
+- **Auteurs:** Karine Berthelot-Guiet, Denis Benoit, Christian Marcon
 - **Éditeur:** Eska
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749736](https://hal.science/hal-03749736)
 

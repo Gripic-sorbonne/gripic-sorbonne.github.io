@@ -1,14 +1,14 @@
 ---
-uuid: bf2ddd92-4049-4c6e-8f7f-ee14114c0ba2
-title: "Accompagnement recherche de la première année du projet `` Ambassadeurs du numérique de l'Académie de Paris"
-author: "Le Marec, Joëlle, Petit, Laurent, Rondot, Camille"
-authors: "Le Marec, Joëlle, Petit, Laurent, Rondot, Camille"
-abstract: "Le Marec, Joëlle, Petit, Laurent, Rondot, Camille"
+uuid: a7a293b8-65df-4a18-97f3-c83cc522fb06
+title: "Accompagnement recherche de la première année du projet “ Ambassadeurs du numérique de l’Académie de Paris"
+author: "Joëlle Le Marec, Laurent Petit, Camille Rondot"
+authors: "Joëlle Le Marec, Laurent Petit, Camille Rondot"
+abstract: "Joëlle Le Marec, Laurent Petit, Camille Rondot"
 date: "2020-01-01"
 year: "2020"
-type: "techreport"
+type: "report"
 url: "https://hal.science/hal-03968542"
-publisher: ""
+publisher: "Sorbonne Universite"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Le Marec, Joëlle, Petit, Laurent, Rondot, Camille
-- **Type de publication:** techreport
+- **Auteurs:** Joëlle Le Marec, Laurent Petit, Camille Rondot
+- **Type de publication:** report
+- **Éditeur:** Sorbonne Universite
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03968542](https://hal.science/hal-03968542)
 

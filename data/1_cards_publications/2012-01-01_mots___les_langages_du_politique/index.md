@@ -1,13 +1,13 @@
 ---
-uuid: f9945770-bb03-4c4a-8123-961b92568005
+uuid: ce1f63a6-2c26-4469-adc7-3d9abacb4ae6
 title: "Mots : les langages du politique"
-author: "de Montety, Caroline"
-authors: "de Montety, Caroline"
-abstract: "de Montety, Caroline"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2012-01-01"
 year: "2012"
-type: "article"
-url: "https://hal.science/hal-03754322"
+type: "article-journal"
+url: "https://hal.science/hal-03758613"
 publisher: "ENS Éditions (Lyon)"
 container_title: ""
 publication: true
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** de Montety, Caroline
-- **Type de publication:** article
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
 - **Éditeur:** ENS Éditions (Lyon)
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754322](https://hal.science/hal-03754322)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758613](https://hal.science/hal-03758613)
 

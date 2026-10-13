@@ -1,14 +1,14 @@
 ---
-uuid: d7690456-6551-4625-8944-e0cfd42588ae
+uuid: 259f7e5f-7272-4d95-a8fd-feae11870f3b
 title: "Defier le temps, une affaire de mode"
-author: "Tassel, Julien"
-authors: "Tassel, Julien"
-abstract: "Tassel, Julien"
+author: "Julien Tassel"
+authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2014-01-01"
 year: "2014"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03766828"
-publisher: "Éditions lyonnaises d'art et d'histoire"
+publisher: "Éditions lyonnaises d’art et d’histoire"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Tassel, Julien
-- **Type de publication:** incollection
-- **Éditeur:** Éditions lyonnaises d'art et d'histoire
+- **Auteurs:** Julien Tassel
+- **Type de publication:** chapter
+- **Éditeur:** Éditions lyonnaises d’art et d’histoire
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766828](https://hal.science/hal-03766828)
 

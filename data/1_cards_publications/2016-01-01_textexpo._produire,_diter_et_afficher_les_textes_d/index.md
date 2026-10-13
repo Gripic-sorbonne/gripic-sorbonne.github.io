@@ -1,12 +1,12 @@
 ---
-uuid: f4513041-5dcc-4f35-9f7d-ede8cf960565
-title: "Textexpo. Produire, éditer et afficher les textes d'exposition"
-author: "vergopoulos, hecate"
-authors: "vergopoulos, hecate"
-abstract: "vergopoulos, hecate"
+uuid: fd859836-8531-4b7a-8f88-fd8eea76ed1f
+title: "Textexpo. Produire, éditer et afficher les textes d’exposition"
+author: "hecate vergopoulos"
+authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03766968"
 publisher: "OCIM"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** vergopoulos, hecate
-- **Type de publication:** incollection
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** chapter
 - **Éditeur:** OCIM
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766968](https://hal.science/hal-03766968)
 

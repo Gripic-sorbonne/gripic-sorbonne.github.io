@@ -1,12 +1,12 @@
 ---
-uuid: fb726a69-949d-4ee3-9a8b-f6c3c3c87fe1
+uuid: 6d6e53b7-68d3-453b-99f0-15f1147d35db
 title: "Bloguer la politique"
-author: "Pène, Sophie"
-authors: "Pène, Sophie"
-abstract: "Pène, Sophie"
+author: "Sophie Pène"
+authors: "Sophie Pène"
+abstract: "Sophie Pène"
 date: "2007-01-01"
 year: "2007"
-type: "unpublished"
+type: "manuscript"
 url: "https://hal.science/hal-00122422"
 publisher: ""
 container_title: ""
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pène, Sophie
-- **Type de publication:** unpublished
+- **Auteurs:** Sophie Pène
+- **Type de publication:** manuscript
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-00122422](https://hal.science/hal-00122422)
 

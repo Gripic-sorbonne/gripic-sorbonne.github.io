@@ -1,14 +1,14 @@
 ---
-uuid: e7656b5a-739f-474d-8a15-b04b736793c1
+uuid: d4684dfb-21af-4ba2-bf94-099237230a3a
 title: "Actes des journées doctorales Littérature et peinture"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2000-01-01"
 year: "2000"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761030"
-publisher: "Actes des journées doctorales Littérature et peinture"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
-- **Éditeur:** Actes des journées doctorales Littérature et peinture
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761030](https://hal.science/hal-03761030)
 

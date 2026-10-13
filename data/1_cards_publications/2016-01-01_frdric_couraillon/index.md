@@ -1,9 +1,9 @@
 ---
-uuid: 203ef3f1-8317-4a3c-97c5-7524991a8f02
+uuid: c2644f14-f562-4243-bfc2-a4be30c20ce4
 title: "Frédéric Couraillon"
-author: "Souchier, Emmanuël, Noorbergen, Christian"
-authors: "Souchier, Emmanuël, Noorbergen, Christian"
-abstract: "Souchier, Emmanuël, Noorbergen, Christian"
+author: "Emmanuël Souchier, Christian Noorbergen"
+authors: "Emmanuël Souchier, Christian Noorbergen"
+abstract: "Emmanuël Souchier, Christian Noorbergen"
 date: "2016-01-01"
 year: "2016"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Noorbergen, Christian
+- **Auteurs:** Emmanuël Souchier, Christian Noorbergen
 - **Type de publication:** book
 - **Éditeur:** Regard - Éditions Marie Morel
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760379](https://hal.science/hal-03760379)

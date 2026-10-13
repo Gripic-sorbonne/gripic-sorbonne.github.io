@@ -1,14 +1,14 @@
 ---
-uuid: 01eb9a97-1873-448a-9434-609add77afe7
+uuid: 6ee2c505-17a9-4d83-b5e1-29ce418984f6
 title: "Spectacular Devices: Visual, Literary and Material Cultures of Wonder in the Long 19th Century"
-author: "Fantin, Emmanuelle, Corbillé, Sophie"
-authors: "Fantin, Emmanuelle, Corbillé, Sophie"
-abstract: "Fantin, Emmanuelle, Corbillé, Sophie"
+author: "Emmanuelle Fantin, Sophie Corbillé"
+authors: "Emmanuelle Fantin, Sophie Corbillé"
+abstract: "Emmanuelle Fantin, Sophie Corbillé"
 date: "2022-01-01"
 year: "2022"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03964054"
-publisher: "Spectacular Devices: Visual, Literary and Material Cultures of Wonder in the Long 19th Century"
+publisher: "UNIL"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Corbillé, Sophie
-- **Type de publication:** inproceedings
-- **Éditeur:** Spectacular Devices: Visual, Literary and Material Cultures of Wonder in the Long 19th Century
+- **Auteurs:** Emmanuelle Fantin, Sophie Corbillé
+- **Type de publication:** paper-conference
+- **Éditeur:** UNIL
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964054](https://hal.science/hal-03964054)
 

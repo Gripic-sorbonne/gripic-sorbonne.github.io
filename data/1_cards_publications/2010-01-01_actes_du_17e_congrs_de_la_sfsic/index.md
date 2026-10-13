@@ -1,14 +1,14 @@
 ---
-uuid: 2a1dec4a-381d-46da-bf56-56cbe8b04a5d
+uuid: ec4de75d-0ced-4a8a-b102-2cd38d3810c0
 title: "Actes du 17e Congrès de la SFSIC"
-author: "Marti, Caroline, Berthelot-Guiet, Karine"
-authors: "Marti, Caroline, Berthelot-Guiet, Karine"
-abstract: "Marti, Caroline, Berthelot-Guiet, Karine"
+author: "Caroline Marti, Karine Berthelot-Guiet"
+authors: "Caroline Marti, Karine Berthelot-Guiet"
+abstract: "Caroline Marti, Karine Berthelot-Guiet"
 date: "2010-01-01"
 year: "2010"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03749770"
-publisher: "Actes du 17e Congrès de la SFSIC"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline, Berthelot-Guiet, Karine
-- **Type de publication:** inproceedings
-- **Éditeur:** Actes du 17e Congrès de la SFSIC
+- **Auteurs:** Caroline Marti, Karine Berthelot-Guiet
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749770](https://hal.science/hal-03749770)
 

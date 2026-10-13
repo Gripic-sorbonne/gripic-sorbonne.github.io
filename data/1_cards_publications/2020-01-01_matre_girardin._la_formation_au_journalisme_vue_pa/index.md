@@ -1,12 +1,12 @@
 ---
-uuid: 577f3bab-40a5-4737-a3d4-0ab54b0b3618
+uuid: 43c7c938-2839-4784-a630-f65bae594936
 title: "Maître Girardin. La formation au journalisme vue par Émile de Girardin"
-author: "Wrona, Adeline, Charbonneaux, Juliette, Bolz, Lisa"
-authors: "Wrona, Adeline, Charbonneaux, Juliette, Bolz, Lisa"
-abstract: "Wrona, Adeline, Charbonneaux, Juliette, Bolz, Lisa"
+author: "Adeline Wrona, Juliette Charbonneaux, Lisa Bolz"
+authors: "Adeline Wrona, Juliette Charbonneaux, Lisa Bolz"
+abstract: "Adeline Wrona, Juliette Charbonneaux, Lisa Bolz"
 date: "2020-01-01"
 year: "2020"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03966779"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline, Charbonneaux, Juliette, Bolz, Lisa
-- **Type de publication:** misc
+- **Auteurs:** Adeline Wrona, Juliette Charbonneaux, Lisa Bolz
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966779](https://hal.science/hal-03966779)
 

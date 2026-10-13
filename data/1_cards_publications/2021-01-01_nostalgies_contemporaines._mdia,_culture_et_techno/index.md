@@ -1,14 +1,14 @@
 ---
-uuid: 2b7e6b19-0a85-42c6-afea-820b6de8fb11
+uuid: 14c5eed5-d7e1-4fb2-853c-03f9ed5134d7
 title: "Nostalgies contemporaines. Média, culture et technologie"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2021-01-01"
 year: "2021"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03721423"
-publisher: "Nostalgies contemporaines. Média, culture et technologie"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** incollection
-- **Éditeur:** Nostalgies contemporaines. Média, culture et technologie
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721423](https://hal.science/hal-03721423)
 

@@ -1,12 +1,12 @@
 ---
-uuid: b22638f7-e316-41f7-a73e-fd987ba1d6a4
+uuid: 96b02eec-4547-45cd-b5d3-88cd03546d27
 title: "Un texte sans rivage"
-author: "Souchier, Emmanuël, Zali, Anne"
-authors: "Souchier, Emmanuël, Zali, Anne"
-abstract: "Souchier, Emmanuël, Zali, Anne"
+author: "Emmanuël Souchier, Anne Zali"
+authors: "Emmanuël Souchier, Anne Zali"
+abstract: "Emmanuël Souchier, Anne Zali"
 date: "2016-01-01"
 year: "2016"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03760991"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Zali, Anne
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier, Anne Zali
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760991](https://hal.science/hal-03760991)
 

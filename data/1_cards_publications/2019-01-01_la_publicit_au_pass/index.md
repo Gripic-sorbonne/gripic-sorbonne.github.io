@@ -1,12 +1,12 @@
 ---
-uuid: 05e4088c-cf2a-4e2a-ad86-6d20ab533c93
+uuid: 12df3036-17af-44d9-9fb5-8a862d76efb7
 title: "La publicité au passé"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2019-01-01"
 year: "2019"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03964045"
 publisher: "OCIM"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** misc
+- **Auteurs:** Emmanuelle Fantin
 - **Éditeur:** OCIM
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964045](https://hal.science/hal-03964045)
 

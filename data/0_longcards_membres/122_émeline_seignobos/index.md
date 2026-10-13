@@ -1,5 +1,5 @@
 ---
-uuid: ebf68681-47e7-4f47-a6a0-50f0feaee724
+uuid: 1aaa6332-33a4-4e93-a94b-37bcce3d401e
 prettyName: ÉmelineSeignobos
 
 title: "Émeline Seignobos"

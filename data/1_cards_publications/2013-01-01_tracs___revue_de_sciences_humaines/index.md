@@ -1,12 +1,12 @@
 ---
-uuid: 9efd0576-908b-4c23-aeae-5700526207d6
+uuid: 4c3dac5b-6333-4415-b501-c180c3de25c5
 title: "Tracés : Revue de Sciences Humaines"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2013-01-01"
 year: "2013"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760634"
 publisher: "ENS Éditions"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - **Éditeur:** ENS Éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760634](https://hal.science/hal-03760634)
 

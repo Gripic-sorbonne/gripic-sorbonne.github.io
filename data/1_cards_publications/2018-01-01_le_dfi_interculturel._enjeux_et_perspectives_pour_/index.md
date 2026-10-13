@@ -1,14 +1,14 @@
 ---
-uuid: b2328925-b705-4f6c-a549-7ec78ae66594
+uuid: 92fd2f44-cd5a-4612-9be6-42b065e8fa7b
 title: "Le défi interculturel. Enjeux et perspectives pour entreprendre"
-author: "Bruneel, Emmanuelle"
-authors: "Bruneel, Emmanuelle"
-abstract: "Bruneel, Emmanuelle"
+author: "Emmanuelle Bruneel"
+authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2018-01-01"
 year: "2018"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03767294"
-publisher: "L'Harmattan"
+publisher: "L’Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bruneel, Emmanuelle
-- **Type de publication:** incollection
-- **Éditeur:** L'Harmattan
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** chapter
+- **Éditeur:** L’Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767294](https://hal.science/hal-03767294)
 

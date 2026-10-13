@@ -1,9 +1,9 @@
 ---
-uuid: 35c97df3-7a87-4f1b-8f87-42e3283eb8b2
+uuid: 78e6d2cc-f25f-4c92-8c45-27476d9c3593
 title: "چگونگی بازنمایی شهر در ادبیات و سینما، تهران و پاریس"
-author: "SALEH BOLOURDI, Anita, Riazi, Abolhassan"
-authors: "SALEH BOLOURDI, Anita, Riazi, Abolhassan"
-abstract: "SALEH BOLOURDI, Anita, Riazi, Abolhassan"
+author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
+authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"
+abstract: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 date: "2022-01-01"
 year: "2022"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** SALEH BOLOURDI, Anita, Riazi, Abolhassan
+- **Auteurs:** Anita SALEH BOLOURDI, Abolhassan Riazi
 - **Type de publication:** book
 - **Éditeur:** Sales Publication
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04163596](https://hal.science/hal-04163596)

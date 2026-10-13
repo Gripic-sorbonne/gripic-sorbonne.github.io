@@ -1,14 +1,14 @@
 ---
-uuid: 005686db-2ef9-4951-b0e5-a778b8972717
+uuid: fffb56e3-14a7-4acb-a757-2a4780a9500f
 title: "Comprendre la culture numérique"
-author: "Devars, Thierry"
-authors: "Devars, Thierry"
-abstract: "Devars, Thierry"
+author: "Pauline Escande, Bertrand Naivin"
+authors: "Pauline Escande, Bertrand Naivin"
+abstract: "Pauline Escande, Bertrand Naivin"
 date: "2019-01-01"
 year: "2019"
-type: "incollection"
-url: "https://hal.science/hal-03964050"
-publisher: "Dunod"
+type: "book"
+url: "https://hal.science/hal-03750787"
+publisher: "Editions Dunod"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Devars, Thierry
-- **Type de publication:** incollection
-- **Éditeur:** Dunod
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964050](https://hal.science/hal-03964050)
+- **Auteurs:** Pauline Escande, Bertrand Naivin
+- **Type de publication:** book
+- **Éditeur:** Editions Dunod
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750787](https://hal.science/hal-03750787)
 

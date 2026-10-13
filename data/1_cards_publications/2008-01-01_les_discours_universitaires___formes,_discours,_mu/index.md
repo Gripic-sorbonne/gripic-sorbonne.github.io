@@ -1,12 +1,12 @@
 ---
-uuid: 3c7734d7-095e-4c4a-abb6-dee251880ee0
+uuid: 0767e837-d934-4bd5-bfc8-928fb88b84eb
 title: "Les discours universitaires : formes, discours, mutations"
-author: "Berthelot-Guiet, Karine"
-authors: "Berthelot-Guiet, Karine"
-abstract: "Berthelot-Guiet, Karine"
+author: "Karine Berthelot-Guiet"
+authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2008-01-01"
 year: "2008"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03749793"
 publisher: "47-56"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine
-- **Type de publication:** inproceedings
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** paper-conference
 - **Éditeur:** 47-56
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749793](https://hal.science/hal-03749793)
 

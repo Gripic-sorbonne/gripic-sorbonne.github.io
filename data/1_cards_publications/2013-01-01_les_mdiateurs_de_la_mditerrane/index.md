@@ -1,12 +1,12 @@
 ---
-uuid: d69c3904-698a-497f-8d0f-965963e39b4a
+uuid: 18daa9b9-08e2-49c9-aed6-1d5a06d1e9f3
 title: "Les Médiateurs de la méditerranée"
-author: "Wrona, Adeline, Thérenty, Marie-Ève, Reynier, Christine"
-authors: "Wrona, Adeline, Thérenty, Marie-Ève, Reynier, Christine"
-abstract: "Wrona, Adeline, Thérenty, Marie-Ève, Reynier, Christine"
+author: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
+authors: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
+abstract: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
 date: "2013-01-01"
 year: "2013"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03767177"
 publisher: "Geuthner"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline, Thérenty, Marie-Ève, Reynier, Christine
-- **Type de publication:** incollection
+- **Auteurs:** Adeline Wrona, Marie-Ève Thérenty, Christine Reynier
+- **Type de publication:** chapter
 - **Éditeur:** Geuthner
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767177](https://hal.science/hal-03767177)
 

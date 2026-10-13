@@ -1,14 +1,14 @@
 ---
-uuid: 7d597b01-19c2-466a-aa6b-02bc4823eb88
+uuid: 12b0c24a-db37-422b-9700-70b43f3748f1
 title: "XVème Congrès internationale de sémiotique"
-author: "Escande, Pauline"
-authors: "Escande, Pauline"
-abstract: "Escande, Pauline"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2022-01-01"
 year: "2022"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03750708"
-publisher: "XVème Congrès internationale de sémiotique"
+publisher: "Université de Macédoine"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline
-- **Type de publication:** inproceedings
-- **Éditeur:** XVème Congrès internationale de sémiotique
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** Université de Macédoine
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750708](https://hal.science/hal-03750708)
 

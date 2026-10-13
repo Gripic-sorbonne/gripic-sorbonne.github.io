@@ -1,9 +1,9 @@
 ---
-uuid: c6001a40-24a2-4c45-91c7-9f1a4fe8b36a
+uuid: f879e9cf-5746-46d6-8059-ee80538178ae
 title: "Zoreillefines"
-author: "Souchier, Emmanuël, Berman, Laurent"
-authors: "Souchier, Emmanuël, Berman, Laurent"
-abstract: "Souchier, Emmanuël, Berman, Laurent"
+author: "Emmanuël Souchier, Laurent Berman"
+authors: "Emmanuël Souchier, Laurent Berman"
+abstract: "Emmanuël Souchier, Laurent Berman"
 date: "1991-01-01"
 year: "1991"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Berman, Laurent
+- **Auteurs:** Emmanuël Souchier, Laurent Berman
 - **Type de publication:** book
 - **Éditeur:** Syros Alternatives
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760448](https://hal.science/hal-03760448)

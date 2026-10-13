@@ -1,14 +1,14 @@
 ---
-uuid: a128a5c6-c3ff-43c7-a5c1-314587463a12
+uuid: 1eb91179-b09a-400c-828a-77d17e258de1
 title: "Le discours publicitaire : fonction et fantasme symbolique"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2020-01-01"
 year: "2020"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03768191"
-publisher: "Le discours publicitaire : fonction et fantasme symbolique"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** incollection
-- **Éditeur:** Le discours publicitaire : fonction et fantasme symbolique
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768191](https://hal.science/hal-03768191)
 

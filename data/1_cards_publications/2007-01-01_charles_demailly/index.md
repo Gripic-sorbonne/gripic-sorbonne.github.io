@@ -1,9 +1,9 @@
 ---
-uuid: 14008474-60fe-49ef-84e3-682d108499fa
+uuid: dc8108c5-d110-4c21-80be-3d2ece1dff45
 title: "Charles Demailly"
-author: "Wrona, Adeline, Goncourt, Edmond De, Goncourt, Jules De"
-authors: "Wrona, Adeline, Goncourt, Edmond De, Goncourt, Jules De"
-abstract: "Wrona, Adeline, Goncourt, Edmond De, Goncourt, Jules De"
+author: "Adeline Wrona, Edmond De Goncourt, Jules De Goncourt"
+authors: "Adeline Wrona, Edmond De Goncourt, Jules De Goncourt"
+abstract: "Adeline Wrona, Edmond De Goncourt, Jules De Goncourt"
 date: "2007-01-01"
 year: "2007"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline, Goncourt, Edmond De, Goncourt, Jules De
+- **Auteurs:** Adeline Wrona, Edmond De Goncourt, Jules De Goncourt
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767166](https://hal.science/hal-03767166)
 

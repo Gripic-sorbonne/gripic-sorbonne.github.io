@@ -1,14 +1,14 @@
 ---
-uuid: f7994148-df11-4157-8854-22f730c31be4
+uuid: e84f54a6-76e4-434e-96c6-6363e2ca9a84
 title: "La publicité dans la ville"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1985-01-01"
 year: "1985"
 type: "book"
 url: "https://hal.science/hal-03760459"
-publisher: "La Documentation Fran caise - Ministère des affaires étrangères"
+publisher: "La Documentation Française - Ministère des affaires étrangères"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
+- **Auteurs:** Emmanuël Souchier
 - **Type de publication:** book
-- **Éditeur:** La Documentation Fran caise - Ministère des affaires étrangères
+- **Éditeur:** La Documentation Française - Ministère des affaires étrangères
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760459](https://hal.science/hal-03760459)
 

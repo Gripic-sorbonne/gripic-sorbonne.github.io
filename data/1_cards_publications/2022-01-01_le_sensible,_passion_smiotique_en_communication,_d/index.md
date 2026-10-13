@@ -1,14 +1,14 @@
 ---
-uuid: 26259b11-f087-456e-995c-61b9d1c097aa
-title: "Le sensible, passion sémiotique en communication,  Dialogues avec Jean-Jacques Boutaud"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+uuid: d9fea3b5-0163-40b3-92ec-37f9a66389fd
+title: "Le sensible, passion sémiotique en communication, Dialogues avec Jean-Jacques Boutaud"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2022-01-01"
 year: "2022"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03768184"
-publisher: "Le sensible, passion sémiotique en communication,  Dialogues avec Jean-Jacques Boutaud"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** incollection
-- **Éditeur:** Le sensible, passion sémiotique en communication,  Dialogues avec Jean-Jacques Boutaud
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768184](https://hal.science/hal-03768184)
 

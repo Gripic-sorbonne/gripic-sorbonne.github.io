@@ -1,14 +1,14 @@
 ---
-uuid: f97118a6-0a35-4792-8a87-b1cc362cc1d7
+uuid: 38a28168-b96e-4c77-a0a6-b22556232656
 title: "Parole Publique. La revue de la communication publique"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2016-01-01"
 year: "2016"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03750059"
-publisher: "Parole Publique. La revue de la communication publique"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
-- **Type de publication:** article
-- **Éditeur:** Parole Publique. La revue de la communication publique
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750059](https://hal.science/hal-03750059)
 

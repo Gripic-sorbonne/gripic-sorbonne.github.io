@@ -1,12 +1,12 @@
 ---
-uuid: e9ae6b01-2c3d-4bf4-b844-185470fa9f55
+uuid: 66e6cca2-6082-4c8a-b933-f679e5e71b6c
 title: "Le monde à la une"
-author: "Bolz, Lisa"
-authors: "Bolz, Lisa"
-abstract: "Bolz, Lisa"
+author: "Lisa Bolz"
+authors: "Lisa Bolz"
+abstract: "Lisa Bolz"
 date: "2021-01-01"
 year: "2021"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03966971"
 publisher: "Éditions Anamosa"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bolz, Lisa
-- **Type de publication:** incollection
+- **Auteurs:** Lisa Bolz
+- **Type de publication:** chapter
 - **Éditeur:** Éditions Anamosa
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03966971](https://hal.science/hal-03966971)
 

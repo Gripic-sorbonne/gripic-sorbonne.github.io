@@ -1,12 +1,12 @@
 ---
-uuid: e8b00a1a-7454-4608-8798-9c2039de83de
+uuid: 7fb75be6-8ca2-482f-9ef2-e0441d67845e
 title: "Genre, sexualité & société"
-author: "Quemener, Nelly, Cervulle, Maxime, Rees-Roberts, Nick"
-authors: "Quemener, Nelly, Cervulle, Maxime, Rees-Roberts, Nick"
-abstract: "Quemener, Nelly, Cervulle, Maxime, Rees-Roberts, Nick"
+author: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
+authors: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
+abstract: "Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts"
 date: "2010-01-01"
 year: "2010"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758737"
 publisher: "Ecole des Hautes Etudes en Sciences Sociales"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Cervulle, Maxime, Rees-Roberts, Nick
-- **Type de publication:** article
+- **Auteurs:** Nelly Quemener, Maxime Cervulle, Nick Rees-Roberts
+- **Type de publication:** article-journal
 - **Éditeur:** Ecole des Hautes Etudes en Sciences Sociales
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758737](https://hal.science/hal-03758737)
 

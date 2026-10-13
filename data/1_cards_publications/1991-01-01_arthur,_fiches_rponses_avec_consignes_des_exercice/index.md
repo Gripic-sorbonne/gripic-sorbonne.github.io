@@ -1,9 +1,9 @@
 ---
-uuid: 8485e349-e018-4fe3-913f-dff4bafb7150
+uuid: 29028531-3d5c-41d5-a10f-935338c1b44f
 title: "Arthur, Fiches réponses avec consignes des exercices"
-author: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
-authors: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
-abstract: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul"
+author: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
+authors: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
+abstract: "Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau"
 date: "1991-01-01"
 year: "1991"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Bremond, Georges, Descouens, Martine, Rousseau, Jean-Paul
+- **Auteurs:** Emmanuël Souchier, Georges Bremond, Martine Descouens, Jean-Paul Rousseau
 - **Type de publication:** book
 - **Éditeur:** Nathan-Retz
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760443](https://hal.science/hal-03760443)

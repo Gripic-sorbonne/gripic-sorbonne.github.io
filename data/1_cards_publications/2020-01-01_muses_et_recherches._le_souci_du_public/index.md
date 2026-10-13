@@ -1,14 +1,14 @@
 ---
-uuid: d10b5416-97ef-4eeb-a779-bab8eb295d18
+uuid: fc095b59-ad49-4f98-9a23-971322985d90
 title: "Musées et Recherches. Le souci du public"
-author: "Corbillé, Sophie, Fantin, Emmanuelle"
-authors: "Corbillé, Sophie, Fantin, Emmanuelle"
-abstract: "Corbillé, Sophie, Fantin, Emmanuelle"
+author: "Sophie Corbillé, Emmanuelle Fantin"
+authors: "Sophie Corbillé, Emmanuelle Fantin"
+abstract: "Sophie Corbillé, Emmanuelle Fantin"
 date: "2020-01-01"
 year: "2020"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03721413"
-publisher: "Musées et Recherches. Le souci du public"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie, Fantin, Emmanuelle
-- **Type de publication:** incollection
-- **Éditeur:** Musées et Recherches. Le souci du public
+- **Auteurs:** Sophie Corbillé, Emmanuelle Fantin
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721413](https://hal.science/hal-03721413)
 

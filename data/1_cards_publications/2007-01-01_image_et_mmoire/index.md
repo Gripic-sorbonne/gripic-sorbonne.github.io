@@ -1,9 +1,9 @@
 ---
-uuid: e565815e-6f6d-4ad8-b1a2-145220f61ba6
+uuid: e5d38178-fca6-491a-83de-2f122810af98
 title: "Image et mémoire"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2007-01-01"
 year: "2007"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
+- **Auteurs:** Emmanuël Souchier
 - **Type de publication:** book
 - **Éditeur:** Obsidiane - Les Belles Lettres
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760411](https://hal.science/hal-03760411)

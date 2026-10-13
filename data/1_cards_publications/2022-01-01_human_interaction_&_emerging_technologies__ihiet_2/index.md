@@ -1,14 +1,14 @@
 ---
-uuid: 1c5c9232-a498-48af-8216-715ecdbcfd9f
+uuid: 43071ed9-672c-4bfb-a391-7a4e87fa2de0
 title: "Human Interaction & Emerging Technologies (IHIET 2022): Artificial Intelligence & Future Applications"
-author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
-authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
-abstract: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
+author: "Juliette Charbonneaux, Karine Berthelot-Guiet"
+authors: "Juliette Charbonneaux, Karine Berthelot-Guiet"
+abstract: "Juliette Charbonneaux, Karine Berthelot-Guiet"
 date: "2022-01-01"
 year: "2022"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03834659"
-publisher: "Human Interaction & Emerging Technologies (IHIET 2022): Artificial Intelligence & Future Applications"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Charbonneaux, Juliette, Berthelot-Guiet, Karine
-- **Type de publication:** incollection
-- **Éditeur:** Human Interaction & Emerging Technologies (IHIET 2022): Artificial Intelligence & Future Applications
+- **Auteurs:** Juliette Charbonneaux, Karine Berthelot-Guiet
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03834659](https://hal.science/hal-03834659)
 

@@ -1,9 +1,9 @@
 ---
-uuid: d14c80f9-dbdb-4ce1-8cf9-8d80c368d170
+uuid: 70414758-7c59-4dc1-a8bc-c7025ee87646
 title: "R. Queneau, Exercices de style"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2012-01-01"
 year: "2012"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
+- **Auteurs:** Emmanuël Souchier
 - **Type de publication:** book
 - **Éditeur:** Gallimard
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760479](https://hal.science/hal-03760479)

@@ -1,14 +1,14 @@
 ---
-uuid: 44273ac3-ff18-4515-b4a8-ce32f90ba59c
+uuid: 689d22f8-64e8-498a-96f7-7ef5430706d7
 title: "Green Urbanism"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2010-01-01"
 year: "2010"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03750132"
-publisher: "Green Urbanism"
+publisher: "Université de Madison-Wisconsin"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
-- **Type de publication:** inproceedings
-- **Éditeur:** Green Urbanism
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** paper-conference
+- **Éditeur:** Université de Madison-Wisconsin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750132](https://hal.science/hal-03750132)
 

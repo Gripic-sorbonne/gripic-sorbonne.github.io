@@ -1,12 +1,12 @@
 ---
-uuid: 5c8ab25f-e4a5-4ecd-9ae7-2b92c50515a3
+uuid: 3faa3686-9ca4-46dc-93d0-c682112b22ea
 title: "Terrains/Théories"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2013-01-01"
 year: "2013"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758606"
 publisher: "Université Paris Nanterre"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** article
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
 - **Éditeur:** Université Paris Nanterre
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758606](https://hal.science/hal-03758606)
 

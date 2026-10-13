@@ -1,14 +1,14 @@
 ---
-uuid: 93054008-1cb1-4302-a51b-efd2a278117b
+uuid: aab49534-1131-48f4-9f83-f99eaf992c4e
 title: "Communication Université de Laval"
-author: "Corbillé, Sophie"
-authors: "Corbillé, Sophie"
-abstract: "Corbillé, Sophie"
+author: "Sophie Corbillé"
+authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2013-01-01"
 year: "2013"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749894"
-publisher: "Communication Université de Laval"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie
-- **Type de publication:** article
-- **Éditeur:** Communication Université de Laval
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749894](https://hal.science/hal-03749894)
 

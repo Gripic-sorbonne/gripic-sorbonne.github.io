@@ -1,12 +1,12 @@
 ---
-uuid: ccd1d8a9-bb89-446c-a2e4-e92b6ed13411
+uuid: c3d0bfdb-d9b4-45a9-a21b-e867243cee35
 title: "Conserveries mémorielles"
-author: "Tassel, Julien"
-authors: "Tassel, Julien"
-abstract: "Tassel, Julien"
+author: "Julien Tassel"
+authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2011-01-01"
 year: "2011"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03741994"
 publisher: "IHTP/CELAT"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Tassel, Julien
-- **Type de publication:** article
+- **Auteurs:** Julien Tassel
+- **Type de publication:** article-journal
 - **Éditeur:** IHTP/CELAT
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03741994](https://hal.science/hal-03741994)
 

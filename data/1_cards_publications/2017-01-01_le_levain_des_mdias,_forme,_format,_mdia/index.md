@@ -1,12 +1,12 @@
 ---
-uuid: cdfc5fb6-63dd-4b7d-8e29-4e43304df4cc
+uuid: 8ac19bb4-26a3-49b7-8dec-3c9b451c7155
 title: "Le levain des médias, forme, format, média"
-author: "Escande, Pauline"
-authors: "Escande, Pauline"
-abstract: "Escande, Pauline"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2017-01-01"
 year: "2017"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03750861"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline
-- **Type de publication:** misc
+- **Auteurs:** Pauline Escande
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750861](https://hal.science/hal-03750861)
 

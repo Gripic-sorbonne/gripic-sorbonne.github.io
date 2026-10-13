@@ -1,12 +1,12 @@
 ---
-uuid: 76a34b51-1026-4390-a165-196c277b558a
+uuid: c3d6ed4e-3b9d-4c4c-807b-718afb96aaec
 title: "Les vins de France. Guide encyclopédique"
-author: "Souchier, Emmanuël, Jeanneret, Yves"
-authors: "Souchier, Emmanuël, Jeanneret, Yves"
-abstract: "Souchier, Emmanuël, Jeanneret, Yves"
+author: "Emmanuël Souchier, Yves Jeanneret"
+authors: "Emmanuël Souchier, Yves Jeanneret"
+abstract: "Emmanuël Souchier, Yves Jeanneret"
 date: "1994-01-01"
 year: "1994"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761046"
 publisher: "Éclectis"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Jeanneret, Yves
-- **Type de publication:** incollection
+- **Auteurs:** Emmanuël Souchier, Yves Jeanneret
+- **Type de publication:** chapter
 - **Éditeur:** Éclectis
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761046](https://hal.science/hal-03761046)
 

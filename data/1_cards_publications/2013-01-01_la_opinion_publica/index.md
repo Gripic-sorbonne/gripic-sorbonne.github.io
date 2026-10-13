@@ -1,9 +1,9 @@
 ---
-uuid: 90b83aa4-c420-4412-85d0-d524428c0d17
+uuid: b6e53c6a-d2c3-4462-9c1a-d20f64a905a6
 title: "La opinion publica"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2013-01-01"
 year: "2013"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
+- **Auteurs:** nicole D’Almeida
 - **Type de publication:** book
 - **Éditeur:** La Crujia Ediciones
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750006](https://hal.science/hal-03750006)

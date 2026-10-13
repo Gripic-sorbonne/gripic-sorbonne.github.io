@@ -1,14 +1,14 @@
 ---
-uuid: 3092688a-4210-45fe-9dd2-a863d5d98619
+uuid: 36e9a546-c90c-46cd-9e18-92297345dc68
 title: "Géographie et cultures"
-author: "Quemener, Nelly, Weaver, Simone"
-authors: "Quemener, Nelly, Weaver, Simone"
-abstract: "Quemener, Nelly, Weaver, Simone"
+author: "Nelly Quemener, Simone Weaver"
+authors: "Nelly Quemener, Simone Weaver"
+abstract: "Nelly Quemener, Simone Weaver"
 date: "2010-01-01"
 year: "2010"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758733"
-publisher: "L'Harmattan"
+publisher: "L’Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Weaver, Simone
-- **Type de publication:** article
-- **Éditeur:** L'Harmattan
+- **Auteurs:** Nelly Quemener, Simone Weaver
+- **Type de publication:** article-journal
+- **Éditeur:** L’Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758733](https://hal.science/hal-03758733)
 

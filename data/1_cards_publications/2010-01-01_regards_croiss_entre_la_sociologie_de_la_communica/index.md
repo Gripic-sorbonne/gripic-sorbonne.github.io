@@ -1,14 +1,14 @@
 ---
-uuid: 6a50563f-bb0a-4da2-b81d-fac15744bce3
+uuid: 47434e40-c6e0-4b52-94d3-04270abc1f89
 title: "Regards croisés entre la sociologie de la communication et la sociologie des sciences et des techniques"
-author: "Jeanne Perrier, Valerie"
-authors: "Jeanne Perrier, Valerie"
-abstract: "Jeanne Perrier, Valerie"
+author: "Valerie Jeanne Perrier"
+authors: "Valerie Jeanne Perrier"
+abstract: "Valerie Jeanne Perrier"
 date: "2010-01-01"
 year: "2010"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03752978"
-publisher: "Regards croisés entre la sociologie de la communication et la sociologie des sciences et des techniques"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Jeanne Perrier, Valerie
-- **Type de publication:** inproceedings
-- **Éditeur:** Regards croisés entre la sociologie de la communication et la sociologie des sciences et des techniques
+- **Auteurs:** Valerie Jeanne Perrier
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752978](https://hal.science/hal-03752978)
 

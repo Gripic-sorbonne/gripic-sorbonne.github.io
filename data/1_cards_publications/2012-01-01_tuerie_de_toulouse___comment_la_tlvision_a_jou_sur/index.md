@@ -1,12 +1,12 @@
 ---
-uuid: 5f1f18ad-3294-4268-bb90-e8d900f454f1
-title: "Tuerie de Toulouse : comment la télévision a joué sur l'émotion collective"
-author: "Mariau, Berenice"
-authors: "Mariau, Berenice"
-abstract: "Mariau, Berenice"
+uuid: 43c7bd71-2a2c-4e58-9fe9-6d02bd353330
+title: "Tuerie de Toulouse : comment la télévision a joué sur l’émotion collective"
+author: "Berenice Mariau"
+authors: "Berenice Mariau"
+abstract: "Berenice Mariau"
 date: "2012-01-01"
 year: "2012"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03773536"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Mariau, Berenice
-- **Type de publication:** misc
+- **Auteurs:** Berenice Mariau
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773536](https://hal.science/hal-03773536)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 719b75b9-0034-4406-8dd2-91249d558add
-title: "La reconfiguration des pratiques culturelles et du genre à l'ère du numérique"
-author: "Quemener, Nelly, Julliard, Virginie, Bourdeloie, Hélène"
-authors: "Quemener, Nelly, Julliard, Virginie, Bourdeloie, Hélène"
-abstract: "Quemener, Nelly, Julliard, Virginie, Bourdeloie, Hélène"
+uuid: 36935327-4ca7-43c2-9e4b-c02e52dca0c5
+title: "La reconfiguration des pratiques culturelles et du genre à l’ère du numérique"
+author: "Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
+authors: "Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
+abstract: "Nelly Quemener, Virginie Julliard, Hélène Bourdeloie"
 date: "2013-01-01"
 year: "2013"
-type: "techreport"
+type: "report"
 url: "https://hal.science/hal-03758793"
-publisher: ""
+publisher: "Ministère de la Culture et de la Communication"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Julliard, Virginie, Bourdeloie, Hélène
-- **Type de publication:** techreport
+- **Auteurs:** Nelly Quemener, Virginie Julliard, Hélène Bourdeloie
+- **Type de publication:** report
+- **Éditeur:** Ministère de la Culture et de la Communication
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758793](https://hal.science/hal-03758793)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 7fa2c2e6-82f8-4d5d-bb54-692d4871b55c
+uuid: d8474b2d-5b41-4b07-a031-115e136c85d0
 title: "MédiaMorphoses"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2007-01-01"
 year: "2007"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758647"
-publisher: "Institut National de l'Audiovisuel (INA)"
+publisher: "Institut National de l’Audiovisuel (INA)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** article
-- **Éditeur:** Institut National de l'Audiovisuel (INA)
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
+- **Éditeur:** Institut National de l’Audiovisuel (INA)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758647](https://hal.science/hal-03758647)
 

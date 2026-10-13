@@ -1,12 +1,12 @@
 ---
-uuid: f6234e47-1f77-4974-ab3c-2bad62ffe85a
+uuid: f6e6d1c8-9dd5-45fe-95e9-7fc6ff03589c
 title: "À nouveaux consommateurs, nouveaux marketing"
-author: "de Montety, Caroline"
-authors: "de Montety, Caroline"
-abstract: "de Montety, Caroline"
+author: "Caroline Montety"
+authors: "Caroline Montety"
+abstract: "Caroline Montety"
 date: "2011-01-01"
 year: "2011"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03754302"
 publisher: "Dunod"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** de Montety, Caroline
-- **Type de publication:** incollection
+- **Auteurs:** Caroline Montety
+- **Type de publication:** chapter
 - **Éditeur:** Dunod
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754302](https://hal.science/hal-03754302)
 

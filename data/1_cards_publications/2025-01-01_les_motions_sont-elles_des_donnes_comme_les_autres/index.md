@@ -1,14 +1,14 @@
 ---
-uuid: 7809a2ed-3365-4299-901a-bbc6e0396a6c
+uuid: 7409f2e2-9563-4221-9df2-d0749565212b
 title: "Les émotions sont-elles des données comme les autres ? Enjeux de la coopération entre les équipes créatives et les IA génératives"
-author: "Garmon, Ines, Martin-Juchat, Fabienne, Besson, Grégoire"
-authors: "Garmon, Ines, Martin-Juchat, Fabienne, Besson, Grégoire"
-abstract: "Garmon, Ines, Martin-Juchat, Fabienne, Besson, Grégoire"
+author: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson"
+authors: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson"
+abstract: "Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson"
 date: "2025-01-01"
 year: "2025"
-type: "proceedings"
+type: "book"
 url: "https://hal.science/hal-04972145"
-publisher: "Les émotions sont-elles des données comme les autres ? Enjeux de la coopération entre les équipes créatives et les IA génératives"
+publisher: "Inès Garmon, Iana Antonova et Grégoire Besson"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Garmon, Ines, Martin-Juchat, Fabienne, Besson, Grégoire
-- **Type de publication:** proceedings
-- **Éditeur:** Les émotions sont-elles des données comme les autres ? Enjeux de la coopération entre les équipes créatives et les IA génératives
+- **Auteurs:** Ines Garmon, Fabienne Martin-Juchat, Grégoire Besson
+- **Type de publication:** book
+- **Éditeur:** Inès Garmon, Iana Antonova et Grégoire Besson
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04972145](https://hal.science/hal-04972145)
 

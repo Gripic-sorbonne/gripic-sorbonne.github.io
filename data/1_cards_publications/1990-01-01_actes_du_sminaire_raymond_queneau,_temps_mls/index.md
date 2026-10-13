@@ -1,14 +1,14 @@
 ---
-uuid: 3c86f518-b035-4e4f-9daf-74c1e6939a25
+uuid: 6d1f0d74-4150-41cd-b763-06265add8ec6
 title: "Actes du Séminaire Raymond Queneau, Temps mêlés"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1990-01-01"
 year: "1990"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761050"
-publisher: "Actes du Séminaire Raymond Queneau, Temps mêlés"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
-- **Éditeur:** Actes du Séminaire Raymond Queneau, Temps mêlés
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761050](https://hal.science/hal-03761050)
 

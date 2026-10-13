@@ -1,12 +1,12 @@
 ---
-uuid: 528034a0-0c0e-4b21-a4f1-7facc67db996
+uuid: 60a5a4b7-a2a4-489a-8281-28e329eb876a
 title: "Les dessous de la publicité. Approche théorique, contenus, canaux et métiers"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2024-01-01"
 year: "2024"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-04653481"
 publisher: "Ellipses"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** incollection
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
 - **Éditeur:** Ellipses
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04653481](https://hal.science/hal-04653481)
 

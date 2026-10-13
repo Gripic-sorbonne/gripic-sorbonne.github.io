@@ -1,12 +1,12 @@
 ---
-uuid: 9a870604-14c1-471e-b73d-f097652fac3f
+uuid: 0b87e7f3-db06-4217-b9bc-271069eaadbb
 title: "Food20 lab"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2016-01-01"
 year: "2016"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03754446"
 publisher: "ISCC"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** article
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
 - **Éditeur:** ISCC
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754446](https://hal.science/hal-03754446)
 

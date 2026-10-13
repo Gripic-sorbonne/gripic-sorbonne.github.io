@@ -1,12 +1,12 @@
 ---
-uuid: 075980f0-321c-46de-87cc-4cb6daa70f61
+uuid: 94bcb180-0bc4-415a-99cc-0ea5a221e5b4
 title: "Image & Narrative"
-author: "AIM, Olivier"
-authors: "AIM, Olivier"
-abstract: "AIM, Olivier"
+author: "Olivier AÏM"
+authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2008-01-01"
 year: "2008"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749678"
 publisher: "Leuven : Instituut voor Culturele Studies"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** AIM, Olivier
-- **Type de publication:** article
+- **Auteurs:** Olivier AÏM
+- **Type de publication:** article-journal
 - **Éditeur:** Leuven : Instituut voor Culturele Studies
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749678](https://hal.science/hal-03749678)
 

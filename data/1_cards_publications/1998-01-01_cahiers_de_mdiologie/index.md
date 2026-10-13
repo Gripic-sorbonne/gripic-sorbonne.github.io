@@ -1,12 +1,12 @@
 ---
-uuid: 9f6b32ee-0c7f-4c4a-a021-31e5eca7eccb
+uuid: 651ccd0a-1154-4b3b-b1c3-184694255d4a
 title: "Cahiers de médiologie"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1998-01-01"
 year: "1998"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760945"
 publisher: "Editions Babylone"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - **Éditeur:** Editions Babylone
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760945](https://hal.science/hal-03760945)
 

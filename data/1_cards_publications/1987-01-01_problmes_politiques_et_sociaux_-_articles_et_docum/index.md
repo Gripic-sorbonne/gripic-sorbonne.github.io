@@ -1,14 +1,14 @@
 ---
-uuid: f1ff8b2d-ded8-4f16-b91d-f7c4f6d857e5
-title: "Problèmes Politiques et Sociaux - Articles et Documents d'Actualité Mondiale"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+uuid: 47a9345e-b577-4e0b-b262-5502835941df
+title: "Problèmes Politiques et Sociaux - Articles et Documents d’Actualité Mondiale"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1987-01-01"
 year: "1987"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760967"
-publisher: "La Documentation fran caise"
+publisher: "La Documentation française"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
-- **Éditeur:** La Documentation fran caise
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
+- **Éditeur:** La Documentation française
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760967](https://hal.science/hal-03760967)
 

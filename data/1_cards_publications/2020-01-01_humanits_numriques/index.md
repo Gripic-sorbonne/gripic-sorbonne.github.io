@@ -1,14 +1,14 @@
 ---
-uuid: b0344953-5e06-42f7-a82a-192a16d3c47b
+uuid: 24d49640-2761-4251-a073-331c83603890
 title: "Humanités Numériques"
-author: "Escande, Pauline"
-authors: "Escande, Pauline"
-abstract: "Escande, Pauline"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2020-01-01"
 year: "2020"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03750764"
-publisher: "Humanités Numériques"
+publisher: "Université Paris 1, Ecole des Arts de la Sorbonne"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline
-- **Type de publication:** inproceedings
-- **Éditeur:** Humanités Numériques
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** Université Paris 1, Ecole des Arts de la Sorbonne
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750764](https://hal.science/hal-03750764)
 

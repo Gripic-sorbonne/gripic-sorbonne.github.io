@@ -1,12 +1,12 @@
 ---
-uuid: 771dac78-948f-4c7b-b99a-c3916d969071
+uuid: acc62446-910e-4ca6-a183-38adadef3ce7
 title: "OBVIL Observatoire de la vie littéraire"
-author: "Souchier, Emmanuël, Gomez-Mejia, Gustavo, Le Marec, Joelle"
-authors: "Souchier, Emmanuël, Gomez-Mejia, Gustavo, Le Marec, Joelle"
-abstract: "Souchier, Emmanuël, Gomez-Mejia, Gustavo, Le Marec, Joelle"
+author: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
+authors: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
+abstract: "Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec"
 date: "2018-01-01"
 year: "2018"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760610"
 publisher: "Sorbonne Universités"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Gomez-Mejia, Gustavo, Le Marec, Joelle
-- **Type de publication:** article
+- **Auteurs:** Emmanuël Souchier, Gustavo Gomez-Mejia, Joelle Le Marec
+- **Type de publication:** article-journal
 - **Éditeur:** Sorbonne Universités
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760610](https://hal.science/hal-03760610)
 

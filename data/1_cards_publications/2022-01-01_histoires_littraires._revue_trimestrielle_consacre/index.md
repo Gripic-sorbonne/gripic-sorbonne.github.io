@@ -1,12 +1,12 @@
 ---
-uuid: b162865e-b36d-4294-b2bc-f403e9dccfdc
-title: "Histoires littéraires. revue trimestrielle consacrée à la littérature fran caise des XIX et XXe siècles"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+uuid: 5bba2951-6726-4458-b7cc-bf85d7b80c0c
+title: "Histoires littéraires. revue trimestrielle consacrée à la littérature française des XIX et XXe siècles"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2022-01-01"
 year: "2022"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03761111"
 publisher: "Du Lérot"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - **Éditeur:** Du Lérot
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761111](https://hal.science/hal-03761111)
 

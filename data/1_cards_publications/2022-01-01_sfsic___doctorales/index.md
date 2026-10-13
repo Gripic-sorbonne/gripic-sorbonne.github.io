@@ -1,14 +1,14 @@
 ---
-uuid: a6fed48e-bfd3-48e1-ad24-d1d20e3b8ed7
+uuid: 41c608e3-94a4-4f5e-a75d-2766ce0b87cd
 title: "SFSIC : Doctorales"
-author: "Escande, Pauline"
-authors: "Escande, Pauline"
-abstract: "Escande, Pauline"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2022-01-01"
 year: "2022"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03750697"
-publisher: "SFSIC : Doctorales"
+publisher: "SFSIC"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline
-- **Type de publication:** inproceedings
-- **Éditeur:** SFSIC : Doctorales
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** SFSIC
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750697](https://hal.science/hal-03750697)
 

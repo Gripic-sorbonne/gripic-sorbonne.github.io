@@ -1,12 +1,12 @@
 ---
-uuid: dd4c34e3-1fbf-4e0c-9670-3d63127aa170
+uuid: 2a2c1c4f-4ef9-4b1a-819d-76684a0ce2d9
 title: "Contextes et Didactiques"
-author: "Lévrier, Alexis"
-authors: "Lévrier, Alexis"
-abstract: "Lévrier, Alexis"
+author: "Alexis Lévrier"
+authors: "Alexis Lévrier"
+abstract: "Alexis Lévrier"
 date: "2024-01-01"
 year: "2024"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-05620653"
 publisher: "Université des Antilles/ESPE"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Lévrier, Alexis
-- **Type de publication:** article
+- **Auteurs:** Alexis Lévrier
+- **Type de publication:** article-journal
 - **Éditeur:** Université des Antilles/ESPE
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05620653](https://hal.science/hal-05620653)
 

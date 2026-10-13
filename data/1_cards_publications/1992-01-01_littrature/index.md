@@ -1,12 +1,12 @@
 ---
-uuid: c1ef160b-b609-4870-8b41-b7ff580db3c1
+uuid: c4c5f089-0a22-474b-8d7d-99beb536ea49
 title: "Littérature"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1992-01-01"
 year: "1992"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760959"
 publisher: "Armand Colin"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - **Éditeur:** Armand Colin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760959](https://hal.science/hal-03760959)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 414edbb5-c6ac-4da6-b41c-293042f952dd
+uuid: 8dfe0cf4-4f45-4231-be72-edda50ed4f49
 title: "Développement durable : Une communication qui se démarque"
-author: "LE BRETON-FALEZAN, Isabelle"
-authors: "LE BRETON-FALEZAN, Isabelle"
-abstract: "LE BRETON-FALEZAN, Isabelle"
+author: "Isabelle LE BRETON-FALEZAN"
+authors: "Isabelle LE BRETON-FALEZAN"
+abstract: "Isabelle LE BRETON-FALEZAN"
 date: "2017-01-01"
 year: "2017"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03752996"
-publisher: "Développement durable : Une communication qui se démarque"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** LE BRETON-FALEZAN, Isabelle
-- **Type de publication:** incollection
-- **Éditeur:** Développement durable : Une communication qui se démarque
+- **Auteurs:** Isabelle LE BRETON-FALEZAN
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752996](https://hal.science/hal-03752996)
 

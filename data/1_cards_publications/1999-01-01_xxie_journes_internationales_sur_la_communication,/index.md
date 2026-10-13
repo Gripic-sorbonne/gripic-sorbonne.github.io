@@ -1,12 +1,12 @@
 ---
-uuid: dcbc0cdc-0e3f-436d-a2f9-9ba6338d25fd
-title: "xxie journées internationales sur la communication, l'éducation et la culture scientifique et industrielle, ``Technologies / technologie''"
-author: "Souchier, Emmanuël, Choplin, Hugues"
-authors: "Souchier, Emmanuël, Choplin, Hugues"
-abstract: "Souchier, Emmanuël, Choplin, Hugues"
+uuid: 82effa58-7ac0-4057-b31d-59279e948935
+title: "xxie journées internationales sur la communication, l’éducation et la culture scientifique et industrielle, “Technologies / technologie”"
+author: "Emmanuël Souchier, Hugues Choplin"
+authors: "Emmanuël Souchier, Hugues Choplin"
+abstract: "Emmanuël Souchier, Hugues Choplin"
 date: "1999-01-01"
 year: "1999"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761037"
 publisher: "A. Giordan, J.-L. Martinant et D. Raichvarg"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Choplin, Hugues
-- **Type de publication:** incollection
+- **Auteurs:** Emmanuël Souchier, Hugues Choplin
+- **Type de publication:** chapter
 - **Éditeur:** A. Giordan, J.-L. Martinant et D. Raichvarg
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761037](https://hal.science/hal-03761037)
 

@@ -1,14 +1,14 @@
 ---
-uuid: c21dbd42-c946-4c54-b066-89e8323e292d
+uuid: e2053145-e160-4d2c-b49d-10d38ef56228
 title: "MEI - Médiation et information"
-author: "Chevet, Clotilde, Garmon, Inès"
-authors: "Chevet, Clotilde, Garmon, Inès"
-abstract: "Chevet, Clotilde, Garmon, Inès"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2019-01-01"
 year: "2019"
-type: "article"
-url: "https://hal.science/hal-03723002"
-publisher: "L'Harmattan"
+type: "article-journal"
+url: "https://hal.science/hal-03750822"
+publisher: "L’Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Chevet, Clotilde, Garmon, Inès
-- **Type de publication:** article
-- **Éditeur:** L'Harmattan
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723002](https://hal.science/hal-03723002)
+- **Auteurs:** Pauline Escande
+- **Type de publication:** article-journal
+- **Éditeur:** L’Harmattan
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750822](https://hal.science/hal-03750822)
 

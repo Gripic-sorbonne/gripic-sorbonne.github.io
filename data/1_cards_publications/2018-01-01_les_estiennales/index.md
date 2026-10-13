@@ -1,14 +1,14 @@
 ---
-uuid: da41d0da-57d1-4a14-9fbb-0bca3813257a
+uuid: 57ff9500-455b-4ea8-9442-781318b53d89
 title: "Les Estiennales"
-author: "Fantin, Emmanuelle, Zéhenne, Camille"
-authors: "Fantin, Emmanuelle, Zéhenne, Camille"
-abstract: "Fantin, Emmanuelle, Zéhenne, Camille"
+author: "Emmanuelle Fantin, Camille Zéhenne"
+authors: "Emmanuelle Fantin, Camille Zéhenne"
+abstract: "Emmanuelle Fantin, Camille Zéhenne"
 date: "2018-01-01"
 year: "2018"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03964092"
-publisher: "Les Estiennales"
+publisher: "Ecole Estienne"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Zéhenne, Camille
-- **Type de publication:** inproceedings
-- **Éditeur:** Les Estiennales
+- **Auteurs:** Emmanuelle Fantin, Camille Zéhenne
+- **Type de publication:** paper-conference
+- **Éditeur:** Ecole Estienne
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964092](https://hal.science/hal-03964092)
 

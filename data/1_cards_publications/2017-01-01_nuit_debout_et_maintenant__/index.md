@@ -1,9 +1,9 @@
 ---
-uuid: 02dbcfe2-068b-45d2-9872-c8ccb5169d25
+uuid: 752bd959-342a-464a-be6b-5d0659fd16a9
 title: "Nuit Debout et maintenant ?"
-author: "vergopoulos, hecate, Le Marec, Joëlle, Moret, Ugo"
-authors: "vergopoulos, hecate, Le Marec, Joëlle, Moret, Ugo"
-abstract: "vergopoulos, hecate, Le Marec, Joëlle, Moret, Ugo"
+author: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
+authors: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
+abstract: "hecate vergopoulos, Joëlle Le Marec, Ugo Moret"
 date: "2017-01-01"
 year: "2017"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** vergopoulos, hecate, Le Marec, Joëlle, Moret, Ugo
+- **Auteurs:** hecate vergopoulos, Joëlle Le Marec, Ugo Moret
 - **Type de publication:** book
 - **Éditeur:** MkF
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766957](https://hal.science/hal-03766957)

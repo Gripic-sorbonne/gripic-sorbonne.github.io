@@ -1,14 +1,14 @@
 ---
-uuid: 8dea091c-34ea-431f-81f3-e19f5ee1c854
+uuid: 5f2e5124-9690-4be7-9d8e-0331de7d8d92
 title: "Usages et pratiques de la publicitarisation : enjeux économiques et symboliques des relations actuelles entre marques et média"
-author: "Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie"
-authors: "Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie"
-abstract: "Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie"
+author: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
+authors: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
+abstract: "Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère"
 date: "2021-01-01"
 year: "2021"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03768212"
-publisher: "Eska (Paris, France) [2013, vol. 10, ntextdegree 1 - ....]"
+publisher: "Eska (Paris, France) [2013, vol. 10, n 1 - ....]"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline, Aubrun, Frédéric, Patrin-Leclère, Valérie
-- **Type de publication:** misc
-- **Éditeur:** Eska (Paris, France) [2013, vol. 10, ntextdegree 1 - ....]
+- **Auteurs:** Caroline Marti, Frédéric Aubrun, Valérie Patrin-Leclère
+- **Éditeur:** Eska (Paris, France) [2013, vol. 10, n 1 - ....]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768212](https://hal.science/hal-03768212)
 

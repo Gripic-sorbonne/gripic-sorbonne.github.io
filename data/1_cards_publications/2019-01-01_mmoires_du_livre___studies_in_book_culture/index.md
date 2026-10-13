@@ -1,14 +1,14 @@
 ---
-uuid: cad45295-5cdc-455b-b2fb-b271a06e4bc4
-title: "Mémoires du livre  / Studies in Book Culture"
-author: "Nicolas, Agathe"
-authors: "Nicolas, Agathe"
-abstract: "Nicolas, Agathe"
+uuid: 70bbf112-e2f1-4632-af5c-b7e90829b15b
+title: "Mémoires du livre / Studies in Book Culture"
+author: "Agathe Nicolas"
+authors: "Agathe Nicolas"
+abstract: "Agathe Nicolas"
 date: "2019-01-01"
 year: "2019"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03773572"
-publisher: "Groupe de recherches et d'études sur le livre au Québec"
+publisher: "Groupe de recherches et d’études sur le livre au Québec"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Nicolas, Agathe
-- **Type de publication:** article
-- **Éditeur:** Groupe de recherches et d'études sur le livre au Québec
+- **Auteurs:** Agathe Nicolas
+- **Type de publication:** article-journal
+- **Éditeur:** Groupe de recherches et d’études sur le livre au Québec
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773572](https://hal.science/hal-03773572)
 

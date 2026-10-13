@@ -1,14 +1,14 @@
 ---
-uuid: dd31d7fc-8a6e-48ed-bac6-d644d4c4ff77
+uuid: 1b79dfbe-5170-4cc4-8222-dd0323d90dfb
 title: "Bulletin des Bibliothèques de France"
-author: "Amar, Muriel, Le Marec, Joelle, Evans, Christophe, Camus-Vigué, Agnès"
-authors: "Amar, Muriel, Le Marec, Joelle, Evans, Christophe, Camus-Vigué, Agnès"
-abstract: "Amar, Muriel, Le Marec, Joelle, Evans, Christophe, Camus-Vigué, Agnès"
+author: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
+authors: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
+abstract: "Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué"
 date: "2019-01-01"
 year: "2019"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03835109"
-publisher: "École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB)"
+publisher: "École Nationale Supérieure des Sciences de l’Information et des Bibliothèques (ENSSIB)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Amar, Muriel, Le Marec, Joelle, Evans, Christophe, Camus-Vigué, Agnès
-- **Type de publication:** article
-- **Éditeur:** École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB)
+- **Auteurs:** Muriel Amar, Joelle Le Marec, Christophe Evans, Agnès Camus-Vigué
+- **Type de publication:** article-journal
+- **Éditeur:** École Nationale Supérieure des Sciences de l’Information et des Bibliothèques (ENSSIB)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03835109](https://hal.science/hal-03835109)
 

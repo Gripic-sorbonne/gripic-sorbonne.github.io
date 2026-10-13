@@ -1,12 +1,12 @@
 ---
-uuid: a11ae76a-cf5f-45b1-9534-3c7986a7fc46
+uuid: 4671d9e9-02b4-4ca8-8f70-cb69b3a202b0
 title: "Les fils du vent défilent en vain au fil des maux"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1991-01-01"
 year: "1991"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03761105"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761105](https://hal.science/hal-03761105)
 

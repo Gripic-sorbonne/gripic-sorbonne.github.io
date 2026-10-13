@@ -1,9 +1,9 @@
 ---
-uuid: c6712d25-ae2e-49e2-83f9-ae9d1c9885ed
+uuid: 5696cba2-25e9-4506-aed4-e4383456c2aa
 title: "Jean Baudrillard"
-author: "Fantin, Emmanuelle, Nicol, Bran"
-authors: "Fantin, Emmanuelle, Nicol, Bran"
-abstract: "Fantin, Emmanuelle, Nicol, Bran"
+author: "Emmanuelle Fantin, Bran Nicol"
+authors: "Emmanuelle Fantin, Bran Nicol"
+abstract: "Emmanuelle Fantin, Bran Nicol"
 date: "2022-01-01"
 year: "2022"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Nicol, Bran
+- **Auteurs:** Emmanuelle Fantin, Bran Nicol
 - **Type de publication:** book
 - **Éditeur:** Reaktion Books. Coll.Critical Lives
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721140](https://hal.science/hal-03721140)

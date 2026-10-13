@@ -1,14 +1,14 @@
 ---
-uuid: 1268c5db-6729-41db-9efd-bd6fec682834
+uuid: 43785f1c-96f0-422d-85da-b24fad73861d
 title: "Études de communication publique"
-author: "Chevet, Clotilde"
-authors: "Chevet, Clotilde"
-abstract: "Chevet, Clotilde"
+author: "Clotilde Chevet"
+authors: "Clotilde Chevet"
+abstract: "Clotilde Chevet"
 date: "2020-01-01"
 year: "2020"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03723018"
-publisher: "Études de communication publique"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Chevet, Clotilde
-- **Type de publication:** article
-- **Éditeur:** Études de communication publique
+- **Auteurs:** Clotilde Chevet
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723018](https://hal.science/hal-03723018)
 

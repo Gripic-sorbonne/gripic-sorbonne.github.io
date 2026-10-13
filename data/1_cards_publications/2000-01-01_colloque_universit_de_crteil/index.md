@@ -1,14 +1,14 @@
 ---
-uuid: 5505f693-a75a-42f3-a2fe-1ffb1b389ec3
+uuid: 903b56da-28e4-463c-9cf2-5d959132bcb7
 title: "Colloque Université de Créteil"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2000-01-01"
 year: "2000"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03754560"
-publisher: "Colloque Université de Créteil"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** inproceedings
-- **Éditeur:** Colloque Université de Créteil
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754560](https://hal.science/hal-03754560)
 

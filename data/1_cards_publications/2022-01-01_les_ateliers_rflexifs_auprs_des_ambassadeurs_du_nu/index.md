@@ -1,14 +1,14 @@
 ---
-uuid: f382ddd1-5578-4d64-8ca8-63b08ff70b6b
+uuid: 0aedf8f0-77ec-4234-a8b1-1b1d93e55fd1
 title: "Les ateliers réflexifs auprès des Ambassadeurs du numérique"
-author: "Petit, Laurent, Seurrat, Aude"
-authors: "Petit, Laurent, Seurrat, Aude"
-abstract: "Petit, Laurent, Seurrat, Aude"
+author: "Laurent Petit, Aude Seurrat"
+authors: "Laurent Petit, Aude Seurrat"
+abstract: "Laurent Petit, Aude Seurrat"
 date: "2022-01-01"
 year: "2022"
-type: "techreport"
+type: "report"
 url: "https://hal.science/hal-03968555"
-publisher: ""
+publisher: "GIS2IF"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Petit, Laurent, Seurrat, Aude
-- **Type de publication:** techreport
+- **Auteurs:** Laurent Petit, Aude Seurrat
+- **Type de publication:** report
+- **Éditeur:** GIS2IF
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03968555](https://hal.science/hal-03968555)
 

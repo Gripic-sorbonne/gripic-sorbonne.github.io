@@ -1,14 +1,14 @@
 ---
-uuid: 179a0a1b-d039-4cd7-8317-9f24419150ff
+uuid: 942c3b63-1a9f-4701-a710-2821daaf9eb2
 title: "Jeunes & Médias"
-author: "Bruneel, Emmanuelle"
-authors: "Bruneel, Emmanuelle"
-abstract: "Bruneel, Emmanuelle"
+author: "Emmanuelle Bruneel"
+authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2017-01-01"
 year: "2017"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767309"
-publisher: "Jeunes & Médias"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bruneel, Emmanuelle
-- **Type de publication:** article
-- **Éditeur:** Jeunes & Médias
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767309](https://hal.science/hal-03767309)
 

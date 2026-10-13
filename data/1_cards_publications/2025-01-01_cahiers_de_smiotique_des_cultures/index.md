@@ -1,12 +1,12 @@
 ---
-uuid: b99d3429-731b-4851-8e69-7e1508ee6138
+uuid: 5842c6bc-9417-4765-b14c-9a63e6b4fbd2
 title: "Cahiers de sémiotique des cultures"
-author: "Fischer, Joachim, Lamache, Lucille"
-authors: "Fischer, Joachim, Lamache, Lucille"
-abstract: "Fischer, Joachim, Lamache, Lucille"
+author: "Joachim Fischer, Lucille Lamache"
+authors: "Joachim Fischer, Lucille Lamache"
+abstract: "Joachim Fischer, Lucille Lamache"
 date: "2025-01-01"
 year: "2025"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-05448239"
 publisher: "Classiques Garnier"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fischer, Joachim, Lamache, Lucille
-- **Type de publication:** article
+- **Auteurs:** Joachim Fischer, Lucille Lamache
+- **Type de publication:** article-journal
 - **Éditeur:** Classiques Garnier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05448239](https://hal.science/hal-05448239)
 

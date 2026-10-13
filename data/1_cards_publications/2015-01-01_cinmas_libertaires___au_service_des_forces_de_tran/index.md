@@ -1,14 +1,14 @@
 ---
-uuid: 0f8fb9fd-f1d6-4bec-96a3-f36acc59a7a1
+uuid: fcec5777-7865-40ea-a962-a7dace883c84
 title: "Cinémas libertaires : au service des forces de transgression et de révolte"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2015-01-01"
 year: "2015"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03773290"
-publisher: "Cinémas libertaires : au service des forces de transgression et de révolte"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** incollection
-- **Éditeur:** Cinémas libertaires : au service des forces de transgression et de révolte
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773290](https://hal.science/hal-03773290)
 

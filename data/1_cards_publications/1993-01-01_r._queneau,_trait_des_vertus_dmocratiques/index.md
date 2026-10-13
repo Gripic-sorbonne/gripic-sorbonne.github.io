@@ -1,9 +1,9 @@
 ---
-uuid: 14e309e7-8f65-4453-8718-276c4ee7026a
+uuid: 02e5af6d-215e-45a1-ac8f-057d1808feed
 title: "R. Queneau, Traité des vertus démocratiques"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1993-01-01"
 year: "1993"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
+- **Auteurs:** Emmanuël Souchier
 - **Type de publication:** book
 - **Éditeur:** Gallimard
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760503](https://hal.science/hal-03760503)

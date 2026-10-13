@@ -1,12 +1,12 @@
 ---
-uuid: 87781ab7-0507-432d-9ae6-7c5763d1311b
+uuid: 0133ec8f-03c6-4e29-b857-acbc27f77a6b
 title: "3 Grands Formats à Vézelay"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1989-01-01"
 year: "1989"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03761108"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761108](https://hal.science/hal-03761108)
 

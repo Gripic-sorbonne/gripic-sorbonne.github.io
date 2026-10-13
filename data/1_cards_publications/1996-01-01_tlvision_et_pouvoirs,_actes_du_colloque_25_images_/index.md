@@ -1,12 +1,12 @@
 ---
-uuid: a97abb10-2c6f-4ecf-bee8-6c1c8c8ccd56
+uuid: e2b47b67-7541-4cee-b432-cd8b1082d39c
 title: "Télévision et pouvoirs, Actes du colloque 25 images / seconde"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1996-01-01"
 year: "1996"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761042"
 publisher: "Crac Scène Nationale"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - **Éditeur:** Crac Scène Nationale
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761042](https://hal.science/hal-03761042)
 

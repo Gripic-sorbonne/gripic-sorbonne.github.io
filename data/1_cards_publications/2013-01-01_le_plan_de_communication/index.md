@@ -1,12 +1,12 @@
 ---
-uuid: f733afa2-8924-437a-afd4-f54325bb10f4
+uuid: 4be0dad5-f3ba-47b7-9f44-19e0cfdc4661
 title: "Le plan de communication"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2013-01-01"
 year: "2013"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03750033"
 publisher: "Dunod"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
-- **Type de publication:** incollection
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
 - **Éditeur:** Dunod
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750033](https://hal.science/hal-03750033)
 

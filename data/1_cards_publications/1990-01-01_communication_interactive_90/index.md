@@ -1,14 +1,14 @@
 ---
-uuid: a5ceab75-4c6d-4805-816d-99ba9064de43
+uuid: 3543fc2c-ecb6-473a-ba40-355ee7396641
 title: "Communication interactive 90"
-author: "Souchier, Emmanuël, Pomian, Joanna"
-authors: "Souchier, Emmanuël, Pomian, Joanna"
-abstract: "Souchier, Emmanuël, Pomian, Joanna"
+author: "Emmanuël Souchier, Joanna Pomian"
+authors: "Emmanuël Souchier, Joanna Pomian"
+abstract: "Emmanuël Souchier, Joanna Pomian"
 date: "1990-01-01"
 year: "1990"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03760964"
-publisher: "Communication interactive 90"
+publisher: "Groupe §and Université Paris 8, Saint-Denis"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Pomian, Joanna
-- **Type de publication:** inproceedings
-- **Éditeur:** Communication interactive 90
+- **Auteurs:** Emmanuël Souchier, Joanna Pomian
+- **Type de publication:** paper-conference
+- **Éditeur:** Groupe §and Université Paris 8, Saint-Denis
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760964](https://hal.science/hal-03760964)
 

@@ -1,12 +1,12 @@
 ---
-uuid: c8087266-c0fd-4ea3-a8b3-4325eee23e43
+uuid: cb28bd14-df7e-4ad8-af28-85102557b5d1
 title: "Éléments pour une épistémologie du design en contexte numérique"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2018-01-01"
 year: "2018"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03760984"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760984](https://hal.science/hal-03760984)
 

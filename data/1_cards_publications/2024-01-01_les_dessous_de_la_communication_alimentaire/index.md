@@ -1,14 +1,14 @@
 ---
-uuid: 7f2e796e-f005-459a-84cc-96f2b2eb0adf
+uuid: 8bd12d1c-e276-4e19-800e-cabf0bd0c67a
 title: "Les dessous de la communication alimentaire"
-author: "Boutaud, Jean-Jacques, Brachet, Camille, Le Foulgoc, Aurélien, Tassel, Julien"
-authors: "Boutaud, Jean-Jacques, Brachet, Camille, Le Foulgoc, Aurélien, Tassel, Julien"
-abstract: "Boutaud, Jean-Jacques, Brachet, Camille, Le Foulgoc, Aurélien, Tassel, Julien"
+author: "Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel"
+authors: "Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel"
+abstract: "Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel"
 date: "2024-01-01"
 year: "2024"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-04884329"
-publisher: "Les dessous de la communication alimentaire"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Boutaud, Jean-Jacques, Brachet, Camille, Le Foulgoc, Aurélien, Tassel, Julien
-- **Type de publication:** incollection
-- **Éditeur:** Les dessous de la communication alimentaire
+- **Auteurs:** Jean-Jacques Boutaud, Camille Brachet, Aurélien Le Foulgoc, Julien Tassel
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04884329](https://hal.science/hal-04884329)
 

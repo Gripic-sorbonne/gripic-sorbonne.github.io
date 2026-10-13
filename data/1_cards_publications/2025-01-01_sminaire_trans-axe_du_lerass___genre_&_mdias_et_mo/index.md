@@ -1,14 +1,14 @@
 ---
-uuid: bc78a10e-f60c-4e36-ba7b-4731f4ae8799
+uuid: 0e264e21-0a91-4090-a282-85a63e6038d5
 title: "Séminaire Trans-axe du LERASS : Genre & Médias et Mondes cultures, expériences, numérique (MOCEN)"
-author: "Grison, Thibault"
-authors: "Grison, Thibault"
-abstract: "Grison, Thibault"
+author: "Thibault Grison"
+authors: "Thibault Grison"
+abstract: "Thibault Grison"
 date: "2025-01-01"
 year: "2025"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-05605982"
-publisher: "Séminaire Trans-axe du LERASS : Genre & Médias et Mondes cultures, expériences, numérique (MOCEN)"
+publisher: "LERASS"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Grison, Thibault
-- **Type de publication:** inproceedings
-- **Éditeur:** Séminaire Trans-axe du LERASS : Genre & Médias et Mondes cultures, expériences, numérique (MOCEN)
+- **Auteurs:** Thibault Grison
+- **Type de publication:** paper-conference
+- **Éditeur:** LERASS
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605982](https://hal.science/hal-05605982)
 

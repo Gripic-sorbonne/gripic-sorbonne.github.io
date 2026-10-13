@@ -1,12 +1,12 @@
 ---
-uuid: d1b95928-9d7e-45af-ab00-2f6ddf9f75b2
+uuid: bf87cc6b-a48b-4961-aa39-82552801c26d
 title: "Plaisirs de femmes. Women, pleasure and Transgression in French Literature and Culture"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2019-01-01"
 year: "2019"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03758755"
 publisher: "Peter Lang"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** incollection
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** chapter
 - **Éditeur:** Peter Lang
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758755](https://hal.science/hal-03758755)
 

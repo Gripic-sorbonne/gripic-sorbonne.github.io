@@ -1,14 +1,14 @@
 ---
-uuid: 9be230b1-3de8-42ec-9830-ea84c3e23d7e
+uuid: 76e17d2b-de1f-46c3-855d-04e2add088d0
 title: "Objets insignes, objets infâmes de la littérature"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2019-01-01"
 year: "2019"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03768193"
-publisher: "Objets insignes, objets infâmes de la littérature"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** incollection
-- **Éditeur:** Objets insignes, objets infâmes de la littérature
+- **Auteurs:** Caroline Marti
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768193](https://hal.science/hal-03768193)
 

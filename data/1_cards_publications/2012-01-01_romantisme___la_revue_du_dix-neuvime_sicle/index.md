@@ -1,12 +1,12 @@
 ---
-uuid: b52b2bf3-e528-4a82-ad83-17848f834558
+uuid: 0396b0f3-ad1a-4a68-9b1d-58c436437c11
 title: "Romantisme : la revue du dix-neuvième siècle"
-author: "Wrona, Adeline"
-authors: "Wrona, Adeline"
-abstract: "Wrona, Adeline"
+author: "Adeline Wrona"
+authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2012-01-01"
 year: "2012"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767195"
 publisher: "Armand Colin"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline
-- **Type de publication:** article
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** article-journal
 - **Éditeur:** Armand Colin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767195](https://hal.science/hal-03767195)
 

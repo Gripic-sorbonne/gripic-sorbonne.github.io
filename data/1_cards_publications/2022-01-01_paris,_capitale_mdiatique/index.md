@@ -1,14 +1,14 @@
 ---
-uuid: 7ce9e497-3419-46c3-a9ff-6da6ad58f231
+uuid: e02518f6-18e9-454e-b89b-9ca4b96cdaf4
 title: "Paris, capitale médiatique"
-author: "Charbonneaux, Juliette, Bolz, Lisa"
-authors: "Charbonneaux, Juliette, Bolz, Lisa"
-abstract: "Charbonneaux, Juliette, Bolz, Lisa"
+author: "hecate vergopoulos"
+authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2022-01-01"
 year: "2022"
-type: "incollection"
-url: "https://hal.science/hal-03846427"
-publisher: "Paris, capitale médiatique"
+type: "chapter"
+url: "https://hal.science/hal-03958488"
+publisher: "Presses universitaires de Vincennes"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Charbonneaux, Juliette, Bolz, Lisa
-- **Type de publication:** incollection
-- **Éditeur:** Paris, capitale médiatique
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03846427](https://hal.science/hal-03846427)
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** chapter
+- **Éditeur:** Presses universitaires de Vincennes
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03958488](https://hal.science/hal-03958488)
 

@@ -1,13 +1,13 @@
 ---
-uuid: 40736c82-385f-4b35-be12-c2b8ffa8a355
+uuid: 5633f6fd-69ee-48c1-9200-9bb4256659bd
 title: "Paris, les cahiers de la métropole"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2014-01-01"
 year: "2014"
-type: "article"
-url: "https://hal.science/hal-03754477"
+type: "article-journal"
+url: "https://hal.science/hal-03754540"
 publisher: "Ville de Paris"
 container_title: ""
 publication: true
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** article
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
 - **Éditeur:** Ville de Paris
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754477](https://hal.science/hal-03754477)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754540](https://hal.science/hal-03754540)
 

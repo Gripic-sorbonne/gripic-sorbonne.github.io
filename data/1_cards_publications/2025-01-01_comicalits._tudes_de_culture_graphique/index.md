@@ -1,12 +1,12 @@
 ---
-uuid: 02720db6-e8eb-4143-a5a9-9b78767772a4
+uuid: 2b2b4805-a55c-4b7f-ab6b-c799e8f734c5
 title: "Comicalités. Études de culture graphique"
-author: "Lévrier, Alexis"
-authors: "Lévrier, Alexis"
-abstract: "Lévrier, Alexis"
+author: "Alexis Lévrier"
+authors: "Alexis Lévrier"
+abstract: "Alexis Lévrier"
 date: "2025-01-01"
 year: "2025"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-05620649"
 publisher: "Université Paris 13 / Université Paris Sorbonne"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Lévrier, Alexis
-- **Type de publication:** article
+- **Auteurs:** Alexis Lévrier
+- **Type de publication:** article-journal
 - **Éditeur:** Université Paris 13 / Université Paris Sorbonne
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05620649](https://hal.science/hal-05620649)
 

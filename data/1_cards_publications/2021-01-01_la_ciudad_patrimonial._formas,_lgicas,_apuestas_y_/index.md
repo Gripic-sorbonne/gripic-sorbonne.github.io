@@ -1,14 +1,14 @@
 ---
-uuid: 03ba2728-c8bc-4731-a50e-9c0ec7c4e1b7
+uuid: 09a2cf4d-7604-41df-b658-0c859753096c
 title: "La ciudad patrimonial. Formas, lógicas, apuestas y estrategias, sous la dir. de C. de Saint-Pierre"
-author: "Corbillé, Sophie"
-authors: "Corbillé, Sophie"
-abstract: "Corbillé, Sophie"
+author: "Sophie Corbillé"
+authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2021-01-01"
 year: "2021"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03951272"
-publisher: "La ciudad patrimonial. Formas, lógicas, apuestas y estrategias, sous la dir. de C. de Saint-Pierre"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie
-- **Type de publication:** incollection
-- **Éditeur:** La ciudad patrimonial. Formas, lógicas, apuestas y estrategias, sous la dir. de C. de Saint-Pierre
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03951272](https://hal.science/hal-03951272)
 

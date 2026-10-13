@@ -1,14 +1,14 @@
 ---
-uuid: cbd38dbe-c159-4398-8b48-e8fd1a28616b
-title: "Représentations de la sémiotique dans le discours marketing : approche d'un corpus de manuels"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+uuid: 73cc53da-962b-4f67-b720-8b085384f339
+title: "Représentations de la sémiotique dans le discours marketing : approche d’un corpus de manuels"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2007-01-01"
 year: "2007"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03754335"
-publisher: "Représentations de la sémiotique dans le discours marketing : approche d'un corpus de manuels"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
-- **Type de publication:** inproceedings
-- **Éditeur:** Représentations de la sémiotique dans le discours marketing : approche d'un corpus de manuels
+- **Auteurs:** Caroline Marti
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754335](https://hal.science/hal-03754335)
 

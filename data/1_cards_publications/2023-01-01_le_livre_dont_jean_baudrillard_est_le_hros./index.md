@@ -1,9 +1,9 @@
 ---
-uuid: 85e0035f-d020-4314-94bb-28923791ddd3
+uuid: 3c805f66-926b-46e4-aa56-8c083d47e45e
 title: "Le Livre dont Jean Baudrillard est le héros."
-author: "Fantin, Emmanuelle, Zéhenne, Camille"
-authors: "Fantin, Emmanuelle, Zéhenne, Camille"
-abstract: "Fantin, Emmanuelle, Zéhenne, Camille"
+author: "Emmanuelle Fantin, Camille Zéhenne"
+authors: "Emmanuelle Fantin, Camille Zéhenne"
+abstract: "Emmanuelle Fantin, Camille Zéhenne"
 date: "2023-01-01"
 year: "2023"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Zéhenne, Camille
+- **Auteurs:** Emmanuelle Fantin, Camille Zéhenne
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721133](https://hal.science/hal-03721133)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 42c3ebef-f385-4f53-a257-d069ab4a4b2d
+uuid: ad802907-d324-4b6c-9245-cc6df94ccf61
 title: "Entrelacs"
-author: "AIM, Olivier"
-authors: "AIM, Olivier"
-abstract: "AIM, Olivier"
+author: "Olivier AÏM"
+authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2007-01-01"
 year: "2007"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749684"
-publisher: "École nationale supérieure d'audiovisuel (Toulouse) ; Téraèdre"
+publisher: "École nationale supérieure d’audiovisuel (Toulouse) ; Téraèdre"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** AIM, Olivier
-- **Type de publication:** article
-- **Éditeur:** École nationale supérieure d'audiovisuel (Toulouse) ; Téraèdre
+- **Auteurs:** Olivier AÏM
+- **Type de publication:** article-journal
+- **Éditeur:** École nationale supérieure d’audiovisuel (Toulouse) ; Téraèdre
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749684](https://hal.science/hal-03749684)
 

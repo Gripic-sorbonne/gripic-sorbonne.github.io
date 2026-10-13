@@ -1,14 +1,14 @@
 ---
-uuid: 0bff7a68-91e2-40af-bf49-7b27c1bd1e8e
+uuid: 3de6dee3-5c2a-41a9-9504-c9fefb7bfb17
 title: "Séminaire international Numératie publiciaire, transformation des paroles des marques"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2018-01-01"
 year: "2018"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03964100"
-publisher: "Séminaire international Numératie publiciaire, transformation des paroles des marques"
+publisher: "Celsa"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** inproceedings
-- **Éditeur:** Séminaire international Numératie publiciaire, transformation des paroles des marques
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** paper-conference
+- **Éditeur:** Celsa
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964100](https://hal.science/hal-03964100)
 

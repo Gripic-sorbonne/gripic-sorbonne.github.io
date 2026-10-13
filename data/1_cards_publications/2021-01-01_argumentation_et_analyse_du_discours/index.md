@@ -1,13 +1,13 @@
 ---
-uuid: f398fea5-dc9b-4f10-bff9-e9826e3cc23a
+uuid: 708448cd-45fc-45ba-9cac-4cd1c3ceb3b3
 title: "Argumentation et Analyse du Discours"
-author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
-authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
-abstract: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
+author: "hecate vergopoulos"
+authors: "hecate vergopoulos"
+abstract: "hecate vergopoulos"
 date: "2021-01-01"
 year: "2021"
-type: "article"
-url: "https://hal.science/hal-03799825"
+type: "article-journal"
+url: "https://hal.science/hal-03766979"
 publisher: "University of Tel-Aviv"
 container_title: ""
 publication: true
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Charbonneaux, Juliette, Berthelot-Guiet, Karine
-- **Type de publication:** article
+- **Auteurs:** hecate vergopoulos
+- **Type de publication:** article-journal
 - **Éditeur:** University of Tel-Aviv
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03799825](https://hal.science/hal-03799825)
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766979](https://hal.science/hal-03766979)
 

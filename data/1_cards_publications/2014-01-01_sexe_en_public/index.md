@@ -1,12 +1,12 @@
 ---
-uuid: ab6cfb51-fa43-40ed-9643-91a2e1ba854c
+uuid: 1dc77f90-7170-4422-9e93-45c347775763
 title: "Sexe en public"
-author: "Quemener, Nelly, Vörös, Florian"
-authors: "Quemener, Nelly, Vörös, Florian"
-abstract: "Quemener, Nelly, Vörös, Florian"
+author: "Nelly Quemener, Florian Vörös"
+authors: "Nelly Quemener, Florian Vörös"
+abstract: "Nelly Quemener, Florian Vörös"
 date: "2014-01-01"
 year: "2014"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03758416"
 publisher: "Poli éditions"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Vörös, Florian
-- **Type de publication:** misc
+- **Auteurs:** Nelly Quemener, Florian Vörös
 - **Éditeur:** Poli éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758416](https://hal.science/hal-03758416)
 

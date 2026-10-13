@@ -1,14 +1,14 @@
 ---
-uuid: 594bc7f3-c4d5-4522-8d44-59d61e57c3cf
+uuid: b6b4e654-66a6-417e-b454-29252453989d
 title: "Le numérique comme écriture"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
+authors: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
+abstract: "Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier"
 date: "2019-01-01"
 year: "2019"
-type: "misc"
-url: "https://hal.science/hal-03760979"
-publisher: ""
+type: "book"
+url: "https://hal.science/hal-01982714"
+publisher: "Armand Colin"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760979](https://hal.science/hal-03760979)
+- **Auteurs:** Etienne Candel, Gustavo Gomez-Mejia, Valérie Jeanne-Perrier, Emmanuël Souchier
+- **Type de publication:** book
+- **Éditeur:** Armand Colin
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01982714](https://hal.science/hal-01982714)
 

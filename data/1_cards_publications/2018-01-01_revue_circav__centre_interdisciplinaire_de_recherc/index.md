@@ -1,12 +1,12 @@
 ---
-uuid: c0be2c32-5a41-4d9c-8de4-f225c9abada7
+uuid: c807073d-919b-4a9a-b3ec-b30e4da47134
 title: "Revue CIRCAV (Centre interdisciplinaire de recherche sur la communication audio-visuelle)"
-author: "Bruneel, Emmanuelle"
-authors: "Bruneel, Emmanuelle"
-abstract: "Bruneel, Emmanuelle"
+author: "Emmanuelle Bruneel"
+authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2018-01-01"
 year: "2018"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767303"
 publisher: "GERiiCO ; Université de Lille"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bruneel, Emmanuelle
-- **Type de publication:** article
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** article-journal
 - **Éditeur:** GERiiCO ; Université de Lille
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767303](https://hal.science/hal-03767303)
 

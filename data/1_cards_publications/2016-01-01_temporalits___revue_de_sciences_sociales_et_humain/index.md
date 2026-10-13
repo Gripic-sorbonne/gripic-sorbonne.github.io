@@ -1,12 +1,12 @@
 ---
-uuid: ea47ca53-2d7e-4526-9b05-abdd74978164
+uuid: a121a69c-4c8a-4536-bde1-7cc58d6e51f5
 title: "Temporalités : revue de sciences sociales et humaines"
-author: "Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien"
-authors: "Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien"
-abstract: "Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien"
+author: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
+authors: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
+abstract: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
 date: "2016-01-01"
 year: "2016"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758576"
 publisher: "Guyancourt : Laboratoire Printemps"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Dakhlia, Jamil, Castex, Lucien
-- **Type de publication:** article
+- **Auteurs:** Nelly Quemener, Jamil Dakhlia, Lucien Castex
+- **Type de publication:** article-journal
 - **Éditeur:** Guyancourt : Laboratoire Printemps
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758576](https://hal.science/hal-03758576)
 

@@ -1,14 +1,14 @@
 ---
-uuid: a8844176-0cfb-4cc8-b438-c36ca3095645
+uuid: ba5ba768-48b1-420f-bc4b-a99f9b46396d
 title: "Textuel"
-author: "Souchier, Emmanuël, Pomian, Joanna"
-authors: "Souchier, Emmanuël, Pomian, Joanna"
-abstract: "Souchier, Emmanuël, Pomian, Joanna"
+author: "Emmanuël Souchier, Joanna Pomian"
+authors: "Emmanuël Souchier, Joanna Pomian"
+abstract: "Emmanuël Souchier, Joanna Pomian"
 date: "1985-01-01"
 year: "1985"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761065"
-publisher: "Textuel"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Pomian, Joanna
-- **Type de publication:** incollection
-- **Éditeur:** Textuel
+- **Auteurs:** Emmanuël Souchier, Joanna Pomian
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761065](https://hal.science/hal-03761065)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 938b4b4a-89e0-4096-9da1-2bba0f20cc49
+uuid: 086bc940-de8b-4a5d-b38b-d7d4f6cd533c
 title: "Plateforme / Plateformisation"
-author: "Bonino, Antoine, Goyet, Samuel, Heuguet, Guillaume"
-authors: "Bonino, Antoine, Goyet, Samuel, Heuguet, Guillaume"
-abstract: "Bonino, Antoine, Goyet, Samuel, Heuguet, Guillaume"
+author: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
+authors: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
+abstract: "Antoine Bonino, Samuel Goyet, Guillaume Heuguet"
 date: "2019-01-01"
 year: "2019"
-type: "misc"
+type: ""
 url: "https://hal.sorbonne-universite.fr/hal-03987167"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bonino, Antoine, Goyet, Samuel, Heuguet, Guillaume
-- **Type de publication:** misc
+- **Auteurs:** Antoine Bonino, Samuel Goyet, Guillaume Heuguet
 - 🔗 **Lien HAL / Publication:** [https://hal.sorbonne-universite.fr/hal-03987167](https://hal.sorbonne-universite.fr/hal-03987167)
 

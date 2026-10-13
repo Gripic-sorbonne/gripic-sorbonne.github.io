@@ -1,12 +1,12 @@
 ---
-uuid: 30262872-2717-4c59-bea9-f3e52bb561f2
+uuid: 2947c461-6c69-4468-b39e-76c398a54309
 title: "Les usages publics du passé en temps de présentisme"
-author: "Hartog, Fran cois, Tassel, Julien"
-authors: "Hartog, Fran cois, Tassel, Julien"
-abstract: "Hartog, Fran cois, Tassel, Julien"
+author: "François Hartog, Julien Tassel"
+authors: "François Hartog, Julien Tassel"
+abstract: "François Hartog, Julien Tassel"
 date: "2014-01-01"
 year: "2014"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03740433"
 publisher: "Presses de Sciences Po (P.F.N.S.P.)"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Hartog, Fran cois, Tassel, Julien
-- **Type de publication:** misc
+- **Auteurs:** François Hartog, Julien Tassel
 - **Éditeur:** Presses de Sciences Po (P.F.N.S.P.)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03740433](https://hal.science/hal-03740433)
 

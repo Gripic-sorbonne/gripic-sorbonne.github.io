@@ -1,12 +1,12 @@
 ---
-uuid: e7494647-5732-4a4f-977a-45c995b124ea
+uuid: 5c542b53-3f36-42fa-b63f-985025c24daa
 title: "Sociologies pratiques"
-author: "Robert-Tanguy, Philippe"
-authors: "Robert-Tanguy, Philippe"
-abstract: "Robert-Tanguy, Philippe"
+author: "Philippe Robert-Tanguy"
+authors: "Philippe Robert-Tanguy"
+abstract: "Philippe Robert-Tanguy"
 date: "2016-01-01"
 year: "2016"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03888021"
 publisher: "Presses de Sciences Po [1999-....]"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Robert-Tanguy, Philippe
-- **Type de publication:** article
+- **Auteurs:** Philippe Robert-Tanguy
+- **Type de publication:** article-journal
 - **Éditeur:** Presses de Sciences Po [1999-....]
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03888021](https://hal.science/hal-03888021)
 

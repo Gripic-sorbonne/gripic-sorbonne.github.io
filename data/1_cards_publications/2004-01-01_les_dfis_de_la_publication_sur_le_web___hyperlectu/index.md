@@ -1,14 +1,14 @@
 ---
-uuid: 8446bf5d-fe53-4d81-906c-bba218ad91f3
+uuid: 53e27052-5a16-4386-a022-a7b871cb7865
 title: "Les défis de la publication sur le Web : hyperlectures, cybertextes et méta-édition"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2004-01-01"
 year: "2004"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03760917"
-publisher: "Les défis de la publication sur le Web : hyperlectures, cybertextes et méta-édition"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
-- **Éditeur:** Les défis de la publication sur le Web : hyperlectures, cybertextes et méta-édition
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760917](https://hal.science/hal-03760917)
 

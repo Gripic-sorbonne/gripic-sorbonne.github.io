@@ -1,12 +1,12 @@
 ---
-uuid: 34e0280a-c503-49a3-ae67-7b427184cda3
+uuid: 09ce4865-a56c-410c-a6b7-14cea1d3a977
 title: "TANGRAM"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2015-01-01"
 year: "2015"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758651"
 publisher: "Commission fédérale Suisse contre le racisme"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** article
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
 - **Éditeur:** Commission fédérale Suisse contre le racisme
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758651](https://hal.science/hal-03758651)
 

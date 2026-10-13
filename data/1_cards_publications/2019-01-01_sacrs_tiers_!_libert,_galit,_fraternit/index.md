@@ -1,12 +1,12 @@
 ---
-uuid: 0131585b-fee2-4eb6-88fa-2fa60e0023ce
+uuid: 91b2b55b-c8aa-4fb5-a1bf-6c5a738801dd
 title: "Sacrés Tiers ! Liberté, Égalité, Fraternité"
-author: "Souchier, Emmanuël, Tadier, E."
-authors: "Souchier, Emmanuël, Tadier, E."
-abstract: "Souchier, Emmanuël, Tadier, E."
+author: "Emmanuël Souchier, E. Tadier"
+authors: "Emmanuël Souchier, E. Tadier"
+abstract: "Emmanuël Souchier, E. Tadier"
 date: "2019-01-01"
 year: "2019"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03761072"
 publisher: "Médiathèque Jean-Christophe Rufin"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Tadier, E.
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier, E. Tadier
 - **Éditeur:** Médiathèque Jean-Christophe Rufin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761072](https://hal.science/hal-03761072)
 

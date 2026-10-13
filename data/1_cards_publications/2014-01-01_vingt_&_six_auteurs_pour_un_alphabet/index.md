@@ -1,12 +1,12 @@
 ---
-uuid: f5c34a24-5853-4616-b5e1-8cdd64a752b4
+uuid: 976ce820-759f-4c69-bbce-8e7908beacb1
 title: "Vingt & six auteurs pour un alphabet"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2014-01-01"
 year: "2014"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03761078"
 publisher: "Médiathèque Jean-Christophe Rufin"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier
 - **Éditeur:** Médiathèque Jean-Christophe Rufin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761078](https://hal.science/hal-03761078)
 

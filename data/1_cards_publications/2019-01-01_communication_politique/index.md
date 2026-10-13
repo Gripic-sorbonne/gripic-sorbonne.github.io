@@ -1,12 +1,12 @@
 ---
-uuid: 0e054d03-c1b9-4794-a17f-b56614a3e1db
+uuid: 2e81c5a2-38cb-480b-be3e-9ef87795ac33
 title: "Communication politique"
-author: "Devars, Thierry"
-authors: "Devars, Thierry"
-abstract: "Devars, Thierry"
+author: "Thierry Devars"
+authors: "Thierry Devars"
+abstract: "Thierry Devars"
 date: "2019-01-01"
 year: "2019"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03964012"
 publisher: "Pearson"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Devars, Thierry
-- **Type de publication:** incollection
+- **Auteurs:** Thierry Devars
+- **Type de publication:** chapter
 - **Éditeur:** Pearson
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964012](https://hal.science/hal-03964012)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 79ee955b-9a6b-4677-b853-4f31d5601c2e
+uuid: 5da0baee-117f-47ac-93de-ca4301d83d87
 title: "cahiers Albert Londres"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2018-01-01"
 year: "2018"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03773294"
-publisher: "cahiers Albert Londres"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** article
-- **Éditeur:** cahiers Albert Londres
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773294](https://hal.science/hal-03773294)
 

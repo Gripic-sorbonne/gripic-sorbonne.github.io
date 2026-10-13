@@ -1,14 +1,14 @@
 ---
-uuid: 500c674a-32db-4b1b-a618-b3c3d7283d79
+uuid: b5ca77ec-18b4-4b51-b76c-d209252107b5
 title: "Les journalismes : réalités plurielles, éthique commune ?"
-author: "Jeanne Perrier, Valerie"
-authors: "Jeanne Perrier, Valerie"
-abstract: "Jeanne Perrier, Valerie"
+author: "Valerie Jeanne Perrier"
+authors: "Valerie Jeanne Perrier"
+abstract: "Valerie Jeanne Perrier"
 date: "2010-01-01"
 year: "2010"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03752979"
-publisher: "Les journalismes : réalités plurielles, éthique commune ?"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Jeanne Perrier, Valerie
-- **Type de publication:** inproceedings
-- **Éditeur:** Les journalismes : réalités plurielles, éthique commune ?
+- **Auteurs:** Valerie Jeanne Perrier
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752979](https://hal.science/hal-03752979)
 

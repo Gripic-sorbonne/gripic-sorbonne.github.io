@@ -1,9 +1,9 @@
 ---
-uuid: 77775225-406b-4626-91aa-a523ef08a5ac
+uuid: b5477438-febd-4104-bf57-ab0c97c4137f
 title: "Paris, résidence secondaire"
-author: "Corbillé, Sophie, Chevalier, Sophie, Lallement, Emmanuelle"
-authors: "Corbillé, Sophie, Chevalier, Sophie, Lallement, Emmanuelle"
-abstract: "Corbillé, Sophie, Chevalier, Sophie, Lallement, Emmanuelle"
+author: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
+authors: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
+abstract: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
 date: "2013-01-01"
 year: "2013"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie, Chevalier, Sophie, Lallement, Emmanuelle
+- **Auteurs:** Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement
 - **Type de publication:** book
 - **Éditeur:** Belin / MSH
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749823](https://hal.science/hal-03749823)

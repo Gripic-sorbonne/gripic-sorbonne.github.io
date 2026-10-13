@@ -1,12 +1,12 @@
 ---
-uuid: 96405c70-260f-4d8c-b2ca-914c1373849a
+uuid: c804fcb9-edfc-461d-ae4c-4c0fa5cb4764
 title: "Télévision"
-author: "Brouard, Pauline"
-authors: "Brouard, Pauline"
-abstract: "Brouard, Pauline"
+author: "Pauline Brouard"
+authors: "Pauline Brouard"
+abstract: "Pauline Brouard"
 date: "2020-01-01"
 year: "2020"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767270"
 publisher: "C.N.R.S Editions"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Brouard, Pauline
-- **Type de publication:** article
+- **Auteurs:** Pauline Brouard
+- **Type de publication:** article-journal
 - **Éditeur:** C.N.R.S Editions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767270](https://hal.science/hal-03767270)
 

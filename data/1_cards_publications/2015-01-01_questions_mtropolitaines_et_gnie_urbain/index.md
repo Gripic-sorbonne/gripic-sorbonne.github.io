@@ -1,12 +1,12 @@
 ---
-uuid: 25fd3741-db5a-4153-a7f3-98bd3300dd62
+uuid: 0d7d9c34-2ed9-48bf-a44a-6805f6d9287e
 title: "Questions métropolitaines et génie urbain"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2015-01-01"
 year: "2015"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03754392"
 publisher: "EIVP"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** incollection
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** chapter
 - **Éditeur:** EIVP
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754392](https://hal.science/hal-03754392)
 

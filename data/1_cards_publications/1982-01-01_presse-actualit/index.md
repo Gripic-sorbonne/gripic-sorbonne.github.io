@@ -1,14 +1,14 @@
 ---
-uuid: 2daae6b7-7a49-4ab9-bfd0-72cf0405f90f
+uuid: bfcde2a3-0fb6-409c-bc3d-166d8bf45e4e
 title: "Presse-Actualité"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1982-01-01"
 year: "1982"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761071"
-publisher: "Presse-Actualité"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
-- **Éditeur:** Presse-Actualité
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761071](https://hal.science/hal-03761071)
 

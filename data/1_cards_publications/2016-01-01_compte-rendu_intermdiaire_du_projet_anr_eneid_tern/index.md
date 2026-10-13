@@ -1,14 +1,14 @@
 ---
-uuid: 28677fde-79c1-4399-a1e4-5b8a776f428f
+uuid: 80c43553-556c-49e5-9c3c-33020b436289
 title: "Compte-rendu intermédiaire du projet ANR ENEID Éternités numériques Les identités numériques post mortem et les usages mémoriaux du web au prisme du genre"
-author: "Georges, Fanny, Julliard, Virginie, Quemener, Nelly, Bourdeloie, Hélène"
-authors: "Georges, Fanny, Julliard, Virginie, Quemener, Nelly, Bourdeloie, Hélène"
-abstract: "Georges, Fanny, Julliard, Virginie, Quemener, Nelly, Bourdeloie, Hélène"
+author: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
+authors: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
+abstract: "Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie"
 date: "2016-01-01"
 year: "2016"
-type: "techreport"
+type: "report"
 url: "https://hal.science/hal-03758791"
-publisher: ""
+publisher: "Agence Nationale de la Recherche (ANR)"
 container_title: ""
 publication: true
 ---
@@ -17,7 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Georges, Fanny, Julliard, Virginie, Quemener, Nelly, Bourdeloie, Hélène
-- **Type de publication:** techreport
+- **Auteurs:** Fanny Georges, Virginie Julliard, Nelly Quemener, Hélène Bourdeloie
+- **Type de publication:** report
+- **Éditeur:** Agence Nationale de la Recherche (ANR)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758791](https://hal.science/hal-03758791)
 

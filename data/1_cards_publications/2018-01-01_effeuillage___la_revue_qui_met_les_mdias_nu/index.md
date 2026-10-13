@@ -1,12 +1,12 @@
 ---
-uuid: e0009f93-8f65-4429-b4d1-9e12678184a0
+uuid: f0502b67-b948-4425-8e7a-28bb1d5aeca9
 title: "Effeuillage : la revue qui met les médias à nu"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2018-01-01"
 year: "2018"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03964036"
 publisher: "Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** article
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** article-journal
 - **Éditeur:** Master Médias et Management du CELSA Paris Sorbonne ; Association Effeuillage
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964036](https://hal.science/hal-03964036)
 

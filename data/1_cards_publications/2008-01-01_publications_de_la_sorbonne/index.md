@@ -1,14 +1,14 @@
 ---
-uuid: bb1e154f-47e7-4824-8d60-1e6b468cf9b6
+uuid: 3d922fb2-8c24-4d19-97ca-5f324629685a
 title: "Publications de la Sorbonne"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2008-01-01"
 year: "2008"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760657"
-publisher: "Publications de la Sorbonne"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
-- **Éditeur:** Publications de la Sorbonne
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760657](https://hal.science/hal-03760657)
 

@@ -1,9 +1,9 @@
 ---
-uuid: fd009539-1695-45cd-b86b-3ed1ca6811d7
+uuid: c5c5547b-d895-46c4-ab95-fa71a4defd57
 title: "Dans la tête des Gilets jaunes"
-author: "Huyghe, Fran cois-Bernard, Liccia, Damien"
-authors: "Huyghe, Fran cois-Bernard, Liccia, Damien"
-abstract: "Huyghe, Fran cois-Bernard, Liccia, Damien"
+author: "François-Bernard Huyghe, Damien Liccia"
+authors: "François-Bernard Huyghe, Damien Liccia"
+abstract: "François-Bernard Huyghe, Damien Liccia"
 date: "2019-01-01"
 year: "2019"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Huyghe, Fran cois-Bernard, Liccia, Damien
+- **Auteurs:** François-Bernard Huyghe, Damien Liccia
 - **Type de publication:** book
 - **Éditeur:** VA Éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03723045](https://hal.science/hal-03723045)

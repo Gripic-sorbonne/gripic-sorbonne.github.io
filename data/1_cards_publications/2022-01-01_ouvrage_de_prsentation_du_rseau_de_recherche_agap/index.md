@@ -1,14 +1,14 @@
 ---
-uuid: 34ff8e45-c4ca-44c3-bf37-487ef51dc425
+uuid: 6d10ad7b-f611-438b-8eb8-7c89c108ec48
 title: "Ouvrage de présentation du réseau de recherche AGAP"
-author: "Marti, Caroline, Buisson, Marie-lise, de Iulio, Simona, Parizot, Anne Collet"
-authors: "Marti, Caroline, Buisson, Marie-lise, de Iulio, Simona, Parizot, Anne Collet"
-abstract: "Marti, Caroline, Buisson, Marie-lise, de Iulio, Simona, Parizot, Anne Collet"
+author: "Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot"
+authors: "Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot"
+abstract: "Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot"
 date: "2022-01-01"
 year: "2022"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03768177"
-publisher: "Ouvrage de présentation du réseau de recherche AGAP"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline, Buisson, Marie-lise, de Iulio, Simona, Parizot, Anne Collet
-- **Type de publication:** incollection
-- **Éditeur:** Ouvrage de présentation du réseau de recherche AGAP
+- **Auteurs:** Caroline Marti, Marie-lise Buisson, Simona Iulio, Anne Collet Parizot
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03768177](https://hal.science/hal-03768177)
 

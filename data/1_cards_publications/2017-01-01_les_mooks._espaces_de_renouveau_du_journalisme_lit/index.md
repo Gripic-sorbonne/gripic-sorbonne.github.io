@@ -1,14 +1,14 @@
 ---
-uuid: 9066ade0-8c94-4868-b659-8ec21a92575d
+uuid: d625adcd-393b-403c-b48c-ec0be8592d11
 title: "Les mooks. Espaces de renouveau du journalisme littéraire"
-author: "Abid-Dalen con, Ambre"
-authors: "Abid-Dalen con, Ambre"
-abstract: "Abid-Dalen con, Ambre"
+author: "Ambre Abid-Dalençon"
+authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2017-01-01"
 year: "2017"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03725141"
-publisher: "Les mooks. Espaces de renouveau du journalisme littéraire"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen con, Ambre
-- **Type de publication:** incollection
-- **Éditeur:** Les mooks. Espaces de renouveau du journalisme littéraire
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03725141](https://hal.science/hal-03725141)
 

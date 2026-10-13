@@ -1,14 +1,14 @@
 ---
-uuid: b4baa34c-ffb7-4a3e-8d02-b81f14c69afd
+uuid: e218ad84-e46f-4f71-8c3f-13e0355e58a8
 title: "Séminaire Ecritures Contemporaines du voyage, nouveaux itinéraires poétiques"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2007-01-01"
 year: "2007"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03754582"
-publisher: "Séminaire Ecritures Contemporaines du voyage, nouveaux itinéraires poétiques"
+publisher: "Maison de la Recherche Paris IV, Centre de Recherche sur la littérature de voyage"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** inproceedings
-- **Éditeur:** Séminaire Ecritures Contemporaines du voyage, nouveaux itinéraires poétiques
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** paper-conference
+- **Éditeur:** Maison de la Recherche Paris IV, Centre de Recherche sur la littérature de voyage
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754582](https://hal.science/hal-03754582)
 

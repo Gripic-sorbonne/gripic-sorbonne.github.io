@@ -1,14 +1,14 @@
 ---
-uuid: b60371af-becb-4788-96c1-45d334878cd5
+uuid: 69b85609-5e74-4005-aa04-8117ab4bdfae
 title: "La fin de la publicité ?"
-author: "Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, Marti, Caroline"
-authors: "Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, Marti, Caroline"
-abstract: "Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, Marti, Caroline"
+author: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti"
+authors: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti"
+abstract: "Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti"
 date: "2014-01-01"
 year: "2014"
 type: "book"
 url: "https://hal.science/hal-03749729"
-publisher: "Édition Le Bord de l'eau"
+publisher: "Édition Le Bord de l’eau"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, Marti, Caroline
+- **Auteurs:** Karine Berthelot-Guiet, Valérie Patrin-Leclère, Caroline Marti
 - **Type de publication:** book
-- **Éditeur:** Édition Le Bord de l'eau
+- **Éditeur:** Édition Le Bord de l’eau
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749729](https://hal.science/hal-03749729)
 

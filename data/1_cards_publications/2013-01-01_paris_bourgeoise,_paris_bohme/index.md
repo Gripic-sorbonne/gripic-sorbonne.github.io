@@ -1,9 +1,9 @@
 ---
-uuid: 2abcb756-5858-4487-8cd8-d0ef50bb6a92
+uuid: 172c0b0b-c70a-4a32-bae8-7f3459c3b3b7
 title: "Paris bourgeoise, Paris bohème"
-author: "Corbillé, Sophie"
-authors: "Corbillé, Sophie"
-abstract: "Corbillé, Sophie"
+author: "Sophie Corbillé"
+authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2013-01-01"
 year: "2013"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie
+- **Auteurs:** Sophie Corbillé
 - **Type de publication:** book
 - **Éditeur:** PUF
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749815](https://hal.science/hal-03749815)

@@ -1,12 +1,12 @@
 ---
-uuid: 24719d0a-141f-4ee4-857b-c25c4ece6950
+uuid: b11003ba-b486-4ac2-97a7-20670577ee4e
 title: "Adjectif : analyses et recherches sur les TICE"
-author: "Chamboredon, Julien"
-authors: "Chamboredon, Julien"
-abstract: "Chamboredon, Julien"
+author: "Julien Chamboredon"
+authors: "Julien Chamboredon"
+abstract: "Julien Chamboredon"
 date: "2024-01-01"
 year: "2024"
-type: "article"
+type: "article-journal"
 url: "https://shs.hal.science/halshs-04421235"
 publisher: "Laboratoire Education, Discours et Apprentissages (EDA)"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Chamboredon, Julien
-- **Type de publication:** article
+- **Auteurs:** Julien Chamboredon
+- **Type de publication:** article-journal
 - **Éditeur:** Laboratoire Education, Discours et Apprentissages (EDA)
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-04421235](https://shs.hal.science/halshs-04421235)
 

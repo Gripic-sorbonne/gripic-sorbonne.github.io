@@ -1,12 +1,12 @@
 ---
-uuid: b2306742-9a23-4998-92ca-932c43ff8494
+uuid: c49e189c-1098-45e4-81a9-b0f5985f5398
 title: "Les imaginaires comestibles"
-author: "Quemener, Nelly, Cervulle, Maxime, Coville, Marion"
-authors: "Quemener, Nelly, Cervulle, Maxime, Coville, Marion"
-abstract: "Quemener, Nelly, Cervulle, Maxime, Coville, Marion"
+author: "Nelly Quemener, Maxime Cervulle, Marion Coville"
+authors: "Nelly Quemener, Maxime Cervulle, Marion Coville"
+abstract: "Nelly Quemener, Maxime Cervulle, Marion Coville"
 date: "2013-01-01"
 year: "2013"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03758428"
 publisher: "Poli éditions"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Cervulle, Maxime, Coville, Marion
-- **Type de publication:** misc
+- **Auteurs:** Nelly Quemener, Maxime Cervulle, Marion Coville
 - **Éditeur:** Poli éditions
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758428](https://hal.science/hal-03758428)
 

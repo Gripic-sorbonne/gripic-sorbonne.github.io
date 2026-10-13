@@ -1,9 +1,9 @@
 ---
-uuid: a44c8aaf-f9ac-4c53-8da9-897fb75e383c
+uuid: 5a23f2ea-36e2-45b0-b926-c9f7c06b101f
 title: "Développement durable"
-author: "D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry"
-authors: "D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry"
-abstract: "D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry"
+author: "nicole D’Almeida, Solange Tremblay, Thierry Libaert"
+authors: "nicole D’Almeida, Solange Tremblay, Thierry Libaert"
+abstract: "nicole D’Almeida, Solange Tremblay, Thierry Libaert"
 date: "2018-01-01"
 year: "2018"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole, Tremblay, Solange, Libaert, Thierry
+- **Auteurs:** nicole D’Almeida, Solange Tremblay, Thierry Libaert
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749998](https://hal.science/hal-03749998)
 

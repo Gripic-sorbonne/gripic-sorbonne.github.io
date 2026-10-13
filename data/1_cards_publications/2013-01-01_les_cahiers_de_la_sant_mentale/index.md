@@ -1,14 +1,14 @@
 ---
-uuid: 0d3e3cb5-d070-4320-8a46-0b04e82b0eee
+uuid: 6b877dcd-e6c2-40bb-b440-4b75270cc99c
 title: "les Cahiers de la Santé mentale"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2013-01-01"
 year: "2013"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03754490"
-publisher: "La Documentation fran caise"
+publisher: "La Documentation française"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** article
-- **Éditeur:** La Documentation fran caise
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
+- **Éditeur:** La Documentation française
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754490](https://hal.science/hal-03754490)
 

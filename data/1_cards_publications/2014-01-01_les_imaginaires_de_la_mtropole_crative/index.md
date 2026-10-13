@@ -1,9 +1,9 @@
 ---
-uuid: 94c7ae24-06bf-4e0c-a9da-d6f0b8bcdef1
+uuid: 9f0203b3-e97d-4130-99e2-24e06f3c3ced
 title: "Les Imaginaires de la Métropole créative"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2014-01-01"
 year: "2014"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
+- **Auteurs:** Dominique Pagès
 - **Type de publication:** book
 - **Éditeur:** Mairie de Paris
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754375](https://hal.science/hal-03754375)

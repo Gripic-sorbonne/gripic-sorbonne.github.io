@@ -1,12 +1,12 @@
 ---
-uuid: 75219e28-9eae-4a9f-8ff6-860c28fd56a9
+uuid: fca4c81c-7d3f-4384-974f-0ff08be258de
 title: "Des rives aux écrans"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2016-01-01"
 year: "2016"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03761077"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761077](https://hal.science/hal-03761077)
 

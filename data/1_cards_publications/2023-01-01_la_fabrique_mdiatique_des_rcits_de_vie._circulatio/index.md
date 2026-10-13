@@ -1,14 +1,14 @@
 ---
-uuid: 6e63d57a-cdff-491d-af7a-77f8addd0ce2
+uuid: 110c9d0a-06e5-4688-9b68-a5dca4f9e5a9
 title: "La fabrique médiatique des récits de vie. Circulation des biographèmes de Vapereau à Wikipédia"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2023-01-01"
 year: "2023"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03956185"
-publisher: "La fabrique médiatique des récits de vie. Circulation des biographèmes de Vapereau à Wikipédia"
+publisher: "Olivier Bara and Marie-Ève Thérenty"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** inproceedings
-- **Éditeur:** La fabrique médiatique des récits de vie. Circulation des biographèmes de Vapereau à Wikipédia
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** paper-conference
+- **Éditeur:** Olivier Bara and Marie-Ève Thérenty
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03956185](https://hal.science/hal-03956185)
 

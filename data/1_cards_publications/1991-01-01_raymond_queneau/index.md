@@ -1,9 +1,9 @@
 ---
-uuid: 29b21019-780a-40e5-b8de-2b37d3c07e6a
+uuid: eff5c350-ef68-480a-bd8a-62933d293ff2
 title: "Raymond Queneau"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "1991-01-01"
 year: "1991"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
+- **Auteurs:** Emmanuël Souchier
 - **Type de publication:** book
 - **Éditeur:** Éditions du Seuil
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760435](https://hal.science/hal-03760435)

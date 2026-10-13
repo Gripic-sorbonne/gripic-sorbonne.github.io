@@ -1,12 +1,12 @@
 ---
-uuid: 439acb01-0220-4ff6-a0b4-357265e5bb19
+uuid: b0c57e1b-f865-4728-9d66-665f0184483e
 title: "Genèses. Sciences sociales et histoire"
-author: "Corbillé, Sophie"
-authors: "Corbillé, Sophie"
-abstract: "Corbillé, Sophie"
+author: "Sophie Corbillé"
+authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2009-01-01"
 year: "2009"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749912"
 publisher: "Belin"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie
-- **Type de publication:** article
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** article-journal
 - **Éditeur:** Belin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749912](https://hal.science/hal-03749912)
 

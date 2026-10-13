@@ -1,9 +1,9 @@
 ---
-uuid: 6f49f783-c29f-40a1-b94c-34e3ae563a83
+uuid: 24293ebc-92fb-4e96-8164-104523e8dcdc
 title: "Analyser les discours publicitaires"
-author: "Berthelot-Guiet, Karine"
-authors: "Berthelot-Guiet, Karine"
-abstract: "Berthelot-Guiet, Karine"
+author: "Karine Berthelot-Guiet"
+authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2015-01-01"
 year: "2015"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine
+- **Auteurs:** Karine Berthelot-Guiet
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749722](https://hal.science/hal-03749722)
 

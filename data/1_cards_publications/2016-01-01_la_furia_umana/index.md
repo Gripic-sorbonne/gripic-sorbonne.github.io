@@ -1,12 +1,12 @@
 ---
-uuid: bc0ea0e3-3422-4c6a-991d-9dc737866457
+uuid: 6105eec0-a852-48de-9cc7-99c06ba5e533
 title: "La Furia Umana"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2016-01-01"
 year: "2016"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03773297"
 publisher: "Duen de Bux"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** article
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** article-journal
 - **Éditeur:** Duen de Bux
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773297](https://hal.science/hal-03773297)
 

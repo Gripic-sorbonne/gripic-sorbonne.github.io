@@ -1,12 +1,12 @@
 ---
-uuid: 4c87d762-b896-441b-a21a-3739410b962c
+uuid: 35c571bd-1d30-4232-9ea7-ed8f7cff2267
 title: "Raymond Queneau et le corps"
-author: "Bonaccorsi, Julia, Labelle, Sarah"
-authors: "Bonaccorsi, Julia, Labelle, Sarah"
-abstract: "Bonaccorsi, Julia, Labelle, Sarah"
+author: "Julia Bonaccorsi, Sarah Labelle"
+authors: "Julia Bonaccorsi, Sarah Labelle"
+abstract: "Julia Bonaccorsi, Sarah Labelle"
 date: "2009-01-01"
 year: "2009"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-01967793"
 publisher: "Editions Calliopées"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bonaccorsi, Julia, Labelle, Sarah
-- **Type de publication:** incollection
+- **Auteurs:** Julia Bonaccorsi, Sarah Labelle
+- **Type de publication:** chapter
 - **Éditeur:** Editions Calliopées
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-01967793](https://hal.science/hal-01967793)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 4e8b11ba-2949-49f2-99b1-d9020ba9c7eb
+uuid: 78fa0a2d-0ee3-4cd8-92d9-f9c102a8e9a2
 title: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
-author: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
-authors: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
-abstract: "AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien"
+author: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
+authors: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
+abstract: "Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel"
 date: "2012-01-01"
 year: "2012"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03749710"
-publisher: "Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes"
+publisher: "ORC IARSIC ESSACHESS"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** AIM, Olivier, Corbillé, Sophie, Chervin, Jacqueline, Escande, Pauline, Foli, Olivia, Lallement, Emmanuelle, Tassel, Julien
-- **Type de publication:** inproceedings
-- **Éditeur:** Communication du symbolique et symbolique de la communication dans les sociétés modernes et postmodernes
+- **Auteurs:** Olivier AÏM, Sophie Corbillé, Jacqueline Chervin, Pauline Escande, Olivia Foli, Emmanuelle Lallement, Julien Tassel
+- **Type de publication:** paper-conference
+- **Éditeur:** ORC IARSIC ESSACHESS
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749710](https://hal.science/hal-03749710)
 

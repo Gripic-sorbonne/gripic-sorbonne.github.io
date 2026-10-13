@@ -1,12 +1,12 @@
 ---
-uuid: 7f205881-cf5e-41db-bab0-881ac820cd06
+uuid: cca5d34d-e57f-4c96-8289-86c6df988366
 title: "Actes Sémiotiques"
-author: "Berthelot-Guiet, Karine"
-authors: "Berthelot-Guiet, Karine"
-abstract: "Berthelot-Guiet, Karine"
+author: "Karine Berthelot-Guiet"
+authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2014-01-01"
 year: "2014"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749762"
 publisher: "Université de Limoges"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine
-- **Type de publication:** article
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** article-journal
 - **Éditeur:** Université de Limoges
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749762](https://hal.science/hal-03749762)
 

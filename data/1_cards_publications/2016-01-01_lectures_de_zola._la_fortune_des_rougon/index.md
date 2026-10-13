@@ -1,12 +1,12 @@
 ---
-uuid: dcca19e4-2e39-421b-a556-bfbd70309fad
+uuid: c8440c68-49c4-4e7f-b9e8-dcca82a9c049
 title: "Lectures de Zola. La Fortune des Rougon"
-author: "Wrona, Adeline"
-authors: "Wrona, Adeline"
-abstract: "Wrona, Adeline"
+author: "Adeline Wrona"
+authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03767171"
 publisher: "Presses Universitaires de Rennes"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline
-- **Type de publication:** incollection
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** chapter
 - **Éditeur:** Presses Universitaires de Rennes
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767171](https://hal.science/hal-03767171)
 

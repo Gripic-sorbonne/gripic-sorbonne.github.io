@@ -1,14 +1,14 @@
 ---
-uuid: 2951dcba-8e39-4ed0-849a-f486386ced7c
-title: "LES NOUVELLES MÉDIATIONS PÉDAGOGIQUESDesign et innovation pédagogiques, expériences d'enseignement technologique"
-author: "Petit, Laurent"
-authors: "Petit, Laurent"
-abstract: "Petit, Laurent"
+uuid: e9448985-9dbf-4788-ae89-866fae60f950
+title: "LES NOUVELLES MÉDIATIONS PÉDAGOGIQUESDesign et innovation pédagogiques, expériences d’enseignement technologique"
+author: "Laurent Petit"
+authors: "Laurent Petit"
+abstract: "Laurent Petit"
 date: "2020-01-01"
 year: "2020"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03968429"
-publisher: "L'Harmattan"
+publisher: "L’Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Petit, Laurent
-- **Type de publication:** incollection
-- **Éditeur:** L'Harmattan
+- **Auteurs:** Laurent Petit
+- **Type de publication:** chapter
+- **Éditeur:** L’Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03968429](https://hal.science/hal-03968429)
 

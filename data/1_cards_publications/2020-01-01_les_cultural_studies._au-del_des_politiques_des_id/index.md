@@ -1,14 +1,14 @@
 ---
-uuid: 82ffab30-8c4c-4164-8c10-e01458642cdf
+uuid: be5a866f-de3c-4de2-948d-a99134eb5f87
 title: "Les Cultural Studies. Au-delà des politiques des identités"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2020-01-01"
 year: "2020"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03758750"
-publisher: "Les Éditions Le Bord de l'eau"
+publisher: "Les Éditions Le Bord de l’eau"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** incollection
-- **Éditeur:** Les Éditions Le Bord de l'eau
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** chapter
+- **Éditeur:** Les Éditions Le Bord de l’eau
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758750](https://hal.science/hal-03758750)
 

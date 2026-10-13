@@ -1,12 +1,12 @@
 ---
-uuid: fc698405-bc27-4f7d-b603-11d340a20d91
+uuid: 657b93b9-fe0b-42d2-a12d-5c52c262c2e4
 title: "Les héritiers contemporains du pastiche"
-author: "Devars, Thierry"
-authors: "Devars, Thierry"
-abstract: "Devars, Thierry"
+author: "Thierry Devars"
+authors: "Thierry Devars"
+abstract: "Thierry Devars"
 date: "2023-01-01"
 year: "2023"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-04395052"
 publisher: ""
 container_title: ""
@@ -17,7 +17,6 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Devars, Thierry
-- **Type de publication:** misc
+- **Auteurs:** Thierry Devars
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04395052](https://hal.science/hal-04395052)
 

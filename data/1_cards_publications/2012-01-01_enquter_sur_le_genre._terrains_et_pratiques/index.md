@@ -1,12 +1,12 @@
 ---
-uuid: 3cd9091f-4a61-457f-8b20-3d21662caf2f
+uuid: 3247dfd2-73a5-477c-9ed5-047581caa335
 title: "Enquêter sur le genre. Terrains et pratiques"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2012-01-01"
 year: "2012"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03758780"
 publisher: "Presses Universitaires de Nancy"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** incollection
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** chapter
 - **Éditeur:** Presses Universitaires de Nancy
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758780](https://hal.science/hal-03758780)
 

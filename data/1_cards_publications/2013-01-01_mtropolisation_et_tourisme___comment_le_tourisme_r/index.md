@@ -1,12 +1,12 @@
 ---
-uuid: 21c75011-07e5-45f1-bba9-e822ae68a76d
+uuid: a1a8136d-0191-4399-a54e-51d577ef7625
 title: "Métropolisation et tourisme : Comment le tourisme redessine"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2013-01-01"
 year: "2013"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03754399"
 publisher: "Belin"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** incollection
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** chapter
 - **Éditeur:** Belin
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754399](https://hal.science/hal-03754399)
 

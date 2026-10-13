@@ -1,14 +1,14 @@
 ---
-uuid: 7e53213a-8712-4855-b324-750b67212bfe
+uuid: f7a8eb54-9c26-4551-9078-a93aa176abc5
 title: "MédiaMorphoses. Hors-série"
-author: "AIM, Olivier"
-authors: "AIM, Olivier"
-abstract: "AIM, Olivier"
+author: "Olivier AÏM"
+authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2007-01-01"
 year: "2007"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03749694"
-publisher: "Institut National de l'Audiovisuel (INA)"
+publisher: "Institut National de l’Audiovisuel (INA)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** AIM, Olivier
-- **Type de publication:** article
-- **Éditeur:** Institut National de l'Audiovisuel (INA)
+- **Auteurs:** Olivier AÏM
+- **Type de publication:** article-journal
+- **Éditeur:** Institut National de l’Audiovisuel (INA)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749694](https://hal.science/hal-03749694)
 

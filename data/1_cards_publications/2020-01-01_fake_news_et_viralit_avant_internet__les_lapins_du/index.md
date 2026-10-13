@@ -1,9 +1,9 @@
 ---
-uuid: 2283b8bc-d582-41dc-9769-8231849fa504
+uuid: 3a70489f-f4f0-4225-abee-94694094f4e6
 title: "Fake news et viralité avant Internet: les lapins du Père-Lachaise et autres légendes médiatiques"
-author: "Pinker, Roy, Langlais, Pierre-Carl, Schuh, Julien, Thérenty, Marie-Ève"
-authors: "Pinker, Roy, Langlais, Pierre-Carl, Schuh, Julien, Thérenty, Marie-Ève"
-abstract: "Pinker, Roy, Langlais, Pierre-Carl, Schuh, Julien, Thérenty, Marie-Ève"
+author: "Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty"
+authors: "Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty"
+abstract: "Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty"
 date: "2020-01-01"
 year: "2020"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pinker, Roy, Langlais, Pierre-Carl, Schuh, Julien, Thérenty, Marie-Ève
+- **Auteurs:** Roy Pinker, Pierre-Carl Langlais, Julien Schuh, Marie-Ève Thérenty
 - **Type de publication:** book
 - **Éditeur:** CNRS éditions
 - 🔗 **Lien HAL / Publication:** [https://shs.hal.science/halshs-03372329](https://shs.hal.science/halshs-03372329)

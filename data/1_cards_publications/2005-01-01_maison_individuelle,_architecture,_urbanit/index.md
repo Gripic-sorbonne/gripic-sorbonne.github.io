@@ -1,14 +1,14 @@
 ---
-uuid: ab86c8b9-ae3e-4827-a2cf-720f7bcfe4ce
+uuid: ee8e8ce1-9855-4e97-ae8d-67a6556fbf2c
 title: "Maison individuelle, architecture, urbanité"
-author: "Corbillé, Sophie, de la Pradelle, Michèle"
-authors: "Corbillé, Sophie, de la Pradelle, Michèle"
-abstract: "Corbillé, Sophie, de la Pradelle, Michèle"
+author: "Sophie Corbillé, Michèle Pradelle"
+authors: "Sophie Corbillé, Michèle Pradelle"
+abstract: "Sophie Corbillé, Michèle Pradelle"
 date: "2005-01-01"
 year: "2005"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03749858"
-publisher: "Maison individuelle, architecture, urbanité"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Corbillé, Sophie, de la Pradelle, Michèle
-- **Type de publication:** incollection
-- **Éditeur:** Maison individuelle, architecture, urbanité
+- **Auteurs:** Sophie Corbillé, Michèle Pradelle
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749858](https://hal.science/hal-03749858)
 

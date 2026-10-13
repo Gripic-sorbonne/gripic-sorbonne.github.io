@@ -1,14 +1,14 @@
 ---
-uuid: 6673b84b-4969-43cd-9cc9-ea30f274c536
+uuid: 09b95c32-853f-4dc0-950c-893f860b3389
 title: "Livre Blanc Mémoire des organisations et communication interne"
-author: "Tassel, Julien"
-authors: "Tassel, Julien"
-abstract: "Tassel, Julien"
+author: "Julien Tassel"
+authors: "Julien Tassel"
+abstract: "Julien Tassel"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03766817"
-publisher: "Livre Blanc Mémoire des organisations et communication interne"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Tassel, Julien
-- **Type de publication:** incollection
-- **Éditeur:** Livre Blanc Mémoire des organisations et communication interne
+- **Auteurs:** Julien Tassel
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766817](https://hal.science/hal-03766817)
 

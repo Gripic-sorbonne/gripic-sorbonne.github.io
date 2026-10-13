@@ -1,9 +1,9 @@
 ---
-uuid: 4e5752e5-c5c0-430f-ba16-7e7ab6d22d70
+uuid: 677fef8b-fd53-4066-802a-b40c65ff15ec
 title: "La société du jugement"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2011-01-01"
 year: "2011"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
+- **Auteurs:** nicole D’Almeida
 - **Type de publication:** book
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750012](https://hal.science/hal-03750012)
 

@@ -1,14 +1,14 @@
 ---
-uuid: 62ff5b44-2396-4d67-8f4f-767cf175049a
+uuid: 39b0832c-d7af-4b7e-ac6d-a251c4608c3f
 title: "Signos do consumo"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2014-01-01"
 year: "2014"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03750066"
-publisher: "Departamento de Rela cões Públicas Propaganda e Turismo da Escola de Comunica cões e Artes da Universidade de Sao Paulo"
+publisher: "Departamento de Relações Públicas Propaganda e Turismo da Escola de Comunicações e Artes da Universidade de São Paulo"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
-- **Type de publication:** article
-- **Éditeur:** Departamento de Rela cões Públicas Propaganda e Turismo da Escola de Comunica cões e Artes da Universidade de Sao Paulo
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** article-journal
+- **Éditeur:** Departamento de Relações Públicas Propaganda e Turismo da Escola de Comunicações e Artes da Universidade de São Paulo
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750066](https://hal.science/hal-03750066)
 

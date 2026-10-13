@@ -1,14 +1,14 @@
 ---
-uuid: 8593d7ef-fb5d-48a1-86c6-dff8709ab3b7
+uuid: 2be6d366-b4c6-4cef-b9e9-71a85804b70a
 title: "Paris, capitale médiatique. Ville et presse au XIXème siècle"
-author: "Fantin, Emmanuelle, Wrona, Adeline, Corbillé, Sophie"
-authors: "Fantin, Emmanuelle, Wrona, Adeline, Corbillé, Sophie"
-abstract: "Fantin, Emmanuelle, Wrona, Adeline, Corbillé, Sophie"
+author: "Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé"
+authors: "Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé"
+abstract: "Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé"
 date: "2022-01-01"
 year: "2022"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03964008"
-publisher: "Paris, capitale médiatique. Ville et presse au XIXème siècle"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle, Wrona, Adeline, Corbillé, Sophie
-- **Type de publication:** incollection
-- **Éditeur:** Paris, capitale médiatique. Ville et presse au XIXème siècle
+- **Auteurs:** Emmanuelle Fantin, Adeline Wrona, Sophie Corbillé
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964008](https://hal.science/hal-03964008)
 

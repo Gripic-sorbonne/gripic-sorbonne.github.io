@@ -1,12 +1,12 @@
 ---
-uuid: 04b945ca-d3ae-4f57-bfe4-5510bcfcf6a4
+uuid: c8ac2f98-61ae-4851-aa40-5970f37e15df
 title: "Espaces physiques, espaces mentaux. Identités et échanges"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2008-01-01"
 year: "2008"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03761009"
 publisher: "Presses universitaires du Septentrion"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** incollection
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** chapter
 - **Éditeur:** Presses universitaires du Septentrion
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03761009](https://hal.science/hal-03761009)
 

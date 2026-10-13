@@ -1,12 +1,12 @@
 ---
-uuid: 24908909-5507-4d58-8798-31630fe981d3
+uuid: 60fa9b9c-2bb7-4313-bd44-52594d67889c
 title: "Médias pouvoirs Politiques, économies et stratégies des médias"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "1996-01-01"
 year: "1996"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03754532"
 publisher: "Bayard"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** article
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
 - **Éditeur:** Bayard
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754532](https://hal.science/hal-03754532)
 

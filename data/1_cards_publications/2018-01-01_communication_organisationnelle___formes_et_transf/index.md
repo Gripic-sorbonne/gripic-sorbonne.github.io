@@ -1,14 +1,14 @@
 ---
-uuid: bac9e55e-25ca-482e-b346-fb8d546e3e92
+uuid: a3a6d9cc-09ce-4b87-91d6-d386cfbcce5a
 title: "Communication organisationnelle : Formes et transformations contemporaines"
-author: "D'Almeida, nicole"
-authors: "D'Almeida, nicole"
-abstract: "D'Almeida, nicole"
+author: "nicole D’Almeida"
+authors: "nicole D’Almeida"
+abstract: "nicole D’Almeida"
 date: "2018-01-01"
 year: "2018"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03750021"
-publisher: "L'Harmattan"
+publisher: "L’Harmattan"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** D'Almeida, nicole
-- **Type de publication:** incollection
-- **Éditeur:** L'Harmattan
+- **Auteurs:** nicole D’Almeida
+- **Type de publication:** chapter
+- **Éditeur:** L’Harmattan
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750021](https://hal.science/hal-03750021)
 

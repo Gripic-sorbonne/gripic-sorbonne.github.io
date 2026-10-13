@@ -1,14 +1,14 @@
 ---
-uuid: a5b50a68-88e5-4ab8-b528-72e7e9fc670c
+uuid: fffc03c0-e51a-423d-8cab-ae3a14b8bf4f
 title: "Semen - Revue de sémio-linguistique des textes et discours"
-author: "Bruneel, Emmanuelle"
-authors: "Bruneel, Emmanuelle"
-abstract: "Bruneel, Emmanuelle"
+author: "Emmanuelle Bruneel"
+authors: "Emmanuelle Bruneel"
+abstract: "Emmanuelle Bruneel"
 date: "2018-01-01"
 year: "2018"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767304"
-publisher: "Presses Universitaires de l'Université de Franche Comté (Pufc) / Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours (ELLIADD)"
+publisher: "Presses Universitaires de l’Université de Franche Comté (Pufc) / Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours (ELLIADD)"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Bruneel, Emmanuelle
-- **Type de publication:** article
-- **Éditeur:** Presses Universitaires de l'Université de Franche Comté (Pufc) / Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours (ELLIADD)
+- **Auteurs:** Emmanuelle Bruneel
+- **Type de publication:** article-journal
+- **Éditeur:** Presses Universitaires de l’Université de Franche Comté (Pufc) / Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours (ELLIADD)
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767304](https://hal.science/hal-03767304)
 

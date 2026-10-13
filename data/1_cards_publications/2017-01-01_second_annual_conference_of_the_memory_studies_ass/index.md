@@ -1,14 +1,14 @@
 ---
-uuid: 2341286c-ea24-4613-8bba-234155688834
+uuid: 487fb2fb-a0c5-4f23-a269-dffaaa38ac9c
 title: "Second Annual Conference of the Memory Studies Association"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2017-01-01"
 year: "2017"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03964068"
-publisher: "Second Annual Conference of the Memory Studies Association"
+publisher: "Memory Studies Association"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** inproceedings
-- **Éditeur:** Second Annual Conference of the Memory Studies Association
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** paper-conference
+- **Éditeur:** Memory Studies Association
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03964068](https://hal.science/hal-03964068)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 21d72d18-91a4-47ac-b7c1-ecc7d2cd01f4
+uuid: 5938bd1f-dc1f-40f9-a2bd-66367112b59f
 title: "Humanisme et entreprise"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "1995-01-01"
 year: "1995"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03754534"
 publisher: "A.A.E.L.S.H.U.P"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** article
+- **Auteurs:** Dominique Pagès
+- **Type de publication:** article-journal
 - **Éditeur:** A.A.E.L.S.H.U.P
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754534](https://hal.science/hal-03754534)
 

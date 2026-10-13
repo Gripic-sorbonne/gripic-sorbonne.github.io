@@ -1,14 +1,14 @@
 ---
-uuid: 9bc5beb9-678e-4b1e-88c2-1ba58ab8e7c1
+uuid: d7977ac6-803a-4e47-ba41-00b0a4ec3fea
 title: "Écriture et image : cahiers du CEEI"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2021-01-01"
 year: "2021"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760589"
-publisher: "Centre d'étude de l'écriture et de l'image"
+publisher: "Centre d’étude de l’écriture et de l’image"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
-- **Éditeur:** Centre d'étude de l'écriture et de l'image
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
+- **Éditeur:** Centre d’étude de l’écriture et de l’image
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760589](https://hal.science/hal-03760589)
 

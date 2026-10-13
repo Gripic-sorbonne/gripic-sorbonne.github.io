@@ -1,12 +1,12 @@
 ---
-uuid: 1d90a575-6ac1-46e3-acdf-33c657ad931f
+uuid: 9124bfe1-6791-4869-9a4c-e0ce725d27fe
 title: "Le Grand Paris qui mange"
-author: "Pagès, Dominique"
-authors: "Pagès, Dominique"
-abstract: "Pagès, Dominique"
+author: "Dominique Pagès"
+authors: "Dominique Pagès"
+abstract: "Dominique Pagès"
 date: "2016-01-01"
 year: "2016"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03754439"
 publisher: "ISCC- CNRS"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Pagès, Dominique
-- **Type de publication:** misc
+- **Auteurs:** Dominique Pagès
 - **Éditeur:** ISCC- CNRS
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754439](https://hal.science/hal-03754439)
 

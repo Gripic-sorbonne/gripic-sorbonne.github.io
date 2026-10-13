@@ -1,14 +1,14 @@
 ---
-uuid: 1e992e69-b32a-4197-9db4-df999638cfc4
+uuid: b0934811-ae5f-48eb-a2d9-1b97e7466c73
 title: "Actes du colloque international ORC IARSIC - ESSACHESS"
-author: "Rondot, Camille"
-authors: "Rondot, Camille"
-abstract: "Rondot, Camille"
+author: "Camille Rondot"
+authors: "Camille Rondot"
+abstract: "Camille Rondot"
 date: "2013-01-01"
 year: "2013"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03753019"
-publisher: "Actes du colloque international ORC IARSIC - ESSACHESS"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Rondot, Camille
-- **Type de publication:** inproceedings
-- **Éditeur:** Actes du colloque international ORC IARSIC - ESSACHESS
+- **Auteurs:** Camille Rondot
+- **Type de publication:** paper-conference
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03753019](https://hal.science/hal-03753019)
 

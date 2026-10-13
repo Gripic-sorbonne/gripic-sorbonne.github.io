@@ -1,9 +1,9 @@
 ---
-uuid: ddfc9168-cf9f-4f8b-bb7e-cb506598b9c4
+uuid: e287b0b9-100a-427a-8fee-7092501d2b8e
 title: "Cultural Mediations of Brands"
-author: "Marti, Caroline"
-authors: "Marti, Caroline"
-abstract: "Marti, Caroline"
+author: "Caroline Marti"
+authors: "Caroline Marti"
+abstract: "Caroline Marti"
 date: "2020-01-01"
 year: "2020"
 type: "book"
@@ -17,7 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Marti, Caroline
+- **Auteurs:** Caroline Marti
 - **Type de publication:** book
 - **Éditeur:** Iste Wiley
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03754283](https://hal.science/hal-03754283)

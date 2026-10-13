@@ -1,14 +1,14 @@
 ---
-uuid: cd5c1bf3-5c42-464e-89c2-46b0a62e6eb5
+uuid: 310cabb5-c0f7-4ec6-b133-cfb2d2662192
 title: "Nuit debout, et maintenant ? Médias et (im)médiations"
-author: "Tassel, Julien, Charbonneaux, Juliette"
-authors: "Tassel, Julien, Charbonneaux, Juliette"
-abstract: "Tassel, Julien, Charbonneaux, Juliette"
+author: "Sophie Corbillé"
+authors: "Sophie Corbillé"
+abstract: "Sophie Corbillé"
 date: "2017-01-01"
 year: "2017"
-type: "incollection"
-url: "https://hal.science/hal-03766809"
-publisher: "Nuit debout, et maintenant ? Médias et (im)médiations"
+type: "chapter"
+url: "https://hal.science/hal-03749844"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Tassel, Julien, Charbonneaux, Juliette
-- **Type de publication:** incollection
-- **Éditeur:** Nuit debout, et maintenant ? Médias et (im)médiations
-- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03766809](https://hal.science/hal-03766809)
+- **Auteurs:** Sophie Corbillé
+- **Type de publication:** chapter
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749844](https://hal.science/hal-03749844)
 

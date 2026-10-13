@@ -1,12 +1,12 @@
 ---
-uuid: 538a7187-8520-4c9a-bcdf-c28de6473730
+uuid: e45310c4-b464-4b6e-ac8e-3eda669db100
 title: "Dossiers pédagogiques"
-author: "Deseilligny, Oriane"
-authors: "Deseilligny, Oriane"
-abstract: "Deseilligny, Oriane"
+author: "Oriane Deseilligny"
+authors: "Oriane Deseilligny"
+abstract: "Oriane Deseilligny"
 date: "2009-01-01"
 year: "2009"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03750610"
 publisher: "CLEMI"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Deseilligny, Oriane
-- **Type de publication:** article
+- **Auteurs:** Oriane Deseilligny
+- **Type de publication:** article-journal
 - **Éditeur:** CLEMI
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750610](https://hal.science/hal-03750610)
 

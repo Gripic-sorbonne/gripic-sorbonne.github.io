@@ -1,14 +1,14 @@
 ---
-uuid: 483795bf-bfd7-4232-9f0c-b988b9b6cc54
+uuid: 5def667e-5d64-4635-b92f-e8a325d63326
 title: "Connexions. Communication numérique et lien social"
-author: "Jeanne Perrier, Valerie"
-authors: "Jeanne Perrier, Valerie"
-abstract: "Jeanne Perrier, Valerie"
+author: "Valerie Jeanne Perrier"
+authors: "Valerie Jeanne Perrier"
+abstract: "Valerie Jeanne Perrier"
 date: "2011-01-01"
 year: "2011"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03752960"
-publisher: "Connexions. Communication numérique et lien social"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Jeanne Perrier, Valerie
-- **Type de publication:** incollection
-- **Éditeur:** Connexions. Communication numérique et lien social
+- **Auteurs:** Valerie Jeanne Perrier
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03752960](https://hal.science/hal-03752960)
 

@@ -1,12 +1,12 @@
 ---
-uuid: 39ac96e9-b130-4869-8004-fbbc8a4cd496
+uuid: 812b07ff-0421-43d8-ad07-2a9fbbc44b49
 title: "Cahiers Armand Gatti"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2013-01-01"
 year: "2013"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-05605811"
 publisher: "La Parole errante"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** article
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** article-journal
 - **Éditeur:** La Parole errante
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05605811](https://hal.science/hal-05605811)
 

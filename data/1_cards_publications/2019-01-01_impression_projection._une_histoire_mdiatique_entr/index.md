@@ -1,14 +1,14 @@
 ---
-uuid: 65c351b6-300a-44ae-adec-19d614beddd5
+uuid: ea7928a7-efbc-4aef-bd43-638faa9d8b79
 title: "Impression Projection. Une histoire médiatique entre cinéma et journalisme"
-author: "Cappi, Johanna"
-authors: "Cappi, Johanna"
-abstract: "Cappi, Johanna"
+author: "Johanna Cappi"
+authors: "Johanna Cappi"
+abstract: "Johanna Cappi"
 date: "2019-01-01"
 year: "2019"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03773285"
-publisher: "Impression Projection. Une histoire médiatique entre cinéma et journalisme"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Cappi, Johanna
-- **Type de publication:** incollection
-- **Éditeur:** Impression Projection. Une histoire médiatique entre cinéma et journalisme
+- **Auteurs:** Johanna Cappi
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773285](https://hal.science/hal-03773285)
 

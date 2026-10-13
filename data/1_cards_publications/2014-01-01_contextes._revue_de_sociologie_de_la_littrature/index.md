@@ -1,12 +1,12 @@
 ---
-uuid: 703a83a8-37e5-4079-8719-8e6f2ec85a6b
+uuid: eb418724-0bda-4207-b87e-7cac42086a4d
 title: "COnTEXTES. Revue de sociologie de la littérature"
-author: "Wrona, Adeline"
-authors: "Wrona, Adeline"
-abstract: "Wrona, Adeline"
+author: "Adeline Wrona"
+authors: "Adeline Wrona"
+abstract: "Adeline Wrona"
 date: "2014-01-01"
 year: "2014"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03767192"
 publisher: "Groupe de contact F.N.R.S. COnTEXTES"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Wrona, Adeline
-- **Type de publication:** article
+- **Auteurs:** Adeline Wrona
+- **Type de publication:** article-journal
 - **Éditeur:** Groupe de contact F.N.R.S. COnTEXTES
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03767192](https://hal.science/hal-03767192)
 

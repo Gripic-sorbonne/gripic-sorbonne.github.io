@@ -1,14 +1,14 @@
 ---
-uuid: e0e6f4d3-4446-4eb7-9428-6532a3deefb0
+uuid: 59e5e225-7c9a-483e-9d18-dd73eab7dcc1
 title: "Tausend Augend"
-author: "Quemener, Nelly"
-authors: "Quemener, Nelly"
-abstract: "Quemener, Nelly"
+author: "Nelly Quemener"
+authors: "Nelly Quemener"
+abstract: "Nelly Quemener"
 date: "2009-01-01"
 year: "2009"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03758646"
-publisher: "Tausend Augend"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly
-- **Type de publication:** article
-- **Éditeur:** Tausend Augend
+- **Auteurs:** Nelly Quemener
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758646](https://hal.science/hal-03758646)
 

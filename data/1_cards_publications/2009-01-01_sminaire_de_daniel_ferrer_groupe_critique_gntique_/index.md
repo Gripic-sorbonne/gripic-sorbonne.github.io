@@ -1,14 +1,14 @@
 ---
-uuid: 86342789-04c3-4cf1-bc87-1c8a8e26f01c
+uuid: 382c9e07-1a42-472c-8865-69e6967da0c6
 title: "séminaire de Daniel Ferrer Groupe Critique génétique des arts visuels"
-author: "Escande, Pauline"
-authors: "Escande, Pauline"
-abstract: "Escande, Pauline"
+author: "Pauline Escande"
+authors: "Pauline Escande"
+abstract: "Pauline Escande"
 date: "2009-01-01"
 year: "2009"
-type: "inproceedings"
+type: "paper-conference"
 url: "https://hal.science/hal-03750779"
-publisher: "séminaire de Daniel Ferrer Groupe Critique génétique des arts visuels"
+publisher: "ENS Paris"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Escande, Pauline
-- **Type de publication:** inproceedings
-- **Éditeur:** séminaire de Daniel Ferrer Groupe Critique génétique des arts visuels
+- **Auteurs:** Pauline Escande
+- **Type de publication:** paper-conference
+- **Éditeur:** ENS Paris
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750779](https://hal.science/hal-03750779)
 

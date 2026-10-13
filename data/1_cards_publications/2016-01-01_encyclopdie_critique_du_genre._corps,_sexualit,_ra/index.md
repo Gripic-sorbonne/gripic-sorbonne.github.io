@@ -1,12 +1,12 @@
 ---
-uuid: 1a59216e-6f66-4d7c-94f9-04e5d5f0d46c
+uuid: 3a62b4cd-d80c-4b07-8a21-2b3ad4edb370
 title: "Encyclopédie critique du genre. Corps, sexualité, rapports sociaux"
-author: "Quemener, Nelly, Cervulle, Maxime"
-authors: "Quemener, Nelly, Cervulle, Maxime"
-abstract: "Quemener, Nelly, Cervulle, Maxime"
+author: "Nelly Quemener, Maxime Cervulle"
+authors: "Nelly Quemener, Maxime Cervulle"
+abstract: "Nelly Quemener, Maxime Cervulle"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03758770"
 publisher: "La Découverte"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Cervulle, Maxime
-- **Type de publication:** incollection
+- **Auteurs:** Nelly Quemener, Maxime Cervulle
+- **Type de publication:** chapter
 - **Éditeur:** La Découverte
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758770](https://hal.science/hal-03758770)
 

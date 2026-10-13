@@ -1,14 +1,14 @@
 ---
-uuid: 827b1f6c-3e3d-48a9-b628-37baa0ec15be
+uuid: fba10422-87cb-475c-8063-6c9f5e456bec
 title: "Le Texte étranger"
-author: "Deseilligny, Oriane"
-authors: "Deseilligny, Oriane"
-abstract: "Deseilligny, Oriane"
+author: "Oriane Deseilligny"
+authors: "Oriane Deseilligny"
+abstract: "Oriane Deseilligny"
 date: "2010-01-01"
 year: "2010"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03750634"
-publisher: "Le Texte étranger, groupe de recherche (EA 1569) du Département d'Études Littéraires Anglaises de l'université de Paris 8"
+publisher: "Le Texte étranger, groupe de recherche (EA 1569) du Département d’Études Littéraires Anglaises de l’université de Paris 8"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Deseilligny, Oriane
-- **Type de publication:** article
-- **Éditeur:** Le Texte étranger, groupe de recherche (EA 1569) du Département d'Études Littéraires Anglaises de l'université de Paris 8
+- **Auteurs:** Oriane Deseilligny
+- **Type de publication:** article-journal
+- **Éditeur:** Le Texte étranger, groupe de recherche (EA 1569) du Département d’Études Littéraires Anglaises de l’université de Paris 8
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03750634](https://hal.science/hal-03750634)
 

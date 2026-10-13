@@ -1,12 +1,12 @@
 ---
-uuid: 0e3c3abd-afc5-4739-a8eb-f8c891eafc16
+uuid: fab5b2ed-88d4-475f-ad6b-7eeca65246b1
 title: "Le webdoc existe-t-il ?"
-author: "Quemener, Nelly, Cervulle, Maxime"
-authors: "Quemener, Nelly, Cervulle, Maxime"
-abstract: "Quemener, Nelly, Cervulle, Maxime"
+author: "Nelly Quemener, Maxime Cervulle"
+authors: "Nelly Quemener, Maxime Cervulle"
+abstract: "Nelly Quemener, Maxime Cervulle"
 date: "2014-01-01"
 year: "2014"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03758776"
 publisher: "Le blog documentaire"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Quemener, Nelly, Cervulle, Maxime
-- **Type de publication:** incollection
+- **Auteurs:** Nelly Quemener, Maxime Cervulle
+- **Type de publication:** chapter
 - **Éditeur:** Le blog documentaire
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03758776](https://hal.science/hal-03758776)
 

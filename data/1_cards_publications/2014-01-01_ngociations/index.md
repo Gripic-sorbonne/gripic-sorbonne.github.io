@@ -1,12 +1,12 @@
 ---
-uuid: 236d5296-7161-4af1-9882-765fd889cd4e
+uuid: 529c1f43-19b6-47a4-809b-b2692ec11ae7
 title: "Négociations"
-author: "Langlais, Pierre-Carl"
-authors: "Langlais, Pierre-Carl"
-abstract: "Langlais, Pierre-Carl"
+author: "Pierre-Carl Langlais"
+authors: "Pierre-Carl Langlais"
+abstract: "Pierre-Carl Langlais"
 date: "2014-01-01"
 year: "2014"
-type: "article"
+type: "article-journal"
 url: "https://archivesic.ccsd.cnrs.fr/sic_01222973"
 publisher: "De Boeck Supérieur"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Langlais, Pierre-Carl
-- **Type de publication:** article
+- **Auteurs:** Pierre-Carl Langlais
+- **Type de publication:** article-journal
 - **Éditeur:** De Boeck Supérieur
 - 🔗 **Lien HAL / Publication:** [https://archivesic.ccsd.cnrs.fr/sic_01222973](https://archivesic.ccsd.cnrs.fr/sic_01222973)
 

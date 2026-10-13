@@ -1,14 +1,14 @@
 ---
-uuid: 7f939e5e-d4c8-482f-858f-a9675e1cf58d
+uuid: 285bbe12-c6e9-40c3-86f0-d5fbca55dcf0
 title: "Lampe-tempête"
-author: "Souchier, Emmanuël"
-authors: "Souchier, Emmanuël"
-abstract: "Souchier, Emmanuël"
+author: "Emmanuël Souchier"
+authors: "Emmanuël Souchier"
+abstract: "Emmanuël Souchier"
 date: "2012-01-01"
 year: "2012"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03760649"
-publisher: "Lampe-tempête"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël
-- **Type de publication:** article
-- **Éditeur:** Lampe-tempête
+- **Auteurs:** Emmanuël Souchier
+- **Type de publication:** article-journal
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760649](https://hal.science/hal-03760649)
 

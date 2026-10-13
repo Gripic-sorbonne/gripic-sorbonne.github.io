@@ -1,14 +1,14 @@
 ---
-uuid: 6f2a623e-f8a6-47b1-8030-ceab35a3b45c
+uuid: 2d69a73a-0e85-495b-b8ad-d784f62586af
 title: "Media and nostalgia. Yearning for the past, the present and the future"
-author: "Fantin, Emmanuelle"
-authors: "Fantin, Emmanuelle"
-abstract: "Fantin, Emmanuelle"
+author: "Emmanuelle Fantin"
+authors: "Emmanuelle Fantin"
+abstract: "Emmanuelle Fantin"
 date: "2014-01-01"
 year: "2014"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03721431"
-publisher: "Media and nostalgia. Yearning for the past, the present and the future"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Fantin, Emmanuelle
-- **Type de publication:** incollection
-- **Éditeur:** Media and nostalgia. Yearning for the past, the present and the future
+- **Auteurs:** Emmanuelle Fantin
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03721431](https://hal.science/hal-03721431)
 

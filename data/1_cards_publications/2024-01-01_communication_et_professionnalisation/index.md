@@ -1,12 +1,12 @@
 ---
-uuid: e956bbd2-16a7-459f-b70c-94ee7a816c0f
+uuid: 1e6cc009-725e-433b-8eec-17214ff58c9c
 title: "Communication et professionnalisation"
-author: "Abid-Dalen con, Ambre"
-authors: "Abid-Dalen con, Ambre"
-abstract: "Abid-Dalen con, Ambre"
+author: "Ambre Abid-Dalençon"
+authors: "Ambre Abid-Dalençon"
+abstract: "Ambre Abid-Dalençon"
 date: "2024-01-01"
 year: "2024"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03963890"
 publisher: "RESIPROC"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Abid-Dalen con, Ambre
-- **Type de publication:** article
+- **Auteurs:** Ambre Abid-Dalençon
+- **Type de publication:** article-journal
 - **Éditeur:** RESIPROC
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03963890](https://hal.science/hal-03963890)
 

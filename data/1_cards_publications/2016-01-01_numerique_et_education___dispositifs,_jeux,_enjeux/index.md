@@ -1,12 +1,12 @@
 ---
-uuid: 2dd3647d-41ee-49a0-8666-18d785fdeaea
+uuid: 3d7bcbb3-31a4-4217-8ae9-ed32cb0c7ad6
 title: "Numerique et education : dispositifs, jeux, enjeux, hors jeux"
-author: "Petit, Laurent"
-authors: "Petit, Laurent"
-abstract: "Petit, Laurent"
+author: "Laurent Petit"
+authors: "Laurent Petit"
+abstract: "Laurent Petit"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-05174872"
 publisher: "Editions universitaires de Lorraine"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Petit, Laurent
-- **Type de publication:** incollection
+- **Auteurs:** Laurent Petit
+- **Type de publication:** chapter
 - **Éditeur:** Editions universitaires de Lorraine
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-05174872](https://hal.science/hal-05174872)
 

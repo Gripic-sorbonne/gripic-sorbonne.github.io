@@ -1,14 +1,14 @@
 ---
-uuid: f175aef9-3770-413e-a026-2b6b69790260
+uuid: 1dd526a4-d205-43e0-a899-4b739186f4ec
 title: "Revue Sociétal"
-author: "Richard, Véronique"
-authors: "Richard, Véronique"
-abstract: "Richard, Véronique"
+author: "Véronique Richard"
+authors: "Véronique Richard"
+abstract: "Véronique Richard"
 date: "2015-01-01"
 year: "2015"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03779422"
-publisher: "Institut de l'Entreprise"
+publisher: "Institut de l’Entreprise"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Richard, Véronique
-- **Type de publication:** article
-- **Éditeur:** Institut de l'Entreprise
+- **Auteurs:** Véronique Richard
+- **Type de publication:** article-journal
+- **Éditeur:** Institut de l’Entreprise
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03779422](https://hal.science/hal-03779422)
 

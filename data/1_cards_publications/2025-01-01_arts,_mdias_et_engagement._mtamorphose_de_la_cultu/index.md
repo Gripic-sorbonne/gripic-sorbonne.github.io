@@ -1,12 +1,12 @@
 ---
-uuid: 36806b86-264d-4ad9-9bf1-06bd6ca986d8
-title: "Arts, médias et engagement. Métamorphose de la culture d'expression citoyenne"
-author: "Azizi, Asmaa"
-authors: "Azizi, Asmaa"
-abstract: "Azizi, Asmaa"
+uuid: 77988d2d-2644-4d87-acae-a264e2f9c0c1
+title: "Arts, médias et engagement. Métamorphose de la culture d’expression citoyenne"
+author: "Asmaa Azizi"
+authors: "Asmaa Azizi"
+abstract: "Asmaa Azizi"
 date: "2025-01-01"
 year: "2025"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-04972755"
 publisher: "Presses Universitaires de Rouen et du Havre"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Azizi, Asmaa
-- **Type de publication:** incollection
+- **Auteurs:** Asmaa Azizi
+- **Type de publication:** chapter
 - **Éditeur:** Presses Universitaires de Rouen et du Havre
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-04972755](https://hal.science/hal-04972755)
 

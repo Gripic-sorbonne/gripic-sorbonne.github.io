@@ -1,12 +1,12 @@
 ---
-uuid: e976d06a-e3f7-40fc-9c4f-f3edf4fa26b2
+uuid: f6e32f1c-f7b5-47e5-8c15-9ae07115438b
 title: "Vocabulaire des études sémiotiques et sémiologiques"
-author: "Souchier, Emmanuël, Jeanneret, Yves"
-authors: "Souchier, Emmanuël, Jeanneret, Yves"
-abstract: "Souchier, Emmanuël, Jeanneret, Yves"
+author: "Emmanuël Souchier, Yves Jeanneret"
+authors: "Emmanuël Souchier, Yves Jeanneret"
+abstract: "Emmanuël Souchier, Yves Jeanneret"
 date: "2009-01-01"
 year: "2009"
-type: "misc"
+type: ""
 url: "https://hal.science/hal-03760520"
 publisher: "Éditions Honoré Champion - Presses universitaires de Franche Comté"
 container_title: ""
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Jeanneret, Yves
-- **Type de publication:** misc
+- **Auteurs:** Emmanuël Souchier, Yves Jeanneret
 - **Éditeur:** Éditions Honoré Champion - Presses universitaires de Franche Comté
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760520](https://hal.science/hal-03760520)
 

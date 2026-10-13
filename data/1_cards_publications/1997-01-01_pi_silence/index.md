@@ -1,14 +1,14 @@
 ---
-uuid: 5c185680-15bf-4416-84b4-1863e3b77a1d
+uuid: dcb46fe4-f3b9-4c9b-8eb5-0718c33c056b
 title: "Pi Silence"
-author: "Souchier, Emmanuël, Verdeguer, Vincent"
-authors: "Souchier, Emmanuël, Verdeguer, Vincent"
-abstract: "Souchier, Emmanuël, Verdeguer, Vincent"
+author: "Emmanuël Souchier, Vincent Verdeguer"
+authors: "Emmanuël Souchier, Vincent Verdeguer"
+abstract: "Emmanuël Souchier, Vincent Verdeguer"
 date: "1997-01-01"
 year: "1997"
 type: "book"
 url: "https://hal.science/hal-03760433"
-publisher: "L'impatiente"
+publisher: "L’impatiente"
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Souchier, Emmanuël, Verdeguer, Vincent
+- **Auteurs:** Emmanuël Souchier, Vincent Verdeguer
 - **Type de publication:** book
-- **Éditeur:** L'impatiente
+- **Éditeur:** L’impatiente
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03760433](https://hal.science/hal-03760433)
 

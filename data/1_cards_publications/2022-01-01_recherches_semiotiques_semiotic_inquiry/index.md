@@ -1,12 +1,12 @@
 ---
-uuid: 63fa1b98-dc30-4068-8fa7-664c31821fa9
+uuid: 59fbb39c-6c34-4f18-9f5e-d0d2ce2af05d
 title: "Recherches Semiotiques Semiotic Inquiry"
-author: "AIM, Olivier"
-authors: "AIM, Olivier"
-abstract: "AIM, Olivier"
+author: "Olivier AÏM"
+authors: "Olivier AÏM"
+abstract: "Olivier AÏM"
 date: "2022-01-01"
 year: "2022"
-type: "article"
+type: "article-journal"
 url: "https://hal.science/hal-03957998"
 publisher: "Canadian Semiotic Association"
 container_title: ""
@@ -17,8 +17,8 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** AIM, Olivier
-- **Type de publication:** article
+- **Auteurs:** Olivier AÏM
+- **Type de publication:** article-journal
 - **Éditeur:** Canadian Semiotic Association
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03957998](https://hal.science/hal-03957998)
 

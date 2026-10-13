@@ -1,14 +1,14 @@
 ---
-uuid: e3da579e-7575-4ea9-bc4a-3320e7c12593
-title: "Marques cultes et culte des marques chez les jeunes : Penser l'adolescence avec la consommation"
-author: "Berthelot-Guiet, Karine"
-authors: "Berthelot-Guiet, Karine"
-abstract: "Berthelot-Guiet, Karine"
+uuid: eae05022-e397-4d8e-b2de-409c7cf0b2c5
+title: "Marques cultes et culte des marques chez les jeunes : Penser l’adolescence avec la consommation"
+author: "Karine Berthelot-Guiet"
+authors: "Karine Berthelot-Guiet"
+abstract: "Karine Berthelot-Guiet"
 date: "2016-01-01"
 year: "2016"
-type: "incollection"
+type: "chapter"
 url: "https://hal.science/hal-03749747"
-publisher: "Marques cultes et culte des marques chez les jeunes : Penser l'adolescence avec la consommation"
+publisher: ""
 container_title: ""
 publication: true
 ---
@@ -17,8 +17,7 @@ publication: true
 
 ## Informations sur la publication
 
-- **Auteurs:** Berthelot-Guiet, Karine
-- **Type de publication:** incollection
-- **Éditeur:** Marques cultes et culte des marques chez les jeunes : Penser l'adolescence avec la consommation
+- **Auteurs:** Karine Berthelot-Guiet
+- **Type de publication:** chapter
 - 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03749747](https://hal.science/hal-03749747)
 
