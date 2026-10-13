@@ -1,5 +1,5 @@
 ---
-uuid: fffb9b80-f209-4fde-ac47-3b12d90fe197
+uuid: b477fbcd-dfe6-45fb-a9c7-c91a39328645
 title: "Cahiers des Amériques Latines"
 author: "Cilluffo Grimaldi, Pierre"
 authors: "Cilluffo Grimaldi, Pierre"

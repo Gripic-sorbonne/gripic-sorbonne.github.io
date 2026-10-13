@@ -1,5 +1,5 @@
 ---
-uuid: 021433f4-e278-4255-9b94-4d19ff9393f6
+uuid: 647baade-0a3d-4372-b606-9d894f04178a
 title: "Soutenance de thèse Clotilde Chevet"
 author: "Emmanuël Souchier"
 date: "2023-11-29"

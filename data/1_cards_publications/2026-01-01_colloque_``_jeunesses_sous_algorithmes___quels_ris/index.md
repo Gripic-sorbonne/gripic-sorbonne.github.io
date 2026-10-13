@@ -1,5 +1,5 @@
 ---
-uuid: 3ce8c3c1-faff-43f7-b668-af1e1c99a2c6
+uuid: f5c3d5b3-598d-4750-9ab9-1a9c017018c6
 title: "Colloque `` Jeunesses sous algorithmes : quels risques d'adhésion aux discours polarisants et extrémistes ? '' -  2ème table ronde -- REPÉRER : Des bulles algorithmiques aux trajectoires d'adhésion polarisante"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

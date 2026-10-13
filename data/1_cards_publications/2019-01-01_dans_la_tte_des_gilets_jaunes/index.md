@@ -1,5 +1,5 @@
 ---
-uuid: 5130bb19-c3e3-44bb-9327-3e811c674635
+uuid: 19683652-177a-45e0-8a1b-af7bd612a460
 title: "Dans la tête des Gilets jaunes"
 author: "Huyghe, Fran cois-Bernard, Liccia, Damien"
 authors: "Huyghe, Fran cois-Bernard, Liccia, Damien"

@@ -1,5 +1,5 @@
 ---
-uuid: e19d5110-f81d-442f-ad73-d6ea87481ac2
+uuid: 5025a62f-4ed5-4059-bb7a-484e28d39bce
 title: "Actes des Doctorales de la SFSIC"
 author: "Gaillard, Julien"
 authors: "Gaillard, Julien"

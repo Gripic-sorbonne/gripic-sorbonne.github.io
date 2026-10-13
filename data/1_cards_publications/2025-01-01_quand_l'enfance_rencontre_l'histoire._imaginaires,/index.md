@@ -1,5 +1,5 @@
 ---
-uuid: f5f5d44f-3bb9-4f2d-8279-2c2a1856dfaf
+uuid: a3f3783c-7995-4873-bf18-075659175fd9
 title: "Quand l'enfance rencontre l'histoire. Imaginaires, représentations et savoirs"
 author: "Fantin, Emmanuelle, Tassel, Julien"
 authors: "Fantin, Emmanuelle, Tassel, Julien"

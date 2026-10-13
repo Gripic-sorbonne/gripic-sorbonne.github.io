@@ -1,5 +1,5 @@
 ---
-uuid: 5af443ff-a3ca-4dc2-9ffa-69b784f0b9a7
+uuid: 612e51e9-b065-4f1e-acd8-c70c66cedcc1
 title: "Congrès de l'Association Internationale de Sociologie de Langues Fran caises"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

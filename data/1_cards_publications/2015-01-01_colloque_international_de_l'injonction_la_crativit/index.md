@@ -1,5 +1,5 @@
 ---
-uuid: eb79aa99-9758-45bd-ba9d-c117d563f0ef
+uuid: e10b0a84-134b-475c-b6f2-806690fd7bcb
 title: "Colloque international De l'injonction à la créativité à sa mise en oeuvre : quel parallèle entre monde de l'art et monde productif ?"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

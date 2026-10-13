@@ -1,5 +1,5 @@
 ---
-uuid: 26a565d2-c645-49da-8540-bb36b3fd7c3b
+uuid: da40c6c6-b41b-4b6d-962a-370d42b68e52
 title: "Revue Esprit"
 author: "Heuguet, Guillaume"
 authors: "Heuguet, Guillaume"

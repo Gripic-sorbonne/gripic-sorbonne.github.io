@@ -1,5 +1,5 @@
 ---
-uuid: 87494cb5-b62d-426c-8268-0db95fb25626
+uuid: 69c79806-a419-413b-8c01-e5e1e481da9b
 title: "CIPDR (Comité Interministériel de Prévention de la Délinquance et de la Radicalisation)"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

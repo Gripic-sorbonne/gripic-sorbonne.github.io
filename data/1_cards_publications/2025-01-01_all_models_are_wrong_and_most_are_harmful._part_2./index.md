@@ -1,5 +1,5 @@
 ---
-uuid: 3dd65f6d-3052-456f-bd65-99b4ada6b633
+uuid: ac6f8ebc-d86c-43c5-b0ec-3b603f1ddb4d
 title: "All models are wrong and most are harmful. Part 2. Economic institutions in climate mitigation scenarios"
 author: "Ecrement, Vanille"
 authors: "Ecrement, Vanille"

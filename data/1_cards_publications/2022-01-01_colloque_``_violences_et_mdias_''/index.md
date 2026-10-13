@@ -1,5 +1,5 @@
 ---
-uuid: 0bb50fb5-ed6e-4e5c-afdc-e865747f85a7
+uuid: 822f7982-ec26-4077-895c-22cc9172a2d5
 title: "Colloque `` Violences et médias ''"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

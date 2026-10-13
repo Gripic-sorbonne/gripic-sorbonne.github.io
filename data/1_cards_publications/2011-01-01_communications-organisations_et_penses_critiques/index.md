@@ -1,5 +1,5 @@
 ---
-uuid: a51232ee-c579-4bed-b23c-edb48ba6c85d
+uuid: 20d9d0d3-c1de-42cd-9b0f-8548b84f617e
 title: "Communications-organisations et pensées critiques"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"

@@ -1,5 +1,5 @@
 ---
-uuid: 61ddcaab-e3f1-40ca-acca-5ff9f6a81d93
+uuid: 593f6439-3909-4e68-bdb9-ef23df33a010
 title: "Les mooks. Espaces de renouveau du journalisme littéraire"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

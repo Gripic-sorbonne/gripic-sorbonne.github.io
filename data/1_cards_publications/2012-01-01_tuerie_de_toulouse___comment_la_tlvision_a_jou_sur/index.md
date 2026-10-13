@@ -1,5 +1,5 @@
 ---
-uuid: 20cef2e3-9ca6-4294-9fa3-e1a59fb8122d
+uuid: ca077380-e73f-40c2-b323-906b037f8d00
 title: "Tuerie de Toulouse : comment la télévision a joué sur l'émotion collective"
 author: "Mariau, Berenice"
 authors: "Mariau, Berenice"

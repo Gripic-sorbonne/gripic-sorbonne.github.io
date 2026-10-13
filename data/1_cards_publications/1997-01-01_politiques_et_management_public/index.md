@@ -1,5 +1,5 @@
 ---
-uuid: be29f6ee-4378-43b9-b84d-cb25146c3eb0
+uuid: eba7176d-ea6d-4284-9f71-2bfe8cc3ef09
 title: "Politiques et Management public"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

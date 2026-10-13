@@ -1,5 +1,5 @@
 ---
-uuid: b54cc75b-c73f-4086-bcdd-8a757bd9d8a4
+uuid: 60bc7afe-7d16-4a0e-ba6a-3d5ab6c4db09
 title: "Itinéraires. Littérature, textes, cultures"
 author: "Jeanne Perrier, Valerie"
 authors: "Jeanne Perrier, Valerie"

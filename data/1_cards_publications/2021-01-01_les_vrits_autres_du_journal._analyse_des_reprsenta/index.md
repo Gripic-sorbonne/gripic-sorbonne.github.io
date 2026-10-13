@@ -1,5 +1,5 @@
 ---
-uuid: bf5c2e17-24f4-4833-a627-68f7011a8b0b
+uuid: c35a40ec-a253-4e70-a1f0-b120df0929ca
 title: "Les vérités autres du journal. Analyse des représentations du trépas en régime périodique en 1882 et 2014"
 author: "Fontaine, Maud"
 authors: "Fontaine, Maud"

@@ -1,5 +1,5 @@
 ---
-uuid: ca1c04d8-1927-4917-ac1d-6e7ce92d8c79
+uuid: f21e5ed5-f481-4507-8561-260b588bd63c
 title: "Communication et professionnalisation"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

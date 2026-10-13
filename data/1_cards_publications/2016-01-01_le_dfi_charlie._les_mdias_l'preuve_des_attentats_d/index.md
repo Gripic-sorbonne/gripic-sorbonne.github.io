@@ -1,5 +1,5 @@
 ---
-uuid: 50b23462-2c81-47cd-b4a3-ee9cb175c33f
+uuid: 97917d32-a0a4-478b-9cc5-d21511d1a0ca
 title: "Le défi Charlie. Les médias à l'épreuve des attentats de janvier 2015"
 author: "Mariau, Berenice, Gombin, Joël, Villeneuve, Gaël"
 authors: "Mariau, Berenice, Gombin, Joël, Villeneuve, Gaël"

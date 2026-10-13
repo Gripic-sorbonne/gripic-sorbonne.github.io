@@ -1,5 +1,5 @@
 ---
-uuid: eeca17df-1cb1-4efc-abb8-51c404960b48
+uuid: a78718e9-b671-4a52-b97a-8bd6d25fc0be
 title: "L'atelier de lecture, Cm 1 - cycle 3, Cahier d'entraînement"
 author: "Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G."
 authors: "Souchier, Emmanuël, Descouens, M., Mesnager, J., Médard, P.-L., Rémond, G."

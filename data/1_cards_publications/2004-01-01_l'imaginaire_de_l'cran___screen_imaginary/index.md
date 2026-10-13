@@ -1,5 +1,5 @@
 ---
-uuid: 1557abb9-1cce-4bbf-ada5-36be1a820fff
+uuid: 4201c6d3-053f-4837-8191-aa793c50fdd0
 title: "L'Imaginaire de l'écran / Screen Imaginary"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

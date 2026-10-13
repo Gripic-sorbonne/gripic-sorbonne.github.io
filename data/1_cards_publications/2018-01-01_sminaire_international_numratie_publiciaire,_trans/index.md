@@ -1,5 +1,5 @@
 ---
-uuid: 21d7e96b-f78e-462b-ba68-794a504c6630
+uuid: 93bfeb32-27cf-4d8a-950a-e86b0b8b860c
 title: "Séminaire international Numératie publiciaire, transformation des paroles des marques"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"
