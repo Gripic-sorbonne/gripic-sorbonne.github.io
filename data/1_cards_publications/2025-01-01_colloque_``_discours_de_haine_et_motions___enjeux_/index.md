@@ -1,5 +1,5 @@
 ---
-uuid: 34a5b041-94dc-4830-a370-fa87103d4696
+uuid: c13e1661-c99c-4d85-97c0-ffb28a15a30b
 title: "Colloque `` Discours de haine et émotions : enjeux idéologiques et épistémologiques ''"
 author: "Renaut, Laurène, Vernet, Samuel"
 authors: "Renaut, Laurène, Vernet, Samuel"

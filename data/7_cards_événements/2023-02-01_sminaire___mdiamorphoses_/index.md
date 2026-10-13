@@ -1,5 +1,5 @@
 ---
-uuid: 53011067-417c-4486-9fea-e4eaec3d9a26
+uuid: bdca0c8b-6f2d-4aea-b998-f60c0f1ac953
 title: "Séminaire \" Médiamorphoses\""
 author: "Pauline Escande Gauquié - Valérie Jeanne Perrier- Laboratoire ISMIC ( Marseille)"
 date: "2023-02-01"

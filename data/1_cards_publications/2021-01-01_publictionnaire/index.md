@@ -1,5 +1,5 @@
 ---
-uuid: cba8863e-31e5-4651-ab50-95bf09c397e0
+uuid: 7102af2d-a7f5-4f0f-a188-92310d3b57a1
 title: "Publictionnaire"
 author: "AIM, Olivier"
 authors: "AIM, Olivier"

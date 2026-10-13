@@ -1,5 +1,5 @@
 ---
-uuid: 419adc24-881a-4fb1-b2a1-533c94003302
+uuid: 89dd4b9f-d312-4d55-bbd8-5edf773e150a
 title: "Effeuillage : la revue qui met les médias à nu"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

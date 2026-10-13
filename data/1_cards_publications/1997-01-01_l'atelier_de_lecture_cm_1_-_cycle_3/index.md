@@ -1,5 +1,5 @@
 ---
-uuid: 0211fda2-60e0-4a6e-b894-1f674c3c4c48
+uuid: 466a5838-b873-4083-bf5e-14c5a3400067
 title: "L'atelier de lecture  Cm 1 - cycle 3"
 author: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine"
 authors: "Souchier, Emmanuël, Bremond, Georges, Descouens, Martine"

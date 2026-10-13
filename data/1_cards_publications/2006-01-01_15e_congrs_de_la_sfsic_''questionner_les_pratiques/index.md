@@ -1,5 +1,5 @@
 ---
-uuid: fb559581-d923-4e15-86d8-491b49968ab3
+uuid: 04311a8c-c6c9-4874-b60a-f81664dcf92b
 title: "15e congrès de la SFSIC ''Questionner les pratiques d'information et de communication. Agir professionnel et agir social''"
 author: "Desmoulins, Lucile"
 authors: "Desmoulins, Lucile"

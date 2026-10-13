@@ -1,5 +1,5 @@
 ---
-uuid: 0c7a8e8e-dc7e-471e-838a-897719efece0
+uuid: 3869c1e9-6e32-4ee1-9dd6-1186d6092323
 title: "IAMCR 2013 Conference"
 author: "Candel, Etienne, Bowe, Brian J., Allard-Huver, Fran cois"
 authors: "Candel, Etienne, Bowe, Brian J., Allard-Huver, Fran cois"

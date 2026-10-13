@@ -1,5 +1,5 @@
 ---
-uuid: b39ec28a-a5d8-4d7c-9f96-04e0a08ebc35
+uuid: 961b2301-01e2-4922-8d3c-df5776a05c4b
 title: "Hannah Arendt the Promise of Politics (anglais et fran cais) Presented at the séance GRIPIC"
 author: "Woodall, Angela"
 authors: "Woodall, Angela"

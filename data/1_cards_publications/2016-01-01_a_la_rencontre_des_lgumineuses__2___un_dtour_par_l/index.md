@@ -1,5 +1,5 @@
 ---
-uuid: 160bfb67-a991-4785-80a0-dd8ba9421b88
+uuid: ff325e47-e83d-4c4e-819f-21f767d9829e
 title: "A la rencontre des légumineuses (2): un détour par l'épicurium"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

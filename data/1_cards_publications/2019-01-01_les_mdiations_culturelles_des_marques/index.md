@@ -1,5 +1,5 @@
 ---
-uuid: 3cd7b27b-e24a-4665-a989-5ef95a483a74
+uuid: 67f7bcb6-d953-4096-9298-9a8c7d6c5c06
 title: "Les médiations culturelles des marques"
 author: "Marti, Caroline"
 authors: "Marti, Caroline"

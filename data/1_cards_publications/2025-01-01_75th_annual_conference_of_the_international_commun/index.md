@@ -1,5 +1,5 @@
 ---
-uuid: c1f15b99-a9f8-4508-a9c1-1787ec7e9dff
+uuid: 796a3015-d818-4ca1-b20b-a44f77f2a9a9
 title: "75th Annual Conference of the International Communication Association -- ICA"
 author: "Fantin, Emmanuelle, Niemeyer, Katharina, Dufresne-Delières, Corine"
 authors: "Fantin, Emmanuelle, Niemeyer, Katharina, Dufresne-Delières, Corine"

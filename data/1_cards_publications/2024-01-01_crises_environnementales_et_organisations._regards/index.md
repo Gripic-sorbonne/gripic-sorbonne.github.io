@@ -1,5 +1,5 @@
 ---
-uuid: d35e81ab-509e-4a27-9a21-5c84bf459456
+uuid: 5f8df741-c591-4889-a75e-b2324181fcec
 title: "Crises environnementales et organisations. Regards en communication environnementale"
 author: "Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline"
 authors: "Allard-Huver, Fran cois, Bernard, Fran coise, Catellani, Andrea, Loneux, Catherine, d'Almeida, Nicole, Pascual Espuny, Céline"

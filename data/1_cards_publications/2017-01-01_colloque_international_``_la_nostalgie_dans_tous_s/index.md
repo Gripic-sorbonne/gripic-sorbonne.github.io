@@ -1,5 +1,5 @@
 ---
-uuid: 378440aa-2560-4259-b47b-8d13cb5fa8e7
+uuid: 872f396a-372b-408d-80a2-a58c650a5295
 title: "Colloque international `` La nostalgie dans tous ses états ''"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

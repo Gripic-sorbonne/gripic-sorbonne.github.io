@@ -1,5 +1,5 @@
 ---
-uuid: bedff9fd-47b1-488c-a93e-b81e6c3f5d14
+uuid: 6cdaa8a8-5473-4ba3-a3e4-f2777939d7ac
 title: "Poésie et médias, XXe-XXIe siècle"
 author: "Candel, Etienne"
 authors: "Candel, Etienne"

@@ -1,5 +1,5 @@
 ---
-uuid: e995cc75-19b3-402b-9fa6-deea29169b43
+uuid: e0cf30e4-def4-469f-97d7-38aabc2e367e
 title: "L'animal médiatique"
 author: "Fantin, Emmanuelle, Sécail, Claire, Schafer, Valérie"
 authors: "Fantin, Emmanuelle, Sécail, Claire, Schafer, Valérie"

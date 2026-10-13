@@ -1,5 +1,5 @@
 ---
-uuid: c5fd1e4d-daf5-46ec-a1e5-27fd55a8a212
+uuid: c64f59a0-bfed-43e1-9070-4865bd001f2b
 title: "Table-ronde `` Autour des fabriques de l'ignorance '' à l'occasion de la sortie du numéro 214 de Communication & langages"
 author: "Renaut, Laurène, Chevet, Clotilde"
 authors: "Renaut, Laurène, Chevet, Clotilde"

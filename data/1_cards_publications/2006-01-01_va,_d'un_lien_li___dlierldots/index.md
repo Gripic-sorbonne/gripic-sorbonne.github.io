@@ -1,5 +1,5 @@
 ---
-uuid: 1598adeb-abe0-4d1f-a590-b1b4ca2e4aa9
+uuid: 1c046e6a-ded4-41f2-97fd-3146d4014b79
 title: "Va, d'un lien lié : délierldots"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

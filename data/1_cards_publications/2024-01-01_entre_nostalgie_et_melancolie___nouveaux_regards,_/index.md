@@ -1,5 +1,5 @@
 ---
-uuid: f6d8d006-8416-4d96-9af1-74d4a5ea38b2
+uuid: 124d847f-22bf-44d1-9d1c-0db0f966d781
 title: "Entre nostalgie et melancolie : nouveaux regards, nouvelles questions"
 author: "Fantin, Emmanuelle, Corbillé, Sophie"
 authors: "Fantin, Emmanuelle, Corbillé, Sophie"

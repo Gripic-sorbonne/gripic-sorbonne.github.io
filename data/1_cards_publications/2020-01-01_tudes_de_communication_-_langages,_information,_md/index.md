@@ -1,5 +1,5 @@
 ---
-uuid: 2a1ef7db-ee31-4aab-83ad-b038edb7b8c0
+uuid: 640d7134-583c-4c83-9096-d6f2c5d98430
 title: "Études de communication - Langages, information, médiations"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

@@ -1,5 +1,5 @@
 ---
-uuid: 60474dcc-b8b4-4642-98b1-079fb358c70b
+uuid: e41c72ab-1759-4fcb-8355-69f76eabdebd
 title: "Comprendre l'Eurovision"
 author: "Appiotti, Sébastien"
 authors: "Appiotti, Sébastien"

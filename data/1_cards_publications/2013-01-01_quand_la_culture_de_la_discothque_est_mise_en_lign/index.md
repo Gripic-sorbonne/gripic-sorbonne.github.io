@@ -1,5 +1,5 @@
 ---
-uuid: 9e968b04-b4b9-4f46-a50b-15f254491e79
+uuid: c8ed6f6f-5332-432e-8bd8-36715f89d1f0
 title: "Quand la culture de la discothèque est mise en ligne"
 author: "Heuguet, Guillaume"
 authors: "Heuguet, Guillaume"

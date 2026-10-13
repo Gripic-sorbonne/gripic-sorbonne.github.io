@@ -1,5 +1,5 @@
 ---
-uuid: 28dde959-220a-4250-bd43-a77a0bb13591
+uuid: ab881f3f-cb58-4093-b340-08fb9b035bbb
 title: "Rare cancers and digital quest for authority during Covid 19 Pandemic"
 author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
 authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"

@@ -1,5 +1,5 @@
 ---
-uuid: 85000899-8bae-4cb9-bf29-e75b780997e4
+uuid: d6ab791d-17f0-42a9-aeed-5dcafb8ca0da
 title: "`` Monitorer le présent, l'écran à l'ère du soup con '', Colloque international organisé par le laboratoire AL NT2, Université de Montréal."
 author: "Garmon, Inès"
 authors: "Garmon, Inès"

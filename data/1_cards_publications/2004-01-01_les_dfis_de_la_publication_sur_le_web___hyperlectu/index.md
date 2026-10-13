@@ -1,5 +1,5 @@
 ---
-uuid: 19bc6efa-8691-4bae-a669-a72353a06609
+uuid: e9b4cffc-4df0-4f96-b557-aca48228c4f1
 title: "Les défis de la publication sur le Web : hyperlectures, cybertextes et méta-édition"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

@@ -1,5 +1,5 @@
 ---
-uuid: a2f75f7d-1790-4700-921d-8a564d051382
+uuid: 9d1b4e40-bb83-4388-b879-976eb50c9bc8
 title: "Séminaire GIRANIUM, GRIPIC"
 author: "Abid-Dalen con, Ambre, Charbonneaux, Juliette"
 authors: "Abid-Dalen con, Ambre, Charbonneaux, Juliette"

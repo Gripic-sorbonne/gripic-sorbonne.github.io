@@ -1,5 +1,5 @@
 ---
-uuid: 1eec11b3-2890-4ef2-a7ab-fa7ae6446c16
+uuid: 6fb413f7-7967-4994-b4c3-a8c0e171da89
 title: "Journée d'étude ''Histoires d'objets : Le militant et le populaire entre archives et patrimoine''"
 author: "Gaillard, Julien"
 authors: "Gaillard, Julien"

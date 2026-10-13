@@ -1,5 +1,5 @@
 ---
-uuid: c11ed12e-f847-4a66-a9cb-54c27e685d85
+uuid: 593cd4d7-a567-42a9-a25b-3b561848584f
 title: "La numérisation des sociétés : Actes"
 author: "Malaterre, Florian"
 authors: "Malaterre, Florian"

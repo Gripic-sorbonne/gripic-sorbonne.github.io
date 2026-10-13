@@ -1,5 +1,5 @@
 ---
-uuid: bf9b84c1-6998-4fe7-ba54-f19bd004a93f
+uuid: 0db3c340-43d8-4fc3-8ba1-58f2862c1fd9
 title: "Argumentation et Analyse du Discours"
 author: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"
 authors: "Charbonneaux, Juliette, Berthelot-Guiet, Karine"

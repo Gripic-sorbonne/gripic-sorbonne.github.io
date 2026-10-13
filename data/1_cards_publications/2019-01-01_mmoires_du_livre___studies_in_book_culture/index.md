@@ -1,5 +1,5 @@
 ---
-uuid: 7f920cb6-fe34-4a7c-88e8-011661844545
+uuid: aa4bd9e1-0700-4bd6-80ad-c5a8310749f0
 title: "Mémoires du livre  / Studies in Book Culture"
 author: "Nicolas, Agathe"
 authors: "Nicolas, Agathe"

@@ -1,5 +1,5 @@
 ---
-uuid: fe5b3b25-c4dd-42ca-b9e2-aae5dd7d5f5d
+uuid: 0f83f344-e46a-4dcc-9bcd-59dcc1741387
 title: "International Conference 2013 -- Rhetoric in Europe"
 author: "Allard-Huver, Fran cois, Gilewicz, Nicholas"
 authors: "Allard-Huver, Fran cois, Gilewicz, Nicholas"

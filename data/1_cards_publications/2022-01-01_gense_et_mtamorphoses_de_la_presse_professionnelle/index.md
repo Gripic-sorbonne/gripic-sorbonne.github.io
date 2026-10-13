@@ -1,5 +1,5 @@
 ---
-uuid: adcdc7c7-10dc-4223-90bf-793938c3bca2
+uuid: b73273af-8049-432c-96dc-285830c4b86f
 title: "Genèse et métamorphoses de la presse professionnelle en communication. De la configuration d'un territoire spécialisé à la médiation reconfigurante de la `` revue-livre '' vendue en librairie"
 author: "Abid-Dalen con, Ambre"
 authors: "Abid-Dalen con, Ambre"

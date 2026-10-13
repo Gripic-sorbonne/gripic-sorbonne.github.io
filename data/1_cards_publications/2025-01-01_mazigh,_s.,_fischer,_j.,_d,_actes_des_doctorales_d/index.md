@@ -1,5 +1,5 @@
 ---
-uuid: df837be6-73e4-4295-9a3d-2f2a9385bfb7
+uuid: 28b31ec5-309c-4183-b33d-d0b7acc2c38b
 title: "Mazigh, S., Fischer, J., éd, Actes des doctorales du Crem 2025, Metz, AJC Crem, 2025"
 author: "Fischer, Joachim"
 authors: "Fischer, Joachim"
