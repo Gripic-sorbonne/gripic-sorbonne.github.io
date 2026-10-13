@@ -1,5 +1,5 @@
 ---
-uuid: a4cfdbd4-ff08-4c6f-9c06-87415ffd95ec
+uuid: 85e3b1f4-9fd3-432e-b4b2-658ef8d1d65b
 title: "De quelques réflexions sur les paradoxes à parler d' ``~ouverture des données~de la recherche~'' dans le cadre du plan national pour la science ouverte"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

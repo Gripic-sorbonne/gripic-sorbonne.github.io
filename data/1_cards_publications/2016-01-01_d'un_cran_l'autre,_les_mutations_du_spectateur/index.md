@@ -1,5 +1,5 @@
 ---
-uuid: 67e0676b-9dc9-467b-9dc5-7a1d8118140f
+uuid: 9437628d-6aae-44d1-822c-be62a39dc9c7
 title: "D'un écran à l'autre, les mutations du spectateur"
 author: "Escande, Pauline, AIM, Olivier"
 authors: "Escande, Pauline, AIM, Olivier"

@@ -1,5 +1,5 @@
 ---
-uuid: e430e985-c584-4496-b5f9-26960a0fc4a0
+uuid: cb7ace53-c3e0-407c-812a-46b3b0955d17
 title: "Séminaire Médiamorphose"
 author: "Valérie Jeanne-Perrier/Pauline Escandé Gauquié/IMSIC"
 date: "2024-06-10"

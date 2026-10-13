@@ -1,5 +1,5 @@
 ---
-uuid: 06a00cb4-3329-45af-9ce5-be272c65c631
+uuid: 2d7adba2-cef1-42e4-a26b-9fd126e0a448
 title: "À la frange d'une blessure"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

@@ -1,5 +1,5 @@
 ---
-uuid: 6f5271da-ae37-423e-b5dd-83870170f2c2
+uuid: f910f634-b27e-405a-b959-c1ad0213ad1c
 title: "Dynamiques de développement au carrefour des mondes"
 author: "Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, de Montety, Caroline"
 authors: "Berthelot-Guiet, Karine, Patrin-Leclère, Valérie, de Montety, Caroline"

@@ -1,5 +1,5 @@
 ---
-uuid: 2f5c31ec-d50a-47ed-ad1f-0b37ae259c76
+uuid: 6eb2aa9a-9421-491b-acb6-ecb5625ac91a
 title: "Communication"
 author: "AIM, Olivier, Billiet, Stéphane"
 authors: "AIM, Olivier, Billiet, Stéphane"

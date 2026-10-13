@@ -1,5 +1,5 @@
 ---
-uuid: 4d8b9f97-3d73-4c72-8d0c-67625d9fde3f
+uuid: eb3e997b-4407-45b0-b7a1-99dfb4d9a07e
 title: "Concrete jungle. Esthétique du vivant en milieu urbain"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

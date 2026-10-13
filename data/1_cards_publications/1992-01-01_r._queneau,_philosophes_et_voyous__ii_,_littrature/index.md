@@ -1,5 +1,5 @@
 ---
-uuid: 5bf4537c-c6c1-48b5-8396-d460a9ef7280
+uuid: e116bc9f-d5c4-44e7-bfe0-3e8dfabeedbc
 title: "R. Queneau, Philosophes et voyous (ii), Littérature"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

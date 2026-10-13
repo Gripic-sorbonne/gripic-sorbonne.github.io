@@ -1,5 +1,5 @@
 ---
-uuid: 4854fa55-1206-4c49-bc7b-244dbaf5f6f7
+uuid: dc7af84c-338f-49c6-8eca-1fa1683fdb16
 title: "Conférence `` La culture du ``LOL'' '' organisée par les étudiant$times$e$times$s du Master 2 Médias, stratégies et numérique du CELSA"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

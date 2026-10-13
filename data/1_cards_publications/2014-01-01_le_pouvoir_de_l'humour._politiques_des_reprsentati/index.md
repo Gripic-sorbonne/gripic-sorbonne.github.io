@@ -1,5 +1,5 @@
 ---
-uuid: 8e2d1f99-9350-4e74-a69f-9c53c2f55c30
+uuid: 96e652ab-fa60-462f-a394-082625b8b9ce
 title: "Le Pouvoir de l'humour. Politiques des représentations dans les médias en France"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

@@ -1,5 +1,5 @@
 ---
-uuid: e6aa3606-993c-43aa-b6d9-94b6de3f9501
+uuid: db932b84-8024-4b8f-a816-0fc6e813f110
 title: "Sociology of Nostalgic Time: Toward a Politics of Sensibility"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

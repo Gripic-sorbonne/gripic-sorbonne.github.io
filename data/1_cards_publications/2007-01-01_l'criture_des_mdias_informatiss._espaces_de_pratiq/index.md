@@ -1,5 +1,5 @@
 ---
-uuid: 28f718b0-348b-4e72-82b4-f7f148c3a7ad
+uuid: b944b00e-ed4c-4cb9-b73c-3c7441205ea3
 title: "L'écriture des médias informatisés. Espaces de pratiques"
 author: "Souchier, Emmanuël, Bonaccorsi, Julia, Garron, Isabelle, Labelle, Sarah, Minel, Jean-Luc"
 authors: "Souchier, Emmanuël, Bonaccorsi, Julia, Garron, Isabelle, Labelle, Sarah, Minel, Jean-Luc"

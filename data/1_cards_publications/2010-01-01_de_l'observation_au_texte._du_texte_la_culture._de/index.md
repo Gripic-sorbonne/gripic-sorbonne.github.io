@@ -1,5 +1,5 @@
 ---
-uuid: a7228c7d-f000-497a-84dd-142113c91c24
+uuid: 88b0c388-e67e-4ec6-90e4-35c3a42ec6e7
 title: "De l'observation au texte. Du texte à la culture. Deux parcours de la sémiotique ?"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

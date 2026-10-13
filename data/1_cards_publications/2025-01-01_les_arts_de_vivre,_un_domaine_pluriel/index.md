@@ -1,5 +1,5 @@
 ---
-uuid: f7354812-d643-4a61-8989-87942ad5b326
+uuid: 4663648f-5011-4da4-a3fe-08ee26e24e44
 title: "Les Arts de vivre, un domaine pluriel"
 author: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier"
 authors: "Bonnamour, Victoria, Ferey, Vanessa, Gergaud, Olivier, Heilbrunn, Benoît, AIM, Olivier"

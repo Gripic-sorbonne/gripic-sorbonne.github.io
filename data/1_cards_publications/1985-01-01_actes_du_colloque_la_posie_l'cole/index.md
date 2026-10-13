@@ -1,5 +1,5 @@
 ---
-uuid: 641bf7e8-b30f-4102-a407-fe2b31cf6b68
+uuid: d96deb39-94c3-4f6d-9626-6fb58769a01e
 title: "Actes du colloque La poésie à l'école"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

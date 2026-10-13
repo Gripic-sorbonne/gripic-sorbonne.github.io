@@ -1,5 +1,5 @@
 ---
-uuid: e5e11e66-60e0-4212-bb20-44f927970bfb
+uuid: 6ac905f3-073c-4fcc-a312-093dbcd750e8
 title: "Soutenance de thèse Laura Verquère"
 author: "GRIPIC"
 date: "2023-06-02"

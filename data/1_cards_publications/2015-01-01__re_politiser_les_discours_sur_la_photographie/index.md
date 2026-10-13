@@ -1,5 +1,5 @@
 ---
-uuid: 1e321ee0-7997-4a88-9f70-ff5ca8e8550a
+uuid: e3a9e305-abec-4381-a5de-d71350974d67
 title: "(Re)politiser les discours sur la photographie"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

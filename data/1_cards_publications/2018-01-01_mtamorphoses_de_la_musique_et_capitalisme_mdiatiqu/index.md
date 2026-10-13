@@ -1,5 +1,5 @@
 ---
-uuid: 88706ef4-89f5-4b0e-88cf-d39b4c3f398c
+uuid: f40fb768-81a4-4094-a3be-6215e6536021
 title: "Métamorphoses de la musique et capitalisme médiatique. Au prisme de YouTube (2005-2018)"
 author: "Heuguet, Guillaume"
 authors: "Heuguet, Guillaume"

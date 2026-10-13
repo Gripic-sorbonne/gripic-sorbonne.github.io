@@ -1,5 +1,5 @@
 ---
-uuid: 33991920-0e84-4e0a-af4f-63d4eeca1648
+uuid: d6fc581e-afac-4712-8031-c77dd9652178
 title: "Journée d'études ''Mode Médias Médiation. Des enjeux communicationels''"
 author: "Cappi, Johanna"
 authors: "Cappi, Johanna"

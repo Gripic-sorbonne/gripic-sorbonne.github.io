@@ -1,5 +1,5 @@
 ---
-uuid: 375dca4c-9387-4f69-bc72-a9148e06f420
+uuid: e04431ee-3dd8-4c73-8e22-bc1ce4730eb8
 title: "Le monde des collectifs : enquêtes sur les recompositions du travail"
 author: "Rey, Frédéric, Vivès, Claire, Audoux, Christine, Azaïs, Christian, Boullier, Camille, Gheorghiu, Mihaï Dinu, Eydoux, Anne, Farmakides, Anne-Marie, Foli, Olivia, Fondeur, Yannick, Gaudart, Corinne, Gillet, Anne, Gonnet, Aurélie, Granier, Fran cois, Lallement, Michel, Lima, Léa, Matus, Murielle, Miné, Michel, Moatty, Frédéric, Reboul, Lucie, Sarfati, Fran cois, Therrien, Jérémy, Tuchszirer, Carole, Zarka, Samuel"
 authors: "Rey, Frédéric, Vivès, Claire, Audoux, Christine, Azaïs, Christian, Boullier, Camille, Gheorghiu, Mihaï Dinu, Eydoux, Anne, Farmakides, Anne-Marie, Foli, Olivia, Fondeur, Yannick, Gaudart, Corinne, Gillet, Anne, Gonnet, Aurélie, Granier, Fran cois, Lallement, Michel, Lima, Léa, Matus, Murielle, Miné, Michel, Moatty, Frédéric, Reboul, Lucie, Sarfati, Fran cois, Therrien, Jérémy, Tuchszirer, Carole, Zarka, Samuel"

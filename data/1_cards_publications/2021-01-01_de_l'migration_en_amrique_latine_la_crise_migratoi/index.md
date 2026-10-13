@@ -1,5 +1,5 @@
 ---
-uuid: ef5888d6-9a51-4b18-93a4-aa77be601900
+uuid: 04c6eeff-99f3-4838-83f9-bc4173b7bde5
 title: "De l'émigration en Amérique latine à la crise migratoire : histoire oubliée de la Nouvelle-Aquitaine XIXe-XXIe siècle"
 author: "Fabre, Maxime"
 authors: "Fabre, Maxime"

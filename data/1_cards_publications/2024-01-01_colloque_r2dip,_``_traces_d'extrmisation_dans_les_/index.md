@@ -1,5 +1,5 @@
 ---
-uuid: d12fb676-42bf-4772-9305-b7756312193a
+uuid: 5bd17a62-a72b-4f6c-9d11-07ac86eb6944
 title: "Colloque R2DIP, `` Traces d'extrémisation dans les discours institutionnels ''"
 author: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"
 authors: "Renaut, Laurène, Chevet, Clotilde, Raymond, Lucie, Vernet, Samuel"

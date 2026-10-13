@@ -1,5 +1,5 @@
 ---
-uuid: 075a7169-8b24-4d1e-9316-d3a00edba89c
+uuid: a8b4f790-d467-40a0-8ac4-a29ec5b630c1
 title: "Formation à la recherche et au doctorat"
 ---
 # Formation à la recherche et au doctorat

@@ -1,5 +1,5 @@
 ---
-uuid: 5b2fcf76-72c5-4a3c-ae4c-73b5199e2a06
+uuid: 75a6b43c-fcee-4c28-ae5c-3155eeede5f3
 title: "Actes des journées d'étude Designldots graphique ?"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

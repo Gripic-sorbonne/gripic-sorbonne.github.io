@@ -1,5 +1,5 @@
 ---
-uuid: c2697c15-ce95-496e-96a6-f30f44553ae4
+uuid: dcd81409-3653-4e87-a967-6e28ce217b4f
 title: "La bande dessinée et les adaptations de la page à l'écran"
 author: "Escande, Pauline, Mouratidou, Elena"
 authors: "Escande, Pauline, Mouratidou, Elena"

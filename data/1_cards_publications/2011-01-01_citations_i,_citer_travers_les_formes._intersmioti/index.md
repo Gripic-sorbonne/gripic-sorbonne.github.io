@@ -1,5 +1,5 @@
 ---
-uuid: b0893798-74e4-4945-9915-c4868204b6a5
+uuid: 4223c869-ef53-4569-9c8d-46f9fb1a9201
 title: "Citations I, Citer à travers les formes. Intersémiotique de la Citation"
 author: "Escande, Pauline, Mouratidou, Elena"
 authors: "Escande, Pauline, Mouratidou, Elena"

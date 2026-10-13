@@ -1,5 +1,5 @@
 ---
-uuid: a2028feb-763c-4e82-9211-a77f9f9b50db
+uuid: e248214a-44ba-496d-b76e-619b885563fb
 title: "Congrès de l'AISLF (Association Internationale des Sociologues de Langue Fran caise)"
 author: "Gaglio, Gérald, Foli, Olivia"
 authors: "Gaglio, Gérald, Foli, Olivia"

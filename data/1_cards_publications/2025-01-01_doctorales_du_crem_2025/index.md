@@ -1,5 +1,5 @@
 ---
-uuid: 2b69c963-ebcb-492f-8f3e-796ac52306a3
+uuid: a0089572-4ded-40b3-8e27-0a5706fe8ca7
 title: "Doctorales du Crem 2025"
 author: "Mazigh, Sabrina, Fischer, Joachim"
 authors: "Mazigh, Sabrina, Fischer, Joachim"

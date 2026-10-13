@@ -1,5 +1,5 @@
 ---
-uuid: 5ecb9654-d572-4879-a684-45e544cae13d
+uuid: 83f8cb20-5059-4725-afa9-9a0b1190c6f6
 title: "Séminaire \"Chemins d'écritures\""
 author: "Emmanuël Souchier"
 date: "2023-04-14"

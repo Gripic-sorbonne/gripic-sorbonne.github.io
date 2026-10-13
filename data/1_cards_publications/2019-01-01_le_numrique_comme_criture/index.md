@@ -1,5 +1,5 @@
 ---
-uuid: 69116ab6-2ae2-41f3-a0bb-226c888c1d8c
+uuid: f481c0cb-53b3-46ed-a2c9-b693ccfaa7d0
 title: "Le numérique comme écriture"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

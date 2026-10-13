@@ -1,5 +1,5 @@
 ---
-uuid: 34dd9d80-cb18-4e1b-990f-cb3827fde91c
+uuid: b00c38ff-beb1-4207-be77-b6d604907969
 title: "Phantasmata. Techniques of the Uncanny"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"
