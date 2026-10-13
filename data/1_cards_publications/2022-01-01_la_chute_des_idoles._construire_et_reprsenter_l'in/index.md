@@ -1,5 +1,5 @@
 ---
-uuid: b018b49c-5f4d-4e12-9981-09422be7ab00
+uuid: 096f6f2f-4127-4304-b9c1-354778e8d820
 title: "La chute des idoles. Construire et représenter l'infamie politique en France de la Renaissance à nos jours"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

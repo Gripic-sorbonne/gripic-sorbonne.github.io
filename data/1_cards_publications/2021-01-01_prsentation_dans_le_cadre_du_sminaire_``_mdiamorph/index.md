@@ -1,5 +1,5 @@
 ---
-uuid: 5967ae6b-3e1f-4dc6-b2d8-ada3427a4628
+uuid: d6f19c60-e8b9-46a0-b4b5-111923b3fad9
 title: "Présentation dans le cadre du séminaire `` Médiamorphoses ''"
 author: "Escande, Pauline"
 authors: "Escande, Pauline"

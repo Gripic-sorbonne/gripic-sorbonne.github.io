@@ -1,5 +1,5 @@
 ---
-uuid: 7c357788-a8b1-479e-a26f-4cf18b3779e7
+uuid: 91535d68-68c4-4f10-a45c-3758138f788d
 title: "Journée d'étude. Communication et multimodalité dans l'action professionnelle"
 author: "Malaterre, Florian"
 authors: "Malaterre, Florian"

@@ -1,5 +1,5 @@
 ---
-uuid: 0a24be5a-72a3-49d3-8588-b05781f403a5
+uuid: e5f1f7df-c15a-4a16-97cd-a695df22a1f4
 title: "Coordination between endodermal barriers and arbuscular mycorrhizae for nutrient exchange"
 author: "Bunel, Léo, Nicolas, Agathe, Duffau, Enora, Laurens, Sophie, Jacot, Vétéa, Duperray, Solène, Candaudap, Frédéric, Le Roux, Gaël, Fouillen, Laëtitia, Domergue, Frédéric, Jacquier, Léa, Barberon, Marie, Le Ru, Aurélie, de Carvalho-Niebel, Fernanda, Bensmihen, Sandra, Reyt, Guilhem"
 authors: "Bunel, Léo, Nicolas, Agathe, Duffau, Enora, Laurens, Sophie, Jacot, Vétéa, Duperray, Solène, Candaudap, Frédéric, Le Roux, Gaël, Fouillen, Laëtitia, Domergue, Frédéric, Jacquier, Léa, Barberon, Marie, Le Ru, Aurélie, de Carvalho-Niebel, Fernanda, Bensmihen, Sandra, Reyt, Guilhem"

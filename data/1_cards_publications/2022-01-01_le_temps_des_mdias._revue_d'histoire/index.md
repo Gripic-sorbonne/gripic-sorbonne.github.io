@@ -1,5 +1,5 @@
 ---
-uuid: d377eb76-89c7-4bf2-9caa-be8c37732a3d
+uuid: 4f3716f2-7d29-4b38-9a42-0e491338ce17
 title: "Le Temps des médias. Revue d'histoire"
 author: "Froissart, Pascal"
 authors: "Froissart, Pascal"

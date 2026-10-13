@@ -1,5 +1,5 @@
 ---
-uuid: e44a584a-882d-4eff-802c-05c9b9d72731
+uuid: 5a0e2fd3-2dd8-4f07-a02f-457327729c39
 title: "Séminaire de lecture du GRIPIC"
 author: "Abid-Dalen con, Ambre, Fantin, Emmanuelle"
 authors: "Abid-Dalen con, Ambre, Fantin, Emmanuelle"

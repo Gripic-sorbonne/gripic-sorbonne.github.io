@@ -1,5 +1,5 @@
 ---
-uuid: d9741bb2-2124-4696-bc06-6dff90ec9924
+uuid: 4359e0a2-5d4d-4487-abbd-37169f367503
 title: "Colloque international D'un écran à l'autre : les mutations du spectateur"
 author: "Escande, Pauline, AIM, Olivier"
 authors: "Escande, Pauline, AIM, Olivier"

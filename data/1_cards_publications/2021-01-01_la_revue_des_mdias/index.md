@@ -1,5 +1,5 @@
 ---
-uuid: 8ce6eb33-e4b2-4055-adba-77001c708656
+uuid: 61321663-cea4-49cb-8095-95bd269853da
 title: "La revue des médias"
 author: "Lévrier, Alexis"
 authors: "Lévrier, Alexis"

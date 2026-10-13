@@ -1,5 +1,5 @@
 ---
-uuid: 85d1f098-c9da-45fc-9ec0-48530e349dc6
+uuid: e65b2762-3441-496a-853a-b4a1097cff41
 title: "Colloque IA et innovation sociale"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

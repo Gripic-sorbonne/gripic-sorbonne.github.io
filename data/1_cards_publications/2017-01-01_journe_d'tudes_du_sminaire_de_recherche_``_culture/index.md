@@ -1,5 +1,5 @@
 ---
-uuid: f70d314e-45dd-42a8-bcb6-659452739f31
+uuid: 07304e84-f9e3-451e-99a6-8cf46f733a2f
 title: "Journée d'études du séminaire de recherche `` Cultures de l'enquête ''"
 author: "Tassel, Julien"
 authors: "Tassel, Julien"

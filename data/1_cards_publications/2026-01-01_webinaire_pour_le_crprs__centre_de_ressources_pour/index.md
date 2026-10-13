@@ -1,5 +1,5 @@
 ---
-uuid: 278dea15-bfea-4205-a530-ad93774f0810
+uuid: 79318446-9ed9-4d1f-86d0-83195949d42c
 title: "Webinaire pour le CRPRS (Centre de Ressources pour la Prévention des Radicalités Sociales)"
 author: "Renaut, Laurène"
 authors: "Renaut, Laurène"

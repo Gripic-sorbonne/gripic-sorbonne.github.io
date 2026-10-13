@@ -1,5 +1,5 @@
 ---
-uuid: cd664f2d-bbb1-4077-9f38-802b60d99c9c
+uuid: 4c614091-b663-4fa6-8787-f1ec576254d7
 title: "Quaderni. Autorité et pratiques de légitimation en ligne"
 author: "Candel, Etienne, Gkouskou-Giannakou, Pergia"
 authors: "Candel, Etienne, Gkouskou-Giannakou, Pergia"

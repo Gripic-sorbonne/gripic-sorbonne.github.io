@@ -1,5 +1,5 @@
 ---
-uuid: d00f6e27-52f0-401b-9199-920f5f4c7106
+uuid: 3f07a27e-ef37-49b1-a03b-8bb6173397f0
 title: "Semen - Revue de sémio-linguistique des textes et discours"
 author: "Bruneel, Emmanuelle"
 authors: "Bruneel, Emmanuelle"

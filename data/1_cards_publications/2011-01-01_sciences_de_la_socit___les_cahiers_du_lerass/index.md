@@ -1,5 +1,5 @@
 ---
-uuid: 8f5d9c99-b031-4c7e-834e-7d5f21c93186
+uuid: 688a07cd-36d5-4f8c-83cc-830e0fa9227a
 title: "Sciences de la société : Les cahiers du LERASS"
 author: "Quemener, Nelly"
 authors: "Quemener, Nelly"

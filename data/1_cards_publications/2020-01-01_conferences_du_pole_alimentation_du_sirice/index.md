@@ -1,5 +1,5 @@
 ---
-uuid: 8de91da6-98d5-4808-a4f2-1f166dc196f6
+uuid: 87344487-a66e-49c5-989e-fd441ea27479
 title: "CONFERENCES DU POLE ALIMENTATION DU SIRICE"
 author: "Pagès, Dominique"
 authors: "Pagès, Dominique"

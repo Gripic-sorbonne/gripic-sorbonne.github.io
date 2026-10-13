@@ -1,5 +1,5 @@
 ---
-uuid: 775c5df9-c59b-462a-bfdd-ec8e71f285bd
+uuid: 05d8736c-1982-408f-8731-3d8f661a6863
 title: "Gérer et Comprendre. Annales des Mines"
 author: "D'Almeida, nicole"
 authors: "D'Almeida, nicole"

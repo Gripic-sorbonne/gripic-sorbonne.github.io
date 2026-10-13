@@ -1,5 +1,5 @@
 ---
-uuid: b0090377-bb2c-4034-8510-cf7ac94e6c78
+uuid: cf3b0275-9120-4624-b1a9-1ac7a5a82b75
 title: "Cultural Mediations of Brands"
 author: "Marti, Caroline"
 authors: "Marti, Caroline"

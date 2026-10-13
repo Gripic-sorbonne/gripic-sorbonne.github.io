@@ -1,5 +1,5 @@
 ---
-uuid: 3a54f115-531a-478d-b711-1761f6f7b232
+uuid: b7b058ef-4674-4688-88cf-80d7feea4814
 title: "Ecran total/ Total Screen"
 author: "Fantin, Emmanuelle"
 authors: "Fantin, Emmanuelle"

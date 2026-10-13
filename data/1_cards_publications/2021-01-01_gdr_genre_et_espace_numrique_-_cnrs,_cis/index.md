@@ -1,5 +1,5 @@
 ---
-uuid: e1bd393d-bcf1-4ca5-a1a2-1b2ab7810236
+uuid: 4f061e63-0894-4a1a-93e0-043373f064e4
 title: "GDR Genre et Espace numérique - CNRS, CIS"
 author: "Grison, Thibault"
 authors: "Grison, Thibault"

@@ -1,5 +1,5 @@
 ---
-uuid: c72ce9bc-c2ad-44ff-bff5-7cb147263845
+uuid: c76622e8-0e7b-4811-ba24-a8d59164b6b1
 title: "Déjà plus, déjà là : la présentification et l'institution culturelle"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"

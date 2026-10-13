@@ -1,5 +1,5 @@
 ---
-uuid: 8c78a711-2e53-48f1-9fdd-ad3f36a86323
+uuid: 0fe6d6c9-6f70-4657-947e-c8f6aa6d214d
 title: "ARENAS General Meeting"
 author: "Vernet, Samuel, Renaut, Laurène"
 authors: "Vernet, Samuel, Renaut, Laurène"

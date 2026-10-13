@@ -1,5 +1,5 @@
 ---
-uuid: 34fad907-40b8-4aaf-8d23-495da414473e
+uuid: 9015c771-854c-4386-b688-ba4c84247bcb
 title: "Les Écoles de la République"
 author: "Souchier, Emmanuël"
 authors: "Souchier, Emmanuël"

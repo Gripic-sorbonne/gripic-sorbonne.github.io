@@ -1,5 +1,5 @@
 ---
-uuid: 32a67e70-a390-4f4d-a0f2-134e61a34937
+uuid: 5fedb2d7-c2a9-467c-99df-9e277c6a5be0
 title: "International Journal of Tourism Cities"
 author: "vergopoulos, hecate"
 authors: "vergopoulos, hecate"
