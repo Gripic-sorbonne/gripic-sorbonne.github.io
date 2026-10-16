@@ -1,5 +1,5 @@
 ---
-uuid: 6948008f-2737-4d2e-8df1-8ceae3de80dd
+uuid: f4564c0e-d51f-49f6-aa3c-36b028d33c02
 title: "Colloque international De l’injonction à la créativité à sa mise en oeuvre : quel parallèle entre monde de l’art et monde productif ?"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

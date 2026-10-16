@@ -1,5 +1,5 @@
 ---
-uuid: 3513d2d2-6e6e-4727-b42e-a8fb8a8de08f
+uuid: 35cbd1e3-af14-4899-85b6-58d6111e53bd
 title: "The 2024 Tsinghua Forum on Communicating EU-China Relations: Cultural Exchange and Trust Building"
 author: "Pei Lin, Yuwen Zhang"
 authors: "Pei Lin, Yuwen Zhang"

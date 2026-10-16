@@ -1,5 +1,5 @@
 ---
-uuid: 39b267eb-4560-4892-8d5f-cbdcd9ba3e55
+uuid: 621830ac-e068-4096-9930-7591c3c6d61f
 title: "Séminaire du GERiiCO"
 author: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"
 authors: "Ona Anglada Pujol, Thibault Grison, Florian Vörös"

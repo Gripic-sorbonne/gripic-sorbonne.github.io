@@ -1,5 +1,5 @@
 ---
-uuid: 8865f941-499d-45ee-abd8-350bde7c9e54
+uuid: 574daf32-5d8c-495b-ba6b-a251c5cebbf5
 title: "Modern and Contemporary France"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

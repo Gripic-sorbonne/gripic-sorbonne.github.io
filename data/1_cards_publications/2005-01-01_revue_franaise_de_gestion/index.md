@@ -1,5 +1,5 @@
 ---
-uuid: 044b5bac-b162-4999-afc7-1f811ae4fd5b
+uuid: 0be6e4dd-b71a-4c97-a19e-0985b8d759cf
 title: "Revue Française de Gestion"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

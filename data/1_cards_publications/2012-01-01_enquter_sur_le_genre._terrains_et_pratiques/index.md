@@ -1,5 +1,5 @@
 ---
-uuid: e353e373-f3d9-484e-98af-718fd4b53612
+uuid: 2f5b421c-a999-4970-afb6-c0c01828842b
 title: "Enquêter sur le genre. Terrains et pratiques"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: c026b522-d1ee-496f-a018-0c0fbdbe513a
+uuid: a6b91330-de6a-4b70-86fa-bab8fc11acfa
 title: "Stéréotypie des images"
 author: "Thierry Devars"
 authors: "Thierry Devars"

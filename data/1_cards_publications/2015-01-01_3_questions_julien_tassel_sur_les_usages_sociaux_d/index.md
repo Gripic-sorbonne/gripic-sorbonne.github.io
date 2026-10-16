@@ -1,5 +1,5 @@
 ---
-uuid: fa12353a-a574-452b-b1b2-3908cdc2aa3d
+uuid: f84578ad-c52d-4f43-85fe-9c185652130d
 title: "3 questions à Julien Tassel sur les usages sociaux du passé"
 author: "Julien Tassel"
 authors: "Julien Tassel"

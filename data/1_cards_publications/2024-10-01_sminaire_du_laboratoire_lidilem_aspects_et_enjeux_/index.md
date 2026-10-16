@@ -1,5 +1,5 @@
 ---
-uuid: 9e28bcfe-7c89-4bf9-9926-ef14066d10a4
+uuid: e2a93b2f-03de-42e0-9986-01f228e6d5b3
 title: "Séminaire du laboratoire Lidilem “ Aspects et enjeux sociaux du langage ”"
 author: "Laurène Renaut"
 authors: "Laurène Renaut"

@@ -1,5 +1,5 @@
 ---
-uuid: 7e1912e9-f3f6-47db-b857-91d0828d2513
+uuid: ff239868-58fa-42c1-bb3a-5332197963ec
 title: "À nouveaux consommateurs, nouveaux marketing"
 author: "Caroline Montety"
 authors: "Caroline Montety"

@@ -1,5 +1,5 @@
 ---
-uuid: 27572a2d-a45e-418f-941b-d1f41c666ca3
+uuid: e6ef2255-71cf-4f3d-a0e1-f206a4025c24
 title: "Journee d’etude Nouveaux recits et nouvelles ontologies dans le rapport à l’animal ? Mecanismes d’evolutions et resistances"
 author: "Coline Reille"
 authors: "Coline Reille"

@@ -1,5 +1,5 @@
 ---
-uuid: 868364a6-5991-49dd-a301-8b947719723c
+uuid: 0d988489-2e60-4dda-bb50-48862625ce5e
 title: "Présentation dans le cadre du séminaire du GRIPIC, Celsa"
 author: "Pauline Escande"
 authors: "Pauline Escande"

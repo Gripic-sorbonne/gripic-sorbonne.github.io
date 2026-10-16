@@ -1,5 +1,5 @@
 ---
-uuid: e862bac1-93b5-45af-aaa3-5b07a7c2699b
+uuid: a56ffeb5-b08d-4400-ade0-91445e087bc2
 title: "Suppression des comptes de Trump : on est à un point de bascule"
 author: "Pauline Escande"
 authors: "Pauline Escande"
