@@ -1,5 +1,5 @@
 ---
-uuid: a6ec5e3d-faac-43b0-a967-fdf4d2b61280
+uuid: c21b4b2a-a410-4ca7-a01e-f7cb5ec4d9da
 title: "Les Cahiers de Protagoras"
 author: "Thierry Devars"
 authors: "Thierry Devars"

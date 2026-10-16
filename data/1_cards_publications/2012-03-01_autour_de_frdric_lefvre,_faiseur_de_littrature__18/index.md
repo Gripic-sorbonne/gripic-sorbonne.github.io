@@ -1,5 +1,5 @@
 ---
-uuid: 18b30145-a08d-44f1-b322-48e84e291ab2
+uuid: 091d2ce8-0fc6-46f1-9a20-4e13250d48cf
 title: "Autour de Frédéric Lefèvre, faiseur de littérature (1889-1949), Journée d’études HIDIL"
 author: "Adeline Wrona"
 authors: "Adeline Wrona"

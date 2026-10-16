@@ -1,5 +1,5 @@
 ---
-uuid: 3092ca24-8733-4ebb-bea8-46c913b3bd03
+uuid: 1a9a8f42-b75d-4c79-83f1-6d86c8f246cc
 title: "La face cachée du genre : le rôle du langage dans la transmission et la contestation des normes"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

@@ -1,5 +1,5 @@
 ---
-uuid: 870ecc7b-abe9-4c20-b82c-77735814de8b
+uuid: ece9e130-f6af-4c53-8fd3-3cc1b754dd68
 title: "Journée d’étude ” HBO : séries d’élite, culture populaire ”"
 author: "Séverine Barthes"
 authors: "Séverine Barthes"

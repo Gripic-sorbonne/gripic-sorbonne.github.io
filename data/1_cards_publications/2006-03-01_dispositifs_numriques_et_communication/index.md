@@ -1,5 +1,5 @@
 ---
-uuid: beacc5bb-a63f-486a-bffb-51ea827ff740
+uuid: b6a065c7-b910-4d01-9a8a-8de812791138
 title: "Dispositifs numériques et communication"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

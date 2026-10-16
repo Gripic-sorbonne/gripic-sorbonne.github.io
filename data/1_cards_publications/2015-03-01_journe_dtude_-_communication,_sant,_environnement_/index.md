@@ -1,5 +1,5 @@
 ---
-uuid: e8b273a1-2477-45b2-82c2-1207f00c878c
+uuid: 036674ac-4425-4619-84c4-8f0e796948ca
 title: "Journée d’étude - Communication, Santé, Environnement - IRSIC"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

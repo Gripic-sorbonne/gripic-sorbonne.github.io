@@ -1,5 +1,5 @@
 ---
-uuid: 48001634-fa91-48e4-9ba0-d8d14cdd1e67
+uuid: a3925eb8-61a7-4ffd-a663-4bf55c4b27e1
 title: "Séminaire Ecritures Contemporaines du voyage, nouveaux itinéraires poétiques"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

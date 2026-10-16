@@ -1,5 +1,5 @@
 ---
-uuid: 7f6c15fb-0523-4d62-9741-a64bd03a5b2e
+uuid: b137c120-66d5-4545-97f9-8fe4ee01f788
 title: "Rhétorique du visible. Stratégies de l’image entre signification et communication"
 author: "Caroline Marti"
 authors: "Caroline Marti"

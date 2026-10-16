@@ -1,5 +1,5 @@
 ---
-uuid: 13b8e203-efa1-4121-ae9b-59dfb9bbc345
+uuid: ed698616-73e9-4c6b-b003-9fb6d9deb995
 title: "Méthodes de recherche sur l’information et la communication - Regards croisés"
 author: "Nelly Quemener, Maxime Cervulle"
 authors: "Nelly Quemener, Maxime Cervulle"

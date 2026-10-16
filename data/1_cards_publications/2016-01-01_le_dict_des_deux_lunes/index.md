@@ -1,5 +1,5 @@
 ---
-uuid: 372ed4fc-dfff-46c3-b9bc-8d4242176ca1
+uuid: 0888bd6d-9e77-45fc-bd31-e24a16e173da
 title: "Le dict des deux Lunes"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

@@ -1,5 +1,5 @@
 ---
-uuid: a2c269e6-ec71-4521-9e3d-156b6989d0dd
+uuid: a3a7be29-ff85-447d-8425-f1cfd91ba2f5
 title: "IEEE Xplore"
 author: "Julie Tores, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Frédéric Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"
 authors: "Julie Tores, Lucile Sassatelli, Hui-Yin Wu, Clement Bergman, Lea Andolfi, Victor Ecrement, Frédéric Precioso, Thierry Devars, Magali Guaresi, Virginie Julliard, Sarah Lecossais"

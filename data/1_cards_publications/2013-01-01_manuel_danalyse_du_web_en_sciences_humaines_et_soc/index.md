@@ -1,5 +1,5 @@
 ---
-uuid: a49f1f6d-fe14-4c38-a185-66311d9c35b1
+uuid: cf66a6fc-cc50-4bf9-87e2-560c705755e2
 title: "Manuel d’analyse du Web en sciences humaines et sociales"
 author: "Etienne Candel, Gustavo Gomez-Mejia"
 authors: "Etienne Candel, Gustavo Gomez-Mejia"

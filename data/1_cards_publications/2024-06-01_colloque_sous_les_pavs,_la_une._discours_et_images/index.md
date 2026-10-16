@@ -1,5 +1,5 @@
 ---
-uuid: c8197886-5d17-4450-9c76-c13e7adae36b
+uuid: c2aa7166-eb89-45a7-bd0f-a29b5cbd92d8
 title: "Colloque ”Sous les pavés, la Une. Discours et images de la violence contestataire”"
 author: "Lucille Lamache"
 authors: "Lucille Lamache"

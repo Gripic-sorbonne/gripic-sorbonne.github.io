@@ -1,5 +1,5 @@
 ---
-uuid: 6fefcce7-3f3e-4ab1-bdf0-8f6d9b4e6f0f
+uuid: 0405a65c-037d-4e4c-9d86-991b7d617066
 title: "Identité, représentation et reconnaissance culturelle. Le lien social à l’épreuve de la pluriculturalité"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"
