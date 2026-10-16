@@ -1,5 +1,5 @@
 ---
-uuid: b32e8bcb-3ab5-4fb2-9b17-8eb856436e1f
+uuid: 42333603-ec28-47e1-a268-c28e979217e8
 title: "Society for Risk Analysis-Europe 22st Annual Conference 2013"
 author: "Silke Gloaguen, Roh-Pin Pin Lee, François Allard-Huver"
 authors: "Silke Gloaguen, Roh-Pin Pin Lee, François Allard-Huver"

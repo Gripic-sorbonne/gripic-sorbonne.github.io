@@ -1,5 +1,5 @@
 ---
-uuid: 465671e9-80d8-4f8e-b80f-2c87e034fde9
+uuid: a1fcd667-c632-4aac-82bb-7a658b1d97b5
 title: "Négociations"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"

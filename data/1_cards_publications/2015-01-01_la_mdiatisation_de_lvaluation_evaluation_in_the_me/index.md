@@ -1,5 +1,5 @@
 ---
-uuid: fd194069-6c77-4e59-b9d4-e08496a7b8e2
+uuid: 4c82d01c-1bbd-448e-ad34-2801aa30bb62
 title: "La médiatisation de l’évaluation – Evaluation in the Media"
 author: "Etienne Candel"
 authors: "Etienne Candel"

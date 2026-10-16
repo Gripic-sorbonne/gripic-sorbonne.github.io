@@ -1,5 +1,5 @@
 ---
-uuid: ddb2802a-175c-45c8-925c-5f868394c4ab
+uuid: 75b86a72-147b-4c72-841e-42207c2426eb
 title: "A participatory democracy for capitalists. The TYNDP as a tool for the collective governance of EU energy investments"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

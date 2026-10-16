@@ -1,5 +1,5 @@
 ---
-uuid: 786482f9-121d-44dc-a3aa-6c659e69d94a
+uuid: 46257e3d-3976-456f-aeef-6f1c2fd88289
 title: "Temporalités : revue de sciences sociales et humaines"
 author: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"
 authors: "Nelly Quemener, Jamil Dakhlia, Lucien Castex"

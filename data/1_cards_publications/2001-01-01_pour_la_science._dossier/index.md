@@ -1,5 +1,5 @@
 ---
-uuid: 04a722fb-bece-4db3-bdd6-261399d9c550
+uuid: 6132f314-b815-462e-a1e6-ec7c5e0ab4b9
 title: "Pour la Science. Dossier"
 author: "Emmanuël Souchier, Yves Jeanneret"
 authors: "Emmanuël Souchier, Yves Jeanneret"

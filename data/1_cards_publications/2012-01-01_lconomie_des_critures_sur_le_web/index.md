@@ -1,5 +1,5 @@
 ---
-uuid: cd4ecaf9-e62d-4ae6-9041-ee90c6d3c3e5
+uuid: 316a8270-1067-406b-a927-b261ff1811b3
 title: "L’économie des écritures sur le web"
 author: "Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier"
 authors: "Etienne Candel, Valérie Jeanne-Perrier, Emmanuël Souchier"

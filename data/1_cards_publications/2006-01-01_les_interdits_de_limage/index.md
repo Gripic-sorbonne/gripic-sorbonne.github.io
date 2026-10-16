@@ -1,5 +1,5 @@
 ---
-uuid: 8d4977df-57aa-4c3a-9f5d-ba6339cecc3b
+uuid: bc6fded2-8c21-4de5-a9ef-8686152a76d7
 title: "Les interdits de l’image"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

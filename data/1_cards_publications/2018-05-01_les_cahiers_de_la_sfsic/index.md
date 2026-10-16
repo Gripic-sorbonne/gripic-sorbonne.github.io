@@ -1,5 +1,5 @@
 ---
-uuid: 63bc805d-de21-49b6-bcee-79e05e45b5d0
+uuid: 72caf2b0-6e72-4fbd-9b64-bcaff02f275a
 title: "Les Cahiers de la SFSIC"
 author: "Laurent Petit"
 authors: "Laurent Petit"

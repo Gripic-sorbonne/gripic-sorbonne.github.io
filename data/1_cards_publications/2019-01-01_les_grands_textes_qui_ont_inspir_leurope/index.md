@@ -1,5 +1,5 @@
 ---
-uuid: adb285c0-59d2-4012-8beb-a7786abd1a7f
+uuid: 9021cf65-8f24-4933-b987-252c498c5eac
 title: "Les grands textes qui ont inspiré l’Europe"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

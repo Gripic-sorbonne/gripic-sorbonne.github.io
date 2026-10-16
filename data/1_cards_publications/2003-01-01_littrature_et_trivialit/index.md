@@ -1,5 +1,5 @@
 ---
-uuid: 16c9d5d1-ed44-40cb-ac04-c707223ff6f8
+uuid: 90afacbc-abf6-4a4e-9af5-b431713f1443
 title: "Littérature et trivialité"
 author: "Yves Jeanneret, Emmanuël Souchier"
 authors: "Yves Jeanneret, Emmanuël Souchier"

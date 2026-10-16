@@ -1,5 +1,5 @@
 ---
-uuid: c36d17a5-f97d-42c0-bc44-bb6b44cdc32a
+uuid: 978f8df1-279b-4634-b671-50e3041d8369
 title: "Séminaire ”Légitimité, légitimation”"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"

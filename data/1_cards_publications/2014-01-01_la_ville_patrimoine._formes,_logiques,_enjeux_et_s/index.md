@@ -1,5 +1,5 @@
 ---
-uuid: 8bc2a61b-6ae9-4248-a5bc-411b451d823a
+uuid: 9d151de9-7b35-4923-aaae-43790a0f5ca7
 title: "La ville patrimoine. Formes, logiques, enjeux et stratégies"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

@@ -1,5 +1,5 @@
 ---
-uuid: 6c505880-89e9-4e0d-9b8a-a20274751e24
+uuid: e5914730-19e1-4b30-be8c-a337bcb8a053
 title: "چگونگی بازنمایی شهر در ادبیات و سینما، تهران و پاریس"
 author: "Anita SALEH BOLOURDI, Abolhassan Riazi"
 authors: "Anita SALEH BOLOURDI, Abolhassan Riazi"

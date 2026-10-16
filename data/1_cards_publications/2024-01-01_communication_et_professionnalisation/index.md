@@ -1,5 +1,5 @@
 ---
-uuid: ddd58104-b248-46f8-b242-b01831d15103
+uuid: 91ad6ce5-faea-4558-8037-e41d19f00acd
 title: "Communication et professionnalisation"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"
