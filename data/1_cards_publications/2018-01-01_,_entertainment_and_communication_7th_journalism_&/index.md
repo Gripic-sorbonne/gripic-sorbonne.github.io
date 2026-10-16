@@ -1,5 +1,5 @@
 ---
-uuid: 66cf4de7-2961-4c73-a228-cc9301d263a5
+uuid: 2a1e9409-8d1b-4c53-a5ae-889b55ceba86
 title: ", Entertainment and Communication 7th Journalism & Mass Communications Conference, JMComm 2018"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

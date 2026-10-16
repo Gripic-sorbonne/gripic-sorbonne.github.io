@@ -1,5 +1,5 @@
 ---
-uuid: c4ce9349-a423-4994-8ec3-63a2a1956014
+uuid: 49d6422b-6bf7-4d95-b547-b1ee3e54fb84
 title: "Le partage photographique"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"

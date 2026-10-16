@@ -1,5 +1,5 @@
 ---
-uuid: 8e96e81a-a511-4dd8-8b09-17ca60772e0d
+uuid: 81d3fb8b-a1ba-4a2e-abc0-afb0447bd90c
 title: "En quête d’archives. Bricolages méthodologiques en terrains médiatiques"
 author: "Nelly Quemener, Sarah Lécossais"
 authors: "Nelly Quemener, Sarah Lécossais"

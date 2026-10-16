@@ -1,5 +1,5 @@
 ---
-uuid: 8a1b0ceb-3410-4fae-b550-d4c6979de601
+uuid: 8d654427-abff-48a8-b544-7ae6c9520b74
 title: "Les usages publics du passé en temps de présentisme"
 author: "François Hartog, Julien Tassel"
 authors: "François Hartog, Julien Tassel"

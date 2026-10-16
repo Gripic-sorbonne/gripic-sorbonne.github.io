@@ -1,5 +1,5 @@
 ---
-uuid: 2dde4c85-8653-4ca8-b96b-5f88f9d37294
+uuid: dd01241b-e079-4d9c-850e-31ce8e2f4fd7
 title: "Journée d’étude Culture(s) de l’enquête"
 author: "Julien Tassel, Olivia Foli"
 authors: "Julien Tassel, Olivia Foli"

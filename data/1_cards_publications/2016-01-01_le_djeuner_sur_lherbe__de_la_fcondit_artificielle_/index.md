@@ -1,5 +1,5 @@
 ---
-uuid: b95d23d6-8c35-49d1-960e-ee21f4259c66
+uuid: 80651fbe-cd1b-4df8-8971-3c2dc4dd08e9
 title: "Le déjeuner sur l’herbe: de la fécondité artificielle à la fertilité de la nature?"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

@@ -1,5 +1,5 @@
 ---
-uuid: 3531cb86-df51-493a-89bc-55c00bb169f2
+uuid: 630d2c9c-cdd2-400d-99ca-ef70b653d871
 title: "Mémoires du livre / Studies in Book Culture"
 author: "Agathe Nicolas"
 authors: "Agathe Nicolas"

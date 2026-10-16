@@ -1,5 +1,5 @@
 ---
-uuid: c1ac5fbd-8c31-442e-b615-f0909c0028f2
+uuid: 70f9775f-30ac-46b4-8890-e1e2ddb6af46
 title: "Sociétés Plurielles"
 author: "Emmanuelle Bruneel"
 authors: "Emmanuelle Bruneel"

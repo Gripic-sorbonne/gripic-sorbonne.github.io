@@ -1,5 +1,5 @@
 ---
-uuid: ceee89ce-8202-4bd2-ab55-9cd8f58d18b3
+uuid: c037a13e-065d-4411-8d53-db4e97ccdead
 title: "Utopies: approches croisées"
 author: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"
 authors: "Dominique Pagès, Lucien Sfez, Marc Choplet, Musso Pierre"

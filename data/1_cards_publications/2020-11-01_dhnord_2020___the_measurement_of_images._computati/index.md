@@ -1,5 +1,5 @@
 ---
-uuid: 272c3fcc-dabe-4fd6-a87a-75ace0b374f0
+uuid: 6b918c13-0691-4b95-960b-90a0bd36e534
 title: "DHNord 2020 : The measurement of images. Computational approaches in the history and theory of the arts"
 author: "Pierre-Carl Langlais"
 authors: "Pierre-Carl Langlais"

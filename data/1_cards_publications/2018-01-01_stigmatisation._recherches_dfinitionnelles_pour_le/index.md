@@ -1,5 +1,5 @@
 ---
-uuid: c697607e-0cc9-44f4-a6cf-dc2600e206a5
+uuid: 8e40d98f-6caa-4fe3-9b6b-2dfaa19fc017
 title: "”Stigmatisation”. Recherches définitionnelles pour l’exposition “ Nous et les autres. Des préjugés au racisme ” (Musée de l’Homme) et un livret à destination du centre de ressources du musée"
 author: "Ambre Abid-Dalençon"
 authors: "Ambre Abid-Dalençon"

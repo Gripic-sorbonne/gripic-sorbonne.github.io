@@ -1,5 +1,5 @@
 ---
-uuid: 1608fd95-dd21-49ad-82fc-c6b7febfb69f
+uuid: 16443361-5704-423a-8812-db3de8723c06
 title: "Conference inaugurale du Colloque international des chercheurs en publicite et propagande du Brésil. “ Consumo, Existência, Resistência ”"
 author: "Caroline Marti"
 authors: "Caroline Marti"

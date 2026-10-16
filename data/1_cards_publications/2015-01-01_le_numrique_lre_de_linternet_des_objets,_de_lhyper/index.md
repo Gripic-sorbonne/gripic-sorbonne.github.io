@@ -1,5 +1,5 @@
 ---
-uuid: f4ded8ee-3f3b-4cd2-b233-db2ff011eda9
+uuid: 43162c2c-8e7b-4b44-93cf-06660bc4c4b7
 title: "Le numérique à l’ère de l’Internet des objets, de l’hypertexte à l’hyper-objet"
 author: "Imad Saleh, Valerie Carayol, Sylvie Leleu-Merviel, Luc Massou, Ioan Roxin, François Soulages, Adeline Wrona, Zlackad Manuel, Nasreddine Bouhai"
 authors: "Imad Saleh, Valerie Carayol, Sylvie Leleu-Merviel, Luc Massou, Ioan Roxin, François Soulages, Adeline Wrona, Zlackad Manuel, Nasreddine Bouhai"

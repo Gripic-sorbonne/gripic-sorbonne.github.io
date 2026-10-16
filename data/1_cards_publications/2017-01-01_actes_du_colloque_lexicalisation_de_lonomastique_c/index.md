@@ -1,5 +1,5 @@
 ---
-uuid: cca2712b-2357-44c2-999e-cad892b612e1
+uuid: ae0dc3b2-6740-45ee-aec7-2b4c8e394477
 title: "Actes du colloque ”Lexicalisation de l’onomastique commerciale. Créer, diffuser, intégrer”, Université de Naples “ L’Orientale ,” 2017"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

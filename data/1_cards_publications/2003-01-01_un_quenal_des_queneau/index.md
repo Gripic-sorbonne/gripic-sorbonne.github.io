@@ -1,5 +1,5 @@
 ---
-uuid: 9e98a853-6f6a-4a97-b196-726d1f555deb
+uuid: 4a973a5f-1979-4892-9ecd-5b59d51b2533
 title: "Un Quenal des Queneau"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

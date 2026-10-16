@@ -1,5 +1,5 @@
 ---
-uuid: c9d9f554-deee-4b7b-906f-fbd3c2dcf977
+uuid: 8b473300-5ad4-4ba0-83eb-a604a47e600b
 title: "Coloquio doctoral"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

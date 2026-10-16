@@ -1,5 +1,5 @@
 ---
-uuid: 49376806-3e7b-467f-857c-517c957d8ea7
+uuid: 25f51615-6938-44cc-9b75-800bb07f50de
 title: "Mots d’ouverture de la journée d’accélération du projet ciblé EUPRAXIE intitulée ”Les ICC contre la désinformation : quels outils créatifs et ludiques ?”"
 author: "Sandra Laugier, Sylvie Allouche, Flore Di Sciullo, Arnaud Mercier, Pauline Escande Gauquié"
 authors: "Sandra Laugier, Sylvie Allouche, Flore Di Sciullo, Arnaud Mercier, Pauline Escande Gauquié"

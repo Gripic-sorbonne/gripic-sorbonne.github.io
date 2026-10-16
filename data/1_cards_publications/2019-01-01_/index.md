@@ -1,5 +1,5 @@
 ---
-uuid: 18beb4c6-6ef8-42a5-bffb-b39e54ca490e
+uuid: 1380a17f-aecd-4859-918d-4076d5563d70
 title: "نگاهی به نشانه شناسی رسانه"
 author: "Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi"
 authors: "Anita SALEH BOLOURDI, Maryam Mahdavi, Leyla Ejtehadi, Nafiseh Alipoor, Fatemeh Jafari, Mohammad Nejabati, Somayeh Chaychi, Mahmood Karimi Alavi"

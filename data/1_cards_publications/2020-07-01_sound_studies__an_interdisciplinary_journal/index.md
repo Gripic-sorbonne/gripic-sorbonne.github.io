@@ -1,5 +1,5 @@
 ---
-uuid: cecfe426-0951-472c-820b-8ed135c6c6fa
+uuid: 4e8a4681-abc8-453e-8343-62f9d0f575e1
 title: "Sound Studies: An Interdisciplinary Journal"
 author: "Guillaume Heuguet"
 authors: "Guillaume Heuguet"

@@ -1,5 +1,5 @@
 ---
-uuid: b75e8743-f4f3-42ce-9797-e27388e78353
+uuid: fba437ad-05cb-4df3-83d3-1d14b2d12d64
 title: "YouTube et le clip : nouvelles esthétiques et transformations génériques"
 author: "Carol Vernallis, Guillaume Heuguet, Dario Rudy"
 authors: "Carol Vernallis, Guillaume Heuguet, Dario Rudy"
