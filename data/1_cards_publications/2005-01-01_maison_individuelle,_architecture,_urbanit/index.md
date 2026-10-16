@@ -1,5 +1,5 @@
 ---
-uuid: dce7ff98-eabe-45a4-955c-33064d81ebbc
+uuid: 3a9edae8-3dfe-4d32-a02f-b86dfcae9ad5
 title: "Maison individuelle, architecture, urbanité"
 author: "Sophie Corbillé, Michèle Pradelle"
 authors: "Sophie Corbillé, Michèle Pradelle"

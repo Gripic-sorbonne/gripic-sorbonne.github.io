@@ -1,5 +1,5 @@
 ---
-uuid: 7ab08e69-c3e1-4b63-8b24-fa255ae63f70
+uuid: 4702bd3b-49ac-4c14-96a0-f1302d9837a9
 title: "Genealogies of online content identification"
 author: "Maria Eriksson, Guillaume Heuguet"
 authors: "Maria Eriksson, Guillaume Heuguet"

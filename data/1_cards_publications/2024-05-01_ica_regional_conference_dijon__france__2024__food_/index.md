@@ -1,5 +1,5 @@
 ---
-uuid: 686bfaae-2003-453a-b64d-d0921328912d
+uuid: 00e3b750-6fc2-409b-a33a-c97c29783b43
 title: "ICA Regional Conference – Dijon (France) 2024: Food and Communication"
 author: "Yuwen Zhang"
 authors: "Yuwen Zhang"

@@ -1,5 +1,5 @@
 ---
-uuid: d305069a-0a5a-4e8c-8e32-16ba31d2a32e
+uuid: 0d317435-534a-43de-886f-2eab2d2de2bf
 title: "12ème Congrès de l’Association Française de Science Politique. ”Inégalités et Démocratie”"
 author: "Isabelle LE BRETON-FALEZAN"
 authors: "Isabelle LE BRETON-FALEZAN"

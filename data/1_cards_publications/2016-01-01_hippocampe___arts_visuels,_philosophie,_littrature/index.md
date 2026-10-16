@@ -1,5 +1,5 @@
 ---
-uuid: 4fea55e1-78b9-4c25-9bb9-147194b3ff44
+uuid: 245cbbc6-4b77-4d23-b2f0-06f3334ae2b5
 title: "Hippocampe : arts visuels, philosophie, littérature"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

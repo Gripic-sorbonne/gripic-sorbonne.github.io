@@ -1,5 +1,5 @@
 ---
-uuid: 591176c2-9fc2-40e3-802d-9ae7fd71bd34
+uuid: b437033b-3ca1-4721-9641-4292db170626
 title: "Digital Humanities Luxembourg - Websites as sources: how should humanities and social sciences approach, use and diffuse publicly available online sources?"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

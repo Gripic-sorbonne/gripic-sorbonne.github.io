@@ -1,5 +1,5 @@
 ---
-uuid: e6573a2b-7068-4f13-99b9-3e1ab31d55d7
+uuid: e483bfb7-dc67-4510-92ae-ea504ddb14b4
 title: "Revue PUBLICS"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

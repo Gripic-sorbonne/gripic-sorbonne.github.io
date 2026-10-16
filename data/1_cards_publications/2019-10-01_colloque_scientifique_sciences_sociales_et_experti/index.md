@@ -1,5 +1,5 @@
 ---
-uuid: ada91d7d-5fc3-4eab-ad68-75415e931c26
+uuid: 2902c986-e0bc-41f7-b75a-896eeeb4cda3
 title: "Colloque scientifique ”Sciences sociales et expertises dans les mondes sociaux et politiques contemporains” - Sciences Po Rennes"
 author: "Antoine Lalande"
 authors: "Antoine Lalande"

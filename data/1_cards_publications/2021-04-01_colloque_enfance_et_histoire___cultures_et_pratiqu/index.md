@@ -1,5 +1,5 @@
 ---
-uuid: d71f873f-5c0f-491c-b735-d39a380a0157
+uuid: 01486b98-0f67-4cb3-b855-e15809949762
 title: "Colloque “ Enfance et histoire : cultures et pratiques enfantines du passé ”"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

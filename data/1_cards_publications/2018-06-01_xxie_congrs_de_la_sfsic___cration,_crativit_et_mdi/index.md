@@ -1,5 +1,5 @@
 ---
-uuid: b26ac826-7abd-4fdd-8c42-322142e937d5
+uuid: 1db2cb72-1a34-479e-9a16-b8a6fd9d85f6
 title: "XXIe Congrés de la SFSIC : Création, créativité et médiations"
 author: "Johan Boittiaux"
 authors: "Johan Boittiaux"

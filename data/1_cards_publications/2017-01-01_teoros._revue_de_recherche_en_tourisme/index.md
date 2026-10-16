@@ -1,5 +1,5 @@
 ---
-uuid: 5e72ef8e-9d95-4b00-ba8a-46140c7aa2c2
+uuid: b4e03cc8-36bf-4982-9a02-b416b47336a8
 title: "Teoros. Revue de recherche en tourisme"
 author: "Sophie Corbillé"
 authors: "Sophie Corbillé"

@@ -1,5 +1,5 @@
 ---
-uuid: 9447f713-f6cc-4770-ac3d-bd46ba3b9b52
+uuid: dc2f7212-a791-4b54-b296-b3946f3aab26
 title: "Navigation sans instruments"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

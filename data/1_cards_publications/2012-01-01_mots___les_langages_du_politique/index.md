@@ -1,5 +1,5 @@
 ---
-uuid: b53858ea-522f-466f-adfc-a9abc97f24ff
+uuid: 3f0ce40d-f8f3-4df4-aed7-184d8ec912ad
 title: "Mots : les langages du politique"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

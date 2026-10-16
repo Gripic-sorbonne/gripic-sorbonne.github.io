@@ -1,5 +1,5 @@
 ---
-uuid: d81a4956-de11-4588-a843-8a21d33fe119
+uuid: b9fddce5-b4f1-496e-891a-5ef38d67b553
 title: "Le Journal des psychologues"
 author: "Oriane Deseilligny"
 authors: "Oriane Deseilligny"

@@ -1,5 +1,5 @@
 ---
-uuid: 856ee0f4-ac96-4ddb-a508-b7fa854d0248
+uuid: 404bd8b9-1900-4600-b435-afa5947df683
 title: "Regards croisés entre la sociologie de la communication et la sociologie des sciences et des techniques"
 author: "Valerie Jeanne Perrier"
 authors: "Valerie Jeanne Perrier"
