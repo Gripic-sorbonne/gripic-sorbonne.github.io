@@ -1,5 +1,5 @@
 ---
-uuid: b7202aa6-969c-44eb-b9d2-f395bec8c2fb
+uuid: 0cf1ec3d-e96c-4b00-992e-53aa7654dfe1
 prettyName: MarineBuffard
 
 title: "Marine Buffard"

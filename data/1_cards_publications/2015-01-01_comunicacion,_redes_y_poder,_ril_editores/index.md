@@ -1,5 +1,5 @@
 ---
-uuid: b9bd3d5f-16d5-49a2-9a06-e4a4ca5c9039
+uuid: 406e81dc-1b8c-4567-8628-79c22cadeb42
 title: "Comunicacion, Redes y Poder, Ril Editores"
 author: "nicole D’Almeida, Nicolas Baygert"
 authors: "nicole D’Almeida, Nicolas Baygert"

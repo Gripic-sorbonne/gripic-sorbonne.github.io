@@ -1,5 +1,5 @@
 ---
-uuid: 69bc7c29-23c7-4791-a853-e8dcf94867ff
+uuid: 4fd18953-3d67-49d3-b698-950c44386cdb
 title: "L’étoile de Pénélope"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

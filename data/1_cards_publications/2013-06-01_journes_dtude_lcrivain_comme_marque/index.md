@@ -1,5 +1,5 @@
 ---
-uuid: 33cdbf4b-6884-452f-9795-890e241db197
+uuid: 456b47fe-3971-403d-a076-3453a5df5589
 title: "Journées d’étude L’écrivain comme marque"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

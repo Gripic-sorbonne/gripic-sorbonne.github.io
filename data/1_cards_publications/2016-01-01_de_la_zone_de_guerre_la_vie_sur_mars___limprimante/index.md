@@ -1,5 +1,5 @@
 ---
-uuid: 285538f2-ce0d-4316-918b-3a26359d55ad
+uuid: 28251346-26a2-4199-93c7-ecd1a864e6b5
 title: "De la zone de guerre à la vie sur Mars : l’imprimante alimentaire 3 D pour survivre en espace hostile"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

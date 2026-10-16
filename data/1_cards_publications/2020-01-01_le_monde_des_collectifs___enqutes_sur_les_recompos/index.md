@@ -1,5 +1,5 @@
 ---
-uuid: 26cc80d1-cc2a-4149-9ab0-0c4bd4631ef0
+uuid: c040a7d1-9f22-4987-bd3c-f59720767c0b
 title: "Le monde des collectifs : enquêtes sur les recompositions du travail"
 author: "Frédéric Rey, Claire Vivès, Christine Audoux, Christian Azaïs, Camille Boullier, Mihaï Dinu Gheorghiu, Anne Eydoux, Anne-Marie Farmakides, Olivia Foli, Yannick Fondeur, Corinne Gaudart, Anne Gillet, Aurélie Gonnet, François Granier, Michel Lallement, Léa Lima, Murielle Matus, Michel Miné, Frédéric Moatty, Lucie Reboul, François Sarfati, Jérémy Therrien, Carole Tuchszirer, Samuel Zarka"
 authors: "Frédéric Rey, Claire Vivès, Christine Audoux, Christian Azaïs, Camille Boullier, Mihaï Dinu Gheorghiu, Anne Eydoux, Anne-Marie Farmakides, Olivia Foli, Yannick Fondeur, Corinne Gaudart, Anne Gillet, Aurélie Gonnet, François Granier, Michel Lallement, Léa Lima, Murielle Matus, Michel Miné, Frédéric Moatty, Lucie Reboul, François Sarfati, Jérémy Therrien, Carole Tuchszirer, Samuel Zarka"

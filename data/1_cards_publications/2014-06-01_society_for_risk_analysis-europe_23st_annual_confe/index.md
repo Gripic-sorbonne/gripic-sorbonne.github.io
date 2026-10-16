@@ -1,5 +1,5 @@
 ---
-uuid: ac19bdcd-ab25-4ee3-8bab-4f6825c4417e
+uuid: b646be33-b773-45f2-9371-ff4f8ae80ba3
 title: "Society for Risk Analysis-Europe 23st Annual Conference 2014"
 author: "Roh-Pin Pin Lee, François Allard-Huver"
 authors: "Roh-Pin Pin Lee, François Allard-Huver"

@@ -1,5 +1,5 @@
 ---
-uuid: d821c052-b5ab-463f-9f7c-569e0918dd51
+uuid: 332b9d40-d4ff-42eb-b649-43126d68b999
 title: "L’assignation de genre dans les médias. Attentes, perturbations, reconfigurations"
 author: "Juliette Charbonneaux"
 authors: "Juliette Charbonneaux"

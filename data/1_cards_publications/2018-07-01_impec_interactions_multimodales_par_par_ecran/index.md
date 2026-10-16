@@ -1,5 +1,5 @@
 ---
-uuid: efe79b94-fbc2-4f49-bc1d-610e20158f5b
+uuid: 6429fb38-e5a1-442c-864e-ee44430e6004
 title: "IMPEC “ Interactions Multimodales par Par Ecran ”"
 author: "Thierry Devars, Rym Gerwig-Kirèche, Marion Philippe"
 authors: "Thierry Devars, Rym Gerwig-Kirèche, Marion Philippe"

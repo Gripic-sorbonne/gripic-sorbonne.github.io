@@ -1,5 +1,5 @@
 ---
-uuid: 94cba5fb-086f-4941-a685-86ed0d08ed6e
+uuid: 8153295a-51ac-4c0e-96ed-16f950b3b056
 title: "8éme Colloque IAWIS/AIERTI - l’Association Internationale pour l’Étude des Rapports entre Texte et Image :”Éfficacité/Efficacy”"
 author: "Pauline Escande"
 authors: "Pauline Escande"

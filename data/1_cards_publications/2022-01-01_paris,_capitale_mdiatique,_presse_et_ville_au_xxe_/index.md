@@ -1,5 +1,5 @@
 ---
-uuid: 2cca2fe8-8aa6-4345-9be9-e83e3e945e6b
+uuid: 849ad13b-a823-40a0-bf7a-926248f3d409
 title: "Paris, capitale médiatique, Presse et ville au XXe siècle"
 author: "Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona"
 authors: "Sophie Corbillé, Emmanuelle Fantin, Adeline Wrona"

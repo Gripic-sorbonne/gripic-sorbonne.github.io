@@ -1,5 +1,5 @@
 ---
-uuid: 45d7a23d-09d3-4a67-b942-e69615b56e85
+uuid: 8ee9b40f-ea67-4237-a90d-7f7966aecc56
 title: "Brand Design : enjeux et perspectives. Premières journées de recherches sur le design de la marque"
 author: "Karine Berthelot-Guiet"
 authors: "Karine Berthelot-Guiet"

@@ -1,5 +1,5 @@
 ---
-uuid: c66e3f4e-c744-49f6-88fe-f3d11187bd23
+uuid: 444febe6-0532-462b-9c31-c58d0cdb678a
 title: "International Crisis & Risk Communication Conference, University of Central Florida, Orlando"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

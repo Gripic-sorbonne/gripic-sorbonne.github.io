@@ -1,5 +1,5 @@
 ---
-uuid: 65c83233-2f52-4908-ad23-92b72cc1ba56
+uuid: b3cd55a9-3b12-4b24-8f06-0ae590071586
 title: "Le lieu du design: l’exposition Impressions 3 D à la rencontre des nouvelles pratiques culinaires"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

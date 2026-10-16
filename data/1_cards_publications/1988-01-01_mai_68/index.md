@@ -1,5 +1,5 @@
 ---
-uuid: 7da85ddb-1350-4231-a9e4-b08b76b7a96d
+uuid: 77a44f74-d071-4d1a-9974-5eb4a2228ace
 title: "Mai 68"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"

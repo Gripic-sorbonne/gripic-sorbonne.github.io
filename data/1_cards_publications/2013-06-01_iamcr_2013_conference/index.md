@@ -1,5 +1,5 @@
 ---
-uuid: b7e5a15f-7780-460d-806d-4ec19787cb58
+uuid: c453ae90-cc58-48bd-9555-eb02abfdd937
 title: "IAMCR 2013 Conference"
 author: "Etienne Candel, Brian J. Bowe, François Allard-Huver"
 authors: "Etienne Candel, Brian J. Bowe, François Allard-Huver"

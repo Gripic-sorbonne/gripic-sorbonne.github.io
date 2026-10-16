@@ -1,5 +1,5 @@
 ---
-uuid: 918b588d-f6aa-45d1-ac9b-e15f247e9747
+uuid: 539b74e0-a270-47f5-85d0-0e0b7b702938
 title: "Distances et Médiations des Savoirs"
 author: "Olivier AÏM, Anneliese Depoux"
 authors: "Olivier AÏM, Anneliese Depoux"
