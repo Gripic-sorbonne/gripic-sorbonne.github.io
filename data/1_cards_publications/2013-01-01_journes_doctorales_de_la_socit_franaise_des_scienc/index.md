@@ -1,5 +1,5 @@
 ---
-uuid: 6c82684b-9447-45fc-92b5-22a84c7642c4
+uuid: ab8d92fb-1b80-4041-b561-ce09e2e5fce1
 title: "Journées doctorales de la Société Française des Sciences de l’Information et de la Communication (SFSIC)"
 author: "Emmanuelle Fantin"
 authors: "Emmanuelle Fantin"

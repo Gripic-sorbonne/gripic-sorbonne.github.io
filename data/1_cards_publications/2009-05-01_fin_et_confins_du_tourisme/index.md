@@ -1,5 +1,5 @@
 ---
-uuid: 449b7677-2230-4f5d-9b97-31d7cc35534f
+uuid: b2a8bba3-36eb-4b7b-abb1-50716d98bbde
 title: "Fin et confins du tourisme"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

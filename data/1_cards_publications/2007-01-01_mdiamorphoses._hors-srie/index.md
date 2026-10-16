@@ -1,5 +1,5 @@
 ---
-uuid: e8c8de5d-e382-4a09-a0e5-b63a86e356d4
+uuid: 356e4ce3-9306-4566-aa95-a5cd54aa85ee
 title: "MédiaMorphoses. Hors-série"
 author: "Olivier AÏM"
 authors: "Olivier AÏM"

@@ -1,5 +1,5 @@
 ---
-uuid: f1e031c7-f4f3-4568-914c-65c778ab6841
+uuid: 12179386-44aa-4828-8367-5f310ba4117a
 title: "Semiotics and Hermeneutics of the Everyday"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

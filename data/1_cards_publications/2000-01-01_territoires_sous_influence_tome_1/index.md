@@ -1,5 +1,5 @@
 ---
-uuid: 14ff8072-2b5f-4aac-9500-0a13f0ff03fb
+uuid: c396e3b6-5e85-4999-9df8-b8cbad00aaf8
 title: "Territoires sous Influence Tome 1"
 author: "Dominique Pagès, Nicolas Pélissier"
 authors: "Dominique Pagès, Nicolas Pélissier"

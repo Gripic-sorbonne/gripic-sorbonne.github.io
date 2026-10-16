@@ -1,5 +1,5 @@
 ---
-uuid: 7abb7a5a-2daa-410e-a185-221a9dbee290
+uuid: 78599d9b-1ec2-4d8b-b53b-e1de3378ae75
 title: "CONFERENCES DU POLE ALIMENTATION DU SIRICE"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

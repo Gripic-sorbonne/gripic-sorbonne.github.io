@@ -1,5 +1,5 @@
 ---
-uuid: 04b0a1a2-245a-4416-9d86-5d469d8f9e66
+uuid: 562b2f0a-c3bf-4138-a42d-b6c75873200e
 title: "Réceptions. Le genre à l’œuvre. Vol. 1. coll. “ Logiques sociales ”"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

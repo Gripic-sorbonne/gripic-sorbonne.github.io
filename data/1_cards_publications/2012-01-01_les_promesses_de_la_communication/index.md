@@ -1,5 +1,5 @@
 ---
-uuid: e69c0705-8f67-4831-8bb5-2a96997c97c1
+uuid: 7f88cc16-a481-411b-8945-2578eecae2a2
 title: "Les promesses de la communication"
 author: "nicole D’Almeida"
 authors: "nicole D’Almeida"

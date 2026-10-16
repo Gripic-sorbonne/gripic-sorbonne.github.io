@@ -1,5 +1,5 @@
 ---
-uuid: 79ccb8e9-6e58-473c-bc21-764847eaf583
+uuid: 23d503b9-e348-4216-a688-f6cf3df7a926
 title: "L’éthique du management : une promesse en question"
 author: "Véronique Richard, Laurence Eloy-Perrin, Florian Malaterre"
 authors: "Véronique Richard, Laurence Eloy-Perrin, Florian Malaterre"

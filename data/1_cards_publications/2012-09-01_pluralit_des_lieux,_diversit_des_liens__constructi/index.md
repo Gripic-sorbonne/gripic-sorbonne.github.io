@@ -1,5 +1,5 @@
 ---
-uuid: bc958b63-0a71-4b3f-87df-ad575c0fab1e
+uuid: 4d5d8279-d590-492c-8993-db5b07b4da4e
 title: "Pluralité des lieux, diversité des liens: construction de soi et ouverture à l’autre / Journées Nationales de Chambéry"
 author: "Dominique Pagès"
 authors: "Dominique Pagès"

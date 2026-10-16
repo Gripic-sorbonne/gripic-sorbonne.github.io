@@ -1,5 +1,5 @@
 ---
-uuid: b8b01c38-4b7e-442a-84e6-8dac310e45d7
+uuid: 7d7e46a6-0980-44b5-abdd-8c4326ef3cb8
 title: "Journées Risque, Communication et Développement durable, CNRS-ISCC"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

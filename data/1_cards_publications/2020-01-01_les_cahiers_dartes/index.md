@@ -1,5 +1,5 @@
 ---
-uuid: 94bc95dd-51c7-4bcc-b465-d6ed2e74669d
+uuid: 56a71779-c575-4c6d-b872-1626741e4278
 title: "Les Cahiers d’Artes"
 author: "Nelly Quemener"
 authors: "Nelly Quemener"

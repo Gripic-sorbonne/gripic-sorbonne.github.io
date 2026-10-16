@@ -1,5 +1,5 @@
 ---
-uuid: 44212c17-5e30-4072-9fdd-baf78b71b6c0
+uuid: 3c578377-26db-43a7-b0c6-a8a06b34695b
 title: "3ème journée d’études de l’ARCOM"
 author: "Yannick Zelle, Thibault Grison, Virginie Julliard"
 authors: "Yannick Zelle, Thibault Grison, Virginie Julliard"

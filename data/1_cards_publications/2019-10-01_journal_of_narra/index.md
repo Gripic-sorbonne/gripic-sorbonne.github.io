@@ -1,5 +1,5 @@
 ---
-uuid: 7f990078-7412-4994-ad2d-71ad4119d7cf
+uuid: 77f25827-a840-45e8-bf56-7bb5c2fcc79f
 title: "Journal of Narra"
 author: "Anita SALEH BOLOURDI, Mir Mohammadreza Heidari"
 authors: "Anita SALEH BOLOURDI, Mir Mohammadreza Heidari"

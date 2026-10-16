@@ -1,5 +1,5 @@
 ---
-uuid: 7acc9818-f0c1-4eb1-8b67-d7206ffee6fd
+uuid: 06f686e3-e491-4550-8dd8-7b1b517cd5e2
 title: "Cultures de l’enquête"
 author: "Pauline Escande"
 authors: "Pauline Escande"

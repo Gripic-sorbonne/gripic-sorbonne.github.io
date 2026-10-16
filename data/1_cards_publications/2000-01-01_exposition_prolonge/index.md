@@ -1,5 +1,5 @@
 ---
-uuid: 27a5c4a9-a718-4670-981c-9c9d8ae33698
+uuid: 0c350f22-af55-4213-81aa-ae097ff5f504
 title: "Exposition prolongée"
 author: "Emmanuël Souchier"
 authors: "Emmanuël Souchier"
