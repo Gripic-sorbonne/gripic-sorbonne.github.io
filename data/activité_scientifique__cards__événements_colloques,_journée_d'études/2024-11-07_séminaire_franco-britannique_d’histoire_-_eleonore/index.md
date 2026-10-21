@@ -1,5 +1,5 @@
 ---
-uuid: 75e84786-93df-42ed-921e-3f18538cd872
+uuid: 16560128-3c4c-465b-afeb-da492efc6e9f
 title: "Séminaire franco-britannique d’histoire - Eleonore Chanlat-Bernard, « La mise à l'agenda du problème des famines par l'État colonial britannique au Bengale en 1866 »"
 author: "Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France. (Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page)"
 date: "2024-11-07"

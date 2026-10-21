@@ -1,5 +1,5 @@
 ---
-uuid: 0ecd0dca-c764-438a-b56a-290842056b5e
+uuid: a5c9e725-4144-4fd3-b194-c9e9a9525d71
 title: "Master 2 Communication en transformation"
 abstract: ""
 url: "https://www.celsa.fr"
