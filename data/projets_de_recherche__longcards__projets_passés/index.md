@@ -1,5 +1,5 @@
 ---
-uuid: d4a0a2d9-99d8-4694-a7c6-3ff2b69de067
+uuid: 82a67465-ef71-42b5-b842-80ad05206352
 title: "Projets passés"
 menuGroup: "Projets de recherche"
 ---

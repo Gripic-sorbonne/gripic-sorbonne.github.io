@@ -1,5 +1,5 @@
 ---
-uuid: 75e339d2-7b9c-4818-9a3e-460b89d16875
+uuid: 1574800e-2b5a-4e9d-999d-47d9c3ee3c7b
 title: "Projets en cours"
 menuGroup: "Projets de recherche"
 ---
