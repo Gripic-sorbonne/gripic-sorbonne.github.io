@@ -1063,20 +1063,69 @@ def csv_to_markdown_international(csv_file: str, photo_header: str = "Photo"):
                 # md_file.write(generate_markdown_page_international(inter_dict=row, image_filename=target_image))
 
 
+# def csv_to_markdown_categories(csv_file_categories):
+#     with open(csv_file_categories, newline='', encoding='utf-8') as file:
+#         reader = csv.DictReader(file, delimiter=';') # <--- Configurado con delimitador ;
+        
+#         for row in reader:
+#             group_raw = row['groupe']
+#             type_ = row['type']
+#             name = row['nom']
+#             description = row['description']
+            
+#             group_clean = clean_folder_name(group_raw)
+#             clean_name = clean_folder_name(name)
+            
+#             # Sintaxis con doble guion bajo: nombre_menu__tipo__nombre_subpagina
+#             folder_name = f"{group_clean}__{type_}__{clean_name}"
+#             folder_path = DATA_DIR / folder_name
+
+#             if "membres" in folder_name:
+#                 global MEMBER_DIR
+#                 MEMBER_DIR = folder_path
+
+#             if "événements" in folder_name:
+#                 global EVENT_DIR
+#                 EVENT_DIR = folder_path
+
+#             if "publications" in folder_name:
+#                 global PUBLICATION_DIR
+#                 PUBLICATION_DIR = folder_path
+
+#             if "formation" in folder_name.lower():
+#                 global FORMATION_DIR
+#                 FORMATION_DIR = folder_path
+
+#             if "international" in folder_name.lower():
+#                 global INTERNATIONAL_DIR
+#                 INTERNATIONAL_DIR = folder_path
+            
+#             folder_path.mkdir(exist_ok=True, parents=True)
+#             index_file_path = folder_path / 'index.md'
+            
+#             with index_file_path.open(mode='w', encoding='utf-8') as index_file:
+#                 header = (f"---\n" +
+#                           f"uuid: {uuid.uuid4()}\n" +
+#                           f"title: \"{name.capitalize()}\"\n" +
+#                           f"menuGroup: \"{group_raw}\"\n" +
+#                           f"---\n")
+#                 content = header + description
+#                 index_file.write(content)
+
 def csv_to_markdown_categories(csv_file_categories):
     with open(csv_file_categories, newline='', encoding='utf-8') as file:
-        reader = csv.DictReader(file, delimiter=';') # <--- Configurado con delimitador ;
+        reader = csv.DictReader(file, delimiter=';')
         
         for row in reader:
-            group_raw = row['groupe']
-            type_ = row['type']
-            name = row['nom']
+            # Nettoyage des retours à la ligne et des guillemets pour éviter de casser le YAML
+            group_raw = row['groupe'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
+            type_ = row['type'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
+            name = row['nom'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
             description = row['description']
             
             group_clean = clean_folder_name(group_raw)
             clean_name = clean_folder_name(name)
             
-            # Sintaxis con doble guion bajo: nombre_menu__tipo__nombre_subpagina
             folder_name = f"{group_clean}__{type_}__{clean_name}"
             folder_path = DATA_DIR / folder_name
 
@@ -1111,7 +1160,6 @@ def csv_to_markdown_categories(csv_file_categories):
                           f"---\n")
                 content = header + description
                 index_file.write(content)
-
 
 # Pipeline d'exécution
 csv_file_member = './inputs/members.csv'

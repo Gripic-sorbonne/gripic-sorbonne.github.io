@@ -1,5 +1,5 @@
 ---
-uuid: 0d20057f-f534-4cdc-b71c-91c87c09b5b4
+uuid: 59f28d4e-496a-45ec-b5fc-876091cc2e14
 title: "Membres permanent·e·s (enseignant·e·s-chercheur·e·s et administratif·ve·s)"
 menuGroup: "L'équipe"
 ---
