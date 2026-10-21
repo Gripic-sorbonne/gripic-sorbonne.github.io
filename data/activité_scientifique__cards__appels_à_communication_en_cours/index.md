@@ -1,5 +1,5 @@
 ---
-uuid: 6a92e1a5-ae39-4952-92ba-5854f493171a
+uuid: 30e415f7-597a-4e48-a063-4d41df9645ee
 title: "Appels à communication en cours"
 menuGroup: "Activité scientifique"
 ---

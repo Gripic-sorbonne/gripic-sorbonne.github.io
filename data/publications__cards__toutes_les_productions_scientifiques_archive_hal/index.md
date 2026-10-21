@@ -1,5 +1,5 @@
 ---
-uuid: 8b11b5bd-e610-4271-9126-b5f1f2903774
+uuid: e0d0ca8c-f3f7-45f2-be1e-707208ad692a
 title: "Toutes les productions scientifiques (archive hal)"
 menuGroup: "Publications"
 ---
