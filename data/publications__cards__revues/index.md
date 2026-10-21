@@ -1,5 +1,5 @@
 ---
-uuid: 836bcb1f-6fea-49f4-9085-e02b5d7c1b75
+uuid: b2f89023-b80a-4847-bdf3-20328524e867
 title: "Revues"
 menuGroup: "Publications"
 ---
