@@ -1,5 +1,5 @@
 ---
-uuid: f47420dc-7f29-4159-8993-58b46699514d
+uuid: 92ab2f0b-c0b5-48dd-bddc-ad04dcf1b5de
 title: "Membres temporaires (doctorant·e·s, postdoctorant·e·s)"
 menuGroup: "L'équipe"
 ---
