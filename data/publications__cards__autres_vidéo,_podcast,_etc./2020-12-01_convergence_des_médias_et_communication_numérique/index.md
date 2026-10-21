@@ -1,0 +1,24 @@
+---
+uuid: b4d18c60-689c-4e46-b0f7-c0bae26fd099
+title: "Convergence des médias et Communication numérique"
+author: "Yuwen Zhang"
+authors: "Yuwen Zhang"
+abstract: "Yuwen Zhang"
+date: "2020-12-01"
+year: "2020"
+type: "paper-conference"
+url: "https://hal.science/hal-03773564"
+publisher: "School of Media & Communication, Shanghai Jiao Tong University"
+container_title: ""
+publication: true
+---
+
+<img src="./no_img.webp" width="300px" />
+
+## Informations sur la publication
+
+- **Auteurs:** Yuwen Zhang
+- **Type de publication:** paper-conference
+- **Éditeur:** School of Media & Communication, Shanghai Jiao Tong University
+- 🔗 **Lien HAL / Publication:** [https://hal.science/hal-03773564](https://hal.science/hal-03773564)
+

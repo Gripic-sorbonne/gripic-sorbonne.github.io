@@ -1,16 +1,27 @@
 nom;groupe;type;description
-"Qui sommes-nous";0;cards;"content qui somes nous"
-
-"Projet scientifique";0;cards;"content project scientifique"
-
-Axes de recherche;0;cards;"content axes..."
-
-
-"Collectifs et programmes de recherche";2;cards;
-
-
-"Formation à la recherche et au doctorat";2;longcards;"# Formation à la recherche et au doctorat"
-
-
-
-"International";2;longcards;"inter"
+"Qui sommes-nous ?";"Le GRIPIC";"longcards";"content related to Qui sommes-nous ?"
+"Projet scientifique";"Le GRIPIC";"longcards";"content related to Projet scientifique"
+"Axes de recherche";"Le GRIPIC";"longcards";"content related to Axes de recherche"
+"Organisation";"Le GRIPIC";"longcards";"content related to Organisation"
+"Membres permanent·e·s (enseignant·e·s-chercheur·e·s et administratif·ve·s)";"L'équipe";"longcards";"content related to Membres permanent·e·s"
+"Membres temporaires (doctorant·e·s, postdoctorant·e·s)";"L'équipe";"longcards";"content related to Membres temporaires"
+"Membres associé·e·s";"L'équipe";"longcards";"content related to Membres associé·e·s"
+"Échanges internationaux";"L'équipe";"longcards";"content related to Échanges internationaux"
+"Événements (colloques, journée d'études)";"Activité scientifique";"cards";"content related to Événements"
+"Séminaires et collectifs de recherche";"Activité scientifique";"cards";"content related to Séminaires et collectifs de recherche"
+"Le séminaire du GRIPIC";"Activité scientifique";"cards";"content related to Le séminaire du GRIPIC"
+"Appels à communication en cours";"Activité scientifique";"cards";"content related to Appels à communication en cours"
+"Travailler avec les tags ?";"Activité scientifique";"cards";"content related to Travailler avec les tags ?"
+"Toutes les productions scientifiques (archive HAL)";"Publications";"cards";"content related to Toutes les productions scientifiques"
+"Ouvrages";"Publications";"cards";"content related to Ouvrages"
+"Revues";"Publications";"cards";"content related to Revues"
+"Autres (vidéo, podcast, etc.)";"Publications";"cards";"content related to Autres"
+"Projets en cours";"Projets de recherche";"longcards";"content related to Projets en cours"
+"Projets passés";"Projets de recherche";"longcards";"content related to Projets de recherche"
+"Partenariats et participations internes à Sorbonne université";"Projets de recherche";"longcards";"content related to Partenariats internes"
+"Partenariats externes (institutions, entreprises, fondations)";"Projets de recherche";"longcards";"content related to Partenariats externes"
+"Programmes passés : parapluie";"Projets de recherche";"longcards";"content related to Programmes passés : parapluie"
+"Master ""Communication en transformation""";"Formation à la recherche et à l'enseignement";"longcards";"content related to Master Communication en transformation"
+"Formation doctorale";"Formation à la recherche et à l'enseignement";"longcards";"content related to Formation doctorale"
+"Inscriptions et financements";"Formation à la recherche et à l'enseignement";"longcards";"content related to Inscriptions et financements"
+"Soutenances et journées d'études du GRIPIC";"Formation à la recherche et à l'enseignement";"longcards";"content related to Soutenances et journées d'études du GRIPIC"
