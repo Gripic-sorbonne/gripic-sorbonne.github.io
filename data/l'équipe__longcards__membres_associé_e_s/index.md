@@ -1,5 +1,5 @@
 ---
-uuid: bcd3eea3-ec7d-47f1-90e5-311d5a9663d0
+uuid: b9e228c2-65a6-4124-9582-375320c7b51b
 title: "Membres associé·e·s"
 menuGroup: "L'équipe"
 ---
