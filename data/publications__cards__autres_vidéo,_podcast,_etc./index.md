@@ -1,5 +1,5 @@
 ---
-uuid: c7979d66-bb7e-4598-af95-0f058e1547c6
+uuid: 6654c950-0011-4cdf-9d72-746d4d4a8601
 title: "Autres (vidéo, podcast, etc.)"
 menuGroup: "Publications"
 ---

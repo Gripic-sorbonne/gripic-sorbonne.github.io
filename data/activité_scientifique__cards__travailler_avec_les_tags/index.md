@@ -1,5 +1,5 @@
 ---
-uuid: e70f56df-8427-46ef-9d10-d687d6051c45
+uuid: 76489dba-1f9e-44b3-b5cd-1b07595fcebe
 title: "Travailler avec les tags ?"
 menuGroup: "Activité scientifique"
 ---

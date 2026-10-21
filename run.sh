@@ -31,7 +31,7 @@ if git diff-index --quiet HEAD --; then
     git commit --allow-empty -m "trigger: re-run build"
 else
     # Request a commit message from the user or use a default message
-    COMMIT_MSG="${1:-update data (menus sstructure)}"
+    COMMIT_MSG="${1:-update data (menus structure-0)}"
     git commit -m "$COMMIT_MSG"
 fi
 
