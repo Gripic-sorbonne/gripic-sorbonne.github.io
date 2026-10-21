@@ -1,5 +1,5 @@
 ---
-uuid: 8b43d649-2de4-4376-a21f-9217fb816f2c
+uuid: 41f928a8-2ed1-4561-b631-0c92a5df9d33
 title: "Séminaires et collectifs de recherche"
 menuGroup: "Activité scientifique"
 ---
