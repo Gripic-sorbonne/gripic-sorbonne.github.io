@@ -1,5 +1,5 @@
 ---
-uuid: 6b38c4ee-1863-41a7-b47f-3a0badff3ba4
+uuid: 5580fe08-975c-4be0-ba29-f7a7c31b9d1a
 title: "Policy analysts as actors of political consensus. How capitalism is reproduced in the climate and energy scenarios of EU administrations"
 author: "Vanille Ecrement"
 authors: "Vanille Ecrement"

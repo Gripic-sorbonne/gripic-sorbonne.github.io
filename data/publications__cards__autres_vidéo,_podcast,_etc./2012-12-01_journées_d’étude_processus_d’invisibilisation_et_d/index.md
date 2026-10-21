@@ -1,5 +1,5 @@
 ---
-uuid: f123b4a9-8c07-4a95-8e74-47f36f2c53f1
+uuid: ec20f77a-a59a-46db-81ef-b87bb43a41c8
 title: "Journées d’étude Processus d’invisibilisation et de reconnaissance dans le travail"
 author: "Gérald Gaglio, Olivia Foli"
 authors: "Gérald Gaglio, Olivia Foli"

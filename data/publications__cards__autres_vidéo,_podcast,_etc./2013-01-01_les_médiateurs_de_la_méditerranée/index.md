@@ -1,5 +1,5 @@
 ---
-uuid: 7af62f6b-5f93-471f-b74d-72535fc67db1
+uuid: 8a98126b-d3bd-458f-a62f-7cd1bed6ec35
 title: "Les Médiateurs de la méditerranée"
 author: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"
 authors: "Adeline Wrona, Marie-Ève Thérenty, Christine Reynier"

@@ -1,5 +1,5 @@
 ---
-uuid: 1ec02f45-3179-4dd8-94e1-a98f8ad803ac
+uuid: 7bf3b0aa-550a-461e-a6f1-1f7e5ab7da5b
 title: "SHS Web of Conferences"
 author: "Inès Garmon"
 authors: "Inès Garmon"

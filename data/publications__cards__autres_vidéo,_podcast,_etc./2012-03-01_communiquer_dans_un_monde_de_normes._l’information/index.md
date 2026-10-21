@@ -1,5 +1,5 @@
 ---
-uuid: 7ad46278-e9d7-4105-bc39-bcbeabd8696e
+uuid: 4cf73a59-1493-46b3-8ea6-6f133615b60f
 title: "Communiquer dans un monde de normes. L’information et la communication dans les enjeux contemporains de la ” mondialisation ”."
 author: "Yves Jeanneret"
 authors: "Yves Jeanneret"

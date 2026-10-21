@@ -1,5 +1,5 @@
 ---
-uuid: 3cc968e6-97e1-47d9-9156-8b9a2b9894cc
+uuid: 4c61fee8-508a-42c9-8165-4a6c7ac73e3f
 title: "Paris, résidence secondaire"
 author: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"
 authors: "Sophie Corbillé, Sophie Chevalier, Emmanuelle Lallement"

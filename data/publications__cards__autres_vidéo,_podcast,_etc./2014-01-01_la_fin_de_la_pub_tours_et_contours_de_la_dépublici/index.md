@@ -1,5 +1,5 @@
 ---
-uuid: cef01f98-287c-49e8-871b-1b97b14af0f1
+uuid: 477587e0-f98b-4421-a0e7-7666c29e7626
 title: "La fin de la pub ? Tours et contours de la dépublicitarisation"
 author: "Caroline Marti de Montety, Valérie Patrin-Leclère, Karine Berthelot-Guiet"
 authors: "Caroline Marti de Montety, Valérie Patrin-Leclère, Karine Berthelot-Guiet"

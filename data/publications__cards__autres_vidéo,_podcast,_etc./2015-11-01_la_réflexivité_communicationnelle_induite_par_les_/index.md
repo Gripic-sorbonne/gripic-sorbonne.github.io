@@ -1,5 +1,5 @@
 ---
-uuid: 79e97419-2b78-4fde-8ec3-2809bcf288d6
+uuid: 16d40fff-d246-4768-b7d4-ddf26ae66737
 title: "La réflexivité communicationnelle induite par les échanges en ligne : pratique, médiation et médiatisation, vers une posture d’ethnologue-amateur"
 author: "Marion Rollandin"
 authors: "Marion Rollandin"

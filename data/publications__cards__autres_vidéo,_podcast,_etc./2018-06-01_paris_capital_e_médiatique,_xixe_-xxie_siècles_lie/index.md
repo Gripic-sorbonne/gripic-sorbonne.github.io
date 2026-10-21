@@ -1,5 +1,5 @@
 ---
-uuid: 9da6f529-1c17-4bf4-ad88-bc59ea41cb22
+uuid: cf20cc35-f883-479e-8457-e952e0f3679a
 title: "Paris capital(e) médiatique, XIXe -XXIe siècles Lieux, modèles et figures des médias, de Girardin aux start-ups"
 author: "hecate vergopoulos"
 authors: "hecate vergopoulos"

@@ -1,5 +1,5 @@
 ---
-uuid: 8addf7bf-d8de-4300-a5f8-499de22f669b
+uuid: 0677c552-3b13-4b0f-8816-c675a6f10ee3
 title: "Journée Jeunes chercheurs, Regards critiques sur la participation politique en ligne, DEL, CNRS-CERTOP, UPEC-CEDITEC"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

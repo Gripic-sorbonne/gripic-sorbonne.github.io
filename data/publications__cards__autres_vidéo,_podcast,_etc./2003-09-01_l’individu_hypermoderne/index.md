@@ -1,5 +1,5 @@
 ---
-uuid: 8f6c2208-3ec9-4b5a-93f0-83038d9c3d12
+uuid: abdf731d-c2cf-4e83-83a8-3842041238eb
 title: "L’individu hypermoderne"
 author: "Caroline Marti"
 authors: "Caroline Marti"

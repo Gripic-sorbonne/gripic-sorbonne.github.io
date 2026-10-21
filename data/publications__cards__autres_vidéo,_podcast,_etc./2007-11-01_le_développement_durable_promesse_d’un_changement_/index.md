@@ -1,5 +1,5 @@
 ---
-uuid: 33c3e7d9-d7c4-4766-9359-8d29539391ab
+uuid: 4ae4aae7-6f45-4693-b135-4cab87e063a5
 title: "Le développement durable: promesse d’un changement paradigmatique? Etude d’un processus discursif négocié . Un exemple: REACH"
 author: "Céline Pascual Espuny"
 authors: "Céline Pascual Espuny"

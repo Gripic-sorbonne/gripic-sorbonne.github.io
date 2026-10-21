@@ -1,5 +1,5 @@
 ---
-uuid: 4f1bea2e-8b5e-47aa-b507-cc67a3b42eca
+uuid: 259435b3-6111-4c93-bf3a-45abfd192e8f
 title: "Savoirs de la Précarité / knowledge from precarity"
 author: "Oëlle Le Marec, Hester Du Plessis"
 authors: "Oëlle Le Marec, Hester Du Plessis"

@@ -745,15 +745,15 @@ def make_yaml_header_formation(title: str, abstract: str, url: str = "") -> str:
             f"---\n\n")
 
 
-def make_yaml_header_international(title: str, abstract: str, url: str = "") -> str:
-    clean_title = title.replace('"', '\\"')
-    clean_abstract = abstract.replace('"', '\\"')
-    return (f"---\n" +
-            f"uuid: {uuid.uuid4()}\n" +
-            f"title: \"{clean_title}\"\n" +
-            f"abstract: \"{clean_abstract}\"\n" +
-            f"url: \"{url}\"\n" +
-            f"---\n\n")
+# def make_yaml_header_international(title: str, abstract: str, url: str = "") -> str:
+#     clean_title = title.replace('"', '\\"')
+#     clean_abstract = abstract.replace('"', '\\"')
+#     return (f"---\n" +
+#             f"uuid: {uuid.uuid4()}\n" +
+#             f"title: \"{clean_title}\"\n" +
+#             f"abstract: \"{clean_abstract}\"\n" +
+#             f"url: \"{url}\"\n" +
+#             f"---\n\n")
 
 
 def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> str:
@@ -809,23 +809,23 @@ def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> st
     return md_page
 
 
-def generate_markdown_page_international(inter_dict: dict, image_filename: str) -> str:
-    title = get_field(inter_dict, "Title", "title", "Titre")
-    description = get_field(inter_dict, "Description", "description", "abstract")
-    url = get_field(inter_dict, "URL", "url", "Lien")
+# def generate_markdown_page_international(inter_dict: dict, image_filename: str) -> str:
+#     title = get_field(inter_dict, "Title", "title", "Titre")
+#     description = get_field(inter_dict, "Description", "description", "abstract")
+#     url = get_field(inter_dict, "URL", "url", "Lien")
 
-    md_page: str = make_yaml_header_international(title=title, abstract="", url=url)
+#     md_page: str = make_yaml_header_international(title=title, abstract="", url=url)
     
-    if image_filename:
-        md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
+#     if image_filename:
+#         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
 
-    if description:
-        md_page += f"{description}\n\n"
+#     if description:
+#         md_page += f"{description}\n\n"
         
-    if url:
-        md_page += f"[En savoir plus / En savoir +]({url})\n\n"
+#     if url:
+#         md_page += f"[En savoir plus / En savoir +]({url})\n\n"
 
-    return md_page
+#     return md_page
 
 
 def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
@@ -1059,8 +1059,8 @@ def csv_to_markdown_international(csv_file: str, photo_header: str = "Photo"):
                     if os.path.exists(src_path):
                         shutil.copy(src_path, str(inter_subdir / extra_img))
 
-            with (inter_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-                md_file.write(generate_markdown_page_international(inter_dict=row, image_filename=target_image))
+            # with (inter_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
+                # md_file.write(generate_markdown_page_international(inter_dict=row, image_filename=target_image))
 
 
 def csv_to_markdown_categories(csv_file_categories):
@@ -1119,7 +1119,7 @@ csv_file_event = "./inputs/calendar.csv"
 csv_file_categories = "./inputs/categories.csv"
 csv_file_publication = "./inputs/publications.csv"
 csv_file_formation = "./inputs/formations.csv"
-csv_file_international = "./inputs/international.csv"
+# csv_file_international = "./inputs/international.csv"
 
 csv_to_markdown_categories(csv_file_categories)
 csv_to_markdown_members(csv_file_member)
@@ -1131,7 +1131,7 @@ if os.path.exists(csv_file_publication):
 if os.path.exists(csv_file_formation):
     csv_to_markdown_formations(csv_file_formation)
 
-if os.path.exists(csv_file_international):
-    csv_to_markdown_international(csv_file_international)
+# if os.path.exists(csv_file_international):
+    # csv_to_markdown_international(csv_file_international)
 
 print("Folders and Markdown files created successfully.")

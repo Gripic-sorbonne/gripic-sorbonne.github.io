@@ -1,5 +1,5 @@
 ---
-uuid: fbe21d79-b393-4ce8-a1c8-1c4a1e6cd68c
+uuid: c24d3e1a-6709-4846-a960-e8312bedf11c
 title: "Échanges internationaux"
 menuGroup: "L'équipe"
 ---

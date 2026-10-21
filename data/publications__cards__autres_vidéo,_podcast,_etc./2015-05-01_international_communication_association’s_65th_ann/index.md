@@ -1,5 +1,5 @@
 ---
-uuid: 674f7cba-32a2-4fd2-b8b2-c47447e028a6
+uuid: cc475f78-4aa6-4889-9dc7-a7f5533ee9a7
 title: "International Communication Association’s 65th Annual Conference – Puerto Rico 2015"
 author: "François Allard-Huver"
 authors: "François Allard-Huver"

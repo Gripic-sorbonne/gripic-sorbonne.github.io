@@ -1,5 +1,5 @@
 ---
-uuid: 433c41f6-df7c-47ef-b3ed-937e4ecb8168
+uuid: 7437fe60-f3ff-4f03-b0f9-61d1d5f260f1
 title: "Communications [EHESS]"
 author: "Nelly Quemener, Antoine Char"
 authors: "Nelly Quemener, Antoine Char"

@@ -1,5 +1,5 @@
 ---
-uuid: 5e945019-df6b-45e6-b5e8-4e603daa6fa7
+uuid: 52821f93-43db-48fa-951d-af91d9ed2506
 title: "Nouvelles perspectives sur la liberté d’expression. Colloque de la recherche émergente"
 author: "Adélie Laruncet"
 authors: "Adélie Laruncet"

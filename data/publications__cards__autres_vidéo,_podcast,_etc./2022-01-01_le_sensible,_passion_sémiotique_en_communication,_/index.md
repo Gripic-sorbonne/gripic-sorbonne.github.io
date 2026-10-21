@@ -1,5 +1,5 @@
 ---
-uuid: 4802fd7f-323f-4ce1-956c-e80bed71ef2b
+uuid: 4e910195-223e-4111-ab1a-d1feebd9e0e1
 title: "Le sensible, passion sémiotique en communication, Dialogues avec Jean-Jacques Boutaud"
 author: "Caroline Marti"
 authors: "Caroline Marti"

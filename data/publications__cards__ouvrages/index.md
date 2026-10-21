@@ -1,5 +1,5 @@
 ---
-uuid: 6224b277-d6f7-4c10-88a6-039eef2e50a9
+uuid: 5d56cef3-7613-4877-9c9a-2f93d45df65f
 title: "Ouvrages"
 menuGroup: "Publications"
 ---
