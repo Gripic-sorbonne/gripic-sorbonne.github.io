@@ -618,9 +618,6 @@
 
 
 
-
-
-
 import csv
 from pathlib import Path
 import os
@@ -653,11 +650,13 @@ def get_last_name(full_name: str) -> str:
 
 
 def clean_folder_name(name: str) -> str:
-    invalid_chars = r'<>:[]+"/\\|?«»*·'
+    # Excluimos el punto intermedio '·' y los paréntesis de los caracteres prohibidos
+    # para que se conserven correctamente, y ampliamos el límite a 90 caracteres para evitar cortes.
+    invalid_chars = r'<>:[]+"/\\|?«»*'
     cleaned_name = re.sub(f"[{re.escape(invalid_chars)}]", " ", name)
     cleaned_name = re.sub(r"\s+", "_", cleaned_name.strip())
     cleaned_name = re.sub(r"_+", "_", cleaned_name)
-    return cleaned_name.strip("_")[:50].lower()
+    return cleaned_name.strip("_")[:90].lower()
 
 
 def normalize_title(title: str) -> str:
@@ -745,17 +744,6 @@ def make_yaml_header_formation(title: str, abstract: str, url: str = "") -> str:
             f"---\n\n")
 
 
-# def make_yaml_header_international(title: str, abstract: str, url: str = "") -> str:
-#     clean_title = title.replace('"', '\\"')
-#     clean_abstract = abstract.replace('"', '\\"')
-#     return (f"---\n" +
-#             f"uuid: {uuid.uuid4()}\n" +
-#             f"title: \"{clean_title}\"\n" +
-#             f"abstract: \"{clean_abstract}\"\n" +
-#             f"url: \"{url}\"\n" +
-#             f"---\n\n")
-
-
 def generate_markdown_page_publication(pub_dict: dict, image_filename: str) -> str:
     md_page: str = make_yaml_header_publication(pub_dict)
     
@@ -807,25 +795,6 @@ def generate_markdown_page_formation(form_dict: dict, image_filename: str) -> st
         md_page += f"[En savoir plus / En savoir +]({url})\n\n"
 
     return md_page
-
-
-# def generate_markdown_page_international(inter_dict: dict, image_filename: str) -> str:
-#     title = get_field(inter_dict, "Title", "title", "Titre")
-#     description = get_field(inter_dict, "Description", "description", "abstract")
-#     url = get_field(inter_dict, "URL", "url", "Lien")
-
-#     md_page: str = make_yaml_header_international(title=title, abstract="", url=url)
-    
-#     if image_filename:
-#         md_page += f'<img src="./{image_filename}" width="100%" />\n\n'
-
-#     if description:
-#         md_page += f"{description}\n\n"
-        
-#     if url:
-#         md_page += f"[En savoir plus / En savoir +]({url})\n\n"
-
-#     return md_page
 
 
 def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
@@ -1030,91 +999,8 @@ def csv_to_markdown_formations(csv_file: str, photo_header: str = "Photo"):
                 md_file.write(generate_markdown_page_formation(form_dict=row, image_filename=target_image))
 
 
-def csv_to_markdown_international(csv_file: str, photo_header: str = "Photo"):
-    global INTERNATIONAL_DIR
-    with open(csv_file, mode="r", encoding="utf-8") as f:
-        reader = csv.DictReader(f, delimiter=";")
-        for row in reader:
-            title_raw = get_field(row, "Title", "title", "Titre")
-            if not title_raw:
-                continue
-
-            clean_title = clean_folder_name(title_raw)
-            inter_subdir: Path = INTERNATIONAL_DIR / clean_title
-            inter_subdir.mkdir(parents=True, exist_ok=True)
-
-            img_filename = get_field(row, photo_header, "image", "photo", default="")
-            target_image = ""
-
-            if img_filename and os.path.exists(f'./inputs/international_img/{img_filename}'):
-                shutil.copy(f'./inputs/international_img/{img_filename}', str(inter_subdir / img_filename))
-                target_image = img_filename
-
-            description = get_field(row, "Description", "description", "abstract")
-            extra_imgs = re.findall(r'(?:src=[\'"]\.\/|src=[\'"]|!\[.*?\]\(\.\/|!\[.*?\]\()([^\'"\)]+\.(?:webp|png|jpg|jpeg|svg))[\'"]?', description)
-
-            for extra_img in set(extra_imgs):
-                if extra_img != img_filename:
-                    src_path = f'./inputs/international_img/{extra_img}'
-                    if os.path.exists(src_path):
-                        shutil.copy(src_path, str(inter_subdir / extra_img))
-
-            # with (inter_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
-                # md_file.write(generate_markdown_page_international(inter_dict=row, image_filename=target_image))
-
-
-# def csv_to_markdown_categories(csv_file_categories):
-#     with open(csv_file_categories, newline='', encoding='utf-8') as file:
-#         reader = csv.DictReader(file, delimiter=';') # <--- Configurado con delimitador ;
-        
-#         for row in reader:
-#             group_raw = row['groupe']
-#             type_ = row['type']
-#             name = row['nom']
-#             description = row['description']
-            
-#             group_clean = clean_folder_name(group_raw)
-#             clean_name = clean_folder_name(name)
-            
-#             # Sintaxis con doble guion bajo: nombre_menu__tipo__nombre_subpagina
-#             folder_name = f"{group_clean}__{type_}__{clean_name}"
-#             folder_path = DATA_DIR / folder_name
-
-#             if "membres" in folder_name:
-#                 global MEMBER_DIR
-#                 MEMBER_DIR = folder_path
-
-#             if "événements" in folder_name:
-#                 global EVENT_DIR
-#                 EVENT_DIR = folder_path
-
-#             if "publications" in folder_name:
-#                 global PUBLICATION_DIR
-#                 PUBLICATION_DIR = folder_path
-
-#             if "formation" in folder_name.lower():
-#                 global FORMATION_DIR
-#                 FORMATION_DIR = folder_path
-
-#             if "international" in folder_name.lower():
-#                 global INTERNATIONAL_DIR
-#                 INTERNATIONAL_DIR = folder_path
-            
-#             folder_path.mkdir(exist_ok=True, parents=True)
-#             index_file_path = folder_path / 'index.md'
-            
-#             with index_file_path.open(mode='w', encoding='utf-8') as index_file:
-#                 header = (f"---\n" +
-#                           f"uuid: {uuid.uuid4()}\n" +
-#                           f"title: \"{name.capitalize()}\"\n" +
-#                           f"menuGroup: \"{group_raw}\"\n" +
-#                           f"---\n")
-#                 content = header + description
-#                 index_file.write(content)
-
 def csv_to_markdown_categories(csv_file_categories):
     with open(csv_file_categories, newline='', encoding='utf-8') as file:
-        # Convertimos en lista para usar enumerate y saber el orden exacto del CSV
         reader = list(csv.DictReader(file, delimiter=';'))
         
         for idx, row in enumerate(reader, start=1):
@@ -1126,10 +1012,7 @@ def csv_to_markdown_categories(csv_file_categories):
             group_clean = clean_folder_name(group_raw)
             clean_name = clean_folder_name(name)
             
-            # Prefijo numérico automático basado en la fila del CSV (ej: 01, 02, 03...)
             prefix = f"{idx:02d}"
-            
-            # Nueva estructura: 01_nombre_menu__tipo__nombre_subpagina
             folder_name = f"{prefix}_{group_clean}__{type_}__{clean_name}"
             folder_path = DATA_DIR / folder_name
 
@@ -1165,13 +1048,11 @@ def csv_to_markdown_categories(csv_file_categories):
                 content = header + description
                 index_file.write(content)
 
-# Pipeline d'exécution
 csv_file_member = './inputs/members.csv'
 csv_file_event = "./inputs/calendar.csv"
 csv_file_categories = "./inputs/categories.csv"
 csv_file_publication = "./inputs/publications.csv"
 csv_file_formation = "./inputs/formations.csv"
-# csv_file_international = "./inputs/international.csv"
 
 csv_to_markdown_categories(csv_file_categories)
 csv_to_markdown_members(csv_file_member)
@@ -1179,11 +1060,7 @@ csv_to_markdown_events(csv_file_event)
 
 if os.path.exists(csv_file_publication):
     csv_to_markdown_publications(csv_file_publication)
-
 if os.path.exists(csv_file_formation):
     csv_to_markdown_formations(csv_file_formation)
-
-# if os.path.exists(csv_file_international):
-    # csv_to_markdown_international(csv_file_international)
 
 print("Folders and Markdown files created successfully.")
