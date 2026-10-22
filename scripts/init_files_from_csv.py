@@ -653,7 +653,7 @@ def get_last_name(full_name: str) -> str:
 
 
 def clean_folder_name(name: str) -> str:
-    invalid_chars = r'<>:)([]+"/\\|?«»*·'
+    invalid_chars = r'<>:[]+"/\\|?«»*·'
     cleaned_name = re.sub(f"[{re.escape(invalid_chars)}]", " ", name)
     cleaned_name = re.sub(r"\s+", "_", cleaned_name.strip())
     cleaned_name = re.sub(r"_+", "_", cleaned_name)
@@ -1114,10 +1114,10 @@ def csv_to_markdown_international(csv_file: str, photo_header: str = "Photo"):
 
 def csv_to_markdown_categories(csv_file_categories):
     with open(csv_file_categories, newline='', encoding='utf-8') as file:
-        reader = csv.DictReader(file, delimiter=';')
+        # Convertimos en lista para usar enumerate y saber el orden exacto del CSV
+        reader = list(csv.DictReader(file, delimiter=';'))
         
-        for row in reader:
-            # Nettoyage des retours à la ligne et des guillemets pour éviter de casser le YAML
+        for idx, row in enumerate(reader, start=1):
             group_raw = row['groupe'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
             type_ = row['type'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
             name = row['nom'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
@@ -1126,7 +1126,11 @@ def csv_to_markdown_categories(csv_file_categories):
             group_clean = clean_folder_name(group_raw)
             clean_name = clean_folder_name(name)
             
-            folder_name = f"{group_clean}__{type_}__{clean_name}"
+            # Prefijo numérico automático basado en la fila del CSV (ej: 01, 02, 03...)
+            prefix = f"{idx:02d}"
+            
+            # Nueva estructura: 01_nombre_menu__tipo__nombre_subpagina
+            folder_name = f"{prefix}_{group_clean}__{type_}__{clean_name}"
             folder_path = DATA_DIR / folder_name
 
             if "membres" in folder_name:
