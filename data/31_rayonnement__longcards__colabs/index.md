@@ -1,5 +1,5 @@
 ---
-uuid: 3307dc02-4476-4b9f-8f8d-261afaa78316
+uuid: 1022716e-24fa-4c07-8f7f-4e84d6894760
 title: "Colabs"
 menuGroup: "Rayonnement"
 ---
