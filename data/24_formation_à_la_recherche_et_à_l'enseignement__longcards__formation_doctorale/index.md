@@ -1,5 +1,5 @@
 ---
-uuid: 3a9c39cd-5600-4087-9f5d-4233bcfb066c
+uuid: 5e5a81af-db7e-4cc5-b57f-af07d172efcf
 title: "Formation doctorale"
 menuGroup: "Formation à la recherche et à l'enseignement"
 ---
