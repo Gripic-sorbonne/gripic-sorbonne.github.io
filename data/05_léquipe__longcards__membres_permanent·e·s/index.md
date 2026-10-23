@@ -1,5 +1,5 @@
 ---
-uuid: 9f135fb8-01d6-4d68-94a8-1ebf84e0e87d
+uuid: a3535eda-4711-4f44-b210-f7a77d8cf9a7
 title: "Membres permanent·e·s"
 menuGroup: "Léquipe"
 image: "no_event.webp"

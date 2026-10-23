@@ -1,5 +1,5 @@
 ---
-uuid: 41d9c70f-6bd3-4cf3-b136-827398b449ed
+uuid: 93344677-deba-4a0c-a0ec-c2467290902b
 title: "Autres (vidéo, podcast, etc.)"
 menuGroup: "Publications"
 image: "no_event.webp"
