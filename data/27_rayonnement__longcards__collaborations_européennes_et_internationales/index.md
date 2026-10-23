@@ -1,5 +1,5 @@
 ---
-uuid: 9e8a9bb7-a312-4cca-a422-c9bf4d8f7f74
+uuid: bd1c1ea1-c7e2-43db-8935-acc6e4aaa1e5
 title: "Collaborations européennes et internationales"
 menuGroup: "Rayonnement"
 ---
