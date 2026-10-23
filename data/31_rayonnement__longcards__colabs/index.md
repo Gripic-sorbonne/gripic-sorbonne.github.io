@@ -1,6 +1,7 @@
 ---
-uuid: 4b4e6264-9672-44a3-b930-cc577c90c15f
+uuid: 883eb8c5-a533-4bde-9ea8-84f43f9ee7a5
 title: "Colabs"
 menuGroup: "Rayonnement"
+image: "no_event.webp"
 ---
 content menu rayonnement

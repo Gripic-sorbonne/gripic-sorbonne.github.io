@@ -1,6 +1,7 @@
 ---
-uuid: 6b56e570-c95d-43cb-9dc0-7e519bf9dd17
+uuid: 269ae2a8-51b0-4076-9c72-c49820d6d4f4
 title: "Membres permanent·e·s"
 menuGroup: "Léquipe"
+image: "no_event.webp"
 ---
 content related to Membres permanent·e·s

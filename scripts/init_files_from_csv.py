@@ -133,7 +133,43 @@ def normalize_for_match(s: str) -> set:
     return set(re.findall(r'[a-z0-9]+', s.lower()))
 
 
+# def csv_to_markdown_categories(csv_file_categories):
+#     with open(csv_file_categories, newline='', encoding='utf-8') as file:
+#         reader = list(csv.DictReader(file, delimiter=';'))
+        
+#         for idx, row in enumerate(reader, start=1):
+#             group_raw = row['groupe'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
+#             type_ = row['type'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
+#             name = row['nom'].replace('\n', ' ').replace('\r', ' ').replace('"', '\\"').strip()
+#             description = row['description']
+            
+#             group_clean = clean_folder_name(group_raw)
+#             clean_name = clean_folder_name(name)
+            
+#             prefix = f"{idx:02d}"
+#             folder_name = f"{prefix}_{group_clean}__{type_}__{clean_name}"
+#             folder_path = DATA_DIR / folder_name
+
+#             if "événements" in folder_name:
+#                 global EVENT_DIR
+#                 EVENT_DIR = folder_path
+
+#             folder_path.mkdir(exist_ok=True, parents=True)
+#             index_file_path = folder_path / 'index.md'
+            
+#             with index_file_path.open(mode='w', encoding='utf-8') as index_file:
+#                 header = (f"---\n" +
+#                           f"uuid: {uuid.uuid4()}\n" +
+#                           f"title: \"{name.capitalize()}\"\n" +
+#                           f"menuGroup: \"{group_raw}\"\n" +
+#                           f"---\n")
+#                 content = header + description
+#                 index_file.write(content)
+
 def csv_to_markdown_categories(csv_file_categories):
+    global IMAGES_DIR
+    default_img_src = IMAGES_DIR / "events" / "no_event.webp"
+
     with open(csv_file_categories, newline='', encoding='utf-8') as file:
         reader = list(csv.DictReader(file, delimiter=';'))
         
@@ -155,6 +191,12 @@ def csv_to_markdown_categories(csv_file_categories):
                 EVENT_DIR = folder_path
 
             folder_path.mkdir(exist_ok=True, parents=True)
+
+            # Copiar imagen por defecto a la categoría para mantener consistencia con File @fileByRelativePath
+            target_image = "no_event.webp"
+            if default_img_src.exists():
+                shutil.copy(str(default_img_src), str(folder_path / target_image))
+
             index_file_path = folder_path / 'index.md'
             
             with index_file_path.open(mode='w', encoding='utf-8') as index_file:
@@ -162,6 +204,7 @@ def csv_to_markdown_categories(csv_file_categories):
                           f"uuid: {uuid.uuid4()}\n" +
                           f"title: \"{name.capitalize()}\"\n" +
                           f"menuGroup: \"{group_raw}\"\n" +
+                          f"image: \"{target_image}\"\n" +
                           f"---\n")
                 content = header + description
                 index_file.write(content)

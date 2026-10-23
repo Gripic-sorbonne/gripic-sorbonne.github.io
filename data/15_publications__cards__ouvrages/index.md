@@ -1,6 +1,7 @@
 ---
-uuid: 754e0024-6ca9-463f-bf0a-bad867d13315
+uuid: 7622933b-f41e-4ed1-944a-a70007ca3823
 title: "Ouvrages"
 menuGroup: "Publications"
+image: "no_event.webp"
 ---
 content related to Ouvrages
