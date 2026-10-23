@@ -1,5 +1,5 @@
 ---
-uuid: 8b59965f-34e1-41c5-bf3c-349a5c157742
+uuid: ae505469-749c-4720-af15-daa6e05b87c0
 title: "Membres associé·e·s"
 menuGroup: "Léquipe"
 image: "no_event.webp"
