@@ -1,5 +1,5 @@
 ---
-uuid: 042e7f83-2149-4f65-b4bb-9096dfa7575c
+uuid: 6b56e570-c95d-43cb-9dc0-7e519bf9dd17
 title: "Membres permanent·e·s"
 menuGroup: "Léquipe"
 ---

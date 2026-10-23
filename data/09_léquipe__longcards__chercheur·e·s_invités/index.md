@@ -1,5 +1,5 @@
 ---
-uuid: 8bfb20f7-0c44-4818-87de-14c0e3083c6a
+uuid: 82d7ad05-d417-44c4-b93b-660e49375af5
 title: "Chercheur·e·s invités"
 menuGroup: "Léquipe"
 ---

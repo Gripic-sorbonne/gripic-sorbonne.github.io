@@ -6,12 +6,12 @@ import shutil
 import uuid
 import unicodedata
 
+# Directorios principales
 DATA_DIR: Path = Path("../") / "data" 
+IMAGES_DIR: Path = Path("./inputs/images")
 
 IGNORE_EVENT_COLUMNS = ["Sequentiel",]
-
 SPLIT_PATTERN: str = r"\s|\'|\-|\_|«|»|,"
-IMAGE_PATH = "./avatar.webp"
 
 
 def get_last_name(full_name: str) -> str:
@@ -84,6 +84,10 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
 
 def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
     global EVENT_DIR
+    
+    # Rutas centralizadas usando IMAGES_DIR
+    events_img_dir = IMAGES_DIR / "events"
+    
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
@@ -101,11 +105,14 @@ def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_hea
             img_filename = get_field(row, photo_header, "image", "photo", default="")
             target_image = "no_event.webp"
 
-            if img_filename and os.path.exists(f'./inputs/evenements_img/{img_filename}'):
-                shutil.copy(f'./inputs/evenements_img/{img_filename}', str(event_subdir / img_filename))
+            source_img_path = events_img_dir / img_filename
+            default_img_path = events_img_dir / "no_event.webp"
+
+            if img_filename and source_img_path.exists():
+                shutil.copy(str(source_img_path), str(event_subdir / img_filename))
                 target_image = img_filename
-            elif os.path.exists('./inputs/evenements_img/no_event.webp'):
-                shutil.copy('./inputs/evenements_img/no_event.webp', str(event_subdir / 'no_event.webp'))
+            elif default_img_path.exists():
+                shutil.copy(str(default_img_path), str(event_subdir / 'no_event.webp'))
             elif os.path.exists('./no_event.webp'):
                 shutil.copy('./no_event.webp', str(event_subdir / 'no_event.webp'))
 
@@ -165,5 +172,4 @@ csv_file_categories = "./inputs/categories.csv"
 csv_to_markdown_categories(csv_file_categories)
 csv_to_markdown_events(csv_file_event)
 
-
-print("Folders and Markdown files created successfully.")
+print("Folders and Markdown files created successfully using IMAGES_DIR.")
