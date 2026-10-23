@@ -92,7 +92,7 @@ if git diff-index --quiet HEAD --; then
     git commit --allow-empty -m "trigger: re-run build"
 else
     # Request a commit message from the user or use a default message
-    COMMIT_MSG="${1:- solving new image structure bug}"
+    COMMIT_MSG="${1:- testing from xlsx}"
     git commit -m "$COMMIT_MSG"
 fi
 
