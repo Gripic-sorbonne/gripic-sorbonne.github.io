@@ -1,5 +1,5 @@
 ---
-uuid: 23901f00-d864-41cc-93e4-0120ce8d551f
+uuid: f6d598e0-6780-401c-80ec-829ea0e0ffa0
 title: "Toutes les productions scientifiques (archive hal)"
 menuGroup: "Publications"
 image: "no_event.webp"
