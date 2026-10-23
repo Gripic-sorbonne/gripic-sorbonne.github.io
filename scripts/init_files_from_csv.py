@@ -192,7 +192,7 @@ def csv_to_markdown_categories(csv_file_categories):
 
             folder_path.mkdir(exist_ok=True, parents=True)
 
-            # Copiar imagen por defecto a la categoría para mantener consistencia con File @fileByRelativePath
+            # Copiar imagen por defecto a la categoría para que Gatsby la reconozca como File @fileByRelativePath
             target_image = "no_event.webp"
             if default_img_src.exists():
                 shutil.copy(str(default_img_src), str(folder_path / target_image))
@@ -209,6 +209,7 @@ def csv_to_markdown_categories(csv_file_categories):
                 content = header + description
                 index_file.write(content)
 
+            
 csv_file_event = "./inputs/calendar.csv"
 csv_file_categories = "./inputs/categories.csv"
 

@@ -1,5 +1,5 @@
 ---
-uuid: dc7a659e-2ca4-4b5c-8c81-ebe789e0da80
+uuid: 48f90721-0d23-4faf-9e1c-10685a8c27f7
 title: "What about us?"
 menuGroup: "Rayonnement"
 image: "no_event.webp"

@@ -1,5 +1,5 @@
 ---
-uuid: 78a6cc3b-0133-4175-8073-9cedb1bb6dac
+uuid: 9f327352-6fdc-4dd2-bd20-3af82c77f1e2
 title: "Réseaux et expertises"
 menuGroup: "Rayonnement"
 image: "no_event.webp"
