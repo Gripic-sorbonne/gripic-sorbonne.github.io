@@ -1,5 +1,5 @@
 ---
-uuid: 33d9f112-b9d6-4b3a-be83-717de6bcb9f8
+uuid: 5303386e-1f61-4c7e-a78c-fe47625297a9
 title: "Ouvrages"
 menuGroup: "Publications"
 image: "no_event.webp"
