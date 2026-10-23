@@ -1,5 +1,5 @@
 ---
-uuid: c801f4cb-4cb5-409b-8f4d-032d84691f0c
+uuid: c1c1fd15-6bff-4b3c-913c-1ff4e94a419c
 title: "Colabs"
 menuGroup: "Rayonnement"
 image: "no_event.webp"
