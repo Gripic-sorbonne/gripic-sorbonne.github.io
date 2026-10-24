@@ -42,7 +42,7 @@ if git diff-index --quiet HEAD --; then
     echo "No changes detected. Creating an empty commit to trigger a build..."
     git commit --allow-empty -m "trigger: re-run build"
 else
-    COMMIT_MSG="${1:-update data from Excel}"
+    COMMIT_MSG="${1:-update}"
     git commit -m "$COMMIT_MSG"
 fi
 
