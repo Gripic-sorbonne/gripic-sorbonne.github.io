@@ -71,10 +71,7 @@ jobs:
       - name: Build with Gatsby
         env:
           PREFIX_PATHS: 'true'
-        run: |
-          cd ./code
-          rm -rf .cache public
-          ${{ steps.detect-package-manager.outputs.manager }} run build
+        run: cd ./code && ${{ steps.detect-package-manager.outputs.manager }} run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

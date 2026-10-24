@@ -1,5 +1,5 @@
 ---
-uuid: dad91e43-28a3-4d32-a853-e8e005539500
+uuid: 8ce68179-7ff1-4cf8-9412-f110e004ae33
 title: "Test"
 menuGroup: "gabo"
 image: "no_event.webp"

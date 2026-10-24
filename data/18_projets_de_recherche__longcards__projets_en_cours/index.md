@@ -1,5 +1,5 @@
 ---
-uuid: 091b9a95-8c52-425e-8eb8-11c17667eb44
+uuid: b5ed3530-16d0-458a-b3c3-db12401cb6b3
 title: "Projets en cours"
 menuGroup: "Projets de recherche"
 image: "no_event.webp"

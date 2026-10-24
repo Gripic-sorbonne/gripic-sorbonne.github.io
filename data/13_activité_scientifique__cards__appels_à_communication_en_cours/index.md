@@ -1,5 +1,5 @@
 ---
-uuid: f03db6f0-34fb-4ae1-9147-5c1535a430f7
+uuid: 24170344-3bdf-43bf-b4ab-dce3feeb5154
 title: "Appels à communication en cours"
 menuGroup: "Activité scientifique"
 image: "no_event.webp"
