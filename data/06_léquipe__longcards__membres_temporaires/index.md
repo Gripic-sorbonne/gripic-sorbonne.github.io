@@ -1,5 +1,5 @@
 ---
-uuid: 7da0be49-cdc8-42da-a96c-90d4500b0bd1
+uuid: 50e0f38c-0174-4c3e-b320-3536d33f4d31
 title: "Membres temporaires"
 menuGroup: "Léquipe"
 image: "no_event.webp"

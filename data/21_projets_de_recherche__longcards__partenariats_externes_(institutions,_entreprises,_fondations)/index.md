@@ -1,5 +1,5 @@
 ---
-uuid: 8930a73b-7561-4523-8bc2-1941c021be8a
+uuid: 68c45416-69a1-4f93-87b9-f4daee45f4c0
 title: "Partenariats externes (institutions, entreprises, fondations)"
 menuGroup: "Projets de recherche"
 image: "no_event.webp"

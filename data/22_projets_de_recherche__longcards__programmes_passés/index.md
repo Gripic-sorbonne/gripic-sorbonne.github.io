@@ -1,5 +1,5 @@
 ---
-uuid: b033fbd7-fc81-4c86-8798-5603f3dd355e
+uuid: 37ea1d3d-6d21-4e29-87dd-19a3962386eb
 title: "Programmes passés"
 menuGroup: "Projets de recherche"
 image: "no_event.webp"

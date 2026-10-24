@@ -1,5 +1,5 @@
 ---
-uuid: 7f8a88bf-8777-4ea8-a093-095fc0f0e77c
+uuid: 78d58358-7f6e-4387-a551-f4f147850805
 title: "Chercheur·e·s invités"
 menuGroup: "Léquipe"
 image: "no_event.webp"

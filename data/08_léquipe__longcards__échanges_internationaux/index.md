@@ -1,5 +1,5 @@
 ---
-uuid: 6ab644b3-aa17-48f5-acaa-092ef6c744e4
+uuid: 2f134aee-bc50-463f-bdd1-6780941f837d
 title: "Échanges internationaux"
 menuGroup: "Léquipe"
 image: "no_event.webp"
