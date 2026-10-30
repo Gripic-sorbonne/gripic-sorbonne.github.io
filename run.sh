@@ -33,10 +33,7 @@ else
     git commit -m "$COMMIT_MSG"
 fi
 
-echo "5. Forcing extra commit (avoid rendering bug)..."
-git commit --allow-empty -m "update data using ./run.sh"
-
-echo "6. Pushing changes to GitHub..."
+echo "5. Pushing changes to GitHub..."
 git push
 
 echo "¡Pipeline ejecutado y sincronizado exitosamente!"
