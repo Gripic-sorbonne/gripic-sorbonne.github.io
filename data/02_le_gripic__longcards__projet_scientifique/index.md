@@ -1,5 +1,5 @@
 ---
-uuid: 3e1b4f38-214a-49ee-bb20-e62dc63915b1
+uuid: 558be22f-ee43-4c36-9236-d31f68735727
 title: "Projet scientifique"
 menuGroup: "Le GRIPIC"
 image: "no_event.webp"
