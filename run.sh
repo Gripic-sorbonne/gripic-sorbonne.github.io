@@ -21,7 +21,6 @@ echo "3. Generating Markdown files from CSV..."
 cd "$REPO_ROOT/scripts"
 python init_files_from_csv.py
 
-# Pausa breve para asegurar escritura en disco
 sleep 2
 
 echo "4. Staging and committing primary changes..."
@@ -31,12 +30,12 @@ git add -A
 if git diff-index --quiet HEAD --; then
     echo "No changes detected."
 else
-    COMMIT_MSG="${1:-update data from excel}"
+    COMMIT_MSG="${1:-update data}"
     git commit -m "$COMMIT_MSG"
 fi
 
-echo "5. Forzando commit de sincronización (evita el bug de renderizado)..."
-git commit --allow-empty -m "trigger: force reliable rebuild"
+echo "5. Forcing extra commit (avoid rendering bug)..."
+git commit --allow-empty -m "update data using ./run.sh"
 
 echo "6. Pushing changes to GitHub..."
 git push

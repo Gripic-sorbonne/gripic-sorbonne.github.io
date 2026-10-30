@@ -1,5 +1,5 @@
 ---
-uuid: 1ff0abc6-73f4-482a-8aea-4bbf1b87bc27
+uuid: 31b009aa-d0b4-4139-826f-db900149ec4d
 title: "Try2"
 menuGroup: "menu_test"
 image: "no_event.webp"
