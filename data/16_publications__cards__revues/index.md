@@ -1,5 +1,5 @@
 ---
-uuid: 62070d02-ae7a-4b0a-b949-2299c9bbb424
+uuid: 5d91200c-c6e8-48fb-9aa2-78cce24cee7d
 title: "Revues"
 menuGroup: "Publications"
 image: "no_event.webp"
