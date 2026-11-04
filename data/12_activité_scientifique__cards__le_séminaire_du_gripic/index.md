@@ -1,5 +1,5 @@
 ---
-uuid: af994c7b-a726-44f8-85b5-7c926ba648d0
+uuid: b36769f1-20b5-419b-b668-be399eb95fe7
 title: "Le séminaire du gripic"
 menuGroup: "Activité scientifique"
 image: "no_img_gripic.webp"
