@@ -14,13 +14,16 @@ fi
 
 echo "2. Entering scripts/ and converting Excel to CSV..."
 cd "$REPO_ROOT/scripts"
+
+find inputs/ -maxdepth 1 -name "*.csv" -delete
+
 python excel_to_csv.py
 
 echo "3. Generating Markdown files from CSV..."
 cd "$REPO_ROOT/scripts"
 python init_files_from_csv.py
 
-# sleep 2
+sleep 2
 
 echo "4. Staging and committing primary changes..."
 cd "$REPO_ROOT"
@@ -36,4 +39,4 @@ fi
 # echo "5. Pushing changes to GitHub..."
 # git push
 
-echo "¡Pipeline ejecutado y sincronizado exitosamente!"
+echo "pipeline done!"
