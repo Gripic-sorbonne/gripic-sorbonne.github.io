@@ -1,8 +1,8 @@
 ---
-uuid: 90e2d3fb-896e-4a43-a5c4-b61fdcdfc602
+uuid: 89d81db9-91a1-42ad-a80b-fe7d5cf12e19
 title: "Gabo"
 abstract : "abstrac text"
-tags: "the"
+tags: ["the"]
 date: "12/07/2026"
 year: ""
 author: "gabo"
