@@ -33,7 +33,7 @@ else
     git commit -m "$COMMIT_MSG"
 fi
 
-echo "5. Pushing changes to GitHub..."
-git push
+# echo "5. Pushing changes to GitHub..."
+# git push
 
 echo "¡Pipeline ejecutado y sincronizado exitosamente!"
