@@ -1,5 +1,5 @@
 ---
-uuid: e3a965a8-b637-48f9-8f15-08e3f656ca07
+uuid: b6deb337-6519-40e8-bcdc-f698b4c23d0c
 title: "Programmes passés"
 menuGroup: "Projets de recherche"
 image: "no_img_gripic.webp"
