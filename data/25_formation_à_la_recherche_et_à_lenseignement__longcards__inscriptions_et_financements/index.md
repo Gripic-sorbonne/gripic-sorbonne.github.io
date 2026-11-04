@@ -1,5 +1,5 @@
 ---
-uuid: 7784fd02-f7ea-4bbc-9c32-e8879d98685d
+uuid: 1c197088-0fe7-45d0-ba2a-176bad0024ae
 title: "Inscriptions et financements"
 menuGroup: "Formation à la recherche et à lenseignement"
 image: "no_img_gripic.webp"
