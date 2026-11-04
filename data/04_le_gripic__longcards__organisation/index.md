@@ -1,5 +1,5 @@
 ---
-uuid: 7abe7690-6367-4494-90b5-5e6fb5d147cf
+uuid: fe6a32c8-8b84-496c-a919-d4a9ada4e46a
 title: "Organisation"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
