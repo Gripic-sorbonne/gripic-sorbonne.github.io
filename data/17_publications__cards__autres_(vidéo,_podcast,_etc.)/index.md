@@ -1,5 +1,5 @@
 ---
-uuid: 296d44ee-592e-49f4-b200-2f5bbd1ab75a
+uuid: 26bc8193-8d35-482d-9593-e1689f0ecc1c
 title: "Autres (vidéo, podcast, etc.)"
 menuGroup: "Publications"
 image: "no_img_gripic.webp"

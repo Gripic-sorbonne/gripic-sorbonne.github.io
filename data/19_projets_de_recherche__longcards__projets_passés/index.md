@@ -1,5 +1,5 @@
 ---
-uuid: b2831cdf-e459-4207-bc6e-6b3e703df2bb
+uuid: 845b1b18-c8ad-4747-80c7-33d2b33d3701
 title: "Projets passés"
 menuGroup: "Projets de recherche"
 image: "no_img_gripic.webp"

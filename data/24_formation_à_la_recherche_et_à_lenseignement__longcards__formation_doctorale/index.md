@@ -1,5 +1,5 @@
 ---
-uuid: d5a3d0bf-7227-4016-9e8a-165802fb3bc0
+uuid: 780f6eb8-ffa6-4770-8b36-e58abb37a74d
 title: "Formation doctorale"
 menuGroup: "Formation à la recherche et à lenseignement"
 image: "no_img_gripic.webp"
