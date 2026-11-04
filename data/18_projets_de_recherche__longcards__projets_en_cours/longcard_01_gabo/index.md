@@ -1,13 +1,13 @@
 ---
-uuid: 5acd449f-6cd9-4434-8b37-368da98478c4
+uuid: 90e2d3fb-896e-4a43-a5c4-b61fdcdfc602
 title: "Gabo"
 abstract : "abstrac text"
 tags: "the"
 date: "12/07/2026"
 year: ""
 author: "gabo"
-image: "publications/no_publica.webp"
+image: "no_publica.webp"
 ---
 
-<img src="./publications/no_publica.webp" width="300px" />
+<img src="./no_publica.webp" width="300px" />
 

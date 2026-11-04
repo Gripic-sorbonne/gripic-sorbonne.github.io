@@ -407,14 +407,11 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
 #                     columns_to_show=columns_to_show,
 #                     metadata_fields=metadata_fields
 #                 ))
-
 def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_type: str):
     if not csv_file or not csv_file.exists():
         return
 
     prefix_name = "longcard" if "long" in card_type.lower() else "card"
-    
-    # Coincidencia exacta con el nombre de tu archivo en el tree (no_img_GRIPIC.webp)
     default_card_img_path = IMAGES_DIR / "no_img_GRIPIC.webp"
 
     with open(csv_file, mode="r", encoding="utf-8") as f:
@@ -455,12 +452,12 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
             source_img_path = IMAGES_DIR / img_filename if img_filename else None
 
             if img_filename and source_img_path and source_img_path.exists():
-                destination_img_path = sub_folder / img_filename
-                # SOLUCIÓN: Crear la subcarpeta contenedora (ej. publications/) si no existe
-                destination_img_path.parent.mkdir(parents=True, exist_ok=True)
+                # Extraer solo el nombre del archivo (ej. no_publica.webp) ignorando las subcarpetas de origen
+                pure_img_name = Path(img_filename).name
+                destination_img_path = sub_folder / pure_img_name
                 
                 shutil.copy(str(source_img_path), str(destination_img_path))
-                target_image = img_filename
+                target_image = pure_img_name
             elif default_card_img_path.exists():
                 shutil.copy(str(default_card_img_path), str(sub_folder / "no_img_GRIPIC.webp"))
                 target_image = "no_img_GRIPIC.webp"
