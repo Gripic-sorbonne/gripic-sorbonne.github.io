@@ -241,6 +241,11 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
                                     metadata_fields[clean_key] = int(val)
                                 except ValueError:
                                     pass
+                        elif clean_key in ['titre', 'title']:
+                            # Forzamos a que siempre se guarde como 'title' para que Gatsby lo renderice
+                            metadata_fields['title'] = val
+                            if not first_meta_val and val:
+                                first_meta_val = clean_folder_name(val)
                         else:
                             metadata_fields[clean_key] = val
                             if not first_meta_val and val:
