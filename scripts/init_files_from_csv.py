@@ -349,12 +349,73 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
     return md_page
 
 
+# def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_type: str):
+#     if not csv_file or not csv_file.exists():
+#         return
+
+#     prefix_name = "longcard" if "long" in card_type.lower() else "card"
+#     default_card_img_path = IMAGES_DIR / "no_img_gripic.webp"
+
+#     with open(csv_file, mode="r", encoding="utf-8") as f:
+#         reader = list(csv.DictReader(f, delimiter=";"))
+#         if not reader:
+#             return
+
+#         all_columns = list(reader[0].keys())
+
+#         for idx, row in enumerate(reader, start=1):
+#             metadata_fields = {}
+#             columns_to_show = []
+#             first_meta_val = ""
+#             img_filename = ""
+
+#             for col in all_columns:
+#                 val = row.get(col, "").strip()
+#                 if col.startswith('_'):
+#                     clean_key = col.lstrip('_').lower()
+#                     if clean_key in ['image', 'images', 'photo']:
+#                         img_filename = val
+#                     else:
+#                         metadata_fields[clean_key] = val
+#                         if not first_meta_val and val:
+#                             first_meta_val = clean_folder_name(val)
+#                 else:
+#                     columns_to_show.append(col)
+
+#             if first_meta_val:
+#                 folder_title_part = f"{idx:02d}_{first_meta_val}"
+#             else:
+#                 folder_title_part = f"{idx:02d}"
+
+#             sub_folder = target_dir / f"{prefix_name}_{folder_title_part}"
+#             sub_folder.mkdir(parents=True, exist_ok=True)
+
+#             target_image = "no_img_gripic.webp"
+#             source_img_path = IMAGES_DIR / img_filename if img_filename else None
+
+#             if img_filename and source_img_path and source_img_path.exists():
+#                 shutil.copy(str(source_img_path), str(sub_folder / img_filename))
+#                 target_image = img_filename
+#             elif default_card_img_path.exists():
+#                 shutil.copy(str(default_card_img_path), str(sub_folder / "no_img_gripic.webp"))
+#                 target_image = "no_img_gripic.webp"
+
+#             with (sub_folder / "index.md").open(mode="w", encoding="utf-8") as md_file:
+#                 md_file.write(generate_markdown_page_card(
+#                     row_dict=row,
+#                     image_filename=target_image,
+#                     columns_to_show=columns_to_show,
+#                     metadata_fields=metadata_fields
+#                 ))
+
 def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_type: str):
     if not csv_file or not csv_file.exists():
         return
 
     prefix_name = "longcard" if "long" in card_type.lower() else "card"
-    default_card_img_path = IMAGES_DIR / "no_img_gripic.webp"
+    
+    # Coincidencia exacta con el nombre de tu archivo en el tree (no_img_GRIPIC.webp)
+    default_card_img_path = IMAGES_DIR / "no_img_GRIPIC.webp"
 
     with open(csv_file, mode="r", encoding="utf-8") as f:
         reader = list(csv.DictReader(f, delimiter=";"))
@@ -390,15 +451,19 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
             sub_folder = target_dir / f"{prefix_name}_{folder_title_part}"
             sub_folder.mkdir(parents=True, exist_ok=True)
 
-            target_image = "no_img_gripic.webp"
+            target_image = "no_img_GRIPIC.webp"
             source_img_path = IMAGES_DIR / img_filename if img_filename else None
 
             if img_filename and source_img_path and source_img_path.exists():
-                shutil.copy(str(source_img_path), str(sub_folder / img_filename))
+                destination_img_path = sub_folder / img_filename
+                # SOLUCIÓN: Crear la subcarpeta contenedora (ej. publications/) si no existe
+                destination_img_path.parent.mkdir(parents=True, exist_ok=True)
+                
+                shutil.copy(str(source_img_path), str(destination_img_path))
                 target_image = img_filename
             elif default_card_img_path.exists():
-                shutil.copy(str(default_card_img_path), str(sub_folder / "no_img_gripic.webp"))
-                target_image = "no_img_gripic.webp"
+                shutil.copy(str(default_card_img_path), str(sub_folder / "no_img_GRIPIC.webp"))
+                target_image = "no_img_GRIPIC.webp"
 
             with (sub_folder / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_card(

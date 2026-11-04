@@ -1,8 +1,10 @@
 ---
-uuid: 3614cde6-3e13-4782-9c26-93e8775174b7
+uuid: a1d17f03-8d78-4710-abf8-4b604f3f72fa
 nombre: "fdsa"
-image: "no_img_gripic.webp"
+image: "no_img_GRIPIC.webp"
 ---
+
+<img src="./no_img_GRIPIC.webp" width="300px" />
 
 ## Prueba 2
 

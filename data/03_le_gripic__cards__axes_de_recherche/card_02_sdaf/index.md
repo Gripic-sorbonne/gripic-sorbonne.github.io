@@ -1,8 +1,10 @@
 ---
-uuid: 4a258c03-1b4c-4fdc-a0a6-042cac1cc0c1
+uuid: e4f2bf7c-534b-4fb9-b827-f001f6142a16
 nombre: "sdaf"
-image: "no_img_gripic.webp"
+image: "no_img_GRIPIC.webp"
 ---
+
+<img src="./no_img_GRIPIC.webp" width="300px" />
 
 ## Prueba 2
 

@@ -20,7 +20,7 @@ echo "3. Generating Markdown files from CSV..."
 cd "$REPO_ROOT/scripts"
 python init_files_from_csv.py
 
-sleep 2
+# sleep 2
 
 echo "4. Staging and committing primary changes..."
 cd "$REPO_ROOT"

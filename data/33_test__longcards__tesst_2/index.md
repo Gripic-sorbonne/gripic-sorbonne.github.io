@@ -1,5 +1,5 @@
 ---
-uuid: 9f91dbc0-721a-4e59-9023-5cd5b702501e
+uuid: d82e4d25-aaa2-4fbc-b6c5-30a9a334a9e0
 title: "Tesst 2"
 menuGroup: "test"
 image: "no_img_gripic.webp"
