@@ -1,5 +1,5 @@
 ---
-uuid: 37ec8b7d-545e-48ba-ba32-a362f4305fc9
+uuid: e84ca88c-41ef-4f53-b4e4-5d4440921431
 title: "Membres temporaires"
 menuGroup: "Léquipe"
 image: "no_img_gripic.webp"
