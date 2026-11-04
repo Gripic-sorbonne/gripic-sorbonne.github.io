@@ -1,9 +1,11 @@
 ---
-uuid: 27210e0d-9697-4c79-97bb-919705f65e07
+uuid: 918a386f-4a9d-4ece-bc17-1266fee3ac46
 title: "Qui sommes-nous ?"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
 ---
+# Qui sommes-nous ?
+
 Le GRIPIC réunit aujourd’hui une centaine de chercheurs et chercheuses : membres permanents (des enseignants-chercheurs et enseignantes-chercheuses ; des doctorants et doctorantes) ou associés (issus d’autres institutions). Au cœur des sciences de l’information et de la communication (71e section du Conseil national des universités), l’unité fédère des recherches autour de l’idée que les processus de communication sont structurés et structurants, et qu’il faut les analyser dans leurs dimensions sociales, sémiotiques, historiques et politiques. Son but est également de former à la recherche les jeunes chercheurs et chercheuses de l’École doctorale « Concepts et langages » (ED nº 433 ([https://lettres.sorbonne-universite.fr/ecoles-doctorales/concepts-et-langages](https://lettres.sorbonne-universite.fr/ecoles-doctorales/concepts-et-langages))) de Sorbonne Université qui y entreprennent leur recherche doctorale en sciences de l’information et de la communication.
 
 Les membres du GRIPIC travaillent dans le cadre de recherches individuelles et collectives, de contrats de recherche ou détudes avec des partenaires institutionnels publics ou privés. Engagés dans les instituts et les réseaux de Sorbonne Université, ils développent des travaux avec des collègues d’autres disciplines. Ils participent régulièrement à des colloques internationaux et interdisciplinaires, et y confrontent leurs points de vue avec leurs pairs. Par leurs publications et leurs partenariats avec des revues et des maisons d’édition, ils contribuent activement à l’avancée des sciences de l’information et de la communication. Par leurs liens avec les médias (interviews, réseaux sociaux, etc.), ils suscitent également l’intérêt pour la recherche savante et participent à la médiation des sciences.
