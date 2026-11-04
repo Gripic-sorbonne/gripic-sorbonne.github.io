@@ -1,5 +1,5 @@
 ---
-uuid: 62532927-2c2a-415f-9fc2-70fa0ff6478e
+uuid: acb4df24-bff8-4783-b436-40ec1188ce06
 title: "Toutes les productions scientifiques (archive hal)"
 menuGroup: "Publications"
 image: "no_img_gripic.webp"
