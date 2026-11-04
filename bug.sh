@@ -11,12 +11,9 @@ echo "1. Staging and committing primary changes..."
 cd "$REPO_ROOT"
 git add -A
 
-if git diff-index --quiet HEAD --; then
-    echo "No changes detected."
-else
-    COMMIT_MSG="${1:-bug}"
-    git commit --allow-empty -m "$COMMIT_MSG"
-fi
+
+COMMIT_MSG="${1:-bug}"
+git commit --allow-empty -m "$COMMIT_MSG"
 
 echo "5. Pushing changes to GitHub..."
 git push
