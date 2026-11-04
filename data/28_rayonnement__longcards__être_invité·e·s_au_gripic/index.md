@@ -1,5 +1,5 @@
 ---
-uuid: 8d1ea161-c25c-4e2a-ab0e-31d477bcab5c
+uuid: 15773fd0-5a65-4f65-9581-43df37a1f066
 title: "Être invité·e·s au gripic"
 menuGroup: "Rayonnement"
 image: "no_img_gripic.webp"

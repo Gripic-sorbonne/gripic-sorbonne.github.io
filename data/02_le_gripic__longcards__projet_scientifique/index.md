@@ -1,10 +1,10 @@
 ---
-uuid: 6cb47d9f-77e4-4e13-bfd2-43fc69ac3df2
+uuid: 7f4a76dd-944c-4b68-b621-75af9f2c3705
 title: "Projet scientifique"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
 ---
-Projet scientifique
+# Projet scientifique
 
 Le projet scientifique du GRIPIC est centré à la fois sur l’analyse des mutations contemporaines liées aux processus d’information et de communication et aux médiations, et sur une  approche interdisciplinaire qui favorise le pluralisme méthodologique et l’attention aux questions épistémologiques.
 

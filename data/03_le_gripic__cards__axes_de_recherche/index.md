@@ -1,7 +1,9 @@
 ---
-uuid: 7c731500-bf0d-4c1c-bbde-2235e2a9b66f
+uuid: 1c76b307-3810-4d98-9c53-84bae0348338
 title: "Axes de recherche"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
 ---
-content related to Axes de recherche
+# Axes de recherche
+
+Nos chercheuses et chercheurs peuvent apporter leur expertise sur de nombreux sujets comme la communication publique, politique et institutionnelle ; la consommation, la marque et la publicité ; les politiques et industries culturelles et les enjeux liés au patrimoine ; le journalisme, ses transformations et les enjeux liés aux processus d’information dans nos sociétés (*fakenews*, sciences et société, etc.) ; les médias, les pratiques numériques et les enjeux qui y sont liés (controverses et polémiques, désinformation, surveillance, etc.) ; ou encore le travail contemporain et les problématiques ayant trait aux ressources humaines.  Leurs travaux sont fédérés autour de **4 thématiques de recherche**.  * **Espace public, politique, genre :** controverses médiatiques ; communication publique ; communication politique (française et européenne) ; études sur le genre.  * **Savoirs, culture, patrimoines :** pratiques culturelles ; institutions culturelles et patrimoniales ; gastronomie ; industries culturelles et créatives (cinéma, édition…).  * **Journalisme, écritures médiatiques et numériques :** métiers, pratiques et enjeux du journalisme ; analyse des médias (TV, radio, presse) et du numérique (médias numériques, réseaux sociaux numérique, intelligence artificielle), communication et transition environnementale, emballement, controverse, fake news, rumeurs, conspirationnisme, théories de la surveillance, IA et journalisme, réseaux sociaux numériques.  * **Médiations marchandes, organisations :** marque, publicité, dépublicitarisation, marketing, communication des organisations (entreprises, institutions publiques, associations), management, communication de crise, communication stratégique, conseil en ressources humaines, RSE, stratégie et management des médias.
