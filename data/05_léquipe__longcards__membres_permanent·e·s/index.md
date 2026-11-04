@@ -1,5 +1,5 @@
 ---
-uuid: d6cb473d-3593-4fe1-a0ab-5fc0eff5265f
+uuid: 69819091-a5ed-4ea9-abb9-d47e5c731cff
 title: "Membres permanent·e·s"
 menuGroup: "Léquipe"
 image: "no_img_gripic.webp"

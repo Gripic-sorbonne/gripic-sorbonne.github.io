@@ -1,9 +1,29 @@
 ---
-uuid: 84384679-7464-4c6d-a4a0-ee61a7fa6891
+uuid: 722075f7-ba37-491f-b2c7-2cc9b54c88b7
 title: "Axes de recherche"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
 ---
 # Axes de recherche
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">   <div>     <strong>Espace public, politique, genre :</strong><br>     controverses médiatiques ; communication publique ; communication politique (française et européenne) ; études sur le genre.   </div>   <div>     <strong>Savoirs, culture, patrimoines :</strong><br>     pratiques culturelles ; institutions culturelles et patrimoniales ; gastronomie ; industries culturelles et créatives (cinéma, édition…).   </div>   <div>     <strong>Journalisme, écritures médiatiques et numériques :</strong><br>     métiers, pratiques et enjeux du journalisme ; analyse des médias (TV, radio, presse) et du numérique (médias numériques, réseaux sociaux numérique, intelligence artificielle), communication et transition environnementale, emballement, controverse, fake news, rumeurs, conspirationnisme, théories de la surveillance, IA et journalisme, réseaux sociaux numériques.   </div>   <div>     <strong>Médiations marchandes, organisations :</strong><br>     marque, publicité, dépublicitarisation, marketing, communication des organisations (entreprises, institutions publiques, associations), management, communication de crise, communication stratégique, conseil en ressources humaines, RSE, stratégie et management des médias.   </div> </div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <p>Nos chercheuses et chercheurs peuvent apporter leur expertise sur de nombreux sujets comme la communication publique, politique et institutionnelle ; la consommation, la marque et la publicité ; les politiques et industries culturelles et les enjeux liés au patrimoine ; le journalisme, ses transformations et les enjeux liés aux processus d’information dans nos sociétés (fakenews, sciences et société, etc.) ; les médias, les pratiques numériques et les enjeux qui y sont liés (controverses et polémiques, désinformation, surveillance, etc.) ; ou encore le travail contemporain et les problématiques ayant trait aux ressources humaines.</p>
+    <p>Leurs travaux sont fédérés autour de <strong>4 thématiques de recherche</strong>.</p>
+  </div>
+  <div></div>
+
+  <div>
+    <p><strong>Espace public, politique, genre :</strong><br>controverses médiatiques ; communication publique ; communication politique (française et européenne) ; études sur le genre.</p>
+  </div>
+  <div>
+    <p><strong>Savoirs, culture, patrimoines :</strong><br>pratiques culturelles ; institutions culturelles et patrimoniales ; gastronomie ; industries culturelles et créatives (cinéma, édition…).</p>
+  </div>
+
+  <div>
+    <p><strong>Journalisme, écritures médiatiques et numériques :</strong><br>métiers, pratiques et enjeux du journalisme ; analyse des médias (TV, radio, presse) et du numérique (médias numériques, réseaux sociaux numérique, intelligence artificielle), communication et transition environnementale, emballement, controverse, fake news, rumeurs, conspirationnisme, théories de la surveillance, IA et journalisme, réseaux sociaux numériques.</p>
+  </div>
+  <div>
+    <p><strong>Médiations marchandes, organisations :</strong><br>marque, publicité, dépublicitarisation, marketing, communication des organisations (entreprises, institutions publiques, associations), management, communication de crise, communication stratégique, conseil en ressources humaines, RSE, stratégie et management des médias.</p>
+  </div>
+</div>

@@ -1,5 +1,5 @@
 ---
-uuid: d33d973f-3b78-405a-83d1-e98ce38a7e8c
+uuid: bdd84f93-1ad6-4b27-a042-fedd578bba71
 title: "Échanges internationaux"
 menuGroup: "Léquipe"
 image: "no_img_gripic.webp"
