@@ -1,5 +1,5 @@
 ---
-uuid: 419147b0-fd35-45d8-8cb6-ef86345a662d
+uuid: d1716492-396b-480f-8aac-e192a4ea7a63
 title: "Appels à communication en cours"
 menuGroup: "Activité scientifique"
 image: "no_img_gripic.webp"
