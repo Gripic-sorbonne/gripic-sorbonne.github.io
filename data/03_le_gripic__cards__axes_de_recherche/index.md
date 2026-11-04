@@ -1,5 +1,5 @@
 ---
-uuid: b89fbe49-224e-40e8-97e9-b0c87a52e4aa
+uuid: 5ad736ed-02cd-4c43-ba95-bc402e19d5a7
 title: "Axes de recherche"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"

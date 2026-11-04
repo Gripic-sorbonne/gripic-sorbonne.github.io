@@ -1,5 +1,5 @@
 ---
-uuid: 3bf521e0-f4a7-4d85-975e-e15e08337d66
+uuid: a0f233b4-ddf2-4e67-a694-23786bcf8e2d
 title: "What about us?"
 menuGroup: "Rayonnement"
 image: "no_img_gripic.webp"
