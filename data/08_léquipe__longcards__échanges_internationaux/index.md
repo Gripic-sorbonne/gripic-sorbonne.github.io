@@ -1,7 +1,7 @@
 ---
-uuid: a87b6c92-9d0a-4fe1-bbee-a2dd539644cc
+uuid: 4d284cc5-7256-4d9a-a73f-509e7ed66ed7
 title: "Échanges internationaux"
 menuGroup: "Léquipe"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Échanges internationaux

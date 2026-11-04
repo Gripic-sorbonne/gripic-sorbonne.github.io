@@ -1,7 +1,7 @@
 ---
-uuid: 89a7bb59-265d-444e-9729-ab88fa7b9beb
+uuid: 0627d1ef-4dd3-4bdc-b576-df63868257c4
 title: "Toutes les productions scientifiques (archive hal)"
 menuGroup: "Publications"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Toutes les productions scientifiques

@@ -1,7 +1,7 @@
 ---
-uuid: 847ed821-257f-4275-b3c0-e0d0f96e8a2b
+uuid: 84271226-ec1a-4d81-ac50-7b292a46e1a0
 title: "Membres associé·e·s"
 menuGroup: "Léquipe"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Membres associé·e·s

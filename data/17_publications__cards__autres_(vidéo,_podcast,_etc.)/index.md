@@ -1,7 +1,7 @@
 ---
-uuid: 0d8cb818-9383-4e76-a810-da07e4983321
+uuid: 4ce4f10c-9608-4156-88a1-ab738aa6120a
 title: "Autres (vidéo, podcast, etc.)"
 menuGroup: "Publications"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Autres

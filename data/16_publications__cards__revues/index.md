@@ -1,7 +1,7 @@
 ---
-uuid: 662f6707-847a-4f7c-b0ae-37bd8fe53f0e
+uuid: 56db1680-87a0-41df-b1b1-abef34ac9efd
 title: "Revues"
 menuGroup: "Publications"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Revues

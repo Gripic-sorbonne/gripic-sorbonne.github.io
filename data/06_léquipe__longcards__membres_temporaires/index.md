@@ -1,7 +1,7 @@
 ---
-uuid: 9d9f6e27-393f-4095-8d1e-bcf12f50af61
+uuid: 4b3b1067-755a-4913-a728-6469e5b31e10
 title: "Membres temporaires"
 menuGroup: "Léquipe"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Membres temporaires

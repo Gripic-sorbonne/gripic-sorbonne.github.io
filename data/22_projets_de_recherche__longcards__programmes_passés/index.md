@@ -1,7 +1,7 @@
 ---
-uuid: bea01fc4-f66b-48a7-b2da-18681cc10467
+uuid: 1edeff15-ad05-4d63-b0cd-bdeda88175d1
 title: "Programmes passés"
 menuGroup: "Projets de recherche"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Programmes passés : parapluie

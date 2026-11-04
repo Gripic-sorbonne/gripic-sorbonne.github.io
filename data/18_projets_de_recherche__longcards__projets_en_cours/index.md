@@ -1,7 +1,7 @@
 ---
-uuid: dc9d9afa-d78c-48a0-a8cd-851afccff28e
+uuid: 831cb0f7-d805-4cac-9e3e-9e74a51d157b
 title: "Projets en cours"
 menuGroup: "Projets de recherche"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Projets en cours

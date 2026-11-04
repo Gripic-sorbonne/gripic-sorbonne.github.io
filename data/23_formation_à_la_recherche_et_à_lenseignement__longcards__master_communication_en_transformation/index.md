@@ -1,7 +1,7 @@
 ---
-uuid: 582ab5e9-c4f4-4201-8d95-8b6e64d2b632
+uuid: 9e12f91f-8beb-4138-8e81-90d5fdbbd613
 title: "Master \"communication en transformation\""
 menuGroup: "Formation à la recherche et à lenseignement"
-image: "no_event.webp"
+image: "no_img_gripic.webp"
 ---
 content related to Master Communication en transformation

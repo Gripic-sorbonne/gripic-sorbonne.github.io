@@ -39,9 +39,32 @@ def convert_excel_to_csvs():
 
     print(f"Excel sheets detected: {xls.sheet_names}")
 
+    # 1. Extraer los nombres de los submenús válidos desde la pestaña 'categories'
+    valid_submenus = set()
+    if 'categories' in xls.sheet_names:
+        cat_df = pd.read_excel(xls, sheet_name='categories', dtype=str)
+        nom_col = next((col for col in cat_df.columns if col.lower() == 'nom'), None)
+        if nom_col:
+            valid_submenus = set(cat_df[nom_col].dropna().str.strip().str.lower())
+
+    # Pestañas del sistema que siempre deben procesarse obligatoriamente
+    system_sheets = {'categories', 'calendar'}
+
     for sheet_name in xls.sheet_names:
+        sheet_lower = sheet_name.strip().lower()
+
+        # Filtrar: solo procesar si es del sistema o su nombre coincide con un submenú válido
+        if sheet_lower not in system_sheets and sheet_lower not in valid_submenus:
+            print(f"Ignorando la pestaña '{sheet_name}' (no coincide con ningún submenú de categories).")
+            continue
+
         # 1. Read cells while preserving text types
         df = pd.read_excel(xls, sheet_name=sheet_name, dtype=str)
+
+        # IGORAR Y ELIMINAR COLUMNAS SIN TITULO (Sin encabezado en fila 1)
+        unnamed_cols = [col for col in df.columns if str(col).startswith('Unnamed: ') or str(col).strip() == '']
+        if unnamed_cols:
+            df = df.drop(columns=unnamed_cols)
 
         # 2. Remove accidentally added rows that are completely empty
         df = df.dropna(how='all')
