@@ -1,5 +1,5 @@
 ---
-uuid: c9549feb-cac8-4eb4-8bf3-46e8e6426425
+uuid: 8f35e2bc-2cd7-4b94-bd86-186a4a2fc7fe
 title: "Réseaux et expertises"
 menuGroup: "Rayonnement"
 image: "no_img_gripic.webp"
