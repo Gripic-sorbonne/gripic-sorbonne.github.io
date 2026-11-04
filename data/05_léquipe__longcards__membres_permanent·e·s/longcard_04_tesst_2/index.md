@@ -1,9 +1,10 @@
 ---
-uuid: 5be6d53c-145e-4927-91d4-5cde912d9079
+uuid: 0512fb2c-ca34-48fb-8839-ec89b99cb033
 title: "Tesst 2"
 abstract: "Test 2"
 date: ""
 year: ""
+priority: 2
 image: "no_img_GRIPIC.webp"
 ---
 
