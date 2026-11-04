@@ -1,5 +1,5 @@
 ---
-uuid: 8bdce161-3491-4825-aba1-ef28da0c7f3a
+uuid: 0ee490c1-861d-49bc-860a-72ea072cf062
 title: "Chercheur·e·s invités"
 menuGroup: "Léquipe"
 image: "no_img_gripic.webp"
