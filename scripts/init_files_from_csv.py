@@ -10,7 +10,11 @@ import unicodedata
 DATA_DIR: Path = Path("../") / "data" 
 IMAGES_DIR: Path = Path("./inputs/images")
 
-IGNORE_EVENT_COLUMNS = ["Sequentiel",]
+# Incluimos variantes con y sin tilde para evitar que columnas técnicas aparezcan en el contenido
+IGNORE_EVENT_COLUMNS = ["Sequentiel", "Séquentiel", "Contact"]
+
+# Variable global protegida para los eventos
+EVENT_DIR = None
 
 
 def clean_folder_name(name: str) -> str:
@@ -50,10 +54,15 @@ def find_matching_csv(submenu_name: str, inputs_dir: Path) -> Path:
     return None
 
 
-def csv_to_markdown_events(csv_file: str):
+def csv_to_markdown_events(csv_file: str, main_header: str = "Titre", author_header: str = "Organisateur(s)", abstract_header: str = "Descriptif", photo_header: str = "Photo"):
     global EVENT_DIR
     if not os.path.exists(csv_file):
         return
+    
+    # SALVAVIDAS: Si EVENT_DIR no fue asignado por categories.csv, lo creamos por defecto
+    if EVENT_DIR is None or not isinstance(EVENT_DIR, Path):
+        EVENT_DIR = DATA_DIR / "04_activite_scientifique__cards__evenements"
+        EVENT_DIR.mkdir(parents=True, exist_ok=True)
     
     events_img_dir = IMAGES_DIR / "events"
     default_event_img = events_img_dir / "no_event.webp"
@@ -65,97 +74,67 @@ def csv_to_markdown_events(csv_file: str):
             if not date_raw:
                 continue
             
-            # Normalizar fecha si viene en formato DD/MM/YYYY o YYYY-MM-DD
+            # Normalizar fecha DD/MM/YYYY a YYYY-MM-DD
+            date_str = date_raw
             if '/' in date_raw:
                 parts = date_raw.split('/')
                 if len(parts) == 3:
                     d, m, y = parts
                     date_str = f'{y}-{m}-{d}'
-                else:
-                    date_str = date_raw
-            else:
-                date_str = date_raw
 
             year = date_str.split("-")[0] if "-" in date_str else "Unknown"
-
-            # Buscar título
-            title_raw = get_field(row, "Titre", "_titre", "Title", "_title")
+            
+            title_raw = get_field(row, main_header, "Titre", "_titre", "Title", "_title")
             if not title_raw:
                 continue
 
-            title_clean = clean_folder_name(title_raw)
-            folder_name = f"{date_str}_{title_clean}"
+            title: str = clean_folder_name(title_raw)
+            folder_name = f"{date_str}_{title}"
             event_subdir: Path = EVENT_DIR / folder_name
             event_subdir.mkdir(parents=True, exist_ok=True)
 
-            # Extraer metadatos y columnas de contenido
-            metadata_fields = {
-                "uuid": str(uuid.uuid4()),
-                "title": title_raw,
-                "date": date_str,
-                "year": year,
-                "event": True
-            }
-            
-            columns_to_show = []
-            img_filename = ""
-
-            for col, val in row.items():
-                val_clean = val.strip() if val else ""
-                if col.startswith('_'):
-                    clean_key = col.lstrip('_').lower()
-                    if clean_key in ['image', 'images', 'photo']:
-                        img_filename = val_clean
-                    elif clean_key in ['titre', 'title']:
-                        metadata_fields['title'] = val_clean
-                    elif clean_key == 'author' or clean_key == 'organisateur(s)':
-                        metadata_fields['author'] = val_clean
-                    elif clean_key in ['abstract', 'descriptif']:
-                        metadata_fields['abstract'] = val_clean
-                    elif clean_key == 'priority':
-                        try:
-                            metadata_fields['priority'] = int(val_clean)
-                        except ValueError:
-                            pass
-                    else:
-                        metadata_fields[clean_key] = val_clean
-                else:
-                    if col.lower() not in ['date', 'titre', 'title']:
-                        columns_to_show.append(col)
-
-            # Manejo de imágenes para eventos
+            img_filename = get_field(row, photo_header, "image", "photo", default="")
             target_image = "no_event.webp"
-            source_img_path = events_img_dir / img_filename if img_filename else None
 
-            if img_filename and source_img_path and source_img_path.exists():
+            source_img_path = events_img_dir / img_filename
+            default_path = events_img_dir / "no_event.webp"
+
+            if img_filename and source_img_path.exists():
                 pure_img_name = Path(img_filename).name
                 shutil.copy(str(source_img_path), str(event_subdir / pure_img_name))
                 target_image = pure_img_name
-            elif default_event_img.exists():
-                shutil.copy(str(default_event_img), str(event_subdir / "no_event.webp"))
+            elif default_path.exists():
+                shutil.copy(str(default_path), str(event_subdir / 'no_event.webp'))
                 target_image = "no_event.webp"
 
-            # Construir el archivo Markdown del evento
-            header = "---\n"
-            for meta_key, meta_val in metadata_fields.items():
-                if isinstance(meta_val, bool):
-                    header += f"{meta_key}: {str(meta_val).lower()}\n"
-                elif isinstance(meta_val, int):
-                    header += f"{meta_key}: {meta_val}\n"
-                else:
-                    clean_val = str(meta_val).replace('"', '\\"').replace('\n', ' ')
-                    header += f"{meta_key}: \"{clean_val}\"\n"
+            # Extraer campos principales con flexibilidad
+            author = get_field(row, author_header, "Organisateur(s)", "_author")
+            abstract = get_field(row, abstract_header, "Descriptif", "_abstract")
             
-            header += f'image: "{target_image}"\n'
-            header += "---\n\n"
+            clean_title = title_raw.replace('"', '\\"').replace('\n', ' ')
+            clean_author = author.replace('"', '\\"').replace('\n', ' ')
+            clean_abstract = abstract.replace('"', '\\"').replace('\n', ' ')
 
+            # Construir Frontmatter YAML asegurando event: true
+            header = (f"---\n" +
+                      f"uuid: {uuid.uuid4()}\n" +
+                      f"title: \"{clean_title}\"\n" +
+                      f"author: \"{clean_author}\"\n" +
+                      f"date: \"{date_str}\"\n" +
+                      f"year: \"{year}\"\n" +
+                      f"event: true\n")
+            if target_image:
+                header += f"image: \"{target_image}\"\n"
+            header += (f"abstract: \"{clean_abstract}\"\n" +
+                       f"---\n\n")
+            
             md_page = header
             if target_image and target_image != "no_event.webp":
                 md_page += f'<img src="./{target_image}" width="300px" />\n\n'
 
-            for key in columns_to_show:
-                val = row.get(key, "")
-                if val != "" and not key.startswith('_') and key not in IGNORE_EVENT_COLUMNS:
+            # Volcar el resto de columnas como secciones Markdown
+            for key, val in row.items():
+                if val != "" and not key.startswith('_') and key not in IGNORE_EVENT_COLUMNS and normalize_text(key) not in [normalize_text(k) for k in ['date', 'titre', 'title', 'organisateur(s)', 'descriptif', 'photo', 'image']]:
                     md_page += f"## {key}\n\n {val}\n\n"
 
             with (event_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
@@ -325,14 +304,15 @@ def csv_to_markdown_categories(csv_file_categories):
             folder_name = f"{prefix}_{group_clean}__{type_}__{clean_name}"
             folder_path = DATA_DIR / folder_name
 
-            is_event_folder = "événements" in folder_name.lower()
-            if is_event_folder:
+            # Detección ultra robusta sin importar tildes ni mayúsculas
+            norm_fn = normalize_text(folder_name)
+            if "evenement" in norm_fn or "agenda" in norm_fn or "calendrier" in norm_fn:
                 EVENT_DIR = folder_path
 
             folder_path.mkdir(exist_ok=True, parents=True)
 
             target_image = "no_img_gripic.webp"
-            if is_event_folder and default_event_img.exists():
+            if EVENT_DIR and folder_path == EVENT_DIR and default_event_img.exists():
                 shutil.copy(str(default_event_img), str(folder_path / "no_event.webp"))
                 target_image = "no_event.webp"
             elif default_general_img.exists():
@@ -365,4 +345,4 @@ if os.path.exists(csv_file_categories):
 if os.path.exists(csv_file_event):
     csv_to_markdown_events(csv_file_event)
 
-print("Folders and Markdown files created successfully with correct default images mapping.")
+print("Folders and Markdown files created successfully with robust events handling.")
