@@ -1,5 +1,5 @@
 ---
-uuid: 71ac2a2e-e2a6-4b82-b900-4949f23785b7
+uuid: dbb78be0-b8f9-4133-b485-b29250bf05df
 title: "Partenariats et participations internes à sorbonne université"
 menuGroup: "Projets de recherche"
 image: "no_img_gripic.webp"

@@ -37,6 +37,6 @@ else
 fi
 
 echo "5. Pushing changes to GitHub..."
-git push
+# git push
 
 echo "pipeline done!"
