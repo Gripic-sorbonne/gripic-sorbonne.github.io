@@ -1,5 +1,5 @@
 ---
-uuid: 6c08d0aa-425d-4952-a57e-28df38a541e5
+uuid: 673f97c4-bc32-48b5-b5f0-c445c0d26782
 title: "Revues"
 menuGroup: "Publications"
 image: "no_img_gripic.webp"
