@@ -35,7 +35,7 @@ def convert_excel_to_csvs():
 
     print(f"Excel sheets detected: {xls.sheet_names}")
 
-    # 1. Mapeo de nombres normalizados/cortados hacia el nombre oficial completo
+    # 1. Mapeo completo de nombres desde la hoja 'categories'
     categories_map = {}
     if 'categories' in xls.sheet_names:
         cat_df = pd.read_excel(xls, sheet_name='categories', dtype=str)
@@ -44,14 +44,7 @@ def convert_excel_to_csvs():
             for val in cat_df[nom_col].dropna():
                 full_name = str(val).strip()
                 clean_full = full_name.lower()
-                
-                # Mapeamos nombre completo exacto
                 categories_map[clean_full] = full_name
-                
-                # Mapeamos la base sin paréntesis o truncated
-                base_name = clean_full.split('(')[0].strip()
-                if base_name and base_name not in categories_map:
-                    categories_map[base_name] = full_name
 
     system_sheets = {'categories', 'calendar'}
 
@@ -60,18 +53,24 @@ def convert_excel_to_csvs():
         sheet_lower = sheet_clean.lower()
         sheet_base = sheet_lower.split('(')[0].strip()
 
-        # Determinar el nombre oficial final del CSV
         target_name = sheet_clean
         matched = False
 
         if sheet_lower in system_sheets:
             matched = True
-        elif sheet_lower in categories_map:
-            target_name = categories_map[sheet_lower]
-            matched = True
-        elif sheet_base in categories_map:
-            target_name = categories_map[sheet_base]
-            matched = True
+        else:
+            # Búsqueda flexible tolerante al corte de 31 caracteres de Excel
+            for cat_clean, full_name in categories_map.items():
+                if (
+                    sheet_lower == cat_clean 
+                    or sheet_base == cat_clean 
+                    or cat_clean.startswith(sheet_lower) 
+                    or sheet_lower.startswith(cat_clean[:min(len(cat_clean), 31)])
+                    or cat_clean.startswith(sheet_base)
+                ):
+                    target_name = full_name
+                    matched = True
+                    break
 
         if not matched:
             print(f"Ignoring sheet '{sheet_name}' (does not match any submenu in categories).")
@@ -107,7 +106,7 @@ def convert_excel_to_csvs():
         elif 'nom' in df.columns:
             df = df[df['nom'] != '']
 
-        # Usar el nombre completo restaurado para el CSV
+        # Usar el nombre oficial completo restaurado para el CSV
         csv_filename = f"{target_name}.csv"
         csv_path = os.path.join(OUTPUT_DIR, csv_filename)
 
