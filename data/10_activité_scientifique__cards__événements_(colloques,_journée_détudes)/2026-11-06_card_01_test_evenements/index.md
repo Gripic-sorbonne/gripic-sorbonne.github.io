@@ -1,5 +1,5 @@
 ---
-uuid: 3e2ac3ec-59ad-4273-a776-6f71dd93f79d
+uuid: 55e76a32-8ef2-46c7-b512-1b9cb9f8126b
 title: "test evenements"
 author: "sorbonne"
 date: "2026-11-06"

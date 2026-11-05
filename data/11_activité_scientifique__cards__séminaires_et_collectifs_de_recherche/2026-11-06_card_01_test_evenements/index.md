@@ -1,5 +1,5 @@
 ---
-uuid: 36c57829-7841-470b-b937-51b4bb15b739
+uuid: fca83187-4018-49e3-9564-3935f9fd52ff
 title: "test evenements"
 author: "sorbonne"
 date: "2026-11-06"
@@ -11,7 +11,7 @@ title.1: "test Seminaires"
 author.1: "Sorbonne 2"
 date.1: "2026/11/07"
 year.1: "2026"
-abstract.1: "this is a test"
+abstract.1: "this is a test in seminaries"
 description.1: "this is a test 2"
 image.1: ""
 event.1: "True"
@@ -19,4 +19,10 @@ image: "no_event.webp"
 ---
 
 <img src="./no_event.webp" width="300px" />
+
+## content
+
+ # titre in markdown
+
+Info about evenement
 
