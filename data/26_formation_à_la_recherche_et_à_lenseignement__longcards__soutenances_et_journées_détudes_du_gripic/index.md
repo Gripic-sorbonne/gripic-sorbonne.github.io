@@ -1,5 +1,5 @@
 ---
-uuid: 0df719bd-15ee-4fad-83f5-81de7d70712a
+uuid: 71e6424a-49f8-48fd-b60d-b89c0515bc10
 title: "Soutenances et journées détudes du gripic"
 menuGroup: "Formation à la recherche et à lenseignement"
 image: "no_img_gripic.webp"

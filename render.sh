@@ -12,7 +12,7 @@ cd "$REPO_ROOT"
 git add -A
 
 
-COMMIT_MSG="${1:-bug}"
+COMMIT_MSG="${1:-render}"
 git commit --allow-empty -m "$COMMIT_MSG"
 
 echo "5. Pushing changes to GitHub..."
