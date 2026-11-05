@@ -1,8 +1,8 @@
 ---
-uuid: f97e998e-22a9-4bd3-bb1c-1d598339fc84
+uuid: 31f10ec5-206c-4662-ba7e-60d10814fdb6
 title: "test"
 author: "sorbonne"
-date: "06/11/2026"
+date: "06-11-2026"
 year: "2026"
 abstract: "this is a test"
 description: "this is a test 2"

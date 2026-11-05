@@ -403,6 +403,40 @@ def find_matching_csv(submenu_name: str, inputs_dir: Path) -> Path:
     return None
 
 
+# def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_show: list, metadata_fields: dict):
+#     header = f"---\nuuid: {uuid.uuid4()}\n"
+    
+#     for meta_key, meta_val in metadata_fields.items():
+#         if meta_key == 'tags':
+#             tags_list = [t.strip() for t in str(meta_val).replace(',', ' ').split() if t.strip()]
+#             formatted_tags = "[" + ", ".join([f'"{t}"' for t in tags_list]) + "]"
+#             header += f"{meta_key}: {formatted_tags}\n"
+#         elif meta_key == 'priority':
+#             header += f"{meta_key}: {meta_val}\n"
+#         elif meta_key == 'event':
+#             # Forzar que 'event' sea booleano real (true/false sin comillas) para Gatsby
+#             val_bool = str(meta_val).strip().lower() in ['true', '1', 'yes', 'si', 't']
+#             header += f"{meta_key}: {str(val_bool).lower()}\n"
+#         else:
+#             clean_meta_val = str(meta_val).replace('"', '\\"').replace('\n', ' ')
+#             header += f"{meta_key}: \"{clean_meta_val}\"\n"
+
+#     if image_filename:
+#         header += f'image: "{image_filename}"\n'
+    
+#     header += f"---\n\n"
+#     md_page = header
+
+#     if image_filename and image_filename != "no_img_gripic.webp":
+#         md_page += f'<img src="./{image_filename}" width="300px" />\n\n'
+
+#     for key in columns_to_show:
+#         val = row_dict.get(key, "")
+#         if val != "" and not key.startswith('_'):
+#             md_page += f"## {key}\n\n {val}\n\n"
+
+#     return md_page
+
 def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_show: list, metadata_fields: dict):
     header = f"---\nuuid: {uuid.uuid4()}\n"
     
@@ -414,9 +448,13 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
         elif meta_key == 'priority':
             header += f"{meta_key}: {meta_val}\n"
         elif meta_key == 'event':
-            # Forzar que 'event' sea booleano real (true/false sin comillas) para Gatsby
+            # Forzar que 'event' sea booleano puro (true/false SIN comillas) para Gatsby
             val_bool = str(meta_val).strip().lower() in ['true', '1', 'yes', 'si', 't']
             header += f"{meta_key}: {str(val_bool).lower()}\n"
+        elif meta_key == 'date':
+            # Asegurar formato ISO YYYY-MM-DD con guiones
+            clean_date = str(meta_val).strip().replace('/', '-')
+            header += f"{meta_key}: \"{clean_date}\"\n"
         else:
             clean_meta_val = str(meta_val).replace('"', '\\"').replace('\n', ' ')
             header += f"{meta_key}: \"{clean_meta_val}\"\n"
