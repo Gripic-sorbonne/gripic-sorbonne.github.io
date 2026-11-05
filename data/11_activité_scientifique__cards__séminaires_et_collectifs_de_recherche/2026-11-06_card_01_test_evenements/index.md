@@ -1,5 +1,5 @@
 ---
-uuid: 37d862a1-6f61-4fb3-a845-089a1000100a
+uuid: f877669b-5717-41e9-8833-0c1ef1706648
 date: "2026-11-06"
 year: "2026"
 title: "test Seminaires"

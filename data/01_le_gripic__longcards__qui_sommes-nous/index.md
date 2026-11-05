@@ -1,5 +1,5 @@
 ---
-uuid: 34af95f4-a68d-4973-87f5-ab928ed3c69e
+uuid: 9308b425-8985-46bf-9b1e-a442d04843eb
 title: "Qui sommes-nous ?"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"

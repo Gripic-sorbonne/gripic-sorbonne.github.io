@@ -1,2 +1,2 @@
-_title;_author;_date;_year;_abstract;_description;_image;_event
-test evenements;sorbonne;2026/11/06;2026;this is a test  in events;this is a test 2;events/no_event.webp;True
+_title;_author;_date;_year;_abstract;_description;_image;_event;pas metadone
+test evenements;sorbonne;2026/11/06;2026;this is a test  in events;this is a test 2;events/no_event.webp;True;
