@@ -1,5 +1,5 @@
 ---
-uuid: e5952e95-0e9a-4a81-bd7e-01150b4a5023
+uuid: 0e714a0e-6e40-434c-b8e3-2f26cc36250a
 title: "Ouvrages"
 menuGroup: "Publications"
 image: "no_img_gripic.webp"
