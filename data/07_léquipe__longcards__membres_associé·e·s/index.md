@@ -1,5 +1,5 @@
 ---
-uuid: b5122407-66ec-4e7a-b7f3-e7300b022980
+uuid: b17ec799-edba-4273-a702-a6406f831222
 title: "Membres associé·e·s"
 menuGroup: "Léquipe"
 image: "no_img_gripic.webp"

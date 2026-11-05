@@ -1,5 +1,5 @@
 ---
-uuid: f819ca26-76ec-43fd-8b44-90b4d1a7b45f
+uuid: 017e22e7-45fb-4c54-aa09-56009a4e57ee
 title: "Collaborations européennes et internationales"
 menuGroup: "Rayonnement"
 image: "no_img_gripic.webp"
