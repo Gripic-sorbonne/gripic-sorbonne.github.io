@@ -1,5 +1,5 @@
 ---
-uuid: 35f58acf-c270-44ef-9ab8-92be4feeec79
+uuid: b57f8ab5-49a9-4d72-a328-89779a2b945f
 title: "Nelly Quemener"
 abstract: "Professeure des universités  Membre permanent en enseignement et recherche"
 date: ""
