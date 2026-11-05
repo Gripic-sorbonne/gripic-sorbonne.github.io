@@ -1,2 +1,2 @@
-﻿_Titre;_Date;_Organisateur;_abstract;_descriptif;_image;_event
-test;05/11/2026;sorbonne;test abstract;this is a test;;True
+﻿title;author;date;year;event;image;event.1
+test;sorbonne;06/11/2026;2026;this is a test;;True
