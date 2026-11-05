@@ -1,20 +1,11 @@
 ---
-uuid: fca83187-4018-49e3-9564-3935f9fd52ff
-title: "test evenements"
-author: "sorbonne"
+uuid: 37d862a1-6f61-4fb3-a845-089a1000100a
 date: "2026-11-06"
 year: "2026"
-abstract: "this is a test"
-description: "this is a test 2"
+title: "test Seminaires"
+author: "Sorbonne 2"
+abstract: "this is a test 2"
 event: true
-title.1: "test Seminaires"
-author.1: "Sorbonne 2"
-date.1: "2026/11/07"
-year.1: "2026"
-abstract.1: "this is a test in seminaries"
-description.1: "this is a test 2"
-image.1: ""
-event.1: "True"
 image: "no_event.webp"
 ---
 

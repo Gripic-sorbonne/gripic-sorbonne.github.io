@@ -42,10 +42,31 @@ def find_matching_csv(submenu_name: str, inputs_dir: Path) -> Path:
     return None
 
 
+def parse_date_string(val: str) -> str:
+    """Convierte cualquier formato de fecha de forma robusta a YYYY-MM-DD"""
+    if not val:
+        return ""
+    val_clean = str(val).strip().replace('/', '-')
+    parts = val_clean.split('-')
+    if len(parts) == 3:
+        if len(parts[0]) == 2:  # DD-MM-YYYY
+            d, m, y = parts
+            return f"{y}-{m}-{d}"
+        else:  # YYYY-MM-DD
+            y, m, d = parts
+            return f"{y}-{m}-{d}"
+    return val_clean
+
+
 def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_show: list, metadata_fields: dict):
     header = f"---\nuuid: {uuid.uuid4()}\n"
     
+    unique_meta = {}
     for meta_key, meta_val in metadata_fields.items():
+        if meta_val is not None and str(meta_val).strip() != "":
+            unique_meta[meta_key] = meta_val
+
+    for meta_key, meta_val in unique_meta.items():
         if meta_key == 'tags':
             tags_list = [t.strip() for t in str(meta_val).replace(',', ' ').split() if t.strip()]
             formatted_tags = "[" + ", ".join([f'"{t}"' for t in tags_list]) + "]"
@@ -56,8 +77,7 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
             val_bool = str(meta_val).strip().lower() in ['true', '1', 'yes', 'si', 't']
             header += f"{meta_key}: {str(val_bool).lower()}\n"
         elif meta_key == 'date':
-            clean_date = str(meta_val).strip().replace('/', '-')
-            header += f"{meta_key}: \"{clean_date}\"\n"
+            header += f"{meta_key}: \"{meta_val}\"\n"
         else:
             clean_meta_val = str(meta_val).replace('"', '\\"').replace('\n', ' ')
             header += f"{meta_key}: \"{clean_meta_val}\"\n"
@@ -91,7 +111,15 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
         if not reader:
             return
 
-        all_columns = list(reader[0].keys())
+        raw_columns = list(reader[0].keys())
+        all_columns = []
+        seen_cols = set()
+        for col in raw_columns:
+            cleaned_col = col.strip()
+            if cleaned_col and cleaned_col not in seen_cols:
+                seen_cols.add(cleaned_col)
+                all_columns.append(cleaned_col)
+
         indexed_rows = list(enumerate(reader))
 
         def sort_key(item):
@@ -135,49 +163,56 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
             img_filename = ""
             date_str = ""
 
+            # 1. Búsqueda directa y prioritaria de la fecha real en la fila
+            for col in all_columns:
+                clean_col_lower = col.lstrip('_').lower()
+                clean_col_lower = re.sub(r'\.\d+$', '', clean_col_lower)
+                if clean_col_lower == 'date':
+                    raw_val = row.get(col, "").strip()
+                    if raw_val:
+                        parsed = parse_date_string(raw_val)
+                        if parsed:
+                            date_str = parsed
+                            break
+
+            if date_str:
+                metadata_fields['date'] = date_str
+                metadata_fields['year'] = date_str[:4]
+
+            # 2. Recorrido general de columnas para el resto de metadatos
             for col in all_columns:
                 val = row.get(col, "").strip()
-                clean_col = col.lstrip('_').lower()
+                if not val:
+                    continue
                 
-                if clean_col in ['image', 'images', 'photo']:
-                    if val:
-                        img_filename = val
-                elif clean_col in ['date']:
-                    if val:
-                        d_val = val.replace('/', '-')
-                        parts = d_val.split('-')
-                        if len(parts) == 3:
-                            if len(parts[0]) == 2:  # DD-MM-YYYY
-                                d, m, y = parts
-                                date_str = f"{y}-{m}-{d}"
-                            else:  # YYYY-MM-DD
-                                y, m, d = parts
-                                date_str = f"{y}-{m}-{d}"
-                        else:
-                            date_str = val
-                        metadata_fields['date'] = date_str
-                        if 'year' not in metadata_fields and len(date_str) >= 4:
-                            metadata_fields['year'] = date_str[:4]
-                elif clean_col in ['year']:
-                    if val:
+                clean_col = col.lstrip('_').lower()
+                base_clean_col = re.sub(r'\.\d+$', '', clean_col)
+                
+                if base_clean_col in ['image', 'images', 'photo']:
+                    img_filename = val
+                elif base_clean_col in ['date', 'year', 'event']:
+                    if base_clean_col == 'year' and 'year' not in metadata_fields:
                         metadata_fields['year'] = val
-                elif clean_col in ['event']:
-                    if val:
+                    elif base_clean_col == 'event':
                         metadata_fields['event'] = val
+                    continue
+                elif base_clean_col in ['title', 'titre']:
+                    metadata_fields['title'] = val
+                    if not first_meta_val:
+                        first_meta_val = clean_folder_name(val)
+                elif base_clean_col in ['author', 'organisateur(s)', 'organisateurs']:
+                    metadata_fields['author'] = val
+                elif base_clean_col in ['abstract', 'descriptif', 'description']:
+                    metadata_fields['abstract'] = val
                 elif col.startswith('_'):
-                    if clean_col == 'priority':
-                        if val:
-                            try:
-                                metadata_fields[clean_col] = int(val)
-                            except ValueError:
-                                pass
-                    elif clean_col in ['titre', 'title']:
-                        metadata_fields['title'] = val
-                        if not first_meta_val and val:
-                            first_meta_val = clean_folder_name(val)
+                    if base_clean_col == 'priority':
+                        try:
+                            metadata_fields[base_clean_col] = int(val)
+                        except ValueError:
+                            pass
                     else:
-                        metadata_fields[clean_col] = val
-                        if not first_meta_val and val:
+                        metadata_fields[base_clean_col] = val
+                        if not first_meta_val:
                             first_meta_val = clean_folder_name(val)
                 else:
                     columns_to_show.append(col)
@@ -187,7 +222,6 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
             else:
                 folder_title_part = f"{idx:02d}"
 
-            # CLAVE: Anteponer la fecha al nombre de la carpeta para que gatsby-node.js asigne fields.date
             if date_str:
                 folder_name = f"{date_str}_{prefix_name}_{folder_title_part}"
             else:
@@ -271,4 +305,4 @@ csv_file_categories = "./inputs/categories.csv"
 if os.path.exists(csv_file_categories):
     csv_to_markdown_categories(csv_file_categories)
 
-print("Folders and Markdown files created successfully with date prefixing for Gatsby.")
+print("Folders and Markdown files created successfully with accurate dates.")

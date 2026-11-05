@@ -1,5 +1,5 @@
 ---
-uuid: e9d77194-93e4-47ed-968f-8bf268fcc234
+uuid: ca61c524-6c49-4400-a4d1-3358d46a600e
 title: "Valérie Jeanne-Perrier"
 abstract: "Professeure des universités  Membre permanent en enseignement et recherche"
 priority: 1
