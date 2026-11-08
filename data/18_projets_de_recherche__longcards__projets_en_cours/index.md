@@ -1,5 +1,5 @@
 ---
-uuid: 09d7fe63-3092-434f-bb77-f937f5a7d1e7
+uuid: 77af71d7-75d7-445c-9b3e-eeed61239308
 title: "Projets en cours"
 menuGroup: "Projets de recherche"
 image: "no_img_gripic.webp"
