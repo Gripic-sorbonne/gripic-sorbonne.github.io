@@ -1,2 +1,10 @@
-pipieline desde excel 
-miembros destacados en cada pagina de miembros
+orden de accion:
+
+Entender codigo de site generator
+en init definir la ruta de imagenes
+solucionar bug con fechas en la creacion de markdowns 
+definir metadatos y clasificarlos segun uso
+asegurrme de que sitegenerator usa bien estos metadatos
+
+
+lista de metaatos: image prettyname date event year titre author abtract 

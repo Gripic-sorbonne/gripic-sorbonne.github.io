@@ -1,5 +1,5 @@
 ---
-uuid: f4aaee1f-a1fb-47a7-9f27-56287c946243
+uuid: 410a1bc4-6347-405e-8450-5695d9597564
 date: "2026-11-06"
 year: "2026"
 title: "test evenements"

@@ -1,8 +1,9 @@
 ---
-uuid: fdc73cf6-2aa7-4a66-ac5b-f0c5473be315
+uuid: 3e9d1f5b-acbd-4537-91c2-6ed1d0688162
 title: "Nelly Quemener"
 abstract: "Professeure des universités  Membre permanent en enseignement et recherche"
 priority: 1
+prettyname: "test_prettyname"
 image: "Nelly_Quemener.jpg"
 ---
 
