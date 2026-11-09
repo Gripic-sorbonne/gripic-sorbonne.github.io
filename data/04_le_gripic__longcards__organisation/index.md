@@ -1,5 +1,5 @@
 ---
-uuid: a5d06b40-54c7-4d8d-97ab-ebac9f8a97e2
+uuid: ee3b7479-264b-4604-a376-f77dd7af6f98
 title: "Organisation"
 menuGroup: "Le GRIPIC"
 image: "no_img_gripic.webp"
@@ -10,7 +10,7 @@ L’unité est administrée par trois instances : la direction, le conseil d’�
 
 * **La direction.** — La direction et la direction adjointe sont élues par l’ensemble des membres permanents de l’unité pour la durée du contrat quinquennal. Parmi ses missions, elle met en œuvre la politique de recherche définie par le GRIPIC.
 
-* **Le conseil d’équipe.** — Le conseil se compose de représentants des enseignants-chercheurs et enseignantes-chercheuses, de représentants des membres en formation doctorale, et de membres de droit ou invités, et se réunit régulièrement. Il statue sur les demandes de financement des membres, sur l’organisation des manifestations scientifiques, sur ladmission de nouveaux membres. etc. Il fixe également les orientations scientifiques, projets de recherche, et participe aux bilans de l’unité le moment opportun.
+* **Le conseil d’équipe.** — Le conseil se compose de représentants des enseignants-chercheurs et enseignantes-chercheuses, de représentants des membres en formation doctorale, et de membres de droit ou invités, et se réunit régulièrement. Il statue sur les demandes de financement des membres, sur l’organisation des manifestations scientifiques, sur l'admission de nouveaux membres. etc. Il fixe également les orientations scientifiques, projets de recherche, et participe aux bilans de l’unité le moment opportun.
 
 * **L’assemblée générale** est composée de l’ensemble des membres du GRIPIC. Elle est réunie au moins une fois par an à l’initiative de la direction. Elle informe et débat de tous les points concernant les orientations, le fonctionnement et la vie de l’équipe. Son avis est consultatif.
 

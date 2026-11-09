@@ -6,5 +6,23 @@ solucionar bug con fechas en la creacion de markdowns
 definir metadatos y clasificarlos segun uso
 asegurrme de que sitegenerator usa bien estos metadatos
 
+Metadatos del sistema
 
-lista de metaatos: image prettyname date event year titre author abtract 
+ Estructurales:uuid (Identificador único y estable)
+ 
+ prettyName (URL amigable opcional)   
+ 
+ title (o titre traducido por Python)
+ 
+ image (Ruta o nombre de la imagen gestionada por Gatsby)
+ 
+ 
+ Metadatos de Contenido y Clasificación:
+ 
+ date (Fecha estandarizada)
+ paging (El nuevo campo genérico para agrupar y crear subpáginas de archivo)
+ event (Booleano para control de eventos/calendario)
+ author / authors
+ abstract / description
+ priority (Para orden manual en listas)
+ tags (Array de etiquetas)

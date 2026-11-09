@@ -6,7 +6,6 @@ import shutil
 import uuid
 import unicodedata
 
-# Directorios principales
 DATA_DIR: Path = Path("../") / "data" 
 IMAGES_DIR: Path = Path("./inputs/images")
 
@@ -15,6 +14,7 @@ EVENT_DIR = None
 
 
 def clean_folder_name(name: str) -> str:
+    """Removes invalid characters and replaces whitespace with underscores."""
     invalid_chars = r'<>:[]+"/\\|?«»*'
     cleaned_name = re.sub(f"[{re.escape(invalid_chars)}]", " ", name)
     cleaned_name = re.sub(r"\s+", "_", cleaned_name.strip())
@@ -23,6 +23,7 @@ def clean_folder_name(name: str) -> str:
 
 
 def normalize_text(s: str) -> str:
+    """Normalizes text by removing accents and non-alphanumeric characters."""
     if not s:
         return ""
     s = unicodedata.normalize('NFD', s)
@@ -31,6 +32,7 @@ def normalize_text(s: str) -> str:
 
 
 def find_matching_csv(submenu_name: str, inputs_dir: Path) -> Path:
+    """Finds the corresponding CSV file for a given submenu name."""
     target_norm = normalize_text(submenu_name)
     if not inputs_dir.exists():
         return None
@@ -43,7 +45,7 @@ def find_matching_csv(submenu_name: str, inputs_dir: Path) -> Path:
 
 
 def parse_date_string(val: str) -> str:
-    """Convierte cualquier formato de fecha de forma robusta a YYYY-MM-DD"""
+    """Robustly converts any date format string to YYYY-MM-DD."""
     if not val:
         return ""
     val_clean = str(val).strip().replace('/', '-')
@@ -59,6 +61,7 @@ def parse_date_string(val: str) -> str:
 
 
 def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_show: list, metadata_fields: dict):
+    """Generates the Markdown page content with Frontmatter metadata and clean section body."""
     header = f"---\nuuid: {uuid.uuid4()}\n"
     
     unique_meta = {}
@@ -88,9 +91,7 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
     header += f"---\n\n"
     md_page = header
 
-    if image_filename and image_filename != "no_img_gripic.webp":
-        md_page += f'<img src="./{image_filename}" width="300px" />\n\n'
-
+    # Append standard non-metadata content sections
     for key in columns_to_show:
         val = row_dict.get(key, "")
         if val != "" and not key.startswith('_'):
@@ -100,6 +101,7 @@ def generate_markdown_page_card(row_dict: dict, image_filename: str, columns_to_
 
 
 def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_type: str):
+    """Reads a section CSV file and generates individual Markdown folders/files."""
     if not csv_file or not csv_file.exists():
         return
 
@@ -142,7 +144,7 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
                     break
             if not sort_str:
                 for col in row.keys():
-                    if col.startswith('_') and col.strip().lower() not in ['_priority', 'priority', '_image', '_images', '_photo', '_event']:
+                    if col.startswith('_') and col.strip().lower() not in ['_priority', 'priority', '_image', '_event']:
                         val = row.get(col, '').strip()
                         if val:
                             sort_str = val
@@ -163,7 +165,7 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
             img_filename = ""
             date_str = ""
 
-            # 1. Búsqueda directa y prioritaria de la fecha real en la fila
+            # 1. Primary date extraction across row columns
             for col in all_columns:
                 clean_col_lower = col.lstrip('_').lower()
                 clean_col_lower = re.sub(r'\.\d+$', '', clean_col_lower)
@@ -179,7 +181,7 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
                 metadata_fields['date'] = date_str
                 metadata_fields['year'] = date_str[:4]
 
-            # 2. Recorrido general de columnas para el resto de metadatos
+            # 2. Process all columns into Frontmatter or Markdown body
             for col in all_columns:
                 val = row.get(col, "").strip()
                 if not val:
@@ -188,22 +190,22 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
                 clean_col = col.lstrip('_').lower()
                 base_clean_col = re.sub(r'\.\d+$', '', clean_col)
                 
-                if base_clean_col in ['image', 'images', 'photo']:
+                # Strict image metadata mapping (only 'image' is reserved for image processing)
+                if base_clean_col == 'image':
                     img_filename = val
+                # Date, year, and event metadata handling
                 elif base_clean_col in ['date', 'year', 'event']:
                     if base_clean_col == 'year' and 'year' not in metadata_fields:
                         metadata_fields['year'] = val
                     elif base_clean_col == 'event':
                         metadata_fields['event'] = val
                     continue
+                # Mapping French 'titre' to generic 'title' metadata
                 elif base_clean_col in ['title', 'titre']:
                     metadata_fields['title'] = val
                     if not first_meta_val:
                         first_meta_val = clean_folder_name(val)
-                elif base_clean_col in ['author', 'organisateur(s)', 'organisateurs']:
-                    metadata_fields['author'] = val
-                elif base_clean_col in ['abstract', 'descriptif', 'description']:
-                    metadata_fields['abstract'] = val
+                # Universal metadata extraction for any column starting with '_'
                 elif col.startswith('_'):
                     if base_clean_col == 'priority':
                         try:
@@ -252,6 +254,7 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
 
 
 def csv_to_markdown_categories(csv_file_categories):
+    """Processes categories.csv and creates root section folders and index files."""
     default_general_img = IMAGES_DIR / "no_img_gripic.webp"
     default_event_img = IMAGES_DIR / "events" / "no_event.webp"
     inputs_dir = Path("./inputs")
