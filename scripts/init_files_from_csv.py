@@ -179,7 +179,6 @@ def csv_to_markdown_cards_or_longcards(csv_file: Path, target_dir: Path, card_ty
 
             if date_str:
                 metadata_fields['date'] = date_str
-                metadata_fields['year'] = date_str[:4]
 
             # 2. Process all columns into Frontmatter or Markdown body
             for col in all_columns:

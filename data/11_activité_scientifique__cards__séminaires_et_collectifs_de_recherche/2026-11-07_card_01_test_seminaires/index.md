@@ -1,7 +1,6 @@
 ---
-uuid: 47e0f61a-d30e-467e-888f-d13794a285a3
+uuid: ca435c65-e943-4888-b55e-3608b655658f
 date: "2026-11-07"
-year: "2026"
 title: "test Seminaires"
 author: "Sorbonne 2"
 abstract: "this is a test in seminaries"
