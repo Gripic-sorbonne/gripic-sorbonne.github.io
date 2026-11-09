@@ -1,5 +1,5 @@
 ---
-uuid: 8c5178e3-3eb8-4ddb-a8f5-23b74a82b764
+uuid: 8ddbc28d-dbdf-41c4-bcf1-021f36d23be3
 image: "no_img_GRIPIC.webp"
 ---
 

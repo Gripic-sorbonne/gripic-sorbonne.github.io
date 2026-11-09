@@ -1,5 +1,5 @@
 ---
-uuid: e1f8a5f1-f55f-4807-93f7-793a387366bd
+uuid: 25b9410e-343c-487f-8288-089a8b8caf8a
 title: "Colabs"
 menuGroup: "Rayonnement"
 image: "no_img_gripic.webp"
