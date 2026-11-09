@@ -1,5 +1,5 @@
 ---
-uuid: da38e81b-6793-44e7-96e8-4cde92047203
+uuid: fae9cea1-99ef-4c26-8ce8-a8eabfd6a42c
 title: "Événements (colloques, journée d'études)"
 menuGroup: "Activité scientifique"
 image: "no_event.webp"
