@@ -1,5 +1,5 @@
 ---
-uuid: 653d58bf-d799-40e9-a7f6-9bc34f68fdbc
+uuid: 7d9d3e93-b901-4063-92d6-b5eb5684d4bf
 title: "Master \"communication en transformation\""
 menuGroup: "Formation à la recherche et à l'enseignement"
 image: "no_img_gripic.webp"
