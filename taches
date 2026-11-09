@@ -10,7 +10,7 @@ Metadatos del sistema
 
  Estructurales:uuid (Identificador único y estable)
  
- prettyName (URL amigable opcional)   
+ prettyname (URL amigable opcional)   
  
  title (o titre traducido por Python)
  
