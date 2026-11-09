@@ -1,5 +1,5 @@
 ---
-uuid: 808a536c-2584-4718-bcb8-fff17b0a2509
+uuid: 70569d86-b48c-4910-a350-142a143c8845
 date: "2026-11-07"
 title: "test Seminaires"
 author: "Sorbonne 2"
